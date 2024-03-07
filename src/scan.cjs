@@ -11,28 +11,45 @@ const urls = fs
     encoding: "utf-8"
   })
   .split("\n")
-  .filter(x => x);
+  .map(x => x.trim())
+  .filter(x => x.startsWith("http"));
 
 /**
- * @param {string} url
+ * @param {string} target
  * @returns {Promise<string>}
  */
-const getScript = url => {
+const getScript = target => {
   return new Promise((resolve, reject) => {
-    const client = url.startsWith("https") ? https : http;
+    const client = target.startsWith("https") ? https : http;
 
     client
-      .get(url, resp => {
+      .get(target, resp => {
         let data = "";
         resp.on("data", chunk => {
           data += chunk;
         });
         resp.on("end", () => {
+          if (resp.statusCode !== 200) {
+            const error = {
+              statusCode: resp.statusCode,
+              statusMessage: resp.statusMessage,
+              location: resp.headers.location
+            };
+            if (!error.location) {
+              delete error.location;
+            }
+
+            reject({
+              target,
+              error
+            });
+          }
+
           resolve(data);
         });
       })
-      .on("error", err => {
-        reject(err);
+      .on("error", error => {
+        reject({ target, error });
       });
   });
 };
@@ -55,14 +72,14 @@ const processUrls = async () => {
 
           return {
             target,
-            scripts,
             statewideAlerts: scripts.includes("https://alert.cdt.ca.gov/"),
             stateTemplate,
             JQuery
           };
         })
         .catch(err => {
-          console.error(err);
+          //console.error(err);
+          return err;
         })
     )
   );
