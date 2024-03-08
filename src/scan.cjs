@@ -23,6 +23,7 @@ const urls = [
 const total = urls.length;
 let remaining = total;
 console.log(`Processing ${total} urls...`);
+console.time("Done");
 
 /**
  *
@@ -113,7 +114,6 @@ const processUrls = async () => {
 (async () => {
   await processUrls();
 
-  console.log(`done.`);
-
+  console.timeEnd("Done");
   process.exit();
 })();
