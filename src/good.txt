@@ -30,7 +30,6 @@ https://bawa.ca.gov/
 https://bbs.ca.gov/
 https://bcdc.ca.gov/
 https://bcsh.ca.gov/
-https://bcw.post.ca.gov/
 https://beacon.ca.gov/
 https://beta.calcareers.ca.gov/
 https://bhc.ca.gov/
@@ -60,7 +59,6 @@ https://bvwd.ca.gov/
 https://c2c.ca.gov/
 https://cab.ca.gov/
 https://cacgn.ca.gov/
-https://cachampionsforchange.cdph.ca.gov/
 https://calable.ca.gov/
 https://calcareers.ca.gov/
 https://calccrc.ca.gov/
@@ -69,11 +67,11 @@ https://calcompetes.ca.gov/
 https://calepa.ca.gov/
 https://calepa.sites.ca.gov/
 https://caleprocure.ca.gov/
+https://calfreshhealthyliving.cdph.ca.gov/
 https://calfreshhealthyliving.staging.cdph.ca.gov/
 https://calgenetic.cdph.ca.gov/
 https://calguard.ca.gov/
 https://californiansforall.ca.gov/
-https://californiatourism.ca.gov/
 https://californiaunited.ca.gov/
 https://caljobs.ca.gov/
 https://calnet.ca.gov/
@@ -165,7 +163,6 @@ https://cwc.ca.gov/
 https://cwdb.ca.gov/
 https://cwds.ca.gov/
 https://cww.water.ca.gov/
-https://danielmeixner-devops-github-azure-cdt-q7p5w7vp297rq-3000.githubpreview.dev/
 https://danville.ca.gov/
 https://data.ca.gov/
 https://data.debtwatch.treasurer.ca.gov/
@@ -206,16 +203,13 @@ https://ebudget.ca.gov/
 https://ecos.ca.gov/
 https://edd.ca.gov/
 https://eddservices.edd.ca.gov/
-https://edi2.post.ca.gov/
 https://edlapp.dmv.ca.gov/
-https://efile.boe.ca.gov/
 https://efiling.dir.ca.gov/
 https://efilingprep.dir.ca.gov/
 https://eitc.ca.gov/
 https://emsa.ca.gov/
 https://energysafety.ca.gov/
 https://eocs.dre.ca.gov/
-https://epanet.ca.gov/
 https://escog.ca.gov/
 https://etp.ca.gov/
 https://ets.cdpr.ca.gov/
@@ -255,13 +249,11 @@ https://hcrc.ca.gov/
 https://healthcareportal.cdph.ca.gov/
 https://healthcarevolunteers.ca.gov/
 https://healthexchange.ca.gov/
-https://healthhelp.ca.gov/
 https://heber.ca.gov/
 https://heliplates.dot.ca.gov/
 https://hellosavings.ca.gov/
 https://heritageranchcsd.ca.gov/
 https://highlandsrec.ca.gov/
-https://hmohelp.ca.gov/
 https://hollister.ca.gov/
 https://housing.ca.gov/
 https://hrnet.calhr.ca.gov/
@@ -320,8 +312,9 @@ https://monocounty.ca.gov/
 https://morganhill.ca.gov/
 https://mrca.ca.gov/
 https://mtc.ca.gov/
-https://mycalpers.ca.gov/
+https://my.calpers.ca.gov/
 https://mycusd.capousd.org/
+https://myedd.edd.ca.gov/
 https://myturn.ca.gov/
 https://myvaccinerecord.cdph.ca.gov/
 https://mywaterquality.ca.gov/
@@ -345,6 +338,7 @@ https://ohv.parks.ca.gov/
 https://ojai.ca.gov/
 https://olsip.apps.dgs.ca.gov/
 https://ombc.ca.gov/
+https://onlineservices.cdtfa.ca.gov/
 https://opc.ca.gov/
 https://opr.ca.gov/
 https://optometry.ca.gov/
@@ -359,6 +353,7 @@ https://p1blsr.dot.ca.gov/
 https://pab.ca.gov/
 https://parentage.dcss.ca.gov/
 https://pass.cdcr.ca.gov/
+https://pass.post.ca.gov/
 https://pent.ca.gov/
 https://perb.ca.gov/
 https://pestboard.ca.gov/
@@ -366,7 +361,6 @@ https://pharmacy.ca.gov/
 https://piedmont.ca.gov/
 https://piercesdisease.cdfa.ca.gov/
 https://pioneercommunityenergy.org/
-https://placer.ca.gov/
 https://pmbc.ca.gov/
 https://pointarena.ca.gov/
 https://polb.com/
@@ -499,7 +493,6 @@ https://uat.ceqanet.opr.ca.gov/
 https://uat.myturn.ca.gov/
 https://uatcams.technology.ca.gov/
 https://ucpi.sco.ca.gov/
-https://uio.edd.ca.gov/
 https://uma.technology.ca.gov/
 https://unemployment.edd.ca.gov/
 https://unionsanitary.ca.gov/
@@ -622,6 +615,7 @@ https://www.dgsapps.dgs.ca.gov/
 https://www.dhbc.ca.gov/
 https://www.dhcs.ca.gov/
 https://www.dir.ca.gov/
+https://www.dmhc.ca.gov/
 https://www.dmv.ca.gov/
 https://www.dor.ca.gov/
 https://www.dre.ca.gov/
@@ -676,6 +670,7 @@ https://www.p65warnings.ca.gov/
 https://www.parks.ca.gov/
 https://www.paumavalleycsd.ca.gov/
 https://www.pestboard.ca.gov/
+https://www.placer.ca.gov/
 https://www.pmbc.ca.gov/
 https://www.pmweb-tst.dgs.ca.gov/
 https://www.portsanluis.com/
