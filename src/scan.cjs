@@ -27,7 +27,7 @@ console.log(`Processing ${total} urls...`);
 /**
  *
  * @param {JSDOM} dom
- * @param {String} target
+ * @param {string} target
  */
 const processDom = (dom, target) => {
   const scripts = [...dom.window.document.scripts]
@@ -64,9 +64,9 @@ class CustomResourceLoader extends ResourceLoader {
 
 //This will hide processing errors
 const virtualConsole = new VirtualConsole();
-virtualConsole.on("jsdomError", e => {
-  //console.error("something", e);
-});
+//virtualConsole.on("jsdomError", e => {
+//console.error("something", e);
+//});
 
 // Process the results (e.g., extract JavaScript links)
 const processUrls = async () => {
