@@ -39,7 +39,7 @@ const processDom = (dom, target) => {
     .map(x => new URL(x, target).href);
 
   const code = [...doc.scripts].map(x => `${x.text};${x.src}`).join(";");
-  const GA = /GTM-\w{7}|G-\w{10}|UA-\d{7,8}-\d{1,2}/gm;
+  const GA = /GTM-\w{7}|G-\w{10}|UA-\d{7,8}-\d{1,2}/gim;
   const GoogleAnalytics = [...new Set(code.match(GA))].sort();
 
   return {
