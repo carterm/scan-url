@@ -12,6 +12,7 @@ const urls = [
       })
       .split("\n")
       .map(x => x.trim())
+      .filter(x => x)
       .filter(x => !x.startsWith("//")) //remove comments
       .map(x => (x.includes("/") ? x : `${x}/`))
       .map(x => (x.startsWith("http") ? x : `https://${x}`))
@@ -24,9 +25,10 @@ console.log(`Processing ${urls.length} urls...`);
 const processUrls = async () => {
   const results = await Promise.all(
     urls.map(target =>
-      JSDOM.fromURL(target)
+      JSDOM.fromURL(target, {
+        beforeParse: () => console.log(`${target}...parsing`)
+      })
         .then(dom => {
-          console.log(`${target}...reading`);
           const scripts = [...dom.window.document.scripts]
             .map(x => x.src)
             .filter(x => x)
@@ -45,7 +47,10 @@ const processUrls = async () => {
         .catch(error => {
           // console.error(target, error);
           console.log(`${target}...error.`);
-          return { target, error: { message: error.message } };
+          return {
+            target,
+            error: { message: error.message, code: error.code }
+          };
         })
         .finally(() => {
           console.log(`${target}...done.`);
