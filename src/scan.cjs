@@ -108,7 +108,7 @@ const processUrls = async () => {
   const jsonResults = JSON.stringify(results, null, 2);
   // Write jsonResults to a file (use fs module)
 
-  fs.writeFileSync("results.json", jsonResults);
+  fs.writeFileSync("_results/results.json", jsonResults);
 };
 (async () => {
   await processUrls();
