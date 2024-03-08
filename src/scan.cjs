@@ -5,6 +5,18 @@ const { JSDOM, VirtualConsole, ResourceLoader } = require("jsdom");
 const { URL } = require("node:url");
 const requestTimeout = 5000;
 
+/*
+const data = require("../_results/all results.json");
+
+fs.writeFileSync(
+  "_results/good.txt",
+  data
+    .filter(x => !x.error)
+    .map(x => x.target)
+    .join("\n")
+);
+*/
+
 const urls = [
   ...new Set(
     fs
@@ -99,7 +111,7 @@ const processUrls = async () => {
         .finally(() => {
           remaining--;
           console.log(
-            `${target}...done. ${remaining} remain (${((100 * (total - remaining)) / total).toFixed(0)}%).`
+            `${target} ...done. ${remaining} remain (${((100 * (total - remaining)) / total).toFixed(0)}%).`
           );
         })
     )
