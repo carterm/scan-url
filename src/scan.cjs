@@ -3,6 +3,7 @@
 const fs = require("node:fs");
 const { JSDOM } = require("jsdom");
 const { URL } = require("node:url");
+const requestTimeout = 10000;
 
 const urls = [
   ...new Set(
@@ -21,29 +22,46 @@ const urls = [
 
 console.log(`Processing ${urls.length} urls...`);
 
+/**
+ *
+ * @param {JSDOM} dom
+ * @param {String} target
+ */
+const processDom = (dom, target) => {
+  const scripts = [...dom.window.document.scripts]
+    .map(x => x.src)
+    .filter(x => x)
+    .map(x => new URL(x, target).href);
+
+  const stateTemplate = scripts.find(x => x.includes("cagov.core"));
+  const JQuery = scripts.find(x => x.includes("jquery"));
+
+  return {
+    target,
+    statewideAlerts: scripts.includes("https://alert.cdt.ca.gov/"),
+    stateTemplate,
+    JQuery
+  };
+};
+
 // Process the results (e.g., extract JavaScript links)
 const processUrls = async () => {
   const results = await Promise.all(
     urls.map(target =>
-      JSDOM.fromURL(target, {
-        beforeParse: () => console.log(`${target}...parsing`)
-      })
-        .then(dom => {
-          const scripts = [...dom.window.document.scripts]
-            .map(x => x.src)
-            .filter(x => x)
-            .map(x => new URL(x, target).href);
-
-          const stateTemplate = scripts.find(x => x.includes("cagov.core"));
-          const JQuery = scripts.find(x => x.includes("jquery"));
-
-          return {
-            target,
-            statewideAlerts: scripts.includes("https://alert.cdt.ca.gov/"),
-            stateTemplate,
-            JQuery
-          };
-        })
+      Promise.race([
+        new Promise((_resolve, reject) => {
+          setTimeout(() => {
+            reject(
+              new Error(
+                `Timeout: Request took longer than ${requestTimeout} ms.`
+              )
+            );
+          }, requestTimeout);
+        }),
+        JSDOM.fromURL(target, {
+          beforeParse: () => console.log(`${target}...parsing`)
+        }).then(dom => processDom(dom, target))
+      ])
         .catch(error => {
           // console.error(target, error);
           console.log(`${target}...error.`);
