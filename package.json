@@ -15,6 +15,7 @@
   "license": "MIT",
   "scripts": {
     "start": "node src/scan.cjs",
+    "report": "node src/report.cjs",
     "GIT cleanup": "git clean -fd"
   },
   "private": true,
