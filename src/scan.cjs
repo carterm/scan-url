@@ -53,7 +53,7 @@ const processDom = (dom, target) => {
 
   return {
     target,
-    statewideAlerts: scripts.includes("https://alert.cdt.ca.gov/"),
+    statewideAlerts: scripts.find(x => x.includes("alert.cdt.ca.gov")),
     stateTemplate,
     JQuery
   };
