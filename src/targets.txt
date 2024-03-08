@@ -4,3 +4,5 @@ https://example.com
 // comment
 https://www.ca.gov/
 https://template.webstandards.ca.gov/oops/
+access.ca.gov
+template.webstandards.ca.gov/download-and-setup.html
