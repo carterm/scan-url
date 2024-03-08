@@ -48,14 +48,14 @@ const processDom = (dom, target) => {
     .filter(x => x)
     .map(x => new URL(x, target).href);
 
-  const stateTemplate = scripts.find(x => x.includes("cagov.core"));
-  const JQuery = scripts.find(x => x.includes("jquery"));
-
   return {
     target,
     statewideAlerts: scripts.find(x => x.includes("alert.cdt.ca.gov")),
-    stateTemplate,
-    JQuery
+    stateTemplat: scripts.find(x => x.includes("cagov.core")),
+    JQuery: scripts.find(x => x.includes("jquery")),
+    generator: /** @type {HTMLMetaElement} */ (
+      dom.window.document.head.querySelector("meta[name=generator i]")
+    )?.content
   };
 };
 
