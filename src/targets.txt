@@ -6,3 +6,13 @@ https://www.ca.gov/
 https://template.webstandards.ca.gov/oops/
 access.ca.gov
 template.webstandards.ca.gov/download-and-setup.html
+ 
+// 404 test
+template.webstandards.ca.gov/kjdrnbjrekbn
+ 
+// timeout test
+help4pg.ca.gov
+hsr-dev.hsr.ca.gov
+
+//bad CSS
+cdt.ca.gov

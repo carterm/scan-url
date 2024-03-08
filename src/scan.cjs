@@ -1,9 +1,9 @@
 //@ts-check
 
 const fs = require("node:fs");
-const { JSDOM } = require("jsdom");
+const { JSDOM, VirtualConsole, ResourceLoader } = require("jsdom");
 const { URL } = require("node:url");
-const requestTimeout = 10000;
+const requestTimeout = 5000;
 
 const urls = [
   ...new Set(
@@ -20,7 +20,9 @@ const urls = [
   )
 ].sort();
 
-console.log(`Processing ${urls.length} urls...`);
+const total = urls.length;
+let remaining = total;
+console.log(`Processing ${total} urls...`);
 
 /**
  *
@@ -44,6 +46,28 @@ const processDom = (dom, target) => {
   };
 };
 
+class CustomResourceLoader extends ResourceLoader {
+  /**
+   *
+   * @param {string} url
+   * @param {import("jsdom").FetchOptions} options
+   * @returns
+   */
+  fetch(url, options) {
+    if (options.referrer) {
+      // Ignore externals
+      return null;
+    }
+    return super.fetch(url, options);
+  }
+}
+
+//This will hide processing errors
+const virtualConsole = new VirtualConsole();
+virtualConsole.on("jsdomError", e => {
+  //console.error("something", e);
+});
+
 // Process the results (e.g., extract JavaScript links)
 const processUrls = async () => {
   const results = await Promise.all(
@@ -59,19 +83,23 @@ const processUrls = async () => {
           }, requestTimeout);
         }),
         JSDOM.fromURL(target, {
-          beforeParse: () => console.log(`${target}...parsing`)
+          resources: new CustomResourceLoader(),
+          virtualConsole
         }).then(dom => processDom(dom, target))
       ])
         .catch(error => {
           // console.error(target, error);
-          console.log(`${target}...error.`);
+          //console.log(`${target}...error.`);
           return {
             target,
             error: { message: error.message, code: error.code }
           };
         })
         .finally(() => {
-          console.log(`${target}...done.`);
+          remaining--;
+          console.log(
+            `${target}...done. ${remaining} remain (${((100 * (total - remaining)) / total).toFixed(0)}%).`
+          );
         })
     )
   );
@@ -86,4 +114,6 @@ const processUrls = async () => {
   await processUrls();
 
   console.log(`done.`);
+
+  process.exit();
 })();
