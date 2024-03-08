@@ -67,7 +67,6 @@ class CustomResourceLoader extends ResourceLoader {
    *
    * @param {string} url
    * @param {import("jsdom").FetchOptions} options
-   * @returns
    */
   fetch(url, options) {
     if (options.referrer) {
