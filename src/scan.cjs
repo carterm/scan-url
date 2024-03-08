@@ -38,6 +38,10 @@ const processDom = (dom, target) => {
     .filter(x => x)
     .map(x => new URL(x, target).href);
 
+  const code = [...doc.scripts].map(x => `${x.text};${x.src}`).join(";");
+  const GA = /GTM-\w{7}|G-\w{10}|UA-\d{7,8}-\d{1,2}/gm;
+  const GoogleAnalytics = [...new Set(code.match(GA))].sort();
+
   return {
     target,
     redirectURL: doc.URL !== target ? doc.URL : undefined,
@@ -46,7 +50,8 @@ const processDom = (dom, target) => {
     )?.content,
     statewideAlerts: scripts.find(x => x.includes("alert.cdt.ca.gov")),
     stateTemplate: scripts.find(x => x.includes("cagov.core")),
-    JQuery: scripts.find(x => x.includes("jquery"))
+    JQuery: scripts.find(x => x.includes("jquery")),
+    GoogleAnalytics: GoogleAnalytics.length ? GoogleAnalytics : undefined
   };
 };
 
