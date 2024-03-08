@@ -71,6 +71,7 @@ class CustomResourceLoader extends ResourceLoader {
   fetch(url, options) {
     if (options.referrer) {
       // Ignore externals
+      // console.log(`skipping - ${url}`);
       return null;
     }
     return super.fetch(url, options);
@@ -98,6 +99,8 @@ const processUrls = async () => {
           }, requestTimeout);
         }),
         JSDOM.fromURL(target, {
+          //runScripts: "dangerously",
+          //pretendToBeVisual: true,
           resources: new CustomResourceLoader(),
           virtualConsole
         }).then(dom => processDom(dom, target))
