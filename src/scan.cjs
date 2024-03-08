@@ -5,18 +5,6 @@ const { JSDOM, VirtualConsole, ResourceLoader } = require("jsdom");
 const { URL } = require("node:url");
 const requestTimeout = 5000;
 
-/*
-const data = require("../_results/all results.json");
-
-fs.writeFileSync(
-  "_results/good.txt",
-  data
-    .filter(x => !x.error)
-    .map(x => x.target)
-    .join("\n")
-);
-*/
-
 const urls = [
   ...new Set(
     fs
@@ -57,7 +45,7 @@ const processDom = (dom, target) => {
       doc.head.querySelector("meta[name=generator i]")
     )?.content,
     statewideAlerts: scripts.find(x => x.includes("alert.cdt.ca.gov")),
-    stateTemplat: scripts.find(x => x.includes("cagov.core")),
+    stateTemplate: scripts.find(x => x.includes("cagov.core")),
     JQuery: scripts.find(x => x.includes("jquery"))
   };
 };
