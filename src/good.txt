@@ -80,7 +80,6 @@ https://calnet.ca.gov/
 https://calosba.ca.gov/
 https://calpers.ca.gov/
 https://calphoneinfo.cpuc.ca.gov/
-https://calpia.ca.gov/
 https://calpip.cdpr.ca.gov/
 https://calrecycle.ca.gov/
 https://calrx.ca.gov/
@@ -277,7 +276,6 @@ https://innovation.ca.gov/
 https://intranet.calepa.ca.gov/
 https://intranet.ots.ca.gov/
 https://islavistacsd.ca.gov/
-https://jobs.ca.gov/
 https://jobs.spb.ca.gov/
 https://kids.parks.ca.gov/
 https://labormarketinfo.edd.ca.gov/
@@ -575,6 +573,7 @@ https://www.californiadgstats.ca.gov/
 https://www.californianature.ca.gov/
 https://www.californiavolunteers.ca.gov/
 https://www.calottery.com/
+https://www.calpia.ca.gov/
 https://www.calstrs.com/
 https://www.cash4college.csac.ca.gov/
 https://www.cba.ca.gov/
