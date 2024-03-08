@@ -43,19 +43,22 @@ console.time("Done");
  * @param {string} target
  */
 const processDom = (dom, target) => {
-  const scripts = [...dom.window.document.scripts]
+  const doc = dom.window.document;
+
+  const scripts = [...doc.scripts]
     .map(x => x.src)
     .filter(x => x)
     .map(x => new URL(x, target).href);
 
   return {
     target,
+    redirectURL: doc.URL !== target ? doc.URL : undefined,
+    generator: /** @type {HTMLMetaElement} */ (
+      doc.head.querySelector("meta[name=generator i]")
+    )?.content,
     statewideAlerts: scripts.find(x => x.includes("alert.cdt.ca.gov")),
     stateTemplat: scripts.find(x => x.includes("cagov.core")),
-    JQuery: scripts.find(x => x.includes("jquery")),
-    generator: /** @type {HTMLMetaElement} */ (
-      dom.window.document.head.querySelector("meta[name=generator i]")
-    )?.content
+    JQuery: scripts.find(x => x.includes("jquery"))
   };
 };
 
