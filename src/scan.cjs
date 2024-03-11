@@ -8,7 +8,7 @@ const requestTimeout = 5000;
 const urls = [
   ...new Set(
     fs
-      .readFileSync(`${__dirname}/targets.txt`, {
+      .readFileSync(`${__dirname}/testtargets.txt`, {
         encoding: "utf-8"
       })
       .split("\n")
