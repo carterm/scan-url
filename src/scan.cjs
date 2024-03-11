@@ -71,14 +71,33 @@ class CustomResourceLoader extends ResourceLoader {
   }
 }
 
-//This will hide processing errors
-const virtualConsole = new VirtualConsole();
-//virtualConsole.on("jsdomError", e => {
-//console.error("something", e);
-//});
+/**
+ * @param {string} target
+ * @param {any[]} errors
+ */
+const CreateJsdomPromise = async (target, errors) => {
+  // Virtual Console shows errors processing the dom without stopping execution
+  const virtualConsole = new VirtualConsole();
+  virtualConsole.on("jsdomError", e => {
+    errors.push({
+      target,
+      error: e
+    });
+  });
+
+  const dom = await JSDOM.fromURL(target, {
+    //runScripts: "dangerously",
+    //pretendToBeVisual: true,
+    resources: new CustomResourceLoader(),
+    virtualConsole
+  });
+  return processDom(dom, target);
+};
 
 // Process the results (e.g., extract JavaScript links)
 const processUrls = async () => {
+  /** @type {any[]} */
+  const errors = [];
   const results = await Promise.all(
     urls.map(target =>
       Promise.race([
@@ -86,21 +105,16 @@ const processUrls = async () => {
           setTimeout(() => {
             reject(
               new Error(
-                `Timeout: Request took longer than ${requestTimeout} ms.`
+                `Timeout: All requests took longer than ${requestTimeout} ms.`
               )
             );
           }, requestTimeout);
         }),
-        JSDOM.fromURL(target, {
-          //runScripts: "dangerously",
-          //pretendToBeVisual: true,
-          resources: new CustomResourceLoader(),
-          virtualConsole
-        }).then(dom => processDom(dom, target))
+        CreateJsdomPromise(target, errors)
       ])
         .catch(error => {
           // console.error(target, error);
-          //console.log(`${target}...error.`);
+
           return {
             target,
             error: { message: error.message, code: error.code }
@@ -114,6 +128,14 @@ const processUrls = async () => {
         })
     )
   );
+
+  // Add any errors reported to the terminal to the results
+  errors.forEach(e => {
+    Object.assign(
+      results.find(r => r.target === e.target),
+      e
+    );
+  });
 
   // Save results to a JSON file
   const jsonResults = JSON.stringify(results, null, 2);
