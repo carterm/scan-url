@@ -5,7 +5,7 @@ const fs = require("node:fs");
 console.time("Done");
 
 (async () => {
-  const data = require("../_results/good.json");
+  const data = require("../_results/results.json");
 
   const result = {
     total: data.length,
