@@ -4,6 +4,7 @@ const fs = require("node:fs");
 const { timeoutPromise } = require("./support.cjs");
 const { CreateJsdomPromise } = require("./jsdomwork.cjs");
 const { loadAndSortUrls } = require("./loaders.cjs");
+const { getUrlHashes } = require("./state-template-hash.cjs");
 
 const masterTimeoutMs = parseInt(
   process.env.SCAN_MASTER_TIMEOUT || (500000).toString(),
@@ -61,7 +62,35 @@ const processUrls = async () => {
   fs.mkdirSync(resultsFolder, { recursive: true });
   fs.writeFileSync(`${resultsFolder}/${resultsFile}`, jsonResults);
 };
+
+const cdnversions = require("./state-template-cdn.json");
+
 (async () => {
+  /** @type {string[]} */
+  const hashUrls = [];
+
+  const CdnLocations = [
+    "https://cdn.cdt.ca.gov/cdt/statetemplate/",
+    "https://california.azureedge.net/cdt/statetemplate/"
+  ];
+
+  const CdnFilePaths = [
+    "/css/cagov.core.css",
+    "/css/cagov.core.min.css",
+    "/js/cagov.core.js",
+    "/js/cagov.core.min.js"
+  ];
+
+  cdnversions.forEach(version => {
+    CdnLocations.forEach(cdnpath => {
+      CdnFilePaths.forEach(filepath => {
+        hashUrls.push(cdnpath + version + filepath);
+      });
+    });
+  });
+
+  const fileHashData = await getUrlHashes(hashUrls);
+
   await processUrls();
 
   console.timeEnd("Done");
