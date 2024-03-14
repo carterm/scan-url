@@ -1,27 +1,14 @@
 //@ts-check
 
 const fs = require("node:fs");
-
-const masterTimeoutMs = 5000;
-// const stateTemplateCdnVersions = require("./state-template-cdn.json");
-
 const { timeoutPromise } = require("./support.cjs");
 const { CreateJsdomPromise } = require("./jsdomwork.cjs");
+const { loadAndSortUrls } = require("./loaders.cjs");
+const masterTimeoutMs = 5000; // How long this can run before stopping total
 
-const urls = [
-  ...new Set(
-    fs
-      .readFileSync(`${__dirname}/testtargets.txt`, {
-        encoding: "utf-8"
-      })
-      .split("\n")
-      .map(x => x.trim())
-      .filter(x => x)
-      .filter(x => !x.startsWith("//")) //remove comments
-      .map(x => (x.includes("/") ? x : `${x}/`))
-      .map(x => (x.startsWith("http") ? x : `https://${x}`))
-  )
-].sort();
+// const stateTemplateCdnVersions = require("./state-template-cdn.json");
+
+const urls = loadAndSortUrls("testtargets.txt");
 
 const total = urls.length;
 let remaining = total;
@@ -38,14 +25,10 @@ const processUrls = async () => {
         timeoutPromise(masterTimeoutMs),
         CreateJsdomPromise(target, errors)
       ])
-        .catch(error => {
-          // console.error(target, error);
-
-          return {
-            target,
-            error: { message: error.message, code: error.code }
-          };
-        })
+        .catch(error => ({
+          target,
+          error: { message: error.message, code: error.code }
+        }))
         .finally(() => {
           remaining--;
           console.log(

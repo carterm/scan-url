@@ -1,6 +1,9 @@
 //@ts-check
 
-const timeoutPromise = (/** @type {number} */ timeout) =>
+/**
+ * @param {number} timeout
+ */
+const timeoutPromise = timeout =>
   new Promise((_resolve, reject) => {
     setTimeout(() => {
       reject(
