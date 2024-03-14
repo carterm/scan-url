@@ -10,12 +10,13 @@ const masterTimeoutMs = parseInt(
   10
 );
 
+const inputFile = "testtargets.txt";
 const resultsFolder = "_results";
 const resultsFile = "results.json";
 
 // const stateTemplateCdnVersions = require("./state-template-cdn.json");
 
-const urls = loadAndSortUrls("testtargets.txt");
+const urls = loadAndSortUrls(inputFile);
 
 const total = urls.length;
 let remaining = total;
