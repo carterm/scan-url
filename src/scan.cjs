@@ -4,7 +4,12 @@ const fs = require("node:fs");
 const { timeoutPromise } = require("./support.cjs");
 const { CreateJsdomPromise } = require("./jsdomwork.cjs");
 const { loadAndSortUrls } = require("./loaders.cjs");
-const masterTimeoutMs = 5000; // How long this can run before stopping total
+
+const masterTimeoutMs = parseInt(
+  process.env.SCAN_MASTER_TIMEOUT || (500000).toString(),
+  10
+);
+
 const resultsFolder = "_results";
 const resultsFile = "results.json";
 

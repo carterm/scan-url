@@ -15,6 +15,7 @@
   "license": "MIT",
   "scripts": {
     "start": "node src/scan.cjs",
+    "dev": "SCAN_MASTER_TIMEOUT=5000 node src/scan.cjs",
     "report": "node src/report.cjs",
     "GIT cleanup": "git clean -fd"
   },
