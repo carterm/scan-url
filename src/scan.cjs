@@ -5,6 +5,8 @@ const { timeoutPromise } = require("./support.cjs");
 const { CreateJsdomPromise } = require("./jsdomwork.cjs");
 const { loadAndSortUrls } = require("./loaders.cjs");
 const masterTimeoutMs = 5000; // How long this can run before stopping total
+const resultsFolder = "_results";
+const resultsFile = "results.json";
 
 // const stateTemplateCdnVersions = require("./state-template-cdn.json");
 
@@ -50,8 +52,8 @@ const processUrls = async () => {
   const jsonResults = JSON.stringify(results, null, 2);
   // Write jsonResults to a file (use fs module)
 
-  fs.mkdirSync(`_results`, { recursive: true });
-  fs.writeFileSync("_results/results.json", jsonResults);
+  fs.mkdirSync(resultsFolder, { recursive: true });
+  fs.writeFileSync(`${resultsFolder}/${resultsFile}`, jsonResults);
 };
 (async () => {
   await processUrls();
