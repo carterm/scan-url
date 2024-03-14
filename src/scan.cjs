@@ -4,6 +4,7 @@ const fs = require("node:fs");
 const { JSDOM, VirtualConsole, ResourceLoader } = require("jsdom");
 const { URL } = require("node:url");
 const requestTimeout = 5000;
+// const stateTemplateCdnVersions = require("./state-template-cdn.json");
 
 const urls = [
   ...new Set(
