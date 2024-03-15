@@ -14,6 +14,7 @@ const masterTimeoutMs = parseInt(
 const inputFile = "testtargets.txt";
 const resultsFolder = "_results";
 const resultsFile = "results.json";
+const hashesFile = "hashes.json";
 
 // const stateTemplateCdnVersions = require("./state-template-cdn.json");
 
@@ -64,32 +65,47 @@ const processUrls = async () => {
 };
 
 const cdnversions = require("./state-template-cdn.json");
+const CdnFilePaths = [
+  "/css/cagov.core.css",
+  "/css/cagov.core.min.css",
+  "/js/cagov.core.js",
+  "/js/cagov.core.min.js"
+];
 
 (async () => {
-  /** @type {string[]} */
-  const hashUrls = [];
+  const hashUrls = cdnversions.flatMap(version =>
+    CdnFilePaths.map(
+      filepath =>
+        `https://cdn.cdt.ca.gov/cdt/statetemplate/${version}${filepath}`
+    )
+  );
 
-  const CdnLocations = [
-    "https://cdn.cdt.ca.gov/cdt/statetemplate/",
-    "https://california.azureedge.net/cdt/statetemplate/"
+  console.log("downloading hashes...");
+  const fileHashData = await getUrlHashes(hashUrls);
+
+  const cdnReplacements = [
+    { from: "https://", to: "http://" },
+    {
+      from: "://cdn.cdt.ca.gov/",
+      to: "://california.azureedge.net/"
+    }
   ];
 
-  const CdnFilePaths = [
-    "/css/cagov.core.css",
-    "/css/cagov.core.min.css",
-    "/js/cagov.core.js",
-    "/js/cagov.core.min.js"
-  ];
+  cdnReplacements.forEach(replacement => {
+    const clone = structuredClone(fileHashData);
 
-  cdnversions.forEach(version => {
-    CdnLocations.forEach(cdnpath => {
-      CdnFilePaths.forEach(filepath => {
-        hashUrls.push(cdnpath + version + filepath);
-      });
+    clone.forEach(c => {
+      c.url = c.url.replace(replacement.from, replacement.to);
     });
+
+    fileHashData.push(...clone);
   });
 
-  const fileHashData = await getUrlHashes(hashUrls);
+  fs.mkdirSync(resultsFolder, { recursive: true });
+  fs.writeFileSync(
+    `${resultsFolder}/${hashesFile}`,
+    JSON.stringify(fileHashData, null, 2)
+  );
 
   await processUrls();
 
