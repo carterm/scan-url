@@ -4,7 +4,7 @@ const fs = require("node:fs");
 const { timeoutPromise } = require("./support.cjs");
 const { CreateJsdomPromise } = require("./jsdomwork.cjs");
 const { loadAndSortUrls } = require("./loaders.cjs");
-const { getUrlHashes } = require("./state-template-hash.cjs");
+const { getUrlHashes } = require("./urlHash.cjs");
 
 const masterTimeoutMs = parseInt(
   process.env.SCAN_MASTER_TIMEOUT || (500000).toString(),
@@ -15,8 +15,6 @@ const inputFile = "testtargets.txt";
 const resultsFolder = "_results";
 const resultsFile = "results.json";
 const hashesFile = "hashes.json";
-
-// const stateTemplateCdnVersions = require("./state-template-cdn.json");
 
 const urls = loadAndSortUrls(inputFile);
 
