@@ -16,6 +16,7 @@ function generateHash(content) {
  * @property {string} url
  * @property {string} [hash]
  * @property {number} [statusCode]
+ * @property {number} [contentLength]
  */
 
 /**
@@ -33,7 +34,11 @@ function downloadAndHash(url) {
             data += chunk;
           });
           res.on("end", () => {
-            resolve({ url, hash: generateHash(data) });
+            const contentLength = res.headers["content-length"]
+              ? Number.parseInt(res.headers["content-length"], 10)
+              : undefined;
+
+            resolve({ url, hash: generateHash(data), contentLength });
           });
         } else {
           resolve({ url, statusCode: res.statusCode }); // Return null hash if status is not 200
