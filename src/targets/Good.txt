@@ -535,7 +535,7 @@ https://www-test.cdfa.ca.gov/
 https://www.4everproxy.com/
 https://www.aging.ca.gov/
 https://www.alrb.ca.gov/
-https://www.applications.dgs.ca.gov/
+// https://www.applications.dgs.ca.gov/
 https://www.assembly.ca.gov/
 https://www.bar.ca.gov/
 https://www.barbercosmo.ca.gov/
@@ -672,7 +672,7 @@ https://www.paumavalleycsd.ca.gov/
 https://www.pestboard.ca.gov/
 https://www.placer.ca.gov/
 https://www.pmbc.ca.gov/
-https://www.pmweb-tst.dgs.ca.gov/
+// https://www.pmweb-tst.dgs.ca.gov/
 https://www.portsanluis.com/
 https://www.publicadvocates.cpuc.ca.gov/
 https://www.publicpay.ca.gov/

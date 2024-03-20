@@ -11,6 +11,7 @@ const masterTimeoutMs = parseInt(
   10
 );
 
+//const inputFile = "targets/Good.txt";
 const inputFile = "targets/Test.txt";
 const resultsFolder = "_results";
 const resultsFile = "results.json";
