@@ -43,7 +43,14 @@ class CustomResourceLoader extends ResourceLoader {
       // console.log(`skipping - ${url}`);
       return null;
     }
-    return super.fetch(url, options);
+
+    const p = super.fetch(url, options);
+
+    if (p) {
+      //setTimeout(() => p.abort(), 2000);
+    }
+
+    return p;
   }
 }
 
