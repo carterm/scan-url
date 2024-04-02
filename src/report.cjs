@@ -10,7 +10,14 @@ console.time("Done");
   const result = {
     total: data.length,
     alertCount: data.filter(x => x.statewideAlerts).length,
-    stateTemplateCount: data.filter(x => x.stateTemplate).length
+    stateTemplateCount: data.filter(x => x.stateTemplate).length,
+    GoogleAnalytics: data.filter(x => x.GoogleAnalytics).length,
+    GoogleAnalytics_G: data.filter(x =>
+      x.GoogleAnalytics?.some(y => y.startsWith("G-"))
+    ).length,
+    GoogleAnalytics_UA: data.filter(x =>
+      x.GoogleAnalytics?.some(y => y.startsWith("UA-"))
+    ).length
   };
   fs.writeFileSync("_results/report.json", JSON.stringify(result, null, 2));
 
@@ -31,6 +38,7 @@ console.time("Done");
   newList.sort();
 
   fs.writeFileSync("_results/resort.txt", newList.join("\n"));
+  console.log(result);
 
   console.timeEnd("Done");
   process.exit();
