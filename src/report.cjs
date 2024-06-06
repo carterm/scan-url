@@ -24,7 +24,7 @@ const data = /** @type {*[]} */ (require("../_results/results.json"));
   };
   fs.writeFileSync("_results/report.json", JSON.stringify(result, null, 2));
 
-  const newList = [
+  let newList = [
     ...new Set(
       data.map(x => {
         if (x.redirectURL && x.redirectURL.endsWith("/")) {
@@ -37,6 +37,9 @@ const data = /** @type {*[]} */ (require("../_results/results.json"));
       })
     )
   ];
+  newList = newList.filter(
+    x => !newList.includes(x.replace("https://", "https://www."))
+  );
 
   newList.sort();
 

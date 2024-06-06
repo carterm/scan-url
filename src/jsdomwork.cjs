@@ -18,6 +18,10 @@ const processDom = (dom, target) => {
   const GA = /GTM-\w{7}|G-\w{10}|UA-\d{7,8}-\d{1,2}/gim;
   const GoogleAnalytics = [...new Set(code.toUpperCase().match(GA))].sort();
 
+  //if (target == "https://caljobs.ca.gov/") {
+  //  let x = 1;
+  //}
+
   return {
     target,
     redirectURL: doc.URL !== target ? doc.URL : undefined,
