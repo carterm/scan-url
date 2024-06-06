@@ -65,6 +65,7 @@ https://bppe.ca.gov/
 https://brea.ca.gov/
 https://breeze.ca.gov/
 https://broadbandcouncil.ca.gov/
+https://broadbandforall.cdt.ca.gov/
 https://broadbandmap.ca.gov/
 https://bsc.ca.gov/
 https://bscc.ca.gov/
@@ -87,7 +88,6 @@ https://calcareers.ca.gov/
 https://calccrc.ca.gov/
 https://calcivilrights.ca.gov/
 https://calcloud.ca.gov/
-https://calcompetes.ca.gov/
 https://calcsic.ca.gov/
 https://caleafygreens.ca.gov/
 https://calema.ca.gov/
@@ -303,6 +303,7 @@ https://dmhc.ca.gov/
 https://dmvemailalert.ca.gov/
 https://dmvonline.ca.gov/
 https://dof.ca.gov/
+https://domainnamerequest.cdt.ca.gov/
 https://dor.ca.gov/
 https://dot.ca.gov/
 https://dpa.ca.gov/
@@ -333,7 +334,6 @@ https://efilingprep.dir.ca.gov/
 https://ehib.ca.gov/
 https://ehr.ca.gov/
 https://eitc.ca.gov/
-https://eldoradocounty.ca.gov/
 https://emsa.ca.gov/
 https://energysafety.ca.gov/
 https://eocs.dre.ca.gov/
@@ -460,7 +460,7 @@ https://lhc.ca.gov/
 https://lhctest.ca.gov/
 https://liob.cpuc.ca.gov/
 https://listmanager.ftb.ca.gov/
-https://listserv.ca.gov/
+https://listserv.state.ca.gov/
 https://lminfo-test.ca.gov/
 https://loomis.ca.gov/
 https://losaltoshills.ca.gov/
@@ -576,7 +576,6 @@ https://piedmont.ca.gov/
 https://piercesdisease.cdfa.ca.gov/
 https://pinyonpinescwd.ca.gov/
 https://pioneercommunityenergy.org/
-https://placer.ca.gov/
 https://pldcss.ca.gov/
 https://plumascourt.ca.gov/
 https://pmbc.ca.gov/
@@ -659,7 +658,6 @@ https://seniors.ca.gov/
 https://seniors.insurance.ca.gov/
 https://sentest.ca.gov/
 https://serve.ca.gov/
-https://services.cdtfa.ca.gov/
 https://sfo.ca.gov/
 https://sgc.ca.gov/
 https://shsp-test.dot.ca.gov/
@@ -848,12 +846,14 @@ https://www.bpelsg.ca.gov/
 https://www.bppe.ca.gov/
 https://www.brea.ca.gov/
 https://www.bsis.ca.gov/
+https://www.build.ca.gov/
 https://www.buycaliforniabonds.com/
 https://www.bvnpt.ca.gov/
 https://www.ca.gov/
 https://www.cab.ca.gov/
 https://www.caclimateinvestments.ca.gov/
 https://www.calbar.ca.gov/
+https://www.calcompetes.ca.gov/
 https://www.calexico.ca.gov/
 https://www.calgold.ca.gov/
 https://www.calhfa.ca.gov/
@@ -919,6 +919,7 @@ https://www.dre.ca.gov/
 https://www.drinc.ca.gov/
 https://www.dtsc.ca.gov/
 https://www.ebtproject.ca.gov/
+https://www.eldoradocounty.ca.gov/
 https://www.energy.ca.gov/
 https://www.eurekaca.gov/
 https://www.fairfield.ca.gov/
@@ -950,6 +951,7 @@ https://www.lemongrove.ca.gov/
 https://www.library.ca.gov/
 https://www.mbc.ca.gov/
 https://www.mdaqmd.ca.gov/
+https://www.mentalhealth.ca.gov/
 https://www.mywaterquality.ca.gov/
 https://www.naturopathic.ca.gov/
 https://www.nmvb.ca.gov/
