@@ -21,6 +21,7 @@ const processDom = (dom, target) => {
   return {
     target,
     redirectURL: doc.URL !== target ? doc.URL : undefined,
+    title: doc.title,
     generator: /** @type {HTMLMetaElement} */ (
       doc.head.querySelector("meta[name=generator i]")
     )?.content,

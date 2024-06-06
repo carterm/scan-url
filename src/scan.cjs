@@ -42,7 +42,7 @@ const processUrls = async () => {
         .finally(() => {
           remaining--;
           console.log(
-            `${target} ...done. ${remaining} remain (${((100 * (total - remaining)) / total).toFixed(0)}%).`
+            `${target} ...done. ${remaining} remain (${Math.floor((100 * (total - remaining)) / total).toFixed(0)}%).`
           );
         })
     )

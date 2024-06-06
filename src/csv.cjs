@@ -25,6 +25,7 @@ const data = require("../_results/results.json");
 const columnNames = [
   "target",
   "redirectURL",
+  "title",
   "generator",
   "statewideAlerts",
   "stateTemplate",
@@ -45,6 +46,7 @@ const columnNames = [
   resultData.push([
     data.length.toString(),
     data.filter(x => x.redirectURL).length.toString(),
+    data.filter(x => x.title).length.toString(),
     data.filter(x => x.generator).length.toString(),
     data.filter(x => x.statewideAlerts).length.toString(),
     data.filter(x => x.stateTemplate).length.toString(),
@@ -58,6 +60,7 @@ const columnNames = [
     resultData.push([
       row.target,
       row.redirectURL || "",
+      row.title || "",
       row.generator || "",
       row.statewideAlerts || "",
       row.stateTemplate || "",
