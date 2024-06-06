@@ -1,0 +1,1116 @@
+"target","redirectURL","generator","statewideAlerts","stateTemplate","JQuery","GoogleAnalytics","errorcode","errormessage"
+"1110","199","217","151","311","563","613","283","298"
+"https://abag.ca.gov/",,"Drupal 10 (https://www.drupal.org)",,,,"G-FE9WWP5YXX,UA-45890390-1",,
+"https://abc.ca.gov/","https://www.abc.ca.gov/","CAWeb v.1.1.4b","https://alert.cdt.ca.gov/","https://www.abc.ca.gov/wp-content/themes/CAWeb/js/cagov.core.js?ver=1.0","https://www.abc.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.6.4","G-69TD0KNT0F,G-DCG7L67NBP,UA-24087628-11,UA-3419582-2",,
+"https://abcab.ca.gov/",,"CAWeb v.1.11.0",,"https://abcab.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://abcab.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-XYBVW071M5,G-Y7T2KCM7P1,UA-20973992-10,UA-3419582-2,UA-3419582-47",,
+"https://abcappeals.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND abcappeals.ca.gov"
+"https://abortion.ca.gov/",,,"https://alert.cdt.ca.gov/",,,,,
+"https://access.ca.gov/","https://access.ca.gov/logon/LogonPoint/tmindex.html",,,,"https://access.ca.gov/logon/LogonPoint/receiver/js/external/jquery.min.js",,,
+"https://access2.ca.gov/","https://access2.ca.gov/logon/LogonPoint/tmindex.html",,,,"https://access2.ca.gov/logon/LogonPoint/receiver/js/external/jquery.min.js",,,
+"https://accessuat.ca.gov/",,,,,,,"UNABLE_TO_VERIFY_LEAF_SIGNATURE","unable to verify the first certificate"
+"https://acupuncture.ca.gov/",,,,,"https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-CGS7Z07GXJ,GTM-NBQCVZC,UA-64276560-1",,
+"https://adopt-a-highway.dot.ca.gov/","https://dot.ca.gov/programs/maintenance",,"https://alert.cdt.ca.gov/","https://dot.ca.gov/js/cagov.core.min.js","https://code.jquery.com/jquery-3.4.1.min.js","G-69TD0KNT0F,G-PXR8P55JR4,G-WLDEF7NZZ2,GTM-573PLG9",,
+"https://ag.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND ag.ca.gov"
+"https://agencyreports.ca.gov/",,,,,,,,
+"https://aging.ca.gov/",,,"https://alert.cdt.ca.gov/","https://aging.ca.gov/js/cagov.core.js?date=4.10.19","https://code.jquery.com/jquery-3.6.0.min.js","UA-21431721-20,UA-3419582-2",,
+"https://alamedacountysheriff.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: alamedacountysheriff.ca.gov. is not in the cert's altnames: DNS:sheriffacademy.com, DNS:urbanshield.org, DNS:alamedacountysheriff.org, DNS:www.alamedacountysheriff.org, DNS:www.urbanshield.org, DNS:www.sheriffacademy.com"
+"https://alpha.ca.gov/",,,,,,"G-5GGV1QPJD4,G-69TD0KNT0F",,
+"https://alrb.ca.gov/","https://www.alrb.ca.gov/","CAWeb v.1.11.0","https://alert.cdt.ca.gov/alert.js?ver=1.0.0","https://www.alrb.ca.gov/wp-content/themes/CAWeb/src/version-6.0/cagov.core.js?ver=1.11.0","https://www.alrb.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-3GVNPSC58B,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47,UA-58832707-1",,
+"https://app-test.cdfa.ca.gov/",,,,,,,,
+"https://appportal.energy.ca.gov/","https://appportal.energy.ca.gov/Account/Login?ReturnUrl=%2Fdefault.aspx",,,"https://appportal.energy.ca.gov/js/cagov.core.min.js","https://code.jquery.com/jquery-3.5.1.min.js",,,
+"https://apprenticeshipworks.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND apprenticeshipworks.ca.gov"
+"https://apps.cdfa.ca.gov/",,,,,,,,
+"https://apps.wildlife.ca.gov/",,,,"https://california.azureedge.net/cdt/statetemplate/5.5.17/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-2N4E4MK3J8",,
+"https://apps1.cdfa.ca.gov/",,,,,,,,
+"https://apps4.cdfa.ca.gov/",,,,,,,,
+"https://aquaculturematters.ca.gov/",,"WordPress.com",,,,,,
+"https://arb.ca.gov/","https://ww2.arb.ca.gov/","Drupal 9 (https://www.drupal.org)",,,,"G-7M1ZZPXDBL,UA-19803621-1",,
+"https://arts.ca.gov/",,"WordPress 6.4.2",,,"https://arts.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-YMHBQ8PVF6",,
+"https://askaspecialist.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND askaspecialist.ca.gov"
+"https://askedd.edd.ca.gov/","https://askedd.edd.ca.gov/s/",,,,,"G-P1RJ1L0W4D,GTM-MCW7ZGX",,
+"https://asm.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: asm.ca.gov. is not in the cert's altnames: DNS:*.assembly.ca.gov, DNS:assembly.ca.gov"
+"https://asmsmtp.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 165.107.12.10:443"
+"https://asmtest.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND asmtest.ca.gov"
+"https://assembly.ca.gov/","https://www.assembly.ca.gov/",,,,,"G-4D0PPGX2BH,G-GOIEQIIBO2",,
+"https://auburn.ca.gov/",,,,,"https://auburn.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js","G-1PL09BWVXS,GTM-K73C5PS,GTM-WKGQMK5",,
+"https://auditor.ca.gov/","https://www.auditor.ca.gov/",,,,,"G-1LZ8G4GVJY,G-69TD0KNT0F",,
+"https://author.csd.ca.gov/","https://login.microsoftonline.com/648d2806-c725-4253-8613-b071e1220a57/wsfed?wa=wsignin1.0&wtrealm=urn%3asbetaproviders%3afederation&wctx=https%3a%2f%2fauthor.csd.ca.gov%2f_layouts%2f15%2fAuthenticate.aspx%3fSource%3d%252F&wreply=https%3a%2f%2fauthor.csd.ca.gov%2f_trust%2fdefault.aspx",,,,,"G-_DYSMLL25B",,
+"https://autorepair.ca.gov/","https://www.bar.ca.gov/",,,"https://www.bar.ca.gov/js/cagov.core.min.js","https://code.jquery.com/jquery-3.6.0.min.js","G-2RE0XT2L0F",,
+"https://avaqmd.ca.gov/",,,,,,,,
+"https://azure.fiscal.ca.gov/",,"Divi Child v.3.11.1.1533591462","https://alert.cdt.ca.gov/",,"https://azure.fiscal.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","GTM-5TVLDSK,UA-3419582-2",,
+"https://babysafe.ca.gov/","https://www.cdss.ca.gov/inforesources/community-care-licensing","DotNetNuke ",,"https://www.cdss.ca.gov/Portals/_default/Skins/CaGov-SantaBarbara%20-%20Partner//js/cagov.core.js","https://www.cdss.ca.gov/Resources/libraries/jQuery/03_02_01/jquery.js?cdv=630","UA-77698819-4",,
+"https://bar.ca.gov/",,,,"https://bar.ca.gov/js/cagov.core.min.js","https://code.jquery.com/jquery-3.6.0.min.js","G-2RE0XT2L0F",,
+"https://barbercosmo.ca.gov/",,,,"https://barbercosmo.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-8SW7CC7X25,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-3",,
+"https://barc.ca.gov/",,"Drupal 10 (https://www.drupal.org)",,,,"G-HSZD89JKDZ",,
+"https://bars.dre.ca.gov/",,,,,"https://bars.dre.ca.gov/Scripts/jquery-3.7.1.min.js",,,
+"https://bata.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 54.241.247.151:443"
+"https://bawa.ca.gov/",,"WordPress 6.5.3",,,"https://bawa.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",,,
+"https://bayareacensus.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 52.219.24.130:443"
+"https://bbs.ca.gov/",,,,"https://bbs.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js","G-69TD0KNT0F,G-DF674HWF28,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-4",,
+"https://bcc.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: bcc.ca.gov. is not in the cert's altnames: DNS:dca.ca.gov, DNS:cicwiki.dca.ca.gov, DNS:consumerwiki.dca.ca.gov, DNS:solid.dca.ca.gov, DNS:spapp.dca.ca.gov, DNS:www.cicwiki.dca.ca.gov, DNS:www.consumerwiki.dca.ca.gov, DNS:www.dca.ca.gov, DNS:www.solid.dca.ca.gov, DNS:www.spapp.dca.ca.gov, DNS:www2.dca.ca.gov"
+"https://bcdc.ca.gov/",,,"https://alert.cdt.ca.gov/","https://bcdc.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.6.0.min.js","G-659EB2TT61,G-69TD0KNT0F,UA-21974567-29,UA-3419582-2",,
+"https://bcsh.ca.gov/",,,,"https://bcsh.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-E4Q2NW6P5W,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-31",,
+"https://beacon.ca.gov/",,"Divi v.4.25.0",,,"https://beacon.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",,,
+"https://bepreparedcalifornia.ca.gov/",,,,,,,"ECONNRESET","read ECONNRESET"
+"https://beta.calcareers.ca.gov/",,,"https://alert.cdt.ca.gov/",,,"G-69TD0KNT0F,G-GVMXP4J73D",,
+"https://bhc.ca.gov/",,,"https://alert.cdt.ca.gov/","https://bhc.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","UA-3419582-2,UA-59627195-3",,
+"https://billing.technology.ca.gov/","https://billing.technology.ca.gov/login.aspx?ReturnUrl=%2f",,,,,"UA-3419582-2",,
+"https://biomonitoring.ca.gov/",,,,,,,,
+"https://blogs.cdfa.ca.gov/",,,,,,,,"Resource was not loaded. Status: 403"
+"https://blue.water.ca.gov/","https://blue.water.ca.gov/IntranetLogin/IntranetLogin.aspx?returnUrl=%2F",,,,,,,
+"https://bluelake.ca.gov/",,,,,"https://bluelake.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",,,
+"https://bns.insurance.ca.gov/","https://login.microsoftonline.com/da6c0fa7-142e-447a-b3ac-44b771c52917/oauth2/v2.0/authorize?client_id=f7457ff9-1cb3-4790-81fa-e101699b1971&redirect_uri=https%3A%2F%2Fbns.insurance.ca.gov%2Fsignin-oidc&response_type=code&scope=openid%20profile%20offline_access&code_challenge=nIaoSE1q2B7kUBGnMByP7Z4P88yq7LAe5wRTiL6tO8w&code_challenge_method=S256&response_mode=form_post&nonce=638532259603104719.YmFlYmU3ODctOTQzOS00OWI3LWJiNDktYzcxOTIyOWRiN2U4YWNlODllYjctNzJkMi00NjdiLTg3YTUtNmNlMGY0ZTdkOGNh&client_info=1&x-client-brkrver=IDWeb.1.25.3.0&state=CfDJ8Ltj9-F6QUdFvMaHj1RS9AsVvjzRQHKE-idNceRmULG12SNFcUqNNsDj04nzA2eWrhHeU1QGLp5hIRHVBlNIlCX1fPAfyCMYEQ-7LkHQ4H6qamRxjm8aRrDwrwJBvpydSRtB92R6uQOSHVkhS7P1yTzImOyQ0mo2CIb2qZuW5ahx7MoLytCfRfMw5kQgfSyhtLdCDHpELagzmRoHkv26vVYgHOgb8q3IFcss6z5uJy5lfaQtIdjblu9B7XCYyJHMpbc-wZF4Pv_-lyK2yyyjxGhH3O1zXQDsDtGmIYeVcfX14py4Q0UsvgjmJ0MdlWxD4Ga5K8YKYREjEo1n2mDdR4ijaxg3Xu1PydqDTliLkat7O9ygRyAd2U1yk39uT0BeVg&x-client-SKU=ID_NET6_0&x-client-ver=6.23.1.0",,,,,"G-CVP3R4XYE_",,
+"https://boe.ca.gov/",,,,"https://boe.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.6.0.min.js","G-69TD0KNT0F,G-XH0RG68L1S,UA-3419582-2,UA-3419582-32",,
+"https://bof.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 165.235.69.22:443"
+"https://bof.fire.ca.gov/",,,,,,"UA-12131957-13,UA-3419582-2",,
+"https://bondaccountability.ca.gov/",,,,"https://california.azureedge.net/cdt/statetemplate/6.1.0/js/cagov.core.min.js",,"G-69TD0KNT0F,G-WJP820TQVY,UA-11020260-1,UA-3419582-2",,
+"https://boomerang.ca.gov/",,,,"https://boomerang.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js","UA-3419582-2,UA-5276088-3",,
+"https://boomerangstage.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 168.240.100.69:443"
+"https://bopc.ca.gov/",,"CAWeb v.1.11.0",,"https://bopc.ca.gov/wp-content/themes/CAWeb/src/version-6.0/cagov.core.js?ver=1.11.0","https://bopc.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-FBMZL6F4H8,G-Y7T2KCM7P1,UA-20973992-11,UA-3419582-2,UA-3419582-47",,
+"https://bot.ca.gov/",,,,"https://bot.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-VWTHLSTC7N,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-14",,
+"https://bpelsg.ca.gov/",,,,"https://bpelsg.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js","G-00QVLPGF36,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-64276560-10",,
+"https://bppe.ca.gov/",,,,"https://bppe.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-3V1YPEGZCC,G-69TD0KNT0F,GTM-NBQCVZC,UA-3419582-2,UA-64276560-20",,
+"https://brea.ca.gov/",,,,,,"UA-22544255-17,UA-3419582-2",,
+"https://breeze.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND breeze.ca.gov"
+"https://broadbandcouncil.ca.gov/",,"CAWeb v.1.11.0",,"https://broadbandcouncil.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://broadbandcouncil.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-BM545KDPMZ,G-Y7T2KCM7P1,UA-21970760-37,UA-3419582-2,UA-3419582-47",,
+"https://broadbandmap.ca.gov/",,,,,,,,
+"https://bsa.ca.gov/","https://www.auditor.ca.gov/",,,,,"G-1LZ8G4GVJY,G-69TD0KNT0F",,
+"https://bsc.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: bsc.ca.gov. is not in the cert's altnames: DNS:www.dgs.ca.gov, DNS:dgs.ca.gov"
+"https://bscc.ca.gov/",,,,,,,"UNABLE_TO_VERIFY_LEAF_SIGNATURE","unable to verify the first certificate"
+"https://bsis.ca.gov/",,,,"https://bsis.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-84YD2E7420,UA-3419582-2,UA-64276560-25",,
+"https://btbl.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: btbl.ca.gov. is not in the cert's altnames: DNS:websiteredirect.library.ca.gov, DNS:askus.library.ca.gov, DNS:cahomelessyouth.library.ca.gov, DNS:catalog.library.ca.gov, DNS:civilliberties.library.ca.gov, DNS:cohs.library.ca.gov, DNS:databases.library.ca.gov, DNS:elf2.library.ca.gov, DNS:events.library.ca.gov, DNS:harwood.library.ca.gov, DNS:imagination.library.ca.gov, DNS:pd.library.ca.gov, DNS:sutro.library.ca.gov, DNS:tutoring.library.ca.gov"
+"https://btsa.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 134.186.81.152:443"
+"https://burnpermit.fire.ca.gov/",,,"https://alert.cdt.ca.gov/",,"https://burnpermit.fire.ca.gov/assets/js/jquery.cookie.js","G-TCY9FCQZSL,UA-12131957-10,UA-3419582-2",,
+"https://business.ca.gov/",,"CAWeb v.1.5.2a",,,"https://business.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-ZYTZPSRY9P,GTM-NNRL3QT",,
+"https://businessportal.ca.gov/","https://calosba.ca.gov/","CAWeb v.1.5.2a",,,"https://calosba.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-2KMN5NQW5J,G-TRANSPAREN",,
+"https://buttecourt.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND buttecourt.ca.gov"
+"https://bvnpt.ca.gov/",,,,"https://bvnpt.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-HTB5XLD158,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-29",,
+"https://bvwd.ca.gov/",,,,,"https://bvwd.ca.gov/themes/BVWD/js/jquery-migrate-1.2.1.js",,,
+"https://c2c.ca.gov/",,,,,"https://c2c.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","GTM-P7T6C5S",,
+"https://cab.ca.gov/",,,,"https://cab.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-R5WKN67L3M,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-2",,
+"https://cac.ca.gov/","https://arts.ca.gov/","WordPress 6.4.2",,,"https://arts.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-YMHBQ8PVF6",,
+"https://cacgn.ca.gov/",,,,,,"UA-12131957-14,UA-3419582-2",,
+"https://caclimateinvestments.ca.gov/","https://www.caclimateinvestments.ca.gov/",,,,"https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js","G-5CEFCCC423,G-A4F9F5FE1C,G-A9EB87C1B7,G-CC62B0E68D,G-COLLECTION",,
+"https://cahan.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND cahan.ca.gov"
+"https://cal-osha.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND cal-osha.ca.gov"
+"https://cal529.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND cal529.ca.gov"
+"https://calable.ca.gov/",,,,,,"G-BH9XWR79GY",,
+"https://calbar.ca.gov/","https://www.calbar.ca.gov/",,,,,"G-CT3SHXYGSG",,
+"https://calcareers.ca.gov/",,,"https://alert.cdt.ca.gov/",,,"G-69TD0KNT0F,G-GVMXP4J73D",,
+"https://calccrc.ca.gov/","https://www.cdss.ca.gov/inforesources/community-care/continuing-care","DotNetNuke ",,"https://www.cdss.ca.gov/Portals/_default/Skins/CaGov-SantaBarbara%20-%20Partner//js/cagov.core.js","https://www.cdss.ca.gov/Resources/libraries/jQuery/03_02_01/jquery.js?cdv=630","UA-77698819-4",,
+"https://calcivilrights.ca.gov/",,"CAWeb v.1.11.0",,"https://calcivilrights.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://calcivilrights.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-DMYWEFRNDX,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47",,
+"https://calcloud.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: calcloud.ca.gov. is not in the cert's altnames: DNS:portal.calcloud.ca.gov"
+"https://calcompetes.ca.gov/","https://www.calcompetes.ca.gov/Login.aspx?ReturnUrl=%2f",,,,"https://code.jquery.com/jquery-1.10.2.min.js",,,
+"https://calcsic.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: calcsic.ca.gov. is not in the cert's altnames: DNS:ftp.calcsic.ca.gov, DNS:www.ftp.calcsic.ca.gov"
+"https://caleafygreens.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: caleafygreens.ca.gov. is not in the cert's altnames: DNS:lettuceinfo.org, DNS:www.lettuceinfo.org"
+"https://calema.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND calema.ca.gov"
+"https://calepa.ca.gov/",,"CAWeb v.1.11.0",,"https://calepa.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://calepa.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-S80FZKCQYB,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47",,
+"https://calepa.sites.ca.gov/",,"CAWeb v.1.11.0",,"https://calepa.sites.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://calepa.sites.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47",,
+"https://caleprocure.ca.gov/",,,,,,"GTM-WTBNSTN,UA-3419582-2",,
+"https://calexico.ca.gov/","https://www.calexico.ca.gov/",,,,"https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js",,,
+"https://calfire.ca.gov/","https://www.fire.ca.gov/",,"https://alert.cdt.ca.gov/",,"https://www.fire.ca.gov/assets/js/jquery.cookie.js","G-DJY7D8Z6M7,UA-12131957-10,UA-3419582-2",,
+"https://calfreshhealthyliving.cdph.ca.gov/","https://calfreshhealthyliving.cdph.ca.gov/en/Pages/default.aspx","Microsoft SharePoint",,,,"GTM-KVN6ZCB",,
+"https://calfreshhealthyliving.staging.cdph.ca.gov/",,,,,,,,
+"https://calgenetic.cdph.ca.gov/","https://sis2-prod.powerappsportals.us/homepage/",,,,"https://sis2-prod.powerappsportals.us/gdsp_jquery.min.js","GTM-TSJC8P6",,
+"https://calgold.ca.gov/","https://www.calgold.ca.gov/",,,,"http://code.jquery.com/jquery-1.9.1.js","G-ZZ3YHMBCMQ",,
+"https://calguard.ca.gov/",,"CAWeb v.1.11.0",,"https://calguard.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://calguard.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-568M73XK08,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-21974567-37,UA-3419582-2,UA-3419582-47",,
+"https://calheers.ca.gov/",,,,,,,"ETIMEDOUT",
+"https://calhfa.ca.gov/","https://www.calhfa.ca.gov/",,,,"https://www.calhfa.ca.gov/common/scripts/jquery-3.3.1.min.js","UA-19266071-3",,
+"https://calhr.ca.gov/","https://www.calhr.ca.gov/","Microsoft SharePoint","https://alert.cdt.ca.gov/",,"https://www.calhr.ca.gov/_catalogs/masterpage/js/jquery.general.api.min.js","UA-5276088-2",,
+"https://californiaconnected.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND californiaconnected.ca.gov"
+"https://californiadgstats.ca.gov/","https://www.californiadgstats.ca.gov/",,,,"https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js","UA-18935822-2",,
+"https://californianature.ca.gov/","https://www.californianature.ca.gov/",,,,,"G-Y6CYCFDK0H,UA-59627195-16",,
+"https://californiansforall.ca.gov/","https://www.californiavolunteers.ca.gov/join-californiansforall/","CAWeb v.1.11.0","https://alert.cdt.ca.gov/alert.js?ver=1.0.0","https://www.californiavolunteers.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://www.californiavolunteers.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-T935JFYNE2,G-Y7T2KCM7P1,GTM-TZDK45W,UA-23110710-36,UA-3419582-2,UA-3419582-47",,
+"https://californiasafe.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 192.234.213.32:443"
+"https://californiasciencecenter.ca.gov/",,,,,,,,"Resource was not loaded. Status: 403"
+"https://californiatourism.ca.gov/","https://tourism.ca.gov/s/",,,,,,,
+"https://californiaunited.ca.gov/","https://www.californiavolunteers.ca.gov/join-californiansforall/","CAWeb v.1.11.0","https://alert.cdt.ca.gov/alert.js?ver=1.0.0","https://www.californiavolunteers.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://www.californiavolunteers.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-T935JFYNE2,G-Y7T2KCM7P1,GTM-TZDK45W,UA-23110710-36,UA-3419582-2,UA-3419582-47",,
+"https://californiavolunteers.ca.gov/","https://www.californiavolunteers.ca.gov/","CAWeb v.1.11.0","https://alert.cdt.ca.gov/alert.js?ver=1.0.0","https://www.californiavolunteers.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://www.californiavolunteers.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-T935JFYNE2,G-Y7T2KCM7P1,GTM-TZDK45W,UA-23110710-36,UA-3419582-2,UA-3419582-47",,
+"https://caljobs.ca.gov/",,,,,,,,
+"https://calmmp.ca.gov/",,,,,,,"ECONNRESET","read ECONNRESET"
+"https://calnet.ca.gov/","https://cdt.ca.gov/services/calnet/","CAWeb v.1.11.0",,"https://cdt.ca.gov/services/wp-content/themes/CAWeb/src/version-6.0/cagov.core.js?ver=1.11.0","https://cdt.ca.gov/services/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-LPLGX1HR9S,G-Y7T2KCM7P1,UA-20973992-22,UA-3419582-2,UA-3419582-47",,
+"https://caloes.ca.gov/",,,,,,,"UNABLE_TO_VERIFY_LEAF_SIGNATURE","unable to verify the first certificate"
+"https://calosba.ca.gov/",,"CAWeb v.1.5.2a",,,"https://calosba.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-2KMN5NQW5J,G-TRANSPAREN",,
+"https://calottery.ca.gov/","https://www.calottery.com/",,,,"https://static.www.calottery.com/-/media/Base-Themes/CA-Lottery-Core-Libraries/scripts/jquery-331.js?rev=dd02ff4e9f0e4493ba2f9be6f0619088","GTM-NVGNCNH",,
+"https://calpers.ca.gov/",,,,,"https://calpers.ca.gov/resources/js/jquery.min.js","GTM-TVMFZD9,UA-25763786-1",,
+"https://calphoneinfo.cpuc.ca.gov/",,,,,,"G-G77XY5RQCC,UA-1915322-3,UA-3419582-2",,
+"https://calpia.ca.gov/",,,,,,,,"Resource was not loaded. Status: 403"
+"https://calpip.cdpr.ca.gov/","https://calpip.cdpr.ca.gov/main.cfm",,,"https://calpip.cdpr.ca.gov/state_templates/state-template-new/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-THW4EX8XMS",,
+"https://calrecycle.ca.gov/",,"CAWeb v.1.11.0","https://alert.cdt.ca.gov/alert.js?ver=1.0.0","https://calrecycle.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://calrecycle.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-Y7T2KCM7P1,GTM-WWF6GW5,UA-12131600-15,UA-3419582-2,UA-3419582-47",,
+"https://calrx.ca.gov/",,"WordPress 6.5.3",,,,"G-69TD0KNT0F,G-B15ZM3C3NN",,
+"https://calshape.energy.ca.gov/",,,,"https://calshape.energy.ca.gov/js/cagov.core.min.js","https://code.jquery.com/jquery-3.5.1.min.js",,,
+"https://calsilc.ca.gov/",,"CAWeb v.1.11.0",,"https://calsilc.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://calsilc.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-9RWNEXS0MN,G-Y7T2KCM7P1,UA-21970760-45,UA-3419582-2,UA-3419582-47",,
+"https://calsolarresearch.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND calsolarresearch.ca.gov"
+"https://calspillwatch.wildlife.ca.gov/",,,"https://alert.cdt.ca.gov/","https://calspillwatch.wildlife.ca.gov/Portals/_default/skins/cagov_pasorobles/js/cagov.core.js","https://calspillwatch.wildlife.ca.gov/Resources/libraries/jQuery/03_07_01/jquery.js?cdv=483","G-3TD3C8P5WP",,
+"https://calsta.ca.gov/",,,"https://alert.cdt.ca.gov/","https://calsta.ca.gov/js/cagov.core.min.js","https://code.jquery.com/jquery-3.4.1.min.js","G-69TD0KNT0F,G-8PZ3KQXET8",,
+"https://calstrs.ca.gov/","https://www.calstrs.com/",,,,,"G-8N7X1ZE5C9,GTM-NVHDX8X,UA-20538890-2",,
+"https://caltrans.ca.gov/",,,,,,,"ECONNREFUSED","connect ECONNREFUSED 149.136.20.190:443"
+"https://caltreesplans.resources.ca.gov/",,,,,,,,
+"https://calvcb.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND calvcb.ca.gov"
+"https://calvcp.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND calvcp.ca.gov"
+"https://calvet.ca.gov/",,,,,,,"ECONNRESET","read ECONNRESET"
+"https://calwater.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: calwater.ca.gov. is not in the cert's altnames: DNS:*.deltacouncil.ca.gov, DNS:deltacouncil.ca.gov"
+"https://camade.ca.gov/",,"CAWeb v.1.5.2a",,,"https://camade.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-5VYECETP1N",,
+"https://cams.technology.ca.gov/","https://cams.technology.ca.gov/Account/Login?ReturnUrl=%2f",,,,,"UA-3419582-2",,
+"https://cannabis.ca.gov/",,,"https://alert.cdt.ca.gov/",,,"G-69TD0KNT0F,G-PJDVH1C2JS",,
+"https://canotify.ca.gov/","https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/CANotify/CANotifyMain.aspx",,"https://alert.cdt.ca.gov/",,"https://www.cdph.ca.gov/Style%20Library/CDPH/js/jquery.min.js","G-RESPONSIVE,GTM-KVN6ZCB",,
+"https://capiaa.ca.gov/",,"CAWeb v.1.11.0",,"https://capiaa.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://capiaa.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-FZL67QR94L,G-Y7T2KCM7P1,UA-24087628-35,UA-3419582-2,UA-3419582-47",,
+"https://capitolmuseum.ca.gov/",,"CAWeb v.1.5.10",,,"https://capitolmuseum.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-ZSV0Z9SPB3,UA-21974567-45,UA-64245307-1",,
+"https://captain.ca.gov/",,,,,"https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js","G-7P4J8DKTKV",,
+"https://careereducation.gov.ca.gov/",,"CAWeb v.1.11.0",,"https://careereducation.gov.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://careereducation.gov.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-Q122BB7YXT,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47",,
+"https://cash4college.csac.ca.gov/",,,,"https://cash4college.csac.ca.gov/Scripts/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js","UA-20973992-20,UA-3419582-2",,
+"https://cashared.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND cashared.ca.gov"
+"https://catc.ca.gov/",,,"https://alert.cdt.ca.gov/","https://catc.ca.gov/js/cagov.core.min.js","https://code.jquery.com/jquery-3.4.1.min.js","G-37E6VKG1R5,G-69TD0KNT0F,UA-21970760-33",,
+"https://caweb.cdt.ca.gov/",,"CAWeb v.1.11.0","https://alert.cdt.ca.gov/alert.js?ver=1.0.0","https://caweb.cdt.ca.gov/wp-content/themes/CAWeb/src/version-6.0/cagov.core.js?ver=1.11.0","https://caweb.cdt.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-JM9XN48M0M,G-Y7T2KCM7P1,UA-31125811-32,UA-3419582-2,UA-3419582-47",,
+"https://cba.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 165.235.10.5:443"
+"https://cbig.ca.gov/","https://www.grants.ca.gov/",,,,"https://www.grants.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","GTM-WFDBH54",,
+"https://cca.ca.gov/",,"WordPress 6.5.4",,,"https://cca.ca.gov/wp-content/plugins/bb-plugin/js/jquery.easing.min.js?ver=1.4",,,
+"https://ccag.ca.gov/",,,,,"https://ccag.ca.gov/wp-includes/js/jquery/jquery.min.js","G-0KSE6F1TNL",,
+"https://ccap.ca.gov/",,,,"https://ccap.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-HCFGD3JTY2,GTM-M683DJB,GTM-NBQCVZC,UA-21974567-34,UA-3419582-2",,
+"https://ccc.ca.gov/",,"CAWeb v.1.1.4b",,"https://ccc.ca.gov/wp-content/themes/CAWeb/js/cagov.core.js?ver=1.0","https://ccc.ca.gov/wp-includes/js/jquery/jquery.js?ver=1.12.4","UA-3419582-2,UA-8214132-1",,
+"https://ccda.ca.gov/",,,,,,,,"Resource was not loaded. Status: 400"
+"https://ccfc.ca.gov/",,,,,"https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js","G-ZPMNSRN8SN",,
+"https://cchcs.ca.gov/",,"CAWeb v.1.11.0",,"https://cchcs.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://cchcs.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-Q9Y67HPNNY,G-Y7T2KCM7P1,GTM-T7W8RZ8,UA-3419582-2,UA-3419582-47",,
+"https://cchcs.hodesiq.com/","http://cchcs.ca.gov/careers/","CAWeb v.1.11.0",,"http://cchcs.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","http://cchcs.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-Q9Y67HPNNY,G-Y7T2KCM7P1,GTM-T7W8RZ8,UA-3419582-2,UA-3419582-47",,
+"https://ccld.ca.gov/","https://cdss.ca.gov/inforesources/community-care-licensing","DotNetNuke ",,"https://cdss.ca.gov/Portals/_default/Skins/CaGov-SantaBarbara%20-%20Partner//js/cagov.core.js","https://cdss.ca.gov/Resources/libraries/jQuery/03_02_01/jquery.js?cdv=630","UA-77698819-4",,
+"https://ccldpartners.ca.gov/","https://cdss.ca.gov/inforesources/community-care-licensing","DotNetNuke ",,"https://cdss.ca.gov/Portals/_default/Skins/CaGov-SantaBarbara%20-%20Partner//js/cagov.core.js","https://cdss.ca.gov/Resources/libraries/jQuery/03_02_01/jquery.js?cdv=630","UA-77698819-4",,
+"https://ccoa.ca.gov/",,,"https://alert.cdt.ca.gov/","https://ccoa.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.6.0.min.js","G-69TD0KNT0F,G-75V2BNQ3DR,G-M8T749HDDC,UA-21431721-20",,
+"https://ccr.ca.gov/",,,,,,,"CERT_HAS_EXPIRED","certificate has expired"
+"https://ccsas.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND ccsas.ca.gov"
+"https://ccusl.ca.gov/",,,,,,,,
+"https://cda.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 67.157.158.108:443"
+"https://cdcr.ca.gov/","https://www.cdcr.ca.gov/",,,,,"GTM-WWJWHL4",,
+"https://cde.ca.gov/","https://www.cde.ca.gov/",,"https://alert.cdt.ca.gov/",,"https://www.cde.ca.gov/bootstrap/js/jquery-1.10.2.min.js",,,
+"https://cdec.water.ca.gov/",,,"https://alert.cdt.ca.gov/",,"https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js","G-QMSMYVM1J1,UA-3419582-2",,
+"https://cdfa.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: cdfa.ca.gov. is not in the cert's altnames: DNS:*.cdfa.ca.gov"
+"https://cdfw.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 134.186.52.59:443"
+"https://cdiacforms.treasurer.ca.gov/",,,,,,"UA-1867705-1,UA-3419582-2",,
+"https://cdii.ca.gov/","https://www.cdii.ca.gov/","All in One SEO (AIOSEO) 4.6.0","https://alert.cdt.ca.gov/",,"https://www.cdii.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-G7F3RDGPHQ,GTM-MSW2ZV4,UA-1915322-1",,
+"https://cdlaconline.treasurer.ca.gov/","https://cdlaconline.treasurer.ca.gov/Account/Login.aspx?ReturnUrl=%2f",,,,,"UA-1867705-10,UA-3419582-2",,
+"https://cdnverify.bof.fire.ca.gov/",,,,,,"UA-12131957-13,UA-3419582-2",,
+"https://cdnverify.burnpermit.fire.ca.gov/",,,,,,"UA-12131957-17,UA-3419582-2",,
+"https://cdph.ca.gov/","https://www.cdph.ca.gov/",,"https://alert.cdt.ca.gov/",,"https://www.cdph.ca.gov/Style%20Library/CDPH/js/jquery.min.js","G-RESPONSIVE,GTM-KVN6ZCB",,
+"https://cdpr.ca.gov/","https://www.cdpr.ca.gov/",,"https://alert.cdt.ca.gov/","https://www.cdpr.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-THW4EX8XMS",,
+"https://cdss.ca.gov/",,"DotNetNuke ",,"https://cdss.ca.gov/Portals/_default/skins/cagov-santabarbara//js/cagov.core.js","https://cdss.ca.gov/Resources/libraries/jQuery/03_02_01/jquery.js?cdv=630","UA-77698819-4",,
+"https://cdt.ca.gov/",,"CAWeb v.1.11.0","https://alert.cdt.ca.gov/alert.js?ver=1.0.0","https://cdt.ca.gov/wp-content/themes/CAWeb/src/version-6.0/cagov.core.js?ver=1.11.0","https://cdt.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-LPLGX1HR9S,G-Y7T2KCM7P1,UA-20973992-22,UA-3419582-2,UA-3419582-47",,
+"https://cdtfa.ca.gov/",,,"https://alert.cdt.ca.gov/","https://cdtfa.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.6.0.min.js","GTM-W42NR96,UA-3419582-2,UA-64276560-39",,
+"https://census.ca.gov/",,"CAWeb v.1.11.0",,"https://census.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://census.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-TZTNZMGXJE,G-Y7T2KCM7P1,UA-21431721-42,UA-3419582-2,UA-3419582-47",,
+"https://centralregistry.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 67.157.158.190:443"
+"https://ceqanet.opr.ca.gov/",,,,"https://california.azureedge.net/cdt/statetemplate/5.5.21/js/cagov.core.min.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","UA-3419582-2",,
+"https://cers.calepa.ca.gov/",,"CAWeb v.1.11.0",,"https://cers.calepa.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://cers.calepa.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-VKFSF099FL,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47",,
+"https://cfb.ca.gov/",,,,,"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js","G-69TD0KNT0F,G-G28V3EMKNN,UA-64276560-5",,
+"https://cfcc.ca.gov/",,"CAWeb v.1.5.2a",,,"https://cfcc.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-LRBSJ7NJPS",,
+"https://cgcc.ca.gov/",,,,,,,"ECONNRESET","read ECONNRESET"
+"https://changeville.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 208.70.247.56:443"
+"https://chfa.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 165.235.8.7:443"
+"https://chhs.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND chhs.ca.gov"
+"https://chhsa.ca.gov/",,,,,,,"ECONNREFUSED","connect ECONNREFUSED 158.96.244.105:443"
+"https://chhsaio.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND chhsaio.ca.gov"
+"https://childsupport.ca.gov/",,"CAWeb v.1.11.0",,"https://childsupport.ca.gov/wp-content/themes/CAWeb/src/version-6.0/cagov.core.js?ver=1.11.0","https://childsupport.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-V0P67RG6BT,G-Y7T2KCM7P1,GTM-WGNN9NP,UA-21970760-39,UA-3419582-2,UA-3419582-47",,
+"https://childsworld.ca.gov/","https://cdss.ca.gov/inforesources/guides","DotNetNuke ",,"https://cdss.ca.gov/Portals/_default/skins/cagov-santabarbara%20-%20partner//js/cagov.core.js","https://cdss.ca.gov/Resources/libraries/jQuery/03_02_01/jquery.js?cdv=630","UA-77698819-4",,
+"https://chiro.ca.gov/",,,,,,"G-69TD0KNT0F,G-K09KJQJEEF,UA-20973992-13",,
+"https://chp.ca.gov/","https://www.chp.ca.gov/","Microsoft SharePoint",,,"https://www.chp.ca.gov/_catalogs/masterpage/js/jquery.general.api.js?rev=6","GTM-5J36M86,UA-3419582-2,UA-54742716-1",,
+"https://chrb.ca.gov/",,,,"https://chrb.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","G-5Z5BS440DZ",,
+"https://cio.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND cio.ca.gov"
+"https://cirm.ca.gov/","https://www.cirm.ca.gov/","WordPress 6.4.3",,,"https://www.cirm.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-LGEK77YV1P",,
+"https://cityofblythe.ca.gov/",,,,,"https://cityofblythe.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js","G-PXD95BNVLQ,GTM-K73C5PS,GTM-WKGQMK5",,
+"https://cityofcorcoran.ca.gov/",,,,,"https://cityofcorcoran.ca.gov/_assets_/js/jquery.min.js",,,
+"https://cityofmadera.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: cityofmadera.ca.gov. is not in the cert's altnames: DNS:*.madera.gov, DNS:*.cityofmadera.com, DNS:*.cityofmadera.gov, DNS:cityofmadera.com, DNS:cityofmadera.gov, DNS:madera.gov"
+"https://cityofriodell.ca.gov/","https://www.cityofriodell.ca.gov/","Drupal 7 (https://www.drupal.org)",,,"https://www.cityofriodell.ca.gov/misc/jquery.js?v=1.4.4",,,
+"https://cityofrohnertpark.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND cityofrohnertpark.ca.gov"
+"https://cityofsanluisobispo.ca.gov/","https://www.slocity.org/",,,,,"G-EPDQWJJ3BS,G-NHL5LG02HZ,UA-11586192-1",,
+"https://cityofventura.ca.gov/","https://www.cityofventura.ca.gov/",,,,"https://www.cityofventura.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js","G-XWL3SB66NK,GTM-K73C5PS,GTM-WKGQMK5",,
+"https://cjp.ca.gov/",,"CAWeb v.1.11.0",,"https://cjp.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://cjp.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-N3F46379HC,G-Y7T2KCM7P1,UA-22544255-8,UA-3419582-2,UA-3419582-47",,
+"https://cjsp.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: cjsp.ca.gov. is not in the cert's altnames: DNS:*.senate.ca.gov, DNS:senate.ca.gov, DNS:www.senate.ca.gov"
+"https://claimit.ca.gov/","https://sco.ca.gov/search_upd.html",,,,,"GTM-5D5F2SV",,
+"https://claimrequest.edd.ca.gov/",,,,"https://california.azureedge.net/cdt/statetemplate/5.0.17/js/cagov.core.min.js","https://kendo.cdn.telerik.com/2020.3.915/js/jquery.min.js","GTM-PXDRJNP,UA-3419582-31",,
+"https://cleancalifornia.dot.ca.gov/",,,"https://alert.cdt.ca.gov/","https://cleancalifornia.dot.ca.gov/js/cagov.core.min.js","https://code.jquery.com/jquery-3.4.1.min.js","G-69TD0KNT0F,G-KSEZWYWEFM,UA-21431721-46",,
+"https://climateactioncorps.ca.gov/","https://www.californiavolunteers.ca.gov/climateactioncorps/","CAWeb v.1.11.0","https://alert.cdt.ca.gov/alert.js?ver=1.0.0","https://www.californiavolunteers.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://www.californiavolunteers.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-T935JFYNE2,G-Y7T2KCM7P1,GTM-TZDK45W,UA-23110710-36,UA-3419582-2,UA-3419582-47",,
+"https://climateassessment.ca.gov/",,,,"https://climateassessment.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js",,,
+"https://climatechange.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: climatechange.ca.gov. is not in the cert's altnames: DNS:*.energy.ca.gov, DNS:energy.ca.gov"
+"https://climateresilience.ca.gov/",,,,"https://climateresilience.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.6.0.min.js","G-69TD0KNT0F,G-HTRZSKEXJ7",,
+"https://clrc.ca.gov/",,,,,,,"ECONNREFUSED","connect ECONNREFUSED 128.120.47.45:443"
+"https://clsd.ca.gov/",,"WordPress 6.3.4",,,"https://clsd.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.0",,,
+"https://cmd.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND cmd.ca.gov"
+"https://cmips.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND cmips.ca.gov"
+"https://cmipsii-fl1.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 134.186.251.186:443"
+"https://cmipsii-fl2.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 134.186.251.190:443"
+"https://cmipsii-per.ca.gov/",,,,,,,"ETIMEDOUT","read ETIMEDOUT"
+"https://cmipsii-test.ca.gov/",,,,,,,"ETIMEDOUT","read ETIMEDOUT"
+"https://cmipsii-test1.ca.gov/",,,,,,,"ETIMEDOUT","read ETIMEDOUT"
+"https://cmipsii-test2.ca.gov/",,,,,,,"ETIMEDOUT","read ETIMEDOUT"
+"https://cmipsii-trn.ca.gov/",,,,,,,"ECONNRESET","read ECONNRESET"
+"https://cmipsii.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 134.186.117.28:443"
+"https://cnd.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND cnd.ca.gov"
+"https://cnips.ca.gov/",,,,,,,,
+"https://cnra.ca.gov/","https://resources.ca.gov/",,,,"https://resources.ca.gov/sitecore%20modules/Web/ExperienceForms/scripts/jquery-3.4.1.min.js","G-L1ZSB6EXE0,UA-3419582-2,UA-59627195-1",,
+"https://co.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND co.ca.gov"
+"https://coastal.ca.gov/",,,"https://alert.cdt.ca.gov/",,,"G-38DMPFK630,G-69TD0KNT0F",,
+"https://coastalwatersheds.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 134.186.52.47:443"
+"https://code.ca.gov/",,"CAWeb v.1.11.0",,"https://code.ca.gov/wp-content/themes/CAWeb/src/version-6.0/cagov.core.js?ver=1.11.0","https://code.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-V48N03F5V0,G-Y7T2KCM7P1,UA-20973992-27,UA-3419582-2,UA-3419582-47",,
+"https://cold.ca.gov/",,,,,,,"CERT_HAS_EXPIRED","certificate has expired"
+"https://colma.ca.gov/","https://www.colma.ca.gov/","Site Kit by Google 1.126.0",,,"https://www.colma.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-02VT5TFXMJ",,
+"https://communityhealthstudies.cdph.ca.gov/",,,,,,"GTM-KVN6ZCB,UA-42142214-1",,
+"https://condadodesonoma.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND condadodesonoma.ca.gov"
+"https://confire.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 12.230.37.5:443"
+"https://conservation.ca.gov/","https://www.conservation.ca.gov/","Microsoft SharePoint","https://alert.cdt.ca.gov/","https://www.conservation.ca.gov/_catalogs/masterpage/DOC/js/cagov.core.min.js?v=190620","https://www.conservation.ca.gov/_catalogs/masterpage/DOC/js/libs/jquery.min.js?v=190620","G-69TD0KNT0F,G-MUHJYLBKH_,G-N4MB98DBXY,UA-3419582-2,UA-34494709-1",,
+"https://conserve.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 40.112.192.59:443"
+"https://consrv.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: consrv.ca.gov. is not in the cert's altnames: DNS:*.conservation.ca.gov, DNS:conservation.ca.gov"
+"https://contracosta.ca.gov/","https://www.contracosta.ca.gov/",,,,"https://www.contracosta.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js","G-PC37G0VFEW,GTM-K73C5PS,GTM-WKGQMK5",,
+"https://corc.hcai.ca.gov/",,,,,,,,
+"https://corc.oshpd.ca.gov/",,,,,,,,
+"https://cortinacsd.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND cortinacsd.ca.gov"
+"https://cotce.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND cotce.ca.gov"
+"https://countyofmodoc.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND countyofmodoc.ca.gov"
+"https://countyofsantaclara.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: countyofsantaclara.ca.gov. is not in the cert's altnames: DNS:*.sccgov.org, DNS:sccgov.org"
+"https://courtinfo.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: courtinfo.ca.gov. is not in the cert's altnames: DNS:courts.ca.gov, DNS:www.courts.ca.gov, DNS:appellatecases.courtinfo.ca.gov, DNS:cidcs.courtinfo.ca.gov, DNS:interpreterportal.courts.ca.gov, DNS:jbsis.courtinfo.ca.gov, DNS:jrn.courts.ca.gov, DNS:www2.courtinfo.ca.gov, DNS:www4.courtinfo.ca.gov"
+"https://courtreportersboard.ca.gov/",,,,"https://courtreportersboard.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-512WQC0YJW,G-69TD0KNT0F,GTM-NBQCVZC,UA-3419582-2,UA-64276560-6",,
+"https://courts-tc.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND courts-tc.ca.gov"
+"https://courts.ca.gov/","https://www.courts.ca.gov/",,,,"https://cdn.jsdelivr.net/jquery/3.1.1/jquery.min.js",,,
+"https://covered.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 158.96.244.103:443"
+"https://coveredca.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND coveredca.ca.gov"
+"https://covid19.ca.gov/","https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/nCoV2019.aspx",,"https://alert.cdt.ca.gov/",,"https://www.cdph.ca.gov/Style%20Library/CDPH/js/jquery.min.js","G-RESPONSIVE,GTM-KVN6ZCB",,
+"https://cpads.sco.ca.gov/",,,,,,"GTM-MWCXZTZ",,
+"https://cpec.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND cpec.ca.gov"
+"https://cphcs.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND cphcs.ca.gov"
+"https://cphcs.hodesiq.com/","http://cchcs.ca.gov/careers/","CAWeb v.1.11.0",,"http://cchcs.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","http://cchcs.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-Q9Y67HPNNY,G-Y7T2KCM7P1,GTM-T7W8RZ8,UA-3419582-2,UA-3419582-47",,
+"https://cpost.ca.gov/",,"CAWeb v.1.11.0",,"https://cpost.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://cpost.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-7XL4THCV92,G-Y7T2KCM7P1,UA-20973992-25,UA-3419582-2,UA-3419582-47",,
+"https://cppa.ca.gov/",,,,"https://cppa.ca.gov/js/cagov.core.min.js","https://cppa.ca.gov/js/libs/jquery.js","G-69TD0KNT0F,G-WFY9PWDBY2,UA-31125811-47,UA-3419582-2",,
+"https://cpuc.ca.gov/","https://www.cpuc.ca.gov/",,,,"https://www.cpuc.ca.gov/assets/js/jquery.cookie.js","G-LM6T7RGC27,UA-1915322-1",,
+"https://cradletocareer.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND cradletocareer.ca.gov"
+"https://crawlers.newgen.co/",,,,,"https://crawlers.newgen.co/bower_components/jquery/dist/jquery.min.js",,,
+"https://crb.ca.gov/",,,"https://alert.cdt.ca.gov/","https://crb.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","UA-3419582-2,UA-59627195-4",,
+"https://crc.ca.gov/","https://wedrawthelines.ca.gov/","CAWeb v.1.11.0",,"https://wedrawthelines.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://wedrawthelines.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47,UA-44798820-1",,
+"https://creec.conservation.ca.gov/",,,,,"https://creec.conservation.ca.gov/dist/jquery/dist/jquery.min.js","UA-3419582-2,UA-34494709-5",,
+"https://crob.ca.gov/",,"WordPress 6.5.4",,,"https://crob.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-QLV9BHLEDN",,
+"https://csac.ca.gov/","https://www.csac.ca.gov/",,"https://alert.cdt.ca.gov/",,,"GTM-KKZHS8M,UA-21974567-25",,
+"https://csb-cde.ca.gov/",,,,,"https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js","G-CZVXSCW7Y7",,
+"https://csd.ca.gov/",,"Microsoft SharePoint","https://alert.cdt.ca.gov/","https://csd.ca.gov/_catalogs/masterpage/js/cagov.core.js","https://csd.ca.gov/_catalogs/masterpage/js/jquery.min.js","G-69TD0KNT0F,G-HK7CWSQCBM,G-K8ONJL3UKX",,
+"https://csdf-cde.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND csdf-cde.ca.gov"
+"https://csdr-cde.ca.gov/",,,,,"https://csdr-cde.ca.gov/assets/js/jquery-3.2.1.slim.min.js","G-KM0EBRSG3J",,
+"https://cse.ca.gov/",,,,,,,"ETIMEDOUT",
+"https://cslb.ca.gov/",,,"https://alert.cdt.ca.gov/","https://cslb.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.6.1.min.js","G-1W465E5H9H,UA-3419582-2,UA-8901380-1",,
+"https://csm.ca.gov/",,,,"https://csm.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js",,,
+"https://csr.dot.ca.gov/",,,,"https://csr.dot.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js","UA-21431721-9,UA-3419582-2",,
+"https://csssa.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: csssa.ca.gov. is not in the cert's altnames: DNS:www.csssa.ca.gov"
+"https://ctc.ca.gov/",,,,,,,,"Resource was not loaded. Status: 502"
+"https://cuiab.ca.gov/",,"CAWeb v.1.11.0",,"https://cuiab.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://cuiab.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-Y7T2KCM7P1,GTM-W6WGLB2,UA-3419582-2,UA-3419582-47",,
+"https://cv.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND cv.ca.gov"
+"https://cvflood.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 134.186.116.57:443"
+"https://cvfpb.ca.gov/",,,"https://alert.cdt.ca.gov/","https://cvfpb.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","G-KET7KQ57KC,UA-3419582-2",,
+"https://cvmc.ca.gov/",,,"https://alert.cdt.ca.gov/","https://cvmc.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","UA-3419582-14,UA-3419582-2",,
+"https://cvmdistrict.ca.gov/",,"Wix.com Website Builder",,,,"G-BACKGROUND,G-PROVISIONI,G-TRANSLATIO",,
+"https://cwc.ca.gov/",,,,,"https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js","GTM-KZVRVN6",,
+"https://cwdb.ca.gov/",,"CAWeb v.1.11.0","https://alert.cdt.ca.gov/alert.js?ver=1.0.0","https://cwdb.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://cwdb.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-TQ5Q6K3P3K,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47",,
+"https://cwds.ca.gov/",,,,,,,,
+"https://cww.water.ca.gov/",,,"https://alert.cdt.ca.gov/","https://cww.water.ca.gov/resources/js/cagov.core.js?v=1.0.8","https://cww.water.ca.gov/resources/js/jquery/3.2.1/jquery.min.js?v=1.0.8","G-G9NNQTSS8V",,
+"https://danville.ca.gov/",,,,,"https://danville.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js","G-K6CCK2JPQ9,GTM-K73C5PS,GTM-WKGQMK5",,
+"https://das.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND das.ca.gov"
+"https://data.ca.gov/",,"ckan 2.9.9",,,"https://code.jquery.com/jquery-1.11.0.min.js","G-YZK8JCN4R2,GTM-TKCM6M7",,
+"https://data.debtwatch.treasurer.ca.gov/",,,,,,,,"Resource was not loaded. Status: 400"
+"https://dbc.ca.gov/",,,,"https://dbc.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-08SZZ6P9LW,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-8",,
+"https://dbo.ca.gov/","https://dfpi.ca.gov/","CAWeb v.1.11.0",,"https://dfpi.ca.gov/wp-content/themes/CAWeb/src/version-6.0/cagov.core.js?ver=1.11.0","https://dfpi.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-LDV6PXRQJZ,G-Y7T2KCM7P1,GTM-THQJCSG,UA-3419582-2,UA-3419582-47,UA-41828493-1",,
+"https://dbw.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: dbw.ca.gov. is not in the cert's altnames: DNS:*.parks.ca.gov, DNS:*.ohv.parks.ca.gov, DNS:olga.dbw.parks.ca.gov"
+"https://dbw.parks.ca.gov/",,,,,"https://dbw.parks.ca.gov/vendor/jquery/jquery.min.js","G-NQRMQVQ7T5,UA-3419582-2",,
+"https://dc-cde.ca.gov/",,"Jekyll v3.8.5",,,"https://code.jquery.com/jquery-3.2.1.slim.min.js",,,
+"https://dca.ca.gov/",,,,"https://dca.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-F2FZM7Q8TN,GTM-M683DJB,GTM-NBQCVZC,UA-21974567-32,UA-3419582-2",,
+"https://dcalists.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 159.145.15.100:443"
+"https://dcc-cde.ca.gov/",,,,,"https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js","G-DMB73EY1PT",,
+"https://dcn-cde.ca.gov/",,,,,"https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js","G-OLDSACRAME,G-WBWQR22BJZ",,
+"https://dcs-cde.ca.gov/",,,,,"https://dcs-cde.ca.gov/jquery/jquery-3-4-1.js","G-Z7339LS5S2",,
+"https://dcss.ca.gov/",,"CAWeb v.1.11.0",,"https://dcss.ca.gov/wp-content/themes/CAWeb/src/version-6.0/cagov.core.js?ver=1.11.0","https://dcss.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-5433YW1BYG,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47",,
+"https://dds.ca.gov/",,,,,,,"EPROTO","write EPROTO 00B6C81101000000:error:0A000410:SSL routines:ssl3_read_bytes:ssl/tls alert handshake failure:ssl/record/rec_layer_s3.c:907:SSL alert number 40
+"
+"https://debtwatch.treasurer.ca.gov/",,,,,,,,
+"https://deerspringsfpd.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND deerspringsfpd.ca.gov"
+"https://delta.ca.gov/",,,"https://alert.cdt.ca.gov/","https://delta.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","UA-20973992-19,UA-3419582-2",,
+"https://deltaconservancy.ca.gov/",,,"https://alert.cdt.ca.gov/","https://deltaconservancy.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","UA-3419582-2,UA-59627195-6",,
+"https://deltacouncil.ca.gov/",,,,"https://deltacouncil.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.6.4.min.js","G-J0HKBXFMWX",,
+"https://dental.dhcs.ca.gov/",,,,,,,"UNABLE_TO_VERIFY_LEAF_SIGNATURE","unable to verify the first certificate"
+"https://denti-cal.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND denti-cal.ca.gov"
+"https://dev-www.dor.ca.gov/",,,"https://alert.cdt.ca.gov/","https://cdn.cdt.ca.gov/cdt/statetemplate/6.3.1/js/cagov.core.min.js",,"G-69TD0KNT0F,UA-21431721-18,UA-3419582-2",,
+"https://dev.ceqanet.opr.ca.gov/",,,,"https://california.azureedge.net/cdt/statetemplate/5.5.21/js/cagov.core.min.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","UA-3419582-2",,
+"https://dfeh.ca.gov/","https://calcivilrights.ca.gov/","CAWeb v.1.11.0",,"https://calcivilrights.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://calcivilrights.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-DMYWEFRNDX,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47",,
+"https://dfg.ca.gov/",,,,,,,,"Resource was not loaded. Status: 404"
+"https://dfpi.ca.gov/",,"CAWeb v.1.11.0",,"https://dfpi.ca.gov/wp-content/themes/CAWeb/src/version-6.0/cagov.core.js?ver=1.11.0","https://dfpi.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-LDV6PXRQJZ,G-Y7T2KCM7P1,GTM-THQJCSG,UA-3419582-2,UA-3419582-47,UA-41828493-1",,
+"https://dgs.ca.gov/","https://www.dgs.ca.gov/",,"https://alert.cdt.ca.gov/",,"https://www.dgs.ca.gov/assets/js/jquery-ui.min.js","GTM-5D4N99T,UA-19802602-2",,
+"https://dhbc.ca.gov/",,,,"https://dhbc.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","G-69TD0KNT0F,G-K5HC50T3RN,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-7",,
+"https://dhcs.ca.gov/",,,,,,,"UNABLE_TO_VERIFY_LEAF_SIGNATURE","unable to verify the first certificate"
+"https://dhcsrightfax.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND dhcsrightfax.ca.gov"
+"https://dhs.ca.gov/",,,,,,,"ECONNRESET","read ECONNRESET"
+"https://digital.ca.gov/","https://innovation.ca.gov/",,"https://alert.cdt.ca.gov/",,,"GTM-PQRTS7Z",,
+"https://dinuba.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: dinuba.ca.gov. is not in the cert's altnames: DNS:froxlor2.bcs-consulting.info"
+"https://dir.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: dir.ca.gov. is not in the cert's altnames: DNS:www.dir.ca.gov"
+"https://distancelearning.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND distancelearning.ca.gov"
+"https://dlse.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: dlse.ca.gov. is not in the cert's altnames: DNS:www.dir.ca.gov"
+"https://dmac.ca.gov/",,,,,"https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js",,,
+"https://dmae.ca.gov/",,"WordPress 5.7.11",,,"https://dmae.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.5.1",,,
+"https://dmca.ca.gov/",,,,,,,"ECONNRESET","Client network socket disconnected before secure TLS connection was established"
+"https://dmhc.ca.gov/",,,"https://alert.cdt.ca.gov/","https://dmhc.ca.gov/Portals/_default/Skins/CAgov_oceanside/js/cagov.core.js","https://dmhc.ca.gov/Resources/libraries/jQuery/03_05_01/jquery.js?cdv=691","G-69TD0KNT0F,G-ZGVNWLCQD3",,
+"https://dmv.ca.gov/","https://www.dmv.ca.gov/",,,,,,,
+"https://dmvemailalert.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND dmvemailalert.ca.gov"
+"https://dmvonline.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND dmvonline.ca.gov"
+"https://dof.ca.gov/",,"CAWeb v.1.11.0",,"https://dof.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://dof.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-VD26R84GCD,G-Y7T2KCM7P1,GTM-NP5WX3F,UA-21431721-3,UA-3419582-2,UA-3419582-47",,
+"https://doj.ca.gov/","https://www.oag.ca.gov/","Drupal 7 (http://drupal.org)",,,"https://code.jquery.com/jquery-1.9.1.min.js","G-6SNZMLLM7F",,
+"https://dor.ca.gov/",,,"https://alert.cdt.ca.gov/","https://california.azureedge.net/cdt/statetemplate/6.0.8/js/cagov.core.min.js",,"G-69TD0KNT0F,G-74S7YNBTH1,UA-21431721-18,UA-3419582-2",,
+"https://dot.ca.gov/",,,"https://alert.cdt.ca.gov/","https://dot.ca.gov/js/cagov.core.min.js","https://code.jquery.com/jquery-3.4.1.min.js","G-69TD0KNT0F,G-PXR8P55JR4,G-WLDEF7NZZ2,GTM-573PLG9",,
+"https://dpa.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 198.187.6.33:443"
+"https://dre.ca.gov/",,,"https://alert.cdt.ca.gov/",,"https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js","G-N2491HJ7H9",,
+"https://drinc.ca.gov/",,,,,,,,
+"https://driveclean.ca.gov/",,"Drupal 9 (https://www.drupal.org)",,,,"G-K1QKLZJMS0",,
+"https://drought.ca.gov/","https://cww.water.ca.gov/",,"https://alert.cdt.ca.gov/","https://cww.water.ca.gov/resources/js/cagov.core.js?v=1.0.8","https://cww.water.ca.gov/resources/js/jquery/3.2.1/jquery.min.js?v=1.0.8","G-G9NNQTSS8V",,
+"https://dsh.ca.gov/",,,"https://alert.cdt.ca.gov/","https://dsh.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","GTM-P37W8DW",,
+"https://dss.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND dss.ca.gov"
+"https://dts.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: dts.ca.gov. is not in the cert's altnames: DNS:*.go-vip.co, DNS:go-vip.co"
+"https://dtsc.ca.gov/",,,,,,,,
+"https://dublin.ca.gov/",,,,,"https://dublin.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js","G-J43R5LMW0E,GTM-K73C5PS,GTM-WKGQMK5",,
+"https://dwc.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND dwc.ca.gov"
+"https://eaap.ca.gov/",,"CAWeb v.1.11.0",,"https://eaap.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://eaap.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-V284CPG2YF,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47",,
+"https://eams.dwc.ca.gov/",,,,,,,,
+"https://eamsprep.dwc.ca.gov/",,,,,,,,
+"https://ears.dre.ca.gov/",,,,,"https://ears.dre.ca.gov/Scripts/jquery-3.7.0.min.js",,,
+"https://earthquake.ca.gov/",,"CAWeb v.1.7.1","https://alert.cdt.ca.gov/",,"https://c0.wp.com/c/6.1.6/wp-includes/js/jquery/jquery.min.js","G-4NK0NC7W6K,G-69TD0KNT0F",,
+"https://ebt.ca.gov/",,,,,,,"CERT_HAS_EXPIRED","certificate has expired"
+"https://ebtproject.ca.gov/","https://www.ebtproject.ca.gov/",,,"https://www.ebtproject.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js",,,
+"https://ebudget.ca.gov/",,,,,,"G-4W7GTR6KWV",,
+"https://ecos.ca.gov/","https://ecos.ca.gov/Login.aspx?ReturnUrl=%2f",,,,"https://ecos.ca.gov/javascript/jquery-1.11.1.min.js",,,
+"https://edd.ca.gov/",,,"https://alert.cdt.ca.gov/","https://edd.ca.gov/Assets/js/cagov.core.min.js","https://code.jquery.com/jquery-3.4.1.min.js","G-69TD0KNT0F,G-KF25MR5YHK,GTM-N8KVMBR,UA-3419582-31",,
+"https://eddservices.edd.ca.gov/",,,,,,,,
+"https://edhfire.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: edhfire.ca.gov. is not in the cert's altnames: DNS:*.prod.phx3.secureserver.net, DNS:prod.phx3.secureserver.net"
+"https://edlapp.dmv.ca.gov/","https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/dl-id-online-app-edl-44/",,,,"https://www.dmv.ca.gov/portal/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","GTM-5BSDFST,GTM-KHCVGH4,UA-3419582-34",,
+"https://education.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND education.ca.gov"
+"https://efiling.dir.ca.gov/",,,,,,,,
+"https://efilingprep.dir.ca.gov/",,,,,,,,
+"https://ehib.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND ehib.ca.gov"
+"https://ehr.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND ehr.ca.gov"
+"https://eitc.ca.gov/","https://www.cdss.ca.gov/earned-income-tax-credit","DotNetNuke ",,"https://www.cdss.ca.gov/Portals/_default/skins/cagov-santabarbara//js/cagov.core.js","https://www.cdss.ca.gov/Resources/libraries/jQuery/03_02_01/jquery.js?cdv=630","UA-77698819-4",,
+"https://eldoradocounty.ca.gov/","https://www.eldoradocounty.ca.gov/Home","OpenCities - http://www.opencities.com",,,"https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js","G-4QFQNQ89RW",,
+"https://emsa.ca.gov/",,"CAWeb v.1.11.0",,"https://emsa.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://emsa.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-X6L4EHC0ZJ,G-Y7T2KCM7P1,UA-23110710-29,UA-3419582-2,UA-3419582-47",,
+"https://energy.ca.gov/","https://www.energy.ca.gov/","Drupal 10 (https://www.drupal.org)",,,,"G-B5BLHWHE7P,UA-20973992-7,UA-3419582-2",,
+"https://energysafety.ca.gov/",,"CAWeb v.1.9.0","https://alert.cdt.ca.gov/",,"https://energysafety.ca.gov/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.25.0","G-69TD0KNT0F,G-DCP197HRSL",,
+"https://eocs.dre.ca.gov/",,,,,"https://eocs.dre.ca.gov/Scripts/jquery-ui.min.js",,,
+"https://epanet.ca.gov/","https://intranet.calepa.ca.gov/wp-login.php?redirect_to=%2F",,,,"https://intranet.calepa.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",,,
+"https://escog.ca.gov/",,,,,,"G-0E87500F7A,G-1A8C2F2161,G-5CGC3ET1CB,G-A9EB87C1B7,G-ALTERNATIN,G-CC62B0E68D,G-COLLECTION",,
+"https://eservices.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND eservices.ca.gov"
+"https://etp.ca.gov/",,"CAWeb v.1.11.0","https://alert.cdt.ca.gov/alert.js?ver=1.0.0","https://etp.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://etp.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-CTKM4GM02H,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47,UA-64276560-40",,
+"https://ets.cdpr.ca.gov/",,,,"https://ets.cdpr.ca.gov/state_templates/state-template-new/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-THW4EX8XMS",,
+"https://eureka.ca.gov/","https://www.eurekaca.gov/",,,,"https://www.eurekaca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js","G-25V44GWDSE,G-J8PQRHX26Z,GTM-K73C5PS,GTM-WKGQMK5",,
+"https://evq.dtsc.ca.gov/","https://evq.dtsc.ca.gov/Home.aspx",,,"https://evq.dtsc.ca.gov/js/cagov.core.js?version=20190727v5","https://evq.dtsc.ca.gov/js/libs/jquery-3.7.0.min.js","G-69TD0KNT0F,G-6GHG284R8P,UA-19066778-5,UA-3419582-14,UA-3419582-2",,
+"https://exams.spb.ca.gov/",,,,,,,,
+"https://expositionpark.ca.gov/",,,"https://alert.cdt.ca.gov/","https://expositionpark.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","UA-3419582-2,UA-59627195-10",,
+"https://fairfield.ca.gov/","https://www.fairfield.ca.gov/",,,,"https://www.fairfield.ca.gov/Project/Contents/Main/scripts/FancyBox/jquery.fancybox.js","G-EPDQWJJ3BS,G-EY671MT1YW,G-INFORMATIO,G-KXTQFMR5RR",,
+"https://familieschange.ca.gov/","https://www.familieschange.ca.gov/","Drupal 7 (http://drupal.org)",,,"https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js","UA-42225500-1",,
+"https://ferix.water.ca.gov/",,,,,,,,
+"https://fgc.ca.gov/",,,"https://alert.cdt.ca.gov/","https://fgc.ca.gov/Portals/_default/skins/cagov_FGC/js/cagov.core.js","https://fgc.ca.gov/Resources/libraries/jQuery/03_07_01/jquery.js?cdv=496","G-QHR5ZZWW7J",,
+"https://fiduciary.ca.gov/",,,,"https://fiduciary.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","GTM-M683DJB,GTM-NBQCVZC",,
+"https://filerequest.conservation.ca.gov/",,,,"https://filerequest.conservation.ca.gov/Scripts/cagov.core.min.js","https://filerequest.conservation.ca.gov/Scripts/jquery.js","G-69TD0KNT0F,G-TB4GXTE2XM,UA-3419582-2,UA-34494709-1,UA-34494709-9",,
+"https://files.medi-cal.ca.gov/",,,,,,,,
+"https://files.resources.ca.gov/",,,,,,,,
+"https://film.ca.gov/",,"CAWeb v.1.5.2a",,,"https://film.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-JDMK21MWQ4",,
+"https://findanewway.ca.gov/","https://findanewway.ca.gov/wp-login.php?redirect_to=%2F",,,,"https://findanewway.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",,,
+"https://findrecreation.parks.ca.gov/",,,,,,,,"Resource was not loaded. Status: 404"
+"https://fire.ca.gov/","https://www.fire.ca.gov/",,"https://alert.cdt.ca.gov/",,"https://www.fire.ca.gov/assets/js/jquery.cookie.js","G-DJY7D8Z6M7,UA-12131957-10,UA-3419582-2",,
+"https://fireandrescuetraining.ca.gov/",,,,,,,"CERT_HAS_EXPIRED","certificate has expired"
+"https://firewood.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: firewood.ca.gov. is not in the cert's altnames: DNS:*.azureedge.net, DNS:*.media.microsoftstream.com, DNS:*.origin.mediaservices.windows.net, DNS:*.streaming.mediaservices.windows.net"
+"https://first5.ca.gov/",,,,,"https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js","G-ZPMNSRN8SN",,
+"https://fiscal.ca.gov/",,"Divi Child v.3.11.1.1533591462","https://alert.cdt.ca.gov/",,"https://fiscal.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","GTM-5TVLDSK,UA-3419582-2",,
+"https://fooddrive.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND fooddrive.ca.gov"
+"https://forms.edd.ca.gov/","https://forms.edd.ca.gov/Forms",,,,"https://forms.edd.ca.gov/Forms/bundles/jquery?v=5hTwZAgOL6y9QWy14bLU-vP302YrsxMx2mXqE9V7OjM1","GTM-N8KVMBR,UA-3419582-2,UA-3419582-31",,
+"https://fosteryouthhelp.ca.gov/",,"CAWeb v.1.11.0",,"https://fosteryouthhelp.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://fosteryouthhelp.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-4RW3WH91Z0,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-31125811-40,UA-3419582-2,UA-3419582-47",,
+"https://fountainvalley.ca.gov/",,,,,,,"ECONNRESET","read ECONNRESET"
+"https://fppc.ca.gov/",,,,,,"G-1V1D6GRFKL,UA-22860881-1,UA-3419582-2",,
+"https://fppcada.fppc.ca.gov/",,,,,,,,
+"https://frap.fire.ca.gov/",,,,,,,"CERT_HAS_EXPIRED","certificate has expired"
+"https://freeventureprogram.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 209.232.126.21:443"
+"https://fresno.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 165.235.95.4:443"
+"https://ftb.ca.gov/","https://www.ftb.ca.gov/",,"https://alert.cdt.ca.gov/","https://www.ftb.ca.gov/js/cagov.core.js","https://www.ftb.ca.gov/js/libs/jquery.js","G-EQVZX0SCVD,GTM-NJ6Q4MV,UA-3419582-45",,
+"https://futureofwork.ca.gov/","https://www.labor.ca.gov/labor-and-workforce-development-agency/fowc/","CAWeb v.1.11.0",,"https://www.labor.ca.gov/wp-content/themes/CAWeb/src/version-6.0/cagov.core.js?ver=1.11.0","https://www.labor.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-Y7T2KCM7P1,G-YSQBHYZ0HH,UA-24087628-9,UA-3419582-2,UA-3419582-47",,
+"https://futureofwork.cnra.ca.gov/",,,"https://alert.cdt.ca.gov/","https://futureofwork.cnra.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","UA-3419582-2,UA-59627195-7",,
+"https://gamagroundwater.waterboards.ca.gov/","https://gamagroundwater.waterboards.ca.gov/gama/gamamap/public/",,,,"https://code.jquery.com/jquery-3.4.0.min.js",,,
+"https://gcc.sco.ca.gov/",,,,,"https://gcc.sco.ca.gov/scripts/jquery-3.5.1.min.js","GTM-KX7MF5M",,
+"https://geosteam.conservation.ca.gov/",,,,,"https://geosteam.conservation.ca.gov/bundles/jquery?v=2u0aRenDpYxArEyILB59ETSCA2cfQkSMlxb6jbMBqf81","G-69TD0KNT0F,G-N4MB98DBXY,UA-3419582-2,UA-34494709-5",,
+"https://geotracker.waterboards.ca.gov/",,,,"https://geotracker.waterboards.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js","GTM-NP6RZTM",,
+"https://gis.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND gis.ca.gov"
+"https://gis.cdph.ca.gov/",,,,,,"GTM-KVN6ZCB",,
+"https://gis.cdtfa.ca.gov/",,,,,,,,
+"https://glenncourt.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND glenncourt.ca.gov"
+"https://gobiz.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 13.56.65.113:443"
+"https://gocalif.ca.gov/","https://www.visitcalifornia.com/",,,,,"GTM-MTP25B5",,
+"https://gov.ca.gov/","https://www.gov.ca.gov/","CAWeb v.1.11.0","https://alert.cdt.ca.gov/alert.js?ver=1.0.0",,"https://www.gov.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-2G5GML7PQ6,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-28,UA-3419582-47",,
+"https://govelect.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND govelect.ca.gov"
+"https://governor.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND governor.ca.gov"
+"https://governors.library.ca.gov/",,,,,"https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js","G-P6576W6TR3,UA-15543597-5,UA-3419582-2",,
+"https://govops.ca.gov/","https://www.govops.ca.gov/","CAWeb v.1.11.0","https://alert.cdt.ca.gov/alert.js?ver=1.0.0",,"https://www.govops.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-Y7T2KCM7P1,UA-20973992-24,UA-3419582-2,UA-3419582-47",,
+"https://granada.ca.gov/",,,,,,,,
+"https://grants.ca.gov/","https://www.grants.ca.gov/",,,,"https://www.grants.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","GTM-WFDBH54",,
+"https://grassvalley.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND grassvalley.ca.gov"
+"https://green.ca.gov/",,,"https://alert.cdt.ca.gov/","https://green.ca.gov/js/cagov.core.js","https://green.ca.gov/js/libs/jquery-1.11.1.min.js","UA-24087628-30,UA-3419582-2",,
+"https://greenbank.ca.gov/",,,,,,,"ECONNRESET","read ECONNRESET"
+"https://handbook.data.ca.gov/",,"CAWeb v.1.11.0",,"https://handbook.data.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://handbook.data.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-S7KNWXCGXE,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47",,
+"https://hbex.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 158.96.244.103:443"
+"https://hbex.coveredca.com/",,,,"https://hbex.coveredca.com/js/cagov.core.js?v=1.0","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","GTM-MZ6V4GW",,
+"https://hcai.ca.gov/",,,,,"https://hcai.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",,,
+"https://hcd.ca.gov/","https://www.hcd.ca.gov/","Drupal 10 (https://www.drupal.org)","https://alert.cdt.ca.gov/",,"https://www.hcd.ca.gov/core/assets/vendor/jquery/jquery.min.js?v=3.7.1","G-QS82RV855R",,
+"https://hcrc.ca.gov/",,,,"https://hcrc.ca.gov/js/cagov.core.js",,"UA-20973992-30",,
+"https://healthcarecompare.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND healthcarecompare.ca.gov"
+"https://healthcareportal.cdph.ca.gov/",,,,,"https://healthcareportal.cdph.ca.gov/Javascript/jquery-1.7.2.min.js","UA-3419582-2,UA-38845284-1",,
+"https://healthcarequality.ca.gov/",,,,,,,"ECONNRESET","read ECONNRESET"
+"https://healthcarevolunteers.ca.gov/",,,,,"https://healthcarevolunteers.ca.gov/js-40e616addffda3fc3003318e6568279f74b894d2/suit/lib/jquery.js","G-X977ZY5DXX",,
+"https://healthcorps.ca.gov/",,,,,,,,"Resource was not loaded. Status: 404"
+"https://healthexchange.ca.gov/",,,,"https://healthexchange.ca.gov/js/cagov.core.js?v=1.0","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","GTM-MZ6V4GW",,
+"https://healthhelp.ca.gov/","https://www.dmhc.ca.gov/?referral=healthhelp.ca.gov",,"https://alert.cdt.ca.gov/","https://www.dmhc.ca.gov/Portals/_default/Skins/CAgov_oceanside/js/cagov.core.js","https://www.dmhc.ca.gov/Resources/libraries/jQuery/03_05_01/jquery.js?cdv=691","G-69TD0KNT0F,G-ZGVNWLCQD3",,
+"https://heber.ca.gov/",,"Drupal 8 (https://www.drupal.org)",,,,,,
+"https://heliplates.dot.ca.gov/",,,,"https://heliplates.dot.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js",,,
+"https://hellosavings.ca.gov/",,,,,"https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js","G-HTYPNEVXNL,UA-15934248-11,UA-1915322-13,UA-23611081-1",,
+"https://heritageranchcsd.ca.gov/",,,,,,"UA-40786643-1",,
+"https://hhsdc.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND hhsdc.ca.gov"
+"https://highlandsrec.ca.gov/",,,,,,,,
+"https://hmohelp.ca.gov/","https://www.dmhc.ca.gov/?referral=hmohelp.ca.gov",,"https://alert.cdt.ca.gov/","https://www.dmhc.ca.gov/Portals/_default/Skins/CAgov_oceanside/js/cagov.core.js","https://www.dmhc.ca.gov/Resources/libraries/jQuery/03_05_01/jquery.js?cdv=691","G-69TD0KNT0F,G-ZGVNWLCQD3",,
+"https://hollister.ca.gov/",,,,,"https://hollister.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",,,
+"https://holtville.ca.gov/","https://www.holtville.ca.gov/","WordPress 6.5.3",,,"https://www.holtville.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-2113MM4S7R",,
+"https://housing.ca.gov/",,,"https://alert.cdt.ca.gov/","https://housing.ca.gov/js/cagov.core.min.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-W5EYVVHFR4,GTM-M683DJB,GTM-NBQCVZC,GTM-WB432SG,UA-21974567-46,UA-3419582-2",,
+"https://hrnet.calhr.ca.gov/",,,,,,,,
+"https://hsr.ca.gov/",,,,,,,,
+"https://humboldtcourt.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 12.176.93.80:443"
+"https://hwts.dtsc.ca.gov/",,,,"https://hwts.dtsc.ca.gov/rjs/cagov.core.js","https://code.jquery.com/jquery-3.4.1.min.js","G-69TD0KNT0F,G-J9LBN7HTWJ",,
+"https://ibank.ca.gov/",,"CAWeb v.1.5.2a",,,"https://ibank.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-SMHZVBEWVK",,
+"https://iep.ca.gov/",,,"https://alert.cdt.ca.gov/","https://iep.ca.gov/Portals/_default/skins/cagov_trinity/js/cagov.core.js","https://iep.ca.gov/Resources/libraries/jQuery/03_07_01/jquery.js?cdv=470","G-YSTKZ5TE6T",,
+"https://ig.dot.ca.gov/",,,"https://alert.cdt.ca.gov/","https://ig.dot.ca.gov/js/cagov.core.min.js","https://code.jquery.com/jquery-3.4.1.min.js","G-2E0Z1X4NN2,G-69TD0KNT0F",,
+"https://ihss.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND ihss.ca.gov"
+"https://immigrantguide.ca.gov/",,,,"https://immigrantguide.ca.gov/Content/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","GTM-W7QW34Z,UA-20973992-28,UA-3419582-2",,
+"https://imperial.ca.gov/",,,,,,,"ECONNRESET","Client network socket disconnected before secure TLS connection was established"
+"https://infosecurity.ca.gov/",,,,,,,"ECONNRESET","connect ECONNRESET 67.157.98.40:443"
+"https://inmatelocator.cdcr.ca.gov/",,,,,,,,
+"https://innovation.ca.gov/",,,"https://alert.cdt.ca.gov/",,,"GTM-PQRTS7Z",,
+"https://insurance.ca.gov/","https://www.insurance.ca.gov/","CommonSpot Build 10.9.0.564",,,"https://www.insurance.ca.gov/javascript/jquery-1.7.min.js","G-6MLHRYZYQV,UA-23180855-1,UA-3419582-2",,
+"https://int.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND int.ca.gov"
+"https://intranet.calepa.ca.gov/","https://intranet.calepa.ca.gov/wp-login.php?redirect_to=%2F",,,,"https://intranet.calepa.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",,,
+"https://intranet.ots.ca.gov/","https://intranet.ots.ca.gov/wp-login.php?redirect_to=%2F",,,,"https://intranet.ots.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",,,
+"https://inyocourt.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: inyocourt.ca.gov. is not in the cert's altnames: DNS:courts.ca.gov, DNS:www.courts.ca.gov, DNS:appellatecases.courtinfo.ca.gov, DNS:cidcs.courtinfo.ca.gov, DNS:interpreterportal.courts.ca.gov, DNS:jbsis.courtinfo.ca.gov, DNS:jrn.courts.ca.gov, DNS:www2.courtinfo.ca.gov, DNS:www4.courtinfo.ca.gov"
+"https://iscc.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND iscc.ca.gov"
+"https://islavistacsd.ca.gov/",,,,,,,,
+"https://jcsd.ca.gov/",,,,,,,"ECONNRESET","read ECONNRESET"
+"https://jobs.ca.gov/","https://calcareers.ca.gov/",,"https://alert.cdt.ca.gov/",,,"G-69TD0KNT0F,G-GVMXP4J73D",,
+"https://jobs.spb.ca.gov/",,,,,,,,
+"https://jointventureprogram.ca.gov/",,,,,,,"UNABLE_TO_VERIFY_LEAF_SIGNATURE","unable to verify the first certificate"
+"https://jud.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND jud.ca.gov"
+"https://judicialethicsopinions.ca.gov/","https://www.judicialethicsopinions.ca.gov/","All in One SEO (AIOSEO) 4.4.8",,,"https://www.judicialethicsopinions.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.0",,,
+"https://kids.parks.ca.gov/",,,,,"https://kids.parks.ca.gov/vendor/jquery/jquery.min.js","G-NQRMQVQ7T5,UA-3419582-2",,
+"https://labor.ca.gov/","https://www.labor.ca.gov/","CAWeb v.1.11.0",,"https://www.labor.ca.gov/wp-content/themes/CAWeb/src/version-6.0/cagov.core.js?ver=1.11.0","https://www.labor.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-Y7T2KCM7P1,G-YSQBHYZ0HH,UA-24087628-9,UA-3419582-2,UA-3419582-47",,
+"https://labormarketinfo.edd.ca.gov/",,,,"https://labormarketinfo.edd.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.4.1.min.js","G-ZQ9HCV9HTL,GTM-KKXR5S9,UA-3419582-31",,
+"https://laclear.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND laclear.ca.gov"
+"https://lafco.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND lafco.ca.gov"
+"https://laif.sco.ca.gov/",,,,,,"GTM-PQHTQRV",,
+"https://laifonline.treasurer.ca.gov/",,,,,"https://laifonline.treasurer.ca.gov/bundles/jquery?v=WXuFDBxLYWHBFWDTN9-slDEuELq8rP2I3NZttVVWYM81","UA-1867705-11,UA-3419582-2",,
+"https://laimpact.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND laimpact.ca.gov"
+"https://landlordtenant.dre.ca.gov/",,,,"https://landlordtenant.dre.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js",,,
+"https://lao.ca.gov/",,,,,"https://lao.ca.gov/bundles/jquery?v=ACWWcBuLE0mR_PCUtXAkdEqu6a15HH4cyjBsuR651Bo1","G-V20H6V9DXQ",,
+"https://laotest.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND laotest.ca.gov"
+"https://lassencourt.ca.gov/","https://www.lassen.courts.ca.gov/","Drupal 9 (https://www.drupal.org)",,,,,,
+"https://latc.ca.gov/",,,,"https://latc.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-PG8SJMY8J6,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-12",,
+"https://lc.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND lc.ca.gov"
+"https://lcbtest.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND lcbtest.ca.gov"
+"https://lcf.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: lcf.ca.gov. is not in the cert's altnames: DNS:*.wpengine.com, DNS:wpengine.com"
+"https://lctest.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND lctest.ca.gov"
+"https://ldctest.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND ldctest.ca.gov"
+"https://leg.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND leg.ca.gov"
+"https://legacy.template.webstandards.ca.gov/",,,,"https://legacy.template.webstandards.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.6.0.min.js","UA-3419582-2",,
+"https://leginfo.ca.gov/",,,,,,,"ECONNREFUSED","connect ECONNREFUSED 192.234.213.1:443"
+"https://legis.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 192.234.213.36:443"
+"https://legislativecounsel.ca.gov/",,,,,,"G-1YH3XCCU0V",,
+"https://legislature.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND legislature.ca.gov"
+"https://lemongrove.ca.gov/","https://www.lemongrove.ca.gov/",,,,"https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js","G-STQ0986EH9",,
+"https://lemonlaw.ca.gov/","https://www.dca.ca.gov/acp/",,,,"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js","G-69TD0KNT0F,G-F2FZM7Q8TN,UA-21974567-32,UA-3419582-2",,
+"https://letsgethealthy.ca.gov/",,"Powered by Slider Revolution 6.7.7 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.",,,"https://letsgethealthy.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","GTM-583MD7K",,
+"https://letsgethealthytest.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND letsgethealthytest.ca.gov"
+"https://lgma.ca.gov/",,"SEOmatic",,,"https://lgma.ca.gov/assets/js/jquery.min.js?id=dc5e7f18c8d36ac1d3d4","UA-1545484-20",,
+"https://lgrsonline.sco.ca.gov/","https://lgrsonline.sco.ca.gov/account/login",,,,"https://lgrsonline.sco.ca.gov/Scripts/jquery-1.10.2.js","GTM-K5ZRSNK",,
+"https://lhc.ca.gov/",,,,,,,,"Resource was not loaded. Status: 403"
+"https://lhctest.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND lhctest.ca.gov"
+"https://library.ca.gov/","https://www.library.ca.gov/","WordPress 6.5.3","https://alert.cdt.ca.gov/","https://www.library.ca.gov/wp-content/themes/csl/js/cagov.core.js?ver=1.0.0","https://www.library.ca.gov/wp-content/themes/csl/js/jquery-3.6.0.min.js?ver=1.0.0","G-69TD0KNT0F,G-EYQJVXXK2F,GTM-52DS4DT",,
+"https://liob.cpuc.ca.gov/",,"CAWeb v.1.11.0",,"https://liob.cpuc.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://liob.cpuc.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-DZDGMK1BF8,G-Y7T2KCM7P1,UA-1915322-16,UA-3419582-2,UA-3419582-47",,
+"https://listmanager.ftb.ca.gov/","https://www.ftb.ca.gov/about-ftb/newsroom/subscriptions.asp",,,"https://www.ftb.ca.gov/js/cagov.core.js","https://www.ftb.ca.gov/js/libs/jquery.js","G-EQVZX0SCVD,GTM-NJ6Q4MV,UA-3419582-45",,
+"https://listserv.ca.gov/","https://listserv.state.ca.gov/wa.exe?INDEX",,,,"https://listserv.state.ca.gov/archives/js/jquery/jquery-3.6.1.min.js",,,
+"https://lminfo-test.ca.gov/",,,,,,,"ECONNRESET","read ECONNRESET"
+"https://loomis.ca.gov/",,"Site Kit by Google 1.126.0",,,"https://loomis.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",,,
+"https://losaltoshills.ca.gov/",,,,,"https://losaltoshills.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js","G-B31D08W17S,GTM-K73C5PS,GTM-WKGQMK5",,
+"https://lp.post.ca.gov/","https://lp.post.ca.gov/PublicWelcome.aspx",,,,"https://lp.post.ca.gov/_assets/js/jquery3.min.js",,,
+"https://lptest.post.ca.gov/","https://lptest.post.ca.gov/PublicWelcome.aspx",,,,"https://lptest.post.ca.gov/_assets/js/jquery3.min.js",,,
+"https://ltg.ca.gov/",,"CAWeb v.1.11.0",,"https://ltg.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://ltg.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-T47RW7TGKE,G-Y7T2KCM7P1,UA-21431721-7,UA-3419582-2,UA-3419582-47",,
+"https://lunar.fppc.ca.gov/","https://lunar.fppc.ca.gov/content/fppc-v2/fppc-www.html",,,,,"G-1V1D6GRFKL,UA-22860881-1,UA-3419582-2",,
+"https://madera.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: madera.ca.gov. is not in the cert's altnames: DNS:*.madera.gov, DNS:*.cityofmadera.com, DNS:*.cityofmadera.gov, DNS:cityofmadera.com, DNS:cityofmadera.gov, DNS:madera.gov"
+"https://maderacity.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: maderacity.ca.gov. is not in the cert's altnames: DNS:*.madera.gov, DNS:*.cityofmadera.com, DNS:*.cityofmadera.gov, DNS:cityofmadera.com, DNS:cityofmadera.gov, DNS:madera.gov"
+"https://maderapd.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: maderapd.ca.gov. is not in the cert's altnames: DNS:*.madera.gov, DNS:*.cityofmadera.com, DNS:*.cityofmadera.gov, DNS:cityofmadera.com, DNS:cityofmadera.gov, DNS:madera.gov"
+"https://mail.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND mail.ca.gov"
+"https://maps.cdtfa.ca.gov/",,,,,,,,
+"https://maps.conservation.ca.gov/",,,,"https://maps.conservation.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js","G-69TD0KNT0F,G-XL3D15KXV3,UA-3419582-2,UA-34494709-3",,
+"https://marinespecies.wildlife.ca.gov/",,,,"https://marinespecies.wildlife.ca.gov/js/cagov.core.js","https://marinespecies.wildlife.ca.gov/js/libs/jquery.js","G-SGQRQW0TRJ",,
+"https://mbc.ca.gov/",,,,"https://mbc.ca.gov/js/files/cagov.core.js?v=638531914349724665",,"G-VZEZFBT2Z2,UA-21461813-6,UA-3419582-2",,
+"https://mce.ca.gov/",,,,,,,,"Resource was not loaded. Status: 403"
+"https://mctest.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND mctest.ca.gov"
+"https://mcweb.apps.prd.cammis.medi-cal.ca.gov/",,,,,,,,
+"https://mdaqmd.ca.gov/","https://www.mdaqmd.ca.gov/",,,,,"G-EPDQWJJ3BS,G-MWLPGMCV36",,
+"https://medalofvalor.ca.gov/",,,,"https://medalofvalor.ca.gov/js/cagov.core.js","http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js","UA-3419582-2",,
+"https://medassist.cdph.ca.gov/",,,,,,,,
+"https://medassistportal.cdph.ca.gov/",,,,,,,,
+"https://medi-cal.ca.gov/","https://mcweb.apps.prd.cammis.medi-cal.ca.gov/",,,,,,,
+"https://meganslaw.ca.gov/","https://meganslaw.ca.gov/Disclaimer",,,,"https://meganslaw.ca.gov/js/jquery.min.js?v=9_aliU8dGd2tb6OSsuzixeV4y_faTqgFtohetphbbj0","G-T9ZI9BACTW,G-VPVEMSZPKK",,
+"https://metrofire.ca.gov/",,,,,,,,
+"https://mfde.wildlife.ca.gov/",,,,"https://mfde.wildlife.ca.gov/js/cagov.core.js","https://mfde.wildlife.ca.gov/js/libs/jquery.js","G-MZGV0EZPY2",,
+"https://mhsoac.ca.gov/",,"CAWeb v.1.5.1",,,"https://c0.wp.com/c/6.5.3/wp-includes/js/jquery/jquery.min.js","G-5L308BQ8BW,UA-12799586-1",,
+"https://midasweb.energy.ca.gov/","https://midasweb.energy.ca.gov/Login",,,,,,,
+"https://mileagelogintranet-dev.apps.dgs.ca.gov/",,,,"https://mileagelogintranet-dev.apps.dgs.ca.gov/ST/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js",,,
+"https://mileagelogintranet.apps.dgs.ca.gov/",,,,"https://mileagelogintranet.apps.dgs.ca.gov/ST/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js",,,
+"https://militarycouncil.ca.gov/",,"CAWeb v.1.11.0",,"https://militarycouncil.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://militarycouncil.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-9V2RHGT1EJ,G-Y7T2KCM7P1,UA-21970760-36,UA-3419582-2,UA-3419582-47",,
+"https://milpitas.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND milpitas.ca.gov"
+"https://mlfd.ca.gov/",,"WordPress 6.5.4",,,"https://mlfd.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",,,
+"https://mobile.cdpr.ca.gov/",,,,,,"UA-3419582-2,UA-5300495-1",,
+"https://mono.ca.gov/","https://monocounty.ca.gov/",,,,,"UA-22821328-1",,
+"https://monocounty.ca.gov/",,,,,,"UA-22821328-1",,
+"https://montereypark.ca.gov/",,,,,,,,"Resource was not loaded. Status: 404"
+"https://montezumafiredistrictsolano.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: montezumafiredistrictsolano.ca.gov. is not in the cert's altnames: DNS:*.getpantheon.com, DNS:*.gotpantheon.com, DNS:*.pantheon.io, DNS:*.pantheonsite.io, DNS:getpantheon.com, DNS:gotpantheon.com, DNS:pantheonsite.io"
+"https://morgan-hill.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND morgan-hill.ca.gov"
+"https://morganhill.ca.gov/",,,,,"https://morganhill.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js","G-PMD5WBK6KL,GTM-K73C5PS,GTM-WKGQMK5",,
+"https://mrca.ca.gov/",,"WordPress 6.4.4",,,"https://code.jquery.com/jquery-1.12.4.min.js","UA-1633733-24",,
+"https://mrcapublicsafety.ca.gov/",,,,,,,"ECONNRESET","Client network socket disconnected before secure TLS connection was established"
+"https://mss.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND mss.ca.gov"
+"https://mtc.ca.gov/",,"Drupal 10 (https://www.drupal.org)",,,"https://mtc.ca.gov/core/assets/vendor/jquery/jquery.min.js?v=3.7.1","G-875ZLGCEXJ,UA-7328958-2",,
+"https://my.calpers.ca.gov/","https://auth.my.calpers.ca.gov/35239553-f454-4ff8-938c-856a90c45fae/b2c_1a_signin/oauth2/v2.0/authorize?client_id=cfb6615d-8786-4331-918b-b0a0e2e0338b&nonce=5z6T231dPqGXoq3d5wObbVg&redirect_uri=https%3A%2F%2Fmy.calpers.ca.gov%2Foauth%2Fclient%2Fredirect&response_type=code&scope=openid&state=000fffffc0be22c5",,,,,"G-BACKGROUND",,
+"https://mycalpers.ca.gov/","https://auth.my.calpers.ca.gov/35239553-f454-4ff8-938c-856a90c45fae/b2c_1a_signin/oauth2/v2.0/authorize?client_id=cfb6615d-8786-4331-918b-b0a0e2e0338b&nonce=5THb9rdb_YjE9JKPZMPfvUg&redirect_uri=https%3A%2F%2Fmy.calpers.ca.gov%2Foauth%2Fclient%2Fredirect&response_type=code&scope=openid&state=000fffff5cdad6f3",,,,,"G-BACKGROUND",,
+"https://mychildcare.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND mychildcare.ca.gov"
+"https://mycusd.capousd.org/",,,,,,,,
+"https://myedd.edd.ca.gov/","https://myedd.edd.ca.gov/s/",,,,,,,
+"https://myturn.ca.gov/",,,,,,"G-RJPGSHNVCG,GTM-5THG92K,GTM-WC8N8KN,UA-21974567-38,UA-3419582-2",,
+"https://myturnvolunteer.ca.gov/",,,,,,,,"Resource was not loaded. Status: 403"
+"https://myvaccinerecord.cdph.ca.gov/",,,,,,"GTM-5L4RSCS,UA-21974567-47,UA-3419582-2",,
+"https://mywaterquality.ca.gov/",,,,"https://mywaterquality.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js","UA-3419582-2,UA-46982004-1",,
+"https://nahc.ca.gov/",,,"https://alert.cdt.ca.gov/","https://nahc.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","UA-3419582-2,UA-59627195-7",,
+"https://napa.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 209.78.56.66:443"
+"https://napasheriff.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: napasheriff.ca.gov. is not in the cert's altnames: DNS:services.countyofnapa.org"
+"https://natureworks.resources.ca.gov/",,,,,,,,
+"https://naturopathic.ca.gov/",,,,"https://naturopathic.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-3CN4M8F95X,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-13",,
+"https://nchidta.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: nchidta.ca.gov. is not in the cert's altnames: DNS:acc.ncric.org, DNS:nchidta.com, DNS:nchidta.net, DNS:nchidta.org, DNS:ncmostwanted.org, DNS:ncric.net, DNS:ncric.org, DNS:ncrttac.org, DNS:new.ncric.org, DNS:new.northerncaliforniamostwanted.org, DNS:northerncaliforniamostwanted.com, DNS:northerncaliforniamostwanted.org, DNS:www.nchidta.com, DNS:www.nchidta.net, DNS:www.nchidta.org, DNS:www.ncmostwanted.org, DNS:www.ncric.net, DNS:www.ncric.org, DNS:www.ncrttac.org, DNS:www.northerncaliforniamostwanted.com, DNS:www.northerncaliforniamostwanted.org"
+"https://ncric.ca.gov/",,"WordPress 6.5.3",,,"https://ncric.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",,,
+"https://ncsd.ca.gov/",,"Powered by WPBakery Page Builder - drag and drop page builder for WordPress.",,,"https://ncsd.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",,,
+"https://nctc.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: nctc.ca.gov. is not in the cert's altnames: DNS:*.catapultcms.com, DNS:catapultcms.com"
+"https://net.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND net.ca.gov"
+"https://news.caloes.ca.gov/",,"CAWeb v.1.7.1","https://alert.cdt.ca.gov/",,"https://c0.wp.com/c/6.1.6/wp-includes/js/jquery/jquery.min.js","G-4LTV08W77G,G-69TD0KNT0F",,
+"https://nhts.dot.ca.gov/",,,,"https://nhts.dot.ca.gov/resources/js/cagov.core.js","https://nhts.dot.ca.gov/js/jquery.min.js","UA-21431721-9,UA-3419582-2",,
+"https://nifty-turing-0ad445.netlify.app/",,,,,,"UA-21974567-38,UA-3419582-2",,
+"https://nmvb.ca.gov/",,,,"https://nmvb.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","G-2DWD3387QF,GTM-NFWKKCR,UA-24087628-12",,
+"https://nvta.ca.gov/",,,,,"https://nvta.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",,,
+"https://oag.ca.gov/",,"Drupal 7 (http://drupal.org)",,,"https://code.jquery.com/jquery-1.9.1.min.js","G-6SNZMLLM7F",,
+"https://oal.ca.gov/",,"CAWeb v.1.11.0","https://alert.cdt.ca.gov/alert.js?ver=1.0.0","https://oal.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://oal.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-3LCY3X8048,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-20973992-16,UA-3419582-2,UA-3419582-47",,
+"https://ociac.ca.gov/","https://ociac.ca.gov/?AspxAutoDetectCookieSupport=1",,,,,"UA-47341125-1",,
+"https://oclafco.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 206.194.127.85:443"
+"https://ocrbot.technology.ca.gov/",,,,,,"UA-21970760-42,UA-3419582-2",,
+"https://oehha.ca.gov/",,,,,,,,
+"https://oes.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND oes.ca.gov"
+"https://ohi.ca.gov/",,,,,,,"ECONNREFUSED","connect ECONNREFUSED 158.96.244.105:443"
+"https://ohii.ca.gov/",,,,,,,"ECONNREFUSED","connect ECONNREFUSED 158.96.244.105:443"
+"https://ohp.parks.ca.gov/",,,,,"https://ohp.parks.ca.gov/vendor/jquery/jquery.min.js","G-NQRMQVQ7T5,UA-3419582-2",,
+"https://ohs.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND ohs.ca.gov"
+"https://ohv.parks.ca.gov/",,,,,"https://ohv.parks.ca.gov/vendor/jquery/jquery.min.js","G-NQRMQVQ7T5,UA-3419582-2",,
+"https://oig.ca.gov/","https://www.oig.ca.gov/","WordPress 6.5.4",,,"https://www.oig.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-H8X3WRJK8L,GTM-KRLFFB4",,
+"https://ojai.ca.gov/",,,,,"https://ojai.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js","G-2WPLDT68FY,GTM-K73C5PS,GTM-WKGQMK5",,
+"https://olc.ca.gov/",,,,,,,"EPROTO","write EPROTO 00B6C81101000000:error:0A000458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:ssl/record/rec_layer_s3.c:907:SSL alert number 112
+"
+"https://oles.ca.gov/","https://www.oles.ca.gov/","Microsoft SharePoint","https://alert.cdt.ca.gov/","https://www.oles.ca.gov/wp-content/themes/oles/_catalogs/masterpage/js/cagov.core.js?ver=1.0","https://www.oles.ca.gov/wp-content/themes/oles/_catalogs/masterpage/js/jquery.min.js?ver=1.0","G-478SN4R4E6,UA-83937323-1",,
+"https://olsip.apps.dgs.ca.gov/",,,,"https://olsip.apps.dgs.ca.gov/Content/StateTemplate/js/cagov.core.js","https://olsip.apps.dgs.ca.gov/Content/StateTemplate/js/libs/jquery-3.2.1.min.js",,,
+"https://ombc.ca.gov/",,,,"https://ombc.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.6.0.min.js","G-69TD0KNT0F,G-QYQQC0C406,GTM-NBQCVZC,UA-3419582-2,UA-64276560-16",,
+"https://onlineservices.cdtfa.ca.gov/","https://onlineservices.cdtfa.ca.gov/_/",,,,"https://onlineservices.cdtfa.ca.gov/Resource/jquery-1.12.4.min.js?h=1353612868",,,
+"https://opa.ca.gov/",,,,,,,,"Resource was not loaded. Status: 404"
+"https://opc.ca.gov/",,,"https://alert.cdt.ca.gov/","https://opc.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","GTM-M2BQ3XS,UA-3419582-2,UA-59627195-2",,
+"https://opr.ca.gov/",,,"https://alert.cdt.ca.gov/","https://opr.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.4.1.min.js","G-69TD0KNT0F,G-K9SCBG6G33",,
+"https://optometry.ca.gov/",,,,,"https://code.jquery.com/jquery-3.5.1.min.js","G-4178EX5G7R,G-69TD0KNT0F,UA-64276560-15",,
+"https://opzones.ca.gov/","https://economicdevelopment.business.ca.gov/frequently-asked-questions/","CAWeb v.1.5.2a",,,"https://www.economicdevelopment.business.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-4SDQ67YYEK,G-TRANSPAREN",,
+"https://orea.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND orea.ca.gov"
+"https://osar.bppe.ca.gov/",,,,"https://osar.bppe.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-D0ME26CM0R,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-41",,
+"https://osfm.fire.ca.gov/",,,,,"https://osfm.fire.ca.gov/assets/js/jquery.cookie.js","G-HN6DJN3Q1W,UA-12131957-10,UA-3419582-2",,
+"https://osg.ca.gov/",,"CAWeb v.1.11.0",,"https://osg.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://osg.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-F3V5NTDY19,G-Y7T2KCM7P1,UA-24087628-32,UA-3419582-2,UA-3419582-47",,
+"https://oshpd.ca.gov/",,,,,,,,
+"https://osi.ca.gov/",,,,"https://osi.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js",,,
+"https://ospd.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: ospd.ca.gov. is not in the cert's altnames: DNS:www.ospd.ca.gov"
+"https://ota.ca.gov/",,"CAWeb v.1.11.0",,"https://ota.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://ota.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-QP0XXEMY9P,G-Y7T2KCM7P1,UA-21970760-34,UA-3419582-2,UA-3419582-47",,
+"https://otech.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: otech.ca.gov. is not in the cert's altnames: DNS:*.go-vip.co, DNS:go-vip.co"
+"https://ots.ca.gov/","https://www.ots.ca.gov/","CAWeb v.1.11.0",,"https://www.ots.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://www.ots.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-1PS9L6E2RE,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-20973992-23,UA-3419582-2,UA-3419582-47",,
+"https://oycr.ca.gov/",,"CAWeb v.1.11.0",,"https://oycr.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://oycr.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-7ND7ZHXVPG,G-Y7T2KCM7P1,GTM-WWXFNGG,UA-3419582-2,UA-3419582-47",,
+"https://p1blsr.dot.ca.gov/",,,,,,,"ECONNRESET","read ECONNRESET"
+"https://pab.ca.gov/",,,,"https://pab.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.6.0.min.js","G-69TD0KNT0F,G-K9B788PFCW,GTM-NBQCVZC,UA-3419582-2,UA-64276560-18",,
+"https://parentage.dcss.ca.gov/",,"CAWeb v.1.11.0",,"https://parentage.dcss.ca.gov/wp-content/themes/CAWeb/src/version-6.0/cagov.core.js?ver=1.11.0","https://parentage.dcss.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-MBVQ9WT0E1,G-Y7T2KCM7P1,UA-21974567-48,UA-3419582-2,UA-3419582-47",,
+"https://parks.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: parks.ca.gov. is not in the cert's altnames: DNS:*.parks.ca.gov, DNS:*.ohv.parks.ca.gov, DNS:olga.dbw.parks.ca.gov"
+"https://pasorobles.ca.gov/",,,,,,,"ECONNRESET","read ECONNRESET"
+"https://pass.cdcr.ca.gov/","https://pass.cdcr.ca.gov/Home/ChooseApplication",,,,"https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","GTM-WWJWHL4",,
+"https://pass.post.ca.gov/","https://pass.post.ca.gov/login",,,,"https://pass.post.ca.gov/js/jquery-3.6.0.min.js?v=v2",,,
+"https://paumavalleycsd.ca.gov/","https://www.paumavalleycsd.ca.gov/","Wix.com Website Builder",,,,"G-PROVISIONI,G-TRANSLATIO",,
+"https://penrynfire.ca.gov/",,"Starfield Technologies; Go Daddy Website Builder 8.0.0000",,,,,,
+"https://pent.ca.gov/",,,,,"https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js","G-4CWKEGPHKC",,
+"https://perb.ca.gov/",,"CAWeb v.1.5.10",,,"https://perb.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","UA-21970760-41",,
+"https://pers.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: pers.ca.gov. is not in the cert's altnames: DNS:www.calpers.ca.gov, DNS:calpers.ca.gov"
+"https://pestboard.ca.gov/",,,,"https://pestboard.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-13SQD8E90R,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-27",,
+"https://pharmacy.ca.gov/",,,,,"https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-QVJEFJJNBX,GTM-M683DJB,GTM-NBQCVZC,UA-64276560-17",,
+"https://pia.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 34.196.42.94:443"
+"https://piedmont.ca.gov/",,,,,"https://cdnsm1-hosted.civiclive.com/javascript/jquery.mmenu.min.all.js","G-GK506XC3FG",,
+"https://piercesdisease.cdfa.ca.gov/",,,,"https://piercesdisease.cdfa.ca.gov/v6/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","GTM-W4BKPB7",,
+"https://pinyonpinescwd.ca.gov/",,,,,,,"CERT_HAS_EXPIRED","certificate has expired"
+"https://pioneercommunityenergy.ca.gov/","https://pioneercommunityenergy.org/","WordPress 6.5.4",,,,"G-ZC35CTZJ4N,GTM-NSP42KZ",,
+"https://pioneercommunityenergy.org/",,"WordPress 6.5.4",,,,"G-ZC35CTZJ4N,GTM-NSP42KZ",,
+"https://placer.ca.gov/","https://www.placer.ca.gov//",,,,"https://www.placer.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js","G-5CJ5XHZRX6,GTM-K73C5PS,GTM-WKGQMK5,UA-1464228-1",,
+"https://pldcss.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND pldcss.ca.gov"
+"https://plumascourt.ca.gov/",,,,,,,"CERT_HAS_EXPIRED","certificate has expired"
+"https://pmbc.ca.gov/",,,,"https://pmbc.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-RDB9KYCDHS,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-19",,
+"https://pointarena.ca.gov/",,"WordPress 6.5.4",,,"https://pointarena.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",,,
+"https://polb.ca.gov/","https://polb.com/","Gatsby 2.18.13",,,,"G-67K41NK67N,UA-28220816-1",,
+"https://polb.com/",,"Gatsby 2.18.13",,,,"G-67K41NK67N,UA-28220816-1",,
+"https://portal-staging.hsr.ca.gov/",,,,,,,,
+"https://portal.dhcs.ca.gov/",,,,"https://portal.dhcs.ca.gov/Content/StateTemplate/js/cagov.core.js","https://portal.dhcs.ca.gov/Content/StateTemplate/js/libs/jquery-3.2.1.min.js",,,
+"https://portal.hsr.ca.gov/",,,,,,,,
+"https://portsanluis.ca.gov/",,,,,,,"ECONNRESET","read ECONNRESET"
+"https://post.ca.gov/",,,,,"https://post.ca.gov/Resources/libraries/jQuery/03_07_01/jquery.js?cdv=486","G-K1FLBGKCQ9",,
+"https://postmile.dot.ca.gov/",,,,,,,,
+"https://postsecondarycouncil.ca.gov/","https://careereducation.gov.ca.gov/","CAWeb v.1.11.0",,"https://careereducation.gov.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://careereducation.gov.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-Q122BB7YXT,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47",,
+"https://ppmoe.dot.ca.gov/",,,,,,,,
+"https://preproduction.covid19.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND preproduction.covid19.ca.gov"
+"https://problemgambling.ca.gov/",,,,,,,"ECONNRESET","read ECONNRESET"
+"https://prod.sites.ca.gov/",,"CAWeb v.1.11.0",,"https://prod.sites.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://prod.sites.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47",,
+"https://projectresources.cdt.ca.gov/",,"CAWeb v.1.11.0",,"https://projectresources.cdt.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://projectresources.cdt.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-NSV16ZKHM9,G-Y7T2KCM7P1,UA-20973992-26,UA-3419582-2,UA-3419582-47",,
+"https://psychology.ca.gov/",,,,,"https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-G17MN7HXHK,UA-64276560-22",,
+"https://ptbc.ca.gov/",,,,"https://ptbc.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.6.0.min.js","G-69TD0KNT0F,G-V6KF16YJFK,GTM-M683DJB,GTM-NBQCVZC,UA-21974567-31,UA-3419582-2",,
+"https://public.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND public.ca.gov"
+"https://public.staging.cdph.ca.gov/",,,"https://alert.cdt.ca.gov/",,"https://public.staging.cdph.ca.gov/Style%20Library/CDPH/js/jquery.min.js","G-RESPONSIVE,GTM-NH6K5ST",,
+"https://publicpay.ca.gov/",,,,,"https://publicpay.ca.gov/scripts/jquery-3.5.1.min.js","GTM-KX7MF5M",,
+"https://qfd.ca.gov/",,,,,,,,
+"https://quake.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: quake.ca.gov. is not in the cert's altnames: DNS:*.conservation.ca.gov, DNS:conservation.ca.gov"
+"https://quickmap.dot.ca.gov/",,,"https://alert.cdt.ca.gov/","https://quickmap.dot.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js","G-77921BS1SZ,UA-21431721-9,UA-3419582-2",,
+"https://radc.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND radc.ca.gov"
+"https://rbra.ca.gov/",,,,,,,,
+"https://rcb.ca.gov/",,,,"https://rcb.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-05Q6QKZSH6,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-24",,
+"https://rcpa.ca.gov/",,"WordPress 6.5.4",,,"https://rcpa.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-B3Z6BJFM4T,G-CACHEPRESS",,
+"https://rcwd.ca.gov/",,"Starfield Technologies; Go Daddy Website Builder 8.0.0000",,,,,,
+"https://rebuildingca.ca.gov/",,"Gatsby 3.14.2",,,,"G-1DPHTF62LS,G-69TD0KNT0F,UA-21431721-40,UA-3419582-2",,
+"https://recycledelnorte.ca.gov/",,,,,,,,
+"https://reedley.ca.gov/",,"WordPress 6.5.4",,,"https://reedley.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","UA-41463005-1",,
+"https://registertovote.ca.gov/",,,,,,"UA-5354926-13",,
+"https://report.hcai.ca.gov/",,,,,"https://report.hcai.ca.gov/Reserved.ReportViewerWebControl.axd?OpType=Resource&Version=15.0.1449.0&Name=Microsoft.Reporting.WebForms.Scripts.jquery.min.js",,,
+"https://report.oshpd.ca.gov/",,,,,"https://report.oshpd.ca.gov/Reserved.ReportViewerWebControl.axd?OpType=Resource&Version=15.0.1449.0&Name=Microsoft.Reporting.WebForms.Scripts.jquery.min.js",,,
+"https://resources.ca.gov/",,,,,"https://resources.ca.gov/sitecore%20modules/Web/ExperienceForms/scripts/jquery-3.4.1.min.js","G-L1ZSB6EXE0,UA-3419582-2,UA-59627195-1",,
+"https://response.ca.gov/",,,,,,,"UNABLE_TO_VERIFY_LEAF_SIGNATURE","unable to verify the first certificate"
+"https://rgs.ca.gov/","https://www.rgsjpa.org/","All in One SEO (AIOSEO) 4.6.2",,,"https://www.rgsjpa.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-746Y7WGWEY,GTM-MGMNGR6",,
+"https://rmc.ca.gov/",,,"https://alert.cdt.ca.gov/","https://rmc.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","G-ZVHQTNPVV8,UA-3419582-2",,
+"https://rn.ca.gov/",,,,"https://rn.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-FBDG3R1ZL6,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-23",,
+"https://roadmaptoresearch.dot.ca.gov/",,,,"https://roadmaptoresearch.dot.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","UA-3419582-2",,
+"https://roads.dot.ca.gov/",,,,"https://roads.dot.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js",,,
+"https://roc.fire.ca.gov/","https://login.microsoftonline.com/447a4ca0-5405-454d-ad68-c98a520261f8/oauth2/v2.0/authorize?client_id=a756ae8d-ad0c-4ea6-8e12-de313e7c0cfe&redirect_uri=https%3A%2F%2Froc.fire.ca.gov%2F&response_mode=form_post&response_type=code%20id_token&scope=openid%20profile%20email&state=OpenIdConnect.AuthenticationProperties%3D-qaLATX1FxaZsskxIEb4bwdFU9L0eJGHeqE60pQ5DWIOmayjkdJ2W8ZmxeCGGb4jEYfEg1ijiYTy-hHWxhiuZNqKhy1Z8CZ9gbPCxiur8Jgaj4PuPTOmBEWh9PNgDvfKRiDlLSyKrMqAdGrvUIoscLV4JmNIDdNPJ-hiwN60qi2nCn66WWdLCunBWXRHV1-mhFspdZ7hvjMrvs1_5M5W5w&nonce=638532259735833069.MGIwNjYyNGEtYjQ0ZS00NjNiLWFmYWEtYzc1YTJmYTc0Yzc5YTJjMjdkNjUtNDdjYy00MmE5LWEzYmUtYzAwNGNlMWVmY2M2&x-client-SKU=ID_NET461&x-client-ver=5.3.0.0",,,,,"G-X7ULWDZKDX",,
+"https://rocklin.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: rocklin.ca.gov. is not in the cert's altnames: DNS:*.rocklin.ca.us, DNS:rocklin.ca.us"
+"https://roctest.fire.ca.gov/","https://login.microsoftonline.com/447a4ca0-5405-454d-ad68-c98a520261f8/oauth2/v2.0/authorize?client_id=7221cd1f-c508-440b-824e-4adbd4e65205&redirect_uri=https%3A%2F%2Froctest.fire.ca.gov%2F&response_mode=form_post&response_type=code%20id_token&scope=openid%20profile%20email&state=OpenIdConnect.AuthenticationProperties%3DnVdimq0WGDe4asF8EwOdYSmgD_AgvTqZrRJ1NEBe5VAUwFkfznfLOj-UObI-qMg3uFxWfWrQ5eR13emlJKPa9RD5fhXfjLx2MJ_F6ZaDHXsT3Ip1RZ5Q-d12Ft2YQ2ni7LKLQK2f8of1koCz6Qd3RPj6dcQuHVdeQ997HLiu-b9DElBQANSiyZLHCi-X7EmTjI8Po9L8GALLCWREIGBz6w&nonce=638532259736130075.YzcyNDU0ZTQtNzk0OC00ZDMyLWJkZjEtYjQ5MDg4ZmJkZDc2OTBlNzVhNDUtMWY0ZC00MTJkLWFkOTItMTJjMmM4NzM4YWNm&x-client-SKU=ID_NET461&x-client-ver=5.3.0.0",,,,,"G-N1PKXT53PE",,
+"https://rocuat.fire.ca.gov/","https://login.microsoftonline.com/447a4ca0-5405-454d-ad68-c98a520261f8/oauth2/v2.0/authorize?client_id=8c8824ef-c8e9-4731-8f47-405afd04600d&redirect_uri=https%3A%2F%2Frocuat.fire.ca.gov%2F&response_mode=form_post&response_type=code%20id_token&scope=openid%20profile%20email&state=OpenIdConnect.AuthenticationProperties%3DXWMZaPxeWnSbhlm0s3ivqt3H0hTC5sBTqVQ8l638Wu5lH_WvyCvkoDGj4eHKi5gm_TSh_2Msg681x0sxU_q1dPmxHLgxOQnnkzPuhRxFKr_5VMxYt-bGYF6fLP11I40YBuKdXrvPTc66s0Q9zXB7zeH-_1ImvGnFi4ZZU_2GU6sq3YYgbq6rtI3bAU0nfHpbtgCLBhJMjV8biFkYHsrvrg&nonce=638532259736244881.NGViZDQ0OWQtNmIzOC00MDJjLTgxNWQtNjZmZjZlNjlmY2VkZDQzYmEwMWMtYzI2MC00OWExLTgyZjAtZTg5MmU0MjBjMWQ4&x-client-SKU=ID_NET461&x-client-ver=5.3.0.0",,,,,,,
+"https://rowlandwaterdistrict.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND rowlandwaterdistrict.ca.gov"
+"https://sac.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND sac.ca.gov"
+"https://saccourt.ca.gov/",,,,,"https://saccourt.ca.gov/assets/plugins/jquery-1.11.2.min.js","UA-4132807-14",,
+"https://sacjustice.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND sacjustice.ca.gov"
+"https://sacmetrofire.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND sacmetrofire.ca.gov"
+"https://sacramento.ca.gov/","https://www.sacramento.ca.gov/",,,,,,,
+"https://safefishing.ca.gov/",,,,,,,"CERT_HAS_EXPIRED","certificate has expired"
+"https://saferatwork.ca.gov/","https://saferatwork.labor.ca.gov/","CAWeb v.1.11.0",,"https://saferatwork.labor.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://saferatwork.labor.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-WN09725CCD,G-Y7T2KCM7P1,GTM-5LKL585,UA-21974567-38,UA-3419582-2,UA-3419582-47",,
+"https://saferatwork.covid19.ca.gov/","https://saferatwork.labor.ca.gov/","CAWeb v.1.11.0",,"https://saferatwork.labor.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://saferatwork.labor.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-WN09725CCD,G-Y7T2KCM7P1,GTM-5LKL585,UA-21974567-38,UA-3419582-2,UA-3419582-47",,
+"https://saltoncsd.ca.gov/",,,,,,,,
+"https://saltonsea.ca.gov/",,,"https://alert.cdt.ca.gov/","https://saltonsea.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","UA-3419582-2,UA-59627195-7",,
+"https://sanbag.ca.gov/",,,,,,,"EPROTO","write EPROTO 00B6C81101000000:error:0A0000C6:SSL routines:tls_get_more_records:packet length too long:ssl/record/methods/tls_common.c:655:
+"
+"https://sanbruno.ca.gov/",,,,,"https://sanbruno.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js","G-FVWSYTCK31,GTM-K73C5PS,GTM-WKGQMK5",,
+"https://sanramon.ca.gov/",,,,,"https://cdnsm1-hosted.civiclive.com/javascript/jquery.mmenu.min.all.js","G-GK506XC3FG,UA-12176870-1",,
+"https://santabarbaracounty.ca.gov/","https://www.countyofsb.org/",,,,,"G-R0X5RM0PC9,GTM-TBF9ZQ8,UA-3412749-1",,
+"https://savewater.ca.gov/",,,,,"https://kendo.cdn.telerik.com/2022.2.621/js/jquery.min.js",,,
+"https://sbac.ca.gov/","https://www.sbac.ca.gov/",,,,,"G-0E87500F7A,G-177101DAB0,G-A9EB87C1B7,G-COLLECTION,G-D50611BB46",,
+"https://sbe.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND sbe.ca.gov"
+"https://sc-cd.dot.ca.gov/","https://sc-cd.dot.ca.gov/Configuration/Error-Pages/Error-404-Page?item=%2f&layout=%7b00000000-0000-0000-0000-000000000000%7d&device=Default",,,"https://dot.ca.gov/js/cagov.core.min.js","https://code.jquery.com/jquery-3.4.1.min.js","GTM-573PLG9,UA-21431721-9,UA-3419582-2",,
+"https://scac.ca.gov/",,,,,,,,
+"https://scag.ca.gov/",,,,,,"GTM-PCMC9BT",,
+"https://scc.ca.gov/",,,,"https://scc.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","UA-3419582-2",,
+"https://scdd.ca.gov/",,"CAWeb v.1.11.0",,"https://scdd.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://scdd.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-6SR9BDZWHX,G-Y7T2KCM7P1,UA-23110710-3,UA-3419582-2,UA-3419582-47",,
+"https://sco.ca.gov/",,,,,,"GTM-5D5F2SV",,
+"https://scout.ca.gov/",,,,,,,"ETIMEDOUT",
+"https://scta.ca.gov/",,"WordPress 6.5.4",,,"https://scta.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-15R30J43DJ,G-CACHEPRESS,G-TEMPLATEBU",,
+"https://scwa.ca.gov/",,,,,,,"ECONNREFUSED","connect ECONNREFUSED 209.204.175.65:443"
+"https://sdcounty.ca.gov/","https://www.sandiegocounty.gov/",,,,"https://www.sandiegocounty.gov/etc.clientlibs/clientlibs/granite/jquery.js",,,
+"https://sdcourt.ca.gov/",,"Drupal 10 (https://www.drupal.org)",,,"https://sdcourt.ca.gov/core/assets/vendor/jquery/jquery.min.js?v=3.7.1","G-9TV7LRTJDG,G-Q_WA8ZLXDF",,
+"https://sdrc.ca.gov/",,,"https://alert.cdt.ca.gov/","https://sdrc.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","UA-3419582-2,UA-59627195-8",,
+"https://search-bppe.dca.ca.gov/",,,,,"https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js","G-3V1YPEGZCC,G-69TD0KNT0F,UA-3419582-2,UA-64276560-20",,
+"https://secretary.resources.ca.gov/",,,,,,,,
+"https://secure.dre.ca.gov/",,,,,"https://secure.dre.ca.gov/js/jquery.js","G-5GPR0BKX57,UA-19741714-1,UA-3419582-2",,
+"https://seeds.energy.ca.gov/",,,,"https://seeds.energy.ca.gov/js/cagov.core.min.js","https://code.jquery.com/jquery-3.5.1.min.js",,,
+"https://seeleywaterdistrict.ca.gov/",,,,,,,,
+"https://seminars.edd.ca.gov/","https://seminars.edd.ca.gov/Payroll_Tax_Seminars",,,,"https://seminars.edd.ca.gov/Payroll_Tax_Seminars/Scripts/jquery-1.11.1.js","UA-3419582-2,UA-3419582-31",,
+"https://sen.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: sen.ca.gov. is not in the cert's altnames: DNS:*.senate.ca.gov, DNS:senate.ca.gov, DNS:www.senate.ca.gov"
+"https://senate.ca.gov/","https://www.senate.ca.gov/",,,,,"G-CRN4TZH1YT",,
+"https://seniorleg.ca.gov/",,,,,,,,"Resource was not loaded. Status: 403"
+"https://seniors.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: seniors.ca.gov. is not in the cert's altnames: DNS:*.insurance.ca.gov, DNS:insurance.ca.gov, DNS:interactive.web.insurance.ca.gov, DNS:legaldocs.insurance.ca.gov, DNS:www.insurance.ca.gov, DNS:cdiapps.insurance.ca.gov, DNS:cdiappstest.insurance.ca.gov"
+"https://seniors.insurance.ca.gov/",,"CommonSpot Build 10.9.0.564",,,"https://seniors.insurance.ca.gov/javascript/jquery-1.7.min.js","G-7KBM6NS4N5,UA-3419582-2,UA-35348113-1",,
+"https://sentest.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND sentest.ca.gov"
+"https://serve.ca.gov/",,,,,,,"CERT_HAS_EXPIRED","certificate has expired"
+"https://services.cdtfa.ca.gov/","https://onlineservices.cdtfa.ca.gov/_/",,,,"https://onlineservices.cdtfa.ca.gov/Resource/jquery-1.12.4.min.js?h=1353612868",,,
+"https://sfo.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND sfo.ca.gov"
+"https://sgc.ca.gov/",,,"https://alert.cdt.ca.gov/","https://sgc.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.6.0.min.js","G-69TD0KNT0F,G-GN1F20H06C",,
+"https://shsp-test.dot.ca.gov/",,,,"https://shsp-test.dot.ca.gov/js/cagov.core.min.js","https://shsp-test.dot.ca.gov/webjars/jquery/3.4.1/jquery.min.js","UA-21431721-9,UA-3419582-2",,
+"https://shsp.dot.ca.gov/",,,,"https://shsp.dot.ca.gov/js/cagov.core.min.js","https://shsp.dot.ca.gov/webjars/jquery/3.4.1/jquery.min.js","UA-21431721-9,UA-3419582-2",,
+"https://sierracounty.ca.gov/",,,,,"https://sierracounty.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js","G-N28VLH4GMZ,GTM-K73C5PS,GTM-WKGQMK5",,
+"https://sierranevada.ca.gov/",,"CAWeb v.1.11.0",,"https://sierranevada.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://sierranevada.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-Y7T2KCM7P1,GTM-TMGLRHM,UA-3419582-2,UA-3419582-47",,
+"https://sierrarcd.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND sierrarcd.ca.gov"
+"https://simivalley.ca.gov/","https://www.simivalley.org/",,,,,"G-COMMISSION,G-EPDQWJJ3BS,G-RL9ZXFSXCE,GTM-TS3H7JB",,
+"https://sites.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND sites.ca.gov"
+"https://sjrc.ca.gov/",,,"https://alert.cdt.ca.gov/","https://sjrc.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","UA-3419582-2,UA-59627195-7",,
+"https://skcd.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: skcd.ca.gov. is not in the cert's altnames: DNS:securityfiredept.org, DNS:www.securityfiredept.org"
+"https://slc.ca.gov/",,"CAWeb v.1.4.28",,,"https://slc.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.6.0","G-35QSDZJPYH,G-69TD0KNT0F,G-75V2BNQ3DR",,
+"https://slocounty.ca.gov/",,,,,,"G-VPXL6V4WXQ",,
+"https://smbrc.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND smbrc.ca.gov"
+"https://smfd.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND smfd.ca.gov"
+"https://smmc.ca.gov/",,"CAWeb v.1.4.21","https://alert.cdt.ca.gov/","https://smmc.ca.gov/wp-content/themes/CAWeb-master/js/cagov.core.js?ver=","https://smmc.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.6.4","G-3Z04Z00WN3",,
+"https://smogcheck.ca.gov/","https://www.bar.ca.gov/",,,"https://www.bar.ca.gov/js/cagov.core.min.js","https://code.jquery.com/jquery-3.6.0.min.js","G-2RE0XT2L0F",,
+"https://snc.ca.gov/","https://sierranevada.ca.gov/","CAWeb v.1.11.0",,"https://sierranevada.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://sierranevada.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-Y7T2KCM7P1,GTM-TMGLRHM,UA-3419582-2,UA-3419582-47",,
+"https://solanosr2s.ca.gov/",,"WordPress 6.3.4",,,"https://solanosr2s.ca.gov/wp-content/themes/solano/js/jquery.js","G-7Q0YPT74S7",,
+"https://soltrans.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND soltrans.ca.gov"
+"https://sonomacounty.ca.gov/",,,,,"https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js","GTM-M5G2H9S",,
+"https://sos.ca.gov/","https://www.sos.ca.gov/",,,,"https://www.sos.ca.gov/concrete/js/jquery.js?ccm_nocache=1a72ca0f3692b16db9673a9a89faff0649086c52","G-MSJG9B0DQE",,
+"https://spb.ca.gov/",,,"https://alert.cdt.ca.gov/","https://spb.ca.gov/Scripts/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js","G-7PSLJD4L8Y,UA-21431721-16,UA-3419582-2",,
+"https://speechandhearing.ca.gov/",,,,,"https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-KZHR8TYRFF,UA-64276560-26",,
+"https://spmud.ca.gov/",,,,,,,,
+"https://spot.cdph.ca.gov/","https://spot.cdph.ca.gov/s/?language=en_US",,,,,,,
+"https://sprls.dre.ca.gov/",,,,"https://sprls.dre.ca.gov/js/cagov.core.min.js","https://sprls.dre.ca.gov/js/libs/jquery.js",,,
+"https://spwb.ca.gov/",,"CAWeb v.1.11.0",,"https://spwb.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://spwb.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-JX3SYHBE8G,G-Y7T2KCM7P1,UA-11020794-1,UA-3419582-2,UA-3419582-47",,
+"https://srfecc.ca.gov/",,,,,,,,
+"https://srta.ca.gov/",,,,,"https://srta.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js","G-C30T9L4XG7,GTM-K73C5PS,GTM-WKGQMK5",,
+"https://srvfire.ca.gov/","https://www.firedepartment.org/",,,,,"G-EPDQWJJ3BS,G-ZY5QWNMSC4",,
+"https://ss.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 204.147.113.17:443"
+"https://ssc.ca.gov/",,"CAWeb v.1.7.1","https://alert.cdt.ca.gov/",,"https://ssc.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.6.1","G-69TD0KNT0F,G-TSWFKMRXC5",,
+"https://sssd.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 206.110.229.140:443"
+"https://sta.ca.gov/",,"WordPress 6.2.5",,,"https://sta.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.6.4","G-L9SWKSSW0V",,
+"https://stage-calsta.calsta.ca.gov/","https://stage-calsta.calsta.ca.gov/Configuration/Error-Pages/Error-404-Page?item=%2f&layout=%7b00000000-0000-0000-0000-000000000000%7d&device=Default",,,"https://dot.ca.gov/js/cagov.core.min.js","https://code.jquery.com/jquery-3.4.1.min.js","GTM-573PLG9,UA-21431721-9,UA-3419582-2",,
+"https://stage-catc.catc.ca.gov/","https://stage-catc.catc.ca.gov/Configuration/Error-Pages/Error-404-Page?item=%2f&layout=%7b00000000-0000-0000-0000-000000000000%7d&device=Default",,,"https://dot.ca.gov/js/cagov.core.min.js","https://code.jquery.com/jquery-3.4.1.min.js","GTM-573PLG9,UA-21431721-9,UA-3419582-2",,
+"https://stage-dot.dot.ca.gov/","https://stage-dot.dot.ca.gov/Configuration/Error-Pages/Error-404-Page?item=%2f&layout=%7b00000000-0000-0000-0000-000000000000%7d&device=Default",,,"https://dot.ca.gov/js/cagov.core.min.js","https://code.jquery.com/jquery-3.4.1.min.js","GTM-573PLG9,UA-21431721-9,UA-3419582-2",,
+"https://stage.calcareers.ca.gov/",,,,,,,"ERR_TOO_MANY_REDIRECTS","Maximum number of redirects exceeded"
+"https://stage.jobs.ca.gov/",,,,,,,"ERR_TOO_MANY_REDIRECTS","Maximum number of redirects exceeded"
+"https://staging.ceqanet.opr.ca.gov/",,,,"https://california.azureedge.net/cdt/statetemplate/5.5.21/js/cagov.core.min.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","UA-3419582-2",,
+"https://staging.covid19.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND staging.covid19.ca.gov"
+"https://state.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND state.ca.gov"
+"https://statebarcourt.ca.gov/","https://www.statebarcourt.ca.gov/",,,,,"G-E3V3RY8CPC",,
+"https://stateentityprofile.ca.gov/",,,,,"https://stateentityprofile.ca.gov/bundles/jquery?v=8xXMvDsr7V6F7eBvPszksIpvaeOlhHBVypfnSkB1-Gw1",,,
+"https://std.ca.gov/",,,,,,,"ECONNRESET","read ECONNRESET"
+"https://sto.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 165.235.65.105:443"
+"https://store.parks.ca.gov/",,"CAWeb v.1.4.21",,"https://store.parks.ca.gov/wp-content/themes/CAWeb-1.4.21/js/cagov.core.js?ver=","https://c0.wp.com/c/6.5.3/wp-includes/js/jquery/jquery.min.js",,,
+"https://sucorte.ca.gov/","https://selfhelp.courts.ca.gov/es","Drupal 9 (https://www.drupal.org)",,,,,,
+"https://sunnyvale.ca.gov/","https://www.sunnyvale.ca.gov/",,,,,"G-EPDQWJJ3BS,G-WVHV5Y34FM",,
+"https://surveys.cdt.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND surveys.cdt.ca.gov"
+"https://svcea.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND svcea.ca.gov"
+"https://swrcb.ca.gov/",,,,,,,"EPROTO","write EPROTO 00B6C81101000000:error:0A000458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:ssl/record/rec_layer_s3.c:907:SSL alert number 112
+"
+"https://syfphr.hcai.ca.gov/",,,,,,,,
+"https://syfphr.oshpd.ca.gov/",,,,,,,,
+"https://systest.dental.dhcs.ca.gov/",,,,,,,,
+"https://tacc.ccoa.ca.gov/",,,"https://alert.cdt.ca.gov/","https://tacc.ccoa.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.6.0.min.js","UA-20973992-12,UA-3419582-2",,
+"https://tahoe.ca.gov/",,"CAWeb v.1.11.0",,"https://tahoe.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://tahoe.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-7BTW7KMW8E,G-Y7T2KCM7P1,UA-21970760-38,UA-3419582-2,UA-3419582-47",,
+"https://tahoecons.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: tahoecons.ca.gov. is not in the cert's altnames: DNS:*.water.ca.gov, DNS:water.ca.gov"
+"https://tam.ca.gov/","https://www.tam.ca.gov/","Powered by WPBakery Page Builder - drag and drop page builder for WordPress.",,,"https://www.tam.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-CXFH9862CN",,
+"https://tax.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: tax.ca.gov. is not in the cert's altnames: DNS:taxes.ca.gov, DNS:www.taxes.ca.gov"
+"https://taxcredit.film.ca.gov/","https://taxcredit.film.ca.gov/Login.aspx?ReturnUrl=%2f",,,"https://taxcredit.film.ca.gov/Public/Template/js/cagov.core.min.js","https://code.jquery.com/jquery-1.10.1.min.js","UA-20973992-20,UA-3419582-2",,
+"https://taxes.ca.gov/",,,,"https://taxes.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.4.1.min.js","G-69TD0KNT0F,G-N8DVBV2ZB1,UA-24087628-3,UA-3419582-2",,
+"https://taxrefund.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND taxrefund.ca.gov"
+"https://tcpw.ca.gov/",,,,,,"G-XYLMZ67JYC",,
+"https://tcwd.ca.gov/","https://www.tcwd.ca.gov/",,,,,"G-EPDQWJJ3BS",,
+"https://teale.ca.gov/",,,,,,,"ECONNRESET","connect ECONNRESET 67.157.98.40:443"
+"https://techblog.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND techblog.ca.gov"
+"https://techblog.cdt.ca.gov/",,"CAWeb v.1.11.0",,"https://techblog.cdt.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://techblog.cdt.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-476JC9622P,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-31125811-9,UA-3419582-2,UA-3419582-47",,
+"https://technology.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND technology.ca.gov"
+"https://tehamacounty.ca.gov/","https://www.co.tehama.ca.us/","Divi Child v.1.0.0",,,"https://www.co.tehama.ca.us/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",,,
+"https://tehamacountypublicworks.ca.gov/","https://tcpw.ca.gov/",,,,,"G-XYLMZ67JYC",,
+"https://tehamacourt.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: tehamacourt.ca.gov. is not in the cert's altnames: DNS:courts.ca.gov, DNS:www.courts.ca.gov, DNS:appellatecases.courtinfo.ca.gov, DNS:cidcs.courtinfo.ca.gov, DNS:interpreterportal.courts.ca.gov, DNS:jbsis.courtinfo.ca.gov, DNS:jrn.courts.ca.gov, DNS:www2.courtinfo.ca.gov, DNS:www4.courtinfo.ca.gov"
+"https://tehamajuryservices.ca.gov/","https://tehamajuryservices.ca.gov/login",,,,"https://tehamajuryservices.ca.gov/js/jquery-3.6.0.js",,,
+"https://tempid.dtsc.ca.gov/",,,,"https://tempid.dtsc.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js","UA-19066778-9,UA-3419582-14,UA-3419582-2",,
+"https://template.webstandards.ca.gov/",,,"https://alert.cdt.ca.gov/","https://template.webstandards.ca.gov/state-template/js/cagov.core.min.js",,"GTM-PWPX7KD",,
+"https://test-nahc.ca.gov/",,,,,,,"ECONNRESET","read ECONNRESET"
+"https://test-nmvb.ca.gov/",,,,"https://test-nmvb.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js",,,
+"https://test-opr.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND test-opr.ca.gov"
+"https://test-www.dor.ca.gov/",,,"https://alert.cdt.ca.gov/","https://california.azureedge.net/cdt/statetemplate/6.0.8/js/cagov.core.min.js",,"G-69TD0KNT0F,G-74S7YNBTH1,UA-21431721-18,UA-3419582-2",,
+"https://test.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND test.ca.gov"
+"https://test.calgold.ca.gov/",,,,"https://test.calgold.ca.gov/Content/StateTemplate/js/cagov.core.js","https://test.calgold.ca.gov/Content/StateTemplate/js/libs/jquery-3.2.1.min.js","G-XB0PBHDKRQ",,
+"https://test.edd.ca.gov/",,,"https://alert.cdt.ca.gov/sample/sample-alert.js","https://test.edd.ca.gov/Assets/js/cagov.core.min.js","https://code.jquery.com/jquery-3.4.1.min.js","G-69TD0KNT0F,G-MEKG96DZRX,GTM-N8KVMBR,UA-3419582-2,UA-3419582-31",,
+"https://test.film.ca.gov/",,,,,"https://test.film.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",,,
+"https://test.ibank.ca.gov/",,"WordPress 6.5.3",,,"https://test.ibank.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",,,
+"https://test.sgc.ca.gov/",,,"https://alert.cdt.ca.gov/","https://test.sgc.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.6.0.min.js","G-69TD0KNT0F,G-GN1F20H06C,UA-3419582-2,UA-67638324-1",,
+"https://test5.prod.sites.ca.gov/","https://test5.prod.sites.ca.gov/wp-login.php?redirect_to=%2F",,,,"https://test5.prod.sites.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",,,
+"https://test5.test.sites.ca.gov/","https://test5.test.sites.ca.gov/wp-login.php?redirect_to=%2F",,,,"https://test5.test.sites.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",,,
+"https://testing.covid19.ca.gov/","https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Testing.aspx",,"https://alert.cdt.ca.gov/",,"https://www.cdph.ca.gov/Style%20Library/CDPH/js/jquery.min.js","G-RESPONSIVE,GTM-KVN6ZCB",,
+"https://testsp.csd.ca.gov/","https://login.microsoftonline.com/648d2806-c725-4253-8613-b071e1220a57/wsfed?wa=wsignin1.0&wtrealm=urn%3asharepoint%3afederation&wctx=https%3a%2f%2ftestsp.csd.ca.gov%2f_layouts%2f15%2fAuthenticate.aspx%3fSource%3d%252F&wreply=https%3a%2f%2ftestsp.csd.ca.gov%2f_trust%2fdefault.aspx",,,,,,,
+"https://theacademy.ca.gov/",,,,,"https://theacademy.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","GTM-TC6WLH8",,
+"https://thrive.cnra.ca.gov/",,,"https://alert.cdt.ca.gov/","https://thrive.cnra.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","UA-3419582-2,UA-59627195-15",,
+"https://tngf.ca.gov/",,,,,,,"ECONNRESET","read ECONNRESET"
+"https://todb.ca.gov/",,,,,,"UA-63947255-1",,
+"https://tomalescsd.ca.gov/","https://www.tomalescsd.ca.gov/",,,,,"G-0E87500F7A,G-3876C446EE,G-A9EB87C1B7,G-CC62B0E68D,G-COLLECTION",,
+"https://tourism.ca.gov/","https://tourism.ca.gov/s/",,,,,,,
+"https://townofdiscoverybay.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND townofdiscoverybay.ca.gov"
+"https://townofmammothlakes.ca.gov/",,,,,"https://townofmammothlakes.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js","G-N89HWPCW7V,G-T785Y3D56V,GTM-K73C5PS,GTM-WKGQMK5",,
+"https://tqr.dtsc.ca.gov/",,,,,"https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","G-1M36NQSZBV,G-69TD0KNT0F,UA-19066778-1,UA-19066778-11,UA-3419582-2",,
+"https://trabajaseguro.ca.gov/","https://saferatwork.labor.ca.gov/es/","CAWeb v.1.11.0",,"https://saferatwork.labor.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://saferatwork.labor.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-WN09725CCD,G-Y7T2KCM7P1,GTM-5LKL585,UA-21974567-38,UA-3419582-2,UA-3419582-47",,
+"https://trackprop30.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND trackprop30.ca.gov"
+"https://trackprop55.sco.ca.gov/",,,,,"https://trackprop55.sco.ca.gov/Scripts/jquery-3.4.1.min.js","GTM-T2X7CVX",,
+"https://train.calcareers.ca.gov/",,,,,,,"ERR_TOO_MANY_REDIRECTS","Maximum number of redirects exceeded"
+"https://train.jobs.ca.gov/",,,,,,,"ERR_TOO_MANY_REDIRECTS","Maximum number of redirects exceeded"
+"https://travelpocketguide.dot.ca.gov/",,,,"https://travelpocketguide.dot.ca.gov/resources/js/cagov.core.js","https://travelpocketguide.dot.ca.gov/js/jquery.min.js","UA-21431721-9,UA-3419582-2",,
+"https://treasurer.ca.gov/","https://www.treasurer.ca.gov/",,"https://alert.cdt.ca.gov/",,"https://code.jquery.com/jquery-2.2.4.min.js","UA-1867705-1,UA-3419582-2",,
+"https://tribalaffairs.ca.gov/",,"CAWeb v.1.11.0",,"https://tribalaffairs.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://tribalaffairs.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-BZRKW432Z0,G-Y7T2KCM7P1,UA-31125811-10,UA-3419582-2,UA-3419582-47",,
+"https://trinidad.ca.gov/","https://www.trinidad.ca.gov/","Drupal 10 (https://www.drupal.org)",,,,"G-1F2ZXJ4JW4",,
+"https://tsunami.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: tsunami.ca.gov. is not in the cert's altnames: DNS:*.conservation.ca.gov, DNS:conservation.ca.gov"
+"https://tsunamimaps.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: tsunamimaps.ca.gov. is not in the cert's altnames: DNS:*.conservation.ca.gov, DNS:conservation.ca.gov"
+"https://ttsa.ca.gov/","https://www.ttsa.ca.gov/","Drupal 7 (https://www.drupal.org)",,,"https://www.ttsa.ca.gov/misc/jquery.js?v=1.4.4",,,
+"https://tulare.ca.gov/","https://www.tulare.ca.gov/",,,,,"G-3C4EEVW8L1,G-EPDQWJJ3BS",,
+"https://tularecag.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND tularecag.ca.gov"
+"https://tularecounty.ca.gov/","https://tularecounty.ca.gov/county/","Mura 10.0.712",,,"https://tularecounty.ca.gov/sites/county/includes/themes/Bootstrap5Main/js/libraries/jquery-3.5.1.min.js",,,
+"https://tularesuperiorcourt.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND tularesuperiorcourt.ca.gov"
+"https://tuolumnecounty.ca.gov/",,,,,"https://tuolumnecounty.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js","G-HHGEB3R8ZN,GTM-K73C5PS,GTM-WKGQMK5",,
+"https://tvts.insurance.ca.gov/","https://login.microsoftonline.com/da6c0fa7-142e-447a-b3ac-44b771c52917/oauth2/v2.0/authorize?client_id=b013de42-7c76-4e82-b331-74c8c950ecf7&redirect_uri=https%3A%2F%2Ftvts.insurance.ca.gov%2Fsignin-oidc&response_type=code&scope=openid%20profile%20offline_access&code_challenge=JhrTf3Doqnd2rN7kPRvwinJDkYWjVhdVHj0k_Gtvv9w&code_challenge_method=S256&response_mode=form_post&nonce=638532259777420008.OTg2N2UzNzEtYjQ3Yi00NDQwLTg4ZjgtNWI1NzNhYWE4YzI4YmZmODE2ZjItNjQ4ZC00MmViLWJjYzgtYzUzYzY3Y2UxNzQ3&client_info=1&x-client-brkrver=IDWeb.1.25.5.0&state=CfDJ8L7tFubmhv9AreLGV3ZVL1MGfjvn6ZhjRBKgsuGrInFOVKGHsTer0ep0Xz96_510SP6nd1oFYJr7G_x4Lx1gonwulrtPvuNjwG8IpMFQW-ReG1h3JnnIMqYxBvjk9OKb1PJZSkWWunKR8rDN9ihIK9KGxqsYo3rLZD01goStScdoxMsFvsSJ0Zzt7Eu30r_yp7EvroC6_d9N8kvciXJSQZIt7PQBnb3lAQ9p7mdrUYmfDsSgo01e8zh6bBKnO4Glf7okkQ7aDRgI_xSUg7_ids8jW1FmubzoA3O2OGBvIF-OB238vwuA8Xo-Tf__3BEQXRIFpM_Muj8dtAE6aoZAi39sGw7MAWDGAp5v1s22WPjC97PiC9K4Z3n2gFtDac1vRw&x-client-SKU=ID_NET6_0&x-client-ver=6.25.0.0",,,,,"G-FOCMI3FXLO,G-QSDPIMNXNZ",,
+"https://uat.ceqanet.opr.ca.gov/",,,,"https://california.azureedge.net/cdt/statetemplate/5.5.21/js/cagov.core.min.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","UA-3419582-2",,
+"https://uat.myturn.ca.gov/",,,,,,,"CERT_HAS_EXPIRED","certificate has expired"
+"https://uatcams.technology.ca.gov/","https://uatcams.technology.ca.gov/Account/Login?ReturnUrl=%2f",,,,,"UA-3419582-2",,
+"https://ucpi.sco.ca.gov/",,,,,"https://ucpi.sco.ca.gov/bundles/jquery?v=YafKYnEqZvAZgO-w5qWfpillXpe7eqhcIIGeGmYTj9o1","G-857HAPRSRU,GTM-TMWH9FJ",,
+"https://uma.technology.ca.gov/","https://uma.technology.ca.gov/Account/Login?ReturnUrl=%2F",,,,"https://uma.technology.ca.gov/bundles/jquery?v=YqCsfvDhJoPvqWxLrIGdSMk4aR1YaRls_pJP-aPxKBY1",,,
+"https://unemployment.edd.ca.gov/","https://edd.ca.gov/unemployment",,"https://alert.cdt.ca.gov/","https://edd.ca.gov/Assets/js/cagov.core.min.js","https://code.jquery.com/jquery-3.4.1.min.js","G-69TD0KNT0F,G-KF25MR5YHK,GTM-N8KVMBR,UA-3419582-31",,
+"https://uniformlaws.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND uniformlaws.ca.gov"
+"https://unionsanitary.ca.gov/",,,,,"https://unionsanitary.ca.gov/media/jui/js/jquery.min.js?d76ed94d93112d01901df4c4ed5f22c6","GTM-KRWSSKT,UA-84232900-1",,
+"https://utilitypocketguide.dot.ca.gov/",,,,"https://utilitypocketguide.dot.ca.gov/resources/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js","UA-21431721-9,UA-3419582-2",,
+"https://v-cache.com/",,,,,,,,
+"https://vaccinateall58.ca.gov/","https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/nCoV2019.aspx",,"https://alert.cdt.ca.gov/",,"https://www.cdph.ca.gov/Style%20Library/CDPH/js/jquery.min.js","G-RESPONSIVE,GTM-KVN6ZCB",,
+"https://vcb.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 134.186.29.133:443"
+"https://vcgcb.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 134.186.29.133:443"
+"https://victim.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 134.186.29.133:443"
+"https://victimcompensation.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 134.186.29.133:443"
+"https://victims.ca.gov/",,"WordPress 6.5.3","https://alert.cdt.ca.gov/",,,"G-1P41D0CKTV,GTM-MZBJ9DW",,
+"https://vision.ca.gov/",,,,,,,"ECONNREFUSED","connect ECONNREFUSED 134.186.52.58:443"
+"https://visitcalifornia.ca.gov/","https://www.visitcalifornia.com/",,,,,"GTM-MTP25B5",,
+"https://vmb.ca.gov/",,,,"https://vmb.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-DB8SK5JY7K,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-28",,
+"https://voc.apps.dgs.ca.gov/","https://login.microsoftonline.com/ea45f7b1-07d7-49a8-b8f5-37136ec9382d/oauth2/v2.0/authorize?client_id=3489083d-9b6b-46eb-a983-a0cc5a189c48&redirect_uri=https%3A%2F%2Fvoc.apps.dgs.ca.gov%2Fsignin-oidc&response_type=id_token&scope=openid%20profile&response_mode=form_post&nonce=638532259781031327.MGZkMDhiNzEtMzQ0YS00OGM5LThhNjEtMDhiNjRhZTNjOTc1YWNlMGIyNGUtZGRkOS00YWMzLTlkM2EtZjU4MDVmODQ3M2Y3&state=CfDJ8P6L5QMmoe5Po6wilNpP2YKMRPyxzwoCE37v41msZodT_OmWWIsuTeW_kbpRrHWaIUAShIlsCSj8XJRPa30QwAe2VvzyzBOJC5oGLQM5qoEyBfiZ9MzjEvsxjFo-N4JvmBBAGZYUdotPlZRgc-dC8bGeD4tvfEmo0bOKjg6C-lEC59kKu7ZmbvxyCMi01DQw9VtKE-qiZPj_54r1hJVV5j5dsjGiXK0jNm61ZfIe5oYx9Bpkyoiq4ndYlJfY3eS3oUnxWAAJ0TWiRF8hWEbmNmdFy4PFzOwwPtN8HmQlEi2uKrIoWxjBMngAjd0sm3AHQoMfpAIBwDmWmOAI5k4yTlU&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=5.3.0.0",,,,,,,
+"https://vote.ca.gov/","https://www.sos.ca.gov/elections",,,,"https://www.sos.ca.gov/concrete/js/jquery.js?ccm_nocache=1a72ca0f3692b16db9673a9a89faff0649086c52","G-MSJG9B0DQE",,
+"https://votersfirstact.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 184.106.92.95:443"
+"https://vwix.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND vwix.ca.gov"
+"https://vwixa.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND vwixa.ca.gov"
+"https://vwixd.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND vwixd.ca.gov"
+"https://vwixs.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND vwixs.ca.gov"
+"https://waftestvip.cdt.ca.gov/",,,,"https://california.azureedge.net/cdt/statetemplate/5.0.17/js/cagov.core.min.js","https://kendo.cdn.telerik.com/2020.3.915/js/jquery.min.js","GTM-PXDRJNP,UA-3419582-31",,
+"https://wassy4sy2.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 134.187.12.230:443"
+"https://water.ca.gov/",,,,,"https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js","GTM-KK6DT3F",,
+"https://waterboards.ca.gov/",,,"https://alert.cdt.ca.gov/","https://waterboards.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-latest.min.js","G-C2B09DREVM,GTM-5PXRWRP,UA-3419582-2,UA-5950478-1",,
+"https://waterchallenge.data.ca.gov/",,"CAWeb v.1.11.0",,"https://waterchallenge.data.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://waterchallenge.data.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-Y5H6H10KWM,G-Y7T2KCM7P1,UA-23110710-31,UA-3419582-2,UA-3419582-47",,
+"https://waterresilience.ca.gov/",,,,,,,,
+"https://waterrights.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 134.186.197.100:443"
+"https://wca.ca.gov/","https://www.wca.ca.gov/",,,,,,,
+"https://wcb.ca.gov/",,,"https://alert.cdt.ca.gov/","https://wcb.ca.gov/Portals/_default/skins/cagov_WCB/js/cagov.core.js","https://wcb.ca.gov/Resources/libraries/jQuery/03_07_01/jquery.js?cdv=496","G-K4YTKJ2W16",,
+"https://wcc.insurance.ca.gov/","https://login.microsoftonline.com/da6c0fa7-142e-447a-b3ac-44b771c52917/oauth2/v2.0/authorize?client_id=b926bdfa-4967-4bdc-b81d-b9e93b0ba2e3&redirect_uri=https%3A%2F%2Fwcc.insurance.ca.gov%2Fsignin-oidc&response_type=code&scope=openid%20profile%20offline_access&code_challenge=K8lAAmcXKsT2lNkglG6mVSkGF9Cka8NnNT_lcg8AQBA&code_challenge_method=S256&response_mode=form_post&nonce=638532259783747039.ODA0NTc5ZmQtMmI4ZS00MDNhLWEwNTAtZDZjMzQyZmI5OGVlMzkwZDIzYTYtNTA0YS00ODhiLTkyMGEtNTA3YmIyZmZjZjJh&client_info=1&x-client-brkrver=IDWeb.1.25.2.0&state=CfDJ8GWkQK8ES-lAit_mKdfTid4Td5uzH0Hal6SZ6P8G8N9KFsWUKi8JoDrmfY04abOxLObrV7FYbJVNHMrYwJ-ego22IZcHkPz4odhpC6bKnFB_BQvVO_E6ShVN6RNG6zvp4TDDORi_NbFitnUXoIPsoC_DQ8gqPQtYi8zrDS6MszMjnBLkrCcF-g6Wo-xwpJ-2g-1aILHoOX4q6zl6H-PqZwpQtPsyV7zXhAlXzTZRUIXc1z8hyKHFJB1erktOztJM6IiPXORppoWMtDC4qQAyIRgh8cPu85j7AdnamleMS_QoX9UoD5yeFrdR8EQIPacHQjfSusIpIATi_5bX1wJSFxeeNkdqj3xHwWOsLaYFzqGqa0TrvwaEt7lBf779Rc0n0Q&x-client-SKU=ID_NET6_0&x-client-ver=6.20.0.0",,,,,"G-1AILHOOX4Q,G-LFWDSYBU4R",,
+"https://wcchd.ca.gov/",,,,,,,,
+"https://wdc.ca.gov/",,,,,,,"ETIMEDOUT","connect ETIMEDOUT 134.186.104.20:443"
+"https://wdopestboard.ca.gov/",,,,,,,,
+"https://wdtip.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: wdtip.ca.gov. is not in the cert's altnames: DNS:www.wdtip.ca.gov"
+"https://web.archive.org/",,,,,,,,
+"https://web.cslb.ca.gov/",,,"https://alert.cdt.ca.gov/","https://web.cslb.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.6.1.min.js","G-1W465E5H9H,UA-3419582-2,UA-8901380-1",,
+"https://webmaps.arb.ca.gov/",,,,,,,,
+"https://webservices.caloes.ca.gov/",,"CAWeb v.1.7.1","https://alert.cdt.ca.gov/",,"https://webservices.caloes.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.6.1","G-69TD0KNT0F,G-SVF2WCBCQD",,
+"https://webstandards.ca.gov/",,"CAWeb v.1.11.0",,"https://webstandards.ca.gov/wp-content/themes/CAWeb/src/version-6.0/cagov.core.js?ver=1.11.0","https://webstandards.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-8LTHCDW8ZL,G-Y7T2KCM7P1,UA-20973992-20,UA-3419582-2,UA-3419582-47",,
+"https://webutil.csac.ca.gov/",,,,,,,,
+"https://wedrawthelines.ca.gov/",,"CAWeb v.1.11.0",,"https://wedrawthelines.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://wedrawthelines.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47,UA-44798820-1",,
+"https://westnile.ca.gov/",,,,,"https://westnile.ca.gov/assets/vendor/jquery/jquery.min.js",,,
+"https://wgfd.ca.gov/",,,,,,,"ECONNRESET","Client network socket disconnected before secure TLS connection was established"
+"https://wheatland.ca.gov/","https://www.wheatland.ca.gov/",,,,"https://e4ki3oz9tby.exactdn.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",,,
+"https://whistleblower.insurance.ca.gov/","https://login.microsoftonline.com/da6c0fa7-142e-447a-b3ac-44b771c52917/oauth2/authorize?client_id=2486e88c-7600-4e0d-bd9f-e5c0df4a86e3&redirect_uri=https%3A%2F%2Fwhistleblower.insurance.ca.gov%2Fsignin-oidc&response_type=id_token&scope=openid%20profile&response_mode=form_post&nonce=638532259792283678.NTQ1ZGEwMTYtYmU0My00MTYzLThlMjQtMDRmZjg4NmQwY2I0NjE3ZjVhZWEtN2EyYS00NzExLWIwNTItYTZlMDk3YzFkZmFi&state=CfDJ8BPm6YYmFiRGpODhzSPWbRwKNeUfmGvSMttfFjpZzPJp-yfIYV3DgBIFV12B64XLPpGimxgQEZHZdire4aPoC9OcVTepNwfH6eTLnpbdo_bPUQ6o3pzfnyPi8sLIla2XqVR5_M6GAU4VXZ8LVXWIntAPFGZmOzlsVboceTst29IarJLLzQfxLzd1zxO1ZArvkMuVYWZFLDs4kYcMozWX244r0ie2Ua1gf4WhvHU0PU8mrjdRDEQsFxx7nrE4vTGVl8fpTf8R1iHps_HrWu3Wm1ShLAr9NQPsHYIOmGZscLx9PpeoglHMVKeQU4Q0kirt4w&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=5.5.0.0",,,,,"G-TZ8JNH4EXH",,
+"https://wic.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND wic.ca.gov"
+"https://wicfarmers.ca.gov/",,,,,,,"ECONNRESET","read ECONNRESET"
+"https://wicworks.ca.gov/",,,,,,,"ECONNRESET","read ECONNRESET"
+"https://wildfirerecovery.ca.gov/",,,,,,,"ECONNRESET","Client network socket disconnected before secure TLS connection was established"
+"https://wildfirerecovery.caloes.ca.gov/",,"CAWeb v.1.7.1","https://alert.cdt.ca.gov/",,"https://wildfirerecovery.caloes.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.6.1","G-69TD0KNT0F,G-TS7HJEYWFP",,
+"https://wildfiretaskforce.org/",,"Powered by Slider Revolution 6.7.12 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.",,,"https://wildfiretaskforce.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-AGREEMENTS,G-PZX39LHDQC",,
+"https://wildlife.ca.gov/",,"DotNetNuke ","https://alert.cdt.ca.gov/","https://wildlife.ca.gov/Portals/_default/Skins/CAgov_CDFW/js/cagov.core.js","https://wildlife.ca.gov/Resources/libraries/jQuery/01_09_01/jquery.js?cdv=691","G-CMRV390FF9,UA-12452426-2,UA-3419582-2",,
+"https://wix.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND wix.ca.gov"
+"https://wixa.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND wixa.ca.gov"
+"https://wixd.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND wixd.ca.gov"
+"https://wixs.ca.gov/",,,,,,,"ENOTFOUND","getaddrinfo ENOTFOUND wixs.ca.gov"
+"https://women.ca.gov/",,"CAWeb v.1.11.0",,"https://women.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://women.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-7YZTFH0G4L,G-Y7T2KCM7P1,UA-20973992-29,UA-3419582-2,UA-3419582-47",,
+"https://workforcalifornia.ca.gov/",,,,"https://workforcalifornia.ca.gov/lib/cagovweb/state-template/dist/js/cagov.core.min.js",,"G-H7MX86HSXW",,
+"https://wpso.dmhc.ca.gov/",,,,,,"G-HZ9FCJ3SHZ",,
+"https://wpwma.ca.gov/",,"WordPress 6.5.4",,,"https://wpwma.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-L673EFZY1V",,
+"https://ww2.arb.ca.gov/",,"Drupal 9 (https://www.drupal.org)",,,,"G-7M1ZZPXDBL,UA-19803621-1",,
+"https://wwd.ca.gov/",,"WordPress 6.5.4",,,"https://wwd.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","UA-40603001-1",,
+"https://www-test.cdfa.ca.gov/",,,"https://alert.cdt.ca.gov/","https://www-test.cdfa.ca.gov/v6/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js",,,
+"https://www.4everproxy.com/",,,,,,"UA-29423781-1",,
+"https://www.aging.ca.gov/",,,"https://alert.cdt.ca.gov/","https://www.aging.ca.gov/js/cagov.core.js?date=4.10.19","https://code.jquery.com/jquery-3.6.0.min.js","UA-21431721-20,UA-3419582-2",,
+"https://www.alrb.ca.gov/",,"CAWeb v.1.11.0","https://alert.cdt.ca.gov/alert.js?ver=1.0.0","https://www.alrb.ca.gov/wp-content/themes/CAWeb/src/version-6.0/cagov.core.js?ver=1.11.0","https://www.alrb.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-3GVNPSC58B,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47,UA-58832707-1",,
+"https://www.assembly.ca.gov/",,,,,,"G-4D0PPGX2BH,G-GOIEQIIBO2",,
+"https://www.bar.ca.gov/",,,,"https://www.bar.ca.gov/js/cagov.core.min.js","https://code.jquery.com/jquery-3.6.0.min.js","G-2RE0XT2L0F",,
+"https://www.barbercosmo.ca.gov/",,,,"https://www.barbercosmo.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-8SW7CC7X25,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-3",,
+"https://www.bbs.ca.gov/",,,,"https://www.bbs.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js","G-69TD0KNT0F,G-DF674HWF28,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-4",,
+"https://www.bcdc.ca.gov/",,,"https://alert.cdt.ca.gov/","https://www.bcdc.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.6.0.min.js","G-659EB2TT61,G-69TD0KNT0F,UA-21974567-29,UA-3419582-2",,
+"https://www.bcsh.ca.gov/",,,,"https://www.bcsh.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-E4Q2NW6P5W,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-31",,
+"https://www.bing.com/",,,,,,,,
+"https://www.biomonitoring.ca.gov/",,,,,,,,
+"https://www.boe.ca.gov/",,,,"https://www.boe.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.6.0.min.js","G-69TD0KNT0F,G-XH0RG68L1S,UA-3419582-2,UA-3419582-32",,
+"https://www.bondaccountability.ca.gov/",,,,"https://california.azureedge.net/cdt/statetemplate/6.1.0/js/cagov.core.min.js",,"G-69TD0KNT0F,G-WJP820TQVY,UA-11020260-1,UA-3419582-2",,
+"https://www.boomerang.ca.gov/",,,,"https://www.boomerang.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js","UA-3419582-2,UA-5276088-3",,
+"https://www.bot.ca.gov/",,,,"https://www.bot.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-VWTHLSTC7N,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-14",,
+"https://www.bpelsg.ca.gov/",,,,"https://www.bpelsg.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js","G-00QVLPGF36,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-64276560-10",,
+"https://www.bppe.ca.gov/",,,,"https://www.bppe.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-3V1YPEGZCC,G-69TD0KNT0F,GTM-NBQCVZC,UA-3419582-2,UA-64276560-20",,
+"https://www.brea.ca.gov/",,,,,,"UA-22544255-17,UA-3419582-2",,
+"https://www.bsis.ca.gov/",,,,"https://www.bsis.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-84YD2E7420,UA-3419582-2,UA-64276560-25",,
+"https://www.buycaliforniabonds.com/","https://www.buycaliforniabonds.com/state-of-california-ca/i27?noXdRedir=1",,,,,"G-ZEYF201JLD,GTM-5Z26472",,
+"https://www.bvnpt.ca.gov/",,,,"https://www.bvnpt.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-HTB5XLD158,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-29",,
+"https://www.ca.gov/",,,"https://alert.cdt.ca.gov/","https://www.ca.gov/js/cagov.core.min.js","https://code.jquery.com/jquery-3.4.1.min.js","GTM-PZGPNNV",,
+"https://www.cab.ca.gov/",,,,"https://www.cab.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-R5WKN67L3M,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-2",,
+"https://www.caclimateinvestments.ca.gov/",,,,,"https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js","G-5CEFCCC423,G-A4F9F5FE1C,G-A9EB87C1B7,G-CC62B0E68D,G-COLLECTION",,
+"https://www.calbar.ca.gov/",,,,,,"G-CT3SHXYGSG",,
+"https://www.calexico.ca.gov/",,,,,"https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js",,,
+"https://www.calgold.ca.gov/",,,,,"http://code.jquery.com/jquery-1.9.1.js","G-ZZ3YHMBCMQ",,
+"https://www.calhfa.ca.gov/",,,,,"https://www.calhfa.ca.gov/common/scripts/jquery-3.3.1.min.js","UA-19266071-3",,
+"https://www.calhr.ca.gov/",,"Microsoft SharePoint","https://alert.cdt.ca.gov/",,"https://www.calhr.ca.gov/_catalogs/masterpage/js/jquery.general.api.min.js","UA-5276088-2",,
+"https://www.californiadgstats.ca.gov/",,,,,"https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js","UA-18935822-2",,
+"https://www.californianature.ca.gov/",,,,,,"G-Y6CYCFDK0H,UA-59627195-16",,
+"https://www.californiavolunteers.ca.gov/",,"CAWeb v.1.11.0","https://alert.cdt.ca.gov/alert.js?ver=1.0.0","https://www.californiavolunteers.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://www.californiavolunteers.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-T935JFYNE2,G-Y7T2KCM7P1,GTM-TZDK45W,UA-23110710-36,UA-3419582-2,UA-3419582-47",,
+"https://www.calottery.com/",,,,,"https://static.www.calottery.com/-/media/Base-Themes/CA-Lottery-Core-Libraries/scripts/jquery-331.js?rev=dd02ff4e9f0e4493ba2f9be6f0619088","GTM-NVGNCNH",,
+"https://www.calpia.ca.gov/",,,,,,,,"Resource was not loaded. Status: 403"
+"https://www.calstrs.com/",,,,,,"G-8N7X1ZE5C9,GTM-NVHDX8X,UA-20538890-2",,
+"https://www.cash4college.csac.ca.gov/",,,,"https://www.cash4college.csac.ca.gov/Scripts/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js","UA-20973992-20,UA-3419582-2",,
+"https://www.cba.ca.gov/","https://www.dca.ca.gov/cba/",,,"https://www.dca.ca.gov/cba/js/cagov.core.js","https://www.dca.ca.gov/cba/js/jquery-3.6.0.min.js","G-E6R7CXHRJQ",,
+"https://www.ccap.ca.gov/",,,,"https://www.ccap.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-HCFGD3JTY2,GTM-M683DJB,GTM-NBQCVZC,UA-21974567-34,UA-3419582-2",,
+"https://www.ccld.dss.ca.gov/",,,,,,,,
+"https://www.ccoa.ca.gov/",,,"https://alert.cdt.ca.gov/","https://www.ccoa.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.6.0.min.js","G-69TD0KNT0F,G-75V2BNQ3DR,G-M8T749HDDC,UA-21431721-20",,
+"https://www.cdcr.ca.gov/",,,,,,"GTM-WWJWHL4",,
+"https://www.cde.ca.gov/",,,"https://alert.cdt.ca.gov/",,"https://www.cde.ca.gov/bootstrap/js/jquery-1.10.2.min.js",,,
+"https://www.cdfa.ca.gov/",,,"https://alert.cdt.ca.gov/","https://www.cdfa.ca.gov/v6/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","GTM-W4BKPB7,UA-3419582-2",,
+"https://www.cdph.ca.gov/",,,"https://alert.cdt.ca.gov/",,"https://www.cdph.ca.gov/Style%20Library/CDPH/js/jquery.min.js","G-RESPONSIVE,GTM-KVN6ZCB",,
+"https://www.cdpr.ca.gov/",,,"https://alert.cdt.ca.gov/","https://www.cdpr.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-THW4EX8XMS",,
+"https://www.cdtfa.ca.gov/",,,"https://alert.cdt.ca.gov/","https://www.cdtfa.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.6.0.min.js","GTM-W42NR96,UA-3419582-2,UA-64276560-39",,
+"https://www.cfcc.ca.gov/",,"CAWeb v.1.5.2a",,,"https://www.cfcc.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-LRBSJ7NJPS",,
+"https://www.cfsd.dss.ca.gov/",,,,,,,,
+"https://www.chhs.ca.gov/",,"WordPress 6.5.4","https://alert.cdt.ca.gov/",,"https://www.chhs.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-C326YCQ2HL,UA-3419582-2",,
+"https://www.chp.ca.gov/",,"Microsoft SharePoint",,,"https://www.chp.ca.gov/_catalogs/masterpage/js/jquery.general.api.js?rev=6","GTM-5J36M86,UA-3419582-2,UA-54742716-1",,
+"https://www.chrb.ca.gov/",,,,"https://www.chrb.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","G-5Z5BS440DZ",,
+"https://www.cirm.ca.gov/",,"WordPress 6.4.3",,,"https://www.cirm.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-LGEK77YV1P",,
+"https://www.cityofriodell.ca.gov/",,"Drupal 7 (https://www.drupal.org)",,,"https://www.cityofriodell.ca.gov/misc/jquery.js?v=1.4.4",,,
+"https://www.cityofventura.ca.gov/",,,,,"https://www.cityofventura.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js","G-XWL3SB66NK,GTM-K73C5PS,GTM-WKGQMK5",,
+"https://www.climateassessment.ca.gov/",,,,"https://www.climateassessment.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js",,,
+"https://www.cmips.osi.ca.gov/",,,,"https://www.cmips.osi.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js",,,
+"https://www.co.tehama.ca.us/",,"Divi Child v.1.0.0",,,"https://www.co.tehama.ca.us/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",,,
+"https://www.coastal.ca.gov/",,,"https://alert.cdt.ca.gov/",,,"G-38DMPFK630,G-69TD0KNT0F",,
+"https://www.colma.ca.gov/",,"Site Kit by Google 1.126.0",,,"https://www.colma.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-02VT5TFXMJ",,
+"https://www.communityhealthstudies.cdph.ca.gov/",,,,,,"GTM-KVN6ZCB,UA-42142214-1",,
+"https://www.conservation.ca.gov/",,"Microsoft SharePoint","https://alert.cdt.ca.gov/","https://www.conservation.ca.gov/_catalogs/masterpage/DOC/js/cagov.core.min.js?v=190620","https://www.conservation.ca.gov/_catalogs/masterpage/DOC/js/libs/jquery.min.js?v=190620","G-69TD0KNT0F,G-MUHJYLBKH_,G-N4MB98DBXY,UA-3419582-2,UA-34494709-1",,
+"https://www.consumerenergycenter.org/",,"WordPress 6.5.3",,,,,,
+"https://www.contracosta.ca.gov/",,,,,"https://www.contracosta.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js","G-PC37G0VFEW,GTM-K73C5PS,GTM-WKGQMK5",,
+"https://www.countyofsb.org/",,,,,,"G-R0X5RM0PC9,GTM-TBF9ZQ8,UA-3412749-1",,
+"https://www.courtreportersboard.ca.gov/",,,,"https://www.courtreportersboard.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-512WQC0YJW,G-69TD0KNT0F,GTM-NBQCVZC,UA-3419582-2,UA-64276560-6",,
+"https://www.courts.ca.gov/",,,,,"https://cdn.jsdelivr.net/jquery/3.1.1/jquery.min.js",,,
+"https://www.cppa.ca.gov/",,,,"https://www.cppa.ca.gov/js/cagov.core.min.js","https://www.cppa.ca.gov/js/libs/jquery.js","G-69TD0KNT0F,G-WFY9PWDBY2,UA-31125811-47,UA-3419582-2",,
+"https://www.cpuc.ca.gov/",,,,,"https://www.cpuc.ca.gov/assets/js/jquery.cookie.js","G-LM6T7RGC27,UA-1915322-1",,
+"https://www.csac.ca.gov/",,,"https://alert.cdt.ca.gov/",,,"GTM-KKZHS8M,UA-21974567-25",,
+"https://www.csd.ca.gov/",,"Microsoft SharePoint","https://alert.cdt.ca.gov/","https://www.csd.ca.gov/_catalogs/masterpage/js/cagov.core.js","https://www.csd.ca.gov/_catalogs/masterpage/js/jquery.min.js","G-69TD0KNT0F,G-HK7CWSQCBM,G-K8ONJL3UKX",,
+"https://www.cslb.ca.gov/",,,"https://alert.cdt.ca.gov/","https://www.cslb.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.6.1.min.js","G-1W465E5H9H,UA-3419582-2,UA-8901380-1",,
+"https://www.dbc.ca.gov/",,,,"https://www.dbc.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-08SZZ6P9LW,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-8",,
+"https://www.dca.ca.gov/",,,,"https://www.dca.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-F2FZM7Q8TN,GTM-M683DJB,GTM-NBQCVZC,UA-21974567-32,UA-3419582-2",,
+"https://www.dds.ca.gov/",,,"https://alert.cdt.ca.gov/","https://www.dds.ca.gov/wp-content/themes/GoldPress3/js/cagov.core.js?ver=5.6.2","https://www.dds.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","GTM-N97XDWN",,
+"https://www.debtwatch.treasurer.ca.gov/",,,,,,,,"Resource was not loaded. Status: 503"
+"https://www.deltacouncil.ca.gov/",,,,"https://www.deltacouncil.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.6.4.min.js","G-J0HKBXFMWX",,
+"https://www.dental.dhcs.ca.gov/",,,,,,,"UNABLE_TO_VERIFY_LEAF_SIGNATURE","unable to verify the first certificate"
+"https://www.dgs.ca.gov/",,,"https://alert.cdt.ca.gov/",,"https://www.dgs.ca.gov/assets/js/jquery-ui.min.js","GTM-5D4N99T,UA-19802602-2",,
+"https://www.dgsapps.dgs.ca.gov/",,,,,,,,
+"https://www.dhbc.ca.gov/",,,,"https://www.dhbc.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","G-69TD0KNT0F,G-K5HC50T3RN,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-7",,
+"https://www.dhcs.ca.gov/",,,,,,,,
+"https://www.dir.ca.gov/",,,"https://alert.cdt.ca.gov/","https://california.azureedge.net/cdt/statetemplate/6.1.0/js/cagov.core.min.js","https://www.dir.ca.gov/js/libs/jquery.js","G-69TD0KNT0F,G-75V2BNQ3DR,G-9C30LB4KFJ,UA-3419582-2,UA-3419582-30,UA-5092920-1",,
+"https://www.dmhc.ca.gov/",,,"https://alert.cdt.ca.gov/","https://www.dmhc.ca.gov/Portals/_default/Skins/CAgov_oceanside/js/cagov.core.js","https://www.dmhc.ca.gov/Resources/libraries/jQuery/03_05_01/jquery.js?cdv=691","G-69TD0KNT0F,G-ZGVNWLCQD3",,
+"https://www.dmv.ca.gov/",,,,,,,,
+"https://www.dor.ca.gov/",,,"https://alert.cdt.ca.gov/","https://california.azureedge.net/cdt/statetemplate/6.0.8/js/cagov.core.min.js",,"G-69TD0KNT0F,G-74S7YNBTH1,UA-21431721-18,UA-3419582-2",,
+"https://www.dre.ca.gov/",,,"https://alert.cdt.ca.gov/",,"https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js","G-N2491HJ7H9",,
+"https://www.drinc.ca.gov/",,,,,,,,
+"https://www.dtsc.ca.gov/",,,,,,,,
+"https://www.ebtproject.ca.gov/",,,,"https://www.ebtproject.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js",,,
+"https://www.energy.ca.gov/",,"Drupal 10 (https://www.drupal.org)",,,,"G-B5BLHWHE7P,UA-20973992-7,UA-3419582-2",,
+"https://www.eurekaca.gov/",,,,,"https://www.eurekaca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js","G-25V44GWDSE,G-J8PQRHX26Z,GTM-K73C5PS,GTM-WKGQMK5",,
+"https://www.fairfield.ca.gov/",,,,,"https://www.fairfield.ca.gov/Project/Contents/Main/scripts/FancyBox/jquery.fancybox.js","G-EPDQWJJ3BS,G-EY671MT1YW,G-INFORMATIO,G-KXTQFMR5RR",,
+"https://www.familieschange.ca.gov/",,"Drupal 7 (http://drupal.org)",,,"https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js","UA-42225500-1",,
+"https://www.fiduciary.ca.gov/",,,,"https://www.fiduciary.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","GTM-M683DJB,GTM-NBQCVZC",,
+"https://www.fire.ca.gov/",,,"https://alert.cdt.ca.gov/",,"https://www.fire.ca.gov/assets/js/jquery.cookie.js","G-DJY7D8Z6M7,UA-12131957-10,UA-3419582-2",,
+"https://www.firedepartment.org/",,,,,,"G-CBFRTDINLI,G-EPDQWJJ3BS,G-ZY5QWNMSC4",,
+"https://www.fppc.ca.gov/",,,,,,"G-1V1D6GRFKL,UA-22860881-1,UA-3419582-2",,
+"https://www.ftb.ca.gov/",,,"https://alert.cdt.ca.gov/","https://www.ftb.ca.gov/js/cagov.core.js","https://www.ftb.ca.gov/js/libs/jquery.js","G-EQVZX0SCVD,GTM-NJ6Q4MV,UA-3419582-45",,
+"https://www.gosolarcalifornia.org/",,,,,"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js",,,
+"https://www.gov.ca.gov/",,"CAWeb v.1.11.0","https://alert.cdt.ca.gov/alert.js?ver=1.0.0",,"https://www.gov.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-2G5GML7PQ6,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-28,UA-3419582-47",,
+"https://www.governors.library.ca.gov/",,,,,"https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js","G-P6576W6TR3,UA-15543597-5,UA-3419582-2",,
+"https://www.govops.ca.gov/",,"CAWeb v.1.11.0","https://alert.cdt.ca.gov/alert.js?ver=1.0.0",,"https://www.govops.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-Y7T2KCM7P1,UA-20973992-24,UA-3419582-2,UA-3419582-47",,
+"https://www.grants.ca.gov/",,,,,"https://www.grants.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","GTM-WFDBH54",,
+"https://www.green.ca.gov/",,,"https://alert.cdt.ca.gov/","https://www.green.ca.gov/js/cagov.core.js","https://www.green.ca.gov/js/libs/jquery-1.11.1.min.js","UA-24087628-30,UA-3419582-2",,
+"https://www.hbex.ca.gov/",,,,"https://www.hbex.ca.gov/js/cagov.core.js?v=1.0","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","GTM-MZ6V4GW",,
+"https://www.hcd.ca.gov/",,"Drupal 10 (https://www.drupal.org)","https://alert.cdt.ca.gov/",,"https://www.hcd.ca.gov/core/assets/vendor/jquery/jquery.min.js?v=3.7.1","G-QS82RV855R",,
+"https://www.holtville.ca.gov/",,"WordPress 6.5.3",,,"https://www.holtville.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-2113MM4S7R",,
+"https://www.housing.ca.gov/",,,"https://alert.cdt.ca.gov/","https://www.housing.ca.gov/js/cagov.core.min.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-W5EYVVHFR4,GTM-M683DJB,GTM-NBQCVZC,GTM-WB432SG,UA-21974567-46,UA-3419582-2",,
+"https://www.hsr.ca.gov/",,,,,,,,
+"https://www.ibank.ca.gov/",,"CAWeb v.1.5.2a",,,"https://www.ibank.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-SMHZVBEWVK",,
+"https://www.immigrantguide.ca.gov/",,,,"https://www.immigrantguide.ca.gov/Content/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","GTM-W7QW34Z,UA-20973992-28,UA-3419582-2",,
+"https://www.insurance.ca.gov/",,"CommonSpot Build 10.9.0.564",,,"https://www.insurance.ca.gov/javascript/jquery-1.7.min.js","G-6MLHRYZYQV,UA-23180855-1,UA-3419582-2",,
+"https://www.judicialethicsopinions.ca.gov/",,"All in One SEO (AIOSEO) 4.4.8",,,"https://www.judicialethicsopinions.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.0",,,
+"https://www.labor.ca.gov/",,"CAWeb v.1.11.0",,"https://www.labor.ca.gov/wp-content/themes/CAWeb/src/version-6.0/cagov.core.js?ver=1.11.0","https://www.labor.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-69TD0KNT0F,G-Y7T2KCM7P1,G-YSQBHYZ0HH,UA-24087628-9,UA-3419582-2,UA-3419582-47",,
+"https://www.lassen.courts.ca.gov/",,"Drupal 9 (https://www.drupal.org)",,,,,,
+"https://www.latc.ca.gov/",,,,"https://www.latc.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-PG8SJMY8J6,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-12",,
+"https://www.lemongrove.ca.gov/",,,,,"https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js","G-STQ0986EH9",,
+"https://www.library.ca.gov/",,"WordPress 6.5.3","https://alert.cdt.ca.gov/","https://www.library.ca.gov/wp-content/themes/csl/js/cagov.core.js?ver=1.0.0","https://www.library.ca.gov/wp-content/themes/csl/js/jquery-3.6.0.min.js?ver=1.0.0","G-69TD0KNT0F,G-EYQJVXXK2F,GTM-52DS4DT",,
+"https://www.mbc.ca.gov/",,,,"https://www.mbc.ca.gov/js/files/cagov.core.js?v=638531914349724665",,"G-VZEZFBT2Z2,UA-21461813-6,UA-3419582-2",,
+"https://www.mdaqmd.ca.gov/",,,,,,"G-EPDQWJJ3BS,G-MWLPGMCV36",,
+"https://www.mywaterquality.ca.gov/",,,,"https://www.mywaterquality.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js","UA-3419582-2,UA-46982004-1",,
+"https://www.naturopathic.ca.gov/",,,,"https://www.naturopathic.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-3CN4M8F95X,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-13",,
+"https://www.nmvb.ca.gov/",,,,"https://www.nmvb.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","G-2DWD3387QF,GTM-NFWKKCR,UA-24087628-12",,
+"https://www.oag.ca.gov/",,"Drupal 7 (http://drupal.org)",,,"https://code.jquery.com/jquery-1.9.1.min.js","G-6SNZMLLM7F",,
+"https://www.ohv.parks.ca.gov/",,,,,,,,"Resource was not loaded. Status: 404"
+"https://www.oig.ca.gov/",,"WordPress 6.5.4",,,"https://www.oig.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-H8X3WRJK8L,GTM-KRLFFB4",,
+"https://www.oles.ca.gov/",,"Microsoft SharePoint","https://alert.cdt.ca.gov/","https://www.oles.ca.gov/wp-content/themes/oles/_catalogs/masterpage/js/cagov.core.js?ver=1.0","https://www.oles.ca.gov/wp-content/themes/oles/_catalogs/masterpage/js/jquery.min.js?ver=1.0","G-478SN4R4E6,UA-83937323-1",,
+"https://www.opc.ca.gov/",,,"https://alert.cdt.ca.gov/","https://www.opc.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js","GTM-M2BQ3XS,UA-3419582-2,UA-59627195-2",,
+"https://www.opr.ca.gov/",,,"https://alert.cdt.ca.gov/","https://www.opr.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.4.1.min.js","G-69TD0KNT0F,G-K9SCBG6G33",,
+"https://www.osar.bppe.ca.gov/",,,,"https://www.osar.bppe.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-D0ME26CM0R,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-41",,
+"https://www.oshpd.ca.gov/",,,,,,,,
+"https://www.osi.ca.gov/",,,,,,,"ERR_TLS_CERT_ALTNAME_INVALID","Hostname/IP does not match certificate's altnames: Host: www.osi.ca.gov. is not in the cert's altnames: DNS:osi.ca.gov"
+"https://www.ots.ca.gov/",,"CAWeb v.1.11.0",,"https://www.ots.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0","https://www.ots.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-1PS9L6E2RE,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-20973992-23,UA-3419582-2,UA-3419582-47",,
+"https://www.p65warnings.ca.gov/",,,,,,,,
+"https://www.parks.ca.gov/",,,,,"https://www.parks.ca.gov/vendor/jquery/jquery.min.js","G-NQRMQVQ7T5,UA-3419582-2",,
+"https://www.paumavalleycsd.ca.gov/",,"Wix.com Website Builder",,,,"G-PROVISIONI,G-TRANSLATIO",,
+"https://www.pestboard.ca.gov/",,,,"https://www.pestboard.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-13SQD8E90R,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-27",,
+"https://www.placer.ca.gov/",,,,,"https://www.placer.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js","G-5CJ5XHZRX6,GTM-K73C5PS,GTM-WKGQMK5,UA-1464228-1",,
+"https://www.pmbc.ca.gov/",,,,"https://www.pmbc.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-RDB9KYCDHS,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-19",,
+"https://www.portsanluis.com/",,,,,"https://www.portsanluis.com/Assets/Scripts/jQuery/jquery-2.2.4.min.js","G-LVMV505JJZ,GTM-K73C5PS,GTM-WKGQMK5",,
+"https://www.publicadvocates.cpuc.ca.gov/",,,,,,"G-SXHD1QGZTZ,UA-1915322-1",,
+"https://www.publicpay.ca.gov/",,,,,"https://www.publicpay.ca.gov/scripts/jquery-3.5.1.min.js","GTM-KX7MF5M",,
+"https://www.rcb.ca.gov/",,,,"https://www.rcb.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-05Q6QKZSH6,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-24",,
+"https://www.rebuildingca.ca.gov/",,"Gatsby 3.14.2",,,,"G-1DPHTF62LS,G-69TD0KNT0F,UA-21431721-40,UA-3419582-2",,
+"https://www.rn.ca.gov/",,,,"https://www.rn.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-FBDG3R1ZL6,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-23",,
+"https://www.sacramento.ca.gov/",,,,,,,,
+"https://www.sandiegocounty.gov/",,,,,"https://www.sandiegocounty.gov/etc.clientlibs/clientlibs/granite/jquery.js",,,
+"https://www.sbac.ca.gov/",,,,,,"G-0E87500F7A,G-177101DAB0,G-A9EB87C1B7,G-COLLECTION,G-D50611BB46",,
+"https://www.sco.ca.gov/",,,,,,"GTM-5D5F2SV",,
+"https://www.senate.ca.gov/",,,,,,"G-CRN4TZH1YT",,
+"https://www.sgc.ca.gov/",,,"https://alert.cdt.ca.gov/","https://www.sgc.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.6.0.min.js","G-69TD0KNT0F,G-GN1F20H06C",,
+"https://www.simivalley.org/",,,,,,"G-COMMISSION,G-EPDQWJJ3BS,G-RL9ZXFSXCE,GTM-TS3H7JB",,
+"https://www.slc.ca.gov/",,"CAWeb v.1.4.28",,,"https://www.slc.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.6.0","G-35QSDZJPYH,G-69TD0KNT0F,G-75V2BNQ3DR",,
+"https://www.slocity.org/",,,,,,"G-EPDQWJJ3BS,G-NHL5LG02HZ,UA-11586192-1",,
+"https://www.sos.ca.gov/",,,,,"https://www.sos.ca.gov/concrete/js/jquery.js?ccm_nocache=1a72ca0f3692b16db9673a9a89faff0649086c52","G-MSJG9B0DQE",,
+"https://www.spb.ca.gov/",,,"https://alert.cdt.ca.gov/","https://www.spb.ca.gov/Scripts/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js","G-7PSLJD4L8Y,UA-21431721-16,UA-3419582-2",,
+"https://www.statebarcourt.ca.gov/",,,,,,"G-E3V3RY8CPC",,
+"https://www.sunnyvale.ca.gov/",,,,,,"G-EPDQWJJ3BS,G-WVHV5Y34FM",,
+"https://www.tam.ca.gov/",,"Powered by WPBakery Page Builder - drag and drop page builder for WordPress.",,,"https://www.tam.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-CXFH9862CN",,
+"https://www.taxcredit.film.ca.gov/","https://www.taxcredit.film.ca.gov/Login.aspx?ReturnUrl=%2f",,,"https://www.taxcredit.film.ca.gov/Public/Template/js/cagov.core.min.js","https://code.jquery.com/jquery-1.10.1.min.js","UA-20973992-20,UA-3419582-2",,
+"https://www.taxes.ca.gov/",,,,"https://www.taxes.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.4.1.min.js","G-69TD0KNT0F,G-N8DVBV2ZB1,UA-24087628-3,UA-3419582-2",,
+"https://www.tcwd.ca.gov/",,,,,,"G-EPDQWJJ3BS",,
+"https://www.tomalescsd.ca.gov/",,,,,,"G-0E87500F7A,G-3876C446EE,G-A9EB87C1B7,G-CC62B0E68D,G-COLLECTION",,
+"https://www.treasurer.ca.gov/",,,"https://alert.cdt.ca.gov/",,"https://code.jquery.com/jquery-2.2.4.min.js","UA-1867705-1,UA-3419582-2",,
+"https://www.trinidad.ca.gov/",,"Drupal 10 (https://www.drupal.org)",,,,"G-1F2ZXJ4JW4",,
+"https://www.ttsa.ca.gov/",,"Drupal 7 (https://www.drupal.org)",,,"https://www.ttsa.ca.gov/misc/jquery.js?v=1.4.4",,,
+"https://www.tulare.ca.gov/",,,,,,"G-3C4EEVW8L1,G-EPDQWJJ3BS",,
+"https://www.vision.ca.gov/",,,,,,,"ECONNREFUSED","connect ECONNREFUSED 134.186.52.58:443"
+"https://www.visitcalifornia.com/",,,,,,"GTM-MTP25B5",,
+"https://www.vmb.ca.gov/",,,,"https://www.vmb.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.5.1.min.js","G-69TD0KNT0F,G-DB8SK5JY7K,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-28",,
+"https://www.waterboards.ca.gov/",,,"https://alert.cdt.ca.gov/","https://www.waterboards.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-latest.min.js","G-C2B09DREVM,GTM-5PXRWRP,UA-3419582-2,UA-5950478-1",,
+"https://www.waterresilience.ca.gov/",,,,,,,,
+"https://www.wdtip.ca.gov/",,,,"https://www.wdtip.ca.gov/js/cagov.core.js","https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js",,,
+"https://www.wheatland.ca.gov/",,,,,"https://e4ki3oz9tby.exactdn.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",,,
+"https://www.ych.ca.gov/",,"Powered by LayerSlider 7.1.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress.",,,"https://www.ych.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-CY5VGQ3JWN",,
+"https://www2.cslb.ca.gov/",,,"https://alert.cdt.ca.gov/","https://www2.cslb.ca.gov/js/cagov.core.js","https://code.jquery.com/jquery-3.6.1.min.js","G-1W465E5H9H,UA-3419582-2,UA-8901380-1",,
+"https://www2.dre.ca.gov/",,,,,,,,
+"https://ych.ca.gov/","https://www.ych.ca.gov/","Powered by LayerSlider 7.1.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress.",,,"https://www.ych.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1","G-CY5VGQ3JWN",,

@@ -20,7 +20,7 @@ console.time("Done");
  *   @property {string} error.detail - Long string of detailed error information
  */
 
-const data = /** @type {WebsiteInfo[]} */ (require("../_results/results.json"));
+const data = require("../_results/results.json");
 
 const columnNames = [
   "target",
@@ -57,11 +57,11 @@ const columnNames = [
   data.forEach(row => {
     resultData.push([
       row.target,
-      row.redirectURL,
-      row.generator,
-      row.statewideAlerts,
-      row.stateTemplate,
-      row.JQuery,
+      row.redirectURL || "",
+      row.generator || "",
+      row.statewideAlerts || "",
+      row.stateTemplate || "",
+      row.JQuery || "",
       row.GoogleAnalytics ? row.GoogleAnalytics.join(",") : "",
       row.error?.code || "",
       row.error?.message || ""
