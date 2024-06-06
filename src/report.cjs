@@ -6,7 +6,7 @@ console.time("Done");
 
 const data = /** @type {*[]} */ (require("../_results/results.json"));
 
-(async () => {
+(() => {
   const alertsUsers = data.filter(x => x.statewideAlerts).map(x => x.target);
 
   const result = {
