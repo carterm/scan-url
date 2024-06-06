@@ -77,7 +77,7 @@ const columnNames = [
 
     .join("\n");
 
-  fs.writeFileSync("_results/data.csv", result);
+  fs.writeFileSync("publish/data.csv", result);
   console.log(result);
 
   console.timeEnd("Done");
