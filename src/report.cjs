@@ -4,8 +4,10 @@ const fs = require("node:fs");
 
 console.time("Done");
 
+const data = /** @type {*[]} */ (require("../_results/results.json"));
+
 (async () => {
-  const data = require("../_results/results.json");
+  const alertsUsers = data.filter(x => x.statewideAlerts).map(x => x.target);
 
   const result = {
     total: data.length,
@@ -17,7 +19,8 @@ console.time("Done");
     ).length,
     GoogleAnalytics_UA: data.filter(x =>
       x.GoogleAnalytics?.some(y => y.startsWith("UA-"))
-    ).length
+    ).length,
+    alertsUsers
   };
   fs.writeFileSync("_results/report.json", JSON.stringify(result, null, 2));
 
