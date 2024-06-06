@@ -14,9 +14,10 @@ console.time("Done");
  * @property {string} stateTemplate - The URL for the state template.
  * @property {string} JQuery - The URL for the jQuery library.
  * @property {string[]} [GoogleAnalytics] - An array of Google Analytics tracking IDs.
- * @property {object} error - Details about the encountered error.
+ * @property {object} [error] - Details about the encountered error.
  *   @property {string} error.message - The error message (e.g., "unable to verify the first certificate").
  *   @property {string} error.code - The error code (e.g., "UNABLE_TO_VERIFY_LEAF_SIGNATURE").
+ *   @property {string} error.detail - Long string of detailed error information
  */
 
 const data = /** @type {WebsiteInfo[]} */ (require("../_results/results.json"));
@@ -28,7 +29,9 @@ const columnNames = [
   "statewideAlerts",
   "stateTemplate",
   "JQuery",
-  "GoogleAnalytics"
+  "GoogleAnalytics",
+  "errorcode",
+  "errormessage"
 ];
 
 (() => {
@@ -39,6 +42,18 @@ const columnNames = [
 
   resultData.push(columnNames);
 
+  resultData.push([
+    data.length.toString(),
+    data.filter(x => x.redirectURL).length.toString(),
+    data.filter(x => x.generator).length.toString(),
+    data.filter(x => x.statewideAlerts).length.toString(),
+    data.filter(x => x.stateTemplate).length.toString(),
+    data.filter(x => x.JQuery).length.toString(),
+    data.filter(x => x.GoogleAnalytics).length.toString(),
+    data.filter(x => x.error?.code).length.toString(),
+    data.filter(x => x.error?.message).length.toString()
+  ]);
+
   data.forEach(row => {
     resultData.push([
       row.target,
@@ -47,7 +62,9 @@ const columnNames = [
       row.statewideAlerts,
       row.stateTemplate,
       row.JQuery,
-      row.GoogleAnalytics ? row.GoogleAnalytics.join(",") : ""
+      row.GoogleAnalytics ? row.GoogleAnalytics.join(",") : "",
+      row.error?.code || "",
+      row.error?.message || ""
     ]);
   });
 
