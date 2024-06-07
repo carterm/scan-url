@@ -10,21 +10,18 @@ const data = require("../_results/results.json");
 (() => {
   const resultData = [
     {
-      target: data.length.toString(),
-      redirectURL: data.filter(x => x.redirectURL).length.toString(),
-      title: data.filter(x => x.title).length.toString(),
-      generator: data.filter(x => x.generator).length.toString(),
-      statewideAlerts: data.filter(x => x.statewideAlerts).length.toString(),
-      stateTemplate: data.filter(x => x.stateTemplate).length.toString(),
-      JQuery: data.filter(x => x.JQuery).length.toString(),
-      GoogleAnalytics: data.filter(x => x.GoogleAnalytics).length.toString(),
-      errorcode: data.filter(x => x.error?.code).length.toString(),
-      errormessage: data.filter(x => x.error?.message).length.toString()
-    }
-  ];
-
-  data.forEach(row => {
-    resultData.push({
+      target: data.length,
+      redirectURL: data.filter(x => x.redirectURL).length,
+      title: data.filter(x => x.title).length,
+      generator: data.filter(x => x.generator).length,
+      statewideAlerts: data.filter(x => x.statewideAlerts).length,
+      stateTemplate: data.filter(x => x.stateTemplate).length,
+      JQuery: data.filter(x => x.JQuery).length,
+      GoogleAnalytics: data.filter(x => x.GoogleAnalytics).length,
+      errorcode: data.filter(x => x.error?.code).length,
+      errormessage: data.filter(x => x.error?.message).length
+    },
+    ...data.map(row => ({
       target: row.target,
       redirectURL: row.redirectURL || "",
       title: row.title || "",
@@ -35,8 +32,8 @@ const data = require("../_results/results.json");
       GoogleAnalytics: row.GoogleAnalytics ? row.GoogleAnalytics.join(",") : "",
       errorcode: row.error?.code || "",
       errormessage: row.error?.message || ""
-    });
-  });
+    }))
+  ];
 
   const csv = converter.json2csv(resultData);
 
