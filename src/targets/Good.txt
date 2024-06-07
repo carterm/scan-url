@@ -3,7 +3,6 @@ https://abcab.ca.gov/
 https://abortion.ca.gov/
 https://access.ca.gov/
 https://access2.ca.gov/
-https://accessuat.ca.gov/
 https://agencyreports.ca.gov/
 https://appportal.energy.ca.gov/
 https://apps.wildlife.ca.gov/
@@ -112,8 +111,6 @@ https://dbw.parks.ca.gov/
 https://dcss.ca.gov/
 https://delta.ca.gov/
 https://deltaconservancy.ca.gov/
-https://dev-www.dor.ca.gov/
-https://dev.ceqanet.opr.ca.gov/
 https://dfpi.ca.gov/
 https://dhs.ca.gov/
 https://dinuba.ca.gov/
@@ -210,10 +207,8 @@ https://lgrsonline.sco.ca.gov/
 https://lhc.ca.gov/
 https://liob.cpuc.ca.gov/
 https://listserv.state.ca.gov/
-https://lminfo-test.ca.gov/
 https://loomis.ca.gov/
 https://lp.post.ca.gov/
-https://lptest.post.ca.gov/
 https://ltg.ca.gov/
 https://lunar.fppc.ca.gov/
 https://madera.ca.gov/
@@ -230,7 +225,6 @@ https://metrofire.ca.gov/
 https://mfde.wildlife.ca.gov/
 https://mhsoac.ca.gov/
 https://midasweb.energy.ca.gov/
-https://mileagelogintranet-dev.apps.dgs.ca.gov/
 https://mileagelogintranet.apps.dgs.ca.gov/
 https://militarycouncil.ca.gov/
 https://mlfd.ca.gov/
@@ -281,7 +275,6 @@ https://pioneercommunityenergy.org/
 https://plumascourt.ca.gov/
 https://pointarena.ca.gov/
 https://polb.com/
-https://portal-staging.hsr.ca.gov/
 https://portal.dhcs.ca.gov/
 https://portal.hsr.ca.gov/
 https://portsanluis.ca.gov/
@@ -291,7 +284,6 @@ https://ppmoe.dot.ca.gov/
 https://problemgambling.ca.gov/
 https://prod.sites.ca.gov/
 https://projectresources.cdt.ca.gov/
-https://public.staging.cdph.ca.gov/
 https://qfd.ca.gov/
 https://quake.ca.gov/
 https://quickmap.dot.ca.gov/
@@ -308,8 +300,6 @@ https://roadmaptoresearch.dot.ca.gov/
 https://roads.dot.ca.gov/
 https://roc.fire.ca.gov/
 https://rocklin.ca.gov/
-https://roctest.fire.ca.gov/
-https://rocuat.fire.ca.gov/
 https://safefishing.ca.gov/
 https://saferatwork.labor.ca.gov/
 https://saltoncsd.ca.gov/
@@ -333,7 +323,6 @@ https://sen.ca.gov/
 https://seniors.ca.gov/
 https://seniors.insurance.ca.gov/
 https://serve.ca.gov/
-https://shsp-test.dot.ca.gov/
 https://shsp.dot.ca.gov/
 https://sierranevada.ca.gov/
 https://sjrc.ca.gov/
@@ -353,7 +342,6 @@ https://store.parks.ca.gov/
 https://swrcb.ca.gov/
 https://syfphr.hcai.ca.gov/
 https://syfphr.oshpd.ca.gov/
-https://systest.dental.dhcs.ca.gov/
 https://tahoe.ca.gov/
 https://tahoecons.ca.gov/
 https://tax.ca.gov/
@@ -363,16 +351,6 @@ https://techblog.cdt.ca.gov/
 https://tehamacourt.ca.gov/
 https://tehamajuryservices.ca.gov/
 https://tempid.dtsc.ca.gov/
-https://test-nahc.ca.gov/
-https://test-nmvb.ca.gov/
-https://test-www.dor.ca.gov/
-https://test.calgold.ca.gov/
-https://test.edd.ca.gov/
-https://test.ibank.ca.gov/
-https://test.sgc.ca.gov/
-https://test5.prod.sites.ca.gov/
-https://test5.test.sites.ca.gov/
-https://testsp.csd.ca.gov/
 https://theacademy.ca.gov/
 https://thrive.cnra.ca.gov/
 https://todb.ca.gov/
@@ -387,9 +365,6 @@ https://tsunami.ca.gov/
 https://tsunamimaps.ca.gov/
 https://tularecounty.ca.gov/
 https://tvts.insurance.ca.gov/
-https://uat.ceqanet.opr.ca.gov/
-https://uat.myturn.ca.gov/
-https://uatcams.technology.ca.gov/
 https://uma.technology.ca.gov/
 https://utilitypocketguide.dot.ca.gov/
 https://victims.ca.gov/
@@ -421,7 +396,6 @@ https://wpso.dmhc.ca.gov/
 https://wpwma.ca.gov/
 https://ww2.arb.ca.gov/
 https://wwd.ca.gov/
-https://www-test.cdfa.ca.gov/
 https://www.4everproxy.com/
 https://www.abc.ca.gov/
 https://www.acupuncture.ca.gov/
@@ -677,7 +651,6 @@ https://www.taxcredit.film.ca.gov/
 https://www.taxes.ca.gov/
 https://www.tcwd.ca.gov/
 https://www.template.webstandards.ca.gov/
-https://www.test.film.ca.gov/
 https://www.tomalescsd.ca.gov/
 https://www.townofmammothlakes.ca.gov/
 https://www.treasurer.ca.gov/
