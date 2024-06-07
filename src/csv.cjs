@@ -1,87 +1,47 @@
 //@ts-check
 
 const fs = require("node:fs");
+const converter = require("json-2-csv");
 
 console.time("Done");
 
-/**
- * Represents an object with various properties related to a website.
- * @typedef {object} WebsiteInfo
- * @property {string} target - The target URL of the website.
- * @property {string} redirectURL - The URL to which the website redirects.
- * @property {string} generator - The version of the website generator (e.g., "CAWeb v.1.1.4b").
- * @property {string} statewideAlerts - The URL for statewide alerts.
- * @property {string} stateTemplate - The URL for the state template.
- * @property {string} JQuery - The URL for the jQuery library.
- * @property {string[]} [GoogleAnalytics] - An array of Google Analytics tracking IDs.
- * @property {object} [error] - Details about the encountered error.
- *   @property {string} error.message - The error message (e.g., "unable to verify the first certificate").
- *   @property {string} error.code - The error code (e.g., "UNABLE_TO_VERIFY_LEAF_SIGNATURE").
- *   @property {string} error.detail - Long string of detailed error information
- */
-
 const data = require("../_results/results.json");
 
-const columnNames = [
-  "target",
-  "redirectURL",
-  "title",
-  "generator",
-  "statewideAlerts",
-  "stateTemplate",
-  "JQuery",
-  "GoogleAnalytics",
-  "errorcode",
-  "errormessage"
-];
-
 (() => {
-  /**
-   * @type {string[][]}
-   */
-  const resultData = [];
-
-  resultData.push(columnNames);
-
-  resultData.push([
-    data.length.toString(),
-    data.filter(x => x.redirectURL).length.toString(),
-    data.filter(x => x.title).length.toString(),
-    data.filter(x => x.generator).length.toString(),
-    data.filter(x => x.statewideAlerts).length.toString(),
-    data.filter(x => x.stateTemplate).length.toString(),
-    data.filter(x => x.JQuery).length.toString(),
-    data.filter(x => x.GoogleAnalytics).length.toString(),
-    data.filter(x => x.error?.code).length.toString(),
-    data.filter(x => x.error?.message).length.toString()
-  ]);
+  const resultData = [
+    {
+      target: data.length.toString(),
+      redirectURL: data.filter(x => x.redirectURL).length.toString(),
+      title: data.filter(x => x.title).length.toString(),
+      generator: data.filter(x => x.generator).length.toString(),
+      statewideAlerts: data.filter(x => x.statewideAlerts).length.toString(),
+      stateTemplate: data.filter(x => x.stateTemplate).length.toString(),
+      JQuery: data.filter(x => x.JQuery).length.toString(),
+      GoogleAnalytics: data.filter(x => x.GoogleAnalytics).length.toString(),
+      errorcode: data.filter(x => x.error?.code).length.toString(),
+      errormessage: data.filter(x => x.error?.message).length.toString()
+    }
+  ];
 
   data.forEach(row => {
-    resultData.push([
-      row.target,
-      row.redirectURL || "",
-      row.title || "",
-      row.generator || "",
-      row.statewideAlerts || "",
-      row.stateTemplate || "",
-      row.JQuery || "",
-      row.GoogleAnalytics ? row.GoogleAnalytics.join(",") : "",
-      row.error?.code || "",
-      row.error?.message || ""
-    ]);
+    resultData.push({
+      target: row.target,
+      redirectURL: row.redirectURL || "",
+      title: row.title || "",
+      generator: row.generator || "",
+      statewideAlerts: row.statewideAlerts || "",
+      stateTemplate: row.stateTemplate || "",
+      JQuery: row.JQuery || "",
+      GoogleAnalytics: row.GoogleAnalytics ? row.GoogleAnalytics.join(",") : "",
+      errorcode: row.error?.code || "",
+      errormessage: row.error?.message || ""
+    });
   });
 
-  const result = resultData
-    .map(row => {
-      return row
-        .map(item => (item ? `"${item.replace(`"`, `""`)}"` : ""))
-        .join(",");
-    })
+  const csv = converter.json2csv(resultData);
 
-    .join("\n");
-
-  fs.writeFileSync("publish/data.csv", result);
-  console.log(result);
+  fs.writeFileSync("publish/data.csv", csv);
+  console.log(csv);
 
   console.timeEnd("Done");
   process.exit();

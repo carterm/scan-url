@@ -28,6 +28,7 @@
     "prettier": "^3.0.3"
   },
   "dependencies": {
-    "jsdom": "^24.0.0"
+    "jsdom": "^24.0.0",
+    "json-2-csv": "^5.5.1"
   }
 }
