@@ -170,14 +170,6 @@ https://clrc.ca.gov/
 https://clsd.ca.gov/
 https://cmd.ca.gov/
 https://cmips.ca.gov/
-https://cmipsii-fl1.ca.gov/
-https://cmipsii-fl2.ca.gov/
-https://cmipsii-per.ca.gov/
-https://cmipsii-test.ca.gov/
-https://cmipsii-test1.ca.gov/
-https://cmipsii-test2.ca.gov/
-https://cmipsii-trn.ca.gov/
-https://cmipsii.ca.gov/
 https://cnd.ca.gov/
 https://cnips.ca.gov/
 https://co.ca.gov/

@@ -18,14 +18,26 @@ const processDom = (dom, target) => {
   const GA = /GTM-\w{7}|G-\w{10}|UA-\d{7,8}-\d{1,2}/gim;
   const GoogleAnalytics = [...new Set(code.toUpperCase().match(GA))].sort();
 
-  //if (target == "https://caljobs.ca.gov/") {
+  //if (target == "https://www.p65warnings.ca.gov/") {
   //  let x = 1;
   //}
+  let redirectURL = doc.URL !== target ? doc.URL : undefined;
+  if (redirectURL?.startsWith("https://login.microsoftonline.com")) {
+    redirectURL = "[login.microsoftonline.com]";
+  }
+  const title =
+    (doc.title?.trim().length
+      ? doc.title.trim()
+      : /** @type {HTMLMetaElement} */ (
+          doc.head.querySelector(
+            "meta[name=title i], meta[name=author i], meta[name=description i]"
+          )
+        )?.content) || "";
 
   return {
     target,
-    redirectURL: doc.URL !== target ? doc.URL : undefined,
-    title: doc.title,
+    redirectURL,
+    title,
     generator: /** @type {HTMLMetaElement} */ (
       doc.head.querySelector("meta[name=generator i]")
     )?.content,
