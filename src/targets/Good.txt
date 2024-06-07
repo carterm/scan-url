@@ -72,6 +72,7 @@ https://ceqanet.opr.ca.gov/
 https://cers.calepa.ca.gov/
 https://childsupport.ca.gov/
 https://cityofcorcoran.ca.gov/
+https://cityoflcf.org/
 https://cjp.ca.gov/
 https://claimrequest.edd.ca.gov/
 https://cleancalifornia.dot.ca.gov/
@@ -218,6 +219,7 @@ https://ohp.parks.ca.gov/
 https://olsip.apps.dgs.ca.gov/
 https://onlineservices.cdtfa.ca.gov/
 https://osg.ca.gov/
+https://osi.ca.gov/
 https://ota.ca.gov/
 https://oycr.ca.gov/
 https://parentage.dcss.ca.gov/
@@ -270,8 +272,10 @@ https://shsp.dot.ca.gov/
 https://sierranevada.ca.gov/
 https://sjrc.ca.gov/
 https://smmc.ca.gov/
+https://soir.senate.ca.gov/
 https://solanosr2s.ca.gov/
 https://sonomacounty.ca.gov/
+https://southkern.specialdistrict.org/
 https://spmud.ca.gov/
 https://spot.cdph.ca.gov/
 https://sprls.dre.ca.gov/
@@ -401,6 +405,7 @@ https://www.chp.ca.gov/
 https://www.chrb.ca.gov/
 https://www.cirm.ca.gov/
 https://www.cityofblythe.ca.gov/
+https://www.cityofimperial.org/
 https://www.cityofriodell.ca.gov/
 https://www.cityofventura.ca.gov/
 https://www.climateassessment.ca.gov/
@@ -467,8 +472,10 @@ https://www.fire.ca.gov/
 https://www.firedepartment.org/
 https://www.firewood.ca.gov/
 https://www.first5.ca.gov/
+https://www.fountainvalley.gov/
 https://www.fppc.ca.gov/
 https://www.ftb.ca.gov/
+https://www.gosbcta.com/
 https://www.gosolarcalifornia.org/
 https://www.gov.ca.gov/
 https://www.governors.library.ca.gov/
@@ -486,6 +493,7 @@ https://www.hsr.ca.gov/
 https://www.ibank.ca.gov/
 https://www.immigrantguide.ca.gov/
 https://www.insurance.ca.gov/
+https://www.inyo.courts.ca.gov/
 https://www.judicialethicsopinions.ca.gov/
 https://www.labor.ca.gov/
 https://www.lao.ca.gov/
@@ -494,6 +502,7 @@ https://www.latc.ca.gov/
 https://www.lemongrove.ca.gov/
 https://www.library.ca.gov/
 https://www.losaltoshills.ca.gov/
+https://www.madera.gov/
 https://www.mbc.ca.gov/
 https://www.mce.ca.gov/
 https://www.mdaqmd.ca.gov/
@@ -522,7 +531,6 @@ https://www.optometry.ca.gov/
 https://www.osar.bppe.ca.gov/
 https://www.osfm.fire.ca.gov/
 https://www.oshpd.ca.gov/
-https://osi.ca.gov/
 https://www.ospd.ca.gov/
 https://www.ots.ca.gov/
 https://www.p65warnings.ca.gov/
@@ -537,6 +545,7 @@ https://www.pinyonpinescwd.ca.gov/
 https://www.placer.ca.gov/
 https://www.pmbc.ca.gov/
 https://www.portsanluis.com/
+https://www.prcity.com/
 https://www.psychology.ca.gov/
 https://www.ptbc.ca.gov/
 https://www.publicadvocates.cpuc.ca.gov/
@@ -547,11 +556,13 @@ https://www.recycledelnorte.ca.gov/
 https://www.registertovote.ca.gov/
 https://www.rgsjpa.org/
 https://www.rn.ca.gov/
+https://www.rocklin.ca.us/
 https://www.saccourt.ca.gov/
 https://www.sacramento.ca.gov/
 https://www.sanbruno.ca.gov/
 https://www.sandiegocounty.gov/
 https://www.sanramon.ca.gov/
+https://www.santaclaracounty.gov/
 https://www.savewater.ca.gov/
 https://www.sbac.ca.gov/
 https://www.sco.ca.gov/
@@ -578,6 +589,7 @@ https://www.tam.ca.gov/
 https://www.taxcredit.film.ca.gov/
 https://www.taxes.ca.gov/
 https://www.tcwd.ca.gov/
+https://www.tehama.courts.ca.gov/
 https://www.template.webstandards.ca.gov/
 https://www.tomalescsd.ca.gov/
 https://www.townofmammothlakes.ca.gov/
@@ -598,20 +610,3 @@ https://www.wdtip.ca.gov/
 https://www.wheatland.ca.gov/
 https://www.workforcalifornia.ca.gov/
 https://www.ych.ca.gov/
-http://www.dmca.ca.gov/
-https://www.fountainvalley.gov/
-http://www.clrc.ca.gov/
-http://www.leginfo.ca.gov/
-https://www.cityofimperial.org/
-http://www.mrcapublicsafety.ca.gov/
-https://www.prcity.com/
-https://www.gosbcta.com/
-https://www.madera.gov/
-https://soir.senate.ca.gov/
-https://www.santaclaracounty.gov/
-https://www.inyo.courts.ca.gov/
-https://cityoflcf.org/
-https://www.madera.gov/
-https://www.rocklin.ca.us/
-https://southkern.specialdistrict.org/
-https://www.tehama.courts.ca.gov/
