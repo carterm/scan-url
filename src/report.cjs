@@ -23,9 +23,7 @@ const data = require("../_results/results.json");
         })
     )
   ];
-  newList = newList.filter(
-    x => !newList.includes(x.replace("https://", "https://www."))
-  );
+  newList = newList.filter(x => !newList.includes(x.replace("://", "://www.")));
 
   newList.sort();
 
