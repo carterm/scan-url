@@ -25,6 +25,10 @@ const processDom = (dom, target) => {
   if (redirectURL?.startsWith("https://login.microsoftonline.com")) {
     redirectURL = "[login.microsoftonline.com]";
   }
+  if (redirectURL?.startsWith(target)) {
+    //remove the host in redirect if it matches target
+    redirectURL = redirectURL.replace(target, "/");
+  }
   const title =
     (doc.title?.trim().length
       ? doc.title.trim()

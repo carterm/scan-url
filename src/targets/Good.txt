@@ -70,7 +70,6 @@ https://cca.ca.gov/
 https://ccag.ca.gov/
 https://ccc.ca.gov/
 https://cchcs.ca.gov/
-https://cchcs.hodesiq.com/
 https://ccld.ca.gov/
 https://ccldpartners.ca.gov/
 https://ccusl.ca.gov/
@@ -105,7 +104,6 @@ https://corc.oshpd.ca.gov/
 https://countyofsantaclara.ca.gov/
 https://covid19.ca.gov/
 https://cpads.sco.ca.gov/
-https://cphcs.hodesiq.com/
 https://cpost.ca.gov/
 https://crawlers.newgen.co/
 https://crb.ca.gov/
