@@ -13,7 +13,6 @@ https://apps.wildlife.ca.gov/
 https://aquaculturematters.ca.gov/
 https://arts.ca.gov/
 https://askedd.edd.ca.gov/
-https://auburn.ca.gov/
 https://author.csd.ca.gov/
 https://avaqmd.ca.gov/
 https://azure.fiscal.ca.gov/
@@ -549,6 +548,7 @@ https://www.aging.ca.gov/
 https://www.alamedacountysheriff.org/
 https://www.alrb.ca.gov/
 https://www.assembly.ca.gov/
+https://www.auburn.ca.gov/
 https://www.auditor.ca.gov/
 https://www.bar.ca.gov/
 https://www.barbercosmo.ca.gov/
