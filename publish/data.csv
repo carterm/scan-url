@@ -1,5 +1,5 @@
 target,redirectURL,title,generator,statewideAlerts,stateTemplate,JQuery,GoogleAnalytics,errorcode,errormessage
-878,89,597,175,114,239,437,463,231,245
+878,88,599,176,114,240,439,466,232,242
 https://abag.ca.gov/,,Home | Association of Bay Area Governments,Drupal 10 (https://www.drupal.org),,,,"G-FE9WWP5YXX,UA-45890390-1",,
 https://abcab.ca.gov/,,ABCAB | ABC Appeals Board,CAWeb v.1.11.0,,https://abcab.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0,https://abcab.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-XYBVW071M5,G-Y7T2KCM7P1,UA-20973992-10,UA-3419582-2,UA-3419582-47",,
 https://abcappeals.ca.gov/,,,,,,,,ENOTFOUND,getaddrinfo ENOTFOUND abcappeals.ca.gov
@@ -18,7 +18,7 @@ https://aquaculturematters.ca.gov/,,Aquaculture Matters,WordPress.com,,,,,,
 https://arts.ca.gov/,,Home Page - California Arts Council,WordPress 6.4.2,,,https://arts.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,G-YMHBQ8PVF6,,
 https://askedd.edd.ca.gov/,https://askedd.edd.ca.gov/s/,AskEDD,,,,,"G-P1RJ1L0W4D,GTM-MCW7ZGX",,
 https://auburn.ca.gov/,,"Auburn, CA | Official Website",,,,https://auburn.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js,"G-1PL09BWVXS,GTM-K73C5PS,GTM-WKGQMK5",,
-https://author.csd.ca.gov/,[login.microsoftonline.com],Sign in to your account,,,,,G-_NUVUL911C,,
+https://author.csd.ca.gov/,[login.microsoftonline.com],Sign in to your account,,,,,,,
 https://avaqmd.ca.gov/,,Antelope Valley Air Quality Management District,,,,,,,
 https://azure.fiscal.ca.gov/,,FI$Cal - State of California. One state. One system.|,Divi Child v.3.11.1.1533591462,https://alert.cdt.ca.gov/,,https://azure.fiscal.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"GTM-5TVLDSK,UA-3419582-2",,
 https://babysafe.ca.gov/,https://www.cdss.ca.gov/inforesources/community-care-licensing,Community Care Licensing,DotNetNuke ,,https://www.cdss.ca.gov/Portals/_default/Skins/CaGov-SantaBarbara%20-%20Partner//js/cagov.core.js,https://www.cdss.ca.gov/Resources/libraries/jQuery/03_02_01/jquery.js?cdv=630,UA-77698819-4,,
@@ -32,7 +32,7 @@ https://bhc.ca.gov/,,Baldwin Hills Conservancy,,https://alert.cdt.ca.gov/,https:
 https://billing.technology.ca.gov/,https://billing.technology.ca.gov/login.aspx?ReturnUrl=%2f,Login,,,,,UA-3419582-2,,
 https://blue.water.ca.gov/,https://blue.water.ca.gov/IntranetLogin/IntranetLogin.aspx?returnUrl=%2F,,,,,,,,
 https://bluelake.ca.gov/,,"City of Blue Lake, CA - Blue Lake, California",,,,https://bluelake.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,,,
-https://bns.insurance.ca.gov/,[login.microsoftonline.com],Sign in to your account,,,,,"G-LIAZVCCF4L,G-SYSGVACGTR,G-XQE2MSSTF9",,
+https://bns.insurance.ca.gov/,[login.microsoftonline.com],Sign in to your account,,,,,G-0SIN3U5AMM,,
 https://bof.fire.ca.gov/,,Board of Forestry and Fire Protection,,,,,"UA-12131957-13,UA-3419582-2",,
 https://bopc.ca.gov/,,BOPC | Board of Pilot Commissioners,CAWeb v.1.11.0,,https://bopc.ca.gov/wp-content/themes/CAWeb/src/version-6.0/cagov.core.js?ver=1.11.0,https://bopc.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-FBMZL6F4H8,G-Y7T2KCM7P1,UA-20973992-11,UA-3419582-2,UA-3419582-47",,
 https://broadbandcouncil.ca.gov/,,"California Broadband Council | The California Broadband Council was established by legislation in 2010 (S.B. 1462 – Padilla) to marshal the state’s resources to further the policy of increasing broadband network deployment, and eliminating the Digital Divide by expanding broadband accessibility, literacy, adoption, and usage.",CAWeb v.1.11.0,,https://broadbandcouncil.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0,https://broadbandcouncil.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-BM545KDPMZ,G-Y7T2KCM7P1,UA-21970760-37,UA-3419582-2,UA-3419582-47",,
@@ -53,7 +53,7 @@ https://calepa.ca.gov/,,CalEPA | California Environmental Protection Agency,CAWe
 https://calepa.sites.ca.gov/,,calepa.sites.ca.gov |,CAWeb v.1.11.0,,https://calepa.sites.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0,https://calepa.sites.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47",,
 https://caleprocure.ca.gov/,,Page Redirection,,,,,"GTM-WTBNSTN,UA-3419582-2",,
 https://calfreshhealthyliving.cdph.ca.gov/,https://calfreshhealthyliving.cdph.ca.gov/en/Pages/default.aspx,Home,Microsoft SharePoint,,,,GTM-KVN6ZCB,,
-https://calgenetic.cdph.ca.gov/,https://sis2-prod.powerappsportals.us/homepage/,CalGenetic Home,,,,https://sis2-prod.powerappsportals.us/gdsp_jquery.min.js,GTM-TSJC8P6,,
+https://calgenetic.cdph.ca.gov/,https://sis2-prod.powerappsportals.us/homepage/,CalGenetic Home,,,,https://sis2-prod.powerappsportals.us/gdsp_jquery.min.js,"G-DYATOAOYNV,GTM-TSJC8P6",,
 https://calguard.ca.gov/,,Cal Guard | Cal Guard,CAWeb v.1.11.0,,https://calguard.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0,https://calguard.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-568M73XK08,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-21974567-37,UA-3419582-2,UA-3419582-47",,
 https://californiansforall.ca.gov/,https://www.californiavolunteers.ca.gov/join-californiansforall/,Sign Up for #CaliforniansForAll | California Volunteers,CAWeb v.1.11.0,https://alert.cdt.ca.gov/alert.js?ver=1.0.0,https://www.californiavolunteers.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0,https://www.californiavolunteers.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-T935JFYNE2,G-Y7T2KCM7P1,GTM-TZDK45W,UA-23110710-36,UA-3419582-2,UA-3419582-47",,
 https://californiasciencecenter.ca.gov/,,California Science Center | The California Science Center,Drupal 9 (https://www.drupal.org),,,,GTM-WQK76FQ,,
@@ -238,7 +238,7 @@ https://eitc.ca.gov/,https://www.cdss.ca.gov/earned-income-tax-credit,Earned Inc
 https://emsa.ca.gov/,,EMSA | Emergency Medical Services Authority,CAWeb v.1.11.0,,https://emsa.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0,https://emsa.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-X6L4EHC0ZJ,G-Y7T2KCM7P1,UA-23110710-29,UA-3419582-2,UA-3419582-47",,
 https://energysafety.ca.gov/,,Office of Energy Infrastructure Safety | Driving utility-related wildfire risk reduction for the State of California.,CAWeb v.1.9.0,https://alert.cdt.ca.gov/,,https://energysafety.ca.gov/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.25.0,"G-69TD0KNT0F,G-DCP197HRSL",,
 https://eocs.dre.ca.gov/,,Enforcement Online Complaints,,,,https://eocs.dre.ca.gov/Scripts/jquery-ui.min.js,,,
-https://escog.ca.gov/,,EASTERN SIERRA COUNCIL OF GOVERNMENTS JOINT POWERS AUTHORITY,,,,,"G-0E87500F7A,G-1A8C2F2161,G-5CGC3ET1CB,G-A9EB87C1B7,G-ALTERNATIN,G-CC62B0E68D,G-COLLECTION",,
+https://escog.ca.gov/,,EASTERN SIERRA COUNCIL OF GOVERNMENTS JOINT POWERS AUTHORITY,,,,,"G-5CGC3ET1CB,G-88DC8715A2,G-A9EB87C1B7,G-ALTERNATIN,G-CC62B0E68D,G-COLLECTION,G-FC41044076",,
 https://eservices.ca.gov/,,,,,,,,ENOTFOUND,getaddrinfo ENOTFOUND eservices.ca.gov
 https://etp.ca.gov/,,Employment Training Panel | Employment Training Panel,CAWeb v.1.11.0,https://alert.cdt.ca.gov/alert.js?ver=1.0.0,https://etp.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0,https://etp.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-CTKM4GM02H,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47,UA-64276560-40",,
 https://ets.cdpr.ca.gov/,,California Department of Pesticide Regulation Electronic Transfer System,,,https://ets.cdpr.ca.gov/state_templates/state-template-new/js/cagov.core.js,https://code.jquery.com/jquery-3.5.1.min.js,"G-69TD0KNT0F,G-THW4EX8XMS",,
@@ -311,11 +311,11 @@ https://infosecurity.ca.gov/,,,,,,,,ECONNRESET,connect ECONNRESET 67.157.98.40:4
 https://inmatelocator.cdcr.ca.gov/,,IIS Windows Server,,,,,,,
 https://innovation.ca.gov/,,Office of Data and Innovation,,https://alert.cdt.ca.gov/,,,GTM-PQRTS7Z,,
 https://int.ca.gov/,,,,,,,,ENOTFOUND,getaddrinfo ENOTFOUND int.ca.gov
-https://intranet.calepa.ca.gov/,https://intranet.calepa.ca.gov/wp-login.php?redirect_to=%2F,Log In ‹ Intranet – CalEPA — WordPress,,,,https://intranet.calepa.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,,,
+https://intranet.calepa.ca.gov/,,Intranet - CalEPA | Our internal website for employees!,CAWeb v.1.11.0,,https://intranet.calepa.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0,https://intranet.calepa.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-DQ3VBC4CR1,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47",,
 https://intranet.ots.ca.gov/,https://intranet.ots.ca.gov/wp-login.php?redirect_to=%2F,Log In ‹ OTS – Intranet — WordPress,,,,https://intranet.ots.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,,,
 https://inyocourt.ca.gov/,,,,,,,,ERR_TLS_CERT_ALTNAME_INVALID,"Hostname/IP does not match certificate's altnames: Host: inyocourt.ca.gov. is not in the cert's altnames: DNS:courts.ca.gov, DNS:www.courts.ca.gov, DNS:appellatecases.courtinfo.ca.gov, DNS:cidcs.courtinfo.ca.gov, DNS:interpreterportal.courts.ca.gov, DNS:jbsis.courtinfo.ca.gov, DNS:jrn.courts.ca.gov, DNS:www2.courtinfo.ca.gov, DNS:www4.courtinfo.ca.gov"
 https://iscc.ca.gov/,,,,,,,,ENOTFOUND,getaddrinfo ENOTFOUND iscc.ca.gov
-https://islavistacsd.ca.gov/,,Isla Vista Community Services District,,,,,,,
+https://islavistacsd.ca.gov/,,,,,,,,ETIMEDOUT,
 https://jcsd.ca.gov/,,,,,,,,ECONNRESET,read ECONNRESET
 https://jobs.spb.ca.gov/,,,,,,,,,
 https://jointventureprogram.ca.gov/,,,,,,,,UNABLE_TO_VERIFY_LEAF_SIGNATURE,unable to verify the first certificate
@@ -391,8 +391,8 @@ https://mrca.ca.gov/,,MRCA,WordPress 6.4.4,,,https://code.jquery.com/jquery-1.12
 https://mrcapublicsafety.ca.gov/,,,,,,,,ECONNRESET,Client network socket disconnected before secure TLS connection was established
 https://mss.ca.gov/,,,,,,,,ENOTFOUND,getaddrinfo ENOTFOUND mss.ca.gov
 https://mtc.ca.gov/,,"Metropolitan Transportation Commission | MTC is the transportation planning, financing and coordinating agency for the nine-county San Francisco Bay Area.",Drupal 10 (https://www.drupal.org),,,https://mtc.ca.gov/core/assets/vendor/jquery/jquery.min.js?v=3.7.1,"G-875ZLGCEXJ,UA-7328958-2",,
-https://my.calpers.ca.gov/,https://auth.my.calpers.ca.gov/35239553-f454-4ff8-938c-856a90c45fae/b2c_1a_signin/oauth2/v2.0/authorize?client_id=cfb6615d-8786-4331-918b-b0a0e2e0338b&nonce=5_17GFYkhpLSdCYaj7s7oJw&redirect_uri=https%3A%2F%2Fmy.calpers.ca.gov%2Foauth%2Fclient%2Fredirect&response_type=code&scope=openid&state=000fffff2f19d523,Loading...,,,,,G-BACKGROUND,,
-https://mycalpers.ca.gov/,https://auth.my.calpers.ca.gov/35239553-f454-4ff8-938c-856a90c45fae/b2c_1a_signin/oauth2/v2.0/authorize?client_id=cfb6615d-8786-4331-918b-b0a0e2e0338b&nonce=5ghtGJcHYIxTU6qBWrc3QZA&redirect_uri=https%3A%2F%2Fmy.calpers.ca.gov%2Foauth%2Fclient%2Fredirect&response_type=code&scope=openid&state=000fffff49ce5597,Loading...,,,,,G-BACKGROUND,,
+https://my.calpers.ca.gov/,https://auth.my.calpers.ca.gov/35239553-f454-4ff8-938c-856a90c45fae/b2c_1a_signin/oauth2/v2.0/authorize?client_id=cfb6615d-8786-4331-918b-b0a0e2e0338b&nonce=5BSDIdLIGyUZ2d-t-Xq31Gw&redirect_uri=https%3A%2F%2Fmy.calpers.ca.gov%2Foauth%2Fclient%2Fredirect&response_type=code&scope=openid&state=000fffff49082a93,Loading...,,,,,G-BACKGROUND,,
+https://mycalpers.ca.gov/,https://auth.my.calpers.ca.gov/35239553-f454-4ff8-938c-856a90c45fae/b2c_1a_signin/oauth2/v2.0/authorize?client_id=cfb6615d-8786-4331-918b-b0a0e2e0338b&nonce=5qOdA9oYGN5W1JhESCrW3iw&redirect_uri=https%3A%2F%2Fmy.calpers.ca.gov%2Foauth%2Fclient%2Fredirect&response_type=code&scope=openid&state=000fffff6af86092,Loading...,,,,,G-BACKGROUND,,
 https://mychildcare.ca.gov/,,,,,,,,ENOTFOUND,getaddrinfo ENOTFOUND mychildcare.ca.gov
 https://mycusd.capousd.org/,,,,,,,,,
 https://myedd.edd.ca.gov/,https://myedd.edd.ca.gov/s/,,,,,,,,
@@ -404,7 +404,7 @@ https://napa.ca.gov/,,,,,,,,ETIMEDOUT,connect ETIMEDOUT 209.78.56.66:443
 https://napasheriff.ca.gov/,,,,,,,,ERR_TLS_CERT_ALTNAME_INVALID,Hostname/IP does not match certificate's altnames: Host: napasheriff.ca.gov. is not in the cert's altnames: DNS:services.countyofnapa.org
 https://natureworks.resources.ca.gov/,,natureworks.resources.ca.gov — Domain default page,,,,,,,
 https://nchidta.ca.gov/,,,,,,,,ERR_TLS_CERT_ALTNAME_INVALID,"Hostname/IP does not match certificate's altnames: Host: nchidta.ca.gov. is not in the cert's altnames: DNS:acc.ncric.org, DNS:nchidta.com, DNS:nchidta.net, DNS:nchidta.org, DNS:ncmostwanted.org, DNS:ncric.net, DNS:ncric.org, DNS:ncrttac.org, DNS:new.ncric.org, DNS:new.northerncaliforniamostwanted.org, DNS:northerncaliforniamostwanted.com, DNS:northerncaliforniamostwanted.org, DNS:www.nchidta.com, DNS:www.nchidta.net, DNS:www.nchidta.org, DNS:www.ncmostwanted.org, DNS:www.ncric.net, DNS:www.ncric.org, DNS:www.ncrttac.org, DNS:www.northerncaliforniamostwanted.com, DNS:www.northerncaliforniamostwanted.org"
-https://ncric.ca.gov/,,Public Awareness and Safety Programs |San Francisco Bay Area,WordPress 6.5.3,,,https://ncric.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,,,
+https://ncric.ca.gov/,,Public Awareness and Safety Programs |San Francisco Bay Area,WordPress 6.5.4,,,https://ncric.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,,,
 https://ncsd.ca.gov/,,"Nipomo Community Services District | NSCD Nipomo, California",Powered by WPBakery Page Builder - drag and drop page builder for WordPress.,,,https://ncsd.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,,,
 https://nctc.ca.gov/,,,,,,,,ERR_TLS_CERT_ALTNAME_INVALID,"Hostname/IP does not match certificate's altnames: Host: nctc.ca.gov. is not in the cert's altnames: DNS:*.catapultcms.com, DNS:catapultcms.com"
 https://net.ca.gov/,,,,,,,,ENOTFOUND,getaddrinfo ENOTFOUND net.ca.gov
@@ -423,7 +423,7 @@ https://ohii.ca.gov/,,,,,,,,ECONNREFUSED,connect ECONNREFUSED 158.96.244.105:443
 https://ohp.parks.ca.gov/,,OHP Division,,,,https://ohp.parks.ca.gov/vendor/jquery/jquery.min.js,"G-NQRMQVQ7T5,UA-3419582-2",,
 https://ohs.ca.gov/,,,,,,,,ENOTFOUND,getaddrinfo ENOTFOUND ohs.ca.gov
 https://ojai.ca.gov/,,"Ojai, CA | Official Website",,,,https://ojai.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js,"G-2WPLDT68FY,GTM-K73C5PS,GTM-WKGQMK5",,
-https://olc.ca.gov/,,,,,,,,EPROTO,"write EPROTO 00867C0A01000000:error:0A000458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:ssl/record/rec_layer_s3.c:907:SSL alert number 112
+https://olc.ca.gov/,,,,,,,,EPROTO,"write EPROTO 00C6A41D01000000:error:0A000458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:ssl/record/rec_layer_s3.c:907:SSL alert number 112
 "
 https://olsip.apps.dgs.ca.gov/,,Home Page - Olsip.Web.Core,,,https://olsip.apps.dgs.ca.gov/Content/StateTemplate/js/cagov.core.js,https://olsip.apps.dgs.ca.gov/Content/StateTemplate/js/libs/jquery-3.2.1.min.js,,,
 https://ombc.ca.gov/,,Welcome To Our Web Site - Osteopathic Medical Board of California,,,https://ombc.ca.gov/js/cagov.core.js,https://code.jquery.com/jquery-3.6.0.min.js,"G-69TD0KNT0F,G-QYQQC0C406,GTM-NBQCVZC,UA-3419582-2,UA-64276560-16",,
@@ -492,8 +492,8 @@ https://roadmaptoresearch.dot.ca.gov/,,Roadmap to Research,,,https://roadmaptore
 https://roads.dot.ca.gov/,,Division of Traffic Operations - Road Information - California Highway Information,,,https://roads.dot.ca.gov/js/cagov.core.js,https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js,,,
 https://roc.fire.ca.gov/,[login.microsoftonline.com],Sign in to your account,,,,,,,
 https://rocklin.ca.gov/,,,,,,,,ERR_TLS_CERT_ALTNAME_INVALID,"Hostname/IP does not match certificate's altnames: Host: rocklin.ca.gov. is not in the cert's altnames: DNS:*.rocklin.ca.us, DNS:rocklin.ca.us"
-https://roctest.fire.ca.gov/,[login.microsoftonline.com],Sign in to your account,,,,,,,
-https://rocuat.fire.ca.gov/,[login.microsoftonline.com],Sign in to your account,,,,,,,
+https://roctest.fire.ca.gov/,[login.microsoftonline.com],Sign in to your account,,,,,G-3EYBK7RVIC,,
+https://rocuat.fire.ca.gov/,[login.microsoftonline.com],Sign in to your account,,,,,"G-0ZH8JWECKN,G-NCA0WURNKW,G-QPFQP3HNTN,G-UEQ0KCFEYA",,
 https://rowlandwaterdistrict.ca.gov/,,,,,,,,ENOTFOUND,getaddrinfo ENOTFOUND rowlandwaterdistrict.ca.gov
 https://sac.ca.gov/,,,,,,,,ENOTFOUND,getaddrinfo ENOTFOUND sac.ca.gov
 https://saccourt.ca.gov/,,Superior Court of California - County of Sacramento,,,,https://saccourt.ca.gov/assets/plugins/jquery-1.11.2.min.js,UA-4132807-14,,
@@ -503,7 +503,7 @@ https://safefishing.ca.gov/,,,,,,,,CERT_HAS_EXPIRED,certificate has expired
 https://saferatwork.labor.ca.gov/,,Safer At Work | California for All,CAWeb v.1.11.0,,https://saferatwork.labor.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0,https://saferatwork.labor.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-WN09725CCD,G-Y7T2KCM7P1,GTM-5LKL585,UA-21974567-38,UA-3419582-2,UA-3419582-47",,
 https://saltoncsd.ca.gov/,,Salton Community Services District,,,,,,,
 https://saltonsea.ca.gov/,,Salton Sea Management Program,,https://alert.cdt.ca.gov/,https://saltonsea.ca.gov/js/cagov.core.js,https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js,"UA-3419582-2,UA-59627195-7",,
-https://sanbag.ca.gov/,,,,,,,,EPROTO,"write EPROTO 00867C0A01000000:error:0A0000C6:SSL routines:tls_get_more_records:packet length too long:ssl/record/methods/tls_common.c:655:
+https://sanbag.ca.gov/,,,,,,,,EPROTO,"write EPROTO 00C6A41D01000000:error:0A0000C6:SSL routines:tls_get_more_records:packet length too long:ssl/record/methods/tls_common.c:655:
 "
 https://sanbruno.ca.gov/,,"San Bruno, CA | Official Website",,,,https://sanbruno.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js,"G-FVWSYTCK31,GTM-K73C5PS,GTM-WKGQMK5",,
 https://sanramon.ca.gov/,,Home - City of San Ramon,,,,https://cdnsm1-hosted.civiclive.com/javascript/jquery.mmenu.min.all.js,"G-GK506XC3FG,UA-12176870-1",,
@@ -539,7 +539,7 @@ https://sierranevada.ca.gov/,,Sierra Nevada Conservancy | Building resilience,CA
 https://sierrarcd.ca.gov/,,,,,,,,ENOTFOUND,getaddrinfo ENOTFOUND sierrarcd.ca.gov
 https://sites.ca.gov/,,,,,,,,ENOTFOUND,getaddrinfo ENOTFOUND sites.ca.gov
 https://sjrc.ca.gov/,,San Joaquin River Conservancy – The San Joaquin River Conservancy is a regionally governed agency created to develop and manage the San Joaquin River Parkway,,https://alert.cdt.ca.gov/,https://sjrc.ca.gov/js/cagov.core.js,https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js,"UA-3419582-2,UA-59627195-7",,
-https://skcd.ca.gov/,,,,,,,,ERR_TLS_CERT_ALTNAME_INVALID,"Hostname/IP does not match certificate's altnames: Host: skcd.ca.gov. is not in the cert's altnames: DNS:hickoryuwcd.org, DNS:www.hickoryuwcd.org"
+https://skcd.ca.gov/,,,,,,,,ERR_TLS_CERT_ALTNAME_INVALID,"Hostname/IP does not match certificate's altnames: Host: skcd.ca.gov. is not in the cert's altnames: DNS:legatocommunity.co, DNS:www.legatocommunity.co"
 https://slocounty.ca.gov/,,Home,,,,,G-VPXL6V4WXQ,,
 https://smbrc.ca.gov/,,,,,,,,ENOTFOUND,getaddrinfo ENOTFOUND smbrc.ca.gov
 https://smfd.ca.gov/,,,,,,,,ENOTFOUND,getaddrinfo ENOTFOUND smfd.ca.gov
@@ -573,7 +573,7 @@ https://store.parks.ca.gov/,,California Department of Parks and Recreation Onlin
 https://sucorte.ca.gov/,https://selfhelp.courts.ca.gov/es,Guía de ayuda de las Cortes de California | California Courts | Self Help Guide,Drupal 9 (https://www.drupal.org),,,,,,
 https://surveys.cdt.ca.gov/,,,,,,,,ENOTFOUND,getaddrinfo ENOTFOUND surveys.cdt.ca.gov
 https://svcea.ca.gov/,,,,,,,,ENOTFOUND,getaddrinfo ENOTFOUND svcea.ca.gov
-https://swrcb.ca.gov/,,,,,,,,EPROTO,"write EPROTO 00867C0A01000000:error:0A000458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:ssl/record/rec_layer_s3.c:907:SSL alert number 112
+https://swrcb.ca.gov/,,,,,,,,EPROTO,"write EPROTO 00C6A41D01000000:error:0A000458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:ssl/record/rec_layer_s3.c:907:SSL alert number 112
 "
 https://syfphr.hcai.ca.gov/,,HCAI Syfphr,,,,,,,
 https://syfphr.oshpd.ca.gov/,,HCAI Syfphr,,,,,,,
@@ -627,7 +627,7 @@ https://tularecag.ca.gov/,,,,,,,,ENOTFOUND,getaddrinfo ENOTFOUND tularecag.ca.go
 https://tularecounty.ca.gov/,https://tularecounty.ca.gov/county/,Home - Tulare County Main,Mura 10.0.712,,,https://tularecounty.ca.gov/sites/county/includes/themes/Bootstrap5Main/js/libraries/jquery-3.5.1.min.js,,,
 https://tularesuperiorcourt.ca.gov/,,,,,,,,ENOTFOUND,getaddrinfo ENOTFOUND tularesuperiorcourt.ca.gov
 https://tuolumnecounty.ca.gov/,,"Tuolumne County, CA - Official Website | Official Website",,,,https://tuolumnecounty.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js,"G-HHGEB3R8ZN,GTM-K73C5PS,GTM-WKGQMK5",,
-https://tvts.insurance.ca.gov/,[login.microsoftonline.com],Sign in to your account,,,,,G-XLZ7MNV_5U,,
+https://tvts.insurance.ca.gov/,[login.microsoftonline.com],Sign in to your account,,,,,,,
 https://uat.ceqanet.opr.ca.gov/,,CEQAnet,,,https://california.azureedge.net/cdt/statetemplate/5.5.21/js/cagov.core.min.js,https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js,UA-3419582-2,,
 https://uat.myturn.ca.gov/,,My Turn - California Vaccine Scheduling & Notifications,,,,,"G-RJPGSHNVCG,GTM-5THG92K,GTM-WC8N8KN,UA-21974567-38,UA-3419582-2",,
 https://uatcams.technology.ca.gov/,https://uatcams.technology.ca.gov/Account/Login?ReturnUrl=%2f,CAMS,,,,,UA-3419582-2,,
@@ -670,7 +670,7 @@ https://webutil.csac.ca.gov/,,,,,,,,,
 https://wedrawthelines.ca.gov/,,"California Citizens Redistricting Commission | ""Fair Representation - Democracy at Work!""",CAWeb v.1.11.0,,https://wedrawthelines.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.11.0,https://wedrawthelines.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47,UA-44798820-1",,
 https://westnile.ca.gov/,,Westnile.ca.gov | California West Nile Virus Website,,,,https://westnile.ca.gov/assets/vendor/jquery/jquery.min.js,,,
 https://wgfd.ca.gov/,,,,,,,,ECONNRESET,Client network socket disconnected before secure TLS connection was established
-https://whistleblower.insurance.ca.gov/,[login.microsoftonline.com],Sign in to your account,,,,,"G-BGH2QLTXHD,G-JCLKXDUJJ4",,
+https://whistleblower.insurance.ca.gov/,[login.microsoftonline.com],Sign in to your account,,,,,G-Q7PJOQC1LQ,,
 https://wic.ca.gov/,,,,,,,,ENOTFOUND,getaddrinfo ENOTFOUND wic.ca.gov
 https://wicfarmers.ca.gov/,,,,,,,,ECONNRESET,read ECONNRESET
 https://wicworks.ca.gov/,,,,,,,,ECONNRESET,read ECONNRESET
@@ -718,7 +718,7 @@ https://www.buycaliforniabonds.com/,https://www.buycaliforniabonds.com/state-of-
 https://www.bvnpt.ca.gov/,,Board of Vocational Nursing & Psychiatric Technicians,,,https://www.bvnpt.ca.gov/js/cagov.core.js,https://code.jquery.com/jquery-3.5.1.min.js,"G-69TD0KNT0F,G-HTB5XLD158,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-29",,
 https://www.ca.gov/,,www.ca.gov | California State Portal,,https://alert.cdt.ca.gov/,https://www.ca.gov/js/cagov.core.min.js,https://code.jquery.com/jquery-3.4.1.min.js,GTM-PZGPNNV,,
 https://www.cab.ca.gov/,,California Architects Board,,,https://www.cab.ca.gov/js/cagov.core.js,https://code.jquery.com/jquery-3.5.1.min.js,"G-69TD0KNT0F,G-R5WKN67L3M,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-2",,
-https://www.caclimateinvestments.ca.gov/,,California Climate Investments,,,,https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js,"G-88DC8715A2,G-A9EB87C1B7,G-CC62B0E68D,G-COLLECTION,G-FC41044076",,
+https://www.caclimateinvestments.ca.gov/,,California Climate Investments,,,,https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js,"G-49479F72BE,G-A9EB87C1B7,G-CBB595ED36,G-CBDE5D1BCB,G-COLLECTION",,
 https://www.calbar.ca.gov/,,The State Bar of California Home Page,,,,,G-CT3SHXYGSG,,
 https://www.calcloud.ca.gov/,,,,,,,,ERR_TLS_CERT_ALTNAME_INVALID,Hostname/IP does not match certificate's altnames: Host: www.calcloud.ca.gov. is not in the cert's altnames: DNS:portal.calcloud.ca.gov
 https://www.calcompetes.ca.gov/,https://www.calcompetes.ca.gov/Login.aspx?ReturnUrl=%2f,Login,,,,https://code.jquery.com/jquery-1.10.2.min.js,,,
@@ -733,7 +733,7 @@ https://www.californiavolunteers.ca.gov/,,California Volunteers | California,CAW
 https://www.caljobs.ca.gov/,,,,,,,,,
 https://www.caloes.ca.gov/,,California Governor's Office of Emergency Services | California's Emergency Services Leader,CAWeb v.1.7.1,https://alert.cdt.ca.gov/,,https://www.caloes.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.6.1,"G-69TD0KNT0F,G-MDLYGZX10N,GTM-5JTZCJC,UA-54732306-2",,
 https://www.calottery.com/,,Home | California State Lottery,,,,https://static.www.calottery.com/-/media/Base-Themes/CA-Lottery-Core-Libraries/scripts/jquery-331.js?rev=dd02ff4e9f0e4493ba2f9be6f0619088,GTM-NVGNCNH,,
-https://www.calpia.ca.gov/,,,,,,,,,Resource was not loaded. Status: 403
+https://www.calpia.ca.gov/,,CALPIA Website » Quality Products. Changed Lives. A Safer California.,,,,https://www.calpia.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-KEC04T63TW,GTM-M833TJP",,
 https://www.calstrs.com/,,CalSTRS,,,,,"G-8N7X1ZE5C9,GTM-NVHDX8X,UA-20538890-2",,
 https://www.calvet.ca.gov/,,,,,,,,ECONNRESET,read ECONNRESET
 https://www.cash4college.csac.ca.gov/,,Home Page - California Student Aid Commission,,,https://www.cash4college.csac.ca.gov/Scripts/cagov.core.js,https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js,"UA-20973992-20,UA-3419582-2",,
@@ -742,7 +742,7 @@ https://www.ccap.ca.gov/,,Cannabis Control Appeals Panel,,,https://www.ccap.ca.g
 https://www.ccld.dss.ca.gov/,,,,,,,,,
 https://www.ccoa.ca.gov/,,California Commission on Aging - State of California,,https://alert.cdt.ca.gov/,https://www.ccoa.ca.gov/js/cagov.core.js,https://code.jquery.com/jquery-3.6.0.min.js,"G-69TD0KNT0F,G-75V2BNQ3DR,G-M8T749HDDC,UA-21431721-20",,
 https://www.cdcr.ca.gov/,,California Department of Corrections and Rehabilitation - CDCR,,,,,GTM-WWJWHL4,,
-https://www.cde.ca.gov/,,California Department of Education,,https://alert.cdt.ca.gov/,,https://www.cde.ca.gov/bootstrap/js/jquery-1.10.2.min.js,G-FXBTGX69YQ,,
+https://www.cde.ca.gov/,,California Department of Education,,https://alert.cdt.ca.gov/,,https://www.cde.ca.gov/bootstrap/js/jquery-1.10.2.min.js,,,
 https://www.cdfa.ca.gov/,,California Department of Food and Agriculture,,https://alert.cdt.ca.gov/,https://www.cdfa.ca.gov/v6/js/cagov.core.js,https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js,"GTM-W4BKPB7,UA-3419582-2",,
 https://www.cdii.ca.gov/,,Homepage - CDII,All in One SEO (AIOSEO) 4.6.0,https://alert.cdt.ca.gov/,,https://www.cdii.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-G7F3RDGPHQ,GTM-MSW2ZV4,UA-1915322-1",,
 https://www.cdph.ca.gov/,,CDPH Home,,https://alert.cdt.ca.gov/,,https://www.cdph.ca.gov/Style%20Library/CDPH/js/jquery.min.js,"G-RESPONSIVE,GTM-KVN6ZCB",,
@@ -769,7 +769,7 @@ https://www.countyofsb.org/,,"Santa Barbara County, CA - Official Website | Offi
 https://www.courtreportersboard.ca.gov/,,Court Reporters Board of California,,,https://www.courtreportersboard.ca.gov/js/cagov.core.js,https://code.jquery.com/jquery-3.5.1.min.js,"G-512WQC0YJW,G-69TD0KNT0F,GTM-NBQCVZC,UA-3419582-2,UA-64276560-6",,
 https://www.courts.ca.gov/,,California Courts - Home,,,,https://cdn.jsdelivr.net/jquery/3.1.1/jquery.min.js,,,
 https://www.cppa.ca.gov/,,California Privacy Protection Agency (CPPA),,,https://www.cppa.ca.gov/js/cagov.core.min.js,https://www.cppa.ca.gov/js/libs/jquery.js,"G-69TD0KNT0F,G-WFY9PWDBY2,UA-31125811-47,UA-3419582-2",,
-https://www.cpuc.ca.gov/,,,,,,,,,Resource was not loaded. Status: 500
+https://www.cpuc.ca.gov/,,California Public Utilities Commission,,,,https://www.cpuc.ca.gov/assets/js/jquery.cookie.js,"G-LM6T7RGC27,UA-1915322-1",,
 https://www.csac.ca.gov/,,California Student Aid Commission - CSAC,,https://alert.cdt.ca.gov/,,,"GTM-KKZHS8M,UA-21974567-25",,
 https://www.csd.ca.gov/,,Home,Microsoft SharePoint,https://alert.cdt.ca.gov/,https://www.csd.ca.gov/_catalogs/masterpage/js/cagov.core.js,https://www.csd.ca.gov/_catalogs/masterpage/js/jquery.min.js,"G-69TD0KNT0F,G-HK7CWSQCBM,G-K8ONJL3UKX",,
 https://www.cslb.ca.gov/,,CSLB-Home -CSLB,,https://alert.cdt.ca.gov/,https://www.cslb.ca.gov/js/cagov.core.js,https://code.jquery.com/jquery-3.6.1.min.js,"G-1W465E5H9H,UA-3419582-2,UA-8901380-1",,
@@ -794,7 +794,7 @@ https://www.ebtproject.ca.gov/,,EBT Project,,,https://www.ebtproject.ca.gov/js/c
 https://www.eldoradocounty.ca.gov/,https://www.eldoradocounty.ca.gov/Home,Home - El Dorado County,OpenCities - http://www.opencities.com,,,https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js,G-4QFQNQ89RW,,
 https://www.energy.ca.gov/,,Home Page-California Energy Commission,Drupal 10 (https://www.drupal.org),,,,"G-B5BLHWHE7P,UA-20973992-7,UA-3419582-2",,
 https://www.eurekaca.gov/,,"Eureka, CA | Official Website",,,,https://www.eurekaca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js,"G-25V44GWDSE,G-J8PQRHX26Z,GTM-K73C5PS,GTM-WKGQMK5",,
-https://www.fairfield.ca.gov/,,"Fairfield, CA | Home",,,,https://www.fairfield.ca.gov/Project/Contents/Main/scripts/FancyBox/jquery.fancybox.js,"G-EPDQWJJ3BS,G-EY671MT1YW,G-INFORMATIO,G-KXTQFMR5RR",,
+https://www.fairfield.ca.gov/,,"Fairfield, CA | Home",,,,https://www.fairfield.ca.gov/Project/Contents/Main/scripts/FancyBox/jquery.fancybox.js,"G-1LIJQN3VKP,G-DW54U_HIZR,G-EPDQWJJ3BS,G-EY671MT1YW,G-INFORMATIO,G-KXTQFMR5RR",,
 https://www.familieschange.ca.gov/,,Home | Familieschange California,Drupal 7 (http://drupal.org),,,https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js,UA-42225500-1,,
 https://www.fiduciary.ca.gov/,,Department of Consumer Affairs Professional Fiduciaries Bureau,,,https://www.fiduciary.ca.gov/js/cagov.core.js,https://code.jquery.com/jquery-3.5.1.min.js,"GTM-M683DJB,GTM-NBQCVZC",,
 https://www.fire.ca.gov/,,California Department of Forestry and Fire Protection | CAL FIRE,,https://alert.cdt.ca.gov/,,https://www.fire.ca.gov/assets/js/jquery.cookie.js,"G-DJY7D8Z6M7,UA-12131957-10,UA-3419582-2",,
@@ -844,7 +844,7 @@ https://www.pestboard.ca.gov/,,Department of Consumer Affairs Structural Pest Co
 https://www.placer.ca.gov/,,"Placer County, CA | Official Website",,,,https://www.placer.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js,"G-5CJ5XHZRX6,GTM-K73C5PS,GTM-WKGQMK5,UA-1464228-1",,
 https://www.pmbc.ca.gov/,,Podiatric Medical Board of California,,,https://www.pmbc.ca.gov/js/cagov.core.js,https://code.jquery.com/jquery-3.5.1.min.js,"G-69TD0KNT0F,G-RDB9KYCDHS,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-19",,
 https://www.portsanluis.com/,,Port San Luis Harbor District - Official Website | Official Website,,,,https://www.portsanluis.com/Assets/Scripts/jQuery/jquery-2.2.4.min.js,"G-LVMV505JJZ,GTM-K73C5PS,GTM-WKGQMK5",,
-https://www.publicadvocates.cpuc.ca.gov/,,,,,,,,,Resource was not loaded. Status: 500
+https://www.publicadvocates.cpuc.ca.gov/,,California Public Advocates Office,,,,,"G-SXHD1QGZTZ,UA-1915322-1",,
 https://www.publicpay.ca.gov/,,GCC,,,,https://www.publicpay.ca.gov/scripts/jquery-3.5.1.min.js,GTM-KX7MF5M,,
 https://www.rcb.ca.gov/,,Respiratory Care Board of California,,,https://www.rcb.ca.gov/js/cagov.core.js,https://code.jquery.com/jquery-3.5.1.min.js,"G-05Q6QKZSH6,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-24",,
 https://www.rebuildingca.ca.gov/,,Rebuilding California,Gatsby 3.14.2,,,,"G-1DPHTF62LS,G-69TD0KNT0F,UA-21431721-40,UA-3419582-2",,
@@ -852,11 +852,11 @@ https://www.rgsjpa.org/,,Regional Government Services Authority,All in One SEO (
 https://www.rn.ca.gov/,,California Board of Registered Nursing,,,https://www.rn.ca.gov/js/cagov.core.js,https://code.jquery.com/jquery-3.5.1.min.js,"G-69TD0KNT0F,G-FBDG3R1ZL6,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-23",,
 https://www.sacramento.ca.gov/,,New City of Sacramento Website,,,,,,,
 https://www.sandiegocounty.gov/,,SanDiegoCounty.gov,,,,https://www.sandiegocounty.gov/etc.clientlibs/clientlibs/granite/jquery.js,,,
-https://www.sbac.ca.gov/,,Santa Barbara County Office of Arts & Culture,,,,,"G-88DC8715A2,G-A9EB87C1B7,G-CC62B0E68D,G-COLLECTION,G-FC41044076",,
+https://www.sbac.ca.gov/,,Santa Barbara County Office of Arts & Culture,,,,,"G-49479F72BE,G-A9EB87C1B7,G-CBB595ED36,G-CBDE5D1BCB,G-COLLECTION",,
 https://www.sco.ca.gov/,,Home,,,,,GTM-5D5F2SV,,
 https://www.senate.ca.gov/,,Homepage | California State Senate,,,,,G-CRN4TZH1YT,,
 https://www.sgc.ca.gov/,,"Strategic Growth Council, California",,https://alert.cdt.ca.gov/,https://www.sgc.ca.gov/js/cagov.core.js,https://code.jquery.com/jquery-3.6.0.min.js,"G-69TD0KNT0F,G-GN1F20H06C",,
-https://www.simivalley.org/,,"City of Simi Valley, CA | Home",,,,,"G-BZCQMHKI_B,G-COMMISSION,G-EPDQWJJ3BS,G-RL9ZXFSXCE,GTM-TS3H7JB",,
+https://www.simivalley.org/,,"City of Simi Valley, CA | Home",,,,,"G-COMMISSION,G-EPDQWJJ3BS,G-RL9ZXFSXCE,GTM-TS3H7JB",,
 https://www.slc.ca.gov/,,CA State Lands Commission | California State lands Commission,CAWeb v.1.4.28,,,https://www.slc.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.6.0,"G-35QSDZJPYH,G-69TD0KNT0F,G-75V2BNQ3DR",,
 https://www.slocity.org/,,"City of San Luis Obispo, CA | City of San Luis Obispo | Home",,,,,"G-EPDQWJJ3BS,G-NHL5LG02HZ,UA-11586192-1",,
 https://www.sos.ca.gov/,,Home :: California Secretary of State,,,,https://www.sos.ca.gov/concrete/js/jquery.js?ccm_nocache=1a72ca0f3692b16db9673a9a89faff0649086c52,G-MSJG9B0DQE,,
@@ -866,7 +866,7 @@ https://www.sunnyvale.ca.gov/,,"Sunnyvale, CA | Home",,,,,"G-EPDQWJJ3BS,G-WVHV5Y
 https://www.tam.ca.gov/,,Transportation Authority of Marin,Powered by WPBakery Page Builder - drag and drop page builder for WordPress.,,,https://www.tam.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,G-CXFH9862CN,,
 https://www.taxcredit.film.ca.gov/,https://www.taxcredit.film.ca.gov/Login.aspx?ReturnUrl=%2f,Login - Film & TV Tax Credit Program 3.0,,,https://www.taxcredit.film.ca.gov/Public/Template/js/cagov.core.min.js,https://code.jquery.com/jquery-1.10.1.min.js,"UA-20973992-20,UA-3419582-2",,
 https://www.taxes.ca.gov/,,California Tax Service Center,,,https://www.taxes.ca.gov/js/cagov.core.js,https://code.jquery.com/jquery-3.4.1.min.js,"G-69TD0KNT0F,G-N8DVBV2ZB1,UA-24087628-3,UA-3419582-2",,
-https://www.tcwd.ca.gov/,,Trabuco Canyon Water District | Home,,,,,"G-APGMPKDOWP,G-EPDQWJJ3BS",,
+https://www.tcwd.ca.gov/,,Trabuco Canyon Water District | Home,,,,,"G-EPDQWJJ3BS,G-_ELNYOMCMK",,
 https://www.tomalescsd.ca.gov/,,Tomales Village CSD,,,,,"G-49312CDDFE,G-789721894B,G-A9EB87C1B7,G-CC62B0E68D,G-COLLECTION",,
 https://www.treasurer.ca.gov/,,State Treasurer's Office,,https://alert.cdt.ca.gov/,,https://code.jquery.com/jquery-2.2.4.min.js,"UA-1867705-1,UA-3419582-2",,
 https://www.trinidad.ca.gov/,,Home Page | Trinidad CA,Drupal 10 (https://www.drupal.org),,,,G-1F2ZXJ4JW4,,
