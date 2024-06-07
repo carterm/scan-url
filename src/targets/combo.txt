@@ -91,13 +91,11 @@ https://cdiacforms.treasurer.ca.gov/
 https://cdlaconline.treasurer.ca.gov/
 https://cdnverify.bof.fire.ca.gov/
 https://cdnverify.burnpermit.fire.ca.gov/
-https://cdss.ca.gov/
 https://cdt.ca.gov/
 https://census.ca.gov/
 https://ceqanet.opr.ca.gov/
 https://cers.calepa.ca.gov/
 https://cfb.ca.gov/
-https://cgcc.ca.gov/
 https://chhsa.ca.gov/
 https://childsupport.ca.gov/
 https://childsworld.ca.gov/
@@ -487,7 +485,6 @@ https://testing.covid19.ca.gov/
 https://testsp.csd.ca.gov/
 https://theacademy.ca.gov/
 https://thrive.cnra.ca.gov/
-https://tngf.ca.gov/
 https://todb.ca.gov/
 https://tourism.ca.gov/
 https://townofmammothlakes.ca.gov/
@@ -604,6 +601,7 @@ https://www.cdfa.ca.gov/
 https://www.cdii.ca.gov/
 https://www.cdph.ca.gov/
 https://www.cdpr.ca.gov/
+https://www.cdss.ca.gov/
 https://www.cdtfa.ca.gov/
 https://www.cfcc.ca.gov/
 https://www.cfsd.dss.ca.gov/
