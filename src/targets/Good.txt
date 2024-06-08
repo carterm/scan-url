@@ -15,13 +15,11 @@ https://arts.ca.gov/
 https://askedd.edd.ca.gov/
 https://author.csd.ca.gov/
 https://avaqmd.ca.gov/
-https://azure.fiscal.ca.gov/
 https://barc.ca.gov/
 https://bars.dre.ca.gov/
 https://bawa.ca.gov/
 https://bcc.ca.gov/
 https://beacon.ca.gov/
-https://beta.calcareers.ca.gov/
 https://bhc.ca.gov/
 https://billing.technology.ca.gov/
 https://blue.water.ca.gov/
@@ -52,7 +50,6 @@ https://calshape.energy.ca.gov/
 https://calsilc.ca.gov/
 https://calspillwatch.wildlife.ca.gov/
 https://calsta.ca.gov/
-https://caltreesplans.resources.ca.gov/
 https://calwater.ca.gov/
 https://cams.technology.ca.gov/
 https://capiaa.ca.gov/
@@ -68,8 +65,6 @@ https://ccusl.ca.gov/
 https://cdec.water.ca.gov/
 https://cdiacforms.treasurer.ca.gov/
 https://cdlaconline.treasurer.ca.gov/
-https://cdnverify.bof.fire.ca.gov/
-https://cdnverify.burnpermit.fire.ca.gov/
 https://cdt.ca.gov/
 https://census.ca.gov/
 https://ceqanet.opr.ca.gov/
@@ -100,7 +95,6 @@ https://cwdb.ca.gov/
 https://cwds.ca.gov/
 https://cww.water.ca.gov/
 https://data.ca.gov/
-https://data.debtwatch.treasurer.ca.gov/
 https://dbw.parks.ca.gov/
 https://dcss.ca.gov/
 https://delta.ca.gov/
@@ -112,7 +106,6 @@ https://dot.ca.gov/
 https://driveclean.ca.gov/
 https://eaap.ca.gov/
 https://eams.dwc.ca.gov/
-https://eamsprep.dwc.ca.gov/
 https://ears.dre.ca.gov/
 https://earthquake.ca.gov/
 https://ebudget.ca.gov/
@@ -131,11 +124,9 @@ https://expositionpark.ca.gov/
 https://ferix.water.ca.gov/
 https://fgc.ca.gov/
 https://filerequest.conservation.ca.gov/
-https://files.medi-cal.ca.gov/
 https://files.resources.ca.gov/
 https://film.ca.gov/
 https://findanewway.ca.gov/
-https://findrecreation.parks.ca.gov/
 https://fiscal.ca.gov/
 https://forms.edd.ca.gov/
 https://fosteryouthhelp.ca.gov/
@@ -145,11 +136,8 @@ https://gamagroundwater.waterboards.ca.gov/
 https://gcc.sco.ca.gov/
 https://geosteam.conservation.ca.gov/
 https://geotracker.waterboards.ca.gov/
-https://gis.cdph.ca.gov/
-https://gis.cdtfa.ca.gov/
 https://granada.ca.gov/
 https://handbook.data.ca.gov/
-https://hbex.coveredca.com/
 https://hcai.ca.gov/
 https://healthcareportal.cdph.ca.gov/
 https://healthcarevolunteers.ca.gov/
@@ -159,15 +147,12 @@ https://hellosavings.ca.gov/
 https://heritageranchcsd.ca.gov/
 https://highlandsrec.ca.gov/
 https://hollister.ca.gov/
-https://hrnet.calhr.ca.gov/
 https://hwts.dtsc.ca.gov/
 https://iep.ca.gov/
 https://ig.dot.ca.gov/
-https://inmatelocator.cdcr.ca.gov/
 https://innovation.ca.gov/
 https://intranet.calepa.ca.gov/
 https://intranet.ots.ca.gov/
-https://jobs.spb.ca.gov/
 https://kids.parks.ca.gov/
 https://labormarketinfo.edd.ca.gov/
 https://laif.sco.ca.gov/
@@ -184,7 +169,6 @@ https://listserv.state.ca.gov/
 https://loomis.ca.gov/
 https://lp.post.ca.gov/
 https://ltg.ca.gov/
-https://lunar.fppc.ca.gov/
 https://maps.cdtfa.ca.gov/
 https://maps.conservation.ca.gov/
 https://marinespecies.wildlife.ca.gov/
@@ -203,11 +187,9 @@ https://mobile.cdpr.ca.gov/
 https://mrca.ca.gov/
 https://mtc.ca.gov/
 https://my.calpers.ca.gov/
-https://mycalpers.ca.gov/
 https://mycusd.capousd.org/
 https://myedd.edd.ca.gov/
 https://myturn.ca.gov/
-https://myturnvolunteer.ca.gov/
 https://myvaccinerecord.cdph.ca.gov/
 https://nahc.ca.gov/
 https://natureworks.resources.ca.gov/
@@ -315,9 +297,6 @@ https://waterchallenge.data.ca.gov/
 https://wcb.ca.gov/
 https://wcc.insurance.ca.gov/
 https://wcchd.ca.gov/
-https://web.archive.org/
-https://web.cslb.ca.gov/
-https://webmaps.arb.ca.gov/
 https://webservices.caloes.ca.gov/
 https://webstandards.ca.gov/
 https://webutil.csac.ca.gov/
@@ -475,7 +454,6 @@ https://www.fiduciary.ca.gov/
 https://www.fire.ca.gov/
 https://www.firedepartment.org/
 https://www.firewood.ca.gov/
-https://www.first5.ca.gov/
 https://www.fountainvalley.gov/
 https://www.fppc.ca.gov/
 https://www.ftb.ca.gov/
@@ -486,13 +464,10 @@ https://www.governors.library.ca.gov/
 https://www.govops.ca.gov/
 https://www.grants.ca.gov/
 https://www.green.ca.gov/
-https://www.hbex.ca.gov/
 https://www.hcd.ca.gov/
 https://www.hcrc.ca.gov/
-https://www.healthcorps.ca.gov/
 https://www.heber.ca.gov/
 https://www.holtville.ca.gov/
-https://www.housing.ca.gov/
 https://www.hsr.ca.gov/
 https://www.ibank.ca.gov/
 https://www.immigrantguide.ca.gov/
@@ -508,7 +483,6 @@ https://www.library.ca.gov/
 https://www.losaltoshills.ca.gov/
 https://www.madera.gov/
 https://www.mbc.ca.gov/
-https://www.mce.ca.gov/
 https://www.mdaqmd.ca.gov/
 https://www.meganslaw.ca.gov/
 https://www.mentalhealth.ca.gov/
@@ -523,7 +497,6 @@ https://www.nmvb.ca.gov/
 https://www.oag.ca.gov/
 https://www.ocrbot.technology.ca.gov/
 https://www.oehha.ca.gov/
-https://www.ohv.parks.ca.gov/
 https://www.oig.ca.gov/
 https://www.ojai.ca.gov/
 https://www.oles.ca.gov/
@@ -553,7 +526,6 @@ https://www.prcity.com/
 https://www.psychology.ca.gov/
 https://www.ptbc.ca.gov/
 https://www.publicadvocates.cpuc.ca.gov/
-https://www.publicpay.ca.gov/
 https://www.rcb.ca.gov/
 https://www.rebuildingca.ca.gov/
 https://www.recycledelnorte.ca.gov/
@@ -572,7 +544,6 @@ https://www.sbac.ca.gov/
 https://www.sco.ca.gov/
 https://www.sdcourt.ca.gov/
 https://www.senate.ca.gov/
-https://www.seniorleg.ca.gov/
 https://www.sgc.ca.gov/
 https://www.sierracounty.ca.gov/
 https://www.simivalley.org/
