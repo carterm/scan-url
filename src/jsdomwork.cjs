@@ -34,8 +34,12 @@ const processDom = (dom, target) => {
       ? doc.title.trim()
       : /** @type {HTMLMetaElement} */ (
           doc.head.querySelector("meta[name=title i]") ||
-            doc.head.querySelector('meta[property="og:title" i]') ||
-            doc.head.querySelector('meta[property="twitter:title" i]') ||
+            doc.head.querySelector(
+              'meta[name="og:title" i], meta[property="og:title" i]'
+            ) ||
+            doc.head.querySelector(
+              'meta[name="twitter:title" i], meta[property="twitter:title" i]'
+            ) ||
             doc.head.querySelector('meta[name="author" i]') ||
             doc.head.querySelector('meta[name="description" i]')
         )?.content) || "";
