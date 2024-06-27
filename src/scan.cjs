@@ -4,7 +4,6 @@ const fs = require("node:fs");
 const { timeoutPromise } = require("./support.cjs");
 const { CreateJsdomPromise } = require("./jsdomwork.cjs");
 const { loadAndSortUrls } = require("./loaders.cjs");
-const { getUrlHashes } = require("./urlHash.cjs");
 
 const masterTimeoutMs = parseInt(
   process.env.SCAN_MASTER_TIMEOUT || (500000).toString(),
@@ -15,7 +14,6 @@ const inputFile = "targets/Good.txt";
 //const inputFile = "targets/Test.txt";
 const resultsFolder = "_results";
 const resultsFile = "results.json";
-const hashesFile = "hashes.json";
 
 const urls = loadAndSortUrls(inputFile);
 
@@ -63,6 +61,20 @@ const processUrls = async () => {
   fs.writeFileSync(`${resultsFolder}/${resultsFile}`, jsonResults);
 };
 
+(async () => {
+  fs.mkdirSync(resultsFolder, { recursive: true });
+
+  await processUrls();
+
+  console.timeEnd("Done");
+  process.exit();
+})();
+
+/*
+
+const { getUrlHashes } = require("./urlHash.cjs");
+const hashesFile = "hashes.json";
+
 const cdnversions = require("./state-template-cdn.json");
 const CdnFilePaths = [
   "/css/cagov.core.css",
@@ -70,6 +82,7 @@ const CdnFilePaths = [
   "/js/cagov.core.js",
   "/js/cagov.core.min.js"
 ];
+
 
 (async () => {
   const hashUrls = cdnversions.flatMap(version =>
@@ -111,3 +124,4 @@ const CdnFilePaths = [
   console.timeEnd("Done");
   process.exit();
 })();
+*/
