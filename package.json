@@ -17,6 +17,7 @@
     "start": "node src/scan.cjs",
     "dev": "SCAN_MASTER_TIMEOUT=5000 node src/scan.cjs",
     "report": "node src/report.cjs",
+    "csv": "node src/csv.cjs",
     "GIT cleanup": "git clean -fd"
   },
   "private": true,
@@ -27,6 +28,7 @@
     "prettier": "^3.0.3"
   },
   "dependencies": {
-    "jsdom": "^24.0.0"
+    "jsdom": "^24.0.0",
+    "json-2-csv": "^5.5.1"
   }
 }
