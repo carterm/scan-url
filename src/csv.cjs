@@ -2,6 +2,7 @@
 
 const fs = require("node:fs");
 const converter = require("json-2-csv");
+const publish_location = "publish/scan-results.csv";
 
 console.time("Done");
 
@@ -37,7 +38,7 @@ const data = require("../_results/results.json");
 
   const csv = converter.json2csv(resultData);
 
-  fs.writeFileSync("publish/data.csv", csv);
+  fs.writeFileSync(publish_location, csv);
   console.log(csv);
 
   console.timeEnd("Done");
