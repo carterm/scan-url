@@ -1,9 +1,7 @@
-http://www.bscc.ca.gov/
 http://www.clrc.ca.gov/
 http://www.dmca.ca.gov/
 http://www.leginfo.ca.gov/
 http://www.mrcapublicsafety.ca.gov/
-http://www.pinyonpinescwd.ca.gov/
 https://abag.ca.gov/
 https://abcab.ca.gov/
 https://abortion.ca.gov/
@@ -338,6 +336,7 @@ https://www.bpelsg.ca.gov/
 https://www.bppe.ca.gov/
 https://www.brea.ca.gov/
 https://www.broadbandmap.ca.gov/
+https://www.bscc.ca.gov/
 https://www.bsis.ca.gov/
 https://www.build.ca.gov/
 https://www.butte.courts.ca.gov/
@@ -519,6 +518,7 @@ https://www.pent.ca.gov/
 https://www.pestboard.ca.gov/
 https://www.pharmacy.ca.gov/
 https://www.piedmont.ca.gov/
+https://www.pinyonpinescwd.ca.gov/
 https://www.placer.ca.gov/
 https://www.pmbc.ca.gov/
 https://www.portsanluis.com/
