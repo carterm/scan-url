@@ -14,7 +14,6 @@ https://aquaculturematters.ca.gov/
 https://arts.ca.gov/
 https://askedd.edd.ca.gov/
 https://author.csd.ca.gov/
-https://avaqmd.ca.gov/
 https://barc.ca.gov/
 https://bars.dre.ca.gov/
 https://bawa.ca.gov/
@@ -320,6 +319,7 @@ https://www.alrb.ca.gov/
 https://www.assembly.ca.gov/
 https://www.auburn.ca.gov/
 https://www.auditor.ca.gov/
+https://www.avaqmd.ca.gov/
 https://www.bar.ca.gov/
 https://www.barbercosmo.ca.gov/
 https://www.bars.technology.ca.gov/
