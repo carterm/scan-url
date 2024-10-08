@@ -62,7 +62,6 @@ https://ccc.ca.gov/
 https://cchcs.ca.gov/
 https://ccusl.ca.gov/
 https://cdec.water.ca.gov/
-https://cdiacforms.treasurer.ca.gov/
 https://cdlaconline.treasurer.ca.gov/
 https://cdt.ca.gov/
 https://census.ca.gov/
@@ -72,7 +71,6 @@ https://childsupport.ca.gov/
 https://cityofcorcoran.ca.gov/
 https://cityoflcf.org/
 https://cjp.ca.gov/
-https://claimrequest.edd.ca.gov/
 https://cleancalifornia.dot.ca.gov/
 https://clsd.ca.gov/
 https://code.ca.gov/
