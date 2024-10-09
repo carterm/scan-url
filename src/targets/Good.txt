@@ -78,7 +78,6 @@ https://corc.hcai.ca.gov/
 https://corc.oshpd.ca.gov/
 https://cpads.sco.ca.gov/
 https://cpost.ca.gov/
-https://crawlers.newgen.co/
 https://crb.ca.gov/
 https://creec.conservation.ca.gov/
 https://crob.ca.gov/
