@@ -1,4 +1,3 @@
-http://www.clrc.ca.gov/
 http://www.dmca.ca.gov/
 http://www.leginfo.ca.gov/
 http://www.mrcapublicsafety.ca.gov/
@@ -156,6 +155,7 @@ https://laif.sco.ca.gov/
 https://laifonline.treasurer.ca.gov/
 https://landlordtenant.dre.ca.gov/
 https://legacy.template.webstandards.ca.gov/
+https://leginfo.legislature.ca.gov
 https://legislativecounsel.ca.gov/
 https://letsgethealthy.ca.gov/
 https://lgma.ca.gov/
@@ -392,6 +392,7 @@ https://www.cityofriodell.ca.gov/
 https://www.cityofventura.ca.gov/
 https://www.climateassessment.ca.gov/
 https://www.climateresilience.ca.gov/
+https://www.clrc.ca.gov/
 https://www.cmips.osi.ca.gov/
 https://www.cnips.ca.gov/
 https://www.coastal.ca.gov/
