@@ -20,6 +20,7 @@ https://bcc.ca.gov/
 https://bcdc.ca.gov/
 https://beacon.ca.gov/
 https://bhc.ca.gov/
+https://bhsoac.ca.gov/
 https://billing.technology.ca.gov/
 https://blue.water.ca.gov/
 https://bluelake.ca.gov/
@@ -69,13 +70,13 @@ https://ceqanet.opr.ca.gov/
 https://cers.calepa.ca.gov/
 https://childsupport.ca.gov/
 https://cityofcorcoran.ca.gov/
-https://cityoflcf.org/
 https://cjp.ca.gov/
 https://cleancalifornia.dot.ca.gov/
 https://clsd.ca.gov/
 https://code.ca.gov/
 https://corc.hcai.ca.gov/
 https://corc.oshpd.ca.gov/
+https://courts.ca.gov/
 https://cpads.sco.ca.gov/
 https://cpost.ca.gov/
 https://crb.ca.gov/
@@ -154,6 +155,7 @@ https://labormarketinfo.edd.ca.gov/
 https://laif.sco.ca.gov/
 https://laifonline.treasurer.ca.gov/
 https://landlordtenant.dre.ca.gov/
+https://lcf.ca.gov/
 https://legacy.template.webstandards.ca.gov/
 https://leginfo.legislature.ca.gov
 https://legislativecounsel.ca.gov/
@@ -175,9 +177,7 @@ https://medassist.cdph.ca.gov/
 https://medassistportal.cdph.ca.gov/
 https://metrofire.ca.gov/
 https://mfde.wildlife.ca.gov/
-https://mhsoac.ca.gov/
 https://midasweb.energy.ca.gov/
-https://mileagelogintranet.apps.dgs.ca.gov/
 https://militarycouncil.ca.gov/
 https://mlfd.ca.gov/
 https://mobile.cdpr.ca.gov/
@@ -199,7 +199,6 @@ https://nvta.ca.gov/
 https://oal.ca.gov/
 https://ociac.ca.gov/
 https://ohp.parks.ca.gov/
-https://olsip.apps.dgs.ca.gov/
 https://onlineservices.cdtfa.ca.gov/
 https://osg.ca.gov/
 https://osi.ca.gov/
@@ -272,6 +271,7 @@ https://store.parks.ca.gov/
 https://syfphr.hcai.ca.gov/
 https://syfphr.oshpd.ca.gov/
 https://tahoe.ca.gov/
+https://taxes.ca.gov/
 https://tcpw.ca.gov/
 https://techblog.cdt.ca.gov/
 https://tehamajuryservices.ca.gov/
@@ -290,7 +290,6 @@ https://uma.technology.ca.gov/
 https://unionsanitary.ca.gov/
 https://utilitypocketguide.dot.ca.gov/
 https://victims.ca.gov/
-https://voc.apps.dgs.ca.gov/
 https://waftestvip.cdt.ca.gov/
 https://water.ca.gov/
 https://waterchallenge.data.ca.gov/
@@ -403,7 +402,6 @@ https://www.consumerenergycenter.org/
 https://www.contracosta.ca.gov/
 https://www.countyofsb.org/
 https://www.courtreportersboard.ca.gov/
-https://www.courts.ca.gov/
 https://www.cppa.ca.gov/
 https://www.cpuc.ca.gov/
 https://www.csac.ca.gov/
@@ -427,7 +425,6 @@ https://www.deltacouncil.ca.gov/
 https://www.dental.dhcs.ca.gov/
 https://www.dfg.ca.gov/
 https://www.dgs.ca.gov/
-https://www.dgsapps.dgs.ca.gov/
 https://www.dhbc.ca.gov/
 https://www.dhcs.ca.gov/
 https://www.dir.ca.gov/
@@ -507,7 +504,6 @@ https://www.opc.ca.gov/
 https://www.optometry.ca.gov/
 https://www.osar.bppe.ca.gov/
 https://www.osfm.fire.ca.gov/
-https://www.oshpd.ca.gov/
 https://www.ospd.ca.gov/
 https://www.ots.ca.gov/
 https://www.p65warnings.ca.gov/
@@ -522,10 +518,10 @@ https://www.placer.ca.gov/
 https://www.pmbc.ca.gov/
 https://www.portsanluis.com/
 https://www.prcity.com/
+https://www.projecttracking.technology.ca.gov/
 https://www.psychology.ca.gov/
 https://www.ptbc.ca.gov/
 https://www.publicadvocates.cpuc.ca.gov/
-https://www.projecttracking.technology.ca.gov/
 https://www.rcb.ca.gov/
 https://www.rebuildingca.ca.gov/
 https://www.recycledelnorte.ca.gov/
@@ -561,7 +557,6 @@ https://www.sunnyvale.ca.gov/
 https://www.tacc.ccoa.ca.gov/
 https://www.tam.ca.gov/
 https://www.taxcredit.film.ca.gov/
-https://www.taxes.ca.gov/
 https://www.tcwd.ca.gov/
 https://www.tehama.courts.ca.gov/
 https://www.tehama.gov/
