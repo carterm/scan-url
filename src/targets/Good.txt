@@ -41,7 +41,6 @@ https://calepa.sites.ca.gov/
 https://caleprocure.ca.gov/
 https://calfreshhealthyliving.cdph.ca.gov/
 https://calguard.ca.gov/
-https://californiasciencecenter.org/
 https://calphoneinfo.cpuc.ca.gov/
 https://calpip.cdpr.ca.gov/
 https://calrecycle.ca.gov/
@@ -156,7 +155,7 @@ https://laifonline.treasurer.ca.gov/
 https://landlordtenant.dre.ca.gov/
 https://lcf.ca.gov/
 https://legacy.template.webstandards.ca.gov/
-https://leginfo.legislature.ca.gov
+https://leginfo.legislature.ca.gov/
 https://legislativecounsel.ca.gov/
 https://letsgethealthy.ca.gov/
 https://lgma.ca.gov/
@@ -183,7 +182,6 @@ https://mobile.cdpr.ca.gov/
 https://mrca.ca.gov/
 https://mtc.ca.gov/
 https://my.calpers.ca.gov/
-https://mycusd.capousd.org/
 https://myedd.edd.ca.gov/
 https://myturn.ca.gov/
 https://myvaccinerecord.cdph.ca.gov/
@@ -193,7 +191,6 @@ https://ncric.ca.gov/
 https://ncsd.ca.gov/
 https://news.caloes.ca.gov/
 https://nhts.dot.ca.gov/
-https://nifty-turing-0ad445.netlify.app/
 https://nvta.ca.gov/
 https://oal.ca.gov/
 https://ociac.ca.gov/
@@ -211,9 +208,7 @@ https://paumavalleycsd.ca.gov/
 https://penrynfire.ca.gov/
 https://perb.ca.gov/
 https://piercesdisease.cdfa.ca.gov/
-https://pioneercommunityenergy.org/
 https://pointarena.ca.gov/
-https://polb.com/
 https://portal.dhcs.ca.gov/
 https://portal.hsr.ca.gov/
 https://post.ca.gov/
@@ -230,7 +225,6 @@ https://reedley.ca.gov/
 https://report.hcai.ca.gov/
 https://report.oshpd.ca.gov/
 https://resources.ca.gov/
-https://rgsjpa.org/
 https://rmc.ca.gov/
 https://roadmaptoresearch.dot.ca.gov/
 https://roads.dot.ca.gov/
@@ -258,7 +252,6 @@ https://smmc.ca.gov/
 https://soir.senate.ca.gov/
 https://solanosr2s.ca.gov/
 https://sonomacounty.ca.gov/
-https://southkern.specialdistrict.org/
 https://spmud.ca.gov/
 https://spot.cdph.ca.gov/
 https://sprls.dre.ca.gov/
@@ -303,18 +296,15 @@ https://wedrawthelines.ca.gov/
 https://westnile.ca.gov/
 https://whistleblower.insurance.ca.gov/
 https://wildfirerecovery.caloes.ca.gov/
-https://wildfiretaskforce.org/
 https://wildlife.ca.gov/
 https://women.ca.gov/
 https://wpso.dmhc.ca.gov/
 https://wpwma.ca.gov/
 https://ww2.arb.ca.gov/
 https://wwd.ca.gov/
-https://www.4everproxy.com/
 https://www.abc.ca.gov/
 https://www.acupuncture.ca.gov/
 https://www.aging.ca.gov/
-https://www.alamedacountysheriff.org/
 https://www.alpha.ca.gov/
 https://www.alrb.ca.gov/
 https://www.assembly.ca.gov/
@@ -338,7 +328,6 @@ https://www.bscc.ca.gov/
 https://www.bsis.ca.gov/
 https://www.build.ca.gov/
 https://www.butte.courts.ca.gov/
-https://www.buycaliforniabonds.com/
 https://www.bvnpt.ca.gov/
 https://www.ca.gov/
 https://www.cab.ca.gov/
@@ -356,10 +345,8 @@ https://www.californiavolunteers.ca.gov/
 https://www.caljobs.ca.gov/
 https://www.caloes.ca.gov/
 https://www.calosba.ca.gov/
-https://www.calottery.com/
 https://www.calpers.ca.gov/
 https://www.calpia.ca.gov/
-https://www.calstrs.com/
 https://www.calvet.ca.gov/
 https://www.camade.ca.gov/
 https://www.cannabis.ca.gov/
@@ -386,7 +373,6 @@ https://www.chp.ca.gov/
 https://www.chrb.ca.gov/
 https://www.cirm.ca.gov/
 https://www.cityofblythe.ca.gov/
-https://www.cityofimperial.org/
 https://www.cityofriodell.ca.gov/
 https://www.cityofventura.ca.gov/
 https://www.climateassessment.ca.gov/
@@ -398,9 +384,7 @@ https://www.coastal.ca.gov/
 https://www.colma.ca.gov/
 https://www.communityhealthstudies.cdph.ca.gov/
 https://www.conservation.ca.gov/
-https://www.consumerenergycenter.org/
 https://www.contracosta.ca.gov/
-https://www.countyofsb.org/
 https://www.courtreportersboard.ca.gov/
 https://www.cppa.ca.gov/
 https://www.cpuc.ca.gov/
@@ -443,19 +427,14 @@ https://www.ebtproject.ca.gov/
 https://www.economicdevelopment.business.ca.gov/
 https://www.eldoradocounty.ca.gov/
 https://www.energy.ca.gov/
-https://www.eurekaca.gov/
 https://www.fairfield.ca.gov/
 https://www.familieschange.ca.gov/
 https://www.fiduciary.ca.gov/
 https://www.fire.ca.gov/
-https://www.firedepartment.org/
 https://www.firewood.ca.gov/
 https://www.first5.ca.gov/
-https://www.fountainvalley.gov/
 https://www.fppc.ca.gov/
 https://www.ftb.ca.gov/
-https://www.gosbcta.com/
-https://www.gosolarcalifornia.org/
 https://www.gov.ca.gov/
 https://www.governors.library.ca.gov/
 https://www.govops.ca.gov/
@@ -479,7 +458,6 @@ https://www.lci.ca.gov/
 https://www.lemongrove.ca.gov/
 https://www.library.ca.gov/
 https://www.losaltoshills.ca.gov/
-https://www.madera.gov/
 https://www.mbc.ca.gov/
 https://www.mdaqmd.ca.gov/
 https://www.meganslaw.ca.gov/
@@ -516,8 +494,6 @@ https://www.piedmont.ca.gov/
 https://www.pinyonpinescwd.ca.gov/
 https://www.placer.ca.gov/
 https://www.pmbc.ca.gov/
-https://www.portsanluis.com/
-https://www.prcity.com/
 https://www.projecttracking.technology.ca.gov/
 https://www.psychology.ca.gov/
 https://www.ptbc.ca.gov/
@@ -527,13 +503,10 @@ https://www.rebuildingca.ca.gov/
 https://www.recycledelnorte.ca.gov/
 https://www.registertovote.ca.gov/
 https://www.rn.ca.gov/
-https://www.rocklin.ca.us/
 https://www.saccourt.ca.gov/
 https://www.sacramento.ca.gov/
 https://www.sanbruno.ca.gov/
-https://www.sandiegocounty.gov/
 https://www.sanramon.ca.gov/
-https://www.santaclaracounty.gov/
 https://www.savewater.ca.gov/
 https://www.sbac.ca.gov/
 https://www.sco.ca.gov/
@@ -541,11 +514,8 @@ https://www.sdcourt.ca.gov/
 https://www.senate.ca.gov/
 https://www.sgc.ca.gov/
 https://www.sierracounty.ca.gov/
-https://www.simivalley.org/
 https://www.slc.ca.gov/
-https://www.slocity.org/
 https://www.slocounty.ca.gov/
-https://www.sonomawater.org/
 https://www.sos.ca.gov/
 https://www.spb.ca.gov/
 https://www.speechandhearing.ca.gov/
@@ -558,7 +528,6 @@ https://www.tam.ca.gov/
 https://www.taxcredit.film.ca.gov/
 https://www.tcwd.ca.gov/
 https://www.tehama.courts.ca.gov/
-https://www.tehama.gov/
 https://www.template.webstandards.ca.gov/
 https://www.tomalescsd.ca.gov/
 https://www.townofmammothlakes.ca.gov/
@@ -568,7 +537,6 @@ https://www.ttsa.ca.gov/
 https://www.tulare.ca.gov/
 https://www.tuolumnecounty.ca.gov/
 https://www.ucpi.sco.ca.gov/
-https://www.visitcalifornia.com/
 https://www.vmb.ca.gov/
 https://www.waterboards.ca.gov/
 https://www.waterresilience.ca.gov/
