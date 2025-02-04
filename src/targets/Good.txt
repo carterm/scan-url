@@ -11,7 +11,6 @@ https://apps.wildlife.ca.gov/
 https://aquaculturematters.ca.gov/
 https://arts.ca.gov/
 https://askedd.edd.ca.gov/
-https://author.csd.ca.gov/
 https://barc.ca.gov/
 https://bars.dre.ca.gov/
 https://bawa.ca.gov/
@@ -23,7 +22,6 @@ https://bhsoac.ca.gov/
 https://billing.technology.ca.gov/
 https://blue.water.ca.gov/
 https://bluelake.ca.gov/
-https://bns.insurance.ca.gov/
 https://bof.fire.ca.gov/
 https://bondaccountability.ca.gov/
 https://bopc.ca.gov/
@@ -229,7 +227,6 @@ https://resources.ca.gov/
 https://rmc.ca.gov/
 https://roadmaptoresearch.dot.ca.gov/
 https://roads.dot.ca.gov/
-https://roc.fire.ca.gov/
 https://saferatwork.labor.ca.gov/
 https://saltoncsd.ca.gov/
 https://saltonsea.ca.gov/
@@ -288,14 +285,12 @@ https://waftestvip.cdt.ca.gov/
 https://water.ca.gov/
 https://waterchallenge.data.ca.gov/
 https://wcb.ca.gov/
-https://wcc.insurance.ca.gov/
 https://wcchd.ca.gov/
 https://webservices.caloes.ca.gov/
 https://webstandards.ca.gov/
 https://webutil.csac.ca.gov/
 https://wedrawthelines.ca.gov/
 https://westnile.ca.gov/
-https://whistleblower.insurance.ca.gov/
 https://wildfirerecovery.caloes.ca.gov/
 https://wildlife.ca.gov/
 https://women.ca.gov/
