@@ -41,7 +41,6 @@ const data = require("../_results/results.json");
   const csv = converter.json2csv(resultData);
 
   fs.writeFileSync(publish_location, csv);
-  console.log(csv);
 
   console.timeEnd("Done");
   process.exit();
