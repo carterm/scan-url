@@ -3,7 +3,6 @@ http://www.leginfo.ca.gov/
 http://www.mrcapublicsafety.ca.gov/
 https://abag.ca.gov/
 https://abcab.ca.gov/
-https://abortion.ca.gov/
 https://access.ca.gov/
 https://access2.ca.gov/
 https://agencyreports.ca.gov/
@@ -16,7 +15,6 @@ https://barc.ca.gov/
 https://bars.dre.ca.gov/
 https://bawa.ca.gov/
 https://bcc.ca.gov/
-https://bcdc.ca.gov/
 https://beacon.ca.gov/
 https://bhc.ca.gov/
 https://bhsoac.ca.gov/
@@ -32,7 +30,6 @@ https://burnpermit.fire.ca.gov/
 https://business.ca.gov/
 https://bvwd.ca.gov/
 https://c2c.ca.gov/
-https://cacgn.ca.gov/
 https://calcareers.ca.gov/
 https://calcivilrights.ca.gov/
 https://calepa.ca.gov/
@@ -70,6 +67,7 @@ https://cityofcorcoran.ca.gov/
 https://cjp.ca.gov/
 https://cleancalifornia.dot.ca.gov/
 https://clsd.ca.gov/
+https://cnips.cde.ca.gov/
 https://code.ca.gov/
 https://corc.hcai.ca.gov/
 https://corc.oshpd.ca.gov/
@@ -196,6 +194,7 @@ https://oal.ca.gov/
 https://ociac.ca.gov/
 https://ohp.parks.ca.gov/
 https://onlineservices.cdtfa.ca.gov/
+https://osfm.fire.ca.gov/
 https://osg.ca.gov/
 https://osi.ca.gov/
 https://ota.ca.gov/
@@ -221,6 +220,7 @@ https://quickmap.dot.ca.gov/
 https://rbra.ca.gov/
 https://rcpa.ca.gov/
 https://rcwd.ca.gov/
+https://recycledelnorte.ca.gov/
 https://reedley.ca.gov/
 https://report.hcai.ca.gov/
 https://report.oshpd.ca.gov/
@@ -265,7 +265,6 @@ https://tacc.ccoa.ca.gov/
 https://tahoe.ca.gov/
 https://taxes.ca.gov/
 https://tcpw.ca.gov/
-https://techblog.cdt.ca.gov/
 https://tehamajuryservices.ca.gov/
 https://tempid.dtsc.ca.gov/
 https://theacademy.ca.gov/
@@ -312,6 +311,7 @@ https://www.bar.ca.gov/
 https://www.barbercosmo.ca.gov/
 https://www.bars.technology.ca.gov/
 https://www.bbs.ca.gov/
+https://www.bcdc.ca.gov/
 https://www.bcsh.ca.gov/
 https://www.biomonitoring.ca.gov/
 https://www.boe.ca.gov/
@@ -376,7 +376,6 @@ https://www.climateassessment.ca.gov/
 https://www.climateresilience.ca.gov/
 https://www.clrc.ca.gov/
 https://www.cmips.osi.ca.gov/
-https://www.cnips.ca.gov/
 https://www.coastal.ca.gov/
 https://www.colma.ca.gov/
 https://www.communityhealthstudies.cdph.ca.gov/
@@ -421,7 +420,6 @@ https://www.dtsc.ca.gov/
 https://www.dublin.ca.gov/
 https://www.ebt.ca.gov/
 https://www.ebtproject.ca.gov/
-https://www.economicdevelopment.business.ca.gov/
 https://www.eldoradocounty.ca.gov/
 https://www.energy.ca.gov/
 https://www.fairfield.ca.gov/
@@ -477,7 +475,6 @@ https://www.opa.ca.gov/
 https://www.opc.ca.gov/
 https://www.optometry.ca.gov/
 https://www.osar.bppe.ca.gov/
-https://www.osfm.fire.ca.gov/
 https://www.ospd.ca.gov/
 https://www.ots.ca.gov/
 https://www.p65warnings.ca.gov/
@@ -496,7 +493,6 @@ https://www.ptbc.ca.gov/
 https://www.publicadvocates.cpuc.ca.gov/
 https://www.rcb.ca.gov/
 https://www.rebuildingca.ca.gov/
-https://www.recycledelnorte.ca.gov/
 https://www.registertovote.ca.gov/
 https://www.rn.ca.gov/
 https://www.saccourt.ca.gov/
