@@ -1,5 +1,5 @@
 domain,target,redirectURL,title,generator,statewideAlerts,stateTemplate,JQuery,GoogleAnalytics,errorcode,errormessage
-400,539,33,485,160,127,139,355,373,19,30
+400,539,33,486,160,128,140,355,375,18,29
 abag.ca.gov,https://abag.ca.gov/,,Home | Association of Bay Area Governments,Drupal 10 (https://www.drupal.org),,,,G-FE9WWP5YXX,,
 abc.ca.gov,https://www.abc.ca.gov/,,Alcoholic Beverage Control | Trust - Innovation - Professionalism,CAWeb v.1.1.4b,https://alert.cdt.ca.gov/,https://www.abc.ca.gov/wp-content/themes/CAWeb/js/cagov.core.js?ver=1.0,https://www.abc.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-DCG7L67NBP,UA-24087628-11,UA-3419582-2",,
 abcab.ca.gov,https://abcab.ca.gov/,,ABCAB | ABC Appeals Board,CAWeb v.1.13.1,https://alert.cdt.ca.gov/alert.js?ver=1.0.0,,https://abcab.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-XYBVW071M5,G-Y7T2KCM7P1,UA-20973992-10,UA-3419582-2,UA-3419582-47",,
@@ -74,7 +74,7 @@ caloes.ca.gov,https://webservices.caloes.ca.gov/,,Cal OES Web Services |,CAWeb v
 caloes.ca.gov,https://wildfirerecovery.caloes.ca.gov/,,California Statewide Wildfire Recovery Resources |,CAWeb v.1.7.1,https://alert.cdt.ca.gov/,,https://wildfirerecovery.caloes.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.6.1,"G-69TD0KNT0F,G-TS7HJEYWFP",,
 caloes.ca.gov,https://www.caloes.ca.gov/,,California Governor's Office of Emergency Services | California's Emergency Services Leader,CAWeb v.1.13.0,https://alert.cdt.ca.gov/,,https://www.caloes.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-MDLYGZX10N,GTM-5JTZCJC,UA-3419582-2,UA-54732306-2",,
 calosba.ca.gov,https://www.calosba.ca.gov/,,The California Office of Small Business Advocate (CalOSBA),CAWeb v.1.5.2a,,,https://www.calosba.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-2KMN5NQW5J,G-OVERLAPPIN,G-TRANSPAREN",,
-calpers.ca.gov,https://my.calpers.ca.gov/,https://auth.my.calpers.ca.gov/35239553-f454-4ff8-938c-856a90c45fae/b2c_1a_signin/oauth2/v2.0/authorize?client_id=cfb6615d-8786-4331-918b-b0a0e2e0338b&nonce=5o9YbmPX6n_pLe-lqSSyoUQ&redirect_uri=https%3A%2F%2Fmy.calpers.ca.gov%2Foauth%2Fclient%2Fredirect&response_type=code&scope=openid&state=5QEUOHOPfkCC-U-y2RztU9g&code_challenge_method=S256&code_challenge=GibhzMg9Gb0Zq5LymCcE-xJVQFTMGPPgsIAZvP5otok,Loading...,,,,,G-BACKGROUND,,
+calpers.ca.gov,https://my.calpers.ca.gov/,https://auth.my.calpers.ca.gov/35239553-f454-4ff8-938c-856a90c45fae/b2c_1a_signin/oauth2/v2.0/authorize?client_id=cfb6615d-8786-4331-918b-b0a0e2e0338b&nonce=5uZHinF1G2vx1YVsXAmR5Uw&redirect_uri=https%3A%2F%2Fmy.calpers.ca.gov%2Foauth%2Fclient%2Fredirect&response_type=code&scope=openid&state=5lSauQJyR5c2gdmyii0g_BA&code_challenge_method=S256&code_challenge=zSSEZyy6AN8RTSCGUJYasWo_n6duxnGTCnR5bY0u2SY,Loading...,,,,,G-BACKGROUND,,
 calpers.ca.gov,https://www.calpers.ca.gov/,,California Public Employees' Retirement System,Drupal 10 (https://www.drupal.org),,,,"G-EGNB9Q40R8,GTM-TVMFZD9",,
 calpia.ca.gov,https://www.calpia.ca.gov/,,CALPIA Website » Quality Products. Changed Lives. A Safer California.,,,,https://www.calpia.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-KEC04T63TW,GTM-M833TJP",,
 calrecycle.ca.gov,https://calrecycle.ca.gov/,,CalRecycle Home Page,CAWeb v.1.13.1,https://alert.cdt.ca.gov/alert.js?ver=1.0.0,,https://calrecycle.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-Y7T2KCM7P1,GTM-WWF6GW5,UA-12131600-15,UA-3419582-2,UA-3419582-47",,
@@ -100,7 +100,7 @@ ccusl.ca.gov,https://ccusl.ca.gov/,,Welcome to the California Commission on Unif
 cdcr.ca.gov,https://pass.cdcr.ca.gov/,/Home/ChooseApplication,Choose Application - CDCR Peace Officer Application & Scheduling System,,,,https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js,GTM-WWJWHL4,,
 cdcr.ca.gov,https://www.cdcr.ca.gov/,,California Department of Corrections and Rehabilitation - CDCR,,,,,GTM-WWJWHL4,,
 cde.ca.gov,https://cnips.cde.ca.gov/,,,,,,,,,
-cde.ca.gov,https://www.cde.ca.gov/,,California Department of Education,,https://alert.cdt.ca.gov/,,https://www.cde.ca.gov/bootstrap/js/jquery-1.10.2.min.js,,,
+cde.ca.gov,https://www.cde.ca.gov/,,California Department of Education,,https://alert.cdt.ca.gov/,,https://www.cde.ca.gov/bootstrap/js/jquery-1.10.2.min.js,G-FXBTGX69YQ,,
 cdfa.ca.gov,https://piercesdisease.cdfa.ca.gov/,,CDFA - Pierce's Disease Research Updates,,,https://piercesdisease.cdfa.ca.gov/v6/js/cagov.core.js,https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js,GTM-W4BKPB7,,
 cdfa.ca.gov,https://www.cdfa.ca.gov/,,California Department of Food and Agriculture - CDFA,,https://alert.cdt.ca.gov/,https://www.cdfa.ca.gov/v7/ca_state_template/js/cagov.core.js,https://www.cdfa.ca.gov/v7/js/jquery.min.js,"G-75V2BNQ3DR,GTM-NJ6Q4MV,GTM-W4BKPB7",,
 cdii.ca.gov,https://www.cdii.ca.gov/,,Homepage - CDII,All in One SEO (AIOSEO) 4.8.1.1,https://alert.cdt.ca.gov/,,https://www.cdii.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-G7F3RDGPHQ,GTM-MSW2ZV4,UA-1915322-1",,
@@ -345,7 +345,7 @@ mdaqmd.ca.gov,https://www.mdaqmd.ca.gov/,,Mojave Desert Air Quality Management D
 medalofvalor.ca.gov,https://medalofvalor.ca.gov/,,Medal of Valor Awards - Home,,https://alert.cdt.ca.gov/,https://medalofvalor.ca.gov/js/cagov.core.js,http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js,UA-3419582-2,,
 medi-cal.ca.gov,https://mcweb.apps.prd.cammis.medi-cal.ca.gov/,,State of California,,,,,G-8G032ZWHBJ,,
 meganslaw.ca.gov,https://www.meganslaw.ca.gov/,/Disclaimer,Disclaimer - Megan's Law Website,,,,https://www.meganslaw.ca.gov/js/jquery.min.js?v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo,,,
-mentalhealth.ca.gov,https://www.mentalhealth.ca.gov/,,,,,,,,ECONNRESET,read ECONNRESET
+mentalhealth.ca.gov,https://www.mentalhealth.ca.gov/,,Mental health for all,,https://alert.cdt.ca.gov/,https://www.mentalhealth.ca.gov/state-template/js/cagov.core.min.js,,"G-P7T6SMN0LM,GTM-NJ6Q4MV",,
 metrofire.ca.gov,https://metrofire.ca.gov/,,Sacramento Metropolitan Fire District,,,,,,,
 militarycouncil.ca.gov,https://militarycouncil.ca.gov/,,Military Council | State of CA Governor's Military Council,CAWeb v.1.13.1,,,https://militarycouncil.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-9V2RHGT1EJ,G-Y7T2KCM7P1,UA-21970760-36,UA-3419582-2,UA-3419582-47",,
 mlfd.ca.gov,https://mlfd.ca.gov/,,Mammoth Lakes Fire Department | Mammoth Lakes California,WordPress 6.8,,,https://mlfd.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,,,
