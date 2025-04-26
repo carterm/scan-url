@@ -52,7 +52,9 @@ const processDom = (dom, target) => {
       doc.head.querySelector("meta[name=generator i]")
     )?.content,
     statewideAlerts: scripts.find(x => x.includes("alert.cdt.ca.gov")),
-    stateTemplate: scripts.find(x => x.includes("cagov.core")),
+    stateTemplate: scripts.find(
+      x => x.includes("cagov.core") || x.includes("caweb-core")
+    ),
     JQuery: scripts.find(x => x.includes("jquery")),
     GoogleAnalytics: GoogleAnalytics.length ? GoogleAnalytics : undefined
   };
