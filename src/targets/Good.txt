@@ -13,7 +13,6 @@ https://askedd.edd.ca.gov/
 https://barc.ca.gov/
 https://bars.dre.ca.gov/
 https://bawa.ca.gov/
-https://bcc.ca.gov/
 https://beacon.ca.gov/
 https://bhc.ca.gov/
 https://bhsoac.ca.gov/
@@ -396,7 +395,6 @@ https://www.dcc-cde.ca.gov/
 https://www.dcn-cde.ca.gov/
 https://www.dcs-cde.ca.gov/
 https://www.dds.ca.gov/
-https://www.debtwatch.treasurer.ca.gov/
 https://www.deltacouncil.ca.gov/
 https://www.dental.dhcs.ca.gov/
 https://www.dfg.ca.gov/

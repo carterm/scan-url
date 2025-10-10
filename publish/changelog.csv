@@ -1,0 +1,3 @@
+Date,Domain,Action,Reason
+10/10/25,http://bcc.ca.gov/,Removed,DNS_PROBE_FINISHED_NXDOMAIN
+10/10/25,https://www.debtwatch.treasurer.ca.gov/,Removed,DNS_PROBE_FINISHED_NXDOMAIN
