@@ -1,7 +1,6 @@
 http://www.bayareacensus.ca.gov/
 http://www.leginfo.ca.gov/
 http://www.mrcapublicsafety.ca.gov/
-http://www2.courtinfo.ca.gov/ccn/index.htm
 https://abag.ca.gov/
 https://abcab.ca.gov/
 https://agencyreports.ca.gov/
@@ -34,6 +33,7 @@ https://calepa.sites.ca.gov/
 https://caleprocure.ca.gov/
 https://calfreshhealthyliving.cdph.ca.gov/
 https://calguard.ca.gov/
+https://caloptima.ca.gov/
 https://calphoneinfo.cpuc.ca.gov/
 https://calpip.cdpr.ca.gov/
 https://calrecycle.ca.gov/
@@ -42,7 +42,6 @@ https://calshape.energy.ca.gov/
 https://calsilc.ca.gov/
 https://calspillwatch.wildlife.ca.gov/
 https://calsta.ca.gov/
-https://cams.technology.ca.gov/
 https://capiaa.ca.gov/
 https://capitolmuseum.ca.gov/
 https://careereducation.gov.ca.gov/
@@ -60,6 +59,7 @@ https://census.ca.gov/
 https://ceqanet.opr.ca.gov/
 https://cers.calepa.ca.gov/
 https://childsupport.ca.gov/
+https://cloud.calhfa.ca.gov/
 https://cityofcorcoran.ca.gov/
 https://cjp.ca.gov/
 https://cleancalifornia.dot.ca.gov/
@@ -73,7 +73,6 @@ https://cpads.sco.ca.gov/
 https://cpost.ca.gov/
 https://crb.ca.gov/
 https://creec.conservation.ca.gov/
-https://crob.ca.gov/
 https://csr.dot.ca.gov/
 https://cuiab.ca.gov/
 https://cvfpb.ca.gov/
@@ -93,6 +92,7 @@ https://dmae.ca.gov/
 https://dof.ca.gov/
 https://dot.ca.gov/
 https://driveclean.ca.gov/
+https://dtsc.ca.gov/
 https://eaap.ca.gov/
 https://eams.dwc.ca.gov/
 https://ears.dre.ca.gov/
@@ -120,7 +120,6 @@ https://findanewway.ca.gov/
 https://fiscal.ca.gov/
 https://forms.edd.ca.gov/
 https://fosteryouthhelp.ca.gov/
-https://fppcada.fppc.ca.gov/
 https://futureofwork.cnra.ca.gov/
 https://gamagroundwater.waterboards.ca.gov/
 https://gcc.sco.ca.gov/
@@ -146,9 +145,7 @@ https://kids.parks.ca.gov/
 https://labormarketinfo.edd.ca.gov/
 https://laif.sco.ca.gov/
 https://laifonline.treasurer.ca.gov/
-https://landlordtenant.dre.ca.gov/
 https://lcf.ca.gov/
-https://legacy.template.webstandards.ca.gov/
 https://leginfo.legislature.ca.gov/
 https://legislativecounsel.ca.gov/
 https://letsgethealthy.ca.gov/
@@ -264,6 +261,7 @@ https://tehamajuryservices.ca.gov/
 https://tempid.dtsc.ca.gov/
 https://theacademy.ca.gov/
 https://thrive.cnra.ca.gov/
+https://toa.otsi.ca.gov/
 https://todb.ca.gov/
 https://tourism.ca.gov/
 https://tqr.dtsc.ca.gov/
@@ -271,7 +269,6 @@ https://trackprop55.sco.ca.gov/
 https://travelpocketguide.dot.ca.gov/
 https://tribalaffairs.ca.gov/
 https://tularecounty.ca.gov/
-https://tvts.insurance.ca.gov/
 https://uma.technology.ca.gov/
 https://unionsanitary.ca.gov/
 https://utilitypocketguide.dot.ca.gov/
@@ -329,7 +326,6 @@ https://www.calbar.ca.gov/
 https://www.calcompetes.ca.gov/
 https://www.calexico.ca.gov/
 https://www.calgold.ca.gov/
-https://www.calhfa.ca.gov/
 https://www.calhr.ca.gov/
 https://www.californiadgstats.ca.gov/
 https://www.californianature.ca.gov/
@@ -340,7 +336,6 @@ https://www.calosba.ca.gov/
 https://www.calpers.ca.gov/
 https://www.calpia.ca.gov/
 https://www.calvet.ca.gov/
-https://www.camade.ca.gov/
 https://www.cannabis.ca.gov/
 https://www.captain.ca.gov/
 https://www.cash4college.csac.ca.gov/
@@ -410,7 +405,6 @@ https://www.dor.ca.gov/
 https://www.dre.ca.gov/
 https://www.drinc.ca.gov/
 https://www.dsh.ca.gov/
-https://www.dtsc.ca.gov/
 https://www.dublin.ca.gov/
 https://www.ebt.ca.gov/
 https://www.ebtproject.ca.gov/
@@ -446,6 +440,7 @@ https://www.lci.ca.gov/
 https://www.lemongrove.ca.gov/
 https://www.library.ca.gov/
 https://www.losaltoshills.ca.gov/
+https://www.madeincalifornia.ca.gov/
 https://www.mbc.ca.gov/
 https://www.mdaqmd.ca.gov/
 https://www.meganslaw.ca.gov/
@@ -461,7 +456,6 @@ https://www.nmvb.ca.gov/
 https://www.oag.ca.gov/
 https://www.ocrbot.technology.ca.gov/
 https://www.oehha.ca.gov/
-https://www.oig.ca.gov/
 https://www.ojai.ca.gov/
 https://www.oles.ca.gov/
 https://www.ombc.ca.gov/
@@ -487,7 +481,6 @@ https://www.ptbc.ca.gov/
 https://www.publicadvocates.cpuc.ca.gov/
 https://www.rbra.ca.gov/
 https://www.rcb.ca.gov/
-https://www.rebuildingca.ca.gov/
 https://www.registertovote.ca.gov/
 https://www.rn.ca.gov/
 https://www.saccourt.ca.gov/
@@ -522,7 +515,6 @@ https://www.trinidad.ca.gov/
 https://www.ttsa.ca.gov/
 https://www.tulare.ca.gov/
 https://www.tuolumnecounty.ca.gov/
-https://www.ucpi.sco.ca.gov/
 https://www.vmb.ca.gov/
 https://www.waterboards.ca.gov/
 https://www.waterresilience.ca.gov/
@@ -532,3 +524,4 @@ https://www.wdtip.ca.gov/
 https://www.wheatland.ca.gov/
 https://www.workforcalifornia.ca.gov/
 https://www.ych.ca.gov/
+https://www2.courtinfo.ca.gov/ccn/

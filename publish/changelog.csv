@@ -1,3 +1,22 @@
 Date,Domain,Action,Reason
 10/10/25,http://bcc.ca.gov/,Removed,DNS_PROBE_FINISHED_NXDOMAIN
 10/10/25,https://www.debtwatch.treasurer.ca.gov/,Removed,DNS_PROBE_FINISHED_NXDOMAIN
+11/12/25,http://www2.courtinfo.ca.gov/ccn/index.htm,Replaced,https://www2.courtinfo.ca.gov/ccn/
+11/12/25,https://caloptima.ca.gov/,added,
+11/12/25,https://cams.technology.ca.gov/,removed,site error
+11/12/25,https://cloud.calhfa.ca.gov/,added,
+11/12/25,https://crob.ca.gov/,removed,timeout
+11/12/25,https://dtsc.ca.gov/,added,
+11/12/25,https://fppcada.fppc.ca.gov/,removed,403
+11/12/25,https://landlordtenant.dre.ca.gov/,removed,timeout
+11/12/25,https://madeincalifornia.ca.gov/,added,
+11/12/25,https://tvts.insurance.ca.gov/,removed,site stopped
+11/12/25,https://www.calhfa.ca.gov/,replaced,https://cloud.calhfa.ca.gov/
+11/12/25,https://www.camade.ca.gov/,Replaced,https://madeincalifornia.ca.gov/
+11/12/25,https://cloud.calhfa.ca.gov/,added,
+11/12/25,https://www.dtsc.ca.gov/,Replaced,https://dtsc.ca.gov/
+11/12/25,https://www.oig.ca.gov/,Removed,timeout
+11/12/25,https://www.rebuildingca.ca.gov/,Replaced,https://build.ca.gov/
+11/12/25,https://www.ucpi.sco.ca.gov/,Removed,site gone
+11/12/25,https://www2.courtinfo.ca.gov/ccn/,added,
+11/12/25,https://legacy.template.webstandards.ca.gov/,Removed,site gone

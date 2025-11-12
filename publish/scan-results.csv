@@ -1,5 +1,5 @@
 domain,target,redirectURL,title,generator,statewideAlerts,stateTemplate,JQuery,GoogleAnalytics,errorcode,errormessage
-397,528,39,470,163,121,204,334,365,18,32
+397,527,38,468,162,121,203,333,363,18,34
 abag.ca.gov,https://abag.ca.gov/,,Home | Association of Bay Area Governments,Drupal 10 (https://www.drupal.org),,,,G-FE9WWP5YXX,,
 abc.ca.gov,https://www.abc.ca.gov/,,Alcoholic Beverage Control | Trust - Innovation - Professionalism,CAWeb v.1.1.4b,,,,"G-69TD0KNT0F,G-DCG7L67NBP,UA-24087628-11,UA-3419582-2",,
 abcab.ca.gov,https://abcab.ca.gov/,,ABCAB | ABC Appeals Board,CAWeb v.1.13.3,https://alert.cdt.ca.gov/alert.js?ver=1.0.0,https://abcab.ca.gov/wp-content/themes/CAWeb/build/caweb-core.js?ver=1.13.3,https://abcab.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-XYBVW071M5,G-Y7T2KCM7P1,UA-20973992-10,UA-3419582-2,UA-3419582-47",,
@@ -55,7 +55,7 @@ calcivilrights.ca.gov,https://calcivilrights.ca.gov/,,CRD | Civil Rights Departm
 calcompetes.ca.gov,https://www.calcompetes.ca.gov/,/Login.aspx?ReturnUrl=%2f,Login,,,,https://code.jquery.com/jquery-1.10.2.min.js,,,
 calepa.ca.gov,https://calepa.ca.gov/,,CalEPA | California Environmental Protection Agency,CAWeb v.1.12.4,https://alert.cdt.ca.gov/alert.js?ver=1.0.0,https://calepa.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.12.4,https://calepa.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-S80FZKCQYB,UA-3419582-2",,
 calepa.ca.gov,https://cers.calepa.ca.gov/,,CERS | California Environmental Reporting System,CAWeb v.1.12.4,,https://cers.calepa.ca.gov/wp-content/themes/CAWeb/build/caweb-core.min.js?ver=1.12.4,https://cers.calepa.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-VKFSF099FL,UA-3419582-2",,
-calepa.ca.gov,https://intranet.calepa.ca.gov/,,Intranet - CalEPA | Our internal website for employees!,CAWeb v.1.12.4,,https://intranet.calepa.ca.gov/wp-content/themes/CAWeb/src/version-5.5/cagov.core.js?ver=1.12.4,https://intranet.calepa.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-DQ3VBC4CR1,UA-3419582-2",,
+calepa.ca.gov,https://intranet.calepa.ca.gov/,/wp-login.php?redirect_to=%2F,Log In ‹ Intranet – CalEPA — WordPress,,,,https://intranet.calepa.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,,,
 caleprocure.ca.gov,https://caleprocure.ca.gov/,,Page Redirection,,,,,"GTM-WTBNSTN,UA-3419582-2",,
 calexico.ca.gov,https://www.calexico.ca.gov/,,"Calexico, CA",,,,https://www.calexico.ca.gov/repository/designs/jquery3/jquery-3.7.1.min.js,,,
 calgold.ca.gov,https://www.calgold.ca.gov/,,CalGold | CalGold v2 - Permit Assistance Tool,,,https://www.calgold.ca.gov/Content/StateTemplate/js/cagov.core.js,https://www.calgold.ca.gov/Content/StateTemplate/js/libs/jquery-3.2.1.min.js,G-ZZ3YHMBCMQ,,
@@ -72,7 +72,7 @@ caloes.ca.gov,https://wildfirerecovery.caloes.ca.gov/,,California Statewide Wild
 caloes.ca.gov,https://www.caloes.ca.gov/,,California Governor's Office of Emergency Services | California's Emergency Services Leader,CAWeb v.1.13.0,https://alert.cdt.ca.gov/,https://www.caloes.ca.gov/wp-content/themes/CAWeb-1.13.0/build/caweb-core.min.js?ver=6.8.2,https://www.caloes.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-MDLYGZX10N,GTM-5JTZCJC,UA-3419582-2,UA-54732306-2",,
 caloptima.ca.gov,https://caloptima.ca.gov/,,,,,,,,,
 calosba.ca.gov,https://www.calosba.ca.gov/,,California Office of the Small Business Advocate (CalOSBA),CAWeb v.1.5.2a,,,https://www.calosba.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,G-2KMN5NQW5J,,
-calpers.ca.gov,https://my.calpers.ca.gov/,https://auth.my.calpers.ca.gov/35239553-f454-4ff8-938c-856a90c45fae/b2c_1a_signin/oauth2/v2.0/authorize?client_id=cfb6615d-8786-4331-918b-b0a0e2e0338b&nonce=5XMhbjQkP2zV-8Iq7mL0ThA&redirect_uri=https%3A%2F%2Fmy.calpers.ca.gov%2Foauth%2Fclient%2Fredirect&response_type=code&scope=openid&state=5J9p7oLJZh7xwqrR2t6aHkw&code_challenge_method=S256&code_challenge=gmT9MoDEZjJHAsudS3dWcZkcEPjRGhu3uTzNiqLd44I,Loading...,,,,,G-BACKGROUND,,
+calpers.ca.gov,https://my.calpers.ca.gov/,https://auth.my.calpers.ca.gov/35239553-f454-4ff8-938c-856a90c45fae/b2c_1a_signin/oauth2/v2.0/authorize?client_id=cfb6615d-8786-4331-918b-b0a0e2e0338b&nonce=56W06SL7vGQ2cYP9GBLxJOw&redirect_uri=https%3A%2F%2Fmy.calpers.ca.gov%2Foauth%2Fclient%2Fredirect&response_type=code&scope=openid&state=5Z0xWHwLgXRv16CsssgzeXA&code_challenge_method=S256&code_challenge=-q-o82MQ3fBM8TERevrhO0s0h_oa14dTC3VzlUxjZQI,Loading...,,,,,G-BACKGROUND,,
 calpers.ca.gov,https://www.calpers.ca.gov/,,California Public Employees' Retirement System,Drupal 10 (https://www.drupal.org),,,,"G-EGNB9Q40R8,G-NVPAH5KF7T,GTM-TVMFZD9",,
 calpia.ca.gov,https://www.calpia.ca.gov/,,,,,,,,,Resource was not loaded. Status: 403
 calrecycle.ca.gov,https://calrecycle.ca.gov/,,CalRecycle Home Page,CAWeb v.1.13.3,https://alert.cdt.ca.gov/alert.js?ver=1.0.0,https://calrecycle.ca.gov/wp-content/themes/CAWeb/build/caweb-core.min.js?ver=1.13.3,https://calrecycle.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-Y7T2KCM7P1,GTM-WWF6GW5,UA-12131600-15,UA-3419582-2,UA-3419582-47",,
@@ -97,7 +97,7 @@ ccusl.ca.gov,https://ccusl.ca.gov/,,Welcome to the California Commission on Unif
 cdcr.ca.gov,https://pass.cdcr.ca.gov/,,,,,,,,UNABLE_TO_VERIFY_LEAF_SIGNATURE,unable to verify the first certificate
 cdcr.ca.gov,https://www.cdcr.ca.gov/,,California Department of Corrections and Rehabilitation - CDCR,,,,,GTM-WWJWHL4,,
 cde.ca.gov,https://cnips.cde.ca.gov/,,,,,,,,,
-cde.ca.gov,https://www.cde.ca.gov/,,California Department of Education,,https://alert.cdt.ca.gov/,,https://www.cde.ca.gov/bootstrap/js/jquery-1.10.2.min.js,G-FXBTGX69YQ,,
+cde.ca.gov,https://www.cde.ca.gov/,,California Department of Education,,https://alert.cdt.ca.gov/,,https://www.cde.ca.gov/bootstrap/js/jquery-1.10.2.min.js,,,
 cdfa.ca.gov,https://piercesdisease.cdfa.ca.gov/,,CDFA - Pierce's Disease Research Updates,,,https://piercesdisease.cdfa.ca.gov/v6/js/cagov.core.js,https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js,GTM-W4BKPB7,,
 cdfa.ca.gov,https://www.cdfa.ca.gov/,,California Department of Food and Agriculture - CDFA,,https://alert.cdt.ca.gov/,https://www.cdfa.ca.gov/v7/ca_state_template/js/cagov.core.js,https://www.cdfa.ca.gov/v7/js/jquery.min.js,"GTM-W4BKPB7,UA-3419582-2",,
 cdii.ca.gov,https://www.cdii.ca.gov/,,Homepage - CDII,All in One SEO (AIOSEO) 4.8.9,https://alert.cdt.ca.gov/,,https://www.cdii.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-G7F3RDGPHQ,GTM-MSW2ZV4,UA-1915322-1",,
@@ -252,7 +252,7 @@ earthquake.ca.gov,https://earthquake.ca.gov/,,California Earthquake Early Warnin
 ebt.ca.gov,https://www.ebt.ca.gov/,,,,,,,,,
 ebtproject.ca.gov,https://www.ebtproject.ca.gov/,,EBT Project,,,https://www.ebtproject.ca.gov/js/cagov.core.js,https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js,,,
 ebudget.ca.gov,https://ebudget.ca.gov/,,,,,,,,UNABLE_TO_VERIFY_LEAF_SIGNATURE,unable to verify the first certificate
-ecos.ca.gov,https://ecos.ca.gov/,/Login.aspx?ReturnUrl=%2f,Exam and Cert Online System - Admin,,,,https://ecos.ca.gov/javascript/jquery-1.11.1.min.js,,,
+ecos.ca.gov,https://ecos.ca.gov/,,,,,,,,ECONNRESET,read ECONNRESET
 edd.ca.gov,https://askedd.edd.ca.gov/,/s/,AskEDD,,,,,"G-P1RJ1L0W4D,GTM-MCW7ZGX",,
 edd.ca.gov,https://edd.ca.gov/,,Employment Development Department | California,,,https://edd.ca.gov/Assets/js/cagov.core.wm1.min.js,https://code.jquery.com/jquery-3.4.1.min.js,"G-69TD0KNT0F,G-KF25MR5YHK,GTM-N8KVMBR,UA-3419582-31",,
 edd.ca.gov,https://eddservices.edd.ca.gov/,,Employer Services Online,,,,,,,
@@ -334,7 +334,7 @@ library.ca.gov,https://www.library.ca.gov/,,Home - California State Library,Word
 loomis.ca.gov,https://loomis.ca.gov/,,"Home - Loomis, CA",Site Kit by Google 1.164.0,,,https://loomis.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,,,
 losaltoshills.ca.gov,https://www.losaltoshills.ca.gov/,,"Los Altos Hills, CA | Official Website",,,,https://www.losaltoshills.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js,"G-B31D08W17S,GTM-K73C5PS",,
 ltg.ca.gov,https://ltg.ca.gov/,,Lieutenant Governor - Office of the Lt. Governor of California,CAWeb v.1.13.3,https://alert.cdt.ca.gov/alert.js?ver=1.0.0,https://ltg.ca.gov/wp-content/themes/CAWeb/build/caweb-core.min.js?ver=1.13.3,https://ltg.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-T47RW7TGKE,G-Y7T2KCM7P1,UA-21431721-7,UA-3419582-2,UA-3419582-47",,
-madeincalifornia.ca.gov,https://madeincalifornia.ca.gov/,,Made in California,CAWeb v.1.5.2a,,,https://madeincalifornia.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,G-SEYPRR85FP,,
+madeincalifornia.ca.gov,https://www.madeincalifornia.ca.gov/,,Made in California,CAWeb v.1.5.2a,,,https://www.madeincalifornia.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,G-SEYPRR85FP,,
 mbc.ca.gov,https://www.mbc.ca.gov/,,Home | Medical Board of California,,,,,"G-VZEZFBT2Z2,GTM-NJ6Q4MV",,
 mdaqmd.ca.gov,https://www.mdaqmd.ca.gov/,,Mojave Desert Air Quality Management District | Home,,,,,G-MWLPGMCV36,,
 medalofvalor.ca.gov,https://medalofvalor.ca.gov/,,Medal of Valor Awards - Home,,https://alert.cdt.ca.gov/,https://medalofvalor.ca.gov/js/cagov.core.js,http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js,UA-3419582-2,,
@@ -475,7 +475,7 @@ taxes.ca.gov,https://taxes.ca.gov/,,Taxes | California Tax Service Center,CAWeb 
 tcpw.ca.gov,https://tcpw.ca.gov/,,Tehama County Public Works,WordPress 6.8.3,,,,G-XYLMZ67JYC,,
 tcwd.ca.gov,https://www.tcwd.ca.gov/,,Trabuco Canyon Water District | Home,,,,,,,
 technology.ca.gov,https://billing.technology.ca.gov/,/login.aspx?ReturnUrl=%2f,Login,,,,,UA-3419582-2,,
-technology.ca.gov,https://pasapi.technology.ca.gov/,/index.html,Personnel Authorization System (PAS),,,,,,,
+technology.ca.gov,https://pasapi.technology.ca.gov/,,,,,,,,ECONNRESET,read ECONNRESET
 technology.ca.gov,https://uma.technology.ca.gov/,/Account/Login?ReturnUrl=%2F,Multisite Authentication Management Tool,,,,https://uma.technology.ca.gov/bundles/jquery?v=1LNsxN8KSPHGkQ7yTczaK4nJ0Vt34kb-0f57U4HMmcg1,,,
 technology.ca.gov,https://www.bars.technology.ca.gov/,,BARS,,,,,,,
 technology.ca.gov,https://www.ocrbot.technology.ca.gov/,,OCRBot,,,,,"UA-21970760-42,UA-3419582-2",,
@@ -490,7 +490,7 @@ treasurer.ca.gov,https://cdlaconline.treasurer.ca.gov/,/Account/Login.aspx?Retur
 treasurer.ca.gov,https://laifonline.treasurer.ca.gov/,,Log in - LAIF Application,,,,https://laifonline.treasurer.ca.gov/bundles/jquery?v=WXuFDBxLYWHBFWDTN9-slDEuELq8rP2I3NZttVVWYM81,"UA-1867705-11,UA-3419582-2",,
 treasurer.ca.gov,https://www.treasurer.ca.gov/,,State Treasurer's Office,,https://alert.cdt.ca.gov/,,https://code.jquery.com/jquery-2.2.4.min.js,"UA-1867705-1,UA-3419582-2",,
 tribalaffairs.ca.gov,https://tribalaffairs.ca.gov/,,The Governor's Office of Tribal Affairs |,CAWeb v.1.13.3,,https://tribalaffairs.ca.gov/wp-content/themes/CAWeb/build/caweb-core.min.js?ver=1.13.3,https://tribalaffairs.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-BZRKW432Z0,G-Y7T2KCM7P1,UA-31125811-10,UA-3419582-2,UA-3419582-47",,
-trinidad.ca.gov,https://www.trinidad.ca.gov/,,,,,,,,ETIMEDOUT,
+trinidad.ca.gov,https://www.trinidad.ca.gov/,,,,,,,,,Resource was not loaded. Status: 403
 ttsa.ca.gov,https://www.ttsa.ca.gov/,,"Tahoe-Truckee SanitationAgency, CA | Official Website",,,,https://www.ttsa.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js,"G-BT3F8NYDVX,GTM-K73C5PS",,
 tulare.ca.gov,https://www.tulare.ca.gov/,,City of Tulare | Home,,,,,G-3C4EEVW8L1,,
 tularecounty.ca.gov,https://tularecounty.ca.gov/,,,,,,,,,Resource was not loaded. Status: 403
@@ -511,7 +511,6 @@ wcb.ca.gov,https://wcb.ca.gov/,,California Wildlife Conservation Board Home Page
 wcchd.ca.gov,https://wcchd.ca.gov/,,West Contra Costa Healthcare District,,,,,,,
 wdopestboard.ca.gov,https://www.wdopestboard.ca.gov/,https://pestboard.ca.gov/maintenance/wdo_maintenance.shtml,Wood Destroying Organism System Maintenance - Structural Pest Control Board,,,https://pestboard.ca.gov/js/cagov.core.js,https://code.jquery.com/jquery-3.5.1.min.js,"G-13SQD8E90R,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-27",,
 wdtip.ca.gov,https://www.wdtip.ca.gov/,,,,,,,,UNABLE_TO_VERIFY_LEAF_SIGNATURE,unable to verify the first certificate
-webstandards.ca.gov,https://legacy.template.webstandards.ca.gov/,,,,,,,,ENOTFOUND,getaddrinfo ENOTFOUND legacy.template.webstandards.ca.gov
 webstandards.ca.gov,https://webstandards.ca.gov/,,Webstandards | The online resource for California State agency webmasters,CAWeb v.1.13.3,,https://webstandards.ca.gov/wp-content/themes/CAWeb/build/caweb-core.min.js?ver=1.13.3,https://webstandards.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-8LTHCDW8ZL,G-Y7T2KCM7P1,UA-20973992-20,UA-3419582-2,UA-3419582-47",,
 webstandards.ca.gov,https://www.template.webstandards.ca.gov/,,California State Web Template,,https://alert.cdt.ca.gov/,https://www.template.webstandards.ca.gov/state-template/js/cagov.core.min.js,,GTM-PWPX7KD,,
 wedrawthelines.ca.gov,https://wedrawthelines.ca.gov/,,"California Citizens Redistricting Commission | ""Fair Representation - Democracy at Work!""",CAWeb v.1.13.3,,https://wedrawthelines.ca.gov/wp-content/themes/CAWeb/build/caweb-core.min.js?ver=1.13.3,https://wedrawthelines.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47,UA-44798820-1",,
