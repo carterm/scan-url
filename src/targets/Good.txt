@@ -17,6 +17,7 @@ https://bhc.ca.gov/
 https://bhsoac.ca.gov/
 https://billing.technology.ca.gov/
 https://bluelake.ca.gov/
+https://boe.ca.gov/
 https://bof.fire.ca.gov/
 https://bondaccountability.ca.gov/
 https://bopc.ca.gov/
@@ -33,7 +34,6 @@ https://calepa.sites.ca.gov/
 https://caleprocure.ca.gov/
 https://calfreshhealthyliving.cdph.ca.gov/
 https://calguard.ca.gov/
-https://caloptima.ca.gov/
 https://calphoneinfo.cpuc.ca.gov/
 https://calpip.cdpr.ca.gov/
 https://calrecycle.ca.gov/
@@ -55,8 +55,9 @@ https://ccusl.ca.gov/
 https://cdec.water.ca.gov/
 https://cdlaconline.treasurer.ca.gov/
 https://cdt.ca.gov/
+https://cdtfa.ca.gov/
 https://census.ca.gov/
-https://ceqanet.opr.ca.gov/
+https://ceqanet.lci.ca.gov/
 https://cers.calepa.ca.gov/
 https://childsupport.ca.gov/
 https://cloud.calhfa.ca.gov/
@@ -73,6 +74,7 @@ https://cpads.sco.ca.gov/
 https://cpost.ca.gov/
 https://crb.ca.gov/
 https://creec.conservation.ca.gov/
+https://crob.ca.gov/
 https://csr.dot.ca.gov/
 https://cuiab.ca.gov/
 https://cvfpb.ca.gov/
@@ -88,7 +90,6 @@ https://dcss.ca.gov/
 https://delta.ca.gov/
 https://deltaconservancy.ca.gov/
 https://dfpi.ca.gov/
-https://dmae.ca.gov/
 https://dof.ca.gov/
 https://dot.ca.gov/
 https://driveclean.ca.gov/
@@ -133,7 +134,6 @@ https://healthcarevolunteers.ca.gov/
 https://healthexchange.ca.gov/
 https://heliplates.dot.ca.gov/
 https://hellosavings.ca.gov/
-https://heritageranchcsd.ca.gov/
 https://highlandsrec.ca.gov/
 https://hollister.ca.gov/
 https://hwts.dtsc.ca.gov/
@@ -172,7 +172,6 @@ https://mlfd.ca.gov/
 https://mobile.cdpr.ca.gov/
 https://mrca.ca.gov/
 https://mtc.ca.gov/
-https://my.calpers.ca.gov/
 https://myedd.edd.ca.gov/
 https://myturn.ca.gov/
 https://myvaccinerecord.cdph.ca.gov/
@@ -229,20 +228,18 @@ https://scc.ca.gov/
 https://scdd.ca.gov/
 https://scta.ca.gov/
 https://sdrc.ca.gov/
-https://search-bppe.dca.ca.gov/
 https://secretary.resources.ca.gov/
 https://secure.dre.ca.gov/
 https://seeds.energy.ca.gov/
 https://seeleywaterdistrict.ca.gov/
-https://seminars.edd.ca.gov/
 https://seniors.insurance.ca.gov/
+https://sgc.ca.gov/
 https://shsp.dot.ca.gov/
 https://sierranevada.ca.gov/
 https://sjrc.ca.gov/
 https://smmc.ca.gov/
 https://soir.senate.ca.gov/
 https://solanosr2s.ca.gov/
-https://sonomacounty.ca.gov/
 https://spmud.ca.gov/
 https://spot.cdph.ca.gov/
 https://sprls.dre.ca.gov/
@@ -251,8 +248,6 @@ https://srfecc.ca.gov/
 https://ssc.ca.gov/
 https://sta.ca.gov/
 https://store.parks.ca.gov/
-https://syfphr.hcai.ca.gov/
-https://syfphr.oshpd.ca.gov/
 https://tacc.ccoa.ca.gov/
 https://tahoe.ca.gov/
 https://taxes.ca.gov/
@@ -273,7 +268,6 @@ https://uma.technology.ca.gov/
 https://unionsanitary.ca.gov/
 https://utilitypocketguide.dot.ca.gov/
 https://victims.ca.gov/
-https://waftestvip.cdt.ca.gov/
 https://water.ca.gov/
 https://waterchallenge.data.ca.gov/
 https://wcb.ca.gov/
@@ -306,7 +300,6 @@ https://www.bbs.ca.gov/
 https://www.bcdc.ca.gov/
 https://www.bcsh.ca.gov/
 https://www.biomonitoring.ca.gov/
-https://www.boe.ca.gov/
 https://www.boomerang.ca.gov/
 https://www.bot.ca.gov/
 https://www.bpelsg.ca.gov/
@@ -350,7 +343,6 @@ https://www.cdii.ca.gov/
 https://www.cdph.ca.gov/
 https://www.cdpr.ca.gov/
 https://www.cdss.ca.gov/
-https://www.cdtfa.ca.gov/
 https://www.cfb.ca.gov/
 https://www.cfcc.ca.gov/
 https://www.cfsd.dss.ca.gov/
@@ -425,6 +417,7 @@ https://www.green.ca.gov/
 https://www.hcd.ca.gov/
 https://www.hcrc.ca.gov/
 https://www.heber.ca.gov/
+https://www.heritageranchcsd.ca.gov/
 https://www.holtville.ca.gov/
 https://www.hsr.ca.gov/
 https://www.ibank.ca.gov/
@@ -451,11 +444,11 @@ https://www.montezumafiredistrictsolano.ca.gov/
 https://www.morganhill.ca.gov/
 https://www.mywaterquality.ca.gov/
 https://www.naturopathic.ca.gov/
-https://www.nctc.ca.gov/
 https://www.nmvb.ca.gov/
 https://www.oag.ca.gov/
 https://www.ocrbot.technology.ca.gov/
 https://www.oehha.ca.gov/
+https://www.oig.ca.gov/
 https://www.ojai.ca.gov/
 https://www.oles.ca.gov/
 https://www.ombc.ca.gov/
@@ -484,7 +477,6 @@ https://www.rcb.ca.gov/
 https://www.registertovote.ca.gov/
 https://www.rn.ca.gov/
 https://www.saccourt.ca.gov/
-https://www.sacramento.ca.gov/
 https://www.sanbruno.ca.gov/
 https://www.sanramon.ca.gov/
 https://www.savewater.ca.gov/
@@ -492,7 +484,6 @@ https://www.sbac.ca.gov/
 https://www.sco.ca.gov/
 https://www.sdcourt.ca.gov/
 https://www.senate.ca.gov/
-https://www.sgc.ca.gov/
 https://www.sierracounty.ca.gov/
 https://www.slc.ca.gov/
 https://www.slocounty.ca.gov/
@@ -519,8 +510,6 @@ https://www.vmb.ca.gov/
 https://www.waterboards.ca.gov/
 https://www.waterresilience.ca.gov/
 https://www.wca.ca.gov/
-https://www.wdopestboard.ca.gov/
-https://www.wdtip.ca.gov/
 https://www.wheatland.ca.gov/
 https://www.workforcalifornia.ca.gov/
 https://www.ych.ca.gov/
