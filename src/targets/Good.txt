@@ -85,6 +85,7 @@ https://cwdb.ca.gov/
 https://cwds.ca.gov/
 https://cww.water.ca.gov/
 https://data.ca.gov/
+https://data.cnra.ca.gov/
 https://dbw.parks.ca.gov/
 https://dcss.ca.gov/
 https://delta.ca.gov/
@@ -180,6 +181,7 @@ https://natureworks.resources.ca.gov/
 https://ncric.ca.gov/
 https://ncsd.ca.gov/
 https://news.caloes.ca.gov/
+https://newsroom.courts.ca.gov/
 https://nhts.dot.ca.gov/
 https://nvta.ca.gov/
 https://oal.ca.gov/
@@ -472,6 +474,7 @@ https://www.projecttracking.technology.ca.gov/
 https://www.psychology.ca.gov/
 https://www.ptbc.ca.gov/
 https://www.publicadvocates.cpuc.ca.gov/
+https://www.publicpay.ca.gov/
 https://www.rbra.ca.gov/
 https://www.rcb.ca.gov/
 https://www.reducetherisk.ca.gov/
@@ -484,6 +487,7 @@ https://www.savewater.ca.gov/
 https://www.sbac.ca.gov/
 https://www.sco.ca.gov/
 https://www.sdcourt.ca.gov/
+https://www.selfhelp.courts.ca.gov/
 https://www.senate.ca.gov/
 https://www.sierracounty.ca.gov/
 https://www.slc.ca.gov/

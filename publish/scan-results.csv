@@ -1,5 +1,5 @@
 domain,target,redirectURL,title,generator,statewideAlerts,stateTemplate,JQuery,GoogleAnalytics,errorcode,errormessage
-392,517,30,466,165,121,203,335,363,13,26
+393,521,29,469,168,122,202,336,365,14,26
 abag.ca.gov,https://abag.ca.gov/,,Home | Association of Bay Area Governments,Drupal 10 (https://www.drupal.org),,,,G-FE9WWP5YXX,,
 abc.ca.gov,https://www.abc.ca.gov/,,Alcoholic Beverage Control | Trust - Innovation - Professionalism,CAWeb v.1.1.4b,,,,"G-69TD0KNT0F,G-DCG7L67NBP,UA-24087628-11,UA-3419582-2",,
 abcab.ca.gov,https://abcab.ca.gov/,,ABCAB | ABC Appeals Board,CAWeb v.1.13.3,https://alert.cdt.ca.gov/alert.js?ver=1.0.0,https://abcab.ca.gov/wp-content/themes/CAWeb/build/caweb-core.js?ver=1.13.3,https://abcab.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-XYBVW071M5,G-Y7T2KCM7P1,UA-20973992-10,UA-3419582-2,UA-3419582-47",,
@@ -83,7 +83,7 @@ capiaa.ca.gov,https://capiaa.ca.gov/,,California Commission on APIA Affairs | Em
 capitolmuseum.ca.gov,https://capitolmuseum.ca.gov/,,Homepage - California State Capitol Museum,CAWeb v.1.12.4,,https://capitolmuseum.ca.gov/wp-content/themes/CapMuseum-1.12.4/build/caweb-core.min.js?ver=6.8.3,https://capitolmuseum.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-ZSV0Z9SPB3,UA-21974567-45,UA-3419582-2,UA-64245307-1",,
 captain.ca.gov,https://www.captain.ca.gov/,,CA Autism Professional Training and Information Network - CAPTAIN,,,,https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js,G-7P4J8DKTKV,,
 catc.ca.gov,https://catc.ca.gov/,,California Transportation Commission | CTC,,https://alert.cdt.ca.gov/,https://catc.ca.gov/js/cagov.core.min.js,https://code.jquery.com/jquery-3.4.1.min.js,"G-37E6VKG1R5,G-69TD0KNT0F,UA-21970760-33",,
-cca.ca.gov,https://cca.ca.gov/,,,,,,,,,Resource was not loaded. Status: 403
+cca.ca.gov,https://cca.ca.gov/,,California Cannabis Authority,,,,https://cca.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,,,
 ccag.ca.gov,https://ccag.ca.gov/,,C/CAG,,,,https://ccag.ca.gov/wp-includes/js/jquery/jquery.min.js,G-0KSE6F1TNL,,
 ccap.ca.gov,https://www.ccap.ca.gov/,,Cannabis Control Appeals Panel,,https://alert.cdt.ca.gov/,https://www.ccap.ca.gov/js/cagov.core.js,https://code.jquery.com/jquery-3.5.1.min.js,"G-69TD0KNT0F,G-HCFGD3JTY2,GTM-M683DJB,GTM-NBQCVZC,UA-21974567-34,UA-3419582-2",,
 ccc.ca.gov,https://ccc.ca.gov/,,California Conservation Corps,CCC Divi Child Theme v.1.0.1,,,https://ccc.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-9B8C5EW31B,UA-1915322-1",,
@@ -138,6 +138,7 @@ climateassessment.ca.gov,https://www.climateassessment.ca.gov/,,California Clima
 climateresilience.ca.gov,https://www.climateresilience.ca.gov/,,California Climate Adaptation Strategy 2024,,,https://www.climateresilience.ca.gov/js/cagov.core.js,https://code.jquery.com/jquery-3.6.0.min.js,"G-69TD0KNT0F,G-HTRZSKEXJ7",,
 clrc.ca.gov,https://www.clrc.ca.gov/,,California Law Revision Commission Home,,,,,"UA-24087628-17,UA-3419582-2",,
 clsd.ca.gov,https://clsd.ca.gov/,,Coast Life Support District – Ambulance & collaborative healthcare services for southern Mendocino and northern Sonoma County coastal communities,WordPress 6.8.3,,,https://clsd.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,,,
+cnra.ca.gov,https://data.cnra.ca.gov/,,Welcome - California Natural Resources Agency Open Data,ckan 2.9.11,https://alert.cdt.ca.gov/,,https://code.jquery.com/jquery-1.11.0.min.js,"G-L05EYD0Q7Q,G-Q09GQ8WSZJ",,
 cnra.ca.gov,https://futureofwork.cnra.ca.gov/,,Certified Regulatory Programs – Notices of Determination – CEQA requires agencies with Certified Regulatory Programs to file Notices of Decision (NOD) with the California Natural Resources Agency.,Site Kit by Google 1.165.0,https://alert.cdt.ca.gov/,https://futureofwork.cnra.ca.gov/js/cagov.core.js,https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js,"UA-3419582-2,UA-59627195-7",,
 cnra.ca.gov,https://thrive.cnra.ca.gov/,,Thrive @ Resources – Supporting the People Who Power California’s Natural Resources,Site Kit by Google 1.166.0,https://alert.cdt.ca.gov/,https://thrive.cnra.ca.gov/wp-content/themes/CNRA-Entity-Theme/js/cagov.core.min.js?ver=1744317026,https://thrive.cnra.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,G-DC4ZM50NEC,,
 coastal.ca.gov,https://www.coastal.ca.gov/,,California Coastal Commission,,https://alert.cdt.ca.gov/,,,"G-38DMPFK630,G-69TD0KNT0F",,
@@ -152,9 +153,11 @@ contracosta.ca.gov,https://www.contracosta.ca.gov/,,"Contra Costa County, CA Off
 courtinfo.ca.gov,https://www2.courtinfo.ca.gov/ccn/,,California Court News,,,,https://www.courts.ca.gov/styles-scripts/jquery.min.js,,,
 courtreportersboard.ca.gov,https://www.courtreportersboard.ca.gov/,,Court Reporters Board of California,,,https://www.courtreportersboard.ca.gov/js/cagov.core.js,https://code.jquery.com/jquery-3.5.1.min.js,"G-512WQC0YJW,G-69TD0KNT0F,GTM-NBQCVZC,UA-3419582-2,UA-64276560-6",,
 courts.ca.gov,https://courts.ca.gov/,,California Courts - Home | Judicial Branch of California,Drupal 9 (https://www.drupal.org),,,,,,
+courts.ca.gov,https://newsroom.courts.ca.gov/,,Front Page | California Courts Newsroom,Drupal 9 (https://www.drupal.org),,,,G-97ALDYA3VI,,
 courts.ca.gov,https://www.butte.courts.ca.gov/,,Home | Superior Court of California | County of Butte,Drupal 9 (https://www.drupal.org),,,,,,
 courts.ca.gov,https://www.inyo.courts.ca.gov/,,Home | Superior Court of California | County of Inyo,Drupal 9 (https://www.drupal.org),,,,,,
 courts.ca.gov,https://www.lassen.courts.ca.gov/,,Home | Superior Court of California | County of Lassen,Drupal 9 (https://www.drupal.org),,,,,,
+courts.ca.gov,https://www.selfhelp.courts.ca.gov/,,Self-Help Guide to the California Courts | California Courts | Self Help Guide,Drupal 9 (https://www.drupal.org),,,,,,
 courts.ca.gov,https://www.tehama.courts.ca.gov/,,"Home | Superior Court of California, County of Tehama",Drupal 9 (https://www.drupal.org),,,,,,
 cpost.ca.gov,https://cpost.ca.gov/,,My WordPress Site,,,,,,,
 cppa.ca.gov,https://www.cppa.ca.gov/,,California Privacy Protection Agency (CPPA),,https://alert.cdt.ca.gov/,https://www.cppa.ca.gov/js/cagov.core.min.js,https://www.cppa.ca.gov/js/libs/jquery.js,"G-69TD0KNT0F,G-WFY9PWDBY2,UA-31125811-47,UA-3419582-2",,
@@ -398,6 +401,7 @@ post.ca.gov,https://pass.post.ca.gov/,/login,PASS Login,,,,https://pass.post.ca.
 post.ca.gov,https://post.ca.gov/,,Home,,,,https://post.ca.gov/Resources/libraries/jQuery/03_07_01/jquery.js?cdv=709,G-K1FLBGKCQ9,,
 psychology.ca.gov,https://www.psychology.ca.gov/,,California Board of Psychology,,,,https://code.jquery.com/jquery-3.5.1.min.js,"G-69TD0KNT0F,G-G17MN7HXHK,UA-64276560-22",,
 ptbc.ca.gov,https://www.ptbc.ca.gov/,,Physical Therapy Board of California,,,https://www.ptbc.ca.gov/js/cagov.core.js,https://code.jquery.com/jquery-3.6.0.min.js,"G-69TD0KNT0F,G-V6KF16YJFK,GTM-M683DJB,GTM-NBQCVZC,UA-21974567-31,UA-3419582-2",,
+publicpay.ca.gov,https://www.publicpay.ca.gov/,,GCC,,,,https://www.publicpay.ca.gov/scripts/jquery-3.5.1.min.js,GTM-KX7MF5M,,
 qfd.ca.gov,https://qfd.ca.gov/,,Homepage Quincy Fire Protection District,,,,,,,
 rbra.ca.gov,https://www.rbra.ca.gov/,,Homepage Richardson Bay Regional Agency,,,,,,,
 rcb.ca.gov,https://www.rcb.ca.gov/,,Respiratory Care Board of California,,,https://www.rcb.ca.gov/js/cagov.core.js,https://code.jquery.com/jquery-3.5.1.min.js,"G-05Q6QKZSH6,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-24",,
@@ -484,7 +488,7 @@ treasurer.ca.gov,https://www.treasurer.ca.gov/,,State Treasurer's Office,,https:
 tribalaffairs.ca.gov,https://tribalaffairs.ca.gov/,,The Governor's Office of Tribal Affairs |,CAWeb v.1.13.3,,https://tribalaffairs.ca.gov/wp-content/themes/CAWeb/build/caweb-core.min.js?ver=1.13.3,https://tribalaffairs.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-BZRKW432Z0,G-Y7T2KCM7P1,UA-31125811-10,UA-3419582-2,UA-3419582-47",,
 trinidad.ca.gov,https://www.trinidad.ca.gov/,,,,,,,,,Resource was not loaded. Status: 403
 ttsa.ca.gov,https://www.ttsa.ca.gov/,,"Tahoe-Truckee SanitationAgency, CA | Official Website",,,,https://www.ttsa.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js,"G-BT3F8NYDVX,GTM-K73C5PS",,
-tulare.ca.gov,https://www.tulare.ca.gov/,,City of Tulare | Home,,,,,"G-3C4EEVW8L1,G-BER1GHKJWF",,
+tulare.ca.gov,https://www.tulare.ca.gov/,,City of Tulare | Home,,,,,G-3C4EEVW8L1,,
 tularecounty.ca.gov,https://tularecounty.ca.gov/,,,,,,,,,Resource was not loaded. Status: 403
 tuolumnecounty.ca.gov,https://www.tuolumnecounty.ca.gov/,,"Tuolumne County, CA - Official Website | Official Website",,,,https://www.tuolumnecounty.ca.gov/Assets/Scripts/jQuery/jquery-2.2.4.min.js,"G-HHGEB3R8ZN,GTM-K73C5PS",,
 unionsanitary.ca.gov,https://unionsanitary.ca.gov/,,"Home - Union Sanitary District | Serving Fremont, Newark and Union City, California.","Elementor 3.32.5; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap",,,https://unionsanitary.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,G-0Z2KMBBLH5,,
@@ -494,8 +498,8 @@ water.ca.gov,https://cdec.water.ca.gov/,,California Data Exchange Center,,https:
 water.ca.gov,https://cww.water.ca.gov/,,California Water Watch,,https://alert.cdt.ca.gov/,https://cww.water.ca.gov/resources/js/cagov.core.js?v=1.0.8,https://cww.water.ca.gov/resources/js/jquery/3.2.1/jquery.min.js?v=1.0.8,G-G9NNQTSS8V,,
 water.ca.gov,https://ferix.water.ca.gov/,,,,,,,,,
 water.ca.gov,https://water.ca.gov/,,Department Of Water Resources,,https://alert.cdt.ca.gov/,,https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js,GTM-KK6DT3F,,
-waterboards.ca.gov,https://gamagroundwater.waterboards.ca.gov/,/gama/gamamap/public/,GAMA Groundwater,,,,https://code.jquery.com/jquery-3.4.0.min.js,,,
-waterboards.ca.gov,https://geotracker.waterboards.ca.gov/,,GeoTracker,,,https://geotracker.waterboards.ca.gov/js/cagov.core.js,https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js,GTM-NP6RZTM,,
+waterboards.ca.gov,https://gamagroundwater.waterboards.ca.gov/,,,,,,,,,Resource was not loaded. Status: 403
+waterboards.ca.gov,https://geotracker.waterboards.ca.gov/,,,,,,,,,Resource was not loaded. Status: 403
 waterboards.ca.gov,https://www.waterboards.ca.gov/,,Home Page | California State Water Resources Control Board,,https://alert.cdt.ca.gov/,https://www.waterboards.ca.gov/js/cagov.core.js,https://code.jquery.com/jquery-latest.min.js,"G-C2B09DREVM,GTM-5PXRWRP,UA-3419582-2,UA-5950478-1",,
 waterresilience.ca.gov,https://www.waterresilience.ca.gov/,,waterresilience.ca.gov — Domain welcome page for,,,,,,,
 wca.ca.gov,https://www.wca.ca.gov/,,Watershed Conservation Authority,,,,,,,
@@ -505,7 +509,7 @@ webstandards.ca.gov,https://webstandards.ca.gov/,,Webstandards | The online reso
 webstandards.ca.gov,https://www.template.webstandards.ca.gov/,,California State Web Template,,https://alert.cdt.ca.gov/,https://www.template.webstandards.ca.gov/state-template/js/cagov.core.min.js,,GTM-PWPX7KD,,
 wedrawthelines.ca.gov,https://wedrawthelines.ca.gov/,,"California Citizens Redistricting Commission | ""Fair Representation - Democracy at Work!""",CAWeb v.1.13.3,,https://wedrawthelines.ca.gov/wp-content/themes/CAWeb/build/caweb-core.min.js?ver=1.13.3,https://wedrawthelines.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47,UA-44798820-1",,
 westnile.ca.gov,https://westnile.ca.gov/,,Westnile.ca.gov | California West Nile Virus Website,,,,https://westnile.ca.gov/assets/vendor/jquery/jquery.min.js,,,
-wheatland.ca.gov,https://www.wheatland.ca.gov/,,,,,,,,,Resource was not loaded. Status: 403
+wheatland.ca.gov,https://www.wheatland.ca.gov/,,,,,,,,ETIMEDOUT,
 wildlife.ca.gov,https://apps.wildlife.ca.gov/,,Apps - California Department of Fish and Wildlife,,,https://cdn.cdt.ca.gov/cdt/statetemplate/6.4.2/js/cagov.core.min.js,,"G-2N4E4MK3J8,GTM-NJ6Q4MV",,
 wildlife.ca.gov,https://calspillwatch.wildlife.ca.gov/,,Cal Spill Watch Home,,,https://calspillwatch.wildlife.ca.gov/Portals/_default/skins/cagov_pasorobles/js/cagov.core.js,https://calspillwatch.wildlife.ca.gov/Resources/libraries/jQuery/03_07_01/jquery.js?cdv=530,G-3TD3C8P5WP,,
 wildlife.ca.gov,https://marinespecies.wildlife.ca.gov/,,CA Marine Species Portal,,,https://marinespecies.wildlife.ca.gov/js/cagov.core.js,https://marinespecies.wildlife.ca.gov/js/libs/jquery.js,G-SGQRQW0TRJ,,
