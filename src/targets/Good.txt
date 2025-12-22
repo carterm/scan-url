@@ -9,7 +9,6 @@ https://apps.wildlife.ca.gov/
 https://aquaculturematters.ca.gov/
 https://arts.ca.gov/
 https://askedd.edd.ca.gov/
-https://barc.ca.gov/
 https://bars.dre.ca.gov/
 https://bawa.ca.gov/
 https://beacon.ca.gov/
@@ -137,6 +136,7 @@ https://heliplates.dot.ca.gov/
 https://hellosavings.ca.gov/
 https://highlandsrec.ca.gov/
 https://hollister.ca.gov/
+https://hsr.ca.gov/
 https://hwts.dtsc.ca.gov/
 https://iep.ca.gov/
 https://ig.dot.ca.gov/
@@ -167,7 +167,6 @@ https://medassist.cdph.ca.gov/
 https://medassistportal.cdph.ca.gov/
 https://metrofire.ca.gov/
 https://mfde.wildlife.ca.gov/
-https://midasweb.energy.ca.gov/
 https://militarycouncil.ca.gov/
 https://mlfd.ca.gov/
 https://mobile.cdpr.ca.gov/
@@ -216,6 +215,7 @@ https://rcpa.ca.gov/
 https://rcwd.ca.gov/
 https://recycledelnorte.ca.gov/
 https://reedley.ca.gov/
+https://registertovote.ca.gov/
 https://report.hcai.ca.gov/
 https://report.oshpd.ca.gov/
 https://resources.ca.gov/
@@ -422,7 +422,6 @@ https://www.hcrc.ca.gov/
 https://www.heber.ca.gov/
 https://www.heritageranchcsd.ca.gov/
 https://www.holtville.ca.gov/
-https://www.hsr.ca.gov/
 https://www.ibank.ca.gov/
 https://www.immigrantguide.ca.gov/
 https://www.insurance.ca.gov/
@@ -479,7 +478,6 @@ https://www.publicpay.ca.gov/
 https://www.rbra.ca.gov/
 https://www.rcb.ca.gov/
 https://www.reducetherisk.ca.gov/
-https://www.registertovote.ca.gov/
 https://www.rn.ca.gov/
 https://www.saccourt.ca.gov/
 https://www.sanbruno.ca.gov/
