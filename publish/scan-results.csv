@@ -1,5 +1,5 @@
 domain,target,redirectURL,title,generator,statewideAlerts,stateTemplate,JQuery,GoogleAnalytics,errorcode,errormessage
-394,521,29,466,171,121,201,331,358,15,31
+395,522,29,466,171,121,201,331,356,15,32
 abag.ca.gov,https://abag.ca.gov/,,Home | Association of Bay Area Governments,Drupal 10 (https://www.drupal.org),,,,G-FE9WWP5YXX,,
 abc.ca.gov,https://www.abc.ca.gov/,,Alcoholic Beverage Control | Trust - Innovation - Professionalism,CAWeb v.1.1.4b,,,,"G-69TD0KNT0F,G-DCG7L67NBP,UA-24087628-11,UA-3419582-2",,
 abcab.ca.gov,https://abcab.ca.gov/,,ABCAB | ABC Appeals Board,CAWeb v.1.13.3,https://alert.cdt.ca.gov/alert.js?ver=1.0.0,https://abcab.ca.gov/wp-content/themes/CAWeb/build/caweb-core.js?ver=1.13.3,https://abcab.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-XYBVW071M5,G-Y7T2KCM7P1,UA-20973992-10,UA-3419582-2,UA-3419582-47",,
@@ -71,7 +71,7 @@ caloes.ca.gov,https://wildfirerecovery.caloes.ca.gov/,,California Statewide Wild
 caloes.ca.gov,https://www.caloes.ca.gov/,,California Governor's Office of Emergency Services | California's Emergency Services Leader,CAWeb v.1.13.0,https://alert.cdt.ca.gov/,https://www.caloes.ca.gov/wp-content/themes/CAWeb-1.13.0/build/caweb-core.min.js?ver=6.9,https://www.caloes.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-MDLYGZX10N,GTM-5JTZCJC,UA-3419582-2,UA-54732306-2",,
 calosba.ca.gov,https://www.calosba.ca.gov/,,California Office of the Small Business Advocate (CalOSBA),CAWeb v.1.5.2a,,,https://www.calosba.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,G-2KMN5NQW5J,,
 calpers.ca.gov,https://www.calpers.ca.gov/,,California Public Employees' Retirement System,Drupal 10 (https://www.drupal.org),,,,"G-EGNB9Q40R8,G-NVPAH5KF7T,GTM-TVMFZD9",,
-calpia.ca.gov,https://www.calpia.ca.gov/,,CALPIA Website » Quality Products. Changed Lives. A Safer California.,,,,https://www.calpia.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-KEC04T63TW,GTM-M833TJP",,
+calpia.ca.gov,https://www.calpia.ca.gov/,,,,,,,,,Resource was not loaded. Status: 403
 calrecycle.ca.gov,https://calrecycle.ca.gov/,,CalRecycle Home Page,CAWeb v.1.13.3,https://alert.cdt.ca.gov/alert.js?ver=1.0.0,https://calrecycle.ca.gov/wp-content/themes/CAWeb/build/caweb-core.min.js?ver=1.13.3,https://calrecycle.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-Y7T2KCM7P1,GTM-WWF6GW5,UA-12131600-15,UA-3419582-2,UA-3419582-47",,
 calrx.ca.gov,https://calrx.ca.gov/,,CalRx - Making prescription drugs more affordable for Californians,WordPress 6.9,,,,"G-69TD0KNT0F,G-B15ZM3C3NN",,
 calsilc.ca.gov,https://calsilc.ca.gov/,,California State Independent Living Council | To create policy and systems change for independent living.,CAWeb v.1.13.3,,https://calsilc.ca.gov/wp-content/themes/CAWeb/build/caweb-core.min.js?ver=1.13.3,https://calsilc.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-69TD0KNT0F,G-9RWNEXS0MN,G-Y7T2KCM7P1,UA-21970760-45,UA-3419582-2,UA-3419582-47",,
@@ -94,7 +94,7 @@ ccusl.ca.gov,https://ccusl.ca.gov/,,Welcome to the California Commission on Unif
 cdcr.ca.gov,https://pass.cdcr.ca.gov/,,,,,,,,UNABLE_TO_VERIFY_LEAF_SIGNATURE,unable to verify the first certificate
 cdcr.ca.gov,https://www.cdcr.ca.gov/,,California Department of Corrections and Rehabilitation - CDCR,,,,,GTM-WWJWHL4,,
 cde.ca.gov,https://cnips.cde.ca.gov/,,,,,,,,,
-cde.ca.gov,https://www.cde.ca.gov/,,California Department of Education,,https://alert.cdt.ca.gov/,,https://www.cde.ca.gov/bootstrap/js/jquery-1.10.2.min.js,G-FXBTGX69YQ,,
+cde.ca.gov,https://www.cde.ca.gov/,,California Department of Education,,https://alert.cdt.ca.gov/,,https://www.cde.ca.gov/bootstrap/js/jquery-1.10.2.min.js,,,
 cdfa.ca.gov,https://piercesdisease.cdfa.ca.gov/,,CDFA - Pierce's Disease Research Updates,,,https://piercesdisease.cdfa.ca.gov/v6/js/cagov.core.js,https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js,GTM-W4BKPB7,,
 cdfa.ca.gov,https://www.cdfa.ca.gov/,,California Department of Food and Agriculture - CDFA,,https://alert.cdt.ca.gov/,https://www.cdfa.ca.gov/v7/ca_state_template/js/cagov.core.js,https://www.cdfa.ca.gov/v7/js/jquery.min.js,"GTM-W4BKPB7,UA-3419582-2",,
 cdii.ca.gov,https://www.cdii.ca.gov/,,Homepage - CDII,All in One SEO (AIOSEO) 4.9.1.1,,,https://www.cdii.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,"G-G7F3RDGPHQ,GTM-MSW2ZV4,UA-1915322-1",,
@@ -136,7 +136,7 @@ cjp.ca.gov,https://cjp.ca.gov/,,CJP | Commission on Judicial Performance,CAWeb v
 climateassessment.ca.gov,https://www.climateassessment.ca.gov/,,California Climate Change Assessment,,,https://www.climateassessment.ca.gov/js/cagov.core.js,https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js,,,
 climateresilience.ca.gov,https://www.climateresilience.ca.gov/,,California Climate Adaptation Strategy 2024,,,https://www.climateresilience.ca.gov/js/cagov.core.js,https://code.jquery.com/jquery-3.6.0.min.js,"G-69TD0KNT0F,G-HTRZSKEXJ7",,
 clrc.ca.gov,https://www.clrc.ca.gov/,,California Law Revision Commission Home,,,,,"UA-24087628-17,UA-3419582-2",,
-clsd.ca.gov,https://clsd.ca.gov/,,Coast Life Support District – Ambulance & collaborative healthcare services for southern Mendocino and northern Sonoma County coastal communities,WordPress 6.9,,,https://clsd.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,G-BACKGROUND,,
+clsd.ca.gov,https://clsd.ca.gov/,,Coast Life Support District – Ambulance & collaborative healthcare services for southern Mendocino and northern Sonoma County coastal communities,WordPress 6.9,,,https://clsd.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,,,
 cnra.ca.gov,https://data.cnra.ca.gov/,,Welcome - California Natural Resources Agency Open Data,ckan 2.9.11,https://alert.cdt.ca.gov/,,https://code.jquery.com/jquery-1.11.0.min.js,"G-L05EYD0Q7Q,G-Q09GQ8WSZJ",,
 cnra.ca.gov,https://futureofwork.cnra.ca.gov/,,Certified Regulatory Programs – Notices of Determination – CEQA requires agencies with Certified Regulatory Programs to file Notices of Decision (NOD) with the California Natural Resources Agency.,Site Kit by Google 1.167.0,https://alert.cdt.ca.gov/,https://futureofwork.cnra.ca.gov/js/cagov.core.js,https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js,"UA-3419582-2,UA-59627195-7",,
 cnra.ca.gov,https://thrive.cnra.ca.gov/,,Thrive @ Resources – Supporting the People Who Power California’s Natural Resources,Site Kit by Google 1.167.0,https://alert.cdt.ca.gov/,https://thrive.cnra.ca.gov/wp-content/themes/CNRA-Entity-Theme/js/cagov.core.min.js?ver=1744317026,https://thrive.cnra.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,G-DC4ZM50NEC,,
@@ -354,6 +354,7 @@ nahc.ca.gov,https://nahc.ca.gov/,,California Native American Heritage Commission
 naturopathic.ca.gov,https://www.naturopathic.ca.gov/,,Department of Consumer Affairs - California Board of Naturopathic Medicine,,,https://www.naturopathic.ca.gov/js/cagov.core.js,https://code.jquery.com/jquery-3.5.1.min.js,"G-3CN4M8F95X,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-13",,
 ncric.ca.gov,https://ncric.ca.gov/,,Public Awareness and Safety Programs |San Francisco Bay Area,WordPress 6.8.3,,,https://ncric.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,,,
 ncsd.ca.gov,https://ncsd.ca.gov/,,"Nipomo Community Services District | NSCD Nipomo, California",Powered by WPBakery Page Builder - drag and drop page builder for WordPress.,,,https://ncsd.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,,,
+nctc.ca.gov,https://www.nctc.ca.gov/,,Nevada County Transportation Commission - Home,,,,https://www.nctc.ca.gov/scripts/jquery-1.11.0.min.js,G-507R801X2W,,
 nmvb.ca.gov,https://www.nmvb.ca.gov/,,NMVB Home Page,,,https://www.nmvb.ca.gov/js/cagov.core.js,https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js,"G-2DWD3387QF,GTM-NFWKKCR,UA-24087628-12",,
 nvta.ca.gov,https://nvta.ca.gov/,,Home - NVTA,,,,https://nvta.ca.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1,,,
 oag.ca.gov,https://www.oag.ca.gov/,,State of California - Department of Justice - Office of the Attorney General,Drupal 7 (http://drupal.org),,,https://code.jquery.com/jquery-1.9.1.min.js,G-6SNZMLLM7F,,
