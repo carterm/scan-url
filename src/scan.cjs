@@ -1,14 +1,8 @@
 //@ts-check
-
+const scanlimit = 40;
 const fs = require("node:fs");
-const { timeoutPromise } = require("./support.cjs");
 const { CreateJsdomPromise } = require("./jsdomwork.cjs");
 const { loadAndSortUrls } = require("./loaders.cjs");
-
-const masterTimeoutMs = parseInt(
-  process.env.SCAN_MASTER_TIMEOUT || (500000).toString(),
-  10
-);
 
 const inputFile = "targets/Good.txt";
 //const inputFile = "targets/Test.txt";
@@ -26,31 +20,35 @@ console.time("Done");
 const processUrls = async () => {
   /** @type {any[]} */
   const errors = [];
+  const pLimit = require("p-limit");
+  const limit = pLimit(scanlimit);
   const results = await Promise.all(
     urls.map(target =>
-      Promise.race([
-        timeoutPromise(masterTimeoutMs),
+      limit(() =>
         CreateJsdomPromise(target, errors)
-      ])
-        .catch(error => ({
-          target,
-          error: { message: error.message, code: error.code }
-        }))
-        .finally(() => {
-          remaining--;
-          console.log(
-            `${target} ...done. ${remaining} remain (${Math.floor((100 * (total - remaining)) / total).toFixed(0)}%).`
-          );
-        })
+          .catch(error => ({
+            target,
+            errormessage: error.message,
+            errorcode: error.code
+          }))
+          .finally(() => {
+            remaining--;
+            console.log(
+              `${target} ...done. ${remaining} remain (${Math.floor((100 * (total - remaining)) / total).toFixed(0)}%).`
+            );
+          })
+      )
     )
   );
 
   // Add any errors reported to the terminal to the results
   errors.forEach(e => {
-    Object.assign(
-      results.find(r => r.target === e.target),
-      e
-    );
+    //console.log(`Adding error for ${e.target}: ${e.error.message}`);
+
+    const targetResult = results.find(r => r.target === e.target);
+    if (targetResult) {
+      //targetResult["domerrror"] = e.error.message;
+    }
   });
 
   // Save results to a JSON file

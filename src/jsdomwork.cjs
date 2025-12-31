@@ -1,12 +1,15 @@
 //@ts-check
 const { JSDOM, VirtualConsole, ResourceLoader } = require("jsdom");
+const { fetch, Agent } = require("undici");
 
+const fetchTimeout = 15000; //15 seconds
 /**
- *
+ * Process the JSDOM object to extract relevant information
  * @param {import("jsdom").JSDOM} dom
  * @param {string} target
+ * @param {import("undici").Response} response
  */
-const processDom = (dom, target) => {
+const processDom = (dom, target, response) => {
   const doc = dom.window.document;
 
   const scripts = [...doc.scripts]
@@ -17,6 +20,7 @@ const processDom = (dom, target) => {
   const code = [...doc.scripts].map(x => `${x.text};${x.src}`).join(";");
   const GA = /GTM-\w{7}|G-\w{10}|UA-\d{7,8}-\d{1,2}/gim;
   const GoogleAnalytics = [...new Set(code.toUpperCase().match(GA))].sort();
+  const headers = Object.fromEntries(response.headers.entries());
 
   //if (target == "https://www.p65warnings.ca.gov/") {
   //  let x = 1;
@@ -56,7 +60,11 @@ const processDom = (dom, target) => {
       x => x.includes("cagov.core") || x.includes("caweb-core")
     ),
     JQuery: scripts.find(x => x.includes("jquery")),
-    GoogleAnalytics: GoogleAnalytics.length ? GoogleAnalytics : undefined
+    GoogleAnalytics: GoogleAnalytics.length ? GoogleAnalytics : undefined,
+    status: response.status,
+    statusText: response.statusText,
+    url: response.url,
+    headers
   };
 };
 
@@ -81,22 +89,48 @@ class CustomResourceLoader extends ResourceLoader {
  * @param {any[]} errors
  */
 const CreateJsdomPromise = async (target, errors) => {
-  // Virtual Console shows errors processing the dom without stopping execution
   const virtualConsole = new VirtualConsole();
   virtualConsole.on("jsdomError", e => {
-    errors.push({
-      target,
-      error: e
-    });
+    errors.push({ target, error: e });
   });
 
-  const dom = await JSDOM.fromURL(target, {
-    //runScripts: "dangerously",
-    //pretendToBeVisual: true,
+  const insecureAgent = new Agent({
+    connect: { rejectUnauthorized: false, timeout: fetchTimeout },
+    bodyTimeout: fetchTimeout, // time allowed for the body to be received
+    headersTimeout: fetchTimeout // time allowed for headers
+  });
+
+  //console.log(`Fetching: ${target}`);
+
+  // Let fetch handle redirects automatically
+  /** @type {import("undici").Response} */
+  let response;
+  try {
+    response = await fetch(target, {
+      dispatcher: insecureAgent,
+      redirect: "follow"
+    });
+  } catch (e) {
+    return {
+      target,
+      // @ts-ignore
+      errorcode: e.message,
+      // @ts-ignore
+      errormessage: e.cause?.message || ""
+    };
+  }
+
+  const finalUrl = response.url;
+
+  const html = await response.text();
+
+  const dom = new JSDOM(html, {
+    url: finalUrl,
     resources: new CustomResourceLoader(),
     virtualConsole
   });
-  return processDom(dom, target);
+
+  return processDom(dom, target, response);
 };
 
 module.exports = { processDom, CreateJsdomPromise };
