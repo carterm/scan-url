@@ -2,8 +2,9 @@
 const { JSDOM, VirtualConsole, ResourceLoader } = require("jsdom");
 const { fetch, Agent } = require("undici");
 
+const fetchTimeout = 15000; //15 seconds
 /**
- *
+ * Process the JSDOM object to extract relevant information
  * @param {import("jsdom").JSDOM} dom
  * @param {string} target
  * @param {import("undici").Response} response
@@ -93,7 +94,11 @@ const CreateJsdomPromise = async (target, errors) => {
     errors.push({ target, error: e });
   });
 
-  const insecureAgent = new Agent({ connect: { rejectUnauthorized: false } });
+  const insecureAgent = new Agent({
+    connect: { rejectUnauthorized: false, timeout: fetchTimeout },
+    bodyTimeout: fetchTimeout, // time allowed for the body to be received
+    headersTimeout: fetchTimeout // time allowed for headers
+  });
 
   //console.log(`Fetching: ${target}`);
 

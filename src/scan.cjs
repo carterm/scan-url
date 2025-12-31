@@ -1,5 +1,5 @@
 //@ts-check
-const scanlimit = 50;
+const scanlimit = 40;
 const fs = require("node:fs");
 const { CreateJsdomPromise } = require("./jsdomwork.cjs");
 const { loadAndSortUrls } = require("./loaders.cjs");
