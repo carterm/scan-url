@@ -1,12 +1,12 @@
 //@ts-check
 const { JSDOM, VirtualConsole, ResourceLoader } = require("jsdom");
-//const https = require("https");
+const { fetch, Agent } = require("undici");
 
 /**
  *
  * @param {import("jsdom").JSDOM} dom
  * @param {string} target
- * @param {Response} response
+ * @param {import("undici").Response} response
  */
 const processDom = (dom, target, response) => {
   const doc = dom.window.document;
@@ -93,21 +93,26 @@ const CreateJsdomPromise = async (target, errors) => {
     errors.push({ target, error: e });
   });
 
-  //const insecureAgent = new https.Agent({ rejectUnauthorized: false });
+  const insecureAgent = new Agent({ connect: { rejectUnauthorized: false } });
 
-  console.log(`Fetching: ${target}`);
+  //console.log(`Fetching: ${target}`);
 
   // Let fetch handle redirects automatically
-  /** @type {Response} */
+  /** @type {import("undici").Response} */
   let response;
   try {
     response = await fetch(target, {
-      //agent: insecureAgent,
+      dispatcher: insecureAgent,
       redirect: "follow"
     });
   } catch (e) {
-    // @ts-ignore
-    return { target, errorcode: e.cause.code, errormessage: e.cause.message };
+    return {
+      target,
+      // @ts-ignore
+      errorcode: e.message,
+      // @ts-ignore
+      errormessage: e.cause?.message || ""
+    };
   }
 
   const finalUrl = response.url;
