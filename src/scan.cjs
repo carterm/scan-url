@@ -34,7 +34,7 @@ const processUrls = async () => {
       ])
         .catch(error => ({
           target,
-          error: { message: error.message, code: error.code }
+          error: { message: error.message, code: error.cause?.code }
         }))
         .finally(() => {
           remaining--;

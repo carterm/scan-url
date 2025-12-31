@@ -1,12 +1,14 @@
 //@ts-check
 const { JSDOM, VirtualConsole, ResourceLoader } = require("jsdom");
+const https = require("https");
 
 /**
  *
  * @param {import("jsdom").JSDOM} dom
  * @param {string} target
+ * @param {Response} response
  */
-const processDom = (dom, target) => {
+const processDom = (dom, target, response) => {
   const doc = dom.window.document;
 
   const scripts = [...doc.scripts]
@@ -17,6 +19,7 @@ const processDom = (dom, target) => {
   const code = [...doc.scripts].map(x => `${x.text};${x.src}`).join(";");
   const GA = /GTM-\w{7}|G-\w{10}|UA-\d{7,8}-\d{1,2}/gim;
   const GoogleAnalytics = [...new Set(code.toUpperCase().match(GA))].sort();
+  const headers = Object.fromEntries(response.headers.entries());
 
   //if (target == "https://www.p65warnings.ca.gov/") {
   //  let x = 1;
@@ -56,7 +59,8 @@ const processDom = (dom, target) => {
       x => x.includes("cagov.core") || x.includes("caweb-core")
     ),
     JQuery: scripts.find(x => x.includes("jquery")),
-    GoogleAnalytics: GoogleAnalytics.length ? GoogleAnalytics : undefined
+    GoogleAnalytics: GoogleAnalytics.length ? GoogleAnalytics : undefined,
+    headers
   };
 };
 
@@ -81,22 +85,29 @@ class CustomResourceLoader extends ResourceLoader {
  * @param {any[]} errors
  */
 const CreateJsdomPromise = async (target, errors) => {
-  // Virtual Console shows errors processing the dom without stopping execution
   const virtualConsole = new VirtualConsole();
   virtualConsole.on("jsdomError", e => {
-    errors.push({
-      target,
-      error: e
-    });
+    errors.push({ target, error: e });
   });
 
-  const dom = await JSDOM.fromURL(target, {
-    //runScripts: "dangerously",
-    //pretendToBeVisual: true,
+  const insecureAgent = new https.Agent({ rejectUnauthorized: false });
+
+  // Let fetch handle redirects automatically
+  const response = await fetch(target, {
+    //agent: insecureAgent,
+    redirect: "follow"
+  });
+
+  const finalUrl = response.url;
+  const html = await response.text();
+
+  const dom = new JSDOM(html, {
+    url: finalUrl,
     resources: new CustomResourceLoader(),
     virtualConsole
   });
-  return processDom(dom, target);
+
+  return processDom(dom, finalUrl, response);
 };
 
 module.exports = { processDom, CreateJsdomPromise };
