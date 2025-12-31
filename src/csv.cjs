@@ -13,7 +13,6 @@ const data = require("../_results/results.json");
  * - null/undefined → ""
  * - ≤ 50 chars → original string
  * - > 50 chars → first 50 chars + "…"
- *
  * @param {string | null | undefined} value
  * @returns {string}
  */
