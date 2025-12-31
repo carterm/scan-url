@@ -26,22 +26,27 @@ console.time("Done");
 const processUrls = async () => {
   /** @type {any[]} */
   const errors = [];
+  const pLimit = require("p-limit");
+  const limit = pLimit(5); // run 5 at a time
+
   const results = await Promise.all(
     urls.map(target =>
-      Promise.race([
-        timeoutPromise(masterTimeoutMs),
-        CreateJsdomPromise(target, errors)
-      ])
-        .catch(error => ({
-          target,
-          error: { message: error.message, code: error.cause?.code }
-        }))
-        .finally(() => {
-          remaining--;
-          console.log(
-            `${target} ...done. ${remaining} remain (${Math.floor((100 * (total - remaining)) / total).toFixed(0)}%).`
-          );
-        })
+      limit(() =>
+        Promise.race([
+          timeoutPromise(masterTimeoutMs),
+          CreateJsdomPromise(target, errors)
+        ])
+          .catch(error => ({
+            target,
+            error: { message: error.message, code: error.cause?.code }
+          }))
+          .finally(() => {
+            remaining--;
+            console.log(
+              `${target} ...done. ${remaining} remain (${Math.floor((100 * (total - remaining)) / total).toFixed(0)}%).`
+            );
+          })
+      )
     )
   );
 

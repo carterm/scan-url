@@ -92,6 +92,8 @@ const CreateJsdomPromise = async (target, errors) => {
 
   const insecureAgent = new https.Agent({ rejectUnauthorized: false });
 
+  console.log(`Fetching: ${target}`);
+
   // Let fetch handle redirects automatically
   const response = await fetch(target, {
     //agent: insecureAgent,
@@ -99,6 +101,7 @@ const CreateJsdomPromise = async (target, errors) => {
   });
 
   const finalUrl = response.url;
+
   const html = await response.text();
 
   const dom = new JSDOM(html, {
@@ -107,7 +110,7 @@ const CreateJsdomPromise = async (target, errors) => {
     virtualConsole
   });
 
-  return processDom(dom, finalUrl, response);
+  return processDom(dom, target, response);
 };
 
 module.exports = { processDom, CreateJsdomPromise };
