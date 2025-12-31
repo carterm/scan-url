@@ -1,14 +1,8 @@
 //@ts-check
 
 const fs = require("node:fs");
-const { timeoutPromise } = require("./support.cjs");
 const { CreateJsdomPromise } = require("./jsdomwork.cjs");
 const { loadAndSortUrls } = require("./loaders.cjs");
-
-const masterTimeoutMs = parseInt(
-  process.env.SCAN_MASTER_TIMEOUT || (500000).toString(),
-  10
-);
 
 const inputFile = "targets/Good.txt";
 //const inputFile = "targets/Test.txt";
@@ -27,18 +21,15 @@ const processUrls = async () => {
   /** @type {any[]} */
   const errors = [];
   const pLimit = require("p-limit");
-  const limit = pLimit(5); // run 5 at a time
+  const limit = pLimit(20); // run 5 at a time
 
   const results = await Promise.all(
     urls.map(target =>
       limit(() =>
-        Promise.race([
-          timeoutPromise(masterTimeoutMs),
-          CreateJsdomPromise(target, errors)
-        ])
+        CreateJsdomPromise(target, errors)
           .catch(error => ({
             target,
-            error: { message: error.message, code: error.cause?.code }
+            error: { message: error.message, code: error.code }
           }))
           .finally(() => {
             remaining--;
@@ -52,6 +43,7 @@ const processUrls = async () => {
 
   // Add any errors reported to the terminal to the results
   errors.forEach(e => {
+    console.log(`Adding error for ${e.target}: ${e.error.message}`);
     Object.assign(
       results.find(r => r.target === e.target),
       e

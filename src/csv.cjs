@@ -21,8 +21,8 @@ const data = require("../_results/results.json");
       stateTemplate: data.filter(x => x.stateTemplate).length,
       JQuery: data.filter(x => x.JQuery).length,
       GoogleAnalytics: data.filter(x => x.GoogleAnalytics).length,
-      errorcode: data.filter(x => x.error?.code).length,
-      errormessage: data.filter(x => x.error?.message).length
+      errorcode: data.filter(x => x.errorcode).length,
+      errormessage: data.filter(x => x.errormessage).length
     },
     ...data
       .map(row => ({
@@ -38,8 +38,8 @@ const data = require("../_results/results.json");
         GoogleAnalytics: row.GoogleAnalytics
           ? row.GoogleAnalytics.join(",")
           : "",
-        errorcode: row.error?.code || "",
-        errormessage: row.error?.message || ""
+        errorcode: row.errorcode || "",
+        errormessage: row.errormessage || ""
       }))
       .sort((a, b) => {
         if (a.domain > b.domain) return 1;

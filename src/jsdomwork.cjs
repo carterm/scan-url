@@ -1,6 +1,6 @@
 //@ts-check
 const { JSDOM, VirtualConsole, ResourceLoader } = require("jsdom");
-const https = require("https");
+//const https = require("https");
 
 /**
  *
@@ -60,6 +60,9 @@ const processDom = (dom, target, response) => {
     ),
     JQuery: scripts.find(x => x.includes("jquery")),
     GoogleAnalytics: GoogleAnalytics.length ? GoogleAnalytics : undefined,
+    status: response.status,
+    statusText: response.statusText,
+    url: response.url,
     headers
   };
 };
@@ -90,15 +93,22 @@ const CreateJsdomPromise = async (target, errors) => {
     errors.push({ target, error: e });
   });
 
-  const insecureAgent = new https.Agent({ rejectUnauthorized: false });
+  //const insecureAgent = new https.Agent({ rejectUnauthorized: false });
 
   console.log(`Fetching: ${target}`);
 
   // Let fetch handle redirects automatically
-  const response = await fetch(target, {
-    //agent: insecureAgent,
-    redirect: "follow"
-  });
+  /** @type {Response} */
+  let response;
+  try {
+    response = await fetch(target, {
+      //agent: insecureAgent,
+      redirect: "follow"
+    });
+  } catch (e) {
+    // @ts-ignore
+    return { target, errorcode: e.cause.code, errormessage: e.cause.message };
+  }
 
   const finalUrl = response.url;
 
