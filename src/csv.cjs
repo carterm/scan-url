@@ -8,6 +8,21 @@ console.time("Done");
 
 const data = require("../_results/results.json");
 
+/**
+ * Returns a safe 50‑character preview of a string.
+ * - null/undefined → ""
+ * - ≤ 50 chars → original string
+ * - > 50 chars → first 50 chars + "…"
+ *
+ * @param {string | null | undefined} value
+ * @returns {string}
+ */
+function preview50(value) {
+  if (typeof value !== "string") return "";
+
+  return value.length > 50 ? `${value.slice(0, 50)}...` : value;
+}
+
 (() => {
   const resultData = [
     {
@@ -31,8 +46,8 @@ const data = require("../_results/results.json");
         domain: (row.target.match(/\W*([\w-]*\.ca\.gov)/) || [])[1] || "",
         target: row.target,
         status: row.status || "",
-        redirectURL: row.redirectURL || "",
-        title: row.title || "",
+        redirectURL: preview50(row.redirectURL),
+        title: preview50(row.title),
         generator: row.generator || "",
         "x-powered-by": row.headers?.["x-powered-by"] || "",
         server: row.headers?.["server"] || "",
