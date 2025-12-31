@@ -1,5 +1,5 @@
 //@ts-check
-
+const scanlimit = 50;
 const fs = require("node:fs");
 const { CreateJsdomPromise } = require("./jsdomwork.cjs");
 const { loadAndSortUrls } = require("./loaders.cjs");
@@ -21,15 +21,15 @@ const processUrls = async () => {
   /** @type {any[]} */
   const errors = [];
   const pLimit = require("p-limit");
-  const limit = pLimit(20); // run 5 at a time
-
+  const limit = pLimit(scanlimit);
   const results = await Promise.all(
     urls.map(target =>
       limit(() =>
         CreateJsdomPromise(target, errors)
           .catch(error => ({
             target,
-            error: { message: error.message, code: error.code }
+            errormessage: error.message,
+            errorcode: error.code
           }))
           .finally(() => {
             remaining--;
@@ -43,11 +43,12 @@ const processUrls = async () => {
 
   // Add any errors reported to the terminal to the results
   errors.forEach(e => {
-    console.log(`Adding error for ${e.target}: ${e.error.message}`);
-    Object.assign(
-      results.find(r => r.target === e.target),
-      e
-    );
+    //console.log(`Adding error for ${e.target}: ${e.error.message}`);
+
+    const targetResult = results.find(r => r.target === e.target);
+    if (targetResult) {
+      //targetResult["domerrror"] = e.error.message;
+    }
   });
 
   // Save results to a JSON file

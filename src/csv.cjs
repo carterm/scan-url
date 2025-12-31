@@ -13,6 +13,7 @@ const data = require("../_results/results.json");
     {
       domain: 0,
       target: data.length,
+      status: data.filter(x => x.status).length,
       redirectURL: data.filter(x => x.redirectURL).length,
       title: data.filter(x => x.title).length,
       generator: data.filter(x => x.generator).length,
@@ -28,6 +29,7 @@ const data = require("../_results/results.json");
       .map(row => ({
         domain: (row.target.match(/\W*([\w-]*\.ca\.gov)/) || [])[1] || "",
         target: row.target,
+        status: row.status || "",
         redirectURL: row.redirectURL || "",
         title: row.title || "",
         generator: row.generator || "",
