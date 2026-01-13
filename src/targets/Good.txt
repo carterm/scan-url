@@ -184,7 +184,7 @@ https://oal.ca.gov/
 https://ociac.ca.gov/
 https://oehha.ca.gov/
 https://ohp.parks.ca.gov/
-https://onlineservices.cdtfa.ca.gov/_/
+https://onlineservices.cdtfa.ca.gov/
 https://osfm.fire.ca.gov/
 https://osg.ca.gov/
 https://osi.ca.gov/
@@ -202,7 +202,7 @@ https://pointarena.ca.gov/
 https://portal.dhcs.ca.gov/
 https://portal.hsr.ca.gov/
 https://post.ca.gov/
-https://postmile.dot.ca.gov/
+https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html
 https://ppmoe.dot.ca.gov/cc
 https://privacy.ca.gov/
 https://prod.sites.ca.gov/
@@ -322,7 +322,7 @@ https://www.calhr.ca.gov/
 https://www.californiadgstats.ca.gov/
 https://www.californianature.ca.gov/
 https://www.californiavolunteers.ca.gov/
-https://www.caljobs.ca.gov/
+https://www.caljobs.ca.gov/vosnet/default.aspx
 https://www.caloes.ca.gov/
 https://www.calosba.ca.gov/
 https://www.calpers.ca.gov/
@@ -386,7 +386,7 @@ https://www.dhcs.ca.gov/
 https://www.dir.ca.gov/
 https://www.dmac.ca.gov/
 https://www.dmhc.ca.gov/
-https://www.dmv.ca.gov/
+https://www.dmv.ca.gov/portal/
 https://www.domainnamerequest.cdt.ca.gov/
 https://www.dor.ca.gov/
 https://www.dre.ca.gov/
