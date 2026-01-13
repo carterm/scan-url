@@ -13,3 +13,6 @@
   https://ceqanet.opr.ca.gov/
   https://barc.ca.gov/
   https://www.calpia.ca.gov/
+  https://www.opa.ca.gov/
+  https://www.dfg.ca.gov/
+  https://webutil.csac.ca.gov/
