@@ -22,6 +22,18 @@ function preview50(value) {
   return value.length > 50 ? `${value.slice(0, 50)}...` : value;
 }
 
+/**
+ *
+ * @param {number} [duration]
+ */
+const DurationShow = duration => {
+  if (duration && duration > 3) {
+    return duration;
+  } else {
+    return "";
+  }
+};
+
 (() => {
   const resultData = [
     {
@@ -33,6 +45,7 @@ function preview50(value) {
       generator: data.filter(x => x.generator).length,
       "x-powered-by": data.filter(x => x.headers?.["x-powered-by"]).length,
       server: data.filter(x => x.headers?.["server"]).length,
+      slowResponse: data.filter(x => DurationShow(x.duration)).length,
       statewideAlerts: data.filter(x => x.statewideAlerts).length,
       stateTemplate: data.filter(x => x.stateTemplate).length,
       JQuery: data.filter(x => x.JQuery).length,
@@ -50,6 +63,7 @@ function preview50(value) {
         generator: row.generator || "",
         "x-powered-by": row.headers?.["x-powered-by"] || "",
         server: row.headers?.["server"] || "",
+        slowResponse: DurationShow(row.duration),
         statewideAlerts: row.statewideAlerts || "",
         stateTemplate: row.stateTemplate || "",
         JQuery: row.JQuery || "",

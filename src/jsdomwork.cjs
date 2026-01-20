@@ -1,6 +1,7 @@
 //@ts-check
 const { JSDOM, VirtualConsole, ResourceLoader } = require("jsdom");
 const { fetch, Agent } = require("undici");
+const { performance } = require("node:perf_hooks");
 
 const fetchTimeout = 15000; //15 seconds
 /**
@@ -8,8 +9,9 @@ const fetchTimeout = 15000; //15 seconds
  * @param {import("jsdom").JSDOM} dom
  * @param {string} target
  * @param {import("undici").Response} response
+ * @param {number} duration
  */
-const processDom = (dom, target, response) => {
+const processDom = (dom, target, response, duration) => {
   const doc = dom.window.document;
 
   const scripts = [...doc.scripts]
@@ -64,6 +66,7 @@ const processDom = (dom, target, response) => {
     status: response.status,
     statusText: response.statusText,
     url: response.url,
+    duration,
     headers
   };
 };
@@ -102,6 +105,9 @@ const CreateJsdomPromise = async (target, errors) => {
 
   //console.log(`Fetching: ${target}`);
 
+  const start = performance.now();
+  //console.time(`Fetching: ${target}`);
+
   // Let fetch handle redirects automatically
   /** @type {import("undici").Response} */
   let response;
@@ -119,6 +125,9 @@ const CreateJsdomPromise = async (target, errors) => {
       errormessage: e.cause?.message || ""
     };
   }
+  const end = performance.now();
+  const duration = Math.round((end - start) / 1000);
+  //console.log(`Fetching ${target} took ${durationMs.toFixed(2)} ms`);
 
   const finalUrl = response.url;
 
@@ -129,8 +138,9 @@ const CreateJsdomPromise = async (target, errors) => {
     resources: new CustomResourceLoader(),
     virtualConsole
   });
+  //console.timeEnd(`Fetching: ${target}`);
 
-  return processDom(dom, target, response);
+  return processDom(dom, target, response, duration);
 };
 
 module.exports = { processDom, CreateJsdomPromise };
