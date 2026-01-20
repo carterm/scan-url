@@ -107,7 +107,7 @@ https://eocs.dre.ca.gov/
 https://escog.ca.gov/
 https://etp.ca.gov/
 https://ets.cdpr.ca.gov/
-https://evq.dtsc.ca.gov/
+https://evq.dtsc.ca.gov/Home.aspx
 https://expositionpark.ca.gov/
 https://familieschange.ca.gov/
 https://ferix.water.ca.gov/webapp/home.jsp
@@ -117,10 +117,10 @@ https://files.resources.ca.gov/
 https://film.ca.gov/
 https://findanewway.ca.gov/wp-login.php
 https://fiscal.ca.gov/
-https://forms.edd.ca.gov/
+https://forms.edd.ca.gov/Forms
 https://fosteryouthhelp.ca.gov/
 https://futureofwork.cnra.ca.gov/
-https://gamagroundwater.waterboards.ca.gov/
+https://gamagroundwater.waterboards.ca.gov/gama/gamamap/public/
 https://gcc.sco.ca.gov/
 https://geosteam.conservation.ca.gov/
 https://geotracker.waterboards.ca.gov/
