@@ -96,7 +96,6 @@ https://driveclean.ca.gov/
 https://dtsc.ca.gov/
 https://eaap.ca.gov/
 https://ears.dre.ca.gov/
-https://earthquake.ca.gov/
 https://ebudget.ca.gov/
 https://ecos.ca.gov/Login.aspx
 https://edd.ca.gov/
@@ -393,6 +392,7 @@ https://www.dre.ca.gov/
 https://www.drinc.ca.gov/
 https://www.dsh.ca.gov/
 https://www.dublin.ca.gov/
+https://www.earthquake.ca.gov/
 https://www.ebtproject.ca.gov/
 https://www.eldoradocounty.ca.gov/Home
 https://www.energy.ca.gov/
