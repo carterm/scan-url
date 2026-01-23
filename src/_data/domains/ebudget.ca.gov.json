@@ -1,6 +1,6 @@
 {
   "domain": "ebudget.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://ebudget.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

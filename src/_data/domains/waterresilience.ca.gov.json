@@ -1,6 +1,6 @@
 {
   "domain": "waterresilience.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.waterresilience.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

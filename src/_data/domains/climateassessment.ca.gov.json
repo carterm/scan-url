@@ -1,6 +1,6 @@
 {
   "domain": "climateassessment.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.climateassessment.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

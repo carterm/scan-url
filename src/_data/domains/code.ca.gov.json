@@ -1,6 +1,6 @@
 {
   "domain": "code.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://code.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

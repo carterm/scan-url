@@ -1,6 +1,6 @@
 {
   "domain": "tahoe.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://tahoe.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

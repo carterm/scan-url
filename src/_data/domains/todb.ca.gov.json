@@ -1,6 +1,6 @@
 {
   "domain": "todb.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://todb.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "chp.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.chp.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

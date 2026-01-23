@@ -1,6 +1,6 @@
 {
   "domain": "oycr.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://oycr.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "cdss.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.cdss.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

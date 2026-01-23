@@ -1,6 +1,6 @@
 {
   "domain": "saltonsea.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://saltonsea.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

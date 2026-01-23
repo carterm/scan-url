@@ -1,6 +1,6 @@
 {
   "domain": "firewood.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.firewood.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

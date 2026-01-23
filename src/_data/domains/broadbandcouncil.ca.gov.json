@@ -1,6 +1,6 @@
 {
   "domain": "broadbandcouncil.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://broadbandcouncil.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

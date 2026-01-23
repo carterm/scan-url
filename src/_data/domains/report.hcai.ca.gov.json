@@ -1,6 +1,6 @@
 {
   "domain": "report.hcai.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://report.hcai.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

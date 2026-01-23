@@ -1,6 +1,6 @@
 {
   "domain": "calepa.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://calepa.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "speechandhearing.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.speechandhearing.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "liob.cpuc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://liob.cpuc.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

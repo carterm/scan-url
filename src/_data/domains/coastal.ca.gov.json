@@ -1,6 +1,6 @@
 {
   "domain": "coastal.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.coastal.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

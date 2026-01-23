@@ -1,6 +1,6 @@
 {
   "domain": "careereducation.gov.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://careereducation.gov.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

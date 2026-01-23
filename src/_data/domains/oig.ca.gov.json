@@ -1,6 +1,6 @@
 {
   "domain": "oig.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.oig.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

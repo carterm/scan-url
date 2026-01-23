@@ -1,6 +1,6 @@
 {
   "domain": "c2c.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://c2c.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

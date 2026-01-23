@@ -1,6 +1,6 @@
 {
   "domain": "californianature.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.californianature.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

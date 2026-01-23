@@ -1,6 +1,6 @@
 {
   "domain": "post.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://post.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

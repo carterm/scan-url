@@ -1,6 +1,6 @@
 {
   "domain": "medassist.cdph.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://medassist.cdph.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "tacc.ccoa.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://tacc.ccoa.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

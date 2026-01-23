@@ -1,6 +1,6 @@
 {
   "domain": "myedd.edd.ca.gov",
-  "targetURL": "/s/login/",
+  "targetURL": "https://myedd.edd.ca.gov/s/login/?language=en_US",
   "www": false,
   "active": true,
   "includeInScan": true,

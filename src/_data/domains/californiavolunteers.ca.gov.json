@@ -1,6 +1,6 @@
 {
   "domain": "californiavolunteers.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.californiavolunteers.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

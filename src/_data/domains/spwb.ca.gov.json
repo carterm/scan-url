@@ -1,6 +1,6 @@
 {
   "domain": "spwb.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://spwb.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

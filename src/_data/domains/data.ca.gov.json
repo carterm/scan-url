@@ -1,6 +1,6 @@
 {
   "domain": "data.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://data.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

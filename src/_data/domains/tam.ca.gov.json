@@ -1,6 +1,6 @@
 {
   "domain": "tam.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.tam.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

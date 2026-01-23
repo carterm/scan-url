@@ -1,6 +1,6 @@
 {
   "domain": "loomis.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://loomis.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

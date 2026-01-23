@@ -1,6 +1,6 @@
 {
   "domain": "onlineservices.cdtfa.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://onlineservices.cdtfa.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "spot.cdph.ca.gov",
-  "targetURL": "/s/",
+  "targetURL": "https://spot.cdph.ca.gov/s/?language=en_US",
   "www": false,
   "active": true,
   "includeInScan": true,

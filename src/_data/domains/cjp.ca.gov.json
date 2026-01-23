@@ -1,6 +1,6 @@
 {
   "domain": "cjp.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://cjp.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

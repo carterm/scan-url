@@ -1,6 +1,6 @@
 {
   "domain": "dmhc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.dmhc.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

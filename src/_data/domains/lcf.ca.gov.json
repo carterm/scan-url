@@ -1,6 +1,6 @@
 {
   "domain": "lcf.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://lcf.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

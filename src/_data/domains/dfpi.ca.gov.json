@@ -1,6 +1,6 @@
 {
   "domain": "dfpi.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://dfpi.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

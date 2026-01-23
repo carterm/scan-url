@@ -1,6 +1,6 @@
 {
   "domain": "contracosta.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.contracosta.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

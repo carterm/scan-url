@@ -1,6 +1,6 @@
 {
   "domain": "taxes.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://taxes.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "gcc.sco.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://gcc.sco.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

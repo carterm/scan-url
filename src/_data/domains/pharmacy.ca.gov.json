@@ -1,6 +1,6 @@
 {
   "domain": "pharmacy.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.pharmacy.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

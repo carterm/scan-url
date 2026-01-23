@@ -1,6 +1,6 @@
 {
   "domain": "hcrc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.hcrc.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

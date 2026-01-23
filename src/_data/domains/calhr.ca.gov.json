@@ -1,6 +1,6 @@
 {
   "domain": "calhr.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.calhr.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

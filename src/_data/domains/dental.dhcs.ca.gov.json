@@ -1,6 +1,6 @@
 {
   "domain": "dental.dhcs.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.dental.dhcs.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

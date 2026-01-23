@@ -1,6 +1,6 @@
 {
   "domain": "montereypark.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.montereypark.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

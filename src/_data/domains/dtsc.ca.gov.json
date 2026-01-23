@@ -1,6 +1,6 @@
 {
   "domain": "dtsc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://dtsc.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "latc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.latc.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

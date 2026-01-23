@@ -1,6 +1,6 @@
 {
   "domain": "reedley.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://reedley.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

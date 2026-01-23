@@ -1,6 +1,6 @@
 {
   "domain": "sdcourt.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.sdcourt.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

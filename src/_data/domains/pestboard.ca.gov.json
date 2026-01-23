@@ -1,6 +1,6 @@
 {
   "domain": "pestboard.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.pestboard.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

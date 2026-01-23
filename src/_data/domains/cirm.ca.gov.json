@@ -1,6 +1,6 @@
 {
   "domain": "cirm.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.cirm.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

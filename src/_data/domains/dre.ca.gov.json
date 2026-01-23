@@ -1,6 +1,6 @@
 {
   "domain": "dre.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.dre.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "data.cnra.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://data.cnra.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

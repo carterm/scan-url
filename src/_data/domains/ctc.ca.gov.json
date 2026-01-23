@@ -1,6 +1,6 @@
 {
   "domain": "ctc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.ctc.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

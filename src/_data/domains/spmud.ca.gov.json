@@ -1,6 +1,6 @@
 {
   "domain": "spmud.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://spmud.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

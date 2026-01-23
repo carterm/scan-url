@@ -1,6 +1,6 @@
 {
   "domain": "fire.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.fire.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

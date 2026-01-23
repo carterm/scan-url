@@ -1,6 +1,6 @@
 {
   "domain": "pass.post.ca.gov",
-  "targetURL": "/login",
+  "targetURL": "https://pass.post.ca.gov/login",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "mcweb.apps.prd.cammis.medi-cal.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://mcweb.apps.prd.cammis.medi-cal.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

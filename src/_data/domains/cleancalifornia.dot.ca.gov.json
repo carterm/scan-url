@@ -1,6 +1,6 @@
 {
   "domain": "cleancalifornia.dot.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://cleancalifornia.dot.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

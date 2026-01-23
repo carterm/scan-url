@@ -1,6 +1,6 @@
 {
   "domain": "csdr-cde.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.csdr-cde.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

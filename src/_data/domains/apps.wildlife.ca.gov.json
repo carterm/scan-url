@@ -1,6 +1,6 @@
 {
   "domain": "apps.wildlife.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://apps.wildlife.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

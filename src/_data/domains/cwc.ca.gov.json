@@ -1,6 +1,6 @@
 {
   "domain": "cwc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://cwc.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

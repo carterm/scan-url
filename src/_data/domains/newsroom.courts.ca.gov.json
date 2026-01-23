@@ -1,6 +1,6 @@
 {
   "domain": "newsroom.courts.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://newsroom.courts.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

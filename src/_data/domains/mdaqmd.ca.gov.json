@@ -1,6 +1,6 @@
 {
   "domain": "mdaqmd.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.mdaqmd.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

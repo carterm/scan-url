@@ -1,6 +1,6 @@
 {
   "domain": "nctc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.nctc.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

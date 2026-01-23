@@ -1,6 +1,6 @@
 {
   "domain": "dc-cde.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.dc-cde.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "dcs-cde.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.dcs-cde.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

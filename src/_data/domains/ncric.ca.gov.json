@@ -1,6 +1,6 @@
 {
   "domain": "ncric.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://ncric.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

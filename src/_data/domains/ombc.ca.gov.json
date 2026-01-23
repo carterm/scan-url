@@ -1,6 +1,6 @@
 {
   "domain": "ombc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.ombc.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

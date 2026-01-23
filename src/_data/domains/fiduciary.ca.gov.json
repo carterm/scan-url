@@ -1,6 +1,6 @@
 {
   "domain": "fiduciary.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.fiduciary.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

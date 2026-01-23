@@ -1,6 +1,6 @@
 {
   "domain": "ccusl.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://ccusl.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

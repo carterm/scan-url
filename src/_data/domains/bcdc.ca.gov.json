@@ -1,6 +1,6 @@
 {
   "domain": "bcdc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.bcdc.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

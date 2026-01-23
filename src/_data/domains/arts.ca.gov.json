@@ -1,6 +1,6 @@
 {
   "domain": "arts.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://arts.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

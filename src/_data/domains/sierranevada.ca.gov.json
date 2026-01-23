@@ -1,6 +1,6 @@
 {
   "domain": "sierranevada.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://sierranevada.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

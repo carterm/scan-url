@@ -1,6 +1,6 @@
 {
   "domain": "soir.senate.ca.gov",
-  "targetURL": "/committeehome",
+  "targetURL": "https://soir.senate.ca.gov/committeehome",
   "www": false,
   "active": true,
   "includeInScan": true,

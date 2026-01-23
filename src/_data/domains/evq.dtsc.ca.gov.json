@@ -1,6 +1,6 @@
 {
   "domain": "evq.dtsc.ca.gov",
-  "targetURL": "/Home.aspx",
+  "targetURL": "https://evq.dtsc.ca.gov/Home.aspx",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "gov.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.gov.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "fosteryouthhelp.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://fosteryouthhelp.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

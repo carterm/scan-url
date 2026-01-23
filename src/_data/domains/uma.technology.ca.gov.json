@@ -1,6 +1,6 @@
 {
   "domain": "uma.technology.ca.gov",
-  "targetURL": "/Account/Login",
+  "targetURL": "https://uma.technology.ca.gov/Account/Login",
   "www": false,
   "active": true,
   "includeInScan": true,

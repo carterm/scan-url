@@ -1,6 +1,6 @@
 {
   "domain": "ohp.parks.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://ohp.parks.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

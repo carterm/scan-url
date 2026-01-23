@@ -1,6 +1,6 @@
 {
   "domain": "ccap.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.ccap.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

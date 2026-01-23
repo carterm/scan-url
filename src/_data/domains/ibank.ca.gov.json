@@ -1,6 +1,6 @@
 {
   "domain": "ibank.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.ibank.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

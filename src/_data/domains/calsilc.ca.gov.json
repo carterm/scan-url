@@ -1,6 +1,6 @@
 {
   "domain": "calsilc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://calsilc.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

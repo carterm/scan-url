@@ -1,6 +1,6 @@
 {
   "domain": "slc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.slc.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

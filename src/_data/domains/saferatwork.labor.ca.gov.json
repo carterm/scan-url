@@ -1,6 +1,6 @@
 {
   "domain": "saferatwork.labor.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://saferatwork.labor.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

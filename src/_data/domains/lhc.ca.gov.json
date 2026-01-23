@@ -1,6 +1,6 @@
 {
   "domain": "lhc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://lhc.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

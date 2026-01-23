@@ -1,6 +1,6 @@
 {
   "domain": "vmb.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.vmb.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "sprls.dre.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://sprls.dre.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

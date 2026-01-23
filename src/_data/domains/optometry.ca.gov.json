@@ -1,6 +1,6 @@
 {
   "domain": "optometry.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.optometry.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

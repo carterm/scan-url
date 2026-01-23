@@ -1,6 +1,6 @@
 {
   "domain": "bpelsg.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.bpelsg.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

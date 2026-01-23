@@ -1,6 +1,6 @@
 {
   "domain": "hellosavings.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://hellosavings.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

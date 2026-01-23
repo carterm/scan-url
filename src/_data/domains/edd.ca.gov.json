@@ -1,6 +1,6 @@
 {
   "domain": "edd.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://edd.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

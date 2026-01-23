@@ -1,6 +1,6 @@
 {
   "domain": "burnpermit.fire.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://burnpermit.fire.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

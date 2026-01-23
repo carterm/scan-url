@@ -1,6 +1,6 @@
 {
   "domain": "tehamajuryservices.ca.gov",
-  "targetURL": "/login",
+  "targetURL": "https://tehamajuryservices.ca.gov/login",
   "www": false,
   "active": true,
   "includeInScan": true,

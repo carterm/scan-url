@@ -1,6 +1,6 @@
 {
   "domain": "rbra.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.rbra.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

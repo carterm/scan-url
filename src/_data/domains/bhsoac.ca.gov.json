@@ -1,6 +1,6 @@
 {
   "domain": "bhsoac.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://bhsoac.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "cwds.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://cwds.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "pmbc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.pmbc.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

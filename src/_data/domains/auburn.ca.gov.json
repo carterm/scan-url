@@ -1,6 +1,6 @@
 {
   "domain": "auburn.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.auburn.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

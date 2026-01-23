@@ -1,6 +1,6 @@
 {
   "domain": "drinc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.drinc.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

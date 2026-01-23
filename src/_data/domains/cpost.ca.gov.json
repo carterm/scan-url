@@ -1,6 +1,6 @@
 {
   "domain": "cpost.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://cpost.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

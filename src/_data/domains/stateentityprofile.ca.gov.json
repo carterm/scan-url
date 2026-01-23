@@ -1,6 +1,6 @@
 {
   "domain": "stateentityprofile.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.stateentityprofile.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

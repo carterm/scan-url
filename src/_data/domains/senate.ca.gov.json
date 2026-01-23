@@ -1,6 +1,6 @@
 {
   "domain": "senate.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.senate.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

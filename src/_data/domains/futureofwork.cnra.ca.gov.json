@@ -1,6 +1,6 @@
 {
   "domain": "futureofwork.cnra.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://futureofwork.cnra.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "bopc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://bopc.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

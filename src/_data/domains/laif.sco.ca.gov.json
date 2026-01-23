@@ -1,6 +1,6 @@
 {
   "domain": "laif.sco.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://laif.sco.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

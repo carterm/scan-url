@@ -1,6 +1,6 @@
 {
   "domain": "calable.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.calable.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

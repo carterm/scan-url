@@ -1,6 +1,6 @@
 {
   "domain": "boomerang.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.boomerang.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

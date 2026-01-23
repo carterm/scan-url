@@ -1,6 +1,6 @@
 {
   "domain": "calrecycle.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://calrecycle.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

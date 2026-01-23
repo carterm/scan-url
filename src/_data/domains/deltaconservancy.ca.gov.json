@@ -1,6 +1,6 @@
 {
   "domain": "deltaconservancy.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://deltaconservancy.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

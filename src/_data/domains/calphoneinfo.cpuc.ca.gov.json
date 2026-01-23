@@ -1,6 +1,6 @@
 {
   "domain": "calphoneinfo.cpuc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://calphoneinfo.cpuc.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

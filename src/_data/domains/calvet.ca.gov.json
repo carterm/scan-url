@@ -1,6 +1,6 @@
 {
   "domain": "calvet.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.calvet.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

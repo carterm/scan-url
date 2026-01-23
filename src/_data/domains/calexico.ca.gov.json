@@ -1,6 +1,6 @@
 {
   "domain": "calexico.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.calexico.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

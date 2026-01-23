@@ -1,6 +1,6 @@
 {
   "domain": "wcchd.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://wcchd.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

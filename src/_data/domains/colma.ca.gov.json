@@ -1,6 +1,6 @@
 {
   "domain": "colma.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.colma.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

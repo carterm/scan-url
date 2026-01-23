@@ -1,6 +1,6 @@
 {
   "domain": "cdpr.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.cdpr.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

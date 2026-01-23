@@ -1,6 +1,6 @@
 {
   "domain": "quickmap.dot.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://quickmap.dot.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

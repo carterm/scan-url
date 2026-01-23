@@ -1,6 +1,6 @@
 {
   "domain": "ccag.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://ccag.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

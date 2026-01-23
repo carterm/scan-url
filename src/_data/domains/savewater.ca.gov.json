@@ -1,6 +1,6 @@
 {
   "domain": "savewater.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.savewater.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

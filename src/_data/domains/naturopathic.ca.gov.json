@@ -1,6 +1,6 @@
 {
   "domain": "naturopathic.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.naturopathic.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "scag.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://scag.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

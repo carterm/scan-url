@@ -1,6 +1,6 @@
 {
   "domain": "dublin.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.dublin.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "medalofvalor.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://medalofvalor.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "publicadvocates.cpuc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.publicadvocates.cpuc.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

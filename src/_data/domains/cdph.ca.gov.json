@@ -1,6 +1,6 @@
 {
   "domain": "cdph.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.cdph.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

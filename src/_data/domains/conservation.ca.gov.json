@@ -1,6 +1,6 @@
 {
   "domain": "conservation.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.conservation.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

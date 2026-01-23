@@ -1,6 +1,6 @@
 {
   "domain": "dhbc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.dhbc.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

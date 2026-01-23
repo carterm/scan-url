@@ -1,6 +1,6 @@
 {
   "domain": "bof.fire.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://bof.fire.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

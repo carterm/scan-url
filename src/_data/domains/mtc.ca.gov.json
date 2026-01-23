@@ -1,6 +1,6 @@
 {
   "domain": "mtc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://mtc.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "tribalaffairs.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://tribalaffairs.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

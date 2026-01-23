@@ -1,6 +1,6 @@
 {
   "domain": "ociac.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://ociac.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "ssc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.ssc.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "dcn-cde.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.dcn-cde.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

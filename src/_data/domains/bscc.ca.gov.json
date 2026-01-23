@@ -1,6 +1,6 @@
 {
   "domain": "bscc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.bscc.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

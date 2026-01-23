@@ -1,6 +1,6 @@
 {
   "domain": "toa.otsi.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://toa.otsi.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

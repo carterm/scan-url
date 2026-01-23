@@ -1,6 +1,6 @@
 {
   "domain": "innovation.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://innovation.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

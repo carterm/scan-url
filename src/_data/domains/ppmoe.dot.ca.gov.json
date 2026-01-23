@@ -1,6 +1,6 @@
 {
   "domain": "ppmoe.dot.ca.gov",
-  "targetURL": "/cc",
+  "targetURL": "https://ppmoe.dot.ca.gov/cc",
   "www": false,
   "active": true,
   "includeInScan": true,

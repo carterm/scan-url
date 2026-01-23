@@ -1,6 +1,6 @@
 {
   "domain": "dds.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.dds.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

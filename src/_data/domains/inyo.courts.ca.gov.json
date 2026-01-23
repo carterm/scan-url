@@ -1,6 +1,6 @@
 {
   "domain": "inyo.courts.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.inyo.courts.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

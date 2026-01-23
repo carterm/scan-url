@@ -1,6 +1,6 @@
 {
   "domain": "caleprocure.ca.gov",
-  "targetURL": "/pages/index.aspx",
+  "targetURL": "https://caleprocure.ca.gov/pages/index.aspx",
   "www": false,
   "active": true,
   "includeInScan": true,

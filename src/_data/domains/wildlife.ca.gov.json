@@ -1,6 +1,6 @@
 {
   "domain": "wildlife.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://wildlife.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

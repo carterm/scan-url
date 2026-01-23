@@ -1,6 +1,6 @@
 {
   "domain": "csr.dot.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://csr.dot.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

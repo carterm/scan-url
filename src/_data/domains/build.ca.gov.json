@@ -1,6 +1,6 @@
 {
   "domain": "build.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.build.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

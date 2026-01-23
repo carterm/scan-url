@@ -1,6 +1,6 @@
 {
   "domain": "iep.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://iep.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

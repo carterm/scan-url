@@ -1,6 +1,6 @@
 {
   "domain": "marinespecies.wildlife.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://marinespecies.wildlife.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "capiaa.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://capiaa.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "sta.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://sta.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

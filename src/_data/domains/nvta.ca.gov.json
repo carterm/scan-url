@@ -1,6 +1,6 @@
 {
   "domain": "nvta.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://nvta.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

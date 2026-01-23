@@ -1,6 +1,6 @@
 {
   "domain": "westnile.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://westnile.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

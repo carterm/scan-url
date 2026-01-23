@@ -1,6 +1,6 @@
 {
   "domain": "rn.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.rn.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

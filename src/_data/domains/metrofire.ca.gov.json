@@ -1,6 +1,6 @@
 {
   "domain": "metrofire.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://metrofire.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

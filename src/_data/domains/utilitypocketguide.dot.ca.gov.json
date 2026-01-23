@@ -1,6 +1,6 @@
 {
   "domain": "utilitypocketguide.dot.ca.gov",
-  "targetURL": "/public/",
+  "targetURL": "https://utilitypocketguide.dot.ca.gov/public/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "cvfpb.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://cvfpb.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

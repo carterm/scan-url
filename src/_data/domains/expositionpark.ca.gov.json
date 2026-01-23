@@ -1,6 +1,6 @@
 {
   "domain": "expositionpark.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://expositionpark.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

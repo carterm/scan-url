@@ -1,6 +1,6 @@
 {
   "domain": "pointarena.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://pointarena.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

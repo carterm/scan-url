@@ -1,6 +1,6 @@
 {
   "domain": "paumavalleycsd.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://paumavalleycsd.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

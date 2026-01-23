@@ -1,6 +1,6 @@
 {
   "domain": "immigrantguide.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.immigrantguide.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

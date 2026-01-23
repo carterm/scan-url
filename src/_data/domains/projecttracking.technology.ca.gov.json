@@ -1,6 +1,6 @@
 {
   "domain": "projecttracking.technology.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.projecttracking.technology.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

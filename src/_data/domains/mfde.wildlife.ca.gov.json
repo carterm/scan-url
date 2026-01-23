@@ -1,6 +1,6 @@
 {
   "domain": "mfde.wildlife.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://mfde.wildlife.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

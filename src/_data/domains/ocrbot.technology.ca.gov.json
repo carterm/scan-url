@@ -1,6 +1,6 @@
 {
   "domain": "ocrbot.technology.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.ocrbot.technology.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "scc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://scc.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

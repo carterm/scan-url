@@ -1,6 +1,6 @@
 {
   "domain": "dbw.parks.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://dbw.parks.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

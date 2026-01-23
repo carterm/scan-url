@@ -1,6 +1,6 @@
 {
   "domain": "dbc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.dbc.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

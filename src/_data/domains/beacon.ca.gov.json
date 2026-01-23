@@ -1,6 +1,6 @@
 {
   "domain": "beacon.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://beacon.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

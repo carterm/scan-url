@@ -1,6 +1,6 @@
 {
   "domain": "holtville.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.holtville.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

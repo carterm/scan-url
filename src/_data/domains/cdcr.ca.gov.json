@@ -1,6 +1,6 @@
 {
   "domain": "cdcr.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.cdcr.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

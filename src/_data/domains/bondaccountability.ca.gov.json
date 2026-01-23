@@ -1,6 +1,6 @@
 {
   "domain": "bondaccountability.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://bondaccountability.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

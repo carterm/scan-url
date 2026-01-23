@@ -1,6 +1,6 @@
 {
   "domain": "domainnamerequest.cdt.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.domainnamerequest.cdt.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

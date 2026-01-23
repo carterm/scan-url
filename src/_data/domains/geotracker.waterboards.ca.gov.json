@@ -1,6 +1,6 @@
 {
   "domain": "geotracker.waterboards.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://geotracker.waterboards.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

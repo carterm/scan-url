@@ -1,6 +1,6 @@
 {
   "domain": "dmv.ca.gov",
-  "targetURL": "/portal/",
+  "targetURL": "https://www.dmv.ca.gov/portal/",
   "www": true,
   "active": true,
   "includeInScan": true,

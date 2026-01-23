@@ -1,6 +1,6 @@
 {
   "domain": "calspillwatch.wildlife.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://calspillwatch.wildlife.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

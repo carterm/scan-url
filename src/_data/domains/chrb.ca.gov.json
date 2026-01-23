@@ -1,6 +1,6 @@
 {
   "domain": "chrb.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.chrb.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

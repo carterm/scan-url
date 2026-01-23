@@ -1,6 +1,6 @@
 {
   "domain": "cab.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.cab.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

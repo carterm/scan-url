@@ -93,13 +93,13 @@ export function ingestUrls() {
     const normalized = normalizeUrl(raw);
     if (!normalized) continue;
 
-    const { domain, preferredPath, www } = normalized;
+    const { domain, targetURL, www } = normalized;
     const filePath = path.join(DOMAIN_DIR, `${domain}.json`);
 
     const record =
-      loadRecord(filePath) ?? createStarterRecord(domain, preferredPath, www);
+      loadRecord(filePath) ?? createStarterRecord(domain, targetURL, www);
 
-    updateRecordFromIngest(record, preferredPath, www);
+    updateRecordFromIngest(record, targetURL, www);
 
     saveRecord(filePath, record);
   }

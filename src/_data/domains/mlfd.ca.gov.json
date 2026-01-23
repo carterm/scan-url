@@ -1,6 +1,6 @@
 {
   "domain": "mlfd.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://mlfd.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "nmvb.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.nmvb.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

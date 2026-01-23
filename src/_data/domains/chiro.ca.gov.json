@@ -1,6 +1,6 @@
 {
   "domain": "chiro.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.chiro.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

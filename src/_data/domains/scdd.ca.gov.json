@@ -1,6 +1,6 @@
 {
   "domain": "scdd.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://scdd.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

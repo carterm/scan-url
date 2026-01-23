@@ -1,6 +1,6 @@
 {
   "domain": "csssa.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.csssa.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

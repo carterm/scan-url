@@ -1,6 +1,6 @@
 {
   "domain": "csb-cde.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.csb-cde.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

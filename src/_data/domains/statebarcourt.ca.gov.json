@@ -1,6 +1,6 @@
 {
   "domain": "statebarcourt.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.statebarcourt.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

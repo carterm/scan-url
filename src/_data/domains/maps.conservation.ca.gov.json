@@ -1,6 +1,6 @@
 {
   "domain": "maps.conservation.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://maps.conservation.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

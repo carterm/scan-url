@@ -1,6 +1,6 @@
 {
   "domain": "losaltoshills.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.losaltoshills.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

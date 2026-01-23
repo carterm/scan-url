@@ -1,6 +1,6 @@
 {
   "domain": "ftb.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.ftb.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

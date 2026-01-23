@@ -1,6 +1,6 @@
 {
   "domain": "victims.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://victims.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

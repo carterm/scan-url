@@ -1,6 +1,6 @@
 {
   "domain": "oles.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.oles.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

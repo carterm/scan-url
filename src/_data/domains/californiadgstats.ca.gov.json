@@ -1,6 +1,6 @@
 {
   "domain": "californiadgstats.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.californiadgstats.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

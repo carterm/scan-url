@@ -1,6 +1,6 @@
 {
   "domain": "ych.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.ych.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

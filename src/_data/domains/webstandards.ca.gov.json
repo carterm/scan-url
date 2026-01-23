@@ -1,6 +1,6 @@
 {
   "domain": "webstandards.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://webstandards.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

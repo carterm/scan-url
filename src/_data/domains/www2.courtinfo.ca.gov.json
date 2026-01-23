@@ -1,6 +1,6 @@
 {
   "domain": "www2.courtinfo.ca.gov",
-  "targetURL": "/ccn/",
+  "targetURL": "https://www2.courtinfo.ca.gov/ccn/",
   "www": false,
   "active": true,
   "includeInScan": true,

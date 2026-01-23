@@ -1,6 +1,6 @@
 {
   "domain": "nahc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://nahc.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

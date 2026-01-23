@@ -1,6 +1,6 @@
 {
   "domain": "montezumafiredistrictsolano.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.montezumafiredistrictsolano.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

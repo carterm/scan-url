@@ -1,6 +1,6 @@
 {
   "domain": "tehama.courts.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.tehama.courts.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

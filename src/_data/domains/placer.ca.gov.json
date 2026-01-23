@@ -1,6 +1,6 @@
 {
   "domain": "placer.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.placer.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

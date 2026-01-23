@@ -1,6 +1,6 @@
 {
   "domain": "healthexchange.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://healthexchange.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "resources.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://resources.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

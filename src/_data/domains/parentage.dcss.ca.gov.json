@@ -1,6 +1,6 @@
 {
   "domain": "parentage.dcss.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://parentage.dcss.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "aquaculturematters.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://aquaculturematters.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

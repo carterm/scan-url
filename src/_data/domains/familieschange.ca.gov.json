@@ -1,6 +1,6 @@
 {
   "domain": "familieschange.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://familieschange.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

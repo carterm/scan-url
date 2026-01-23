@@ -1,6 +1,6 @@
 {
   "domain": "wwd.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://wwd.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

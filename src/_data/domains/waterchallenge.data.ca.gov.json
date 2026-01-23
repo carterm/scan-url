@@ -1,6 +1,6 @@
 {
   "domain": "waterchallenge.data.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://waterchallenge.data.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

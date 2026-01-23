@@ -1,6 +1,6 @@
 {
   "domain": "maps.cdtfa.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://maps.cdtfa.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

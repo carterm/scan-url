@@ -1,6 +1,6 @@
 {
   "domain": "caloes.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.caloes.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

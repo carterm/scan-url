@@ -1,6 +1,6 @@
 {
   "domain": "delta.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://delta.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

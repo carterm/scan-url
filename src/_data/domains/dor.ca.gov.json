@@ -1,6 +1,6 @@
 {
   "domain": "dor.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.dor.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

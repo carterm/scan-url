@@ -1,6 +1,6 @@
 {
   "domain": "catc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://catc.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

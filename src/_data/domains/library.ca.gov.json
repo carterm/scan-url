@@ -1,6 +1,6 @@
 {
   "domain": "library.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.library.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

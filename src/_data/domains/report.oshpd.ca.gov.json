@@ -1,6 +1,6 @@
 {
   "domain": "report.oshpd.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://report.oshpd.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

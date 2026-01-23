@@ -1,6 +1,6 @@
 {
   "domain": "healthcarevolunteers.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://healthcarevolunteers.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "first5.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.first5.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

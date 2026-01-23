@@ -1,6 +1,6 @@
 {
   "domain": "reducetherisk.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.reducetherisk.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

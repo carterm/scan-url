@@ -1,6 +1,6 @@
 {
   "domain": "roads.dot.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://roads.dot.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

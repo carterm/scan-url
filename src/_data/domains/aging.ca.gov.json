@@ -1,6 +1,6 @@
 {
   "domain": "aging.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.aging.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "fairfield.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.fairfield.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "treasurer.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.treasurer.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

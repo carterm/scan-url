@@ -1,6 +1,6 @@
 {
   "domain": "cloud.calhfa.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://cloud.calhfa.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

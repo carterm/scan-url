@@ -1,6 +1,6 @@
 {
   "domain": "bbs.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.bbs.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

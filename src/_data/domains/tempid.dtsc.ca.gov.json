@@ -1,6 +1,6 @@
 {
   "domain": "tempid.dtsc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://tempid.dtsc.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

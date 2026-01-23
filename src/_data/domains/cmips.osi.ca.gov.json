@@ -1,6 +1,6 @@
 {
   "domain": "cmips.osi.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.cmips.osi.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

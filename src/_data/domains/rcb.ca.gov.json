@@ -1,6 +1,6 @@
 {
   "domain": "rcb.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.rcb.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

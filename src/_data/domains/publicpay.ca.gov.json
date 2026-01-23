@@ -1,6 +1,6 @@
 {
   "domain": "publicpay.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.publicpay.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

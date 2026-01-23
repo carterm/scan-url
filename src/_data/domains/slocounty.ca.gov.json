@@ -1,6 +1,6 @@
 {
   "domain": "slocounty.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.slocounty.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

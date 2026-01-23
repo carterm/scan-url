@@ -1,6 +1,6 @@
 {
   "domain": "intranet.calepa.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://intranet.calepa.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

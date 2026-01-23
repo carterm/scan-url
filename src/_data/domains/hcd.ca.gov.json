@@ -1,6 +1,6 @@
 {
   "domain": "hcd.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.hcd.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

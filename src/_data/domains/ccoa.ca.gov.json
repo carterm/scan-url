@@ -1,6 +1,6 @@
 {
   "domain": "ccoa.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.ccoa.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

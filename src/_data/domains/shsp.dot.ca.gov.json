@@ -1,6 +1,6 @@
 {
   "domain": "shsp.dot.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://shsp.dot.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

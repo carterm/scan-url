@@ -1,6 +1,6 @@
 {
   "domain": "listserv.state.ca.gov",
-  "targetURL": "/wa.exe",
+  "targetURL": "https://listserv.state.ca.gov/wa.exe?INDEX",
   "www": false,
   "active": true,
   "includeInScan": true,

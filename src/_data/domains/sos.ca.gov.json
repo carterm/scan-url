@@ -1,6 +1,6 @@
 {
   "domain": "sos.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.sos.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

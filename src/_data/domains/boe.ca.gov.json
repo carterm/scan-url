@@ -1,6 +1,6 @@
 {
   "domain": "boe.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://boe.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

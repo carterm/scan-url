@@ -1,6 +1,6 @@
 {
   "domain": "srfecc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://srfecc.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

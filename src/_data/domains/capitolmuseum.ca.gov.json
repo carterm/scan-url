@@ -1,6 +1,6 @@
 {
   "domain": "capitolmuseum.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://capitolmuseum.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

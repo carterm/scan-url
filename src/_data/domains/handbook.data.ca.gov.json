@@ -1,6 +1,6 @@
 {
   "domain": "handbook.data.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://handbook.data.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

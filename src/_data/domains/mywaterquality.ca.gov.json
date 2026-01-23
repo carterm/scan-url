@@ -1,6 +1,6 @@
 {
   "domain": "mywaterquality.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.mywaterquality.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

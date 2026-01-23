@@ -1,6 +1,6 @@
 {
   "domain": "eldoradocounty.ca.gov",
-  "targetURL": "/Home",
+  "targetURL": "https://www.eldoradocounty.ca.gov/Home",
   "www": true,
   "active": true,
   "includeInScan": true,

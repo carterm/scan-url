@@ -1,6 +1,6 @@
 {
   "domain": "govops.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.govops.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

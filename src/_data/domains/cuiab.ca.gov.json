@@ -1,6 +1,6 @@
 {
   "domain": "cuiab.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://cuiab.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

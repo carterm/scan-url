@@ -1,6 +1,6 @@
 {
   "domain": "bluelake.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://bluelake.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

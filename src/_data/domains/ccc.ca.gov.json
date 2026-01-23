@@ -1,6 +1,6 @@
 {
   "domain": "ccc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://ccc.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

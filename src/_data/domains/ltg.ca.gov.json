@@ -1,6 +1,6 @@
 {
   "domain": "ltg.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://ltg.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

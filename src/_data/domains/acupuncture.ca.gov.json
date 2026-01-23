@@ -1,6 +1,6 @@
 {
   "domain": "acupuncture.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.acupuncture.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "calcivilrights.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://calcivilrights.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

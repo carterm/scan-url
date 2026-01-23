@@ -1,6 +1,6 @@
 {
   "domain": "calfreshhealthyliving.cdph.ca.gov",
-  "targetURL": "/en/Pages/default.aspx",
+  "targetURL": "https://calfreshhealthyliving.cdph.ca.gov/en/Pages/default.aspx",
   "www": false,
   "active": true,
   "includeInScan": true,

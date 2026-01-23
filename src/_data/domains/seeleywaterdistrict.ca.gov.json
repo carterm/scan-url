@@ -1,6 +1,6 @@
 {
   "domain": "seeleywaterdistrict.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://seeleywaterdistrict.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

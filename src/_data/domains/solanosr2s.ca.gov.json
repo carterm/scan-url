@@ -1,6 +1,6 @@
 {
   "domain": "solanosr2s.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://solanosr2s.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

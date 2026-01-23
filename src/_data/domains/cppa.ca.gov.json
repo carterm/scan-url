@@ -1,6 +1,6 @@
 {
   "domain": "cppa.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.cppa.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "sgc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://sgc.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

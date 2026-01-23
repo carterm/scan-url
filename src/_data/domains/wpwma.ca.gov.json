@@ -1,6 +1,6 @@
 {
   "domain": "wpwma.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://wpwma.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

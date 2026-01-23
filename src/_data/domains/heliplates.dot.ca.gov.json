@@ -1,6 +1,6 @@
 {
   "domain": "heliplates.dot.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://heliplates.dot.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

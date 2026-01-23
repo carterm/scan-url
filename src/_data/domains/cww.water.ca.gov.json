@@ -1,6 +1,6 @@
 {
   "domain": "cww.water.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://cww.water.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

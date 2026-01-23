@@ -1,6 +1,6 @@
 {
   "domain": "calshape.energy.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://calshape.energy.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

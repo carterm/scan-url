@@ -1,6 +1,6 @@
 {
   "domain": "tcwd.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.tcwd.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

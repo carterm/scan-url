@@ -1,6 +1,6 @@
 {
   "domain": "osar.bppe.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.osar.bppe.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

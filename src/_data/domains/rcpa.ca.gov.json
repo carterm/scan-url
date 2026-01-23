@@ -1,6 +1,6 @@
 {
   "domain": "rcpa.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://rcpa.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

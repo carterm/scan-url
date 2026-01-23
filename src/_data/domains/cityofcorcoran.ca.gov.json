@@ -1,6 +1,6 @@
 {
   "domain": "cityofcorcoran.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://cityofcorcoran.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

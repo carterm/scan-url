@@ -1,6 +1,6 @@
 {
   "domain": "cfcc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.cfcc.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

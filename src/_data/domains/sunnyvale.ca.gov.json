@@ -1,6 +1,6 @@
 {
   "domain": "sunnyvale.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.sunnyvale.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

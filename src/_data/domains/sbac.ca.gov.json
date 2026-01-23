@@ -1,6 +1,6 @@
 {
   "domain": "sbac.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.sbac.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

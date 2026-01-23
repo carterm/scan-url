@@ -1,6 +1,6 @@
 {
   "domain": "findanewway.ca.gov",
-  "targetURL": "/wp-login.php",
+  "targetURL": "https://findanewway.ca.gov/wp-login.php",
   "www": false,
   "active": true,
   "includeInScan": true,

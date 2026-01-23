@@ -1,6 +1,6 @@
 {
   "domain": "projectresources.cdt.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://projectresources.cdt.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "prod.sites.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://prod.sites.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

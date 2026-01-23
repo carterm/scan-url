@@ -1,6 +1,6 @@
 {
   "domain": "bppe.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.bppe.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

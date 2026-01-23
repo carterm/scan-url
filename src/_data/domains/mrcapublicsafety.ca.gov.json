@@ -1,6 +1,6 @@
 {
   "domain": "mrcapublicsafety.ca.gov",
-  "targetURL": "/",
+  "targetURL": "http://www.mrcapublicsafety.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "caljobs.ca.gov",
-  "targetURL": "/vosnet/default.aspx",
+  "targetURL": "https://www.caljobs.ca.gov/vosnet/default.aspx",
   "www": true,
   "active": true,
   "includeInScan": true,

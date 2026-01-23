@@ -1,6 +1,6 @@
 {
   "domain": "csd.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.csd.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

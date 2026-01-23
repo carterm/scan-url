@@ -1,6 +1,6 @@
 {
   "domain": "crob.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://crob.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

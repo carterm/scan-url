@@ -1,6 +1,6 @@
 {
   "domain": "avaqmd.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.avaqmd.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "leginfo.legislature.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://leginfo.legislature.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

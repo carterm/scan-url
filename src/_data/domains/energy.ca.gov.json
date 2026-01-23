@@ -1,6 +1,6 @@
 {
   "domain": "energy.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.energy.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

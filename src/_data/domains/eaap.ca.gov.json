@@ -1,6 +1,6 @@
 {
   "domain": "eaap.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://eaap.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

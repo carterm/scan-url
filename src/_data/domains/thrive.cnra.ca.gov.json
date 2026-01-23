@@ -1,6 +1,6 @@
 {
   "domain": "thrive.cnra.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://thrive.cnra.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

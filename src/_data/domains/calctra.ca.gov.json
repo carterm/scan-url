@@ -1,6 +1,6 @@
 {
   "domain": "calctra.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.calctra.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

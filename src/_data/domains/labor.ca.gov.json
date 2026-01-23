@@ -1,6 +1,6 @@
 {
   "domain": "labor.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.labor.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

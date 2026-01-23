@@ -1,6 +1,6 @@
 {
   "domain": "calosba.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.calosba.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "militarycouncil.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://militarycouncil.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "sco.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.sco.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

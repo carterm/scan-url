@@ -1,6 +1,6 @@
 {
   "domain": "laifonline.treasurer.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://laifonline.treasurer.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

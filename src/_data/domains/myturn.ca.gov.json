@@ -1,6 +1,6 @@
 {
   "domain": "myturn.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://myturn.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

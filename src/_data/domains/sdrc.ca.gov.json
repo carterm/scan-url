@@ -1,6 +1,6 @@
 {
   "domain": "sdrc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://sdrc.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

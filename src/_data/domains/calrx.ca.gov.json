@@ -1,6 +1,6 @@
 {
   "domain": "calrx.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://calrx.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "governors.library.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.governors.library.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

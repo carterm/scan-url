@@ -1,6 +1,6 @@
 {
   "domain": "ceqanet.lci.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://ceqanet.lci.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

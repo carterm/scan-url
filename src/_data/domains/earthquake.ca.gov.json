@@ -1,6 +1,6 @@
 {
   "domain": "earthquake.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.earthquake.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

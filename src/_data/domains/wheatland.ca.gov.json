@@ -1,6 +1,6 @@
 {
   "domain": "wheatland.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.wheatland.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

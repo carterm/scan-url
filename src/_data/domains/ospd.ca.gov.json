@@ -1,6 +1,6 @@
 {
   "domain": "ospd.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.ospd.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

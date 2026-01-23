@@ -1,6 +1,6 @@
 {
   "domain": "brea.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.brea.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

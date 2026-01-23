@@ -1,6 +1,6 @@
 {
   "domain": "appportal.energy.ca.gov",
-  "targetURL": "/Account/Login",
+  "targetURL": "https://appportal.energy.ca.gov/Account/Login",
   "www": false,
   "active": true,
   "includeInScan": true,

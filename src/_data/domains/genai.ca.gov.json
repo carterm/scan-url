@@ -1,6 +1,6 @@
 {
   "domain": "genai.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.genai.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "insurance.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.insurance.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

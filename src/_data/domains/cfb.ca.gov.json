@@ -1,6 +1,6 @@
 {
   "domain": "cfb.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.cfb.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

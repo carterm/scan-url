@@ -1,6 +1,6 @@
 {
   "domain": "captain.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.captain.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

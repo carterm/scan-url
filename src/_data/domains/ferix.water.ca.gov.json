@@ -1,6 +1,6 @@
 {
   "domain": "ferix.water.ca.gov",
-  "targetURL": "/webapp/home.jsp",
+  "targetURL": "https://ferix.water.ca.gov/webapp/home.jsp",
   "www": false,
   "active": true,
   "includeInScan": true,

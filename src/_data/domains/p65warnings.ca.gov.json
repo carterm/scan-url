@@ -1,6 +1,6 @@
 {
   "domain": "p65warnings.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.p65warnings.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

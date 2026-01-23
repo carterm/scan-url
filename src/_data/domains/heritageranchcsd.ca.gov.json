@@ -1,6 +1,6 @@
 {
   "domain": "heritageranchcsd.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.heritageranchcsd.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "pab.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.pab.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "bot.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.bot.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

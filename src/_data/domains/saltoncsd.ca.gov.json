@@ -1,6 +1,6 @@
 {
   "domain": "saltoncsd.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://saltoncsd.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

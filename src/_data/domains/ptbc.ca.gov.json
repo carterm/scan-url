@@ -1,6 +1,6 @@
 {
   "domain": "ptbc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.ptbc.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

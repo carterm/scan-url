@@ -1,6 +1,6 @@
 {
   "domain": "letsgethealthy.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://letsgethealthy.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

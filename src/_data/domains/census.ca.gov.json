@@ -1,6 +1,6 @@
 {
   "domain": "census.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://census.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "cannabis.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.cannabis.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

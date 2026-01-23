@@ -1,6 +1,6 @@
 {
   "domain": "lgrsonline.sco.ca.gov",
-  "targetURL": "/account/login",
+  "targetURL": "https://lgrsonline.sco.ca.gov/account/login",
   "www": false,
   "active": true,
   "includeInScan": true,

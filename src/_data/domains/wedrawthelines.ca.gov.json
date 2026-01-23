@@ -1,6 +1,6 @@
 {
   "domain": "wedrawthelines.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://wedrawthelines.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

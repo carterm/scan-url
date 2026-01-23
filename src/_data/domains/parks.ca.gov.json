@@ -1,6 +1,6 @@
 {
   "domain": "parks.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.parks.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

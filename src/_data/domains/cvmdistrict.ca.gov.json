@@ -1,6 +1,6 @@
 {
   "domain": "cvmdistrict.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://cvmdistrict.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

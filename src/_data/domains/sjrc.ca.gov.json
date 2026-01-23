@@ -1,6 +1,6 @@
 {
   "domain": "sjrc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://sjrc.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

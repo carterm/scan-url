@@ -1,6 +1,6 @@
 {
   "domain": "forms.edd.ca.gov",
-  "targetURL": "/Forms",
+  "targetURL": "https://forms.edd.ca.gov/Forms",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "morganhill.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.morganhill.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

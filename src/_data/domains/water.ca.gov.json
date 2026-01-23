@@ -1,6 +1,6 @@
 {
   "domain": "water.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://water.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

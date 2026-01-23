@@ -1,6 +1,6 @@
 {
   "domain": "bcsh.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.bcsh.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

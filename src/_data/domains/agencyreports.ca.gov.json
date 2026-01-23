@@ -1,6 +1,6 @@
 {
   "domain": "agencyreports.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://agencyreports.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

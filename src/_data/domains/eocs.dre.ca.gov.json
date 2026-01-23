@@ -1,6 +1,6 @@
 {
   "domain": "eocs.dre.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://eocs.dre.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

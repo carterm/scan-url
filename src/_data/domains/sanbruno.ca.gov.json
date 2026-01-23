@@ -1,6 +1,6 @@
 {
   "domain": "sanbruno.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.sanbruno.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

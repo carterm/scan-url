@@ -1,6 +1,6 @@
 {
   "domain": "energysafety.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://energysafety.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

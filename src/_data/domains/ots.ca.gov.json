@@ -1,6 +1,6 @@
 {
   "domain": "ots.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.ots.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

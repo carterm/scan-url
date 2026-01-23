@@ -1,6 +1,6 @@
 {
   "domain": "pass.cdcr.ca.gov",
-  "targetURL": "/Home/ChooseApplication",
+  "targetURL": "https://pass.cdcr.ca.gov/Home/ChooseApplication",
   "www": false,
   "active": true,
   "includeInScan": true,

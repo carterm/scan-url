@@ -1,6 +1,6 @@
 {
   "domain": "mentalhealth.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.mentalhealth.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

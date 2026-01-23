@@ -1,6 +1,6 @@
 {
   "domain": "theacademy.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://theacademy.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

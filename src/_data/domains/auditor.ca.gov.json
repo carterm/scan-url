@@ -1,6 +1,6 @@
 {
   "domain": "auditor.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.auditor.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

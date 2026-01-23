@@ -1,6 +1,6 @@
 {
   "domain": "recycledelnorte.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://recycledelnorte.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

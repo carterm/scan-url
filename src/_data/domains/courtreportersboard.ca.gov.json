@@ -1,6 +1,6 @@
 {
   "domain": "courtreportersboard.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.courtreportersboard.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

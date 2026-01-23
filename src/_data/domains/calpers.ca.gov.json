@@ -1,6 +1,6 @@
 {
   "domain": "calpers.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.calpers.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

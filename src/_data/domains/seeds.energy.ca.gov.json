@@ -1,6 +1,6 @@
 {
   "domain": "seeds.energy.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://seeds.energy.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

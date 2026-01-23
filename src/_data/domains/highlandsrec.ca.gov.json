@@ -1,6 +1,6 @@
 {
   "domain": "highlandsrec.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://highlandsrec.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

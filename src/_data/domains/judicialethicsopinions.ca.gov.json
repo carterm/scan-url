@@ -1,6 +1,6 @@
 {
   "domain": "judicialethicsopinions.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.judicialethicsopinions.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

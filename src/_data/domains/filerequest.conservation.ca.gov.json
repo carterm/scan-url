@@ -1,6 +1,6 @@
 {
   "domain": "filerequest.conservation.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://filerequest.conservation.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

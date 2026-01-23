@@ -1,6 +1,6 @@
 {
   "domain": "calpip.cdpr.ca.gov",
-  "targetURL": "/main.cfm",
+  "targetURL": "https://calpip.cdpr.ca.gov/main.cfm",
   "www": false,
   "active": true,
   "includeInScan": true,

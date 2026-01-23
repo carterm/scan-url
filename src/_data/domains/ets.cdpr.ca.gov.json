@@ -1,6 +1,6 @@
 {
   "domain": "ets.cdpr.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://ets.cdpr.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

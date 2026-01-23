@@ -1,6 +1,6 @@
 {
   "domain": "lp.post.ca.gov",
-  "targetURL": "/PublicWelcome.aspx",
+  "targetURL": "https://lp.post.ca.gov/PublicWelcome.aspx",
   "www": false,
   "active": true,
   "includeInScan": true,

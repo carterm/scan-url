@@ -1,6 +1,6 @@
 {
   "domain": "lci.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.lci.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

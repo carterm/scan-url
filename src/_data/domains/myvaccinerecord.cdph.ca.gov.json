@@ -1,6 +1,6 @@
 {
   "domain": "myvaccinerecord.cdph.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://myvaccinerecord.cdph.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

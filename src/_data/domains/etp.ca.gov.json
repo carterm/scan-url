@@ -1,6 +1,6 @@
 {
   "domain": "etp.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://etp.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "cvmc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://cvmc.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

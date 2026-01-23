@@ -1,6 +1,6 @@
 {
   "domain": "askedd.edd.ca.gov",
-  "targetURL": "/s/",
+  "targetURL": "https://askedd.edd.ca.gov/s/",
   "www": false,
   "active": true,
   "includeInScan": true,

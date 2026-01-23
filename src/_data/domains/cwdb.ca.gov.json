@@ -1,6 +1,6 @@
 {
   "domain": "cwdb.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://cwdb.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

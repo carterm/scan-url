@@ -1,6 +1,6 @@
 {
   "domain": "chhs.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.chhs.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

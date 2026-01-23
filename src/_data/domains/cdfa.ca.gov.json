@@ -1,6 +1,6 @@
 {
   "domain": "cdfa.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.cdfa.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

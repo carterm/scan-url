@@ -1,6 +1,6 @@
 {
   "domain": "dmac.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.dmac.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

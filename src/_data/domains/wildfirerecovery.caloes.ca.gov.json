@@ -1,6 +1,6 @@
 {
   "domain": "wildfirerecovery.caloes.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.wildfirerecovery.caloes.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

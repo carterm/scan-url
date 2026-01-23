@@ -1,6 +1,6 @@
 {
   "domain": "ncsd.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://ncsd.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

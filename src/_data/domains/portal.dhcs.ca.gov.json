@@ -1,6 +1,6 @@
 {
   "domain": "portal.dhcs.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://portal.dhcs.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

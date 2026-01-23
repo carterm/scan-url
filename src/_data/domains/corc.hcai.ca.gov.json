@@ -1,6 +1,6 @@
 {
   "domain": "corc.hcai.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://corc.hcai.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

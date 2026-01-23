@@ -1,6 +1,6 @@
 {
   "domain": "csac.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.csac.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

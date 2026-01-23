@@ -1,6 +1,6 @@
 {
   "domain": "cash4college.csac.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.cash4college.csac.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

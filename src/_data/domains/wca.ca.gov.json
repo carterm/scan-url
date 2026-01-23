@@ -1,6 +1,6 @@
 {
   "domain": "wca.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.wca.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "calguard.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://calguard.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "ebtproject.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.ebtproject.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

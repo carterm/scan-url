@@ -1,6 +1,6 @@
 {
   "domain": "bvwd.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://bvwd.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "geosteam.conservation.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://geosteam.conservation.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

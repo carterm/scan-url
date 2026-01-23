@@ -1,6 +1,6 @@
 {
   "domain": "film.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://film.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "cityofventura.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.cityofventura.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

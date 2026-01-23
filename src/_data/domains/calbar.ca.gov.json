@@ -1,6 +1,6 @@
 {
   "domain": "calbar.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.calbar.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "cdii.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.cdii.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

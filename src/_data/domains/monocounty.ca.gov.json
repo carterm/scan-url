@@ -1,6 +1,6 @@
 {
   "domain": "monocounty.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.monocounty.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

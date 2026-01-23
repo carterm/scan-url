@@ -1,6 +1,6 @@
 {
   "domain": "caweb.cdt.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://caweb.cdt.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "hwts.dtsc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://hwts.dtsc.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

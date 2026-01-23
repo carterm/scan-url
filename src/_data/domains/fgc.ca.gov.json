@@ -1,6 +1,6 @@
 {
   "domain": "fgc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://fgc.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

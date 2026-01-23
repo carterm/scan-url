@@ -1,6 +1,6 @@
 {
   "domain": "piercesdisease.cdfa.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://piercesdisease.cdfa.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

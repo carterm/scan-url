@@ -1,6 +1,6 @@
 {
   "domain": "perb.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://perb.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

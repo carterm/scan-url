@@ -1,6 +1,6 @@
 {
   "domain": "waterboards.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.waterboards.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

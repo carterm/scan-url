@@ -1,6 +1,6 @@
 {
   "domain": "tourism.ca.gov",
-  "targetURL": "/s/login/",
+  "targetURL": "https://tourism.ca.gov/s/login/?language=en_US",
   "www": false,
   "active": true,
   "includeInScan": true,

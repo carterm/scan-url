@@ -1,6 +1,6 @@
 {
   "domain": "cdlaconline.treasurer.ca.gov",
-  "targetURL": "/Account/Login.aspx",
+  "targetURL": "https://cdlaconline.treasurer.ca.gov/Account/Login.aspx",
   "www": false,
   "active": true,
   "includeInScan": true,

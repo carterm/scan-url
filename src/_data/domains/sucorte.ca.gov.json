@@ -1,6 +1,6 @@
 {
   "domain": "sucorte.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.sucorte.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

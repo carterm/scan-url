@@ -1,6 +1,6 @@
 {
   "domain": "escog.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://escog.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "registertovote.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://registertovote.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

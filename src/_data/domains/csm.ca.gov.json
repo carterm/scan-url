@@ -1,6 +1,6 @@
 {
   "domain": "csm.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.csm.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

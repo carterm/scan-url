@@ -1,6 +1,6 @@
 {
   "domain": "dof.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://dof.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

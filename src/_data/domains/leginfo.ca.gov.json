@@ -1,6 +1,6 @@
 {
   "domain": "leginfo.ca.gov",
-  "targetURL": "/",
+  "targetURL": "http://www.leginfo.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

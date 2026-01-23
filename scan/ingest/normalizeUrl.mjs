@@ -3,7 +3,7 @@
 /**
  * @typedef {Object} NormalizedUrl
  * @property {string} domain
- * @property {string} preferredPath
+ * @property {string} targetURL
  * @property {boolean} www
  */
 
@@ -23,12 +23,9 @@ export function normalizeUrl(raw) {
 
     const hostname = rawHostname.replace(/^www\./, "");
 
-    // Normalize path: "/" is the default
-    const path = url.pathname && url.pathname !== "/" ? url.pathname : "/";
-
     return {
       domain: hostname,
-      preferredPath: path,
+      targetURL: raw.trim(),
       www: hasWww
     };
   } catch {

@@ -1,6 +1,6 @@
 {
   "domain": "meganslaw.ca.gov",
-  "targetURL": "/Disclaimer",
+  "targetURL": "https://www.meganslaw.ca.gov/Disclaimer",
   "www": true,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "mrca.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://mrca.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

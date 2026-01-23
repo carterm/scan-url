@@ -1,6 +1,6 @@
 {
   "domain": "fppc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.fppc.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

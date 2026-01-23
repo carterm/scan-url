@@ -1,6 +1,6 @@
 {
   "domain": "broadbandmap.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.broadbandmap.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

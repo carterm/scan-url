@@ -1,6 +1,6 @@
 {
   "domain": "portal.hsr.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://portal.hsr.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

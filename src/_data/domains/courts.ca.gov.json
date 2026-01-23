@@ -1,6 +1,6 @@
 {
   "domain": "courts.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://courts.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

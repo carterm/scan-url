@@ -1,6 +1,6 @@
 {
   "domain": "madeincalifornia.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.madeincalifornia.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

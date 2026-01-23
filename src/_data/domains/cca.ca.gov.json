@@ -1,6 +1,6 @@
 {
   "domain": "cca.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://cca.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

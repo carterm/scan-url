@@ -1,6 +1,6 @@
 {
   "domain": "calcareers.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://calcareers.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

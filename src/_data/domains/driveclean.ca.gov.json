@@ -1,6 +1,6 @@
 {
   "domain": "driveclean.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://driveclean.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

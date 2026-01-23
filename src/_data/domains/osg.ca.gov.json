@@ -1,6 +1,6 @@
 {
   "domain": "osg.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://osg.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

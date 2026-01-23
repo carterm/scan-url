@@ -1,6 +1,6 @@
 {
   "domain": "ig.dot.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://ig.dot.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

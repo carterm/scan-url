@@ -1,6 +1,6 @@
 {
   "domain": "piedmont.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.piedmont.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

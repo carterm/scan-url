@@ -1,6 +1,6 @@
 {
   "domain": "corc.oshpd.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://corc.oshpd.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

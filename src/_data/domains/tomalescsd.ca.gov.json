@@ -1,6 +1,6 @@
 {
   "domain": "tomalescsd.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.tomalescsd.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

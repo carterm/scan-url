@@ -1,6 +1,6 @@
 {
   "domain": "tulare.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.tulare.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

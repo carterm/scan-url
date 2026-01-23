@@ -1,6 +1,6 @@
 {
   "domain": "women.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://women.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

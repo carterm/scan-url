@@ -1,6 +1,6 @@
 {
   "domain": "unionsanitary.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://unionsanitary.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

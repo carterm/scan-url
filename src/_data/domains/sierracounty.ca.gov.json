@@ -1,6 +1,6 @@
 {
   "domain": "sierracounty.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.sierracounty.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

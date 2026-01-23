@@ -1,6 +1,6 @@
 {
   "domain": "ota.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://ota.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

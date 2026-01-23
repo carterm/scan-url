@@ -1,6 +1,6 @@
 {
   "domain": "penrynfire.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://penrynfire.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

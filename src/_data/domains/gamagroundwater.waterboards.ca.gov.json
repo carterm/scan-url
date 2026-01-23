@@ -1,6 +1,6 @@
 {
   "domain": "gamagroundwater.waterboards.ca.gov",
-  "targetURL": "/gama/gamamap/public/",
+  "targetURL": "https://gamagroundwater.waterboards.ca.gov/gama/gamamap/public/",
   "www": false,
   "active": true,
   "includeInScan": true,

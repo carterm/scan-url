@@ -1,6 +1,6 @@
 {
   "domain": "psychology.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.psychology.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

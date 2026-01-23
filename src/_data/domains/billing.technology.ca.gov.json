@@ -1,6 +1,6 @@
 {
   "domain": "billing.technology.ca.gov",
-  "targetURL": "/login.aspx",
+  "targetURL": "https://billing.technology.ca.gov/login.aspx",
   "www": false,
   "active": true,
   "includeInScan": true,

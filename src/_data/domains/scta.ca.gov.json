@@ -1,6 +1,6 @@
 {
   "domain": "scta.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://scta.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

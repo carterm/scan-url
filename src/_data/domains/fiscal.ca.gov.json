@@ -1,6 +1,6 @@
 {
   "domain": "fiscal.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://fiscal.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

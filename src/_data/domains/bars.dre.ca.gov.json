@@ -1,6 +1,6 @@
 {
   "domain": "bars.dre.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://bars.dre.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

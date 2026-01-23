@@ -1,6 +1,6 @@
 {
   "domain": "smmc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://smmc.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

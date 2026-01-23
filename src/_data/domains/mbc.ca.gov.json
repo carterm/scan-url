@@ -1,6 +1,6 @@
 {
   "domain": "mbc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.mbc.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

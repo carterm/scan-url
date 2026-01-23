@@ -1,6 +1,6 @@
 {
   "domain": "oag.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.oag.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

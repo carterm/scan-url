@@ -1,6 +1,6 @@
 {
   "domain": "tularecounty.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://tularecounty.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

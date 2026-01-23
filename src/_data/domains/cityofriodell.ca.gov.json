@@ -1,6 +1,6 @@
 {
   "domain": "cityofriodell.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.cityofriodell.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

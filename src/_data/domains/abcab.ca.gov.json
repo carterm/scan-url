@@ -1,6 +1,6 @@
 {
   "domain": "abcab.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://abcab.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

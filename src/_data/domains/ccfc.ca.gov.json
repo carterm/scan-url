@@ -1,6 +1,6 @@
 {
   "domain": "ccfc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.ccfc.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

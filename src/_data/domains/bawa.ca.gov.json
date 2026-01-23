@@ -1,6 +1,6 @@
 {
   "domain": "bawa.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://bawa.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

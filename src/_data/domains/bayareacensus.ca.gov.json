@@ -1,6 +1,6 @@
 {
   "domain": "bayareacensus.ca.gov",
-  "targetURL": "/",
+  "targetURL": "http://www.bayareacensus.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

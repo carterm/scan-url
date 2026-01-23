@@ -1,6 +1,6 @@
 {
   "domain": "roadmaptoresearch.dot.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://roadmaptoresearch.dot.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

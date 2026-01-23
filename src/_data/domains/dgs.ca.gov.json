@@ -1,6 +1,6 @@
 {
   "domain": "dgs.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.dgs.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

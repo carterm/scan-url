@@ -1,6 +1,6 @@
 {
   "domain": "bsis.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.bsis.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

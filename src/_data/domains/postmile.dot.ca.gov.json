@@ -1,6 +1,6 @@
 {
   "domain": "postmile.dot.ca.gov",
-  "targetURL": "/PMQT/PostmileQueryTool.html",
+  "targetURL": "https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html",
   "www": false,
   "active": true,
   "includeInScan": true,

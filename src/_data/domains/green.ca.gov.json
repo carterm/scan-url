@@ -1,6 +1,6 @@
 {
   "domain": "green.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.green.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

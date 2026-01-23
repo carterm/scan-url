@@ -1,6 +1,6 @@
 {
   "domain": "ecos.ca.gov",
-  "targetURL": "/Login.aspx",
+  "targetURL": "https://ecos.ca.gov/Login.aspx",
   "www": false,
   "active": true,
   "includeInScan": true,

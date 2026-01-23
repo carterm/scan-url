@@ -1,6 +1,6 @@
 {
   "domain": "seniors.insurance.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://seniors.insurance.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

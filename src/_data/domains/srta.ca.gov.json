@@ -1,6 +1,6 @@
 {
   "domain": "srta.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.srta.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

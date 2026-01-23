@@ -1,6 +1,6 @@
 {
   "domain": "clsd.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://clsd.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

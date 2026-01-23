@@ -1,6 +1,6 @@
 {
   "domain": "grants.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.grants.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

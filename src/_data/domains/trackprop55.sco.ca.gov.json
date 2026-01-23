@@ -1,6 +1,6 @@
 {
   "domain": "trackprop55.sco.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://trackprop55.sco.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

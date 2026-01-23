@@ -1,6 +1,6 @@
 {
   "domain": "business.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://business.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "travelpocketguide.dot.ca.gov",
-  "targetURL": "/public/",
+  "targetURL": "https://travelpocketguide.dot.ca.gov/public/",
   "www": false,
   "active": true,
   "includeInScan": true,

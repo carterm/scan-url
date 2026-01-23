@@ -1,6 +1,6 @@
 {
   "domain": "dot.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://dot.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

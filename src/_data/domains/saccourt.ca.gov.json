@@ -1,6 +1,6 @@
 {
   "domain": "saccourt.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.saccourt.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

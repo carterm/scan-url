@@ -1,6 +1,6 @@
 {
   "domain": "ojai.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.ojai.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

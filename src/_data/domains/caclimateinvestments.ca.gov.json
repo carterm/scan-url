@@ -1,6 +1,6 @@
 {
   "domain": "caclimateinvestments.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.caclimateinvestments.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

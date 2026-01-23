@@ -1,6 +1,6 @@
 {
   "domain": "legislativecounsel.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://legislativecounsel.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

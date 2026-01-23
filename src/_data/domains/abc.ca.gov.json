@@ -1,6 +1,6 @@
 {
   "domain": "abc.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.abc.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "ears.dre.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://ears.dre.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

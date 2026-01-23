@@ -1,6 +1,6 @@
 {
   "domain": "sanramon.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.sanramon.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

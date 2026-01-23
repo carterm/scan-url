@@ -1,6 +1,6 @@
 {
   "domain": "news.caloes.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.news.caloes.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

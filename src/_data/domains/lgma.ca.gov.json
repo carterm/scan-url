@@ -1,6 +1,6 @@
 {
   "domain": "lgma.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://lgma.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

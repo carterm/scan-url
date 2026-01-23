@@ -1,6 +1,6 @@
 {
   "domain": "cpads.sco.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://cpads.sco.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

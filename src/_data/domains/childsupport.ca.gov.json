@@ -1,6 +1,6 @@
 {
   "domain": "childsupport.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://childsupport.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "pasapi.technology.ca.gov",
-  "targetURL": "/index.html",
+  "targetURL": "https://pasapi.technology.ca.gov/index.html",
   "www": false,
   "active": true,
   "includeInScan": true,

@@ -1,6 +1,6 @@
 {
   "domain": "cityofblythe.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://www.cityofblythe.ca.gov/",
   "www": true,
   "active": true,
   "includeInScan": true,

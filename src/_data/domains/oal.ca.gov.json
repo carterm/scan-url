@@ -1,6 +1,6 @@
 {
   "domain": "oal.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://oal.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

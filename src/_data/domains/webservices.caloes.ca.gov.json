@@ -1,6 +1,6 @@
 {
   "domain": "webservices.caloes.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://webservices.caloes.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

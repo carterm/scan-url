@@ -1,6 +1,6 @@
 {
   "domain": "cers.calepa.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://cers.calepa.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

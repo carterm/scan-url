@@ -1,6 +1,6 @@
 {
   "domain": "kids.parks.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://kids.parks.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,

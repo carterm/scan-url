@@ -1,6 +1,6 @@
 {
   "domain": "hollister.ca.gov",
-  "targetURL": "/",
+  "targetURL": "https://hollister.ca.gov/",
   "www": false,
   "active": true,
   "includeInScan": true,
