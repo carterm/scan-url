@@ -5,6 +5,7 @@
  * @property {string} domain
  * @property {string} preferredPath
  * @property {boolean} www
+ * @property {string} title
  * @property {number | null} lastStatus
  * @property {string | null} lastChecked
  * @property {string[]} redirects
@@ -70,6 +71,7 @@ function createStarterRecord(domain, preferredPath, www) {
     domain,
     preferredPath,
     www,
+    title: `title for ${domain}`,
     lastStatus: null,
     lastChecked: null,
     redirects: [],

@@ -2,6 +2,7 @@
   "domain": "cmips.osi.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for cmips.osi.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

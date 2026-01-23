@@ -2,6 +2,7 @@
   "domain": "bpelsg.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for bpelsg.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

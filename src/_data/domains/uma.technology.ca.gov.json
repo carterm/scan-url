@@ -2,6 +2,7 @@
   "domain": "uma.technology.ca.gov",
   "preferredPath": "/Account/Login",
   "www": false,
+  "title": "title for uma.technology.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

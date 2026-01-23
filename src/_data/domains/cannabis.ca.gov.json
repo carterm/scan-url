@@ -2,6 +2,7 @@
   "domain": "cannabis.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for cannabis.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

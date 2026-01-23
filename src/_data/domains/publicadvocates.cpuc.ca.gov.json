@@ -2,6 +2,7 @@
   "domain": "publicadvocates.cpuc.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for publicadvocates.cpuc.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

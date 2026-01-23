@@ -2,6 +2,7 @@
   "domain": "eaap.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for eaap.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

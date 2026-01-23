@@ -2,6 +2,7 @@
   "domain": "calosba.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for calosba.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

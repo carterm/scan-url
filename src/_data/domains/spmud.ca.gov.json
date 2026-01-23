@@ -2,6 +2,7 @@
   "domain": "spmud.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for spmud.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

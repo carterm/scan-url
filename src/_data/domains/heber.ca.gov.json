@@ -2,6 +2,7 @@
   "domain": "heber.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for heber.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

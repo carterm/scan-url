@@ -2,6 +2,7 @@
   "domain": "cdph.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for cdph.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

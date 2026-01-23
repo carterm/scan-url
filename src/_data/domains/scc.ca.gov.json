@@ -2,6 +2,7 @@
   "domain": "scc.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for scc.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

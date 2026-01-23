@@ -2,6 +2,7 @@
   "domain": "westnile.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for westnile.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

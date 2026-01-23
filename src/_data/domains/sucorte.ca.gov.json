@@ -2,6 +2,7 @@
   "domain": "sucorte.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for sucorte.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

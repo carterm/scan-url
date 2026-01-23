@@ -2,6 +2,7 @@
   "domain": "bars.dre.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for bars.dre.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

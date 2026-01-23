@@ -2,6 +2,7 @@
   "domain": "bsis.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for bsis.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

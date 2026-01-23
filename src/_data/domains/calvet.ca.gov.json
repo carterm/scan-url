@@ -2,6 +2,7 @@
   "domain": "calvet.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for calvet.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

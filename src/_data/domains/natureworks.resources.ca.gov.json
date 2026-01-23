@@ -2,6 +2,7 @@
   "domain": "natureworks.resources.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for natureworks.resources.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

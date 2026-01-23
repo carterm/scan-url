@@ -2,6 +2,7 @@
   "domain": "ombc.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for ombc.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

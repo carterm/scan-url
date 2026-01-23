@@ -2,6 +2,7 @@
   "domain": "hwts.dtsc.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for hwts.dtsc.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

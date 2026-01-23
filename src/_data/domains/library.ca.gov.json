@@ -2,6 +2,7 @@
   "domain": "library.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for library.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

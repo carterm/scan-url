@@ -2,6 +2,7 @@
   "domain": "bvwd.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for bvwd.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

@@ -2,6 +2,7 @@
   "domain": "eddservices.edd.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for eddservices.edd.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

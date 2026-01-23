@@ -2,6 +2,7 @@
   "domain": "dcss.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for dcss.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

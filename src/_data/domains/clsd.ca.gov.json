@@ -2,6 +2,7 @@
   "domain": "clsd.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for clsd.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

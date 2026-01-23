@@ -2,6 +2,7 @@
   "domain": "ecos.ca.gov",
   "preferredPath": "/Login.aspx",
   "www": false,
+  "title": "title for ecos.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

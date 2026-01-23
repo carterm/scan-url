@@ -2,6 +2,7 @@
   "domain": "mfde.wildlife.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for mfde.wildlife.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

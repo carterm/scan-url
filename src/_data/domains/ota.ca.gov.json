@@ -2,6 +2,7 @@
   "domain": "ota.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for ota.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

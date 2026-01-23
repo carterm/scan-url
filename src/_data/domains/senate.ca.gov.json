@@ -2,6 +2,7 @@
   "domain": "senate.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for senate.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

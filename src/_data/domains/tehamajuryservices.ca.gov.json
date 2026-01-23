@@ -2,6 +2,7 @@
   "domain": "tehamajuryservices.ca.gov",
   "preferredPath": "/login",
   "www": false,
+  "title": "title for tehamajuryservices.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

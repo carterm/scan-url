@@ -2,6 +2,7 @@
   "domain": "report.oshpd.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for report.oshpd.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

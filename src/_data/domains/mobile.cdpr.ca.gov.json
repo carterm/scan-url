@@ -2,6 +2,7 @@
   "domain": "mobile.cdpr.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for mobile.cdpr.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

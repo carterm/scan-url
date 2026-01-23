@@ -2,6 +2,7 @@
   "domain": "sanbruno.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for sanbruno.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

@@ -2,6 +2,7 @@
   "domain": "dor.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for dor.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

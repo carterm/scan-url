@@ -2,6 +2,7 @@
   "domain": "evq.dtsc.ca.gov",
   "preferredPath": "/Home.aspx",
   "www": false,
+  "title": "title for evq.dtsc.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

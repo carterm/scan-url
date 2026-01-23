@@ -2,6 +2,7 @@
   "domain": "climateassessment.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for climateassessment.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

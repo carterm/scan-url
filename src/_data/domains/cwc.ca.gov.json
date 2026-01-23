@@ -2,6 +2,7 @@
   "domain": "cwc.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for cwc.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

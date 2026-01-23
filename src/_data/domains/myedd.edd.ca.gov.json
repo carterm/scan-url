@@ -2,6 +2,7 @@
   "domain": "myedd.edd.ca.gov",
   "preferredPath": "/s/login/",
   "www": false,
+  "title": "title for myedd.edd.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

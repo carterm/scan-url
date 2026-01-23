@@ -2,6 +2,7 @@
   "domain": "tulare.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for tulare.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

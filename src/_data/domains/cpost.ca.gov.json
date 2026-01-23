@@ -2,6 +2,7 @@
   "domain": "cpost.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for cpost.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

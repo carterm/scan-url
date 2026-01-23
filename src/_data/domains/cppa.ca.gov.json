@@ -2,6 +2,7 @@
   "domain": "cppa.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for cppa.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

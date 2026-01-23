@@ -2,6 +2,7 @@
   "domain": "cers.calepa.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for cers.calepa.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

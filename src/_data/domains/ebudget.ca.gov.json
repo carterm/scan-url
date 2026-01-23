@@ -2,6 +2,7 @@
   "domain": "ebudget.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for ebudget.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

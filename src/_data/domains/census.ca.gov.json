@@ -2,6 +2,7 @@
   "domain": "census.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for census.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

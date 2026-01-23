@@ -1,0 +1,19 @@
+---
+pagination:
+  data: domains
+  size: 1
+  alias: item
+  addAllPagesToCollections : true
+eleventyComputed:
+  title: "{{ domains[item].title }}"
+  permalink: "domains/{{ domains[item].domain }}/"
+---
+
+{% set domainData = domains[item] %}
+
+<h1 class="mb-4 text-3xl font-bold">{{ domainData.domain }}</h1>
+<p>title: {{ domainData.title }}</p>
+
+<p>data:</p>
+
+<pre>{{ domainData | dump(2) | safe }}</pre>

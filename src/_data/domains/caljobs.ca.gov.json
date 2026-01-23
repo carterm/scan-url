@@ -2,6 +2,7 @@
   "domain": "caljobs.ca.gov",
   "preferredPath": "/vosnet/default.aspx",
   "www": true,
+  "title": "title for caljobs.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

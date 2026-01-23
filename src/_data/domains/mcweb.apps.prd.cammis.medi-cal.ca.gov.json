@@ -2,6 +2,7 @@
   "domain": "mcweb.apps.prd.cammis.medi-cal.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for mcweb.apps.prd.cammis.medi-cal.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

@@ -2,6 +2,7 @@
   "domain": "pestboard.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for pestboard.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

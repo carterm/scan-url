@@ -2,6 +2,7 @@
   "domain": "scdd.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for scdd.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

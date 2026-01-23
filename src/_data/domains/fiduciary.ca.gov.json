@@ -2,6 +2,7 @@
   "domain": "fiduciary.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for fiduciary.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

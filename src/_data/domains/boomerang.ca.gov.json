@@ -2,6 +2,7 @@
   "domain": "boomerang.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for boomerang.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

@@ -2,6 +2,7 @@
   "domain": "gcc.sco.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for gcc.sco.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

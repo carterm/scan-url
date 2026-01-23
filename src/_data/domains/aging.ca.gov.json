@@ -2,6 +2,7 @@
   "domain": "aging.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for aging.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

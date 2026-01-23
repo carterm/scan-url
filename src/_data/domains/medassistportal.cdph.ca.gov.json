@@ -2,6 +2,7 @@
   "domain": "medassistportal.cdph.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for medassistportal.cdph.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

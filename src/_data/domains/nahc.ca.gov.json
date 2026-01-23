@@ -2,6 +2,7 @@
   "domain": "nahc.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for nahc.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

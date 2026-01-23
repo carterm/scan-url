@@ -2,6 +2,7 @@
   "domain": "alpha.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for alpha.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

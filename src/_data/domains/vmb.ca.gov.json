@@ -2,6 +2,7 @@
   "domain": "vmb.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for vmb.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

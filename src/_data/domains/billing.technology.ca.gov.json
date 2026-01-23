@@ -2,6 +2,7 @@
   "domain": "billing.technology.ca.gov",
   "preferredPath": "/login.aspx",
   "www": false,
+  "title": "title for billing.technology.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

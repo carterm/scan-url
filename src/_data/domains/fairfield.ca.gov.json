@@ -2,6 +2,7 @@
   "domain": "fairfield.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for fairfield.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

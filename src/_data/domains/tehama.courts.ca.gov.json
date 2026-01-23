@@ -2,6 +2,7 @@
   "domain": "tehama.courts.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for tehama.courts.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

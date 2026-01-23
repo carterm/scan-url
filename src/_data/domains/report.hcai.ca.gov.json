@@ -2,6 +2,7 @@
   "domain": "report.hcai.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for report.hcai.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

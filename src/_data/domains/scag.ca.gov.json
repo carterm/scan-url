@@ -2,6 +2,7 @@
   "domain": "scag.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for scag.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

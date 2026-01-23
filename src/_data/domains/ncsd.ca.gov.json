@@ -2,6 +2,7 @@
   "domain": "ncsd.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for ncsd.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

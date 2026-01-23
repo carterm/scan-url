@@ -2,6 +2,7 @@
   "domain": "tomalescsd.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for tomalescsd.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

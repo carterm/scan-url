@@ -2,6 +2,7 @@
   "domain": "ojai.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for ojai.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

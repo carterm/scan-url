@@ -2,6 +2,7 @@
   "domain": "tahoe.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for tahoe.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

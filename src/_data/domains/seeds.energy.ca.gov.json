@@ -2,6 +2,7 @@
   "domain": "seeds.energy.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for seeds.energy.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

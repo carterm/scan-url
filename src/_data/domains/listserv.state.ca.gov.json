@@ -2,6 +2,7 @@
   "domain": "listserv.state.ca.gov",
   "preferredPath": "/wa.exe",
   "www": false,
+  "title": "title for listserv.state.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

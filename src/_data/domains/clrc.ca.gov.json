@@ -2,6 +2,7 @@
   "domain": "clrc.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for clrc.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

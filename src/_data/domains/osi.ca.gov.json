@@ -2,6 +2,7 @@
   "domain": "osi.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for osi.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

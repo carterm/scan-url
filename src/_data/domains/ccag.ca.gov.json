@@ -2,6 +2,7 @@
   "domain": "ccag.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for ccag.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

@@ -2,6 +2,7 @@
   "domain": "corc.hcai.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for corc.hcai.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

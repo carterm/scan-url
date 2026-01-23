@@ -2,6 +2,7 @@
   "domain": "secure.dre.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for secure.dre.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

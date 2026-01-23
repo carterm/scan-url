@@ -2,6 +2,7 @@
   "domain": "csdr-cde.ca.gov",
   "preferredPath": "/",
   "www": true,
+  "title": "title for csdr-cde.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],

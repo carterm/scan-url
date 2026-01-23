@@ -2,6 +2,7 @@
   "domain": "beacon.ca.gov",
   "preferredPath": "/",
   "www": false,
+  "title": "title for beacon.ca.gov",
   "lastStatus": null,
   "lastChecked": null,
   "redirects": [],
