@@ -41,35 +41,55 @@ function saveRecord(filePath, record) {
 }
 
 /**
- * Create a new starter domain record.
+ * Create a new starter DomainRecord.
  * @param {string} domain
- * @param {string} preferredPath
+ * @param {string} targetURL
  * @param {boolean} www
  * @returns {DomainRecord}
  */
-function createStarterRecord(domain, preferredPath, www) {
-  const domainRecord = createDomainRecord();
-  domainRecord.domain = domain;
-  domainRecord.preferredPath = preferredPath;
-  domainRecord.www = www;
-  domainRecord.title = "Title for " + domain;
-  return domainRecord;
+function createStarterRecord(domain, targetURL, www) {
+  const record = createDomainRecord();
+
+  record.domain = domain;
+  record.targetURL = targetURL;
+  record.www = www;
+
+  return record;
 }
 
 /**
- * Update an existing record with new ingestion info.
+ * Update an existing DomainRecord with new ingestion info.
+ * Only updates fields that ingestion is responsible for.
+ *
  * @param {DomainRecord} record
- * @param {string} preferredPath
+ * @param {string} targetURL
  * @param {boolean} www
  */
-function updateRecordFromIngest(record, preferredPath, www) {
-  if (preferredPath.length < record.preferredPath.length) {
-    record.preferredPath = preferredPath;
+function updateRecordFromIngest(record, targetURL, www) {
+  // Update targetURL only if the new one is "better"
+  // Rule: shortest URL wins (e.g., https://example.com/ beats https://example.com/about)
+  if (!record.targetURL || targetURL.length < record.targetURL.length) {
+    record.targetURL = targetURL;
   }
 
+  // Update www flag if new info indicates it should be true
   if (www && !record.www) {
     record.www = true;
   }
+
+  // Ingestion does NOT touch:
+  // - active
+  // - includeInScan
+  // - metaGenerator
+  // - finalUrl
+  // - responseHeaders
+  // - httpVersion
+  // - contentSize
+  // - cloudflare, slow, template flags
+  // - analytics, social links
+  // - cosmeticTargetURL
+  // - errorMessage
+  // - notes
 }
 
 /**
