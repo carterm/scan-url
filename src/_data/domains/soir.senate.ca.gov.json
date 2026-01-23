@@ -14,10 +14,6 @@
       "value": "none"
     },
     {
-      "name": "cache-control",
-      "value": "max-age=86400, public"
-    },
-    {
       "name": "connection",
       "value": "Keep-Alive"
     },
@@ -62,14 +58,6 @@
       "value": "Cache-enabled"
     },
     {
-      "name": "x-cache-age",
-      "value": "144"
-    },
-    {
-      "name": "x-cache-ttl-remaining",
-      "value": "604655.475"
-    },
-    {
       "name": "x-cacheable",
       "value": "YES"
     },
@@ -92,10 +80,6 @@
     {
       "name": "x-ttl",
       "value": "604800"
-    },
-    {
-      "name": "x-varnish",
-      "value": "48529211 47504270"
     },
     {
       "name": "x-varnish-cache",

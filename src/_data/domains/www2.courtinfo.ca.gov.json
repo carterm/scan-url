@@ -32,10 +32,6 @@
     {
       "name": "x-content-type-options",
       "value": "nosniff"
-    },
-    {
-      "name": "x-volterra-location",
-      "value": "sv10-sjc"
     }
   ],
   "cloudflare": false,

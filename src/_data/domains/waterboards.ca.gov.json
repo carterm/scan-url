@@ -14,10 +14,6 @@
       "value": "bytes"
     },
     {
-      "name": "cache-control",
-      "value": "no-cache"
-    },
-    {
       "name": "connection",
       "value": "Keep-Alive"
     },
@@ -40,6 +36,10 @@
     {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains; preload"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
     },
     {
       "name": "vary",

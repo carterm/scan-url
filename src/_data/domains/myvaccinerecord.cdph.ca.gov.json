@@ -10,10 +10,6 @@
   "metaGenerator": null,
   "responseHeaders": [
     {
-      "name": "cache-control",
-      "value": "no-store"
-    },
-    {
       "name": "content-encoding",
       "value": "gzip"
     },
@@ -48,10 +44,6 @@
     {
       "name": "x-frame-options",
       "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-volterra-location",
-      "value": "b-sv10-sjc"
     }
   ],
   "cloudflare": false,

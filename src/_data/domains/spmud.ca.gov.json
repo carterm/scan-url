@@ -10,10 +10,6 @@
   "metaGenerator": null,
   "responseHeaders": [
     {
-      "name": "cache-control",
-      "value": "max-age=0, private, must-revalidate"
-    },
-    {
       "name": "content-encoding",
       "value": "gzip"
     },
@@ -52,10 +48,6 @@
     {
       "name": "x-permitted-cross-domain-policies",
       "value": "none"
-    },
-    {
-      "name": "x-request-id",
-      "value": "d088e284-2e1e-4133-9ff8-541baf078c02"
     },
     {
       "name": "x-xss-protection",

@@ -10,10 +10,6 @@
   "metaGenerator": null,
   "responseHeaders": [
     {
-      "name": "cache-control",
-      "value": "no-cache"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
     },

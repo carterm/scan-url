@@ -10,10 +10,6 @@
   "metaGenerator": null,
   "responseHeaders": [
     {
-      "name": "cache-control",
-      "value": "private, max-age=0"
-    },
-    {
       "name": "content-encoding",
       "value": "gzip"
     },
@@ -52,10 +48,6 @@
     {
       "name": "x-sharepointhealthscore",
       "value": "0"
-    },
-    {
-      "name": "x-volterra-location",
-      "value": "sv10-sjc"
     }
   ],
   "cloudflare": false,

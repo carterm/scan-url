@@ -18,10 +18,6 @@
       "value": "*"
     },
     {
-      "name": "cache-control",
-      "value": "max-age=2764800, public"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -76,10 +72,6 @@
     {
       "name": "x-frame-options",
       "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-request-id",
-      "value": "v-2437c9a8-f8b5-11f0-92c5-27ad9bbe83fe"
     },
     {
       "name": "x-ua-compatible",

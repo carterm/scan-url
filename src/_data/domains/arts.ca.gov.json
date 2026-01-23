@@ -14,10 +14,6 @@
       "value": "bytes"
     },
     {
-      "name": "cache-control",
-      "value": "public, max-age=600"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -51,7 +47,7 @@
     },
     {
       "name": "x-styx-req-id",
-      "value": "1853d269-f8b5-11f0-ba5b-b2986f440fbf"
+      "value": "8607f977-f8b6-11f0-ba5b-b2986f440fbf"
     },
     {
       "name": "x-tec-api-origin",

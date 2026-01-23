@@ -10,10 +10,6 @@
   "metaGenerator": null,
   "responseHeaders": [
     {
-      "name": "cache-control",
-      "value": "private"
-    },
-    {
       "name": "content-type",
       "value": "text/html"
     },

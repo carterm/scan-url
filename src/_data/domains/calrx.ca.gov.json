@@ -10,10 +10,6 @@
   "metaGenerator": "WordPress 6.9",
   "responseHeaders": [
     {
-      "name": "cache-control",
-      "value": "max-age=0, s-maxage=250, must-revalidate"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -43,7 +39,7 @@
     },
     {
       "name": "x-btcache",
-      "value": "HIT"
+      "value": "MISS"
     },
     {
       "name": "x-btcache-served",

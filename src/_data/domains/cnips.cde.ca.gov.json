@@ -6,16 +6,12 @@
   "includeInScan": true,
   "title": "Radware Captcha Page",
   "lastStatus": 200,
-  "finalUrl": "https://validate.perfdrive.com/?ssa=b4ded3e4-88f1-4409-802c-da74e76c554e&ssb=73535277547&ssc=https%3A%2F%2Fcnips.cde.ca.gov%2FSplash.aspx&ssi=05145523-cucv-4ce6-879d-89294bed49a6&ssk=botmanager_support@radware.com&ssm=06915200120901146104235317699472&ssn=6f3221b3f698105b4d06730cab30245273ec0c026c96-7bf2-4248-8f658d&sso=b7c34a27-9457b338d22963dd2780a9d3009b92a23790f7ce1d8a9017&ssp=59088452391769296105176927583472119&ssq=52447071185026484118711850308099555702936&ssr=NzMuOTAuMjEwLjIyNw==&sst=undici&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDAwYzAyNmM5Ni03YmYyLTQyNDgtOGEyNy05NDU3YjMzOGQyMjkxLTE3NjkyMTE4NTA2NjQwLTAwMjc0YjMzMGFkN2Y4ZGMxN2ExMCIsInV6bXgiOiI3ZjkwMDA3MWRkM2NkMi1iMTU0LTRlYWItYjc0Ni0yZGI0YzAxYjk3MjkxLTE3NjkyMTE4NTA2NjQwLWZmM2FmZDllMzE4MDY0M2IxMCIsInJkIjoiY2EuZ292In0=",
+  "finalUrl": "https://validate.perfdrive.com/?ssa=a485feb9-0102-4c1c-bb0f-10247dba16ce&ssb=00139255836&ssc=https%3A%2F%2Fcnips.cde.ca.gov%2FSplash.aspx&ssi=03dbbca2-cucv-4154-b3f2-8c0b148a7ab9&ssk=botmanager_support@radware.com&ssm=85092687512396813103704024933701&ssn=3527eea4f1577867ace41103c67497863af64330b42e-190b-468d-bb69f7&sso=3927882f-dc5514c54f17fca6b39d57b863ed0d0d4ce7d077fad483df&ssp=50863509961769252165176921330696049&ssq=89588691233686461875512336628716957534668&ssr=NzMuOTAuMjEwLjIyNw==&sst=undici&ssu=&ssv=&ssw=&ssx=eyJyZCI6ImNhLmdvdiIsIl9fdXptZiI6IjdmOTAwMDQzMzBiNDJlLTE5MGItNDY4ZC1iODJmLWRjNTUxNGM1NGYxNzEtMTc2OTIxMjMzNjEyMzAtMDAyZjM2Y2MxMjNiMmMxOTUwODEwIiwidXpteCI6IjdmOTAwMDA0ZTY3YWM1LTUzZDMtNDk3Ny1iMGMwLWViMDY4Y2UwZTZlYTEtMTc2OTIxMjMzNjEyMzAtMjY0NDFkZmYyYzE2NjQ5MjEwIn0=",
   "metaGenerator": null,
   "responseHeaders": [
     {
       "name": "alt-svc",
       "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
-    },
-    {
-      "name": "cache-control",
-      "value": "no-store, no-cache, must-revalidate"
     },
     {
       "name": "connection",

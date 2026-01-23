@@ -14,10 +14,6 @@
       "value": "h3=\":443\"; ma=86400, h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000"
     },
     {
-      "name": "cache-control",
-      "value": "public, max-age=2678400"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -72,10 +68,6 @@
     {
       "name": "x-gateway-skip-cache",
       "value": "0"
-    },
-    {
-      "name": "x-sucuri-cache",
-      "value": "HIT"
     },
     {
       "name": "x-sucuri-id",

@@ -14,10 +14,6 @@
       "value": "h3=\":443\"; ma=86400"
     },
     {
-      "name": "cache-control",
-      "value": "no-cache, must-revalidate, max-age=0, no-store, private"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },

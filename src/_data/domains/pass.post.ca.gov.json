@@ -10,10 +10,6 @@
   "metaGenerator": null,
   "responseHeaders": [
     {
-      "name": "cache-control",
-      "value": "no-store"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -51,7 +47,7 @@
     },
     {
       "name": "x-requestid",
-      "value": "494ce2be-3a3b-4c40-82cc-bec83d7a438a"
+      "value": "f8bc723b-5f00-4144-9dfa-edfd5a0512cd"
     },
     {
       "name": "x-xss-protection",

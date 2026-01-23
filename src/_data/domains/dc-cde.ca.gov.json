@@ -10,10 +10,6 @@
   "metaGenerator": "Jekyll v3.8.5",
   "responseHeaders": [
     {
-      "name": "cache-control",
-      "value": "private"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },

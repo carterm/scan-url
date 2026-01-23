@@ -10,10 +10,6 @@
   "metaGenerator": null,
   "responseHeaders": [
     {
-      "name": "cache-control",
-      "value": "no-store, must-revalidate, private,must-revalidate,max-age=0,private"
-    },
-    {
       "name": "content-type",
       "value": "text/html"
     },
@@ -31,7 +27,7 @@
     },
     {
       "name": "x-wt",
-      "value": "78"
+      "value": "67"
     }
   ],
   "cloudflare": false,

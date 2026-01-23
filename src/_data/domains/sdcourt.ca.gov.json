@@ -14,10 +14,6 @@
       "value": "*"
     },
     {
-      "name": "cache-control",
-      "value": "max-age=3600, public"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -64,10 +60,6 @@
     {
       "name": "x-generator",
       "value": "Drupal 10 (https://www.drupal.org)"
-    },
-    {
-      "name": "x-request-id",
-      "value": "v-5dad294e-f8b5-11f0-b378-bb8253169ab6"
     },
     {
       "name": "x-xss-protection",

@@ -18,10 +18,6 @@
       "value": "https://senatetv.calegis.net"
     },
     {
-      "name": "cache-control",
-      "value": "max-age=900, public"
-    },
-    {
       "name": "connection",
       "value": "Keep-Alive"
     },
@@ -66,14 +62,6 @@
       "value": "Cache-enabled"
     },
     {
-      "name": "x-cache-age",
-      "value": "146"
-    },
-    {
-      "name": "x-cache-ttl-remaining",
-      "value": "2629599.918"
-    },
-    {
       "name": "x-cacheable",
       "value": "YES"
     },
@@ -100,10 +88,6 @@
     {
       "name": "x-ttl",
       "value": "2629746"
-    },
-    {
-      "name": "x-varnish",
-      "value": "47504436 48741987"
     },
     {
       "name": "x-varnish-cache",

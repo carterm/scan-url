@@ -22,10 +22,6 @@
       "value": "true"
     },
     {
-      "name": "cache-control",
-      "value": "private"
-    },
-    {
       "name": "content-encoding",
       "value": "gzip"
     },

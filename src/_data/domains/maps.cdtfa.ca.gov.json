@@ -14,8 +14,8 @@
       "value": "allow"
     },
     {
-      "name": "cache-control",
-      "value": "no-cache, no-store, max-age=0"
+      "name": "content-encoding",
+      "value": "gzip"
     },
     {
       "name": "content-type",
@@ -40,6 +40,10 @@
     {
       "name": "transfer-encoding",
       "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
     },
     {
       "name": "x-frame-options",

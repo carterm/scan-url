@@ -10,14 +10,6 @@
   "metaGenerator": null,
   "responseHeaders": [
     {
-      "name": "akamai-grn",
-      "value": "0.67a7cb17.1769211841.8cf07156"
-    },
-    {
-      "name": "cache-control",
-      "value": "no-cache,must-revalidate,max-age=0,no-store,private"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -26,20 +18,12 @@
       "value": "gzip"
     },
     {
-      "name": "content-security-policy-report-only",
-      "value": "script-src https://www.googletagmanager.com/gtm.js 'unsafe-inline' 'self' https://payments.salesforce.com/ https://stats.g.doubleclick.net https://checkoutshopper-test.adyen.com/ https://pal-test.adyen.com https://checkoutshopper-live.adyen.com/ https://cdn.content.aws-prod1-useast1.aws.sfdc.cl/ https://pay.google.com https://www.gstatic.com/recaptcha/ https://uip.canary.lwc.dev https://cdn.content.aws-dev2-uswest2.aws.sfdc.cl/ blob: https://www.googletagmanager.com/gtag/js https://www.google.com/recaptcha/ https://js.stripe.com/ import: https://www.google-analytics.com *.salesforce.com https://www.paypal.com/sdk/js 'report-sample' https://service.force.com/embeddedservice/ 'unsafe-eval'; report-to sfdc-csp-ep; report-uri https://eddcontact.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Dt00000004XiB&networkId=0DMt00000008OzP&type=communities"
-    },
-    {
       "name": "content-type",
       "value": "text/html;charset=UTF-8"
     },
     {
       "name": "link",
       "value": "</s/sfsites/auraFW/javascript/REdtNUF5ejJUNWxpdVllUjQtUzV4UTFLcUUxeUY3ZVB6dE9hR0VheDVpb2cxMy4zMzU1NDQzMi41MDMzMTY0OA/aura_prod.js>;rel=preload;as=script;nopush,</s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22dfs%22%3A%228%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22fwuid%22%3A%22REdtNUF5ejJUNWxpdVllUjQtUzV4UTFLcUUxeUY3ZVB6dE9hR0VheDVpb2cxMy4zMzU1NDQzMi41MDMzMTY0OA%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%221421_mg1QpGWKsu060_sD-hU2fg%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22JHt0aW1lc3RhbXB9MDAwMDAwMDAwMDBlbl9VUw%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22551347034%22%7D/resources.js?pu=1&pv=17689481200001346445778&rv=1767144419000>;rel=preload;as=script;nopush,</s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22dfs%22%3A%228%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22serializationVersion%22%3A%221-13.33554432.50331648-b%22%2C%22parts%22%3A%22f%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%221421_mg1QpGWKsu060_sD-hU2fg%22%7D%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22551347034%22%7D/app.js?3=>;rel=preload;as=script;nopush"
-    },
-    {
-      "name": "report-to",
-      "value": "{\"endpoints\":[{\"url\":\"https://eddcontact.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Dt00000004XiB&networkId=0DMt00000008OzP&type=communities\"}],\"max_age\":31536000,\"group\":\"sfdc-csp-ep\"}"
     },
     {
       "name": "reporting-endpoints",

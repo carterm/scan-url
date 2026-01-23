@@ -10,10 +10,6 @@
   "metaGenerator": null,
   "responseHeaders": [
     {
-      "name": "cache-control",
-      "value": "max-age=86400, public"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -75,11 +71,11 @@
     },
     {
       "name": "x-pantheon-styx-hostname",
-      "value": "styx-fe1-b-6d866b556d-942r5"
+      "value": "styx-fe1-b-6d866b556d-xzcl7"
     },
     {
       "name": "x-styx-req-id",
-      "value": "56b00810-f8b5-11f0-9cd3-22bc5758a205"
+      "value": "0797c6e6-f8b6-11f0-be26-66ec2e82e3e1"
     },
     {
       "name": "x-xss-protection",

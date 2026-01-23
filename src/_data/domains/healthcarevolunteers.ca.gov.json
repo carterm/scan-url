@@ -10,10 +10,6 @@
   "metaGenerator": null,
   "responseHeaders": [
     {
-      "name": "cache-control",
-      "value": "no-cache,no-store,max-age=3600"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -28,10 +24,6 @@
     {
       "name": "x-amz-version-id",
       "value": "xgVOA7i0xaS9VPhP1rbGwKgAhH2FFTlp"
-    },
-    {
-      "name": "x-cache-status",
-      "value": "MISS"
     }
   ],
   "cloudflare": false,

@@ -14,10 +14,6 @@
       "value": "allow"
     },
     {
-      "name": "cache-control",
-      "value": "no-cache, no-store, max-age=0"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },

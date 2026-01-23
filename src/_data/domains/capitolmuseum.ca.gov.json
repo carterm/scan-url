@@ -38,10 +38,6 @@
       "value": "Accept-Encoding"
     },
     {
-      "name": "x-cache-status",
-      "value": "HIT"
-    },
-    {
       "name": "x-content-type-options",
       "value": "nosniff"
     },

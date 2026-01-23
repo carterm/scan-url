@@ -50,10 +50,6 @@
       "value": "SAMEORIGIN"
     },
     {
-      "name": "x-sucuri-cache",
-      "value": "EXPIRED"
-    },
-    {
       "name": "x-sucuri-id",
       "value": "11035"
     },

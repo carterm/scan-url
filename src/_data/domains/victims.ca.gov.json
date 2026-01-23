@@ -10,10 +10,6 @@
   "metaGenerator": "WordPress 6.8.3",
   "responseHeaders": [
     {
-      "name": "cache-control",
-      "value": "max-age=101, must-revalidate"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -52,10 +48,6 @@
     {
       "name": "x-frame-options",
       "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-tenup-cache",
-      "value": "EXPIRED"
     }
   ],
   "cloudflare": false,

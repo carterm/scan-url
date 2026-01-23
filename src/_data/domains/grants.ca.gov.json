@@ -10,10 +10,6 @@
   "metaGenerator": null,
   "responseHeaders": [
     {
-      "name": "cache-control",
-      "value": "max-age=0, s-maxage=192, must-revalidate"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -47,7 +43,7 @@
     },
     {
       "name": "x-btcache",
-      "value": "HIT"
+      "value": "MISS"
     },
     {
       "name": "x-btcache-served",
@@ -60,10 +56,6 @@
     {
       "name": "x-frame-options",
       "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-tenup-cache",
-      "value": "HIT"
     }
   ],
   "cloudflare": false,

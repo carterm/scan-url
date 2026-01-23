@@ -14,10 +14,6 @@
       "value": "bytes"
     },
     {
-      "name": "cache-control",
-      "value": "max-age=10800, public"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -67,7 +63,7 @@
     },
     {
       "name": "x-pantheon-styx-hostname",
-      "value": "styx-fe4-b-86cbf58b65-hxj46"
+      "value": "styx-fe4-b-86cbf58b65-cjk27"
     },
     {
       "name": "x-robots-tag",
@@ -75,7 +71,7 @@
     },
     {
       "name": "x-styx-req-id",
-      "value": "9ccd90e3-f8ac-11f0-a820-d215e4764265"
+      "value": "a06790e5-f8b5-11f0-a698-9e5e80f28646"
     },
     {
       "name": "x-ua-compatible",

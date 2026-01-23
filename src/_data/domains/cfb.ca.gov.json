@@ -18,10 +18,6 @@
       "value": "true"
     },
     {
-      "name": "cache-control",
-      "value": "max-age=16070400; includeSubdomains; preload"
-    },
-    {
       "name": "connection",
       "value": "Keep-Alive"
     },

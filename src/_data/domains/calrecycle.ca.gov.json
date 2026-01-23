@@ -14,10 +14,6 @@
       "value": "h3=\":443\"; ma=86400"
     },
     {
-      "name": "cache-control",
-      "value": "no-cache, must-revalidate, max-age=0, no-store, private"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -51,7 +47,11 @@
     },
     {
       "name": "vary",
-      "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding"
+      "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
+    },
+    {
+      "name": "x-cache-enabled",
+      "value": "False"
     },
     {
       "name": "x-cache-group",
@@ -59,7 +59,7 @@
     },
     {
       "name": "x-cacheable",
-      "value": "NO:Private"
+      "value": "SHORT"
     },
     {
       "name": "x-content-type-options",
@@ -67,7 +67,7 @@
     },
     {
       "name": "x-orig-cache-control",
-      "value": "no-cache, must-revalidate, max-age=0, no-store, private"
+      "value": "no-store, no-cache"
     },
     {
       "name": "x-powered-by",

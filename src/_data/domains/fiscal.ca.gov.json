@@ -10,10 +10,6 @@
   "metaGenerator": "Divi Child v.3.11.1.1533591462",
   "responseHeaders": [
     {
-      "name": "cache-control",
-      "value": "must-revalidate, max-age=3"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -55,7 +51,7 @@
     },
     {
       "name": "x-ms-middleware-request-id",
-      "value": "1966b344-21f6-4fe6-adff-833582656bd9"
+      "value": "fbca9af7-4063-4f5e-9a54-367df5342dbb"
     },
     {
       "name": "x-powered-by",

@@ -10,10 +10,6 @@
   "metaGenerator": "Webflow",
   "responseHeaders": [
     {
-      "name": "cache-control",
-      "value": "no-cache, no-store, must-revalidate,max-age:12300"
-    },
-    {
       "name": "content-encoding",
       "value": "gzip"
     },

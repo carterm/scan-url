@@ -10,10 +10,6 @@
   "metaGenerator": "Drupal 7 (http://drupal.org)",
   "responseHeaders": [
     {
-      "name": "cache-control",
-      "value": "public, max-age=0"
-    },
-    {
       "name": "connection",
       "value": "Keep-Alive"
     },

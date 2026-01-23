@@ -10,10 +10,6 @@
   "metaGenerator": "Powered by LayerSlider 7.1.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress.",
   "responseHeaders": [
     {
-      "name": "cache-control",
-      "value": "max-age=600, must-revalidate"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },

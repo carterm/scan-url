@@ -10,10 +10,6 @@
   "metaGenerator": null,
   "responseHeaders": [
     {
-      "name": "cache-control",
-      "value": "max-age=7200, s-maxage=7200"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },

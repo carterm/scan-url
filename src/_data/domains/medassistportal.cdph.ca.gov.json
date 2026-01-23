@@ -32,10 +32,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-volterra-location",
-      "value": "b-sv10-sjc"
     }
   ],
   "cloudflare": false,

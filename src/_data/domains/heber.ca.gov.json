@@ -10,10 +10,6 @@
   "metaGenerator": null,
   "responseHeaders": [
     {
-      "name": "cache-control",
-      "value": "must-revalidate, no-cache, private"
-    },
-    {
       "name": "content-encoding",
       "value": "gzip"
     },

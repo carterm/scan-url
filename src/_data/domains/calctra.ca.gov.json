@@ -4,18 +4,45 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
+  "title": "CALCTRA Website » Career Training | Quality Products | Changed Lives",
+  "lastStatus": 200,
+  "finalUrl": "https://www.calctra.ca.gov/",
+  "metaGenerator": "WordPress 6.8.3",
+  "responseHeaders": [
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "link",
+      "value": "<https://www.calctra.ca.gov/wp-json/>; rel=\"https://api.w.org/\""
+    },
+    {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
+      "name": "x-litespeed-tag",
+      "value": "87d_PGSRP"
+    }
+  ],
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.facebook.com/CALCTRA/",
+    "https://www.linkedin.com/company/california-correctional-training-rehabilitation-authority-calctra",
+    "https://www.youtube.com/@CALCTRA",
+    "https://www.instagram.com/calctra/",
+    "https://www.youtube.com/watch?v=RZj4COGbyhY",
+    "https://www.facebook.com/CALCTRA/",
+    "https://www.linkedin.com/company/california-correctional-training-rehabilitation-authority-calctra",
+    "https://www.youtube.com/@CALCTRA",
+    "https://www.instagram.com/calctra/"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

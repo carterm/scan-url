@@ -26,10 +26,6 @@
       "value": "*"
     },
     {
-      "name": "cache-control",
-      "value": "private, no-cache, no-store, max-age=0, must-revalidate"
-    },
-    {
       "name": "content-encoding",
       "value": "br"
     },

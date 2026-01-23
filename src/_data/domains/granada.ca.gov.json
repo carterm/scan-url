@@ -10,16 +10,8 @@
   "metaGenerator": null,
   "responseHeaders": [
     {
-      "name": "cache-control",
-      "value": "max-age=0, private, must-revalidate"
-    },
-    {
       "name": "content-encoding",
       "value": "gzip"
-    },
-    {
-      "name": "content-security-policy-report-only",
-      "value": "default-src 'self' 'unsafe-eval' 'unsafe-hashes' 'unsafe-inline' data: blob: ; form-action 'none' ; frame-ancestors 'self' ; script-src 'unsafe-eval' 'unsafe-hashes' 'report-sample'; report-uri /csp_report; report-to /csp_report"
     },
     {
       "name": "content-type",
@@ -60,10 +52,6 @@
     {
       "name": "x-permitted-cross-domain-policies",
       "value": "none"
-    },
-    {
-      "name": "x-request-id",
-      "value": "2bbf8fe3-bee9-48ce-b710-75e07f1ecc73"
     },
     {
       "name": "x-xss-protection",

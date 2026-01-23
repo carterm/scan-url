@@ -26,10 +26,6 @@
       "value": "WWW-Authenticate"
     },
     {
-      "name": "cache-control",
-      "value": "public, max-age=722"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },

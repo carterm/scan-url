@@ -14,10 +14,6 @@
       "value": "true"
     },
     {
-      "name": "cache-control",
-      "value": "max-age=16070400; includeSubdomains; preload"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
     },

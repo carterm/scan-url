@@ -14,10 +14,6 @@
       "value": "bytes"
     },
     {
-      "name": "cache-control",
-      "value": "no-cache"
-    },
-    {
       "name": "content-encoding",
       "value": "gzip"
     },

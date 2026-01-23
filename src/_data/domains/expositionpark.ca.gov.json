@@ -10,10 +10,6 @@
   "metaGenerator": "Site Kit by Google 1.167.0",
   "responseHeaders": [
     {
-      "name": "cache-control",
-      "value": "no-cache"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },

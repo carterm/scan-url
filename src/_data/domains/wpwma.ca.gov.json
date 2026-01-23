@@ -14,10 +14,6 @@
       "value": "h3=\":443\"; ma=86400"
     },
     {
-      "name": "cache-control",
-      "value": "public, max-age=0, s-maxage=3600"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -56,10 +52,6 @@
     {
       "name": "nel",
       "value": "{\"success_fraction\":0.01,\"report_to\":\"cf-nel\",\"max_age\":604800}"
-    },
-    {
-      "name": "report-to",
-      "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=03Yu7EVSV4nPw5u5%2Bfgwl2xvQBpHZ%2BUtoC0cTu7JyZCu8K0MgQ1Noj0pXmjP8ho3vzDlFIkG8fBP8kkItBUgGk8Pma04By557GIL37%2F1l956iQLKvSVmCm%2BzL3I4DphVGT9LN1fbMdMmfA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
     },
     {
       "name": "server",

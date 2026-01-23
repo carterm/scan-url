@@ -10,10 +10,6 @@
   "metaGenerator": "CAWeb v.1.5.1",
   "responseHeaders": [
     {
-      "name": "cache-control",
-      "value": "max-age=3600, public"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -40,10 +36,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-cache-status",
-      "value": "HIT"
     },
     {
       "name": "x-powered-by",

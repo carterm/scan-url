@@ -10,10 +10,6 @@
   "metaGenerator": "CAWeb v.1.4.21",
   "responseHeaders": [
     {
-      "name": "cache-control",
-      "value": "no-store, no-cache, must-revalidate"
-    },
-    {
       "name": "connection",
       "value": "Keep-Alive"
     },

@@ -14,10 +14,6 @@
       "value": "h3=\":443\"; ma=86400"
     },
     {
-      "name": "cache-control",
-      "value": "max-age=300, must-revalidate"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -52,14 +48,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Cookie"
-    },
-    {
-      "name": "x-ac",
-      "value": "29.bur _atomic_bur STALE"
-    },
-    {
-      "name": "x-nananana",
-      "value": "Batcache-Set"
     }
   ],
   "cloudflare": false,

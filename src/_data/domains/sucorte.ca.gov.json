@@ -14,10 +14,6 @@
       "value": "bytes"
     },
     {
-      "name": "cache-control",
-      "value": "max-age=600, public"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },

@@ -14,10 +14,6 @@
       "value": "bytes"
     },
     {
-      "name": "cache-control",
-      "value": "max-age=31536000, public"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -76,10 +72,6 @@
     {
       "name": "x-generator",
       "value": "Drupal 10 (https://www.drupal.org)"
-    },
-    {
-      "name": "x-request-id",
-      "value": "v-673136cc-f8b5-11f0-b4b2-af41e440363d"
     }
   ],
   "cloudflare": false,

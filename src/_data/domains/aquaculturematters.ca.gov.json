@@ -14,10 +14,6 @@
       "value": "h3=\":443\"; ma=86400"
     },
     {
-      "name": "cache-control",
-      "value": "max-age=117, must-revalidate"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -52,10 +48,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, accept, content-type, cookie"
-    },
-    {
-      "name": "x-ac",
-      "value": "4.sjc _atomic_bur STALE"
     },
     {
       "name": "x-hacker",

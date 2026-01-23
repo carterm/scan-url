@@ -42,16 +42,8 @@
       "value": "Shopify"
     },
     {
-      "name": "report-to",
-      "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=KZtonGMunZIBChX4W24Rd3EAYCa4kRkdCu62nrbtkXUdGwpIWm0pZrGRQYUzz40%2BaEnCsdriEeLKh%2BB6Ki%2Be6BDwp%2BWPprcUeO5GtEcjh6LLE1pbm3jdwPTJLLhe7YpBTT%2B8uu6kyU5EuLKC8kif%2Bw%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
-    },
-    {
       "name": "server",
       "value": "cloudflare"
-    },
-    {
-      "name": "shopify-complexity-score",
-      "value": "3480"
     },
     {
       "name": "strict-transport-security",
@@ -80,10 +72,6 @@
     {
       "name": "x-permitted-cross-domain-policies",
       "value": "none"
-    },
-    {
-      "name": "x-request-id",
-      "value": "1579e934-97f5-4e79-9ab0-230d33e175cc-1769211874"
     },
     {
       "name": "x-shardid",

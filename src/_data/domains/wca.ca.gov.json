@@ -18,10 +18,6 @@
       "value": "h3=\":443\"; ma=86400"
     },
     {
-      "name": "cache-control",
-      "value": "max-age=60, public, no-cache, no-store, max-age=0, must-revalidate"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -63,7 +59,7 @@
     },
     {
       "name": "x-middleware-start",
-      "value": "t=1769211878281781"
+      "value": "t=1769212362180943"
     },
     {
       "name": "x-nb-cached-page",
@@ -71,11 +67,7 @@
     },
     {
       "name": "x-rack-cache",
-      "value": "stale, valid, store"
-    },
-    {
-      "name": "x-request-id",
-      "value": "5e82057b-108f-48a0-be34-c329ac25f594"
+      "value": "fresh"
     }
   ],
   "cloudflare": false,

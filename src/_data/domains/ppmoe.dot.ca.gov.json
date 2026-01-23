@@ -10,10 +10,6 @@
   "metaGenerator": null,
   "responseHeaders": [
     {
-      "name": "cache-control",
-      "value": "no-cache,no-store,must-revalidate,max-age=-1"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -59,7 +55,7 @@
     },
     {
       "name": "x-transaction-id",
-      "value": "c1c75236c32e"
+      "value": "2f991e32876e"
     }
   ],
   "cloudflare": false,

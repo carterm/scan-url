@@ -10,10 +10,6 @@
   "metaGenerator": "CAWeb v.1.6.4",
   "responseHeaders": [
     {
-      "name": "cache-control",
-      "value": "max-age=3, must-revalidate"
-    },
-    {
       "name": "connection",
       "value": "Keep-Alive"
     },

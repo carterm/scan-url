@@ -25,6 +25,7 @@ const removeHeaders = [
   "via",
   "x-amz-cf-id",
   "last-modified",
+  "cache-control",
   "content-security-policy",
   "content-security-policy-report-only",
   "request-id",
@@ -37,7 +38,18 @@ const removeHeaders = [
   "x-vercel-id",
   "server-timing",
   "x-contextid",
-  "cf-cache-status"
+  "cf-cache-status",
+  "x-request-id",
+  "x-cache-status",
+  "x-ac",
+  "x-volterra-location",
+  "x-tenup-cache",
+  "report-to",
+  "x-cache-age",
+  "x-cache-ttl-remaining",
+  "x-varnish",
+  "x-sucuri-cache",
+  "shopify-complexity-score"
 ];
 
 const fetchTimeout = 15000; //15 seconds

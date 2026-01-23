@@ -14,10 +14,6 @@
       "value": "true"
     },
     {
-      "name": "cache-control",
-      "value": "private"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
     },

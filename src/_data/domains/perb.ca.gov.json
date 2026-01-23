@@ -38,10 +38,6 @@
       "value": "chunked"
     },
     {
-      "name": "x-cache-status",
-      "value": "STALE"
-    },
-    {
       "name": "x-content-type-options",
       "value": "nosniff"
     },

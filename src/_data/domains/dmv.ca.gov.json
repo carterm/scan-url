@@ -14,10 +14,6 @@
       "value": "https://www.dmv.ca.gov"
     },
     {
-      "name": "cache-control",
-      "value": "max-age=296, must-revalidate"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -35,7 +31,7 @@
     },
     {
       "name": "on-ws",
-      "value": "prd1"
+      "value": "prd2"
     },
     {
       "name": "p3p",
@@ -68,10 +64,6 @@
     {
       "name": "x-frame-options",
       "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-volterra-location",
-      "value": "sv10-sjc"
     }
   ],
   "cloudflare": false,

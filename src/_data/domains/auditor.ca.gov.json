@@ -14,10 +14,6 @@
       "value": "bytes"
     },
     {
-      "name": "cache-control",
-      "value": "no-cache, must-revalidate, max-age=0, no-store"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -63,7 +59,7 @@
     },
     {
       "name": "x-rq",
-      "value": "sjc8 0 30 9980"
+      "value": "bur8 0 30 9980"
     },
     {
       "name": "x-xss-protection",

@@ -14,10 +14,6 @@
       "value": "*"
     },
     {
-      "name": "cache-control",
-      "value": "public, max-age=0, must-revalidate"
-    },
-    {
       "name": "content-disposition",
       "value": "inline"
     },

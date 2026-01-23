@@ -10,10 +10,6 @@
   "metaGenerator": "Starfield Technologies; Go Daddy Website Builder 8.0.0000",
   "responseHeaders": [
     {
-      "name": "cache-control",
-      "value": "max-age=30"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
