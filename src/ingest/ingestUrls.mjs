@@ -18,15 +18,6 @@ const DOMAIN_DIR = path.join(process.cwd(), "src/_data/domains");
 const INGEST_FILE = path.join(__dirname, "ingestTarget.txt");
 
 /**
- * Ensure the domain directory exists.
- */
-function ensureDomainDir() {
-  if (!fs.existsSync(DOMAIN_DIR)) {
-    fs.mkdirSync(DOMAIN_DIR, { recursive: true });
-  }
-}
-
-/**
  * Load an existing domain record from disk.
  * @param {string} filePath
  * @returns {DomainRecord | null}
@@ -85,18 +76,19 @@ function updateRecordFromIngest(record, preferredPath, www) {
  * Ingest URLs from ingestTarget.txt and sync them into /src/_data/domains.
  */
 export function ingestUrls() {
-  ensureDomainDir();
-
   if (!fs.existsSync(INGEST_FILE)) {
     console.error("❌ ingestTarget.txt not found. Create it in src/ingest/");
     return;
   }
 
+  if (!fs.existsSync(DOMAIN_DIR)) {
+    fs.mkdirSync(DOMAIN_DIR, { recursive: true });
+  }
+
   const urls = fs
     .readFileSync(INGEST_FILE, "utf8")
     .split(/\r?\n/)
-    .map(u => u.trim())
-    .filter(Boolean);
+    .map(u => u.trim());
 
   for (const raw of urls) {
     const normalized = normalizeUrl(raw);
@@ -116,7 +108,4 @@ export function ingestUrls() {
   console.log(`✅ Ingested ${urls.length} URL(s).`);
 }
 
-// Auto-run when executed directly
-if (import.meta.url === `file://${process.argv[1]}`) {
-  ingestUrls();
-}
+ingestUrls();
