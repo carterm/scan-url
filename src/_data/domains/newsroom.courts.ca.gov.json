@@ -35,7 +35,7 @@
     },
     {
       "name": "strict-transport-security",
-      "value": "max-age=300; includeSubDomains;"
+      "value": "max-age=300"
     },
     {
       "name": "vary",
@@ -50,24 +50,12 @@
       "value": "MISS"
     },
     {
-      "name": "x-drupal-dynamic-cache",
-      "value": "UNCACHEABLE"
-    },
-    {
       "name": "x-frame-options",
       "value": "SAMEORIGIN"
     },
     {
       "name": "x-generator",
       "value": "Drupal 9 (https://www.drupal.org)"
-    },
-    {
-      "name": "x-pantheon-styx-hostname",
-      "value": "styx-fe1-a-6c5bdb56b8-vspmn"
-    },
-    {
-      "name": "x-styx-req-id",
-      "value": "76656f9d-f8b4-11f0-8bbb-629adc351dec"
     },
     {
       "name": "x-ua-compatible",

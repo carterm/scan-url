@@ -50,10 +50,6 @@
       "value": "YES:15552000.000"
     },
     {
-      "name": "x-orig-cache-control",
-      "value": "max-age=15552000, must-revalidate"
-    },
-    {
       "name": "x-powered-by",
       "value": "WP Engine"
     },

@@ -59,15 +59,11 @@
     },
     {
       "name": "x-middleware-start",
-      "value": "t=1769212362180943"
+      "value": "t=1769212662522188"
     },
     {
       "name": "x-nb-cached-page",
       "value": "yes"
-    },
-    {
-      "name": "x-rack-cache",
-      "value": "fresh"
     }
   ],
   "cloudflare": false,

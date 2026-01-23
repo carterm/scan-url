@@ -14,10 +14,6 @@
       "value": "allow"
     },
     {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
     },
@@ -40,10 +36,6 @@
     {
       "name": "transfer-encoding",
       "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
     },
     {
       "name": "x-frame-options",

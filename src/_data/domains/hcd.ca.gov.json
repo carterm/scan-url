@@ -54,10 +54,6 @@
       "value": "UNCACHEABLE (response policy)"
     },
     {
-      "name": "x-drupal-dynamic-cache",
-      "value": "UNCACHEABLE (response policy)"
-    },
-    {
       "name": "x-frame-options",
       "value": "SAMEORIGIN"
     },

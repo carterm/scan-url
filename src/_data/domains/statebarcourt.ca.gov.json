@@ -58,24 +58,12 @@
       "value": "MISS"
     },
     {
-      "name": "x-drupal-dynamic-cache",
-      "value": "MISS"
-    },
-    {
       "name": "x-frame-options",
       "value": "SAMEORIGIN"
     },
     {
       "name": "x-generator",
       "value": "Drupal 11 (https://www.drupal.org)"
-    },
-    {
-      "name": "x-pantheon-styx-hostname",
-      "value": "styx-fe3-b-6f684c5d8c-kvzdd"
-    },
-    {
-      "name": "x-styx-req-id",
-      "value": "fb1827f2-f8a5-11f0-8d37-dabfd917ec5b"
     },
     {
       "name": "x-xss-protection",

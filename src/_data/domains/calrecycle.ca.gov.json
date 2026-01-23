@@ -47,11 +47,7 @@
     },
     {
       "name": "vary",
-      "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache-enabled",
-      "value": "False"
+      "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding"
     },
     {
       "name": "x-cache-group",
@@ -59,15 +55,11 @@
     },
     {
       "name": "x-cacheable",
-      "value": "SHORT"
+      "value": "NO:Private"
     },
     {
       "name": "x-content-type-options",
       "value": "nosniff"
-    },
-    {
-      "name": "x-orig-cache-control",
-      "value": "no-store, no-cache"
     },
     {
       "name": "x-powered-by",

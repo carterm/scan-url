@@ -46,16 +46,8 @@
       "value": "Imperva"
     },
     {
-      "name": "x-pantheon-styx-hostname",
-      "value": "styx-fe4-b-86cbf58b65-kp6fc"
-    },
-    {
       "name": "x-pingback",
       "value": "https://www.cdpr.ca.gov/xmlrpc.php"
-    },
-    {
-      "name": "x-styx-req-id",
-      "value": "f10057a8-f8a6-11f0-b23d-ce4a7cad7994"
     }
   ],
   "cloudflare": false,

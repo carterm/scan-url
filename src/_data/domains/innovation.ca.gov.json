@@ -15,7 +15,7 @@
     },
     {
       "name": "content-encoding",
-      "value": "br"
+      "value": "gzip"
     },
     {
       "name": "content-type",
@@ -35,7 +35,7 @@
     },
     {
       "name": "x-amz-cf-pop",
-      "value": "LAX54-P6"
+      "value": "SFO5-P3"
     }
   ],
   "cloudflare": false,

@@ -50,20 +50,8 @@
       "value": "HIT"
     },
     {
-      "name": "x-drupal-dynamic-cache",
-      "value": "MISS"
-    },
-    {
       "name": "x-generator",
       "value": "Drupal 9 (https://www.drupal.org)"
-    },
-    {
-      "name": "x-pantheon-styx-hostname",
-      "value": "styx-fe3-b-6f684c5d8c-krjch"
-    },
-    {
-      "name": "x-styx-req-id",
-      "value": "568bfa68-f8a6-11f0-8815-9ef699a13d1e"
     },
     {
       "name": "x-ua-compatible",

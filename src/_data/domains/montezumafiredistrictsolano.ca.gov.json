@@ -40,14 +40,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Cookie, Cookie"
-    },
-    {
-      "name": "x-pantheon-styx-hostname",
-      "value": "styx-fe3-b-6f684c5d8c-2gn8b"
-    },
-    {
-      "name": "x-styx-req-id",
-      "value": "a21fb50e-f87e-11f0-acee-3aeefadf3084"
     }
   ],
   "cloudflare": false,

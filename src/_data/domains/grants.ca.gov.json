@@ -42,10 +42,6 @@
       "value": "LAX54-P11"
     },
     {
-      "name": "x-btcache",
-      "value": "MISS"
-    },
-    {
       "name": "x-btcache-served",
       "value": "Yes"
     },

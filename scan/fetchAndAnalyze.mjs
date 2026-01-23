@@ -49,7 +49,19 @@ const removeHeaders = [
   "x-cache-ttl-remaining",
   "x-varnish",
   "x-sucuri-cache",
-  "shopify-complexity-score"
+  "shopify-complexity-score",
+  "x-rq",
+  "x-amz-id-2",
+  "x-amz-request-id",
+  "x-wt",
+  "x-orig-cache-control",
+  "x-rack-cache",
+  "x-drupal-dynamic-cache",
+  "x-ms-request-id",
+  "x-btcache",
+  "x-pantheon-styx-hostname",
+  "x-styx-req-id",
+  "x-requestid"
 ];
 
 const fetchTimeout = 15000; //15 seconds

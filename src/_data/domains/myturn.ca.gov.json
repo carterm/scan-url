@@ -26,10 +26,6 @@
       "value": "volt-adc"
     },
     {
-      "name": "x-ms-request-id",
-      "value": "faa695ac-f01e-0065-2ac3-8c34c5000000"
-    },
-    {
       "name": "x-ms-version",
       "value": "2018-03-28"
     }

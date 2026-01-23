@@ -48,10 +48,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Cookie"
-    },
-    {
-      "name": "x-nananana",
-      "value": "Batcache-Hit"
     }
   ],
   "cloudflare": false,

@@ -18,14 +18,6 @@
       "value": "AmazonS3"
     },
     {
-      "name": "x-amz-id-2",
-      "value": "E62AVqXzngz8yigMmI4pjgowBsPHPkNUIDTUIxVawXFmSZZnQqrSLr8EgIRck+9qiikf5hvE5S9F6Sgr7WCV+7ltyIEcUaey"
-    },
-    {
-      "name": "x-amz-request-id",
-      "value": "4B9ER4W2P26812D5"
-    },
-    {
       "name": "x-amz-version-id",
       "value": "c52hFsQV9LmuQpfDKTfXFBOjG76ZGq4S"
     }

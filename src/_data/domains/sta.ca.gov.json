@@ -54,16 +54,8 @@
       "value": "SAMEORIGIN"
     },
     {
-      "name": "x-pantheon-styx-hostname",
-      "value": "styx-fe4-a-7f76c9f659-n4fx6"
-    },
-    {
       "name": "x-powered-by",
       "value": ""
-    },
-    {
-      "name": "x-styx-req-id",
-      "value": "8b135fb1-f8b5-11f0-bc9a-0a3f75c871df"
     },
     {
       "name": "x-xss-protection",

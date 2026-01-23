@@ -42,16 +42,8 @@
       "value": "Accept-Encoding, Cookie, Cookie"
     },
     {
-      "name": "x-pantheon-styx-hostname",
-      "value": "styx-fe4-b-86cbf58b65-p972n"
-    },
-    {
       "name": "x-pingback",
       "value": "https://www.judicialethicsopinions.ca.gov/xmlrpc.php"
-    },
-    {
-      "name": "x-styx-req-id",
-      "value": "cd5e8f64-f8b5-11f0-9f2c-8a59506c0364"
     }
   ],
   "cloudflare": false,

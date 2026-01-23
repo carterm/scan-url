@@ -50,10 +50,6 @@
       "value": "MISS"
     },
     {
-      "name": "x-drupal-dynamic-cache",
-      "value": "MISS"
-    },
-    {
       "name": "x-frame-options",
       "value": "SAMEORIGIN"
     },
@@ -62,16 +58,8 @@
       "value": "Drupal 9 (https://www.drupal.org)"
     },
     {
-      "name": "x-pantheon-styx-hostname",
-      "value": "styx-fe4-b-86cbf58b65-cjk27"
-    },
-    {
       "name": "x-robots-tag",
       "value": "unavailable_after: Monday, 26-Jan-26 22:00:00 PST, unavailable_after: Monday, 26-Jan-26 22:00:00 PST, unavailable_after: Monday, 26-Jan-26 22:00:00 PST, unavailable_after: Monday, 26-Jan-26 22:00:00 PST"
-    },
-    {
-      "name": "x-styx-req-id",
-      "value": "a06790e5-f8b5-11f0-a698-9e5e80f28646"
     },
     {
       "name": "x-ua-compatible",

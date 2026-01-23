@@ -46,10 +46,6 @@
       "value": "DENY"
     },
     {
-      "name": "x-requestid",
-      "value": "f8bc723b-5f00-4144-9dfa-edfd5a0512cd"
-    },
-    {
       "name": "x-xss-protection",
       "value": "1; mode=block"
     }

@@ -62,10 +62,6 @@
       "value": "nosniff"
     },
     {
-      "name": "x-orig-cache-control",
-      "value": "no-cache, must-revalidate, max-age=0, no-store, private"
-    },
-    {
       "name": "x-powered-by",
       "value": "WP Engine"
     },

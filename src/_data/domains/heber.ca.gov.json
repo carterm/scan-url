@@ -50,10 +50,6 @@
       "value": "HIT"
     },
     {
-      "name": "x-drupal-dynamic-cache",
-      "value": "UNCACHEABLE"
-    },
-    {
       "name": "x-frame-options",
       "value": "SAMEORIGIN"
     },

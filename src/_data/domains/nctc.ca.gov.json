@@ -14,12 +14,20 @@
       "value": "bytes"
     },
     {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
       "name": "content-type",
       "value": "text/html"
     },
     {
       "name": "server",
       "value": "Microsoft-IIS/10.0"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
     },
     {
       "name": "x-powered-by",
