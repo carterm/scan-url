@@ -4,21 +4,81 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Dental Board of California",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:11.595Z",
+  "finalUrl": "https://www.dbc.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "access-control-allow-private-network",
+      "value": "true"
+    },
+    {
+      "name": "cache-control",
+      "value": "max-age=16070400; includeSubdomains; preload"
+    },
+    {
+      "name": "connection",
+      "value": "Keep-Alive"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:11 GMT"
+    },
+    {
+      "name": "keep-alive",
+      "value": "timeout=5, max=94"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "strict-origin-when-cross-origin"
+    },
+    {
+      "name": "set-cookie",
+      "value": "TS01ba82ac=01ed741c22ab7ff85fa33c804cb62984e91b379127660d37781a5f1f4cf56f0dbe8a178d84b2f43a95c0ce6135733a20daca70f263; Path=/; Domain=.www.dbc.ca.gov"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=16070400; includeSubDomains; preload"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 41387,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://twitter.com/CaDentalBoard",
+    "https://twitter.com/CaDentalBoard"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

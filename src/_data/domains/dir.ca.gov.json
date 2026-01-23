@@ -4,21 +4,63 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "California Department of Industrial Relations - Home Page",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:13.111Z",
+  "finalUrl": "https://www.dir.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "17462"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:05:49 GMT"
+    },
+    {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
+  "contentSize": 65265,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.linkedin.com/company/californiadir",
+    "https://www.facebook.com/CaliforniaDIR",
+    "https://x.com/CA_DIR",
+    "http://www.youtube.com/CaliforniaDIR",
+    "https://www.instagram.com/ca_dir/",
+    "https://www.facebook.com/CaliforniaDIR",
+    "https://twitter.com/#!/CA_DIR",
+    "http://www.youtube.com/CaliforniaDIR"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

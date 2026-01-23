@@ -4,13 +4,74 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "IIS Windows Server",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:13.010Z",
+  "finalUrl": "https://www.drinc.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "cache-control",
+      "value": "no-cache"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:12 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "\"385f889361e8da1:0\""
+    },
+    {
+      "name": "last-modified",
+      "value": "Wed, 07 Aug 2024 00:34:34 GMT"
+    },
+    {
+      "name": "pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "set-cookie",
+      "value": "visid_incap_2336924=CWfTJrOCS5+tlxhGh4gY0Vv/c2kAAAAAQUIPAAAAAABdbeDWHpld5wzNyGAHXERF; expires=Sat, 23 Jan 2027 07:42:34 GMT; HttpOnly; path=/; Domain=.drinc.ca.gov; Secure; SameSite=None"
+    },
+    {
+      "name": "set-cookie",
+      "value": "incap_ses_92_2336924=7v+ne5X+a1M7FkFamNlGAVv/c2kAAAAAXlaKKtru454t9iXnxErDhw==; path=/; Domain=.drinc.ca.gov; Secure; SameSite=None"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains; preload"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-cdn",
+      "value": "Imperva"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-iinfo",
+      "value": "41-107634847-107634997 NNYN CT(20 36 0) RT(1769209692104 504) q(0 0 0 0) r(0 0) U12"
+    }
+  ],
+  "contentSize": 836,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

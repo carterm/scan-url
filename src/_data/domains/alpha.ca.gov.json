@@ -4,13 +4,70 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Welcome to Alpha.CA.gov",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:07:56.871Z",
+  "finalUrl": "https://www.alpha.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "age",
+      "value": "25836"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 15:57:21 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "W/\"0c38bbe5b3f837b9a8168449144a9579\""
+    },
+    {
+      "name": "last-modified",
+      "value": "Tue, 18 Jun 2024 00:21:10 GMT"
+    },
+    {
+      "name": "server",
+      "value": "AmazonS3"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "accept-encoding"
+    },
+    {
+      "name": "via",
+      "value": "1.1 8c61d22bf169c76fd04a4b3420e5a87c.cloudfront.net (CloudFront)"
+    },
+    {
+      "name": "x-amz-cf-id",
+      "value": "Phc4RBV4tnz8mTcEAXLXflhboL9Dch4QXs_NHlEldrF2vfY7eMoR1g=="
+    },
+    {
+      "name": "x-amz-cf-pop",
+      "value": "LAX50-P3"
+    },
+    {
+      "name": "x-cache",
+      "value": "Hit from cloudfront"
+    }
+  ],
+  "contentSize": 10003,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -18,7 +75,7 @@
   "hasJQuery": false,
   "googleAnalytics": [],
   "socialLinks": [],
-  "linksToCaGov": false,
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

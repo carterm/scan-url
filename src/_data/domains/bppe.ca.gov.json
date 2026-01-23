@@ -4,21 +4,84 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Bureau for Private and Post-Secondary Education - BPPE",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:07:58.015Z",
+  "finalUrl": "https://www.bppe.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "access-control-allow-private-network",
+      "value": "true"
+    },
+    {
+      "name": "cache-control",
+      "value": "max-age=16070400; includeSubdomains; preload"
+    },
+    {
+      "name": "connection",
+      "value": "Keep-Alive"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:07:57 GMT"
+    },
+    {
+      "name": "keep-alive",
+      "value": "timeout=5, max=99"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "strict-origin-when-cross-origin"
+    },
+    {
+      "name": "set-cookie",
+      "value": "TS01beaf1c=01ed741c2225fbe62dfbf032f519ec5419f5a65993541847f804f8928fb9ff63d50d296be7d1fc1749bcd40982064c978525717d25; Path=/; Domain=.www.bppe.ca.gov"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=16070400; includeSubDomains; preload"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 70105,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/CaBPPE/",
+    "https://www.youtube.com/channel/UCBhu_Dg85A1Qa8WSJf9aIEg",
+    "https://twitter.com/CaBPPE",
+    "https://www.facebook.com/CaBPPE/",
+    "https://twitter.com/CaBPPE"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

@@ -4,13 +4,78 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "SCAC -- Homepage",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:33.169Z",
+  "finalUrl": "https://scac.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "age",
+      "value": "37815"
+    },
+    {
+      "name": "alt-svc",
+      "value": "h3=\":443\"; ma=86400"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 12:38:18 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "W/\"1c1092f376f53190386451c9f1d3b02a\""
+    },
+    {
+      "name": "last-modified",
+      "value": "Sun, 11 Jan 2026 01:40:48 GMT"
+    },
+    {
+      "name": "server",
+      "value": "AmazonS3"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "accept-encoding"
+    },
+    {
+      "name": "via",
+      "value": "1.1 bc08c4741561bfef91a350939b871d94.cloudfront.net (CloudFront)"
+    },
+    {
+      "name": "x-amz-cf-id",
+      "value": "5wHYDYGseIQQYHq-HMAgTorVZz8gbXlNtJayaX8YjQIaVwgTSfoIuA=="
+    },
+    {
+      "name": "x-amz-cf-pop",
+      "value": "ATL58-P6"
+    },
+    {
+      "name": "x-amz-server-side-encryption",
+      "value": "AES256"
+    },
+    {
+      "name": "x-cache",
+      "value": "Hit from cloudfront"
+    }
+  ],
+  "contentSize": 5418,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

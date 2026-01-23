@@ -4,20 +4,104 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Nipomo Community Services District | NSCD Nipomo, California",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:29.191Z",
+  "finalUrl": "https://ncsd.ca.gov/",
+  "metaGenerator": "Powered by WPBakery Page Builder - drag and drop page builder for WordPress.",
+  "responseHeaders": [
+    {
+      "name": "alt-svc",
+      "value": "h3=\":443\"; ma=86400"
+    },
+    {
+      "name": "cache-control",
+      "value": "max-age=600, must-revalidate"
+    },
+    {
+      "name": "cf-cache-status",
+      "value": "DYNAMIC"
+    },
+    {
+      "name": "cf-ray",
+      "value": "9c2af3e7cd8a6e7e-SMF"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "br"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:23 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://ncsd.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://ncsd.ca.gov/wp-json/wp/v2/pages/5>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://ncsd.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "server",
+      "value": "cloudflare"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__cf_bm=3nUcFsiwLEn_FXWSflmp_nPSWBWDkUvAvjIDXYV7OJU-1769209703-1.0.1.1-UXED2MJPJiEtJBViPuNuE6oiqCpyfbAMhB1Eygxh7tdMGH9JCzfTDyLd.kt35tzGiCnNRY7Flh.rGfFBZ5CF01QWNM4SQO6h5.PVg7pFRik; path=/; expires=Fri, 23-Jan-26 23:38:23 GMT; domain=.ncsd.ca.gov; HttpOnly; Secure; SameSite=None"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
+    },
+    {
+      "name": "x-cache",
+      "value": "HIT: 1"
+    },
+    {
+      "name": "x-cache-group",
+      "value": "normal"
+    },
+    {
+      "name": "x-cacheable",
+      "value": "SHORT"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "WP Engine"
+    },
+    {
+      "name": "x-tec-api-origin",
+      "value": "https://ncsd.ca.gov"
+    },
+    {
+      "name": "x-tec-api-root",
+      "value": "https://ncsd.ca.gov/wp-json/tribe/events/v1/"
+    },
+    {
+      "name": "x-tec-api-version",
+      "value": "v1"
+    }
+  ],
+  "contentSize": 117301,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.facebook.com/NipomoCSD",
+    "https://twitter.com/NipomoCSD"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

@@ -4,20 +4,131 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Public Awareness and Safety Programs |San Francisco Bay Area",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:28.254Z",
+  "finalUrl": "https://ncric.ca.gov/",
+  "metaGenerator": "WordPress 6.8.3",
+  "responseHeaders": [
+    {
+      "name": "age",
+      "value": "191005"
+    },
+    {
+      "name": "alt-svc",
+      "value": "h3=\":443\"; ma=86400"
+    },
+    {
+      "name": "cache-control",
+      "value": "public, max-age=2678400"
+    },
+    {
+      "name": "cf-cache-status",
+      "value": "HIT"
+    },
+    {
+      "name": "cf-ray",
+      "value": "9c2af3e5883332ba-SMF"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "br"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:23 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "Mon, 23 Feb 2026 23:08:23 GMT"
+    },
+    {
+      "name": "last-modified",
+      "value": "Tue, 20 Jan 2026 20:25:30 GMT"
+    },
+    {
+      "name": "server",
+      "value": "cloudflare"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__cf_bm=_Hher.FWcCPURu1K4a6g35LWv3tr1k8gTg.GZ4kbtSI-1769209703-1.0.1.1-cMG_Pn0Jx3ucQf.2Dp_9jxIBLUzpGcHu2ZpvoCsQN.boo4vhvXSS23xse_liofKLCISLKnwzMNXXrDQVJJC3m5OLF3CXZfEJLum6nqm2vq4; path=/; expires=Fri, 23-Jan-26 23:38:23 GMT; domain=.ncric.ca.gov; HttpOnly; Secure; SameSite=None"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-gateway-cache-key",
+      "value": "1768975300.825|standard|https|ncric.ca.gov|||/"
+    },
+    {
+      "name": "x-gateway-cache-status",
+      "value": "HIT"
+    },
+    {
+      "name": "x-gateway-request-id",
+      "value": "c8b0005852f4fa552c0a1f34cbbfd43d"
+    },
+    {
+      "name": "x-gateway-skip-cache",
+      "value": "0"
+    }
+  ],
+  "contentSize": 142001,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://twitter.com/NCRIC_HIDTA",
+    "https://www.linkedin.com/company/ncric/",
+    "https://twitter.com/NCRIC_HIDTA",
+    "https://www.linkedin.com/company/ncric/",
+    "https://twitter.com/NCRIC_HIDTA",
+    "https://www.linkedin.com/company/ncric/",
+    "https://twitter.com/ncric_hidta",
+    "https://twitter.com/ncric_hidta",
+    "https://twitter.com/ncric_hidta",
+    "https://twitter.com/ncric_hidta/status/1969937061471044014",
+    "https://twitter.com/NCRIC_HIDTA/status/1969937061471044014",
+    "https://twitter.com/intent/tweet?in_reply_to=1969937061471044014&related=ncric_hidta",
+    "https://twitter.com/intent/retweet?tweet_id=1969937061471044014&related=ncric_hidta",
+    "https://twitter.com/intent/like?tweet_id=1969937061471044014&related=ncric_hidta",
+    "https://twitter.com/ncric_hidta/status/1969937061471044014",
+    "https://twitter.com/ncric_hidta",
+    "https://twitter.com/ncric_hidta",
+    "https://twitter.com/ncric_hidta",
+    "https://twitter.com/ncric_hidta/status/1961489414598856715",
+    "https://twitter.com/intent/tweet?in_reply_to=1961489414598856715&related=ncric_hidta",
+    "https://twitter.com/intent/retweet?tweet_id=1961489414598856715&related=ncric_hidta",
+    "https://twitter.com/intent/like?tweet_id=1961489414598856715&related=ncric_hidta",
+    "https://twitter.com/ncric_hidta/status/1961489414598856715",
+    "https://twitter.com/ncric_hidta",
+    "https://twitter.com/ncric_hidta",
+    "https://twitter.com/ncric_hidta",
+    "https://twitter.com/ncric_hidta/status/1959036396657938518",
+    "https://twitter.com/intent/tweet?in_reply_to=1959036396657938518&related=ncric_hidta",
+    "https://twitter.com/intent/retweet?tweet_id=1959036396657938518&related=ncric_hidta",
+    "https://twitter.com/intent/like?tweet_id=1959036396657938518&related=ncric_hidta",
+    "https://twitter.com/ncric_hidta/status/1959036396657938518",
+    "https://twitter.com/NCRIC_HIDTA",
+    "https://www.linkedin.com/company/ncric/"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

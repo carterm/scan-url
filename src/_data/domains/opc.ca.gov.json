@@ -4,21 +4,60 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "- California Ocean Protection Council",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:26.688Z",
+  "finalUrl": "https://www.opc.ca.gov/",
+  "metaGenerator": "Site Kit by Google 1.168.0",
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "frame-ancestors 'self';"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:26 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://opc.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://opc.ca.gov/wp-json/wp/v2/pages/19346>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://opc.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    }
+  ],
+  "contentSize": 150707,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "http://www.facebook.com/OceanProtectionCouncil",
+    "https://twitter.com/OPC_California",
+    "https://www.instagram.com/OPC_California/",
+    "https://www.linkedin.com/company/california-ocean-protection-council",
+    "https://www.youtube.com/channel/UC0IYJ5NiT17CS-FlJy--5YA"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

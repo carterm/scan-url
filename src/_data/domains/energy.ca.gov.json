@@ -4,21 +4,80 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Home Page-California Energy Commission",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:14.851Z",
+  "finalUrl": "https://www.energy.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "must-revalidate, no-cache, private"
+    },
+    {
+      "name": "content-language",
+      "value": "en"
+    },
+    {
+      "name": "content-length",
+      "value": "90365"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:13 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "Sun, 19 Nov 1978 05:00:00 GMT"
+    },
+    {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-drupal-cache",
+      "value": "HIT"
+    },
+    {
+      "name": "x-drupal-dynamic-cache",
+      "value": "UNCACHEABLE (poor cacheability)"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-generator",
+      "value": "Drupal 10 (https://www.drupal.org)"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "PHP/8.2.17, ASP.NET"
+    }
+  ],
+  "contentSize": 90365,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/CAEnergy",
+    "https://www.instagram.com/calenergy",
+    "https://twitter.com/calenergy",
+    "https://www.youtube.com/calenergycommission",
+    "https://www.linkedin.com/company/california-energy-commission"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

@@ -4,20 +4,131 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "BEACON | Beach Erosion Authority for Clean Oceans and Nourishment",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:00.920Z",
+  "finalUrl": "https://beacon.ca.gov/",
+  "metaGenerator": "Divi v.4.27.5",
+  "responseHeaders": [
+    {
+      "name": "age",
+      "value": "17046"
+    },
+    {
+      "name": "alt-svc",
+      "value": "h3=\":443\"; ma=86400, h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000"
+    },
+    {
+      "name": "cache-control",
+      "value": "public, max-age=2678400"
+    },
+    {
+      "name": "cf-cache-status",
+      "value": "HIT"
+    },
+    {
+      "name": "cf-ray",
+      "value": "9c183de5297be16d-SJC"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "br"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "upgrade-insecure-requests;"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:07:56 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "Sat, 21 Feb 2026 16:38:24 GMT"
+    },
+    {
+      "name": "last-modified",
+      "value": "Wed, 21 Jan 2026 11:54:18 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://beacon.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://beacon.ca.gov/wp-json/wp/v2/pages/36>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://beacon.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "server",
+      "value": "Sucuri/Cloudproxy"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__cf_bm=2rgVvNQHTevZbUb.fk57Gc96G73ydHvq8yKEHm9fbRE-1769013504-1.0.1.1-08nmj1GJXc7sFKsfUz.5ZBWO3uKc0erVOvcGli54u4zEkuoxm2LZ3ayMJgLoS2YIS5H.EssrU8Kl.sFnK8ejBRf3UMCMdnKMbnoFPA33JfU; path=/; expires=Wed, 21-Jan-26 17:08:24 GMT; domain=.beacon.ca.gov; HttpOnly; Secure; SameSite=None"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-gateway-cache-key",
+      "value": "1768993275.658|tablet|https|beacon.ca.gov|||/"
+    },
+    {
+      "name": "x-gateway-cache-status",
+      "value": "MISS"
+    },
+    {
+      "name": "x-gateway-rate-limit-delayed",
+      "value": "0.066"
+    },
+    {
+      "name": "x-gateway-request-id",
+      "value": "22a46d8024814112e8f18c7bdb84c532"
+    },
+    {
+      "name": "x-gateway-skip-cache",
+      "value": "0"
+    },
+    {
+      "name": "x-sucuri-cache",
+      "value": "HIT"
+    },
+    {
+      "name": "x-sucuri-id",
+      "value": "11027"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 378786,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.facebook.com/BEACON.ca.gov"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

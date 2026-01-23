@@ -4,21 +4,85 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Physician Assistant Board",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:27.172Z",
+  "finalUrl": "https://www.pab.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "access-control-allow-private-network",
+      "value": "true"
+    },
+    {
+      "name": "cache-control",
+      "value": "max-age=16070400; includeSubdomains; preload"
+    },
+    {
+      "name": "connection",
+      "value": "Keep-Alive"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:26 GMT"
+    },
+    {
+      "name": "keep-alive",
+      "value": "timeout=5, max=100"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "strict-origin-when-cross-origin"
+    },
+    {
+      "name": "set-cookie",
+      "value": "TS0196347a=01ed741c22c08d2000348fbdf33b04970ace2d2dd3c99312176c77de8e1ed48f7a9fbe20bf3ce13a3c23bb34f19f49d58dff922c99; Path=/; Domain=.www.pab.ca.gov"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=16070400; includeSubDomains; preload"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 36123,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/PABofCalifornia/?ref=py_c",
+    "https://twitter.com/PABofCA",
+    "https://www.instagram.com/pabofca/",
+    "https://www.facebook.com/PABofCalifornia/?ref=py_c",
+    "https://twitter.com/PABofCA",
+    "https://www.instagram.com/pabofca/"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

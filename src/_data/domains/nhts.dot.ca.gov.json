@@ -4,13 +4,74 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "National Household Travel Survey",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:24.439Z",
+  "finalUrl": "https://nhts.dot.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "no-store, no-cache, must-revalidate"
+    },
+    {
+      "name": "connection",
+      "value": "Keep-Alive"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:21 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "Thu, 19 Nov 1981 08:52:00 GMT"
+    },
+    {
+      "name": "keep-alive",
+      "value": "timeout=2, max=500"
+    },
+    {
+      "name": "pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "server-timing",
+      "value": "dtSInfo;desc=\"0\", dtRpid;desc=\"1070222254\""
+    },
+    {
+      "name": "set-cookie",
+      "value": "ci_session=8euo4ub0j8utp5rdn77rlgqm3j; expires=Sat, 24 Jan 2026 01:08:21 GMT; Max-Age=7200; path=/; secure; HttpOnly"
+    },
+    {
+      "name": "set-cookie",
+      "value": "dtCookie=v_4_srv_4_sn_AE5C2BC2F482A4A88E0755FB32085D4E_perc_100000_ol_0_mul_1_app-3A47a5704fc16ccc4a_1_rcs-3Acss_0; Path=/; Domain=.ca.gov"
+    },
+    {
+      "name": "set-cookie",
+      "value": "TS0178dfc2=01ccba8e7f264582b10bdcd3d852ea8c50dcfdbb90165a175e986ec0a86138e3b9b9db1dfea7bd42efa8bc7ebc2d07e2c4792011e7a2ea3f23c9646e93b1905c27f7aae560; Path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "TS01ef51aa=01ccba8e7fda0800dbe5bd14b3d8f03305094223e5165a175e986ec0a86138e3b9b9db1dfe0912ee48b603ae0e5f37a2afd99e3efc04a02090b74fc51124eee64362901bc6; path=/; domain=.ca.gov"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-oneagent-js-injection",
+      "value": "true"
+    },
+    {
+      "name": "x-ruxit-js-agent",
+      "value": "true"
+    }
+  ],
+  "contentSize": 18563,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

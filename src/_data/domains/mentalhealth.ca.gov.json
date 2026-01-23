@@ -4,13 +4,66 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Mental health for all",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:22.356Z",
+  "finalUrl": "https://www.mentalhealth.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "cache-control",
+      "value": "public,max-age=8380800"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "4439"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:22 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "\"0942b2e5dfdb1:0\""
+    },
+    {
+      "name": "last-modified",
+      "value": "Mon, 16 Jun 2025 21:25:28 GMT"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-azure-ref",
+      "value": "20260123T230822Z-16f45f5c75bz4twshC1BY1gb0c0000001wpg000000002tq0"
+    },
+    {
+      "name": "x-cache",
+      "value": "CONFIG_NOCACHE"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
+  "contentSize": 14308,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -18,7 +71,7 @@
   "hasJQuery": false,
   "googleAnalytics": [],
   "socialLinks": [],
-  "linksToCaGov": false,
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

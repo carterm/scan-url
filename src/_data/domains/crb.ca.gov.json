@@ -4,21 +4,60 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Home - Colorado River Board",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:16.662Z",
+  "finalUrl": "https://crb.ca.gov/",
+  "metaGenerator": "Site Kit by Google 1.168.0",
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "frame-ancestors 'self';"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:16 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://crb.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://crb.ca.gov/wp-json/wp/v2/pages/6740>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://crb.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    }
+  ],
+  "contentSize": 30077,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.linkedin.com/company/colorado-river-board-cal"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

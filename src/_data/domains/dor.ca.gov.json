@@ -4,21 +4,75 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Home Page - CA Department of Rehabilitation",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:14.144Z",
+  "finalUrl": "https://www.dor.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:07:54 GMT"
+    },
+    {
+      "name": "request-context",
+      "value": "appId=cid-v1:76602a33-8f89-448c-8a69-b07dff09bdc7"
+    },
+    {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
+      "name": "set-cookie",
+      "value": "TiPMix=35.65820381510028; path=/; HttpOnly; Domain=www.dor.ca.gov; Max-Age=3600; Secure; SameSite=None"
+    },
+    {
+      "name": "set-cookie",
+      "value": "x-ms-routing-name=self; path=/; HttpOnly; Domain=www.dor.ca.gov; Max-Age=3600; Secure; SameSite=None"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains; preload"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
+  "contentSize": 38644,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/CaliforniaDOR",
+    "https://www.instagram.com/dorcalifornia/",
+    "https://www.linkedin.com/company/california-department-of-rehabilitation",
+    "https://twitter.com/CaliforniaDOR"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

@@ -4,13 +4,70 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Pocket Travel Guide",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:38.687Z",
+  "finalUrl": "https://travelpocketguide.dot.ca.gov/public/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "no-store, max-age=0, no-cache"
+    },
+    {
+      "name": "connection",
+      "value": "Keep-Alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "29845"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:34 GMT"
+    },
+    {
+      "name": "keep-alive",
+      "value": "timeout=2, max=500"
+    },
+    {
+      "name": "server-timing",
+      "value": "dtSInfo;desc=\"0\", dtRpid;desc=\"1241373602\""
+    },
+    {
+      "name": "set-cookie",
+      "value": "dtCookie=v_4_srv_2_sn_A0FDBCD5AD3B9047B101197835ED60EF_perc_100000_ol_0_mul_1_app-3A688462741f624106_1_rcs-3Acss_0; Path=/; Domain=.ca.gov"
+    },
+    {
+      "name": "set-cookie",
+      "value": "TS0178dfc2=01ccba8e7f8b710df2d78be3fcc19cb8e0dadda119f24f3d6da6a6bf2dfa4e1055fc4156a0e2471aba868c286ffa592f47df2cf2c3; Path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "TS01ef51aa=01ccba8e7fa11fd2ebe02178479cd7d3716e900394f24f3d6da6a6bf2dfa4e1055fc4156a0c17d9e125f31f7a6df22622f8a35d21fd2d2baff008e58f0f9c7853277aa071e; path=/; domain=.ca.gov"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-oneagent-js-injection",
+      "value": "true"
+    },
+    {
+      "name": "x-ruxit-js-agent",
+      "value": "true"
+    }
+  ],
+  "contentSize": 119832,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

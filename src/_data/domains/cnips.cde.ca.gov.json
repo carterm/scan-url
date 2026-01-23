@@ -4,13 +4,90 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Child Nutrition Information and Payment System",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:08.318Z",
+  "finalUrl": "https://cnips.cde.ca.gov/Splash.aspx",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "no-cache, no-store"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "default-src 'self' 'unsafe-inline' 'unsafe-eval';"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:04 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "-1"
+    },
+    {
+      "name": "pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__uzma=020c70ac-7e9e-4ef6-99c8-a8855468f38b; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:06 GMT; Max-Age=15724800; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__uzmb=1769209686; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:06 GMT; Max-Age=15724800; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__uzme=4844; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:06 GMT; Max-Age=15724800; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__uzmc=308341075905; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:06 GMT; Max-Age=15724800; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__uzmd=1769209686; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:06 GMT; Max-Age=15724800; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__uzmf=7f9000020c70ac-7e9e-4ef6-99c8-a8855468f38b1-17692096865840-00253c77dd93fd140be10; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:06 GMT; Max-Age=15724800; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "uzmx=7f9000b5ed21eb-2d0f-4f85-845a-857cc5ad043e1-17692096865840-4513cd946599530410; Domain=.ca.gov; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:06 GMT; Max-Age=15724800; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ASP.NET_SessionId=35ichld4cgsgvvqpv3gyppbo; path=/; HttpOnly; SameSite=Strict"
+    },
+    {
+      "name": "set-cookie",
+      "value": "BIGipServerCNIPS_Prod_pool=1804431882.47873.0000; path=/; Httponly; Secure"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    }
+  ],
+  "contentSize": 37504,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

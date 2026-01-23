@@ -4,21 +4,113 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Home",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:11.306Z",
+  "finalUrl": "https://www.csd.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "private, max-age=0"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "34531"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:09 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "Thu, 08 Jan 2026 23:08:09 GMT"
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 23 Jan 2026 23:08:09 GMT"
+    },
+    {
+      "name": "microsoftsharepointteamservices",
+      "value": "16.0.0.19127"
+    },
+    {
+      "name": "request-id",
+      "value": "a4f4efa1-33bf-c08c-d74d-9a60b973dc1f"
+    },
+    {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
+      "name": "spiislatency",
+      "value": "0"
+    },
+    {
+      "name": "sprequestduration",
+      "value": "96"
+    },
+    {
+      "name": "sprequestguid",
+      "value": "a4f4efa1-33bf-c08c-d74d-9a60b973dc1f"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-aspnet-version",
+      "value": "4.0.30319"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-ms-invokeapp",
+      "value": "1; RequireReadOnly"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "x-sharepointhealthscore",
+      "value": "0"
+    }
+  ],
+  "contentSize": 117254,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/CaliforniaDepartmentOfCommunityServicesDevelopment",
+    "https://twitter.com/ca_csd"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

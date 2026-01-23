@@ -4,21 +4,103 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Home Page | California State Water Resources Control Board",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:41.392Z",
+  "finalUrl": "https://www.waterboards.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "cache-control",
+      "value": "no-cache"
+    },
+    {
+      "name": "connection",
+      "value": "Keep-Alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:37 GMT"
+    },
+    {
+      "name": "keep-alive",
+      "value": "timeout=5, max=100"
+    },
+    {
+      "name": "pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "server",
+      "value": "Apache"
+    },
+    {
+      "name": "set-cookie",
+      "value": "visid_incap_910977=OjqYH1aMSQ6St+F8LFg+xnX/c2kAAAAAQUIPAAAAAAAqpx5Bwte8njV9CaILzcYw; expires=Sat, 23 Jan 2027 07:41:29 GMT; HttpOnly; path=/; Domain=.waterboards.ca.gov; Secure; SameSite=None"
+    },
+    {
+      "name": "set-cookie",
+      "value": "incap_ses_363_910977=FLGsdsHYG3pq0uAIsqIJBXX/c2kAAAAA0DGCeIGpTdiDGe8+eV/Uyw==; path=/; Domain=.waterboards.ca.gov; Secure; SameSite=None"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains; preload"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-cdn",
+      "value": "Imperva"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-iinfo",
+      "value": "49-128964841-128964893 NNNY CT(10 10 0) RT(1769209717098 224) q(0 0 0 1) r(0 0) U24"
+    }
+  ],
+  "contentSize": 87944,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/CaliforniaWaterBoards",
+    "https://www.linkedin.com/company/state-water-resources-control-board",
+    "https://x.com/CaWaterBoards",
+    "https://www.instagram.com/ca.water.boards/",
+    "https://www.youtube.com/channel/UCGArzB_cw0ZCPtBHravW2hA",
+    "https://www.tiktok.com/@cawaterboards",
+    "https://www.facebook.com/CaliforniaWaterBoards",
+    "https://www.linkedin.com/company/state-water-resources-control-board",
+    "https://x.com/CaWaterBoards",
+    "https://www.instagram.com/ca.water.boards/",
+    "https://www.youtube.com/user/BoardWebSupport",
+    "https://www.tiktok.com/@cawaterboards"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

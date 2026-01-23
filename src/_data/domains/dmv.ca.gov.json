@@ -4,21 +4,143 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "California DMV",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:14.656Z",
+  "finalUrl": "https://www.dmv.ca.gov/portal/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "access-control-allow-origin",
+      "value": "https://www.dmv.ca.gov"
+    },
+    {
+      "name": "age",
+      "value": "200"
+    },
+    {
+      "name": "cache-control",
+      "value": "max-age=300, must-revalidate"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "frame-ancestors 'self' https://*.dmv.ca.gov"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:04:52 GMT"
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 23 Jan 2026 23:04:52 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://www.dmv.ca.gov/portal/wp-json/>; rel=\"https://api.w.org/\", <https://www.dmv.ca.gov/portal/wp-json/wp/v2/pages/86>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.dmv.ca.gov/portal/>; rel=shortlink"
+    },
+    {
+      "name": "on-ws",
+      "value": "prd1"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"NON CUR OTPi OUR NOR UNI\""
+    },
+    {
+      "name": "server",
+      "value": "volt-adc"
+    },
+    {
+      "name": "set-cookie",
+      "value": "AWSALB=xnfgYzqn9Y2uTDE8bzoW7dbHB/VZ+s6KfsCWFIYu8NzhobPrGmABzfYRV9fj3svhgIjF5/A2iv2xMWOmbY6T8Vkl0FNCyJbMZHAANseGGkllOUlIalSFf+/ONenE; Expires=Fri, 30 Jan 2026 23:04:52 GMT; Path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "AWSALBCORS=xnfgYzqn9Y2uTDE8bzoW7dbHB/VZ+s6KfsCWFIYu8NzhobPrGmABzfYRV9fj3svhgIjF5/A2iv2xMWOmbY6T8Vkl0FNCyJbMZHAANseGGkllOUlIalSFf+/ONenE; Expires=Fri, 30 Jan 2026 23:04:52 GMT; Path=/; SameSite=None; Secure"
+    },
+    {
+      "name": "set-cookie",
+      "value": "PD_STATEFUL_0531fc7e-9a22-11ea-bf4d-fa163e384dc6=%2Fportal; Path=/; SameSite=None; Secure; HttpOnly"
+    },
+    {
+      "name": "set-cookie",
+      "value": "TS01dc4fc6=01e66920c75110773c8a53d5bfb06996b9ec44f82b674e925f6d59dd6bef27e041bbb7802fcbe4f3b1650018bbe12d06c00822fc32; Path=/; Secure; HttpOnly; SameSite=Strict;"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Cookie"
+    },
+    {
+      "name": "via",
+      "value": "1.1 fb7105f9421933293beb9186f66d67e8.cloudfront.net (CloudFront)"
+    },
+    {
+      "name": "x-amz-cf-id",
+      "value": "FLAOQioIw2NUl8T2df-7JE7dU3JEkMp2YmMB1Z6NfQA2_DrPWoHzPg=="
+    },
+    {
+      "name": "x-amz-cf-pop",
+      "value": "LAX54-P11"
+    },
+    {
+      "name": "x-cache",
+      "value": "Hit from cloudfront"
+    },
+    {
+      "name": "x-elasticpress-query",
+      "value": "true"
+    },
+    {
+      "name": "x-envoy-upstream-service-time",
+      "value": "44"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-volterra-location",
+      "value": "b-sv10-sjc"
+    }
+  ],
+  "contentSize": 105061,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://youtube.com/watch?v=M0KVcHQtU18",
+    "https://youtube.com/watch?v=CMc-SIvuKi0",
+    "https://youtube.com/watch?v=fg6DS5oGQgc",
+    "https://www.facebook.com/CADMV",
+    "https://x.com/ca_dmv",
+    "https://www.youtube.com/user/CaliforniaDMV",
+    "https://instagram.com/ca_dmv/",
+    "https://www.linkedin.com/company/ca-department-of-motor-vehicles"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

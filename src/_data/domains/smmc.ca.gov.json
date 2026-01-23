@@ -4,13 +4,58 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Santa Monica Mountains Conservancy – Welcome to California",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:36.934Z",
+  "finalUrl": "https://smmc.ca.gov/",
+  "metaGenerator": "CAWeb v.1.4.21",
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "no-store, no-cache, must-revalidate"
+    },
+    {
+      "name": "connection",
+      "value": "Keep-Alive"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:31 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "Thu, 19 Nov 1981 08:52:00 GMT"
+    },
+    {
+      "name": "keep-alive",
+      "value": "timeout=5, max=100"
+    },
+    {
+      "name": "link",
+      "value": "<https://smmc.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://smmc.ca.gov/wp-json/wp/v2/pages/2>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://smmc.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "server",
+      "value": "Apache"
+    },
+    {
+      "name": "set-cookie",
+      "value": "PHPSESSID=3be8bc3d0ee26e2f7afd8ff0b041a9eb; path=/; secure; HttpOnly"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    }
+  ],
+  "contentSize": 80245,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -18,7 +63,7 @@
   "hasJQuery": false,
   "googleAnalytics": [],
   "socialLinks": [],
-  "linksToCaGov": false,
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

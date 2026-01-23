@@ -4,20 +4,92 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "City of La Cañada Flintridge",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:25.266Z",
+  "finalUrl": "https://lcf.ca.gov/",
+  "metaGenerator": "All in One SEO (AIOSEO) 4.9.3",
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "max-age=600, must-revalidate"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "br"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "upgrade-insecure-requests"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:20 GMT"
+    },
+    {
+      "name": "keep-alive",
+      "value": "timeout=20"
+    },
+    {
+      "name": "link",
+      "value": "<https://lcf.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://lcf.ca.gov/wp-json/wp/v2/pages/10>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://lcf.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
+    },
+    {
+      "name": "x-cache",
+      "value": "HIT: 12"
+    },
+    {
+      "name": "x-cache-group",
+      "value": "normal"
+    },
+    {
+      "name": "x-cacheable",
+      "value": "SHORT"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "WP Engine"
+    }
+  ],
+  "contentSize": 386934,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.facebook.com/cityoflacanadaflintridge",
+    "https://twitter.com/theCityofLCF",
+    "https://www.linkedin.com/company/city-of-la-canada-flintridge/",
+    "https://www.youtube.com/user/TheCityofLCF",
+    "https://www.instagram.com/thecityoflcf",
+    "https://www.facebook.com/cityoflacanadaflintridge",
+    "https://twitter.com/theCityofLCF",
+    "https://www.linkedin.com/company/city-of-la-canada-flintridge/",
+    "https://www.youtube.com/user/TheCityofLCF",
+    "https://www.instagram.com/thecityoflcf"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

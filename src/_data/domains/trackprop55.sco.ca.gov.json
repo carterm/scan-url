@@ -4,13 +4,46 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Track Prop 30/Prop 55",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:36.857Z",
+  "finalUrl": "https://trackprop55.sco.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "private"
+    },
+    {
+      "name": "content-length",
+      "value": "13020"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:36 GMT"
+    },
+    {
+      "name": "server",
+      "value": ""
+    },
+    {
+      "name": "set-cookie",
+      "value": "__AntiXsrfToken=19da294e98904bd08500c5cfebec12c6; path=/; secure; HttpOnly"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
+  "contentSize": 13020,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

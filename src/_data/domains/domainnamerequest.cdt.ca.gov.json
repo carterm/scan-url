@@ -4,13 +4,70 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Getting Started",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:12.993Z",
+  "finalUrl": "https://www.domainnamerequest.cdt.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:12 GMT"
+    },
+    {
+      "name": "request-context",
+      "value": "appId=cid-v1:ad1ef73b-ef42-4479-a7a0-6daa77238679"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ARRAffinity=c02bd95f6de966f537132af58810d7960a1880e2261379fc4d49dd59e700e546;Path=/;HttpOnly;Secure;Domain=www.domainnamerequest.cdt.ca.gov"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ARRAffinitySameSite=c02bd95f6de966f537132af58810d7960a1880e2261379fc4d49dd59e700e546;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.domainnamerequest.cdt.ca.gov"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=2592000"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-azure-ref",
+      "value": "20260123T230812Z-r1cf444f6d6bbpmshC1BY1rru40000001sag00000000bvby"
+    },
+    {
+      "name": "x-cache",
+      "value": "CONFIG_NOCACHE"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "DENY"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
+  "contentSize": 9055,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -18,7 +75,7 @@
   "hasJQuery": false,
   "googleAnalytics": [],
   "socialLinks": [],
-  "linksToCaGov": false,
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

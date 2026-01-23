@@ -4,21 +4,104 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "CIRM – California's Stem Cell Agency",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:10.580Z",
+  "finalUrl": "https://www.cirm.ca.gov/",
+  "metaGenerator": "WordPress 6.8.1",
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "age",
+      "value": "0"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "48679"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:05 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://www.cirm.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.cirm.ca.gov/wp-json/wp/v2/pages/12>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.cirm.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=300"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding, Cookie, Cookie"
+    },
+    {
+      "name": "via",
+      "value": "1.1 varnish, 1.1 varnish"
+    },
+    {
+      "name": "x-cache",
+      "value": "HIT, MISS"
+    },
+    {
+      "name": "x-cache-hits",
+      "value": "1, 0"
+    },
+    {
+      "name": "x-pantheon-styx-hostname",
+      "value": "styx-fe4-b-86cbf58b65-kfxk4"
+    },
+    {
+      "name": "x-served-by",
+      "value": "cache-chi-kigq8000163-CHI, cache-sjc1000096-SJC"
+    },
+    {
+      "name": "x-styx-req-id",
+      "value": "5a7568c6-f8b0-11f0-ba5b-b2986f440fbf"
+    },
+    {
+      "name": "x-timer",
+      "value": "S1769209686.504222,VS0,VE52"
+    },
+    {
+      "name": "x-ua-compatible",
+      "value": "IE=edge"
+    }
+  ],
+  "contentSize": 176922,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/CaliforniaInstituteForRegenerativeMedicine",
+    "https://twitter.com/cirmnews",
+    "https://www.instagram.com/cirmnews/",
+    "https://www.linkedin.com/company/california-institute-for-regenerative-medicine/",
+    "https://www.youtube.com/user/CIRMTV"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

@@ -4,21 +4,69 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Made in California",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:24.915Z",
+  "finalUrl": "https://www.madeincalifornia.ca.gov/",
+  "metaGenerator": "CAWeb v.1.5.2a",
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "41231"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:22 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://www.madeincalifornia.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.madeincalifornia.ca.gov/wp-json/wp/v2/pages/30523>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.madeincalifornia.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "server",
+      "value": "Apache"
+    },
+    {
+      "name": "set-cookie",
+      "value": "caweb-alert-id-0=1"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    }
+  ],
+  "contentSize": 213494,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/CaliforniaOSBA/",
+    "https://twitter.com/californiaosba",
+    "https://www.youtube.com/channel/UChQxUhvsGGlibuQuJ86FPkg",
+    "https://www.linkedin.com/company/governor-s-office-of-business-and-economic-development",
+    "https://www.youtube.com/watch?v=78PwU7nWek4&width=900&height=500",
+    "https://www.youtube.com/watch?v=POm3BVZyUMU&rel=0&width=900&height=500",
+    "https://www.facebook.com/CaliforniaOSBA/",
+    "https://twitter.com/californiaosba",
+    "https://www.youtube.com/channel/UChQxUhvsGGlibuQuJ86FPkg",
+    "https://www.linkedin.com/company/governor-s-office-of-business-and-economic-development"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

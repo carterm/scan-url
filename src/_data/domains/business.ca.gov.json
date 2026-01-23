@@ -4,21 +4,95 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "California Governor’s Office of Business and Economic Development (GO-Biz)",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:01.838Z",
+  "finalUrl": "https://business.ca.gov/",
+  "metaGenerator": "CAWeb v.1.5.2a",
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "42551"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:07:59 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://business.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://business.ca.gov/wp-json/wp/v2/pages/135>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://business.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "server",
+      "value": "Apache"
+    },
+    {
+      "name": "set-cookie",
+      "value": "AWSALB=ldpDmNFtgDd6Us0lvrJ0q9/wZ6Kht8g+0S3rD40QJ0NuFN6V7u890HZwY6shew/DZCrp7gRSj7HaW/myVregn9ZbJe5XO1O5WJDxsI+fvJj7aQV18eALwjP8BbIt; Expires=Fri, 30 Jan 2026 23:07:58 GMT; Path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "AWSALBCORS=ldpDmNFtgDd6Us0lvrJ0q9/wZ6Kht8g+0S3rD40QJ0NuFN6V7u890HZwY6shew/DZCrp7gRSj7HaW/myVregn9ZbJe5XO1O5WJDxsI+fvJj7aQV18eALwjP8BbIt; Expires=Fri, 30 Jan 2026 23:07:58 GMT; Path=/; SameSite=None; Secure"
+    },
+    {
+      "name": "set-cookie",
+      "value": "caweb-alert-id-0=1"
+    },
+    {
+      "name": "set-cookie",
+      "value": "caweb-alert-id-1=1"
+    },
+    {
+      "name": "set-cookie",
+      "value": "caweb-alert-id-2=1"
+    },
+    {
+      "name": "set-cookie",
+      "value": "caweb-alert-id-3=1"
+    },
+    {
+      "name": "set-cookie",
+      "value": "caweb-alert-id-4=1"
+    },
+    {
+      "name": "set-cookie",
+      "value": "caweb-alert-id-5=1"
+    },
+    {
+      "name": "set-cookie",
+      "value": "caweb-alert-id-6=1"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    }
+  ],
+  "contentSize": 238876,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.youtube.com/@CAGOBiz",
+    "https://x.com/CAGoBiz",
+    "https://www.youtube.com/@CAGOBiz",
+    "https://www.linkedin.com/company/governor-s-office-of-business-and-economic-development"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

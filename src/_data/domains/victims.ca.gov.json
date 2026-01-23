@@ -4,21 +4,104 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "CalVCB - CA Victim Compensation Board",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:38.404Z",
+  "finalUrl": "https://victims.ca.gov/",
+  "metaGenerator": "WordPress 6.8.3",
+  "responseHeaders": [
+    {
+      "name": "age",
+      "value": "27"
+    },
+    {
+      "name": "cache-control",
+      "value": "max-age=176, must-revalidate"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "default-src  'self' ; img-src      'self' 'unsafe-inline' 'unsafe-eval' data: https://www.google.com https://translate.google.com https://www.googletagmanager.com https://www.google-analytics.com https://translate.googleapis.com https://www.gstatic.com https://secure.gravatar.com https://fonts.gstatic.com https://*.crazyegg.com;  script-src   'self' 'unsafe-inline' 'unsafe-eval' https://translate-pa.googleapis.com https://www.google.com https://translate.google.com https://www.googletagmanager.com https://www.google-analytics.com https://translate.googleapis.com https://www.gstatic.com https://alert.cdt.ca.gov https://platform.twitter.com https://www.facebook.com https://connect.facebook.net https://www.instagram.com https://static.elfsight.com https://*.crazyegg.com https://s3.amazonaws.com https://victims.us14.list-manage.com;  style-src    'self' 'unsafe-inline' https://translate.google.com https://www.googletagmanager.com https://www.google-analytics.com https://translate.googleapis.com https://www.gstatic.com https://*.crazyegg.com https://*.mailchimp.com;  font-src     'self' data: https://translate.google.com https://www.googletagmanager.com https://www.google-analytics.com https://translate.googleapis.com https://www.gstatic.com https://*.crazyegg.com;  frame-src    'self' https://translate.google.com https://www.googletagmanager.com https://www.google-analytics.com https://translate.googleapis.com https://www.gstatic.com https://platform.twitter.com https://syndication.twitter.com https://www.facebook.com https://www.instagram.com https://*.elf.site https://*.crazyegg.com;  object-src   'self' ;  connect-src      'self' https://translate.google.com https://www.googletagmanager.com https://www.google-analytics.com https://translate.googleapis.com https://www.gstatic.com https://alert.cdt.ca.gov https://translate-pa.googleapis.com https://*.crazyegg.com;"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:10 GMT"
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 23 Jan 2026 23:06:06 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://victims.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://victims.ca.gov/wp-json/wp/v2/pages/942>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://victims.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains; preload"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Cookie"
+    },
+    {
+      "name": "via",
+      "value": "1.1 4b259f0713185d35b300d672958b1cb6.cloudfront.net (CloudFront)"
+    },
+    {
+      "name": "x-amz-cf-id",
+      "value": "B9bDSDvnS2rm9z18sOkPUuPJ--vzSFsvW7hKOj5_sxHKt48REe6o7w=="
+    },
+    {
+      "name": "x-amz-cf-pop",
+      "value": "LAX54-P8"
+    },
+    {
+      "name": "x-cache",
+      "value": "Hit from cloudfront"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-tenup-cache",
+      "value": "EXPIRED"
+    }
+  ],
+  "contentSize": 72889,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/CaliforniaVictimCompensationBoard/",
+    "https://twitter.com/helpingvictims",
+    "https://www.youtube.com/c/CaliforniaVictimCompensationBoard",
+    "https://www.instagram.com/calvcb/",
+    "https://www.linkedin.com/company/calvcb/"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

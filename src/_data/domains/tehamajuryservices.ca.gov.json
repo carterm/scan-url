@@ -4,13 +4,86 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Jury+ Web Solution by Jury Systems, Inc. - Login",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:36.092Z",
+  "finalUrl": "https://tehamajuryservices.ca.gov/login",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "max-age=0, no-cache, no-store, must-revalidate"
+    },
+    {
+      "name": "connection",
+      "value": "Keep-Alive"
+    },
+    {
+      "name": "content-language",
+      "value": "en"
+    },
+    {
+      "name": "content-length",
+      "value": "7920"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "default-src *  data: blob: filesystem: about: ws: wss: 'unsafe-inline' 'unsafe-eval'; script-src * data: blob: 'unsafe-inline' 'unsafe-eval'; connect-src * data: blob: 'unsafe-inline'; img-src * data: blob: 'unsafe-inline'; frame-src * data: blob: ; style-src * data: blob: 'unsafe-inline'; font-src * data: blob: 'unsafe-inline';"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html;charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:35 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "0"
+    },
+    {
+      "name": "keep-alive",
+      "value": "timeout=5, max=100"
+    },
+    {
+      "name": "pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "same-origin"
+    },
+    {
+      "name": "server",
+      "value": "Apache"
+    },
+    {
+      "name": "set-cookie",
+      "value": "JSESSIONID=9CB6AC1372244F7BAD5DF67000053F0E; Path=/; Secure; HttpOnly"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=63072000; includeSubdomains; preload"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-permitted-cross-domain-policies",
+      "value": "none"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 7920,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

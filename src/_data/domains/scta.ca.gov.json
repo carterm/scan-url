@@ -4,20 +4,87 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Sonoma County Transportation Authority | SCTA",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:34.125Z",
+  "finalUrl": "https://scta.ca.gov/",
+  "metaGenerator": "WordPress 6.9",
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "br"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:32 GMT"
+    },
+    {
+      "name": "host-header",
+      "value": "8441280b0c35cbc1147f8ba998a563a7"
+    },
+    {
+      "name": "link",
+      "value": "<https://scta.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://scta.ca.gov/wp-json/wp/v2/pages/14>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://scta.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-cache-enabled",
+      "value": "True"
+    },
+    {
+      "name": "x-httpd",
+      "value": "1"
+    },
+    {
+      "name": "x-proxy-cache",
+      "value": "HIT"
+    },
+    {
+      "name": "x-tec-api-origin",
+      "value": "https://scta.ca.gov"
+    },
+    {
+      "name": "x-tec-api-root",
+      "value": "https://scta.ca.gov/wp-json/tribe/events/v1/"
+    },
+    {
+      "name": "x-tec-api-version",
+      "value": "v1"
+    }
+  ],
+  "contentSize": 110377,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "http://www.facebook.com/GoSCTA/",
+    "http://twitter.com/goscta",
+    "https://www.youtube.com/@sctarcpa7902",
+    "http://www.facebook.com/GoSCTA/",
+    "http://twitter.com/goscta"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

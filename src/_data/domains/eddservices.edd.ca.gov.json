@@ -4,13 +4,78 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Employer Services Online",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:14.370Z",
+  "finalUrl": "https://eddservices.edd.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "max-age=0, no-cache, no-store"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "3102"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:13 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "Fri, 23 Jan 2026 23:08:13 GMT"
+    },
+    {
+      "name": "last-modified",
+      "value": "Wed, 29 Jan 2025 18:31:17 GMT"
+    },
+    {
+      "name": "p3p",
+      "value": "CP=\"NON CUR OTPi OUR NOR UNI\""
+    },
+    {
+      "name": "pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "server-timing",
+      "value": "cdn-cache; desc=MISS, edge; dur=52, origin; dur=15, ak_p; desc=\"1769209693030_35003538_1050463022_6704_6825_25_435_-\";dur=1"
+    },
+    {
+      "name": "set-cookie",
+      "value": "EZKGLOFB=02f4fc1367-a920-4cZcEcZjhJbfTptLH93DWsgfCFZSLVch1OAY4tZhIIiwB__4aJj_HSUL02FRV6njFRDE0; path=/; SameSite=None; Secure"
+    },
+    {
+      "name": "set-cookie",
+      "value": "bm_sz=8ACFEF4B7DEA5C4E3577A2832F057669~YAAQkhwWAqIXftSbAQAAZoUd7R6U6SFWjzIYVlnj7EpXZf1dPel+PC+7oUnaffO4J6XmxFDMm82NU52J2U23kPVOQpPzsBQTPjJjuV/yhDUBiKPqUSKFSA56ihjh6/nxIKNzrawA7k2wCZh+c0jzXfdTDP21DMtW8zuLlAcL4Kh6huRpZ0VEk49OiuDZ5IZxSKTXbmqT10IXdrhpQCbi2jG0HD6r26DOwX4tRWhNeVOyMHZ5CAQbEFMe2/YASszXPqjydBxwSZkKNEVb2lGIyzD1C0yrMw8SGO9VVykxXHMneNI32Wd157k6sTMF05YUWL6P0N/bDk8kqm/uqpUAqbqpYMl5FfYDa0+BELFqoDMuUw9Pw+GvxqBVBfSf590PQ967~3359796~3752499; Domain=.ca.gov; Path=/; Expires=Sat, 24 Jan 2026 03:08:13 GMT; Max-Age=14400"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-akamai-transformed",
+      "value": "9 2898 0 pmb=mRUM,1"
+    }
+  ],
+  "contentSize": 7336,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

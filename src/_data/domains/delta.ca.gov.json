@@ -4,21 +4,77 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Delta Protection Commission – Committed to the Protection and Health of the Delta",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:19.469Z",
+  "finalUrl": "https://delta.ca.gov/",
+  "metaGenerator": "Site Kit by Google 1.168.0",
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:19 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://delta.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://delta.ca.gov/wp-json/wp/v2/pages/219690>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://delta.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-tec-api-origin",
+      "value": "https://delta.ca.gov"
+    },
+    {
+      "name": "x-tec-api-root",
+      "value": "https://delta.ca.gov/wp-json/tribe/events/v1/"
+    },
+    {
+      "name": "x-tec-api-version",
+      "value": "v1"
+    }
+  ],
+  "contentSize": 78274,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/DeltaProtectionCommission",
+    "http://twitter.com/CA_DPC",
+    "https://www.instagram.com/deltaprotectioncommission",
+    "https://www.linkedin.com/company/delta-protection-commission",
+    "https://www.youtube.com/channel/UCvN9eic9BP1ad38micqMl6w/videos?view_as=subscriber",
+    "https://www.facebook.com/DeltaProtectionCommission/",
+    "https://www.instagram.com/deltaprotectioncommission",
+    "https://www.linkedin.com/company/delta-protection-commission/",
+    "https://twitter.com/CA_DPC",
+    "https://www.facebook.com/DeltaProtectionCommission",
+    "http://twitter.com/CA_DPC",
+    "https://www.instagram.com/deltaprotectioncommission",
+    "https://www.linkedin.com/company/delta-protection-commission",
+    "https://www.youtube.com/channel/UCvN9eic9BP1ad38micqMl6w/videos?view_as=subscriber"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

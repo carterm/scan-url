@@ -4,21 +4,76 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "HCAI - Department of Health Care Access and Information",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:17.658Z",
+  "finalUrl": "https://hcai.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:17 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://hcai.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://hcai.ca.gov/wp-json/wp/v2/pages/8974>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://hcai.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-cache",
+      "value": "HIT"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-elasticpress-query",
+      "value": "true"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN, SAMEORIGIN"
+    },
+    {
+      "name": "x-skip-cache",
+      "value": "0"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 146047,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/CaliforniaHCAI",
+    "https://twitter.com/CA_HCAI",
+    "https://www.linkedin.com/company/department-of-health-care-access-and-information",
+    "https://www.youtube.com/channel/UCWZlucPkJlQa8bvmf39SRqw",
+    "https://www.instagram.com/hcai_ca/"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

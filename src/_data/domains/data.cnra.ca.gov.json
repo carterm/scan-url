@@ -4,13 +4,70 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Welcome - California Natural Resources Agency Open Data",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:13.224Z",
+  "finalUrl": "https://data.cnra.ca.gov/",
+  "metaGenerator": "ckan 2.9.11",
+  "responseHeaders": [
+    {
+      "name": "alt-svc",
+      "value": "h3=\":443\"; ma=86400"
+    },
+    {
+      "name": "cache-control",
+      "value": "max-age=0"
+    },
+    {
+      "name": "cf-cache-status",
+      "value": "DYNAMIC"
+    },
+    {
+      "name": "cf-ray",
+      "value": "9c2af3965f2ceb21-SJC"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:11 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "Fri, 23 Jan 2026 23:08:10 GMT"
+    },
+    {
+      "name": "server",
+      "value": "cloudflare"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubdomains"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 55226,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

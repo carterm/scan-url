@@ -4,20 +4,69 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Superior Court of California - County of Sacramento",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:31.555Z",
+  "finalUrl": "https://www.saccourt.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "private"
+    },
+    {
+      "name": "content-length",
+      "value": "27436"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "frame-ancestors 'self' https://saccourt-ca.prod.govaccess.org/"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:30 GMT"
+    },
+    {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
+      "name": "set-cookie",
+      "value": "www-saccourt-ca-gov=sac799vewebpd01; path=/"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "Deny"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 27436,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.linkedin.com/company/sacramento-superior-court",
+    "https://www.facebook.com/SacramentoCountyCourt",
+    "https://twitter.com/SacramentoCourt",
+    "https://www.youtube.com/user/SacCountyCourts",
+    "https://www.linkedin.com/company/sacramento-superior-court",
+    "https://www.facebook.com/SacramentoCountyCourt",
+    "https://twitter.com/SacramentoCourt"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

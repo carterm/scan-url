@@ -4,20 +4,113 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Home Page - California Arts Council",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:03.761Z",
+  "finalUrl": "https://arts.ca.gov/",
+  "metaGenerator": "WordPress 6.8.2",
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "age",
+      "value": "488"
+    },
+    {
+      "name": "cache-control",
+      "value": "public, max-age=600"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "61285"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:07:56 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://arts.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://arts.ca.gov/wp-json/wp/v2/pages/27>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://arts.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=300"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding, Cookie, Cookie"
+    },
+    {
+      "name": "via",
+      "value": "1.1 varnish, 1.1 varnish"
+    },
+    {
+      "name": "x-cache",
+      "value": "HIT, HIT"
+    },
+    {
+      "name": "x-cache-hits",
+      "value": "3, 0"
+    },
+    {
+      "name": "x-pantheon-styx-hostname",
+      "value": "styx-fe4-a-7f76c9f659-x5m9m"
+    },
+    {
+      "name": "x-served-by",
+      "value": "cache-chi-klot8100062-CHI, cache-sjc1000132-SJC"
+    },
+    {
+      "name": "x-styx-req-id",
+      "value": "357e2f03-f8af-11f0-8c89-667b86bf9276"
+    },
+    {
+      "name": "x-tec-api-origin",
+      "value": "https://arts.ca.gov"
+    },
+    {
+      "name": "x-tec-api-root",
+      "value": "https://arts.ca.gov/wp-json/tribe/events/v1/"
+    },
+    {
+      "name": "x-tec-api-version",
+      "value": "v1"
+    },
+    {
+      "name": "x-timer",
+      "value": "S1769209676.269106,VS0,VE3"
+    }
+  ],
+  "contentSize": 392461,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.facebook.com/californiaartscouncil?ref=ts",
+    "https://twitter.com/calartscouncil",
+    "https://www.instagram.com/calartscouncil/"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

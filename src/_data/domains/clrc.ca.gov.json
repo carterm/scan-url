@@ -4,13 +4,54 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "California Law Revision Commission Home",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:07.238Z",
+  "finalUrl": "https://www.clrc.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "connection",
+      "value": "Upgrade, Keep-Alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "br"
+    },
+    {
+      "name": "content-length",
+      "value": "7085"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:06 GMT"
+    },
+    {
+      "name": "keep-alive",
+      "value": "timeout=5"
+    },
+    {
+      "name": "server",
+      "value": "Apache"
+    },
+    {
+      "name": "upgrade",
+      "value": "h2,h2c"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    }
+  ],
+  "contentSize": 27437,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -18,7 +59,7 @@
   "hasJQuery": false,
   "googleAnalytics": [],
   "socialLinks": [],
-  "linksToCaGov": false,
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

@@ -4,13 +4,106 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Login Template Title",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:42.201Z",
+  "finalUrl": "https://tourism.ca.gov/s/login/?language=en_US",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "no-cache,must-revalidate,max-age=0,no-store,private"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "upgrade-insecure-requests, frame-ancestors *; report-uri /_/commcsp?disposition=enforce"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html;charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:37 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "Thu, 23 Jan 2025 23:08:36 GMT"
+    },
+    {
+      "name": "last-modified",
+      "value": "Thu, 23 Jan 2025 23:08:36 GMT"
+    },
+    {
+      "name": "link",
+      "value": "</s/sfsites/auraFW/javascript/REdtNUF5ejJUNWxpdVllUjQtUzV4UTFLcUUxeUY3ZVB6dE9hR0VheDVpb2cxMy4zMzU1NDQzMi41MDMzMTY0OA/aura_prod.js>;rel=preload;as=script;nopush,</s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22dfs%22%3A%228%22%2C%22app%22%3A%22siteforce%3AloginApp2%22%2C%22fwuid%22%3A%22REdtNUF5ejJUNWxpdVllUjQtUzV4UTFLcUUxeUY3ZVB6dE9hR0VheDVpb2cxMy4zMzU1NDQzMi41MDMzMTY0OA%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AloginApp2%22%3A%221343_FXfywJTDy_Pq6QSlM3hWkA%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22JHt0aW1lc3RhbXB9MDAwMDAwMDI3ODllbl9VUw%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22551347034%22%7D/resources.js?pu=1&pv=17691136780001162967214&rv=1768409125000>;rel=preload;as=script;nopush,</s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22dfs%22%3A%228%22%2C%22app%22%3A%22siteforce%3AloginApp2%22%2C%22serializationVersion%22%3A%221-13.33554432.50331648-b%22%2C%22parts%22%3A%22f%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AloginApp2%22%3A%221343_FXfywJTDy_Pq6QSlM3hWkA%22%7D%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22551347034%22%7D/app.js?3=>;rel=preload;as=script;nopush"
+    },
+    {
+      "name": "report-to",
+      "value": "{\"max_age\":31536000,\"endpoints\":[{\"url\":\"https://visitcalifornia.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Df4000002a9aF&networkId=0DM2T000000TNfN&type=communities\"}],\"group\":\"sfdc-csp-ep\"}"
+    },
+    {
+      "name": "reporting-endpoints",
+      "value": "sfdc-csp-ep=\"https://visitcalifornia.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Df4000002a9aF&networkId=0DM2T000000TNfN&type=communities\""
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "server-timing",
+      "value": "Headers;dur=162"
+    },
+    {
+      "name": "set-cookie",
+      "value": "CookieConsentPolicy=0:1; path=/; expires=Sat, 23-Jan-2027 23:08:36 GMT; Max-Age=31536000; secure"
+    },
+    {
+      "name": "set-cookie",
+      "value": "LSKey-c$CookieConsentPolicy=0:1; path=/; expires=Sat, 23-Jan-2027 23:08:36 GMT; Max-Age=31536000; secure"
+    },
+    {
+      "name": "set-cookie",
+      "value": "PicassoLanguage89583dbc-f049-4b58-b730-cf9e1684a983Published=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0"
+    },
+    {
+      "name": "set-cookie",
+      "value": "renderCtx=%7B%22pageId%22%3A%22df16c311-ce17-490d-a52a-2e8918ad1bb4%22%2C%22schema%22%3A%22Published%22%2C%22viewType%22%3A%22Published%22%2C%22brandingSetId%22%3A%22a98c555e-c77f-4374-a63a-5a107f2d69c9%22%2C%22audienceIds%22%3A%22%22%7D; path=/s; secure"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=63072000; includeSubDomains"
+    },
+    {
+      "name": "timing-allow-origin",
+      "value": "*"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding, Origin"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "ALLOWALL"
+    }
+  ],
+  "contentSize": 511519,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

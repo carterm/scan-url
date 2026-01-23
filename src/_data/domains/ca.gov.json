@@ -4,13 +4,78 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "California State Portal | CA.gov",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:07:59.290Z",
+  "finalUrl": "https://www.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "cache-control",
+      "value": "public, max-age=1800"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "6873"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "frame-ancestors 'self' *.ca.gov"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:07:58 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "\"021e44d798cdc1:0\""
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 23 Jan 2026 15:02:34 GMT"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-azure-ref",
+      "value": "20260123T230758Z-17d5b7ddf78fsbr5hC1SJCbc3c00000000u0000000001211"
+    },
+    {
+      "name": "x-cache",
+      "value": "CONFIG_NOCACHE"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
+  "contentSize": 29191,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -18,7 +83,7 @@
   "hasJQuery": false,
   "googleAnalytics": [],
   "socialLinks": [],
-  "linksToCaGov": false,
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

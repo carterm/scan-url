@@ -4,20 +4,129 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Home - Western Placer Waste Management Authority",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:45.218Z",
+  "finalUrl": "https://wpwma.ca.gov/",
+  "metaGenerator": "WordPress 6.9",
+  "responseHeaders": [
+    {
+      "name": "age",
+      "value": "251"
+    },
+    {
+      "name": "alt-svc",
+      "value": "h3=\":443\"; ma=86400"
+    },
+    {
+      "name": "cache-control",
+      "value": "public, max-age=0, s-maxage=3600"
+    },
+    {
+      "name": "cf-cache-status",
+      "value": "HIT"
+    },
+    {
+      "name": "cf-ray",
+      "value": "9c2af44d1fa232b9-SMF"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "br"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:40 GMT"
+    },
+    {
+      "name": "ki-cache-tag",
+      "value": "96db0520-a8d8-47ba-a905-0feea937cc19,0591ece5618226aa22d24ea3a3fb2bb5a286b5b942f2bcd3caf29a71a5b83c45"
+    },
+    {
+      "name": "ki-cache-type",
+      "value": "Edge"
+    },
+    {
+      "name": "ki-cf-cache-status",
+      "value": "HIT"
+    },
+    {
+      "name": "ki-edge",
+      "value": "v=25.2.3;mv=5.0.18"
+    },
+    {
+      "name": "ki-origin",
+      "value": "g1p"
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 23 Jan 2026 22:15:36 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://wpwma.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://wpwma.ca.gov/wp-json/wp/v2/pages/10127>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://wpwma.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "nel",
+      "value": "{\"success_fraction\":0.01,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+    },
+    {
+      "name": "report-to",
+      "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=cpKVz3gqhU6iPFNLKBvkdoKCEne8Xj8HsHsr4Hs0QUmQ1bXHjnFujsetEUjV1Yj5%2BWUU%2ByJLt9F%2B6uZuVcNsr6AUqwT5gh5Bpmq2GB0htNot0rA00kVFpUlMTEhH66ZOtpWOz2jK8CkQsg%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+    },
+    {
+      "name": "server",
+      "value": "cloudflare"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__cf_bm=Fajn_9FI7jCnFAKKljOcTbVn7jBbSCB5K5HcjxdQxPI-1769209720-1.0.1.1-IQgWuxKIoGlMEk4Nr0l2qjNhD10VG1ZEj45.tfkeJu.iY60vCxOy5n2SBNZWIM4I40678Rx6fKUiIJi.YtBkYhVkToL8fG5XCuKIMihteTY; path=/; expires=Fri, 23-Jan-26 23:38:40 GMT; domain=.wpwma.ca.gov; HttpOnly; Secure; SameSite=None"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-edge-location-klb",
+      "value": "1"
+    },
+    {
+      "name": "x-kinsta-cache",
+      "value": "HIT"
+    }
+  ],
+  "contentSize": 594152,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.youtube.com/watch?v=KQQdftQrcjs&list=PLnUskxTUjkSIRdgeQ3x_Pmm2DsMbzKDB2",
+    "https://www.facebook.com/WPWMA/",
+    "https://www.instagram.com/wpwma/?hl=en",
+    "https://twitter.com/wpwma1978?lang=en",
+    "https://www.youtube.com/channel/UCS2ctDTkh52BdD4zKQpopTg",
+    "https://www.linkedin.com/company/wpwma/",
+    "https://www.facebook.com/WPWMA/events"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

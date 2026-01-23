@@ -4,21 +4,117 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "GovOps | Government Operations",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:22.496Z",
+  "finalUrl": "https://www.govops.ca.gov/",
+  "metaGenerator": "CAWeb v.1.13.3",
+  "responseHeaders": [
+    {
+      "name": "alt-svc",
+      "value": "h3=\":443\"; ma=86400"
+    },
+    {
+      "name": "cache-control",
+      "value": "max-age=600, must-revalidate"
+    },
+    {
+      "name": "cf-cache-status",
+      "value": "DYNAMIC"
+    },
+    {
+      "name": "cf-ray",
+      "value": "9c2af3bc6eab3508-SMF"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "br"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "frame-ancestors 'self' *.ca.gov"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:16 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://www.govops.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "permissions-policy",
+      "value": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")"
+    },
+    {
+      "name": "server",
+      "value": "cloudflare"
+    },
+    {
+      "name": "set-cookie",
+      "value": "cagov-alert-0=1; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "caweb-alert-0=1; path=/; secure; HttpOnly; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__cf_bm=qoJiu.0_9O8P267meTl3Kia8Ci6WsNU1MtTlZSEPr9k-1769209696-1.0.1.1-CkzZZt_jDpDCC.KEis442Jr1.iNZbirq1MT4n699uhM.BuK8T0JmXpQ6VaAQjEWwOliJhRu8z8MFVyQLGV8dvOe9wTVoNZg4TpChvx4x1Kg; path=/; expires=Fri, 23-Jan-26 23:38:16 GMT; domain=.www.govops.ca.gov; HttpOnly; Secure; SameSite=None"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
+    },
+    {
+      "name": "x-cache",
+      "value": "HIT: 4"
+    },
+    {
+      "name": "x-cache-group",
+      "value": "normal"
+    },
+    {
+      "name": "x-cacheable",
+      "value": "SHORT"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "WP Engine"
+    }
+  ],
+  "contentSize": 215707,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.linkedin.com/company/california-government-operations-agency/",
+    "https://twitter.com/CAGovOps"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

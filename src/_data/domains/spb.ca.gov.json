@@ -4,21 +4,63 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "State Personnel Board",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:34.231Z",
+  "finalUrl": "https://www.spb.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "private"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-length",
+      "value": "40183"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:33 GMT"
+    },
+    {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ASP.NET_SessionId=xdgrqad5aj4tcyi2a3ygvpzq; path=/; HttpOnly; SameSite=Lax"
+    },
+    {
+      "name": "x-aspnet-version",
+      "value": "4.0.30319"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
+  "contentSize": 40183,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://spb-meetings.webex.com/spb-meetings/j.php?MTID=ma0f04d731497527b1984c1d69e8dac71",
+    "https://www.facebook.com/pages/California-State-Personnel-Board/128278377197549",
+    "https://www.youtube.com/user/californiagovernment#p/a",
+    "https://twitter.com/californiaspb"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

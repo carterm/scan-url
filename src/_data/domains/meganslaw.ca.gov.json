@@ -4,13 +4,66 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Disclaimer - Megan's Law Website",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:22.043Z",
+  "finalUrl": "https://www.meganslaw.ca.gov/Disclaimer",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "no-cache, no-store"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:21 GMT"
+    },
+    {
+      "name": "permissions-policy",
+      "value": "accelerometer=(), autoplay=(), camera=(), cross-origin-isolated=(), display-capture=(), document-domain=(), encrypted-media=(), fullscreen=(self), geolocation=(), gyroscope=(), keyboard-map=(), magnetometer=(), microphone=(), midi=(), payment=(), publickey-credentials-get=(), screen-wake-lock=(), sync-xhr=(), usb=(), web-share=(), xr-spatial-tracking=()"
+    },
+    {
+      "name": "pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "strict-origin-when-cross-origin"
+    },
+    {
+      "name": "set-cookie",
+      "value": "route=1769209702.956.12872.522083|10af5aeefd23f8782e6b553898bcc102; Expires=Sun, 25-Jan-26 23:08:21 GMT; Max-Age=172800; Path=/; HttpOnly; secure"
+    },
+    {
+      "name": "set-cookie",
+      "value": ".AspNetCore.Antiforgery.VyLW6ORzMgk=CfDJ8ASku1rpvMVJvTnBQE9ffKFPd4w5Gfoc24SEWD1zyX3lMx7ZxBaD5iQbH9flcAUCRhfx5EiNkC-RkxXdtDI-EqkjcxV6fzDIqzW5VBtsUzqS5qKeXwScFP6uAmz_LfLPhp-0mhtN3AG6rkZcGGfSaNM; path=/; samesite=strict; httponly; secure"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "DENY"
+    }
+  ],
+  "contentSize": 27454,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

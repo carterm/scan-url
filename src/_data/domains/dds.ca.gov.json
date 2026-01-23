@@ -4,21 +4,80 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Home : CA Department of Developmental Services",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:12.540Z",
+  "finalUrl": "https://www.dds.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "14844"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "frame-ancestors 'self' https://caddsprod.servicenowservices.com"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:11 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://www.dds.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.dds.ca.gov/wp-json/wp/v2/pages/23482>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.dds.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "server",
+      "value": "Apache/2.4.63 (Ubuntu)"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "via",
+      "value": "1.1 b0a911ba4778cdb479566c0f03452054.cloudfront.net (CloudFront)"
+    },
+    {
+      "name": "x-amz-cf-id",
+      "value": "F-eb9ftwxOkQ5O04efIlFfYoBJQ0I3UW5IdzG06Sm_IaD1xerk9OOQ=="
+    },
+    {
+      "name": "x-amz-cf-pop",
+      "value": "LAX53-P6"
+    },
+    {
+      "name": "x-cache",
+      "value": "Miss from cloudfront"
+    }
+  ],
+  "contentSize": 56563,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/California-Department-of-Developmental-Services-2350643635259672/",
+    "https://www.instagram.com/caldds_/",
+    "https://www.linkedin.com/company/ddscareers/jobs",
+    "https://www.youtube.com/CaliforniaDDS",
+    "https://www.twitter.com/CaliforniaDDS"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

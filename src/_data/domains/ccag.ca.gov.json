@@ -4,13 +4,114 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "C/CAG",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:04.279Z",
+  "finalUrl": "https://ccag.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "14872"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:01 GMT"
+    },
+    {
+      "name": "fastly-restarts",
+      "value": "1"
+    },
+    {
+      "name": "link",
+      "value": "<https://ccag.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "no-referrer-when-downgrade"
+    },
+    {
+      "name": "server",
+      "value": "Flywheel/5.1.0"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-cache",
+      "value": "MISS, HIT"
+    },
+    {
+      "name": "x-cache-hits",
+      "value": "0, 0"
+    },
+    {
+      "name": "x-cacheable",
+      "value": "YES"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-fw-dynamic",
+      "value": "TRUE"
+    },
+    {
+      "name": "x-fw-hash",
+      "value": "ksia5ss0bj"
+    },
+    {
+      "name": "x-fw-serve",
+      "value": "TRUE"
+    },
+    {
+      "name": "x-fw-server",
+      "value": "Flywheel/5.1.0"
+    },
+    {
+      "name": "x-fw-static",
+      "value": "NO"
+    },
+    {
+      "name": "x-fw-type",
+      "value": "FLYWHEEL_BOT"
+    },
+    {
+      "name": "x-fw-version",
+      "value": "5.0.0"
+    },
+    {
+      "name": "x-served-by",
+      "value": "cache-sjc10020-SJC, cache-sjc1000104-SJC"
+    },
+    {
+      "name": "x-timer",
+      "value": "S1769209681.414973,VS0,VE6"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1"
+    }
+  ],
+  "contentSize": 60194,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

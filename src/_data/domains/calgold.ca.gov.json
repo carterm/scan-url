@@ -4,20 +4,77 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "CalGold | CalGold v2 - Permit Assistance Tool",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:07:59.850Z",
+  "finalUrl": "https://www.calgold.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "private"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-length",
+      "value": "79744"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:07:59 GMT"
+    },
+    {
+      "name": "set-cookie",
+      "value": "AWSALB=Bzy9Fs8VdyApwXahyP2zTysxEraiwMxaM5LZRAZRxMNTX4kUDaf2Xjrlip0iZPUocRo1CHZqIDboMMFuOau8AalWnEHIzaDhZQIYAU84mHQz3dw5NyTmSvkjM+xH; Expires=Fri, 30 Jan 2026 23:07:59 GMT; Path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "AWSALBCORS=Bzy9Fs8VdyApwXahyP2zTysxEraiwMxaM5LZRAZRxMNTX4kUDaf2Xjrlip0iZPUocRo1CHZqIDboMMFuOau8AalWnEHIzaDhZQIYAU84mHQz3dw5NyTmSvkjM+xH; Expires=Fri, 30 Jan 2026 23:07:59 GMT; Path=/; SameSite=None; Secure"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__RequestVerificationToken=XAHFsOx7G6x5nF10En0r3T5UEr4rVho2C4I9DirOuKy_4vQd1ITByeEREHkI7z2WbjlHZgHZpys5NO4J1SEykKogDJY2hNgIIdBDJnW6Xus1; path=/; HttpOnly"
+    },
+    {
+      "name": "x-aspnetmvc-version",
+      "value": "5.2"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN, DENY"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 79744,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.facebook.com/CAGOBiz/",
+    "https://twitter.com/CAGoBiz?ref_src=twsrc%5Etfw",
+    "https://www.linkedin.com/company/governor-s-office-of-business-and-economic-development",
+    "https://www.facebook.com/CAGOBiz/",
+    "https://twitter.com/CAGoBiz?ref_src=twsrc%5Etfw",
+    "https://www.youtube.com/channel/UCregW8KZRE4k1sXVZs2bPxw",
+    "https://www.linkedin.com/company/governor-s-office-of-business-and-economic-development"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

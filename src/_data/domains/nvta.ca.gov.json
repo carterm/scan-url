@@ -4,20 +4,69 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Home - NVTA",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:27.115Z",
+  "finalUrl": "https://nvta.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "br"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:24 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://nvta.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://nvta.ca.gov/wp-json/wp/v2/pages/10>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://nvta.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "permissions-policy",
+      "value": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-cache-nxaccel",
+      "value": "BYPASS"
+    }
+  ],
+  "contentSize": 123907,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.youtube.com/watch?v=zFCI5czbs9U",
+    "https://www.youtube.com/watch?v=zFCI5czbs9U",
+    "https://www.youtube.com/channel/UCrpjLcW9uRmA0EE6w-eKZyw",
+    "https://www.facebook.com/nvta.ca/",
+    "https://twitter.com/NVTA_NapaValley",
+    "https://www.youtube.com/@nvta7191",
+    "https://www.instagram.com/nvta.ca/"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

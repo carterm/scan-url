@@ -4,20 +4,85 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Home - County of San Luis Obispo",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:35.359Z",
+  "finalUrl": "https://www.slocounty.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "age",
+      "value": "6"
+    },
+    {
+      "name": "cache-control",
+      "value": "public, max-age=30"
+    },
+    {
+      "name": "cf-cache-status",
+      "value": "HIT"
+    },
+    {
+      "name": "cf-ray",
+      "value": "9c2af425ddc5eb24-SJC"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:33 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "Fri, 23 Jan 2026 23:09:03 GMT"
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 23 Jan 2026 23:08:26 GMT"
+    },
+    {
+      "name": "server",
+      "value": "cloudflare"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=2592000"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
+  "contentSize": 46710,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.facebook.com/SLOCountyGov",
+    "https://www.youtube.com/user/slocountygov",
+    "https://www.instagram.com/countyofslo/"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

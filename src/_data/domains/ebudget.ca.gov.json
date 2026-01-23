@@ -4,13 +4,90 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "California Budget",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:15.291Z",
+  "finalUrl": "https://ebudget.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "cache-control",
+      "value": "no-cache, no-store, max-age=0, must-revalidate"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-language",
+      "value": "und"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:13 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "0"
+    },
+    {
+      "name": "last-modified",
+      "value": "Thu, 01 Jan 2026 03:57:14 GMT"
+    },
+    {
+      "name": "pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "server",
+      "value": "volt-adc"
+    },
+    {
+      "name": "set-cookie",
+      "value": "XSRF-TOKEN=7283300d-92c3-48fe-bb53-4bc758fe52de; Path=/; Secure"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000 ; includeSubDomains"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "origin,access-control-request-method,access-control-request-headers,accept-encoding"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-envoy-upstream-service-time",
+      "value": "316"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "DENY"
+    },
+    {
+      "name": "x-volterra-location",
+      "value": "b-sv10-sjc"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "0"
+    }
+  ],
+  "contentSize": 30826,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

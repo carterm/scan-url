@@ -4,20 +4,149 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Home | The State Bar of California",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:35.762Z",
+  "finalUrl": "https://www.statebarcourt.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "age",
+      "value": "4494"
+    },
+    {
+      "name": "cache-control",
+      "value": "max-age=86400, public"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-language",
+      "value": "en"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "report-uri /report-csp-violation; upgrade-insecure-requests"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:35 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "W/\"1769205221\""
+    },
+    {
+      "name": "expires",
+      "value": "Sun, 19 Nov 1978 05:00:00 GMT"
+    },
+    {
+      "name": "feature-policy",
+      "value": "geolocation 'none'; camera 'none'; microphone 'none'"
+    },
+    {
+      "name": "keep-alive",
+      "value": "timeout=75"
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 23 Jan 2026 21:53:41 GMT"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "strict-origin-when-cross-origin"
+    },
+    {
+      "name": "server",
+      "value": ""
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31622400; includeSubDomains; preload"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding, Accept-Encoding, Cookie, Cookie, Cookie"
+    },
+    {
+      "name": "via",
+      "value": "1.1 varnish, 1.1 varnish"
+    },
+    {
+      "name": "x-cache",
+      "value": "HIT, HIT"
+    },
+    {
+      "name": "x-cache-hits",
+      "value": "1, 0"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-drupal-cache",
+      "value": "MISS"
+    },
+    {
+      "name": "x-drupal-dynamic-cache",
+      "value": "MISS"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-generator",
+      "value": "Drupal 11 (https://www.drupal.org)"
+    },
+    {
+      "name": "x-pantheon-styx-hostname",
+      "value": "styx-fe3-b-6f684c5d8c-kvzdd"
+    },
+    {
+      "name": "x-served-by",
+      "value": "cache-chi-klot8100108-CHI, cache-sjc1000125-SJC"
+    },
+    {
+      "name": "x-styx-req-id",
+      "value": "fb1827f2-f8a5-11f0-8d37-dabfd917ec5b"
+    },
+    {
+      "name": "x-timer",
+      "value": "S1769209715.144256,VS0,VE3"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 46177,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.facebook.com/StateBarofCA",
+    "https://x.com/statebarca",
+    "https://www.linkedin.com/company/state-bar-of-california"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

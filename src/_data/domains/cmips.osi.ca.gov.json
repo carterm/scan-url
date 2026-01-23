@@ -4,21 +4,65 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "CMIPS Home page",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:07.411Z",
+  "finalUrl": "https://www.cmips.osi.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "10375"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:06 GMT"
+    },
+    {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ARRAffinity=fcc597c279cb6b14e2e7c4d372fcceaea2ac1b16e2c82883f2471c249fb10f60;Path=/;HttpOnly;Secure;Domain=cmips.azurewebsites.net"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ARRAffinitySameSite=fcc597c279cb6b14e2e7c4d372fcceaea2ac1b16e2c82883f2471c249fb10f60;Path=/;HttpOnly;SameSite=None;Secure;Domain=cmips.azurewebsites.net"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
+  "contentSize": 30425,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.linkedin.com/company/office-of-systems-integration",
+    "https://www.youtube.com/watch?time_continue=54&v=nvu2eoDfxk8"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

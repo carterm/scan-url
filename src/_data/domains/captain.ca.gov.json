@@ -4,20 +4,74 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "CA Autism Professional Training and Information Network - CAPTAIN",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:12.308Z",
+  "finalUrl": "https://www.captain.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:11 GMT"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__uzma=9dc75f6f-25f2-49d4-a4c9-ca8c59ec81b7; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:01 GMT; Max-Age=15724800; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__uzmb=1769209681; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:01 GMT; Max-Age=15724800; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__uzme=0095; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:01 GMT; Max-Age=15724800; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__uzmc=139471040705; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:01 GMT; Max-Age=15724800; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__uzmd=1769209681; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:01 GMT; Max-Age=15724800; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "BIGipServerCAPTAIN_Pool=2492297738.47873.0000; path=/; Httponly; Secure"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    }
+  ],
+  "contentSize": 15741,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.facebook.com/pages/Captain/859554854105466",
+    "https://twitter.com/captain_ebps",
+    "https://www.instagram.com/captain_ebps/",
+    "https://www.youtube.com/playlist?list=PLdYnp2_boOzfq90gKht1S_Vb-QS7VfdoW"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

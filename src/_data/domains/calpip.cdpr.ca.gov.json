@@ -4,21 +4,95 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "CalPIP Home - California Pesticide Information Portal",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:01.473Z",
+  "finalUrl": "https://calpip.cdpr.ca.gov/main.cfm",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "Keep-Alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "default-src * 'unsafe-inline' 'unsafe-eval'; script-src * 'unsafe-inline' 'unsafe-eval'; connect-src self * 'unsafe-inline'; img-src * data: blob: 'unsafe-inline'; frame-src self; style-src * 'unsafe-inline';"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html;charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:00 GMT"
+    },
+    {
+      "name": "keep-alive",
+      "value": "timeout=15, max=100"
+    },
+    {
+      "name": "server",
+      "value": "Apache"
+    },
+    {
+      "name": "set-cookie",
+      "value": "CFID=1256335; Expires=Sun, 16 Jan 2056 23:08:00 GMT; Path=/; Secure; HttpOnly;HttpOnly;Secure;SameSite=Strict"
+    },
+    {
+      "name": "set-cookie",
+      "value": "CFTOKEN=88895366; Expires=Sun, 16 Jan 2056 23:08:00 GMT; Path=/; Secure; HttpOnly;HttpOnly;Secure;SameSite=Strict"
+    },
+    {
+      "name": "set-cookie",
+      "value": "visid_incap_817311=0gdQJUt+T0ulAVEER3Vp+U//c2kAAAAAQUIPAAAAAADeUmO4c8AJTtER1GCSfY9R; expires=Sat, 23 Jan 2027 07:04:52 GMT; HttpOnly; path=/; Domain=.cdpr.ca.gov; Secure; SameSite=None"
+    },
+    {
+      "name": "set-cookie",
+      "value": "incap_ses_362_817311=P78keGzPXX0q3A0TMRUGBU//c2kAAAAAhxsvjbLJmMGghdxYkNTrvw==; path=/; Domain=.cdpr.ca.gov; Secure; SameSite=None"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=63072000; includeSubDomains; preload"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-cdn",
+      "value": "Imperva"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-iinfo",
+      "value": "21-6318796-6318808 NNYN CT(9 13 0) RT(1769209679412 575) q(0 0 0 0) r(1 1) U12"
+    },
+    {
+      "name": "x-ua-compatible",
+      "value": "IE=edge"
+    }
+  ],
+  "contentSize": 41267,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/CaPesticideRegulation",
+    "https://x.com/CA_PesticideReg",
+    "https://www.youtube.com/CaliforniaPesticides",
+    "https://www.linkedin.com/company/california-pesticide-regulation/"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

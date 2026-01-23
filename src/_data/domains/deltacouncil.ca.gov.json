@@ -4,21 +4,61 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Delta Stewardship Council",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:11.929Z",
+  "finalUrl": "https://www.deltacouncil.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "private"
+    },
+    {
+      "name": "content-length",
+      "value": "59047"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:10 GMT"
+    },
+    {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ASPSESSIONIDQABSCTCT=IKMFEIOBHEAAOLHGJKMDNAIH; path=/"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
+  "contentSize": 59047,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://twitter.com/deltacouncil",
+    "https://www.instagram.com/deltastewardshipcouncil/",
+    "https://www.linkedin.com/company/delta-stewardship-council-a-california-state-agency",
+    "https://www.facebook.com/Delta-Stewardship-Council-137873226259597/",
+    "https://www.youtube.com/user/DeltaCouncil/playlists?spfreload=10",
+    "https://twitter.com/DeltaCouncil?ref_src=twsrc%5Etfw",
+    "https://www.instagram.com/deltastewardshipcouncil/?utm_source=ig_embed",
+    "https://www.instagram.com/deltastewardshipcouncil/?utm_source=ig_embed",
+    "https://www.instagram.com/explore/locations/360649385/sacramentosan-joaquin-river-delta/?utm_source=ig_embed",
+    "https://www.facebook.com/deltastewardshipcouncil/"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

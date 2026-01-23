@@ -4,21 +4,93 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "California Health and Human Services - California Health & Human Services",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:09.793Z",
+  "finalUrl": "https://www.chhs.ca.gov/",
+  "metaGenerator": "WordPress 6.9",
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "br"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:06 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://www.chhs.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.chhs.ca.gov/wp-json/wp/v2/pages/16>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.chhs.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "permissions-policy",
+      "value": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "strict-origin"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "set-cookie",
+      "value": "TiPMix=42.838266653624245; path=/; HttpOnly; Domain=www.chhs.ca.gov; Max-Age=3600; Secure; SameSite=None"
+    },
+    {
+      "name": "set-cookie",
+      "value": "x-ms-routing-name=self; path=/; HttpOnly; Domain=www.chhs.ca.gov; Max-Age=3600; Secure; SameSite=None"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains; preload"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "PHP/8.3.26"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 262295,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://twitter.com/chhsdatanews",
+    "https://www.facebook.com/CAHealthHumanServices/",
+    "https://www.instagram.com/calhhs_/",
+    "https://x.com/Cal_HHS",
+    "https://www.linkedin.com/company/health-&-human-services-agency-california",
+    "https://www.youtube.com/channel/UCZuqqHnNArlElrQSYHKTXUQ"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

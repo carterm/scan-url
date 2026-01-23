@@ -4,21 +4,120 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Safer At Work | California for All",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:36.680Z",
+  "finalUrl": "https://saferatwork.labor.ca.gov/",
+  "metaGenerator": "CAWeb v.1.13.3",
+  "responseHeaders": [
+    {
+      "name": "alt-svc",
+      "value": "h3=\":443\"; ma=86400"
+    },
+    {
+      "name": "cache-control",
+      "value": "no-cache, must-revalidate, max-age=0, no-store, private"
+    },
+    {
+      "name": "cf-cache-status",
+      "value": "DYNAMIC"
+    },
+    {
+      "name": "cf-ray",
+      "value": "9c2af417ed60a495-SMF"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "br"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "frame-ancestors 'self' *.ca.gov"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:32 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "Wed, 11 Jan 1984 05:00:00 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://saferatwork.labor.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "permissions-policy",
+      "value": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")"
+    },
+    {
+      "name": "server",
+      "value": "cloudflare"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__cf_bm=VxngYA_QwRp4T41RypWF7dZq8Y84AkQWpTWgVhtybeU-1769209712-1.0.1.1-Lv1ixeIocIM0SaxHe8j1onvq6rgbUOfEJ2LZ0EM3U_IWARFd6ijHvqK6lZRHxyyq6p0DD1woi2IZQ23WMuitZHDXXezPGm9VYs3QuYB8N88; path=/; expires=Fri, 23-Jan-26 23:38:32 GMT; domain=.saferatwork.labor.ca.gov; HttpOnly; Secure; SameSite=None"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding"
+    },
+    {
+      "name": "x-cache",
+      "value": "MISS"
+    },
+    {
+      "name": "x-cache-group",
+      "value": "normal"
+    },
+    {
+      "name": "x-cacheable",
+      "value": "NO:Private"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-orig-cache-control",
+      "value": "no-cache, must-revalidate, max-age=0, no-store, private"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "WP Engine"
+    }
+  ],
+  "contentSize": 172132,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/CaliforniaDIR",
+    "https://twitter.com/#!/CA_DIR",
+    "https://www.facebook.com/CALaborAgency/",
+    "https://twitter.com/CALaborAgency",
+    "https://www.instagram.com/calaboragency/"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

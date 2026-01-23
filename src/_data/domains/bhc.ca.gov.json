@@ -4,21 +4,68 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Baldwin Hills Conservancy",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:07:58.370Z",
+  "finalUrl": "https://bhc.ca.gov/",
+  "metaGenerator": "Site Kit by Google 1.168.0",
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "no-cache"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:07:56 GMT"
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 23 Jan 2026 20:23:15 GMT"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "wpo-cache-status",
+      "value": "cached"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    }
+  ],
+  "contentSize": 49910,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/baldwinhillsconservancy/",
+    "https://www.instagram.com/urban_watersheds_conservancy/",
+    "https://www.facebook.com/baldwinhillsconservancy/",
+    "https://www.instagram.com/baldwinhillsconservancy/",
+    "https://www.facebook.com/Baldwin-Hills-Greenhouse-Program-91567654454/"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

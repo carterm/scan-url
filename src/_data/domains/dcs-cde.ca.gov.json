@@ -4,13 +4,66 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Diagnostic Center, Southern California",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:12.049Z",
+  "finalUrl": "https://www.dcs-cde.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "private"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:10 GMT"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__uzma=e5382544-0493-4b1f-ab70-1d2369286819; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:11 GMT; Max-Age=15724800; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__uzmb=1769209691; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:11 GMT; Max-Age=15724800; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__uzme=7396; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:11 GMT; Max-Age=15724800; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__uzmc=343921092573; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:11 GMT; Max-Age=15724800; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__uzmd=1769209691; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:11 GMT; Max-Age=15724800; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "BIGipServerDCS_Pool=2458743306.47873.0000; path=/; Httponly; Secure"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    }
+  ],
+  "contentSize": 22775,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

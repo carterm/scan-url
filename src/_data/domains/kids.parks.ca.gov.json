@@ -4,21 +4,55 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Kids in Parks",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:19.592Z",
+  "finalUrl": "https://kids.parks.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:19 GMT"
+    },
+    {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
+  "contentSize": 44231,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/CaliforniaStateParks",
+    "https://twitter.com/CAStateParks",
+    "https://www.youtube.com/user/CaliforniaStateParks",
+    "https://www.instagram.com/castateparks/?hl=en",
+    "https://www.facebook.com/CaliforniaStateParks",
+    "https://twitter.com/CAStateParks",
+    "https://www.youtube.com/user/CaliforniaStateParks",
+    "https://www.instagram.com/castateparks/?hl=en"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

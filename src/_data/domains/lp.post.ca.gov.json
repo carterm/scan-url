@@ -5,20 +5,82 @@
   "active": true,
   "includeInScan": true,
   "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:23.050Z",
+  "finalUrl": "https://lp.post.ca.gov/PublicWelcome.aspx",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "alt-svc",
+      "value": "h3=\":443\"; ma=86400"
+    },
+    {
+      "name": "cache-control",
+      "value": "private"
+    },
+    {
+      "name": "cf-cache-status",
+      "value": "DYNAMIC"
+    },
+    {
+      "name": "cf-ray",
+      "value": "9c2af3da1f41a495-SMF"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "br"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:21 GMT"
+    },
+    {
+      "name": "server",
+      "value": "cloudflare"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ASP.NET_SessionId=bca5zlhgrc2nefqqm0ahlxv5; path=/; HttpOnly; SameSite=None; Secure"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__cf_bm=6p24THEgMkbNrQmJptnqKrddCyfERffaVEQaUW9ssbY-1769209701-1.0.1.1-ysQ7MUC.CBSqC96mlLtHz0Jnab5_TPiJaAxGP7E0CHoECsVfvVB3Z.h5.n68EhSVFB9z6R1o0o7wg_c.KkuMTd0TIxFjaCd2xYJFz3GDgvA; path=/; expires=Fri, 23-Jan-26 23:38:21 GMT; domain=.lp.post.ca.gov; HttpOnly; Secure; SameSite=None"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "sameorigin"
+    }
+  ],
+  "contentSize": 38859,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/CaliforniaPOST",
+    "https://www.youtube.com/user/CaliforniaPOST/",
+    "https://www.instagram.com/commissiononpost/",
+    "https://www.linkedin.com/company/california-post/"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

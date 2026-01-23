@@ -4,13 +4,46 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "waterresilience.ca.gov —  Domain welcome page for",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:39.012Z",
+  "finalUrl": "https://www.waterresilience.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-length",
+      "value": "77980"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:38 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "\"68d5e44d-1309c\""
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 26 Sep 2025 00:54:37 GMT"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    }
+  ],
+  "contentSize": 77977,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

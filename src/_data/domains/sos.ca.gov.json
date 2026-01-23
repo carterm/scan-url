@@ -4,21 +4,132 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Home :: California Secretary of State",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:36.302Z",
+  "finalUrl": "https://www.sos.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "age",
+      "value": "5291"
+    },
+    {
+      "name": "cache-control",
+      "value": "max-age=7200, s-maxage=7200"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 21:40:22 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "Fri, 23 Jan 2026 23:31:43 GMT"
+    },
+    {
+      "name": "pragma",
+      "value": "public"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "set-cookie",
+      "value": "AWSALB=vkvZ3HFiqspAEp4KILR6Q0kXjF0aJ7kyQx9i0N2nor2AsvRGx2ksQgm/jmPvjXRGc5eESi3SAl64uicw5z6tO/hEHDaw3IAlQAhruLe8hqxLD/sUcpnwygrquYBO; Expires=Fri, 30 Jan 2026 21:40:22 GMT; Path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "AWSALBCORS=vkvZ3HFiqspAEp4KILR6Q0kXjF0aJ7kyQx9i0N2nor2AsvRGx2ksQgm/jmPvjXRGc5eESi3SAl64uicw5z6tO/hEHDaw3IAlQAhruLe8hqxLD/sUcpnwygrquYBO; Expires=Fri, 30 Jan 2026 21:40:22 GMT; Path=/; SameSite=None; Secure"
+    },
+    {
+      "name": "set-cookie",
+      "value": "nlbi_992756=zLD3AK2bSiwClYxdb2M0AQAAAAAuUXTf482IqqOkEb8L2gAM; HttpOnly; path=/; Domain=.sos.ca.gov"
+    },
+    {
+      "name": "set-cookie",
+      "value": "visid_incap_992756=4ZpwZgdNQ5K4ViQIChGfAHH/c2kAAAAAQUIPAAAAAACuRam4pGZ+fLSnw1IvzeKQ; expires=Sat, 23 Jan 2027 06:13:17 GMT; HttpOnly; path=/; Domain=.sos.ca.gov"
+    },
+    {
+      "name": "set-cookie",
+      "value": "incap_ses_341_992756=4qrCLT5RHz/APWDA1nm7BHH/c2kAAAAApmbX04wsAaKVeEaqXYEtqQ==; path=/; Domain=.sos.ca.gov"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "via",
+      "value": "1.1 97bc018596ec6eea95bb5c59cf872884.cloudfront.net (CloudFront)"
+    },
+    {
+      "name": "x-amz-cf-id",
+      "value": "lypYxIBPvCpUAwNJ_g8LHASJBqKURV4y66POycBO0vBxHrzEbJfkMg=="
+    },
+    {
+      "name": "x-amz-cf-pop",
+      "value": "SEA900-P2"
+    },
+    {
+      "name": "x-cache",
+      "value": "Hit from cloudfront"
+    },
+    {
+      "name": "x-cdn",
+      "value": "Imperva"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "sameorigin"
+    },
+    {
+      "name": "x-iinfo",
+      "value": "51-13349047-13221158 pNNy RT(1769209713395 513) q(0 0 0 7) r(1 1) U12"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 71410,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://twitter.com/CASOSVote",
+    "https://www.facebook.com/CaliforniaSOS/",
+    "https://x.com/casosvote/",
+    "https://www.youtube.com/user/CaliforniaSOS/",
+    "https://www.instagram.com/CaliforniaSOS_/"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

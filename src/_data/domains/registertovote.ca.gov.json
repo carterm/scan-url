@@ -4,21 +4,83 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Online Voter Registration | California Secretary of State :: California Secretary of State",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:32.415Z",
+  "finalUrl": "https://registertovote.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:30 GMT"
+    },
+    {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
+      "name": "set-cookie",
+      "value": "lang=en; expires=Sat, 23 Jan 2027 23:08:30 GMT; path=/; httponly"
+    },
+    {
+      "name": "set-cookie",
+      "value": "visid_incap_2663300=dhTyCIviSfuDkxXly42Yw27/c2kAAAAAQUIPAAAAAAD2v99PPbB+G0ePDCtoFrH6; expires=Sat, 23 Jan 2027 08:19:57 GMT; HttpOnly; path=/; Domain=.ca.gov; Secure; SameSite=None"
+    },
+    {
+      "name": "set-cookie",
+      "value": "nlbi_2663300=XCjENAer+U7FxJbQbpPrKQAAAABXneBMjrFu3wwFl2WgbRI7; HttpOnly; path=/; Domain=.ca.gov; Secure; SameSite=None"
+    },
+    {
+      "name": "set-cookie",
+      "value": "incap_ses_605_2663300=l+t+KwpT9DcLU7Q/ZWRlCG7/c2kAAAAAbj9PUHrAuo0kKCL76D6m2Q==; path=/; Domain=.ca.gov; Secure; SameSite=None"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=2592000"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-cdn",
+      "value": "Imperva"
+    },
+    {
+      "name": "x-iinfo",
+      "value": "41-49722234-49722325 NNNN CT(22 50 0) RT(1769209710045 435) q(0 0 0 0) r(1 1) U12"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
+  "contentSize": 36098,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/CaliforniaSOS/",
+    "https://twitter.com/CASOSvote/",
+    "https://www.youtube.com/user/CaliforniaSOS/",
+    "https://www.instagram.com/CaliforniaSOS_/"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

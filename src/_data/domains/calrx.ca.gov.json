@@ -4,21 +4,90 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "CalRx - Making prescription drugs more affordable for Californians",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:03.815Z",
+  "finalUrl": "https://calrx.ca.gov/",
+  "metaGenerator": "WordPress 6.9",
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "max-age=0, s-maxage=295, must-revalidate"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:00 GMT"
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 23 Jan 2026 23:07:55 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://calrx.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://calrx.ca.gov/wp-json/wp/v2/pages/799>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://calrx.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding,Cookie"
+    },
+    {
+      "name": "via",
+      "value": "1.1 bba30123f54a6d1251a0db5da01006dc.cloudfront.net (CloudFront)"
+    },
+    {
+      "name": "x-amz-cf-id",
+      "value": "rnFpz5fIdRSwZPH-Bg3_5WgSjyoI_9v0kSj8ex4uQXoY4setLVxU_g=="
+    },
+    {
+      "name": "x-amz-cf-pop",
+      "value": "LAX53-P4"
+    },
+    {
+      "name": "x-btcache",
+      "value": "HIT"
+    },
+    {
+      "name": "x-btcache-served",
+      "value": "Yes"
+    },
+    {
+      "name": "x-cache",
+      "value": "Miss from cloudfront"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    }
+  ],
+  "contentSize": 136623,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.youtube.com/watch?v=cvuytKeHV_8",
+    "https://twitter.com/GavinNewsom/status/1545122879649374209",
+    "https://twitter.com/CAgovernor/status/1637156655971565569?s=20link"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

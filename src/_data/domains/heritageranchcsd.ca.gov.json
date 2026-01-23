@@ -4,20 +4,103 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Homepage Heritage Ranch Community Services District",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:19.971Z",
+  "finalUrl": "https://www.heritageranchcsd.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "max-age=0, private, must-revalidate"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:18 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "W/\"d0c4af856e0116bceb67142586d1b7eb\""
+    },
+    {
+      "name": "referrer-policy",
+      "value": "strict-origin-when-cross-origin"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ahoy_visitor=495499fb-cbe7-417f-9382-eeec7d0bc626; path=/; expires=Sun, 23 Jan 2028 23:08:18 GMT"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ahoy_visit=7d115beb-1bd8-4f85-95bb-982eff887126; path=/; expires=Sat, 24 Jan 2026 03:08:18 GMT"
+    },
+    {
+      "name": "set-cookie",
+      "value": "XSRF-TOKEN=bKPvr3RZdLxtk2ZXMKk14QTfHC6F7H5vwbMUyTGsOfTLB9ibVABsRBz2WYTKuEdGadoPXrhk1dC4H0eGSQJ1oQ%3D%3D; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "_traction_session=Q1HpCA5%2Fjy23lMPNMsdo7cvjVwsB10nu%2BOuPDQTRsKccy8cssJUfrEg7U%2FmFqnWrEfdZSAJ473eR5hT24v%2FMIM3f3Z9VkJNa2x7QjYJvW73YdmQ9amFVZ5eiwE2Av2Ba%2B2A45fdJNn1qimifpxk%3D--Ah0Ve6gzKc%2Fklnd8--aZUnUcwwMzYrVuMMej1ccw%3D%3D; path=/; HttpOnly"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31556952"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-download-options",
+      "value": "noopen"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-permitted-cross-domain-policies",
+      "value": "none"
+    },
+    {
+      "name": "x-request-id",
+      "value": "2f388f17-d359-4e81-bdf3-3d11db709e8e"
+    },
+    {
+      "name": "x-runtime",
+      "value": "0.037924"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 96346,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.youtube.com/@HeritageRanchCSD"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

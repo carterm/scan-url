@@ -4,13 +4,50 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "CaliforniaDGStats",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:07:59.888Z",
+  "finalUrl": "https://www.californiadgstats.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-length",
+      "value": "25144"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:07:59 GMT"
+    },
+    {
+      "name": "set-cookie",
+      "value": "AWSALB=5QgzyI7v5YGcx188pK1XZ6DpzvgXIgtxa7XzTtiEzecfobwNoqDTPrYWejGKuGL7zjLd4zadi60PVd/D8YmGbg8R3etdR+dpUD3WdzP0YUR+6FKNZA2ghgI1c/+0; Expires=Fri, 30 Jan 2026 23:07:59 GMT; Path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "AWSALBCORS=5QgzyI7v5YGcx188pK1XZ6DpzvgXIgtxa7XzTtiEzecfobwNoqDTPrYWejGKuGL7zjLd4zadi60PVd/D8YmGbg8R3etdR+dpUD3WdzP0YUR+6FKNZA2ghgI1c/+0; Expires=Fri, 30 Jan 2026 23:07:59 GMT; Path=/; SameSite=None; Secure"
+    },
+    {
+      "name": "set-cookie",
+      "value": "csrftoken=6jqLbgblAqPaQC54wbxliuYFmoSbWBN7; expires=Fri, 22 Jan 2027 23:07:59 GMT; Max-Age=31449600; Path=/; SameSite=Lax"
+    },
+    {
+      "name": "vary",
+      "value": "Cookie"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "DENY"
+    }
+  ],
+  "contentSize": 25144,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

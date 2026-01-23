@@ -4,21 +4,136 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "privacy.ca.gov - A website brought to you by the California Privacy Protection Agency",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:35.270Z",
+  "finalUrl": "https://privacy.ca.gov/",
+  "metaGenerator": "CAWeb v.1.13.3",
+  "responseHeaders": [
+    {
+      "name": "alt-svc",
+      "value": "h3=\":443\"; ma=86400"
+    },
+    {
+      "name": "cache-control",
+      "value": "no-cache, must-revalidate, max-age=0, no-store, private"
+    },
+    {
+      "name": "cf-cache-status",
+      "value": "DYNAMIC"
+    },
+    {
+      "name": "cf-ray",
+      "value": "9c2af40d498e351e-SMF"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "br"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "frame-ancestors 'self' *.ca.gov"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:30 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "Wed, 11 Jan 1984 05:00:00 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://privacy.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "permissions-policy",
+      "value": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")"
+    },
+    {
+      "name": "server",
+      "value": "cloudflare"
+    },
+    {
+      "name": "set-cookie",
+      "value": "caweb-alert-0=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; secure; HttpOnly; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__cf_bm=wT0dej_iUE4RqBUXK70VSTe6Z8wsXU0KfkCLi0p82K4-1769209710-1.0.1.1-w_rlvGW3qIxPLXm6ujplHjc4weteK4mLPJVbXGKd65_JU3mm8JrKKEleAMSOcT7k.jZsDTYNVtLQZGVFTe7skNRYvSeUR8X4937odOw_aF8; path=/; expires=Fri, 23-Jan-26 23:38:30 GMT; domain=.privacy.ca.gov; HttpOnly; Secure; SameSite=None"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding"
+    },
+    {
+      "name": "x-cache",
+      "value": "MISS"
+    },
+    {
+      "name": "x-cache-group",
+      "value": "normal"
+    },
+    {
+      "name": "x-cacheable",
+      "value": "NO:Private"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-orig-cache-control",
+      "value": "no-cache, must-revalidate, max-age=0, no-store, private"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "WP Engine"
+    },
+    {
+      "name": "x-tec-api-origin",
+      "value": "https://privacy.ca.gov"
+    },
+    {
+      "name": "x-tec-api-root",
+      "value": "https://privacy.ca.gov/wp-json/tribe/events/v1/"
+    },
+    {
+      "name": "x-tec-api-version",
+      "value": "v1"
+    }
+  ],
+  "contentSize": 188107,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/61574944561128",
+    "https://instagram.com/calprivacy",
+    "https://www.linkedin.com/company/calprivacy",
+    "https://twitter.com/CalPrivacy",
+    "https://www.youtube.com/channel/UCZ810x7GMV_PC_d_i8TWWuQ"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

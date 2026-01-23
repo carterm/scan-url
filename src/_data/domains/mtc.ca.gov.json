@@ -4,20 +4,154 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Metropolitan Transportation Commission | MTC is the transportation planning, financing and coordinating agency for the nine-county San Francisco Bay Area.",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:27.347Z",
+  "finalUrl": "https://mtc.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "age",
+      "value": "9039"
+    },
+    {
+      "name": "cache-control",
+      "value": "max-age=2764800, public"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-language",
+      "value": "en"
+    },
+    {
+      "name": "content-length",
+      "value": "26002"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "frame-ancestors 'self'; report-uri /report-csp-violation"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "cross-origin-opener-policy",
+      "value": "same-origin"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:22 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "W/\"1769200662\""
+    },
+    {
+      "name": "expires",
+      "value": "Sun, 19 Nov 1978 05:00:00 GMT"
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 23 Jan 2026 20:37:42 GMT"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "no-referrer-when-downgrade"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=1000, max-age=300"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding, Cookie, Cookie, Cookie"
+    },
+    {
+      "name": "via",
+      "value": "1.1 varnish, 1.1 varnish, 1.1 varnish"
+    },
+    {
+      "name": "x-cache",
+      "value": "MISS, HIT, MISS"
+    },
+    {
+      "name": "x-cache-hits",
+      "value": "0, 44, 0"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-drupal-cache",
+      "value": "MISS"
+    },
+    {
+      "name": "x-drupal-dynamic-cache",
+      "value": "UNCACHEABLE (poor cacheability)"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-generator",
+      "value": "Drupal 10 (https://www.drupal.org)"
+    },
+    {
+      "name": "x-pantheon-styx-hostname",
+      "value": "styx-fe1-b-6d866b556d-p9cpm"
+    },
+    {
+      "name": "x-served-by",
+      "value": "cache-chi-klot8100101-CHI, cache-sjc10022-SJC, cache-sjc10031-SJC"
+    },
+    {
+      "name": "x-styx-req-id",
+      "value": "5db43d85-f89b-11f0-83a5-e2f3ef986497"
+    },
+    {
+      "name": "x-timer",
+      "value": "S1769209703.838589,VS0,VE9"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1"
+    }
+  ],
+  "contentSize": 113799,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.linkedin.com/company/metropolitan-transportation-commission",
+    "https://www.facebook.com/MTCBATA",
+    "https://instagram.com/mtcbata",
+    "https://www.youtube.com/user/mtcabaglibrary",
+    "https://www.linkedin.com/company/metropolitan-transportation-commission",
+    "https://www.facebook.com/MTCBATA",
+    "https://instagram.com/mtcbata",
+    "https://www.youtube.com/user/mtcabaglibrary"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

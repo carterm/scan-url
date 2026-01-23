@@ -4,21 +4,75 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "California Governor's Office of Emergency Services | California's Emergency Services Leader",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:05.154Z",
+  "finalUrl": "https://www.caloes.ca.gov/",
+  "metaGenerator": "CAWeb v.1.13.0",
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:07:59 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "\"db2a79ef406041f0bfa33278dc9693a6\""
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 23 Jan 2026 22:50:07 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://www.caloes.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.caloes.ca.gov/wp-json/wp/v2/pages/41>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.caloes.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ApplicationGatewayAffinity=acf34393cba5151a43001d932a214e1c; Path=/"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-azure-ref",
+      "value": "20260123T230759Z-r1cf444f6d67dmg4hC1BY1kqw00000001sm0000000008w7a"
+    },
+    {
+      "name": "x-cache",
+      "value": "CONFIG_NOCACHE"
+    }
+  ],
+  "contentSize": 370281,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/CaliforniaOES",
+    "https://www.instagram.com/cal_OES/",
+    "https://twitter.com/cal_oes",
+    "https://www.youtube.com/user/CalEMATV"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

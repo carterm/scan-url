@@ -4,13 +4,90 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Home - Office of the State Public Defender",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:29.718Z",
+  "finalUrl": "https://www.ospd.ca.gov/",
+  "metaGenerator": "WordPress 6.8.3",
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "public, max-age=3247"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:26 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "\"aafe599bcccc1f93e63b12118dbe3c9f\""
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 23 Jan 2026 23:02:33 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://www.ospd.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.ospd.ca.gov/wp-json/wp/v2/pages/771>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.ospd.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "permissions-policy",
+      "value": "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)"
+    },
+    {
+      "name": "pragma",
+      "value": "public"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "strict-origin"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains; preload"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-ms-middleware-request-id",
+      "value": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "PHP/8.3.29"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 116276,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -18,7 +95,7 @@
   "hasJQuery": false,
   "googleAnalytics": [],
   "socialLinks": [],
-  "linksToCaGov": false,
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

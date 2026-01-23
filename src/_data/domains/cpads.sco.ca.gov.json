@@ -4,13 +4,46 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "State Controller's Office CPA Directory Service (CPADS)",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:07.926Z",
+  "finalUrl": "https://cpads.sco.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "private"
+    },
+    {
+      "name": "content-length",
+      "value": "8402"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:07 GMT"
+    },
+    {
+      "name": "server",
+      "value": ""
+    },
+    {
+      "name": "set-cookie",
+      "value": "ASP.NET_SessionId=j1jrfesakgdkcayxcwoyejdr; path=/; secure; HttpOnly; SameSite=Lax"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
+  "contentSize": 8402,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

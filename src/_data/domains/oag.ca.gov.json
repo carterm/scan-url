@@ -4,20 +4,111 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "State of California - Department of Justice - Office of the Attorney General",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:27.892Z",
+  "finalUrl": "https://www.oag.ca.gov/",
+  "metaGenerator": "Drupal 7 (http://drupal.org)",
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "public, max-age=0"
+    },
+    {
+      "name": "connection",
+      "value": "Keep-Alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-language",
+      "value": "en"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:24 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "\"1769209694-0\""
+    },
+    {
+      "name": "expires",
+      "value": "Sun, 19 Nov 1978 05:00:00 GMT"
+    },
+    {
+      "name": "keep-alive",
+      "value": "timeout=5, max=65"
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 23 Jan 2026 23:08:14 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://oag.ca.gov/>; rel=\"canonical\",<https://oag.ca.gov/>; rel=\"shortlink\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon.png>; rel=\"apple-touch-icon\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-72x72.png>; rel=\"apple-touch-icon_72x72\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-76x76.png>; rel=\"apple-touch-icon_76x76\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-114x114.png>; rel=\"apple-touch-icon_114x114\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-120x120.png>; rel=\"apple-touch-icon_120x120\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-144x144.png>; rel=\"apple-touch-icon_144x144\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-152x152.png>; rel=\"apple-touch-icon_152x152\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-180x180.png>; rel=\"apple-touch-icon_180x180\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-57x57.png>; rel=\"apple-touch-icon-precomposed\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-72x72.png>; rel=\"apple-touch-icon-precomposed_72x72\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-76x76.png>; rel=\"apple-touch-icon-precomposed_76x76\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-114x114.png>; rel=\"apple-touch-icon-precomposed_114x114\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-120x120.png>; rel=\"apple-touch-icon-precomposed_120x120\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-144x144.png>; rel=\"apple-touch-icon-precomposed_144x144\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-152x152.png>; rel=\"apple-touch-icon-precomposed_152x152\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-180x180.png>; rel=\"apple-touch-icon-precomposed_180x180\""
+    },
+    {
+      "name": "server",
+      "value": "Apache"
+    },
+    {
+      "name": "set-cookie",
+      "value": "oag.ca.gov=1946487463.20480.0000; path=/; Httponly; Secure"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Cookie,Accept-Encoding"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff, nosniff"
+    },
+    {
+      "name": "x-drupal-cache",
+      "value": "HIT"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-generator",
+      "value": "Drupal 7 (http://drupal.org)"
+    },
+    {
+      "name": "x-ua-compatible",
+      "value": "IE=Edge"
+    }
+  ],
+  "contentSize": 127373,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.facebook.com/AGRobBonta",
+    "https://twitter.com/AGRobBonta",
+    "https://www.instagram.com/AGRobBonta",
+    "https://www.youtube.com/user/caoag",
+    "https://www.facebook.com/AGRobBonta",
+    "https://x.com/AGRobBonta",
+    "https://www.instagram.com/AGRobBonta/",
+    "https://www.youtube.com/user/caoag",
+    "https://www.tiktok.com/@agrobbonta"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

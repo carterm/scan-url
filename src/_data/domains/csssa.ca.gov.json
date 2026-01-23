@@ -4,21 +4,63 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "California State Summer School for the Arts",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:12.233Z",
+  "finalUrl": "https://www.csssa.ca.gov/",
+  "metaGenerator": "Site Kit by Google 1.170.0",
+  "responseHeaders": [
+    {
+      "name": "content-encoding",
+      "value": "br"
+    },
+    {
+      "name": "content-length",
+      "value": "35293"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:09 GMT"
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 23 Jan 2026 21:12:54 GMT"
+    },
+    {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "x-powered-by-plesk",
+      "value": "PleskWin"
+    }
+  ],
+  "contentSize": 133411,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/csssa",
+    "https://www.instagram.com/csssa_schoolforthearts/",
+    "https://www.tiktok.com/@csssa_schoolforthearts",
+    "https://www.youtube.com/c/csssacsssafoundation"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

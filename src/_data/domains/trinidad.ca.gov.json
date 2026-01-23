@@ -4,20 +4,143 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Home Page | Trinidad CA",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:39.684Z",
+  "finalUrl": "https://www.trinidad.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "age",
+      "value": "11869"
+    },
+    {
+      "name": "cache-control",
+      "value": "max-age=86400, public"
+    },
+    {
+      "name": "cache-tags",
+      "value": "config:block_list config:block.block.utilitylinksmenu block_content:91 config:block.block.customsocialnetworkicons block_content:81 config:block.block.customsitecredits block_content:86 config:block.block.customfooteraddress config:block.block.municode_theme_page_title config:block.block.municode_theme_local_tasks config:block.block.municode_theme_local_actions config:block.block.municode_theme_help config:block.block.municode_theme_content config:block.block.municodeprioritysearchblock config:block.block.exposedformdocument_librarydocument_library config:block.block.exposedformfaqspage_faqs_category config:block.block.views_block__faqs_main_page_block_1 config:block.block.municode_theme_views_block__my_changes_block_1 config:block.block.exposedformnewsnews config:block.block.municode_theme_messages config:block.block.municode_theme_main_menu config:block.block.municode_theme_breadcrumbs config:block.block.tabs_1 config:block.block.footerlinks config:block.block.municodebrandingblock node:1 config:block.block.micrositemenutitleblock config:block.block.micrositemenublock config:block.block.directorylistingsidebarblock config:block.block.views_block__events_calendar_microsite_upcoming_block config:block.block.views_block__microsite_directory_microsite_directory config:block.block.municode_search_filters config:block.block.headerlinks block_content:96 config:block.block.ga4analytics config:block.block.contactinformation config:block.block.alertpopupblock config:block.block.views_block__announcement_block_1 user:0 config:block.block.trinidadca_theme_cpadmintoolbarblock config:block.block.exposedformsearchpage_1 config:google_analytics.settings config:extlink.settings block_view config:system.menu.footer-links local_task block_content_view config:core.entity_view_display.block_content.basic.default config:filter.format.full_html_no_wysiwyg_buttons config:system.menu.utility-links-menu node_view config:core.entity_view_display.node.microsite.default config:layout_library.layout.standard_home_page config:system.menu.key-links-menu node:2731 config:core.entity_view_display.menu_link_content.key-links-menu.default menu_link_content:1 menu_link_content:6 menu_link_content:31 menu_link_content:11 menu_link_content:16 config:layout_builder_styles.style.key_links config:layout_builder_styles.style.no_scroll node_list config:views.view.events_calendar smart_date_rule_list config:field.storage.node.field_smart_date config:views.view.news node:3921 node:3936 node:4031 config:field.storage.node.field_alternate_title config:filter.format.full_html_advanced_wysiwyg_buttons config:layout_builder_styles.style.sidebar user:1 config:system.site config:field.storage.node.field_news_date config:field.storage.node.field_short_description config:field.storage.node.og_audience CACHE_MISS_IF_UNCACHEABLE_HTTP_METHOD:form config:system.menu.main node:26 node:1626 node:221 node:2811 node:3526 node:141 node:1631 node:1636 node:66 node:86 node:91 node:101 node:136 node:106 node:931 node:1451 node:2786 node:936 node:941 node:3536 node:581 node:591 node:586 node:596 node:2921 node:3321 node:3691 config:system.menu.header-links config:views.view.announcement cp_background_images media_view media:8246 config:core.entity_view_display.media.background_image.default config:responsive_image.styles.background_images config:image.style.background_image_desktop config:image.style.background_image_tablet config:image.style.background_image_mobile media:7856 rendered http_response config:user.role.anonymous config:municode_alert.municodealert"
+    },
+    {
+      "name": "cf-cache-status",
+      "value": "DYNAMIC"
+    },
+    {
+      "name": "cf-ray",
+      "value": "9c2af43a5a5c9e56-SJC"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-language",
+      "value": "en"
+    },
+    {
+      "name": "content-length",
+      "value": "8554"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "default-src 'self' * blob: data:; script-src * about: 'unsafe-inline' 'unsafe-eval'; object-src 'self'; style-src * 'unsafe-inline'; img-src * data: blob:; media-src * blob: data:; frame-ancestors 'self'; upgrade-insecure-requests"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:37 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "\"1769197846\""
+    },
+    {
+      "name": "expires",
+      "value": "Sun, 19 Nov 1978 05:00:00 GMT"
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 23 Jan 2026 19:50:46 GMT"
+    },
+    {
+      "name": "permissions-policy",
+      "value": "accelerometer=(), attribution-reporting=(), autoplay=*, bluetooth=(), browsing-topics=(), camera=(), compute-pressure=(), display-capture=*, encrypted-media=(), geolocation=(), gyroscope=(), hid=(), identity-credentials-get=(self), idle-detection=(), local-fonts=(self), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=*, publickey-credentials-get=(self), screen-wake-lock=(), serial=(), storage-access=(), usb=(), web-share=(), window-management=(), xr-spatial-tracking=()"
+    },
+    {
+      "name": "server",
+      "value": "cloudflare"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=2592000"
+    },
+    {
+      "name": "vary",
+      "value": "Cookie,Accept-Encoding"
+    },
+    {
+      "name": "via",
+      "value": "varnish"
+    },
+    {
+      "name": "x-ah-environment",
+      "value": "04live"
+    },
+    {
+      "name": "x-cache",
+      "value": "HIT"
+    },
+    {
+      "name": "x-cache-hits",
+      "value": "46"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-drupal-cache",
+      "value": "MISS"
+    },
+    {
+      "name": "x-drupal-dynamic-cache",
+      "value": "MISS"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-generator",
+      "value": "Drupal 10 (https://www.drupal.org)"
+    },
+    {
+      "name": "x-request-id",
+      "value": "v-cf64e8ea-f894-11f0-a485-ef1cf599ce89"
+    }
+  ],
+  "contentSize": 38613,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.facebook.com/TrinidadChamber/"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

@@ -4,21 +4,313 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "California Infrastructure and Economic Development Bank (IBank)",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:43.045Z",
+  "finalUrl": "https://www.ibank.ca.gov/",
+  "metaGenerator": "CAWeb v.1.5.2a",
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "private, must-revalidate"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "default-src 'self' *.twitter.com *.twimg.com *.googleapis.com *.ibank.ca.gov *.ctctcdn.com *.constantcontact.com *.gstatic.com *.google-analytics.com stats.g.doubleclick.net ocsp.usertrust.com ocsp.sectigo.com *.wakelet.com; img-src 'self' data: http: https: *.gravatar.com *.wp.com *.wordpress.com *.wakelet.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' http: https: *.wp.com *.wordpress.com; style-src 'self' 'unsafe-inline' http: https: fonts.googleapis.com *.wp.com *.wordpress.com; font-src 'self' data: http: https: fonts.googleapis.com themes.googleusercontent.com *.wp.com *.wordpress.com; frame-src 'self' 'unsafe-inline' 'unsafe-eval' http: https: *.wp.com *.wordpress.com *.wakelet.com"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:21 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "Fri, 23 Jan 2026 23:18:19 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://www.ibank.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.ibank.ca.gov/wp-json/wp/v2/pages/255>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.ibank.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "no-referrer-when-downgrade"
+    },
+    {
+      "name": "server",
+      "value": "Apache"
+    },
+    {
+      "name": "set-cookie",
+      "value": "caweb-alert-id-0=1"
+    },
+    {
+      "name": "set-cookie",
+      "value": "caweb-alert-id-1=1"
+    },
+    {
+      "name": "set-cookie",
+      "value": "caweb-alert-id-2=1"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_2=Fariba%20Khoie; expires=Fri, 23-Jan-2026 23:07:20 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_3=John%20Belmont; expires=Fri, 23-Jan-2026 23:07:20 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_4=Steven%20Wright; expires=Fri, 23-Jan-2026 23:07:20 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_5=Lina%20Moeller; expires=Fri, 23-Jan-2026 23:07:20 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_6=John%20Weir; expires=Fri, 23-Jan-2026 23:07:20 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_7=Betty%20Bian; expires=Fri, 23-Jan-2026 23:07:20 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_8=Richard%20Nesbitt; expires=Fri, 23-Jan-2026 23:07:20 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_10=Stefan%20Spich; expires=Fri, 23-Jan-2026 23:07:20 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_11=Robin%20Adams; expires=Fri, 23-Jan-2026 23:07:20 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_12=Megan%20Hodapp; expires=Fri, 23-Jan-2026 23:07:20 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_13=Yana%20Buryak; expires=Fri, 23-Jan-2026 23:07:20 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_14=Anush%20Avetisova; expires=Fri, 23-Jan-2026 23:07:20 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_15=Dan%20Adler; expires=Fri, 23-Jan-2026 23:07:20 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_16=Karen%20Naungayan; expires=Fri, 23-Jan-2026 23:07:20 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_17=Ammer%20Singh; expires=Fri, 23-Jan-2026 23:07:20 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_18=Jim%20Rennie; expires=Fri, 23-Jan-2026 23:07:20 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_19=Ella%20Clinton; expires=Fri, 23-Jan-2026 23:07:20 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_21=Mei%20Kwee; expires=Fri, 23-Jan-2026 23:07:20 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_22=Tina%20Chuong; expires=Fri, 23-Jan-2026 23:07:20 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_23=Aastha%20Sehgal; expires=Fri, 23-Jan-2026 23:07:20 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_24=Pa%20Thao; expires=Fri, 23-Jan-2026 23:07:20 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_25=Jeffrey%20Ingles; expires=Fri, 23-Jan-2026 23:07:20 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_26=Angel%20Lau; expires=Fri, 23-Jan-2026 23:07:20 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_27=Jaymie%20Lutz; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_31=Genny%20McLaren; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_32=Anissa%20Khemici; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_34=May%20Chanthakone; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_35=Lydia%20Workman; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_38=Nicola%20Kerslake; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_42=Robert%20Portillo; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_43=Dinara%20Nussipov; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_44=Dalibor%20Zivkovic; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_45=Jindra%20Reyes; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_47=Bryan%20Fairman; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_48=Taylor%20Carnevale; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_49=Derrick%20Tang; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_50=Amiko%20Foster; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_51=Rachel%20Swanson; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_52=Shrina%20Kurani; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_53=Patrick%20Toppin; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_54=Daniel%20Adomian; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_55=Shuang%20Aw; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_56=Mona%20Golshani; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_57=Andriy%20Parkhomenko; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_59=Yuri%20Kim; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_60=Dilin%20Naidoo; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_61=Madeline%20Darcy; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_62=AJ%20Singh; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_63=Jennie%20Park; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_64=Sophie%20Peng; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ays_popup_cookie_65=Kami%20Seiki; expires=Fri, 23-Jan-2026 23:07:21 GMT; Max-Age=0; path=/"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding,User-Agent"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "PHP/7.4.7"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 2437097,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/IBankCA/",
+    "https://twitter.com/IBankCA",
+    "https://www.youtube.com/channel/UCMw85Tyn0zwUSo6JJg3YklQ",
+    "https://www.instagram.com/ibankca/",
+    "https://www.linkedin.com/company/ibankca/",
+    "https://www.facebook.com/IBankCA/",
+    "https://twitter.com/IBankCA",
+    "https://www.youtube.com/channel/UCMw85Tyn0zwUSo6JJg3YklQ",
+    "https://www.instagram.com/ibankca/",
+    "https://www.linkedin.com/company/ibankca/"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

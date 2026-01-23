@@ -4,13 +4,74 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Home Page | Triple-A Council of California - State of California",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:36.233Z",
+  "finalUrl": "https://tacc.ccoa.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "private"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "7310"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "default-src 'self' ;               script-src 'self' 'unsafe-eval' 'unsafe-inline' https: https://alert.cdt.ca.gov/ https://www.gstatic.com/charts/loader.js https://ssl.google-analytics.com/ga.js https://www.google.com/jsapi https://code.jquery.com/jquery-3.6.0.min.js https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js;               object-src 'none';               style-src 'self' 'unsafe-inline' https:;               img-src 'self' https: data: https://california.azureedge.net/cdt/statetemplate/global/images/gov-banner.png https://ssl.google-analytics.com/ https://stats.g.doubleclick.net/r/;               media-src 'self' https:;               child-src 'self' https:;            font-src 'self' https:;             connect-src 'self' https: https://cdnjs.cloudflare.com https://stackpath.bootstrapcdn.com https://alert.cdt.ca.gov; base-uri 'none';               form-action 'self';              worker-src 'self' blob:;   frame-ancestors 'self'; manifest-src 'self'; upgrade-insecure-requests; block-all-mixed-content; "
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:35 GMT"
+    },
+    {
+      "name": "expect-ct",
+      "value": "enforce, max-age=7776000"
+    },
+    {
+      "name": "permissions-policy",
+      "value": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), fullscreen=(self)"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "strict-origin-when-cross-origin"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains; preload"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "sameorigin"
+    },
+    {
+      "name": "x-permitted-cross-domain-policies",
+      "value": "none"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 22047,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -18,7 +79,7 @@
   "hasJQuery": false,
   "googleAnalytics": [],
   "socialLinks": [],
-  "linksToCaGov": false,
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

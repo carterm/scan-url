@@ -4,13 +4,58 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "California Interactive Broadband Map",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:07:58.503Z",
+  "finalUrl": "https://www.broadbandmap.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "no-store, no-cache, must-revalidate"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "4633"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:07:58 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "Thu, 19 Nov 1981 08:52:00 GMT"
+    },
+    {
+      "name": "pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
+      "name": "set-cookie",
+      "value": "PHPSESSID=vrhgg2g3qo06diam8fckfsbb28; path=/; secure; HttpOnly"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
+  "contentSize": 15885,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

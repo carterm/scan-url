@@ -4,21 +4,81 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Department of Consumer Affairs Professional Fiduciaries Bureau",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:16.107Z",
+  "finalUrl": "https://www.fiduciary.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "access-control-allow-private-network",
+      "value": "true"
+    },
+    {
+      "name": "cache-control",
+      "value": "max-age=16070400; includeSubdomains; preload"
+    },
+    {
+      "name": "connection",
+      "value": "Keep-Alive"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:15 GMT"
+    },
+    {
+      "name": "keep-alive",
+      "value": "timeout=5, max=100"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "strict-origin-when-cross-origin"
+    },
+    {
+      "name": "set-cookie",
+      "value": "TS01ebcf47=01ed741c2204a5e0d48b7ac364625d15ffee398a2d5f1fb8765e1e11b3277c8eb1d46b7416db066f35e6ac7a90ce48dfea2972e574; Path=/; Domain=.www.fiduciary.ca.gov"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=16070400; includeSubDomains; preload"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 34768,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/California-Professional-Fiduciaries-Bureau-281715915342772/",
+    "https://twitter.com/FiduciaryBureau"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

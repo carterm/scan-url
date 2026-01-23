@@ -4,20 +4,70 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Calexico, CA",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:00.450Z",
+  "finalUrl": "https://www.calexico.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "no-store, must-revalidate, private,must-revalidate,max-age=0,private"
+    },
+    {
+      "name": "content-length",
+      "value": "56217"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:07:58 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "Tue, 01 Jan 1980 06:00:00 GMT"
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 2 Jan 2026 12:58:00 GMT"
+    },
+    {
+      "name": "pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ASPSESSIONIDSWDSQRBC=PCALHPJBFMJEAMPDAOBCBJFG; secure; path=/; path=/; secure; HttpOnly; SameSite=Strict"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=360;"
+    },
+    {
+      "name": "w",
+      "value": "3a"
+    },
+    {
+      "name": "x-wt",
+      "value": "484"
+    }
+  ],
+  "contentSize": 56217,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.facebook.com/CityofCalexicoCA/",
+    "https://www.facebook.com/CityofCalexicoCA/",
+    "https://www.youtube.com/@CalexicoCityHall/videos",
+    "https://www.youtube.com/@CalexicoCityHall/videos"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

@@ -4,13 +4,82 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Boomerang: State of California Retirees Job Connection",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:07:58.109Z",
+  "finalUrl": "https://www.boomerang.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "private"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "5761"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "base-uri 'self';                                     default-src 'self';                                     connect-src 'self';                                     form-action 'self';                                     img-src 'self' data: https://california.azureedge.net https://ssl.google-analytics.com;                                     object-src 'self';                                     script-src 'self' 'unsafe-inline' 'unsafe-eval' https://ajax.googleapis.com https://ssl.google-analytics.com;                                      style-src 'self' 'unsafe-inline';                                     upgrade-insecure-requests;"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:07:56 GMT"
+    },
+    {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ASP.NET_SessionId=20jxgx0w3txmnmh5rv5x3frg; path=/; HttpOnly; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ASP.NET_SessionId=20jxgx0w3txmnmh5rv5x3frg; path=/; HttpOnly; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__RequestVerificationToken=SarpH2bYISUUwcUUna3jD3bWoNgQMZjERknqB9nphgBFm3AWOtn5sLUbGuEtq77WBUQUj_qLzjs8-VYWtzUnpJuP6GnW7zl3JphIANRxe1Y1; path=/; HttpOnly"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ARRAffinity=9d716053ef092553e7bdd2639d89f002241b80715630c2dbb839c205a5e8d5f8;Path=/;HttpOnly;Secure;Domain=boomerang.calhr.ca.gov"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ARRAffinitySameSite=9d716053ef092553e7bdd2639d89f002241b80715630c2dbb839c205a5e8d5f8;Path=/;HttpOnly;SameSite=None;Secure;Domain=boomerang.calhr.ca.gov"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-aspnet-version",
+      "value": "4.0.30319"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN, SAMEORIGIN"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
+  "contentSize": 16689,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -18,7 +87,7 @@
   "hasJQuery": false,
   "googleAnalytics": [],
   "socialLinks": [],
-  "linksToCaGov": false,
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

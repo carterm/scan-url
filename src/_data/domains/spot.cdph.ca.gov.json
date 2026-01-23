@@ -4,13 +4,122 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "SPOT",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:36.494Z",
+  "finalUrl": "https://spot.cdph.ca.gov/s/?language=en_US",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "no-cache,must-revalidate,max-age=0,no-store,private"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "upgrade-insecure-requests, frame-ancestors 'self'; report-uri /_/commcsp?disposition=enforce"
+    },
+    {
+      "name": "content-security-policy-report-only",
+      "value": "script-src https://pay.google.com https://www.gstatic.com/recaptcha/ https://uip.canary.lwc.dev 'unsafe-inline' https://cdn.content.aws-dev2-uswest2.aws.sfdc.cl/ 'self' https://payments.salesforce.com/ https://checkoutshopper-test.adyen.com/ https://pal-test.adyen.com blob: https://youtu.be https://www.google.com/recaptcha/ https://js.stripe.com/ https://checkoutshopper-live.adyen.com/ import: https://cdn.content.aws-prod1-useast1.aws.sfdc.cl/ *.salesforce.com https://www.paypal.com/sdk/js 'report-sample' https://service.force.com/embeddedservice/ https://www.youtube.com 'unsafe-eval'; report-to sfdc-csp-ep; report-uri https://cdphct.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Dt00000004XQC&networkId=0DMt0000000PBdO&type=communities"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html;charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:34 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "Thu, 23 Jan 2025 23:08:35 GMT"
+    },
+    {
+      "name": "last-modified",
+      "value": "Thu, 23 Jan 2025 23:08:35 GMT"
+    },
+    {
+      "name": "link",
+      "value": "</s/sfsites/auraFW/javascript/REdtNUF5ejJUNWxpdVllUjQtUzV4UTFLcUUxeUY3ZVB6dE9hR0VheDVpb2cxMy4zMzU1NDQzMi41MDMzMTY0OA/aura_prod.js>;rel=preload;as=script;nopush,</s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22dfs%22%3A%228%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22fwuid%22%3A%22REdtNUF5ejJUNWxpdVllUjQtUzV4UTFLcUUxeUY3ZVB6dE9hR0VheDVpb2cxMy4zMzU1NDQzMi41MDMzMTY0OA%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%221421_mg1QpGWKsu060_sD-hU2fg%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22JHt0aW1lc3RhbXB9MDAwMDAwMDAwMDBlbl9VUw%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22551347034%22%7D/resources.js?pu=1&pv=17687865390001345249141&rv=1764916243000>;rel=preload;as=script;nopush,</s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22dfs%22%3A%228%22%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22serializationVersion%22%3A%221-13.33554432.50331648-b%22%2C%22parts%22%3A%22f%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%221421_mg1QpGWKsu060_sD-hU2fg%22%7D%2C%22dns%22%3A%22c%22%2C%22ls%22%3A2%2C%22lrmc%22%3A%22551347034%22%7D/app.js?3=>;rel=preload;as=script;nopush"
+    },
+    {
+      "name": "report-to",
+      "value": "{\"endpoints\":[{\"url\":\"https://cdphct.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Dt00000004XQC&networkId=0DMt0000000PBdO&type=communities\"}],\"max_age\":31536000,\"group\":\"sfdc-csp-ep\"}"
+    },
+    {
+      "name": "reporting-endpoints",
+      "value": "sfdc-csp-ep=\"https://cdphct.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Dt00000004XQC&networkId=0DMt0000000PBdO&type=communities\""
+    },
+    {
+      "name": "server",
+      "value": "volt-adc"
+    },
+    {
+      "name": "server-timing",
+      "value": "Headers;dur=184"
+    },
+    {
+      "name": "set-cookie",
+      "value": "CookieConsentPolicy=0:1; path=/; expires=Sat, 23-Jan-2027 23:08:34 GMT; Max-Age=31536000; secure"
+    },
+    {
+      "name": "set-cookie",
+      "value": "LSKey-c$CookieConsentPolicy=0:1; path=/; expires=Sat, 23-Jan-2027 23:08:34 GMT; Max-Age=31536000; secure"
+    },
+    {
+      "name": "set-cookie",
+      "value": "PicassoLanguage4c9c189a-5a32-4355-b637-6ca105c48a7ePublished=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0"
+    },
+    {
+      "name": "set-cookie",
+      "value": "renderCtx=%7B%22pageId%22%3A%227703c7df-dc87-4a95-aa43-e644b0145280%22%2C%22schema%22%3A%22Published%22%2C%22viewType%22%3A%22Published%22%2C%22brandingSetId%22%3A%2254ca7d0f-4986-4a1d-a524-f5605950c413%22%2C%22audienceIds%22%3A%226Aut000000000ZB%22%7D; path=/s; secure"
+    },
+    {
+      "name": "set-cookie",
+      "value": "TS01dc4fc6=01e66920c75bb0f25a74fd8533e801750b7322ae6b590f645e62a80942358c4154214b98eeccd65c667da3f46e50805e69e61548a6; Path=/; Secure; HttpOnly; SameSite=Strict; "
+    },
+    {
+      "name": "set-cookie",
+      "value": "TS0122c47a=01e66920c75bb0f25a74fd8533e801750b7322ae6b590f645e62a80942358c4154214b98eeccd65c667da3f46e50805e69e61548a6; path=/s"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=63072000; includeSubDomains"
+    },
+    {
+      "name": "timing-allow-origin",
+      "value": "*"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding, Origin"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-envoy-upstream-service-time",
+      "value": "460"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-volterra-location",
+      "value": "sv10-sjc"
+    }
+  ],
+  "contentSize": 120554,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -4,13 +4,90 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Montezuma Fire Protection District – Official website of Montezuma Fire Protection District in Solano County, California",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:23.951Z",
+  "finalUrl": "https://www.montezumafiredistrictsolano.ca.gov/",
+  "metaGenerator": "WordPress 6.9",
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "age",
+      "value": "21380"
+    },
+    {
+      "name": "cache-control",
+      "value": "public, max-age=86400"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "11810"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:22 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://www.montezumafiredistrictsolano.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.montezumafiredistrictsolano.ca.gov/wp-json/wp/v2/pages/6>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.montezumafiredistrictsolano.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=300"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding, Cookie, Cookie"
+    },
+    {
+      "name": "via",
+      "value": "1.1 varnish, 1.1 varnish"
+    },
+    {
+      "name": "x-cache",
+      "value": "HIT, MISS"
+    },
+    {
+      "name": "x-cache-hits",
+      "value": "13, 0"
+    },
+    {
+      "name": "x-pantheon-styx-hostname",
+      "value": "styx-fe3-b-6f684c5d8c-2gn8b"
+    },
+    {
+      "name": "x-served-by",
+      "value": "cache-chi-kigq8000136-CHI, cache-sjc1000090-SJC"
+    },
+    {
+      "name": "x-styx-req-id",
+      "value": "a21fb50e-f87e-11f0-acee-3aeefadf3084"
+    },
+    {
+      "name": "x-timer",
+      "value": "S1769209702.275893,VS0,VE57"
+    }
+  ],
+  "contentSize": 42814,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -4,21 +4,67 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "California Horse Racing Board",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:05.992Z",
+  "finalUrl": "https://www.chrb.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "private"
+    },
+    {
+      "name": "content-length",
+      "value": "55265"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:05 GMT"
+    },
+    {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ASPSESSIONIDAUCRBCCD=FFHHCDOBPPJOFDEHOHELBIDO; secure; path=/"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
+  "contentSize": 55265,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/cachrb",
+    "http://twitter.com/cachrb",
+    "http://www.youtube.com/user/calchrb",
+    "https://www.youtube.com/watch?v=K60duTIe13s",
+    "https://www.youtube.com/watch?v=tPnbgznw0wI",
+    "https://www.youtube.com/watch?v=S59QWLGGVUU",
+    "https://www.youtube.com/watch?v=Lv675UvYZeM",
+    "https://www.youtube.com/watch?v=ybn-mRWykm8",
+    "https://www.youtube.com/watch?v=C0N5a4sk8qI",
+    "https://www.youtube.com/watch?v=MqwmtP8HGFc",
+    "https://www.youtube.com/watch?v=ZvjTxUkEHfs",
+    "https://www.youtube.com/watch?v=WyKSSrMzavU",
+    "https://www.youtube.com/user/calchrb",
+    "https://www.facebook.com/cachrb",
+    "http://twitter.com/cachrb",
+    "http://www.youtube.com/user/calchrb"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

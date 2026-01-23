@@ -4,21 +4,82 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Board of Vocational Nursing & Psychiatric Technicians",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:07:58.877Z",
+  "finalUrl": "https://www.bvnpt.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "access-control-allow-private-network",
+      "value": "true"
+    },
+    {
+      "name": "cache-control",
+      "value": "max-age=16070400; includeSubdomains; preload"
+    },
+    {
+      "name": "connection",
+      "value": "Keep-Alive"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:07:58 GMT"
+    },
+    {
+      "name": "keep-alive",
+      "value": "timeout=5, max=99"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "strict-origin-when-cross-origin"
+    },
+    {
+      "name": "set-cookie",
+      "value": "TS01a5f418=01ed741c22a84df96be7787bcd531bc917eb48fe6e10a63736a3035a0f5205306dc24f812210cac3938bee84ac6eddc1196f20cf81; Path=/; Domain=.www.bvnpt.ca.gov"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=16070400; includeSubDomains; preload"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 56472,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.youtube.com/watch?v=8q-6Cw9ukGk&t=1s",
+    "https://twitter.com/CABVNPT",
+    "https://facebook.com/CABVNPT"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

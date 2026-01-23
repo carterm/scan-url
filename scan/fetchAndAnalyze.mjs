@@ -4,25 +4,68 @@
  */
 import { createDomainRecord } from "./types/DomainRecord.mjs";
 
-import fetch from "node-fetch";
+import { fetch, Agent } from "undici";
+import { performance } from "node:perf_hooks";
+import http from "node:http";
 import https from "node:https";
-import { JSDOM } from "jsdom";
+import { JSDOM, VirtualConsole, ResourceLoader } from "jsdom";
 
-const insecureAgent = new https.Agent({ rejectUnauthorized: false });
+const fetchTimeout = 15000; //15 seconds
+
+const insecureAgent = new Agent({
+  connect: { rejectUnauthorized: false, timeout: fetchTimeout },
+  bodyTimeout: fetchTimeout, // time allowed for the body to be received
+  headersTimeout: fetchTimeout // time allowed for headers
+});
+
+class CustomResourceLoader extends ResourceLoader {
+  /**
+   *
+   * @param {string} url
+   * @param {import("jsdom").FetchOptions} options
+   */
+  fetch(url, options) {
+    if (options.referrer) {
+      // Ignore externals
+      // console.log(`skipping - ${url}`);
+      return null;
+    }
+    return super.fetch(url, options);
+  }
+}
 
 /**
  * @param {string} url
  * @returns {Promise<DomainRecord>}
  */
 export async function fetchAndAnalyze(url) {
-  const start = Date.now();
-
   const domainRecord = createDomainRecord();
+  domainRecord.targetURL = url;
 
-  const res = await fetch(url, {
-    redirect: "follow",
-    agent: insecureAgent
+  const virtualConsole = new VirtualConsole();
+  virtualConsole.on("jsdomError", e => {
+    console.log(`⚠️ JSDOM error for ${url}: ${e.message}`);
   });
+
+  const start = performance.now();
+  // Let fetch handle redirects automatically
+  /** @type {import("undici").Response} */
+  let res;
+  try {
+    res = await fetch(url, {
+      dispatcher: insecureAgent,
+      redirect: "follow"
+    });
+  } catch (e) {
+    //@ts-ignore
+    domainRecord.errorMessage = `Fetch error: ${e.message} ${e.cause?.message || ""}`;
+
+    return domainRecord;
+  } finally {
+    const end = performance.now();
+    const duration = Math.round((end - start) / 1000);
+    console.log(`Fetching ${url} took ${duration.toFixed(2)} ms`);
+  }
 
   const status = res.status;
   const finalUrl = res.url;
@@ -58,7 +101,12 @@ export async function fetchAndAnalyze(url) {
   }
 
   // Parse HTML
-  const dom = new JSDOM(body);
+  const dom = new JSDOM(body, {
+    url: finalUrl,
+    resources: new CustomResourceLoader(),
+    virtualConsole
+  });
+
   const doc = dom.window.document;
 
   const title = doc.querySelector("title")?.textContent?.trim() || "";

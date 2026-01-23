@@ -4,20 +4,80 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "California Climate Investments",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:01.319Z",
+  "finalUrl": "https://www.caclimateinvestments.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "age",
+      "value": "106258"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "25912"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html;charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Thu, 22 Jan 2026 17:25:59 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "W/\"edd6a91774a385a2aa76db9f04d0231f\""
+    },
+    {
+      "name": "expires",
+      "value": "Thu, 01 Jan 1970 00:00:00 GMT"
+    },
+    {
+      "name": "server",
+      "value": "Squarespace"
+    },
+    {
+      "name": "set-cookie",
+      "value": "crumb=BZz/bDf8lRVcM2Y1ZmVlNWFmOGIwOGUyZWE0OWM5MDJmMThkNTRi;Secure;Path=/"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=0"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-contextid",
+      "value": "OSlZfbGF/YV5qe6e5"
+    }
+  ],
+  "contentSize": 194058,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.facebook.com/CAClimateInvest/",
+    "https://x.com/CAClimateInvest"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

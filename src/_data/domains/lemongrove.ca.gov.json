@@ -4,20 +4,78 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Home | Lemon Grove",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:22.722Z",
+  "finalUrl": "https://www.lemongrove.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:21 GMT"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "strict-origin"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-azure-ref",
+      "value": "20260123T230821Z-r1cf444f6d67fg86hC1BY1drfw00000008u000000000hqu6"
+    },
+    {
+      "name": "x-cache",
+      "value": "CONFIG_NOCACHE"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    }
+  ],
+  "contentSize": 103328,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.facebook.com/cityoflemongrove/",
+    "https://www.instagram.com/cityoflemongrove/?utm_source=ig_embed&utm_campaign=loading",
+    "https://www.instagram.com/cityoflemongrove/?utm_source=ig_embed&utm_campaign=loading",
+    "https://www.instagram.com/cityoflemongrove/?utm_source=ig_embed&utm_campaign=loading",
+    "https://www.facebook.com/cityoflemongrove",
+    "https://www.instagram.com/cityoflemongrove/",
+    "https://twitter.com/LemonGroveCAgov",
+    "https://www.youtube.com/@cityoflemongrove"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

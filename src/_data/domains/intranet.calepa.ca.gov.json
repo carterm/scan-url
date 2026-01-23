@@ -4,21 +4,124 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Intranet - CalEPA | Our internal website for employees!",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:23.474Z",
+  "finalUrl": "https://intranet.calepa.ca.gov/",
+  "metaGenerator": "CAWeb v.1.12.4",
+  "responseHeaders": [
+    {
+      "name": "alt-svc",
+      "value": "h3=\":443\"; ma=86400"
+    },
+    {
+      "name": "cache-control",
+      "value": "max-age=600, must-revalidate"
+    },
+    {
+      "name": "cf-cache-status",
+      "value": "DYNAMIC"
+    },
+    {
+      "name": "cf-ray",
+      "value": "9c2af3ccfe6732be-SMF"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "br"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "frame-ancestors 'self' *.ca.gov"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:19 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "Thu, 19 Nov 1981 08:52:00 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://intranet.calepa.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "server",
+      "value": "cloudflare"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__cf_bm=9j114woMaiOGGmyblSpeMqdy43FkKM4qgCbD9_aIvBE-1769209699-1.0.1.1-yY_DneehDu4FYtQ4S9mzbPhKiwairUWuXOBA61LFAN8uLEnbiQGZThkPTriwK23tHBixJXhbkB6jKTSnCTwfq.J9q78rZqmQTYHnNp0597I; path=/; expires=Fri, 23-Jan-26 23:38:19 GMT; domain=.intranet.calepa.ca.gov; HttpOnly; Secure; SameSite=None"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
+    },
+    {
+      "name": "x-cache",
+      "value": "HIT: 1"
+    },
+    {
+      "name": "x-cache-group",
+      "value": "normal"
+    },
+    {
+      "name": "x-cacheable",
+      "value": "SHORT"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-orig-cache-control",
+      "value": "no-store, no-cache, must-revalidate"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "WP Engine"
+    }
+  ],
+  "contentSize": 167307,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/CaliforniaEPA",
+    "https://www.instagram.com/californiaepa",
+    "https://www.linkedin.com/company/3668037/admin/",
+    "https://twitter.com/CaliforniaEPA",
+    "https://www.facebook.com/CaliforniaEPA",
+    "https://www.instagram.com/californiaepa",
+    "https://www.linkedin.com/company/3668037/admin/",
+    "https://twitter.com/CaliforniaEPA",
+    "https://www.youtube.com/playlist?list=PLb43SK8iAJX64xVOpRHyZUlusspOMV1br"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

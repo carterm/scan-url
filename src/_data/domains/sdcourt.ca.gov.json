@@ -4,20 +4,129 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Home | Superior Court of California - County of San Diego",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:35.863Z",
+  "finalUrl": "https://www.sdcourt.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "access-control-allow-origin",
+      "value": "*"
+    },
+    {
+      "name": "age",
+      "value": "1791"
+    },
+    {
+      "name": "cache-control",
+      "value": "max-age=3600, public"
+    },
+    {
+      "name": "cf-cache-status",
+      "value": "DYNAMIC"
+    },
+    {
+      "name": "cf-ray",
+      "value": "9c2af41f9b4debe5-SJC"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-language",
+      "value": "en"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:32 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "Sun, 19 Nov 1978 05:00:00 GMT"
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 23 Jan 2026 22:38:40 GMT"
+    },
+    {
+      "name": "server",
+      "value": "cloudflare"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__cf_bm=dBJZ5u2LecnWtVd_CGRFHJ4Clwr93O.MRHEgb6TyQJA-1769209712-1.0.1.1-qmsetjMo.68QSAgXsvqtuzXbC3T4hJ5mE07_YVFLEEGwqiL312paNxc2TMVjd7Avg11.87IM89IpVKs0qLgZhvoCy.YZKq1szsYXLUZgIZU; path=/; expires=Fri, 23-Jan-26 23:38:32 GMT; domain=.sdcourt.ca.gov; HttpOnly; Secure; SameSite=None"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Cookie,Accept-Encoding"
+    },
+    {
+      "name": "via",
+      "value": "varnish"
+    },
+    {
+      "name": "x-ah-environment",
+      "value": "prod"
+    },
+    {
+      "name": "x-cache",
+      "value": "HIT"
+    },
+    {
+      "name": "x-cache-hits",
+      "value": "202"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-drupal-dynamic-cache",
+      "value": "MISS"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-generator",
+      "value": "Drupal 10 (https://www.drupal.org)"
+    },
+    {
+      "name": "x-request-id",
+      "value": "v-43faaf84-f8ac-11f0-8ef5-e39fa52436dc"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 90256,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.linkedin.com/company/sdsuperiorcourt/",
+    "https://www.twitter.com/SDSuperiorCourt",
+    "https://www.youtube.com/SDSuperiorCourt"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

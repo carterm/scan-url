@@ -4,13 +4,54 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Coachella Valley Mountain Conservancy – Our mission is to protect the natural and cultural resources of the Coachella Valley",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:10.968Z",
+  "finalUrl": "https://cvmc.ca.gov/",
+  "metaGenerator": "Site Kit by Google 1.168.0",
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "no-cache"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:10 GMT"
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 23 Jan 2026 22:49:53 GMT"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "wpo-cache-status",
+      "value": "cached"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    }
+  ],
+  "contentSize": 21042,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -18,7 +59,7 @@
   "hasJQuery": false,
   "googleAnalytics": [],
   "socialLinks": [],
-  "linksToCaGov": false,
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

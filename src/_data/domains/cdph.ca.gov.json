@@ -4,21 +4,109 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "CDPH Home",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:14.081Z",
+  "finalUrl": "https://www.cdph.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "private"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:07 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "Fri, 23 Jan 2026 23:13:07 GMT"
+    },
+    {
+      "name": "microsoftsharepointteamservices",
+      "value": "16.0.0.10417"
+    },
+    {
+      "name": "request-id",
+      "value": "a3f4efa1-458b-d002-174f-c86148b84c66"
+    },
+    {
+      "name": "server",
+      "value": "volt-adc"
+    },
+    {
+      "name": "spiislatency",
+      "value": "0"
+    },
+    {
+      "name": "sprequestduration",
+      "value": "3015"
+    },
+    {
+      "name": "sprequestguid",
+      "value": "a3f4efa1-458b-d002-174f-c86148b84c66"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "*"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-envoy-upstream-service-time",
+      "value": "3058"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-ms-invokeapp",
+      "value": "1; RequireReadOnly"
+    },
+    {
+      "name": "x-sharepointhealthscore",
+      "value": "0"
+    },
+    {
+      "name": "x-volterra-location",
+      "value": "sv10-sjc"
+    }
+  ],
+  "contentSize": 544012,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://instagram.com/capublichealth/",
+    "https://www.facebook.com/CAPublicHealth",
+    "https://www.linkedin.com/company/california-department-of-public-health",
+    "https://www.youtube.com/user/CAPublicHealth",
+    "https://twitter.com/CAPublicHealth",
+    "https://www.tiktok.com/@capublichealth"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

@@ -4,21 +4,67 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "California Housing Finance Agency | CalHFA",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:06.966Z",
+  "finalUrl": "https://cloud.calhfa.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "15709"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:05 GMT"
+    },
+    {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-ua-compatible",
+      "value": "IE=edge"
+    }
+  ],
+  "contentSize": 54762,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.twitter.com/calhfa",
+    "https://www.facebook.com/calhfa",
+    "https://www.youtube.com/calhfa",
+    "https://www.instagram.com/calhfa",
+    "https://www.linkedin.com/company/california-housing-finance-agency",
+    "https://www.youtube.com/embed/U3OYUxHKgZs?enablejsapi=1&wmode=opaque",
+    "https://www.twitter.com/calhfa",
+    "https://www.instagram.com/calhfa",
+    "https://www.facebook.com/calhfa",
+    "https://www.youtube.com/calhfa",
+    "https://www.linkedin.com/company/california-housing-finance-agency",
+    "https://www.twitter.com/calhfa",
+    "https://www.instagram.com/calhfa",
+    "https://www.facebook.com/calhfa",
+    "https://www.youtube.com/calhfa",
+    "https://www.linkedin.com/company/california-housing-finance-agency"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

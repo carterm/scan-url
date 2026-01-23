@@ -4,20 +4,81 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Santa Barbara County Office of Arts & Culture",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:34.510Z",
+  "finalUrl": "https://www.sbac.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "age",
+      "value": "83605"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "21988"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html;charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Thu, 22 Jan 2026 23:37:57 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "W/\"5fb0418bfe8bf516bf310788f49a4269\""
+    },
+    {
+      "name": "expires",
+      "value": "Thu, 01 Jan 1970 00:00:00 GMT"
+    },
+    {
+      "name": "server",
+      "value": "Squarespace"
+    },
+    {
+      "name": "set-cookie",
+      "value": "crumb=BWjC5Gj+zucSOGRmZGJmNzM5ZDRkZTQyYmI4MDBhY2QzM2NmNDU0;Secure;Path=/"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=0"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-contextid",
+      "value": "ynzPCQlZ/2qvQFNie"
+    }
+  ],
+  "contentSize": 121266,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "http://www.facebook.com/sbac.ca.gov/",
+    "https://www.youtube.com/channel/UCOSKvNvTCYHC77wkKWn0tIw",
+    "https://www.instagram.com/sbcoac/"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

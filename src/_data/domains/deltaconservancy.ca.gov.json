@@ -4,21 +4,72 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Delta Conservancy – Welcome",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:17.732Z",
+  "finalUrl": "https://deltaconservancy.ca.gov/",
+  "metaGenerator": "Site Kit by Google 1.168.0",
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "frame-ancestors 'self';"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:17 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://deltaconservancy.ca.gov/wp-json/>; rel=\"https://api.w.org/\""
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    }
+  ],
+  "contentSize": 83201,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.youtube.com/channel/UCaOu3enYckyNnGQo0OrPhfw",
+    "https://www.facebook.com/deltaconservancy/",
+    "https://twitter.com/DeltaConservncy",
+    "https://www.instagram.com/deltaconservancy/",
+    "https://hk.linkedin.com/company/sacramento-san-joaquin-delta-conservancy",
+    "https://www.youtube.com/watch?v=5lZK8sNWZCQ",
+    "http://www.facebook.com/pages/Sacramento-San-Joaquin-Delta-Conservancy/110824705668619",
+    "https://www.instagram.com/deltaconservancy/",
+    "https://www.youtube.com/channel/UCaOu3enYckyNnGQo0OrPhfw",
+    "https://www.facebook.com/deltaconservancy/",
+    "https://twitter.com/DeltaConservncy",
+    "https://www.instagram.com/deltaconservancy/",
+    "https://hk.linkedin.com/company/sacramento-san-joaquin-delta-conservancy"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

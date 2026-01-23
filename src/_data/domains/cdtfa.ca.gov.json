@@ -4,21 +4,92 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "CDTFA - CA Department of Tax and Fee Administration",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:04.504Z",
+  "finalUrl": "https://cdtfa.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "private,no-cache"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-length",
+      "value": "41219"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:04 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "-1"
+    },
+    {
+      "name": "last-modified",
+      "value": "Sat, 27 Sep 2025 09:10:49 GMT"
+    },
+    {
+      "name": "permissions-policy",
+      "value": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()"
+    },
+    {
+      "name": "pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "strict-origin-when-cross-origin"
+    },
+    {
+      "name": "set-cookie",
+      "value": "AWSALB=FQ2Yo85A3Aah8q7+PoClMN+4bTzscXU5Prb3N+TGfoS/xXPKd/bDalqMyYtMK+1OLRlHC20MRWN0DukM9pkMXNOO0F8oFwziw0Xm9jsJpTkeMh2RB9H0XtAv+0Jg; Expires=Fri, 30 Jan 2026 23:08:04 GMT; Path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "AWSALBCORS=FQ2Yo85A3Aah8q7+PoClMN+4bTzscXU5Prb3N+TGfoS/xXPKd/bDalqMyYtMK+1OLRlHC20MRWN0DukM9pkMXNOO0F8oFwziw0Xm9jsJpTkeMh2RB9H0XtAv+0Jg; Expires=Fri, 30 Jan 2026 23:08:04 GMT; Path=/; SameSite=None; Secure"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains; preload"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "0"
+    }
+  ],
+  "contentSize": 41219,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/CDTFA",
+    "https://twitter.com/cdtfa",
+    "https://www.youtube.com/channel/UChhR8089KCKrv2p4bbipu8w",
+    "https://www.linkedin.com/company/cdtfa?trk=top_nav_home",
+    "https://www.instagram.com/CDTFA/"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

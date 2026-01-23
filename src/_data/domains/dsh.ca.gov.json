@@ -4,21 +4,68 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "California Department of State Hospitals",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:15.274Z",
+  "finalUrl": "https://www.dsh.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "11867"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:11 GMT"
+    },
+    {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ARRAffinity=d1edccc01c344a970d60b9212632f67857689793b6311e7123b8f655c4053268;Path=/;HttpOnly;Secure;Domain=www.dsh.ca.gov"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ARRAffinitySameSite=d1edccc01c344a970d60b9212632f67857689793b6311e7123b8f655c4053268;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.dsh.ca.gov"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
+  "contentSize": 43967,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/pages/California-Department-of-State-Hospitals/308247659303315",
+    "https://x.com/ca_dsh",
+    "https://www.linkedin.com/company/ca-department-of-state-hospitals",
+    "https://www.youtube.com/channel/UCgOPURule9MVA731cgtbMcg",
+    "https://www.facebook.com/pages/California-Department-of-State-Hospitals/308247659303315",
+    "https://twitter.com/dshrecruit",
+    "https://www.linkedin.com/company/ca-department-of-state-hospitals",
+    "https://www.youtube.com/channel/UCgOPURule9MVA731cgtbMcg",
+    "https://twitter.com/DSHRecruit"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

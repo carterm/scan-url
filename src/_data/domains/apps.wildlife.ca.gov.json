@@ -4,13 +4,62 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Apps - California Department of Fish and Wildlife",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:07:56.835Z",
+  "finalUrl": "https://apps.wildlife.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "cache-control",
+      "value": "max-age=31536000,no-store, no-cache, must-revalidate"
+    },
+    {
+      "name": "content-encoding",
+      "value": "br"
+    },
+    {
+      "name": "content-length",
+      "value": "2973"
+    },
+    {
+      "name": "content-security-policy-report-only",
+      "value": "default-src 'self';      script-src 'self' 'unsafe-inline' 'unsafe-eval'     https://cdn.cdt.ca.gov     https://www.googletagmanager.com     https://www.google-analytics.com;      script-src-elem 'self' 'unsafe-inline'     https://cdn.cdt.ca.gov     https://www.googletagmanager.com     https://www.google-analytics.com;      style-src 'self' 'unsafe-inline' https://cdn.cdt.ca.gov;      img-src 'self' data: blob: https://cdn.cdt.ca.gov;      font-src 'self' https://cdn.cdt.ca.gov;      frame-ancestors 'self' wildlife.ca.gov *.wildlife.ca.gov;      connect-src 'self' https://www.google-analytics.com;      report-uri /csp-violation-report-endpoint;    "
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:07:55 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "\"0abd13dc9ddb1:0\""
+    },
+    {
+      "name": "last-modified",
+      "value": "Tue, 25 Mar 2025 23:17:02 GMT"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=63072000; includeSubDomains"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    }
+  ],
+  "contentSize": 10262,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -18,7 +67,7 @@
   "hasJQuery": false,
   "googleAnalytics": [],
   "socialLinks": [],
-  "linksToCaGov": false,
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

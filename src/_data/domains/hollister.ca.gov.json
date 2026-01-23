@@ -4,20 +4,90 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Hollister, CA",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:20.753Z",
+  "finalUrl": "https://hollister.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "max-age=0, must-revalidate"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "19815"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "frame-ancestors 'self'"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:18 GMT"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "no-referrer-when-downgrade"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=63072000; includeSubDomains; preload"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-permitted-cross-domain-policies",
+      "value": "none"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 99241,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.facebook.com/cityofhollister",
+    "https://www.instagram.com/cityofhollister/",
+    "http://www.twitter.com/",
+    "https://www.linkedin.com/company/city-of-hollister-ca",
+    "https://www.youtube.com/@cityofhollistercalifornia1489",
+    "https://www.facebook.com/sharer/sharer.php?u=http://hollister.ca.gov/",
+    "https://www.twitter.com/intent/tweet?url=http://hollister.ca.gov/",
+    "https://www.facebook.com/cityofhollister",
+    "https://www.instagram.com/cityofhollister/",
+    "http://www.twitter.com/",
+    "https://www.linkedin.com/company/city-of-hollister-ca",
+    "https://www.youtube.com/@cityofhollistercalifornia1489"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

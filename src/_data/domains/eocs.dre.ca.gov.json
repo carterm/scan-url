@@ -4,13 +4,46 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Enforcement Online Complaints",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:14.467Z",
+  "finalUrl": "https://eocs.dre.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "private"
+    },
+    {
+      "name": "content-length",
+      "value": "48166"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:14 GMT"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__RequestVerificationToken=ubXoaSrNXk0tIvFXZ6KLlmDThLVs7o6rN5Iz5SpJx5WYmh9gag3FK8hCN1a3kr8f-yj2_z0wRr6C8Flrf1omP_6SP4gfPez1b_ajMpOf0AU1; path=/; HttpOnly"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "DRE"
+    }
+  ],
+  "contentSize": 48166,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -18,7 +51,7 @@
   "hasJQuery": false,
   "googleAnalytics": [],
   "socialLinks": [],
-  "linksToCaGov": false,
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

@@ -4,21 +4,78 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Salton Sea Management Program",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:32.853Z",
+  "finalUrl": "https://saltonsea.ca.gov/",
+  "metaGenerator": "Site Kit by Google 1.168.0",
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:32 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://saltonsea.ca.gov/wp-json/>; rel=\"https://api.w.org/\""
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-et-api-origin",
+      "value": "https://saltonsea.ca.gov"
+    },
+    {
+      "name": "x-et-api-root",
+      "value": "https://saltonsea.ca.gov/wp-json/tribe/tickets/v1/"
+    },
+    {
+      "name": "x-et-api-version",
+      "value": "v1"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-tec-api-origin",
+      "value": "https://saltonsea.ca.gov"
+    },
+    {
+      "name": "x-tec-api-root",
+      "value": "https://saltonsea.ca.gov/wp-json/tribe/events/v1/"
+    },
+    {
+      "name": "x-tec-api-version",
+      "value": "v1"
+    }
+  ],
+  "contentSize": 50670,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.instagram.com/thesaltonsea/",
+    "https://twitter.com/CalNatResources",
+    "https://www.youtube.com/@ResourcesAgency"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

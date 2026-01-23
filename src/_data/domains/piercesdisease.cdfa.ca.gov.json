@@ -4,21 +4,61 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "CDFA - Pierce's Disease Research Updates",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:29.001Z",
+  "finalUrl": "https://piercesdisease.cdfa.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "private"
+    },
+    {
+      "name": "content-length",
+      "value": "34184"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:28 GMT"
+    },
+    {
+      "name": "server",
+      "value": ""
+    },
+    {
+      "name": "set-cookie",
+      "value": "ASP.NET_SessionId=rrlosmp1sm2srtbr5xp3vhxs; path=/; HttpOnly; SameSite=Lax"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-ua-compatible",
+      "value": "IE=edge"
+    }
+  ],
+  "contentSize": 34184,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/California-Department-of-Food-and-Agriculture-83888787230/",
+    "https://twitter.com/CDFANews",
+    "https://www.youtube.com/user/CDFAtoday",
+    "https://www.facebook.com/pages/California-Department-of-Food-and-Agriculture/83888787230?v=wall",
+    "https://twitter.com/CDFANews",
+    "https://www.youtube.com/user/CDFAtoday"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

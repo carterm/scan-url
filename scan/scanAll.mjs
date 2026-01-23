@@ -32,7 +32,10 @@ async function scanAll() {
 
   const tasks = items.map(({ filePath, record }) =>
     limit(async () => {
-      if (!record.includeInScan) return;
+      if (!record.includeInScan) {
+        console.log(`❌ Skipped ${record.domain}`);
+        return;
+      }
 
       const scan = await fetchAndAnalyze(record.targetURL);
 

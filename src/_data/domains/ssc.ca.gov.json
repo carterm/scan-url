@@ -4,21 +4,76 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Seismic Safety Commission |",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:36.202Z",
+  "finalUrl": "https://www.ssc.ca.gov/",
+  "metaGenerator": "CAWeb v.1.13.0",
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:35 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "\"788b3550f6ec09fa167314754604f7ee\""
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 23 Jan 2026 22:57:28 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://www.ssc.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.ssc.ca.gov/wp-json/wp/v2/pages/2>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.ssc.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ApplicationGatewayAffinity=acf34393cba5151a43001d932a214e1c; Path=/"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-azure-ref",
+      "value": "20260123T230835Z-16c8dc7695d66qw8hC1SJCndhs00000008400000000069hu"
+    },
+    {
+      "name": "x-cache",
+      "value": "CONFIG_NOCACHE"
+    }
+  ],
+  "contentSize": 74650,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.youtube.com/watch?v=qhDdzHae4Rc",
+    "http://www.youtube.com/watch?feature=player_embedded&v=V8D0jR0EaW8",
+    "https://www.linkedin.com/posts/mnwdwater_resilienttogether-femagrant-mnwd-activity-7165866553400385537-estl?utm_source=share&utm_medium=member_desktop",
+    "https://twitter.com/CAseismic",
+    "https://www.youtube.com/user/CSSCommission"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

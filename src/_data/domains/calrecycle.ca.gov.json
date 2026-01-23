@@ -4,21 +4,140 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "CalRecycle Home Page",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:07.682Z",
+  "finalUrl": "https://calrecycle.ca.gov/",
+  "metaGenerator": "CAWeb v.1.13.3",
+  "responseHeaders": [
+    {
+      "name": "alt-svc",
+      "value": "h3=\":443\"; ma=86400"
+    },
+    {
+      "name": "cache-control",
+      "value": "no-cache, must-revalidate, max-age=0, no-store, private"
+    },
+    {
+      "name": "cf-cache-status",
+      "value": "DYNAMIC"
+    },
+    {
+      "name": "cf-ray",
+      "value": "9c2af353dbf56e7e-SMF"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "br"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "frame-ancestors 'self' *.ca.gov"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:00 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "Wed, 11 Jan 1984 05:00:00 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://calrecycle.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "permissions-policy",
+      "value": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")"
+    },
+    {
+      "name": "server",
+      "value": "cloudflare"
+    },
+    {
+      "name": "set-cookie",
+      "value": "caweb-alert-0=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; secure; HttpOnly; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "caweb-alert-1=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; secure; HttpOnly; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__cf_bm=wO4IOUQsCmjDKWgF9_eXKntxTb1vaJx0pNRgNR.l7K8-1769209680-1.0.1.1-xSDDjV7idZlcboOcojxNuUgiFIq5Ptv6c_DF73dyMSvlFWAjD.QhI7ChemYkyqK_oJj8Kq7SyeLQvmjZ9wU28BUjzIjDgL9APi8x1rCechw; path=/; expires=Fri, 23-Jan-26 23:38:00 GMT; domain=.calrecycle.ca.gov; HttpOnly; Secure; SameSite=None"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding"
+    },
+    {
+      "name": "x-cache",
+      "value": "MISS"
+    },
+    {
+      "name": "x-cache-group",
+      "value": "normal"
+    },
+    {
+      "name": "x-cacheable",
+      "value": "NO:Private"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-orig-cache-control",
+      "value": "no-cache, must-revalidate, max-age=0, no-store, private"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "WP Engine"
+    },
+    {
+      "name": "x-tec-api-origin",
+      "value": "https://calrecycle.ca.gov"
+    },
+    {
+      "name": "x-tec-api-root",
+      "value": "https://calrecycle.ca.gov/wp-json/tribe/events/v1/"
+    },
+    {
+      "name": "x-tec-api-version",
+      "value": "v1"
+    }
+  ],
+  "contentSize": 316728,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/CalRecycle",
+    "https://www.instagram.com/calrecycle/",
+    "http://www.linkedin.com/company/calrecycle/",
+    "http://twitter.com/calrecycle/",
+    "http://www.youtube.com/user/CalRecycle"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

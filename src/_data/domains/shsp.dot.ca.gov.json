@@ -4,21 +4,97 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Caltrans | SHSP - Home",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:34.288Z",
+  "finalUrl": "https://shsp.dot.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "no-cache, no-store, max-age=0, must-revalidate"
+    },
+    {
+      "name": "connection",
+      "value": "Keep-Alive"
+    },
+    {
+      "name": "content-language",
+      "value": "und"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html;charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:32 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "0"
+    },
+    {
+      "name": "keep-alive",
+      "value": "timeout=5, max=100"
+    },
+    {
+      "name": "pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "server-timing",
+      "value": "dtSInfo;desc=\"0\", dtRpid;desc=\"-471889711\""
+    },
+    {
+      "name": "set-cookie",
+      "value": "JSESSIONID=3A59EF8ED2001279F7A07ACBABB8DC88; Path=/; HttpOnly"
+    },
+    {
+      "name": "set-cookie",
+      "value": "dtCookie=v_4_srv_4_sn_FA1EF1228E961FADB88B2BEAA4036A01_perc_100000_ol_0_mul_1_app-3A678493e61fd4c3a2_1_rcs-3Acss_1; Path=/; Domain=.ca.gov"
+    },
+    {
+      "name": "set-cookie",
+      "value": "TS0178dfc2=01ccba8e7f05167c0b1eb92f52d86428dbe4649d41cc44bcdac15e47a301fb1a1179eb7eeb3f9bebd62b5cfa5d1f43334c53a8c126a6ee13e78cf3c1affdd223a39e480ca4; Path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "TS01ef51aa=01ccba8e7f60fd2c6bda8a6e33cd485cfd8ee1e3bfcc44bcdac15e47a301fb1a1179eb7eeb9d4459f53319a0c6916d0afc12bd9868f55dece29f0ed2efc0730404a0a67114; path=/; domain=.ca.gov"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "DENY"
+    },
+    {
+      "name": "x-oneagent-js-injection",
+      "value": "true"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 27999,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "http://www.facebook.com/CaltransHQ",
+    "https://twitter.com/CaltransHQ?ref_src=twsrc%5Etfw"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

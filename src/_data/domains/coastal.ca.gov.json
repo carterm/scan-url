@@ -4,21 +4,63 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "California Coastal Commission",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:09.355Z",
+  "finalUrl": "https://www.coastal.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "access-control-allow-origin",
+      "value": "*"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "41930"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:06 GMT"
+    },
+    {
+      "name": "server",
+      "value": "Microsoft-IIS/7.5"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
+  "contentSize": 165570,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.youtube.com/playlist?list=PLhOALIlMeKQ51x8PXbD1Wk6rpzhYdWHmG",
+    "https://www.youtube.com/playlist?list=PLhOALIlMeKQ51x8PXbD1Wk6rpzhYdWHmG",
+    "https://www.youtube.com/watch?v=hoVn22IXuKE",
+    "https://www.youtube.com/watch?v=hoVn22IXuKE",
+    "https://www.youtube.com/playlist?list=PLhOALIlMeKQ44wljwJMoekuR3WqaXfY8X",
+    "http://www.facebook.com/californiacoast",
+    "http://instagram.com/thecaliforniacoast",
+    "https://www.youtube.com/@Coast4uOrg"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

@@ -4,13 +4,94 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Welcome to the Medi-Cal Dental Program",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:12.356Z",
+  "finalUrl": "https://www.dental.dhcs.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "public,max-age=3600"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "br"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:11 GMT"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "no-referrer"
+    },
+    {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
+      "name": "server-timing",
+      "value": "dtSInfo;desc=\"0\", dtRpid;desc=\"-1658888571\""
+    },
+    {
+      "name": "set-cookie",
+      "value": "AWSALB=+aMJ1eQvW2b9Y/LzX6WPi0yqQHXS7fyJeUgk3EAEgzIY6OrPRRjtARQlVNdwgjNi4jhMLfl6D6nNLyXuyHUhMdBxrD12b5yJxTKALkeUdXQyJ5S/KEsQDnvLBPQ8; Expires=Fri, 30 Jan 2026 23:08:11 GMT; Path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "AWSALBCORS=+aMJ1eQvW2b9Y/LzX6WPi0yqQHXS7fyJeUgk3EAEgzIY6OrPRRjtARQlVNdwgjNi4jhMLfl6D6nNLyXuyHUhMdBxrD12b5yJxTKALkeUdXQyJ5S/KEsQDnvLBPQ8; Expires=Fri, 30 Jan 2026 23:08:11 GMT; Path=/; SameSite=None; Secure"
+    },
+    {
+      "name": "set-cookie",
+      "value": "dtCookie=v_4_srv_5_sn_9C6D202669CA411D263B38B0E3E46CD7_perc_100000_ol_0_mul_1_app-3A8c5608cd24cc2f5e_1; Path=/; Domain=.ca.gov"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=2592000"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "DENY"
+    },
+    {
+      "name": "x-oneagent-js-injection",
+      "value": "true"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    },
+    {
+      "name": "x-ruxit-js-agent",
+      "value": "true"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 36043,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -18,7 +99,7 @@
   "hasJQuery": false,
   "googleAnalytics": [],
   "socialLinks": [],
-  "linksToCaGov": false,
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

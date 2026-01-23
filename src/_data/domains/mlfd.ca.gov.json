@@ -4,20 +4,101 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Mammoth Lakes Fire Department | Mammoth Lakes California",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:24.658Z",
+  "finalUrl": "https://mlfd.ca.gov/",
+  "metaGenerator": "WordPress 6.9",
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "no-store, no-cache, must-revalidate"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "br"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:22 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "Thu, 19 Nov 1981 08:52:00 GMT"
+    },
+    {
+      "name": "host-header",
+      "value": "6b7412fb82ca5edfd0917e3957f05d89"
+    },
+    {
+      "name": "link",
+      "value": "<https://mlfd.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://mlfd.ca.gov/wp-json/wp/v2/pages/754>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://mlfd.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "permissions-policy",
+      "value": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")"
+    },
+    {
+      "name": "pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "no-referrer-when-downgrade"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "set-cookie",
+      "value": "PHPSESSID=c55ab1c4c2a8d1c8d875af4e6a93553b; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ep_session_id=ep-sess-1769209702-H7os7Fk5; path=/; secure; HttpOnly"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding, Accept-Encoding"
+    },
+    {
+      "name": "x-httpd",
+      "value": "1"
+    },
+    {
+      "name": "x-proxy-cache",
+      "value": "EXPIRED"
+    },
+    {
+      "name": "x-proxy-cache-info",
+      "value": "0 NC:000000 UP:SKIP_CACHE_SET_COOKIE"
+    }
+  ],
+  "contentSize": 127703,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.facebook.com/mammothlakesfire/",
+    "https://www.instagram.com/mammothlakesfiredept/",
+    "https://www.facebook.com/MammothLakesFSC/"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

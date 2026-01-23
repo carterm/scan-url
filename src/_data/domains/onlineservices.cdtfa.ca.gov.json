@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "",
   "lastStatus": null,
-  "lastChecked": null,
+  "lastChecked": "2026-01-23T23:08:34.240Z",
   "finalUrl": null,
   "metaGenerator": null,
   "responseHeaders": [],
@@ -20,6 +20,6 @@
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
-  "errorMessage": null,
+  "errorMessage": "Fetch error: fetch failed redirect count exceeded",
   "notes": null
 }

@@ -4,21 +4,59 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Office of Land Use and Climate Innovation",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:21.424Z",
+  "finalUrl": "https://www.lci.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "14018"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:20 GMT"
+    },
+    {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-ua-compatible",
+      "value": "IE=edge"
+    }
+  ],
+  "contentSize": 43202,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.youtube.com/channel/UCTBmAaS7WDxOcyjo85dcXtA",
+    "https://www.instagram.com/cal.lci/profilecard/?igsh=NTc4MTIwNjQ2YQ%3D%3D",
+    "https://x.com/Cal_LCI",
+    "https://www.facebook.com/profile.php?id=61568449778077&mibextid=LQQJ4",
+    "https://www.youtube.com/channel/UCTBmAaS7WDxOcyjo85dcXtA",
+    "https://www.instagram.com/cal.lci/profilecard/?igsh=NTc4MTIwNjQ2YQ%3D%3D",
+    "https://x.com/Cal_LCI",
+    "https://www.facebook.com/profile.php?id=61568449778077&mibextid=LQQJ4"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

@@ -4,20 +4,76 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "California's Health Benefit Exchange",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:19.527Z",
+  "finalUrl": "https://healthexchange.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "8923"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:16 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "\"031842ed8bdc1:0\""
+    },
+    {
+      "name": "last-modified",
+      "value": "Thu, 22 Jan 2026 22:18:18 GMT"
+    },
+    {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ARRAffinity=e16ff5882340d2ace800d74c6e0112bc827b87e490074c59ef1305af72030f98;Path=/;HttpOnly;Secure;Domain=healthexchange.ca.gov"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ARRAffinitySameSite=e16ff5882340d2ace800d74c6e0112bc827b87e490074c59ef1305af72030f98;Path=/;HttpOnly;SameSite=None;Secure;Domain=healthexchange.ca.gov"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
+  "contentSize": 28106,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.facebook.com/CoveredCA/",
+    "https://twitter.com/CoveredCA",
+    "https://www.instagram.com/coveredca/?hl=en",
+    "https://www.facebook.com/CoveredCA/",
+    "https://twitter.com/CoveredCA",
+    "https://www.youtube.com/user/CoveredCA"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

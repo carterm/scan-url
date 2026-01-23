@@ -4,20 +4,109 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "City of Point Arena",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:33.535Z",
+  "finalUrl": "https://pointarena.ca.gov/",
+  "metaGenerator": "WordPress 6.9",
+  "responseHeaders": [
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:30 GMT"
+    },
+    {
+      "name": "host-header",
+      "value": "d3AuYmx1ZWhvc3QuY29t"
+    },
+    {
+      "name": "link",
+      "value": "<https://pointarena.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://pointarena.ca.gov/wp-json/wp/v2/pages/291>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://pointarena.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "server",
+      "value": "nginx/1.27.2"
+    },
+    {
+      "name": "set-cookie",
+      "value": "wordpress_google_apps_login=9658ab3ccc93fbd722d0cda90e991466; path=/; secure; HttpOnly"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ep_session_id=ep-sess-1769209710-qdWcv9Rn; path=/; secure; HttpOnly"
+    },
+    {
+      "name": "set-cookie",
+      "value": "nfd-enable-cf-opt=63a6825d27cab0f204d3b602; path=/; Max-Age=86400; HttpOnly"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-endurance-cache-level",
+      "value": "2"
+    },
+    {
+      "name": "x-nginx-cache",
+      "value": "WordPress"
+    },
+    {
+      "name": "x-proxy-cache",
+      "value": "MISS"
+    },
+    {
+      "name": "x-server-cache",
+      "value": "true"
+    },
+    {
+      "name": "x-tec-api-origin",
+      "value": "https://pointarena.ca.gov"
+    },
+    {
+      "name": "x-tec-api-root",
+      "value": "https://pointarena.ca.gov/wp-json/tribe/events/v1/"
+    },
+    {
+      "name": "x-tec-api-version",
+      "value": "v1"
+    }
+  ],
+  "contentSize": 152000,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.facebook.com/204306180005839",
+    "https://www.facebook.com/204306180005839",
+    "https://www.facebook.com/photo.php?fbid=1295377315952350&set=a.628100769346678&type=3",
+    "https://www.facebook.com/sharer/sharer.php?u=https://www.facebook.com/photo.php?fbid=1295377315952350&set=a.628100769346678&type=3",
+    "https://twitter.com/intent/tweet?text=https://www.facebook.com/photo.php?fbid=1295377315952350&set=a.628100769346678&type=3+1",
+    "https://www.linkedin.com/shareArticle?mini=true&url=https://www.facebook.com/photo.php?fbid=1295377315952350&set=a.628100769346678&type=3",
+    "mailto:?subject=Shared%20Link&body=https://www.facebook.com/photo.php?fbid=1295377315952350&set=a.628100769346678&type=3%20-%201",
+    "https://www.facebook.com/photo.php?fbid=1295377315952350&set=a.628100769346678&type=3",
+    "https://www.instagram.com/p/DJHl_lePk-5/",
+    "https://www.facebook.com/sharer/sharer.php?u=https://www.instagram.com/p/DJHl_lePk-5/",
+    "https://twitter.com/intent/tweet?text=https://www.instagram.com/p/DJHl_lePk-5/+Lost%20in%20the%20Redwoods:%20Point%20Arena%20Hot%20Springs%20%F0%9F%9B%81%F0%9F%8C%B2Once%20dubbed%20%22one%20of%20California%E2%80%99s%20most%20beautiful%20health%20resorts%22%20(California%20Blue%20Book,%201913),%20the%20Point%20Arena%20Hot%20Springs%20were%20the%20ultimate%20escape%20in%20the%20late%201800s%20and%20early%201900s.Founded%20in%201895%20and%20opened%20to%20the%20public%20by%201904,%20this%20resort%20offered%20it%20all:%F0%9F%8E%A3%20Hunting%20&%20fishing%F0%9F%8E%B3%20Croquet,%20billiards,%20&%20bowling%F0%9F%93%B8%20A%20photography%20darkroom%F0%9F%8D%BD%EF%B8%8F%20Onsite%20dining%20&%20evening%20dancingAll%20for%20just%20$12/week%E2%80%94and%20reachable%20only%20by%20horse%20&%20carriage.%20%F0%9F%90%8EGuests%20soaked%20in%20natural%20springs%20shaped%20into%20cement%20basins,%20with%20bathhouses%20built%20right%20over%20the%20stream.%20Some%20bathed%20directly%20in%20the%20mineral%20waters.%20%F0%9F%92%A6Tragically,%20the%20resort%20burned%20down%20in%20the%201920s.%20Today,%20just%20two%20small%20concrete%20tubs%20remain%E2%80%94hidden%20on%20private%20timber%20land,%20closed%20to%20the%20public.A%20forgotten%20paradise,%20lost%20to%20time.%20%E2%8F%B3%F0%9F%94%A5#PointArenaHotSprings%20#HiddenHistory%20#LostResort%20#VintageCalifornia%20#HotSpringsHistory%20#CaliforniaBackInTime",
+    "https://www.linkedin.com/shareArticle?mini=true&url=https://www.instagram.com/p/DJHl_lePk-5/",
+    "mailto:?subject=Shared%20Link&body=https://www.instagram.com/p/DJHl_lePk-5/%20-%20Lost%20in%20the%20Redwoods:%20Point%20Arena%20Hot%20Springs%20%F0%9F%9B%81%F0%9F%8C%B2Once%20dubbed%20%22one%20of%20California%E2%80%99s%20most%20beautiful%20health%20resorts%22%20(California%20Blue%20Book,%201913),%20the%20Point%20Arena%20Hot%20Springs%20were%20the%20ultimate%20escape%20in%20the%20late%201800s%20and%20early%201900s.Founded%20in%201895%20and%20opened%20to%20the%20public%20by%201904,%20this%20resort%20offered%20it%20all:%F0%9F%8E%A3%20Hunting%20&%20fishing%F0%9F%8E%B3%20Croquet,%20billiards,%20&%20bowling%F0%9F%93%B8%20A%20photography%20darkroom%F0%9F%8D%BD%EF%B8%8F%20Onsite%20dining%20&%20evening%20dancingAll%20for%20just%20$12/week%E2%80%94and%20reachable%20only%20by%20horse%20&%20carriage.%20%F0%9F%90%8EGuests%20soaked%20in%20natural%20springs%20shaped%20into%20cement%20basins,%20with%20bathhouses%20built%20right%20over%20the%20stream.%20Some%20bathed%20directly%20in%20the%20mineral%20waters.%20%F0%9F%92%A6Tragically,%20the%20resort%20burned%20down%20in%20the%201920s.%20Today,%20just%20two%20small%20concrete%20tubs%20remain%E2%80%94hidden%20on%20private%20timber%20land,%20closed%20to%20the%20public.A%20forgotten%20paradise,%20lost%20to%20time.%20%E2%8F%B3%F0%9F%94%A5#PointArenaHotSprings%20#HiddenHistory%20#LostResort%20#VintageCalifornia%20#HotSpringsHistory%20#CaliforniaBackInTime",
+    "https://www.facebook.com/pointarena",
+    "https://www.instagram.com/point_arena/"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

@@ -4,13 +4,82 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "PASS Login",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:27.677Z",
+  "finalUrl": "https://pass.post.ca.gov/login",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "no-store"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-language",
+      "value": "und"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://www.google.com; object-src 'none'; worker-src 'self' blob: 'unsafe-inline';"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html;charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:27 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "0"
+    },
+    {
+      "name": "keep-alive",
+      "value": "timeout=60"
+    },
+    {
+      "name": "pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "set-cookie",
+      "value": "org.springframework.web.servlet.i18n.CookieLocaleResolver.LOCALE=und; Path=/; Secure; HttpOnly; SameSite=Lax"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=15768000 ; includeSubDomains"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Origin, Access-Control-Request-Method, Access-Control-Request-Headers"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "DENY"
+    },
+    {
+      "name": "x-requestid",
+      "value": "117db67b-d04c-4348-95e6-f814d6d1115c"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 23207,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

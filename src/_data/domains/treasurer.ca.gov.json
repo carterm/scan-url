@@ -4,20 +4,74 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "State Treasurer's Office",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:38.885Z",
+  "finalUrl": "https://www.treasurer.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "private"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:36 GMT"
+    },
+    {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ASPSESSIONIDQEBTQRBQ=EBGNADJBAJMJHAMJJHHPDFDE; secure; path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "visid_incap_2930660=bdPScGyOTqSNbUN2x7riJHT/c2kAAAAAQUIPAAAAAAA+DuhSFQnd4Qc3wj3Bm63g; expires=Sat, 23 Jan 2027 08:19:57 GMT; HttpOnly; path=/; Domain=.treasurer.ca.gov"
+    },
+    {
+      "name": "set-cookie",
+      "value": "incap_ses_605_2930660=t3gCMu7fl1l7dLQ/ZWRlCHT/c2kAAAAA70TVRXryylevTKOUQHsxPQ==; path=/; Domain=.treasurer.ca.gov"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-cdn",
+      "value": "Imperva"
+    },
+    {
+      "name": "x-iinfo",
+      "value": "53-235372121-235372255 NNYN CT(8 30 0) RT(1769209716351 379) q(0 0 0 1) r(1 1) U24"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
+  "contentSize": 38942,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.facebook.com/pages/California-State-Treasurers-Office/356962197807214",
+    "https://twitter.com/CalTreasurer",
+    "https://www.youtube.com/channel/UCQ_HINGlTvFvznebJmnrVUw",
+    "https://www.instagram.com/caltreasurer/"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

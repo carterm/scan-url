@@ -4,21 +4,104 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Homepage - CDII",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:07.184Z",
+  "finalUrl": "https://www.cdii.ca.gov/",
+  "metaGenerator": "All in One SEO (AIOSEO) 4.9.1.1",
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "max-age=2715, public"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:04 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "\"07938cff6f153140dc1cb96bd449d588\""
+    },
+    {
+      "name": "expires",
+      "value": "Fri, 23 Jan 2026 23:53:19 GMT"
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 23 Jan 2026 22:53:19 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://www.cdii.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.cdii.ca.gov/wp-json/wp/v2/pages/6>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.cdii.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "permissions-policy",
+      "value": "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)"
+    },
+    {
+      "name": "pragma",
+      "value": "public"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "strict-origin"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains; preload"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "PHP/8.3.26"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 240962,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.youtube.com/watch?v=qcd-QjIwXGA"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

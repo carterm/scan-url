@@ -4,21 +4,72 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "EDD Labor Market Information Division - Home Page",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:20.434Z",
+  "finalUrl": "https://labormarketinfo.edd.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "12442"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "default-src 'self' 'unsafe-inline' 'unsafe-eval'                   *.ca.gov                   *.tableau.com                   *.gov                  *.google.com                  *.google-analytics.com      *.surveymonkey.com      *.youtube.com      *.powerbigov.us                  ;"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:19 GMT"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "strict-origin-when-cross-origin"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains, max-age= 31536000"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
+  "contentSize": 41506,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/californiaedd/",
+    "https://twitter.com/CA_EDD",
+    "https://www.linkedin.com/company/californiaedd/",
+    "https://www.instagram.com/ca_edd/",
+    "https://youtube.com/user/CaliforniaEDD"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

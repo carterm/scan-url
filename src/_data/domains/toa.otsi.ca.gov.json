@@ -4,13 +4,70 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "TOA Website",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:36.543Z",
+  "finalUrl": "https://toa.otsi.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "cache-control",
+      "value": "public,max-age=31536000"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "6905"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:36 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "\"cdba1fe14ddc1:0\""
+    },
+    {
+      "name": "last-modified",
+      "value": "Tue, 04 Nov 2025 23:16:59 GMT"
+    },
+    {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ARRAffinity=364f1b7421067eedaf2742ade62e5be297702534cf2f7f55316f4dded44b874b;Path=/;HttpOnly;Secure;Domain=toa.otsi.ca.gov"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ARRAffinitySameSite=364f1b7421067eedaf2742ade62e5be297702534cf2f7f55316f4dded44b874b;Path=/;HttpOnly;SameSite=None;Secure;Domain=toa.otsi.ca.gov"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
+  "contentSize": 20534,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -18,7 +75,7 @@
   "hasJQuery": false,
   "googleAnalytics": [],
   "socialLinks": [],
-  "linksToCaGov": false,
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

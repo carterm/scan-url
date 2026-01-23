@@ -4,13 +4,54 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "QuickMap",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:31.174Z",
+  "finalUrl": "https://quickmap.dot.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "backend",
+      "value": "svgcqm201"
+    },
+    {
+      "name": "connection",
+      "value": "Keep-Alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "9665"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:28 GMT"
+    },
+    {
+      "name": "keep-alive",
+      "value": "timeout=2, max=500"
+    },
+    {
+      "name": "server",
+      "value": "Apache"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    }
+  ],
+  "contentSize": 59384,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

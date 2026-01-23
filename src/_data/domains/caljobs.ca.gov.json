@@ -5,12 +5,45 @@
   "active": true,
   "includeInScan": true,
   "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:07:59.545Z",
+  "finalUrl": "https://www.caljobs.ca.gov/vosnet/default.aspx",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "no-cache, no-store"
+    },
+    {
+      "name": "connection",
+      "value": "close"
+    },
+    {
+      "name": "content-length",
+      "value": "926"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "set-cookie",
+      "value": "visid_incap_2944543=3RKcq3KQTBigYqDhJSu+QU7/c2kAAAAAQUIPAAAAAABHZus52g+sbqzNmyFAhCOr; expires=Sat, 23 Jan 2027 08:41:39 GMT; HttpOnly; path=/; Domain=.caljobs.ca.gov; Secure; SameSite=None"
+    },
+    {
+      "name": "set-cookie",
+      "value": "incap_ses_396_2944543=B6laV3LnkBZh75X2AuB+BU7/c2kAAAAAt1Wii8jkKOTOiYcs8MqvMw==; path=/; Domain=.caljobs.ca.gov; Secure; SameSite=None"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=7543; includeSubDomains"
+    },
+    {
+      "name": "x-iinfo",
+      "value": "49-120571850-0 pNNN RT(1769209678994 400) q(0 -1 -1 1) r(0 -1) B12(14,0,0) U18"
+    }
+  ],
+  "contentSize": 926,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

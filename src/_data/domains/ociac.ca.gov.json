@@ -4,13 +4,74 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Orange County Intelligence Assessment Center - Home",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:28.061Z",
+  "finalUrl": "https://ociac.ca.gov/(X(1)S(uuuv2bjxz1v5slc33hjfywcj))/default.aspx?AspxAutoDetectCookieSupport=1",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "private,no-cache, no-store, must-revalidate, pre-check=0, post-check=0, max-age=0, s-maxage=0"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "9953"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "object-src 'none';frame-src 'self' https://www.youtube.com https://www.google.com/recaptcha/ https://maps.google.com https://*.twitter.com https://www.dhs.gov/ https://safe.menlosecurity.com;script-src 'self' https://fonts.googleapis.com https://www.youtube.com https://ajax.googleapis.com https://*.twitter.com https://ssl.google-analytics.com https: http: 'nonce-834fe08e4eb94d0c831c25eeb9f58aaa' 'strict-dynamic' 'unsafe-inline' ;base-uri 'self';font-src 'self' data: https://fonts.gstatic.com https://*.fontawesome.com https://cdnjs.cloudflare.com ;form-action 'self' https://*.twitter.com ;manifest-src 'self';block-all-mixed-content;img-src 'self' data: https://netsential.com https://*.google-analytics.com https://*.ytimg.com data: https://*.google.com https://*.gstatic.com https://*.googleapis.com https://*.twitter.com https://*.twimg.com https://twitter-badges.s3.amazonaws.com/ https://ociac.ca.gov https://www.dhs.gov https://ncric.org https://www.facebook.com;report-uri /Content_Security_Policy.aspx"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:26 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "Fri, 23 Jan 2026 23:08:26 GMT,0"
+    },
+    {
+      "name": "pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "server",
+      "value": ""
+    },
+    {
+      "name": "set-cookie",
+      "value": "ASP.NET_SessionId=; path=/; secure; HttpOnly; SameSite=None"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ASP.NET_SessionId=; path=/; secure; HttpOnly; SameSite=None"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 47177,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

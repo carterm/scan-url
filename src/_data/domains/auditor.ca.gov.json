@@ -4,13 +4,86 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "California State Auditor",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:00.263Z",
+  "finalUrl": "https://www.auditor.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "cache-control",
+      "value": "no-cache, must-revalidate, max-age=0, no-store"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "br"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "default-src 'self'; style-src 'self' 'nonce-50ba48f79284031bc4d0'; script-src 'self' 'nonce-50ba48f79284031bc4d0' www.googletagmanager.com; img-src 'self' 'nonce-50ba48f79284031bc4d0' www.googletagmanager.com data:; font-src 'self' 'nonce-50ba48f79284031bc4d0' data:; connect-src 'self' www.google-analytics.com www.googletagmanager.com; frame-src 'self' *.youtube.com player.vimeo.com;"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:07:56 GMT"
+    },
+    {
+      "name": "host-header",
+      "value": "a9130478a60e5f9135f765b23f26593b"
+    },
+    {
+      "name": "link",
+      "value": "<https://www.auditor.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.auditor.ca.gov/wp-json/wp/v2/pages/10>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.auditor.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-cache",
+      "value": "BYPASS"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "WordPress VIP <https://wpvip.com>"
+    },
+    {
+      "name": "x-rq",
+      "value": "sjc6 0 30 9980"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 105624,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -18,7 +91,7 @@
   "hasJQuery": false,
   "googleAnalytics": [],
   "socialLinks": [],
-  "linksToCaGov": false,
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

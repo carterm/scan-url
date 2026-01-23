@@ -4,13 +4,46 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Cal eProcure",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:07:59.939Z",
+  "finalUrl": "https://caleprocure.ca.gov/pages/index.aspx",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:07:59 GMT"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "set-cookie",
+      "value": "AWSALB=Kqgyd1HrpQ1vW1yaG8PEG0sVqe3x2SH5Q2eZTQC7DYZJ3bwAh2xmDr5xMdid9+zLBTP5L2D2GOualTaNx2Asaiei99HU4Q41JvS+HGbl3kMm/NpF2/9FkG5liqP6; Expires=Fri, 30 Jan 2026 23:07:59 GMT; Path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "AWSALBCORS=Kqgyd1HrpQ1vW1yaG8PEG0sVqe3x2SH5Q2eZTQC7DYZJ3bwAh2xmDr5xMdid9+zLBTP5L2D2GOualTaNx2Asaiei99HU4Q41JvS+HGbl3kMm/NpF2/9FkG5liqP6; Expires=Fri, 30 Jan 2026 23:07:59 GMT; Path=/; SameSite=None; Secure"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    }
+  ],
+  "contentSize": 48027,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -18,7 +51,7 @@
   "hasJQuery": false,
   "googleAnalytics": [],
   "socialLinks": [],
-  "linksToCaGov": false,
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

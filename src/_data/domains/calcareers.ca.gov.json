@@ -4,21 +4,87 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "CalCareers",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:07:59.037Z",
+  "finalUrl": "https://calcareers.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "cache-control",
+      "value": "private"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-length",
+      "value": "68818"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:07:58 GMT"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ApplicationGatewayAffinityCORS=c207f16914bac20116c1077f6a10eba5; Path=/; SameSite=None; Secure"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ApplicationGatewayAffinity=c207f16914bac20116c1077f6a10eba5; Path=/"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ASP.NET_SessionId=3p2i0t4vaq5fpkxm2cxswvgb; path=/; HttpOnly; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "LastBroadcastMessage=212; expires=Fri, 30-Jan-2026 23:07:58 GMT; path=/"
+    },
+    {
+      "name": "x-aspnet-version",
+      "value": "4.0.30319"
+    },
+    {
+      "name": "x-azure-ref",
+      "value": "20260123T230758Z-16f45f5c75bs67chhC1BY1kpyw00000002w00000000075w8"
+    },
+    {
+      "name": "x-cache",
+      "value": "PRIVATE_NOSTORE"
+    },
+    {
+      "name": "x-fd-int-roxy-purgeid",
+      "value": "0"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
+  "contentSize": 68818,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/jobscagov-1397099267001434/?view_public_for=1397099267001434",
+    "https://twitter.com/CalHR_gov",
+    "https://www.youtube.com/channel/UCSNFW92Q4q-4enuqwdytIKw",
+    "https://www.linkedin.com/company/california-department-of-human-resources"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

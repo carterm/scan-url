@@ -4,21 +4,79 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Home | MyWaterQuality",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:24.006Z",
+  "finalUrl": "https://www.mywaterquality.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "connection",
+      "value": "Keep-Alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:22 GMT"
+    },
+    {
+      "name": "keep-alive",
+      "value": "timeout=5, max=100"
+    },
+    {
+      "name": "server",
+      "value": "Apache"
+    },
+    {
+      "name": "set-cookie",
+      "value": "visid_incap_884660=JydGNfEkSHaAPEF4uOQWO2X/c2kAAAAAQUIPAAAAAADEdMAfZFhKa8P7nHRVvoHA; expires=Sat, 23 Jan 2027 08:19:38 GMT; HttpOnly; path=/; Domain=.mywaterquality.ca.gov; Secure; SameSite=None"
+    },
+    {
+      "name": "set-cookie",
+      "value": "incap_ses_361_884660=GmEFEYftjH2nZB4Xt4cCBWX/c2kAAAAAs9cU6e9Y0tYIEt7MQfxp5w==; path=/; Domain=.mywaterquality.ca.gov; Secure; SameSite=None"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains; preload"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-cdn",
+      "value": "Imperva"
+    },
+    {
+      "name": "x-iinfo",
+      "value": "49-139743219-139743349 NNYN CT(9 16 0) RT(1769209702407 438) q(0 0 1 0) r(1 1) U12"
+    }
+  ],
+  "contentSize": 26080,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/cawqmc/",
+    "https://www.instagram.com/ca.wqmc/",
+    "https://twitter.com/CaMonitoring",
+    "https://www.youtube.com/channel/UCfq3UT8xzT9In0RUWSMOrxQ"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

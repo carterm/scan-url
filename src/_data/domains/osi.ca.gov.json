@@ -4,21 +4,65 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Office of Technology and Solutions Integration | Home page",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:26.527Z",
+  "finalUrl": "https://osi.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "9389"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:25 GMT"
+    },
+    {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ARRAffinity=60ff347d05e7cb67eb725bfb56e0e3f12237a00b8a853631099acd17477f07eb;Path=/;HttpOnly;Secure;Domain=osiweb.azurewebsites.net"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ARRAffinitySameSite=60ff347d05e7cb67eb725bfb56e0e3f12237a00b8a853631099acd17477f07eb;Path=/;HttpOnly;SameSite=None;Secure;Domain=osiweb.azurewebsites.net"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
+  "contentSize": 29030,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.linkedin.com/company/office-of-systems-integration",
+    "https://www.youtube.com/watch?time_continue=54&v=nvu2eoDfxk8"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

@@ -4,20 +4,101 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Home - California Grants Portal",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:17.459Z",
+  "finalUrl": "https://www.grants.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "max-age=0, s-maxage=155, must-revalidate"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:16 GMT"
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 23 Jan 2026 23:04:56 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://www.grants.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.grants.ca.gov/wp-json/wp/v2/pages/18>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.grants.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains; preload"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Cookie"
+    },
+    {
+      "name": "via",
+      "value": "1.1 b4c82cd10e0e4a2d839a59a3f405bfa2.cloudfront.net (CloudFront)"
+    },
+    {
+      "name": "x-amz-cf-id",
+      "value": "QSb9lEnM_xzPG2M7rVYMRRWrkvkOYF5UDcKlxkZ5ter6Q5sLP1dukg=="
+    },
+    {
+      "name": "x-amz-cf-pop",
+      "value": "LAX54-P11"
+    },
+    {
+      "name": "x-btcache",
+      "value": "HIT"
+    },
+    {
+      "name": "x-btcache-served",
+      "value": "Yes"
+    },
+    {
+      "name": "x-cache",
+      "value": "Miss from cloudfront"
+    },
+    {
+      "name": "x-elasticpress-query",
+      "value": "true"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-tenup-cache",
+      "value": "HIT"
+    }
+  ],
+  "contentSize": 102094,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.linkedin.com/company/ca-grants-portal/",
+    "https://x.com/CAGrantsPortal",
+    "https://www.youtube.com/user/CSLmultimedia"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

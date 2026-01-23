@@ -4,13 +4,42 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "You are being redirected...",
+  "lastStatus": 307,
+  "lastChecked": "2026-01-23T23:08:09.835Z",
+  "finalUrl": "https://cwds.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "alt-svc",
+      "value": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:09 GMT"
+    },
+    {
+      "name": "server",
+      "value": "Sucuri/Cloudproxy"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-sucuri-id",
+      "value": "11012"
+    }
+  ],
+  "contentSize": 1411,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

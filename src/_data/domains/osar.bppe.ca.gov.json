@@ -4,21 +4,86 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Office of Student Assistance and Relief",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:26.428Z",
+  "finalUrl": "https://www.osar.bppe.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "access-control-allow-private-network",
+      "value": "true"
+    },
+    {
+      "name": "cache-control",
+      "value": "max-age=16070400; includeSubdomains; preload"
+    },
+    {
+      "name": "connection",
+      "value": "Keep-Alive"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:26 GMT"
+    },
+    {
+      "name": "keep-alive",
+      "value": "timeout=5, max=82"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "strict-origin-when-cross-origin"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=16070400; includeSubDomains; preload"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 45155,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/TheCalOSAR",
+    "https://twitter.com/TheCalOSAR",
+    "https://instagram.com/TheCalOSAR",
+    "https://www.linkedin.com/company/TheCalOSAR",
+    "https://www.tiktok.com/@thecalosar",
+    "https://www.facebook.com/TheCalOSAR",
+    "https://www.facebook.com/TheCalOSAR",
+    "https://twitter.com/TheCalOSAR",
+    "https://twitter.com/TheCalOSAR",
+    "https://www.youtube.com/watch?v=EGP9ND9d8rE",
+    "https://www.youtube.com/watch?v=OkKH5nCqd3k"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

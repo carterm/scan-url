@@ -4,13 +4,94 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Home | Medical Board of California",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:22.183Z",
+  "finalUrl": "https://www.mbc.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "access-control-allow-headers",
+      "value": "Origin, X-Requested-With, Content-Type, Accept"
+    },
+    {
+      "name": "access-control-allow-methods",
+      "value": "GET"
+    },
+    {
+      "name": "access-control-allow-private-network",
+      "value": "true"
+    },
+    {
+      "name": "cache-control",
+      "value": "private"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "upgrade-insecure-requests"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:21 GMT"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "strict-origin-when-cross-origin"
+    },
+    {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
+      "name": "set-cookie",
+      "value": "BIGipServer~MBC_Web~pool_mbc_web=!jfkznJtu8g4Xmi9gY+OTfj45VE50mVvl0SUvv12YHdjv96IDrDiWTpBwXzMlne9PNZpmI5HTf/kitw==; Path=/; Version=1; Secure; Httponly"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=16070400; includeSubDomains; preload"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-aspnet-version",
+      "value": "4.0.30319"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "Medical Board of California"
+    },
+    {
+      "name": "x-ua-compatible",
+      "value": "IE=Edge"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 41980,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

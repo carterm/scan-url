@@ -4,21 +4,109 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Behavioral Health Services Oversight & Accountability Commission (BHSOAC) - State of California",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:00.128Z",
+  "finalUrl": "https://bhsoac.ca.gov/",
+  "metaGenerator": "CAWeb v.1.5.1",
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "max-age=3600, public"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "42973"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:07:58 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "\"d25bd045340659b12c1dcb48bb3e644b\""
+    },
+    {
+      "name": "expires",
+      "value": "Sat, 24 Jan 2026 00:07:58 GMT"
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 23 Jan 2026 23:07:58 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://bhsoac.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://bhsoac.ca.gov/wp-json/wp/v2/pages/2018>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://bhsoac.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "pragma",
+      "value": "public"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "no-referrer-when-downgrade"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "set-cookie",
+      "value": "caweb-alert-id-0=1"
+    },
+    {
+      "name": "set-cookie",
+      "value": "caweb-alert-id-1=1"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-cache-status",
+      "value": "MISS"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "W3 Total Cache/2.8.12, PleskLin"
+    }
+  ],
+  "contentSize": 215927,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://facebook.com/californiacbh",
+    "https://x.com/californiacbh",
+    "https://youtube.com/@californiacbh",
+    "https://instagram.com/californiacbh",
+    "https://linkedin.com/company/californiacbh/",
+    "https://www.facebook.com/mhsoac",
+    "https://twitter.com/MHSOAC",
+    "https://www.youtube.com/channel/UCj79tbWqqzIjshi2LsSpppw",
+    "https://www.instagram.com/mhsoac/?hl=en",
+    "https://facebook.com/californiacbh",
+    "https://x.com/californiacbh",
+    "https://youtube.com/@californiacbh",
+    "https://instagram.com/californiacbh",
+    "https://linkedin.com/company/californiacbh/"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

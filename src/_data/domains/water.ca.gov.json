@@ -4,21 +4,106 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Department Of Water Resources",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:41.021Z",
+  "finalUrl": "https://water.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ch",
+      "value": "Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version,Sec-CH-UA-Arch,Sec-CH-UA-Model,Sec-CH-UA-Bitness"
+    },
+    {
+      "name": "cache-control",
+      "value": "no-cache, no-store"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "19680"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:38 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "-1"
+    },
+    {
+      "name": "pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "strict-origin-when-cross-origin"
+    },
+    {
+      "name": "set-cookie",
+      "value": "shell#lang=en; path=/; secure; SameSite=None"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ASP.NET_SessionId=yhye0dtogzbrin3ebomnzgwq; path=/; secure; HttpOnly; SameSite=None"
+    },
+    {
+      "name": "set-cookie",
+      "value": "SC_ANALYTICS_GLOBAL_COOKIE=53beea46727f4a0fb5421135d654e59d|False; expires=Mon, 21-Jan-2036 23:08:38 GMT; path=/; secure; HttpOnly; SameSite=None"
+    },
+    {
+      "name": "set-cookie",
+      "value": "TS015bf595=0172ee179aecbdf7e1357ca94c5c85724f6cfea4e22905c936ae268102ab517999a03dea5ddcc693eef75f89ecf810cd40dacfbb80e87db04057447196792498bca0ffdd10326053028a962e308a146c0dd267aa4ac7f73347a45f763483c51741892729b5; Path=/"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains; preload"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff "
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 80294,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.youtube.com/user/calwater",
+    "https://www.facebook.com/CADWR",
+    "https://twitter.com/CA_DWR",
+    "https://www.instagram.com/cadepartmentofwaterresources",
+    "https://www.youtube.com/user/calwater",
+    "https://www.linkedin.com/company/california-department-of-water-resources",
+    "https://www.tiktok.com/@cadeptofwaterresources?_t=8pGIpKjjz26&_r=1",
+    "https://www.facebook.com/CADWR",
+    "https://twitter.com/CA_DWR",
+    "https://www.instagram.com/cadepartmentofwaterresources",
+    "https://www.youtube.com/user/calwater"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

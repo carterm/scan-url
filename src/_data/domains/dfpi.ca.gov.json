@@ -4,21 +4,113 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "DFPI - The Department of Financial Protection and Innovation",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:17.946Z",
+  "finalUrl": "https://dfpi.ca.gov/",
+  "metaGenerator": "DFPI Divi Child Theme v.1.0.0",
+  "responseHeaders": [
+    {
+      "name": "alt-svc",
+      "value": "h3=\":443\"; ma=86400"
+    },
+    {
+      "name": "cache-control",
+      "value": "max-age=600, must-revalidate"
+    },
+    {
+      "name": "cf-cache-status",
+      "value": "DYNAMIC"
+    },
+    {
+      "name": "cf-ray",
+      "value": "9c2af39ae8803403-SMF"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "br"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:11 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://dfpi.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://dfpi.ca.gov/wp-json/wp/v2/pages/8>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://dfpi.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "server",
+      "value": "cloudflare"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__cf_bm=BOSSDNLz_HHSzgBcKVCO5DKdO.CzqsSeCdSPHp8H3Gg-1769209691-1.0.1.1-SzzyTLO0hnE5LJuWYQkmEyFHFZwGAZoACAsOHVvU3hNrSwn9T021bMnfceJ8CcCLeMqjED3T6VtZTDYwU6aRGNmXZjky3f_gmWBK0Uxr88s; path=/; expires=Fri, 23-Jan-26 23:38:11 GMT; domain=.dfpi.ca.gov; HttpOnly; Secure; SameSite=None"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
+    },
+    {
+      "name": "x-cache",
+      "value": "HIT: 9"
+    },
+    {
+      "name": "x-cache-group",
+      "value": "normal"
+    },
+    {
+      "name": "x-cacheable",
+      "value": "SHORT"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "WP Engine"
+    },
+    {
+      "name": "x-tec-api-origin",
+      "value": "https://dfpi.ca.gov"
+    },
+    {
+      "name": "x-tec-api-root",
+      "value": "https://dfpi.ca.gov/wp-json/tribe/events/v1/"
+    },
+    {
+      "name": "x-tec-api-version",
+      "value": "v1"
+    }
+  ],
+  "contentSize": 195380,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://twitter.com/CaliforniaDFPI",
+    "https://www.facebook.com/CaliforniaDFPI",
+    "https://linkedin.com/company/californiadfpi",
+    "https://www.instagram.com/californiadfpi/",
+    "https://www.youtube.com/channel/UCBZhpVr_Vh7d33ZYapNlalw",
+    "https://www.facebook.com/CaliforniaDFPI",
+    "https://twitter.com/CaliforniaDFPI",
+    "https://linkedin.com/company/californiadfpi",
+    "https://www.youtube.com/channel/UCBZhpVr_Vh7d33ZYapNlalw",
+    "https://www.instagram.com/californiadfpi/"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

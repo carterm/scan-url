@@ -4,21 +4,85 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Board of Behavioral Sciences (BBS)",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:07:57.246Z",
+  "finalUrl": "https://www.bbs.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "access-control-allow-private-network",
+      "value": "true"
+    },
+    {
+      "name": "cache-control",
+      "value": "max-age=16070400; includeSubdomains; preload"
+    },
+    {
+      "name": "connection",
+      "value": "Keep-Alive"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:07:57 GMT"
+    },
+    {
+      "name": "keep-alive",
+      "value": "timeout=5, max=66"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "strict-origin-when-cross-origin"
+    },
+    {
+      "name": "set-cookie",
+      "value": "TS01cf5a94=01ed741c22bcf9d59f7594ddc7c5a33c8967459ed6925dec61e1d585edd9c3cba3ae3ceb2018da748d944924551d710a2c76708b49; Path=/; Domain=.www.bbs.ca.gov"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=16070400; includeSubDomains; preload"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 54094,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/BehavioralSciencesBoardCA/",
+    "https://twitter.com/BBS_California",
+    "https://www.youtube.com/user/CaliforniaDCA",
+    "https://www.youtube.com/watch?v=tE9DsszK3t4&list=PLAGnBcgB9ibtHg9U43wusNJ38CJUfHJiQ&index=11&pp=iAQB",
+    "https://www.facebook.com/Board-of-Behavioral-Sciences-California-218510451542562/",
+    "https://twitter.com/BBS_California"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

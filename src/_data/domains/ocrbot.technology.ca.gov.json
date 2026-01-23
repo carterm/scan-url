@@ -4,13 +4,62 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "OCRBot",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:24.683Z",
+  "finalUrl": "https://www.ocrbot.technology.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-length",
+      "value": "10078"
+    },
+    {
+      "name": "content-md5",
+      "value": "ynznfmWf7QvOL548SUM3Iw=="
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:24 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "\"0x8DB27046DEF8A62\""
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 17 Mar 2023 16:26:58 GMT"
+    },
+    {
+      "name": "x-azure-ref",
+      "value": "20260123T230824Z-r1cf444f6d6gdd67hC1BY1ee8n0000001rag000000000pvf"
+    },
+    {
+      "name": "x-cache",
+      "value": "CONFIG_NOCACHE"
+    },
+    {
+      "name": "x-ms-request-id",
+      "value": "954bce35-101e-002b-78bd-8c54d0000000"
+    },
+    {
+      "name": "x-ms-version",
+      "value": "2018-03-28"
+    }
+  ],
+  "contentSize": 10075,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

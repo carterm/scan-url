@@ -4,13 +4,58 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "RMS",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:18.663Z",
+  "finalUrl": "https://healthcarevolunteers.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "no-cache,no-store,max-age=3600"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-length",
+      "value": "2094"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:18 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "\"63e907311e738d40d8180e63562372b5\""
+    },
+    {
+      "name": "last-modified",
+      "value": "Tue, 13 Jan 2026 08:29:12 GMT"
+    },
+    {
+      "name": "server",
+      "value": "envoy"
+    },
+    {
+      "name": "x-amz-version-id",
+      "value": "xgVOA7i0xaS9VPhP1rbGwKgAhH2FFTlp"
+    },
+    {
+      "name": "x-cache-status",
+      "value": "MISS"
+    },
+    {
+      "name": "x-envoy-upstream-service-time",
+      "value": "42"
+    }
+  ],
+  "contentSize": 2094,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

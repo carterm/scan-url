@@ -4,13 +4,62 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Department of Pesticide Regulation Mobile Gallery",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:23.102Z",
+  "finalUrl": "https://mobile.cdpr.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:14 GMT"
+    },
+    {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
+      "name": "set-cookie",
+      "value": "visid_incap_817313=sThdT6MZSPaZbBBAiVHRdmX/c2kAAAAAQUIPAAAAAAAIVISKnYHyP4oN8Xps0Exv; expires=Sat, 23 Jan 2027 08:19:54 GMT; HttpOnly; path=/; Domain=.cdpr.ca.gov; Secure; SameSite=None"
+    },
+    {
+      "name": "set-cookie",
+      "value": "incap_ses_100_817313=9jiPElu/ll5wNTaCjUVjAWX/c2kAAAAAy+YGy51UJbpP9Zlblx1nrQ==; path=/; Domain=.cdpr.ca.gov; Secure; SameSite=None"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=63072000; includeSubDomains; preload"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-cdn",
+      "value": "Imperva"
+    },
+    {
+      "name": "x-iinfo",
+      "value": "44-144221832-144221898 NNNN CT(32 37 0) RT(1769209701962 163) q(0 0 0 14) r(1 1) U12"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
+  "contentSize": 26249,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -18,7 +67,7 @@
   "hasJQuery": false,
   "googleAnalytics": [],
   "socialLinks": [],
-  "linksToCaGov": false,
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

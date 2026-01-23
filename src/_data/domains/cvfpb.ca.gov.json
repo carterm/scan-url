@@ -4,21 +4,74 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Central Valley Flood Protection Board – State of California",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:14.530Z",
+  "finalUrl": "https://cvfpb.ca.gov/",
+  "metaGenerator": "Site Kit by Google 1.168.0",
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "frame-ancestors 'self';"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:14 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://cvfpb.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://cvfpb.ca.gov/wp-json/wp/v2/pages/14344>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://cvfpb.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-tec-api-origin",
+      "value": "https://cvfpb.ca.gov"
+    },
+    {
+      "name": "x-tec-api-root",
+      "value": "https://cvfpb.ca.gov/wp-json/tribe/events/v1/"
+    },
+    {
+      "name": "x-tec-api-version",
+      "value": "v1"
+    }
+  ],
+  "contentSize": 28535,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.youtube.com/@centralvalleyfloodprotecti1800",
+    "https://www.youtube.com/channel/UCDREhiLpWtyPJqWWJBEHrEw/featured",
+    "https://www.youtube.com/@centralvalleyfloodprotecti1800"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

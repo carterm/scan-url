@@ -4,20 +4,114 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Clovis Veterans Memorial District | Clovis, CA",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:25.697Z",
+  "finalUrl": "https://cvmdistrict.ca.gov/",
+  "metaGenerator": "Wix.com Website Builder",
+  "responseHeaders": [
+    {
+      "name": "age",
+      "value": "75796"
+    },
+    {
+      "name": "cache-control",
+      "value": "private,max-age=0,must-revalidate"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "br"
+    },
+    {
+      "name": "content-language",
+      "value": "en-US"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:09 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "W/\"1bfff2bbce14b07a79854c630ea8652a\""
+    },
+    {
+      "name": "link",
+      "value": "<https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,"
+    },
+    {
+      "name": "server",
+      "value": "Pepyaka"
+    },
+    {
+      "name": "server-timing",
+      "value": "cache;desc=hit, varnish;desc=hit, dc;desc=sea1"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ssr-caching=cache#desc=hit#varnish=hit#dc#desc=sea1; Max-Age=20; Expires=Fri, 23 Jan 2026 02:05:12 GMT"
+    },
+    {
+      "name": "set-cookie",
+      "value": "XSRF-TOKEN=1769209689|gVpyH6ccuuGS; Path=/; Domain=cvmdistrict.ca.gov; Secure; SameSite=None"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=86400"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-cache-status",
+      "value": "HIT"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-meta-site-id",
+      "value": "6b6797b3-72a4-4237-9aee-88c100fc530d"
+    },
+    {
+      "name": "x-seen-by",
+      "value": "xIKq3IotbbLp4+7DTTMx8R9slopJdhD+WySraMrpIY8=,m0j2EEknGIVUW/liY8BLLqPXpcX6IEGf7sG3D7kVVb7YIHqi/QJQ19icwuscpsv7,2d58ifebGbosy5xc+FRalnuFuc9jHS+HkpV9GftkZO+tQJU2KObQQLu7VCIKn6GZU4t18k5eBa6iHq/Q5KOe6A==,2UNV7KOq4oGjA5+PKsX47EzpsDHuH75rNqOhkG1qhKU=,2UNV7KOq4oGjA5+PKsX47ECQPVwlNvMJ3BpySO/DZXM="
+    },
+    {
+      "name": "x-wix-request-id",
+      "value": "1769209689.424121534928712636905"
+    }
+  ],
+  "contentSize": 1299443,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.instagram.com/cvmdistrict",
+    "https://www.facebook.com/cvmdistrict",
+    "https://www.twitter.com/cvmdistrict",
+    "https://www.linkedin.com/company/6576722",
+    "https://www.youtube.com/@CVMDistrict",
+    "https://www.facebook.com/cvmdistrict/?ref=aymt_homepage_panel&eid=ARAyBoj7SBbQlMRIuAYcjr0Ei8J6oR5RNb2jZgT8YVKumM5BLqLYJEZaxTFuXOYLmXZAXzlEz_ztgg2l",
+    "https://twitter.com/CVMDistrict",
+    "https://www.instagram.com/cvmdistrict/"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

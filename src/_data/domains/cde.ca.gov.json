@@ -4,13 +4,70 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "California Department of Education",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:04.640Z",
+  "finalUrl": "https://www.cde.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "no-cache, no-store"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:07:41 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "-1"
+    },
+    {
+      "name": "pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__uzma=a9d1117a-74f7-476b-ab08-184f162d4cd1; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:01 GMT; Max-Age=15724800; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__uzmb=1769209681; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:01 GMT; Max-Age=15724800; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__uzme=4522; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:01 GMT; Max-Age=15724800; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__uzmc=966291045959; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:01 GMT; Max-Age=15724800; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__uzmd=1769209681; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:01 GMT; Max-Age=15724800; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "BIGipServerWeb_WWWCDE_pool=3381490186.20480.0000; path=/; Httponly; Secure"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    }
+  ],
+  "contentSize": 72007,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

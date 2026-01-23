@@ -4,21 +4,96 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Franchise Tax Board Homepage | FTB.ca.gov",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:16.600Z",
+  "finalUrl": "https://www.ftb.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "public, max-age=10367969"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "10587"
+    },
+    {
+      "name": "content-location",
+      "value": "www.ftb.ca.gov"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:16 GMT"
+    },
+    {
+      "name": "p3p",
+      "value": "policyref=\"/w3c/p3p.xml\",CP=\"ALL DSP COR MON LAW CURa ADMa DEVa PSAa PSDa OUR SAMa IND NAV INT CNT STA\""
+    },
+    {
+      "name": "pragma",
+      "value": "public"
+    },
+    {
+      "name": "server-timing",
+      "value": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1769209695748_399897760_730921901_41_10171_137_310_-\";dur=1"
+    },
+    {
+      "name": "set-cookie",
+      "value": "bm_sz=06F93C2C45B773E4C3F3B835493D348D~YAAQoPTVF3Tn9NqbAQAAXI8d7R4KkiDUaZUhPHm2qCjznitqS+Xa9iVsuEezgS7NxNrsfPuI4ei6uW5/2FYYpXvXFM2ysSP8Qaw2yFtHOoH7UubAwUkPLDUEv9uM40KE2q234hTVlkAlW7uCpt2Y/6m1PnihcHZCbYG19aaHUU1V7L+tUgiKte5gInqEEFOTeVgTgpBlp7iPZJqyVv+HgFguS9uxxxABTfhZ4iwa+UDq44EKGTvhe2FeEWcCB+macYR37XCtSiY6l0NfbPGfqRRCGRw7qgWLzJExmrPpKwiUTNlgyFG6Wm/cJHTwfy3PMZ2Fh4iUqYmUwvGVH/rcOPdam/Fee52hSDUuIyHy5woPT4yJ7bBAZRxbbjG4TMmT/s6B~4605252~3223605; Domain=.ca.gov; Path=/; Expires=Sat, 24 Jan 2026 03:08:16 GMT; Max-Age=14400; SameSite=None; Secure"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000 ; includeSubDomains ; preload"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-akamai-transformed",
+      "value": "9 8459 0 pmb=mRUM,1"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "DENY"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 34779,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/franchisetaxboard/",
+    "https://x.com/calftb",
+    "https://www.instagram.com/calftb/",
+    "https://www.linkedin.com/company/franchise-tax-board",
+    "https://www.youtube.com/user/FranchiseTaxBoard"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

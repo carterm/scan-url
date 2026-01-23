@@ -4,13 +4,138 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Home | Association of Bay Area Governments",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:07:56.225Z",
+  "finalUrl": "https://abag.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "age",
+      "value": "4776"
+    },
+    {
+      "name": "cache-control",
+      "value": "max-age=2764800, public"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-language",
+      "value": "en"
+    },
+    {
+      "name": "content-length",
+      "value": "15866"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "frame-ancestors 'self'; report-uri /report-csp-violation"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "cross-origin-opener-policy",
+      "value": "same-origin"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:07:55 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "W/\"1769204898\""
+    },
+    {
+      "name": "expires",
+      "value": "Sun, 19 Nov 1978 05:00:00 GMT"
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 23 Jan 2026 21:48:18 GMT"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "no-referrer-when-downgrade"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=1000, max-age=300"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding, Cookie, Cookie, Cookie"
+    },
+    {
+      "name": "via",
+      "value": "1.1 varnish, 1.1 varnish, 1.1 varnish"
+    },
+    {
+      "name": "x-cache",
+      "value": "MISS, HIT, MISS"
+    },
+    {
+      "name": "x-cache-hits",
+      "value": "0, 28, 0"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-drupal-cache",
+      "value": "MISS"
+    },
+    {
+      "name": "x-drupal-dynamic-cache",
+      "value": "MISS"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-generator",
+      "value": "Drupal 10 (https://www.drupal.org)"
+    },
+    {
+      "name": "x-pantheon-styx-hostname",
+      "value": "styx-fe1-a-6c5bdb56b8-kmzcc"
+    },
+    {
+      "name": "x-served-by",
+      "value": "cache-chi-klot8100135-CHI, cache-sjc10047-SJC, cache-sjc10039-SJC"
+    },
+    {
+      "name": "x-styx-req-id",
+      "value": "3a7d2cd0-f8a5-11f0-a224-7e1a3f185006"
+    },
+    {
+      "name": "x-timer",
+      "value": "S1769209676.819865,VS0,VE11"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1"
+    }
+  ],
+  "contentSize": 73813,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -4,13 +4,74 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Reduce the Risk |",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:32.615Z",
+  "finalUrl": "https://www.reducetherisk.ca.gov/",
+  "metaGenerator": "CAWeb v.1.13.0",
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "frame-ancestors 'self' *.ca.gov"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:31 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "\"36d1a2abda9d9f0d779c057b71304d59\""
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 23 Jan 2026 23:08:31 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://www.reducetherisk.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.reducetherisk.ca.gov/wp-json/wp/v2/pages/2>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.reducetherisk.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ApplicationGatewayAffinity=6778ef890451002bdecf7a28127733c3; Path=/"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-azure-ref",
+      "value": "20260123T230830Z-r1cf444f6d6qn66chC1BY17mag0000001sn00000000042k0"
+    },
+    {
+      "name": "x-cache",
+      "value": "CONFIG_NOCACHE"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    }
+  ],
+  "contentSize": 73638,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -18,7 +79,7 @@
   "hasJQuery": false,
   "googleAnalytics": [],
   "socialLinks": [],
-  "linksToCaGov": false,
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

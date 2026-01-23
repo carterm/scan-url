@@ -4,13 +4,78 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Raisin City Water District",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:32.165Z",
+  "finalUrl": "https://rcwd.ca.gov/",
+  "metaGenerator": "Starfield Technologies; Go Daddy Website Builder 8.0.0000",
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "max-age=30"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "br"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "frame-ancestors 'self' godaddy.com *.godaddy.com dev-godaddy.com *.dev-godaddy.com test-godaddy.com *.test-godaddy.com"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html;charset=utf-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:30 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "ee076fd09f4c4160fb0e090bd7413a10"
+    },
+    {
+      "name": "keep-alive",
+      "value": "timeout=5"
+    },
+    {
+      "name": "link",
+      "value": "<//img1.wsimg.com/ceph-p3-01/website-builder-data-prod/static/widgets/UX.4.51.10.js>; rel=preload; as=script; crossorigin,<https://img1.wsimg.com/gfonts/s/muli/v34/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30eg.woff2>; rel=preload; as=font; crossorigin,<https://img1.wsimg.com/gfonts/s/quicksand/v37/6xKtdSZaM9iE8KbpRA_hK1QN.woff2>; rel=preload; as=font; crossorigin,<https://fonts.googleapis.com>; rel=preconnect; crossorigin,<https://fonts.gstatic.com>; rel=preconnect; crossorigin,<https://img1.wsimg.com>; rel=preconnect; crossorigin,<https://isteam.wsimg.com>; rel=preconnect; crossorigin"
+    },
+    {
+      "name": "server",
+      "value": "DPS/2.0.0+sha-57bdacc"
+    },
+    {
+      "name": "set-cookie",
+      "value": "dps_site_id=us-west-2; path=/; secure"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=63072000; includeSubDomains; preload"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-siteid",
+      "value": "us-west-2"
+    },
+    {
+      "name": "x-version",
+      "value": "57bdacc"
+    }
+  ],
+  "contentSize": 130176,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

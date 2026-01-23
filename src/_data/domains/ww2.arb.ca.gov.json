@@ -4,21 +4,147 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Homepage | California Air Resources Board",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:41.145Z",
+  "finalUrl": "https://ww2.arb.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "access-control-allow-origin",
+      "value": "*"
+    },
+    {
+      "name": "age",
+      "value": "1855"
+    },
+    {
+      "name": "cache-control",
+      "value": "max-age=2764800, public"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-language",
+      "value": "en"
+    },
+    {
+      "name": "content-length",
+      "value": "18856"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:39 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "\"1769207863\""
+    },
+    {
+      "name": "expires",
+      "value": "Sun, 19 Nov 1978 05:00:00 GMT"
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 23 Jan 2026 22:37:43 GMT"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "strict-origin-when-cross-origin"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains"
+    },
+    {
+      "name": "vary",
+      "value": "Cookie,Accept-Encoding"
+    },
+    {
+      "name": "via",
+      "value": "varnish"
+    },
+    {
+      "name": "x-acquia-no-301-404-caching-enforcement",
+      "value": "1"
+    },
+    {
+      "name": "x-ah-environment",
+      "value": "prod"
+    },
+    {
+      "name": "x-cache",
+      "value": "HIT"
+    },
+    {
+      "name": "x-cache-hits",
+      "value": "187"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-drupal-cache",
+      "value": "MISS"
+    },
+    {
+      "name": "x-drupal-dynamic-cache",
+      "value": "MISS"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-request-id",
+      "value": "v-220e2338-f8ac-11f0-85c0-530cc741b26a"
+    },
+    {
+      "name": "x-ua-compatible",
+      "value": "IE=edge"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 58319,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://twitter.com/AirResources",
+    "https://www.facebook.com/people/California-Air-Resources-Board/100087562832527/",
+    "https://www.youtube.com/user/calairinfo",
+    "https://www.linkedin.com/company/california-air-resources-board",
+    "https://twitter.com/AirResources",
+    "https://www.facebook.com/people/California-Air-Resources-Board/100087562832527/",
+    "https://www.youtube.com/user/calairinfo",
+    "https://www.linkedin.com/company/california-air-resources-board"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

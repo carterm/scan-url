@@ -4,21 +4,115 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Home",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:30.201Z",
+  "finalUrl": "https://post.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "no-cache"
+    },
+    {
+      "name": "content-encoding",
+      "value": "br"
+    },
+    {
+      "name": "content-length",
+      "value": "11965"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "frame-src 'self' post.ca.gov whova.com *.youtube.com youtube.com *.google.com google.com app.powerbigov.us; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.post.ca.gov post.ca.gov https://alert.cdt.ca.gov *.google.com *.googletagmanager.com *.googleapis.com *.gstatic.com *.azure.net azure.net *.cloudflare.com cloudflare.com *.2sxc.org 2sxc.org https://whova.com; worker-src blob:"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "cross-origin-opener-policy",
+      "value": "same-origin"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:29 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "-1"
+    },
+    {
+      "name": "pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "strict-origin-when-cross-origin"
+    },
+    {
+      "name": "set-cookie",
+      "value": "dnn_IsMobile=False; domain=post.ca.gov; path=/; secure; HttpOnly; SameSite=Strict"
+    },
+    {
+      "name": "set-cookie",
+      "value": "language=en-US; domain=post.ca.gov; path=/; secure; HttpOnly; SameSite=Strict"
+    },
+    {
+      "name": "set-cookie",
+      "value": ".ASPXANONYMOUS=uLIcCQLsbLfxLA_7bVIlx-ph9wZapM-nmzKyHFrxBRs8Iw56g2NmGidFhjVamDEs3xzoIpPH-UTF8F6GS2E8N0fCbvnzvz7mljgoPYNqXWwn-ZDV0; expires=Fri, 03-Apr-2026 09:48:29 GMT; path=/; secure; HttpOnly; SameSite=Strict"
+    },
+    {
+      "name": "set-cookie",
+      "value": "Analytics_VisitorId=c2ff92cc-20d3-4565-90f0-c35b1e1dbe3d; domain=post.ca.gov; expires=Fri, 23-Jan-2026 23:07:29 GMT; path=/; secure; HttpOnly; SameSite=Strict"
+    },
+    {
+      "name": "set-cookie",
+      "value": "Analytics=SessionId=94f3def4-50d0-4ec7-b7fc-87ab16cab24f&TabId=20&ContentItemId=-1; domain=post.ca.gov; expires=Fri, 23-Jan-2026 23:07:29 GMT; path=/; secure; HttpOnly; SameSite=Strict"
+    },
+    {
+      "name": "set-cookie",
+      "value": "__RequestVerificationToken=v5xQInGJbiD0tShF3fxgmG3jf9JtCZMWvqcjfoFAXVpFqShlAfytrG2VRP5NE9R_mKAsCA2; domain=post.ca.gov; path=/; secure; HttpOnly; SameSite=Strict"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains; preload"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-ua-compatible",
+      "value": "IE=edge"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
+  "contentSize": 35175,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/CaliforniaPOST",
+    "https://www.youtube.com/user/CaliforniaPOST/",
+    "https://www.instagram.com/commissiononpost/",
+    "https://www.linkedin.com/company/california-post/"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

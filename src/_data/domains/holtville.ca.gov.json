@@ -4,20 +4,98 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "City of Holtville",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:20.914Z",
+  "finalUrl": "https://www.holtville.ca.gov/",
+  "metaGenerator": "WordPress 6.9",
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "max-age=0"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "20199"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:19 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "Fri, 23 Jan 2026 23:08:18 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://www.holtville.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.holtville.ca.gov/wp-json/wp/v2/pages/122>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.holtville.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "permissions-policy",
+      "value": "accelerometer=(),camera=(),display-capture=(),document-domain=(),gyroscope=(),magnetometer=(),microphone=(),midi=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),usb=(),xr-spatial-tracking=()"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "strict-origin-when-cross-origin"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=15768000; includeSubDomains"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-tec-api-origin",
+      "value": "https://www.holtville.ca.gov"
+    },
+    {
+      "name": "x-tec-api-root",
+      "value": "https://www.holtville.ca.gov/wp-json/tribe/events/v1/"
+    },
+    {
+      "name": "x-tec-api-version",
+      "value": "v1"
+    }
+  ],
+  "contentSize": 106358,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.facebook.com/cityofholtville",
+    "https://www.instagram.com/cityofholtville",
+    "https://www.facebook.com/cityofholtville",
+    "https://www.instagram.com/cityofholtville"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "",
   "lastStatus": null,
-  "lastChecked": null,
+  "lastChecked": "2026-01-23T23:08:55.895Z",
   "finalUrl": null,
   "metaGenerator": null,
   "responseHeaders": [],
@@ -20,6 +20,6 @@
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
-  "errorMessage": null,
+  "errorMessage": "Fetch error: fetch failed Connect Timeout Error (attempted address: webservices.caloes.ca.gov:443, timeout: 15000ms)",
   "notes": null
 }

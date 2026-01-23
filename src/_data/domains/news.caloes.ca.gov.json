@@ -4,21 +4,81 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "title": "Cal OES News | NEWSROOM | Multimedia | California Governor's Office of Emergency Services",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:27.448Z",
+  "finalUrl": "https://www.news.caloes.ca.gov/",
+  "metaGenerator": "CAWeb v.1.13.0",
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:24 GMT"
+    },
+    {
+      "name": "etag",
+      "value": "\"a470666840b3561b2a4af4166b52bb52\""
+    },
+    {
+      "name": "last-modified",
+      "value": "Fri, 23 Jan 2026 22:49:13 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://www.news.caloes.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.news.caloes.ca.gov/wp-json/wp/v2/pages/23819>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://wp.me/PgM8my-6cb>; rel=shortlink"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ApplicationGatewayAffinity=78783145a90b4bd168abbdbbc9ea74f8; Path=/"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-azure-ref",
+      "value": "20260123T230823Z-r1cf444f6d67dmg4hC1BY1kqw00000001skg000000009qtq"
+    },
+    {
+      "name": "x-cache",
+      "value": "CONFIG_NOCACHE"
+    }
+  ],
+  "contentSize": 206479,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/CaliforniaOES",
+    "https://www.instagram.com/cal_oes",
+    "https://www.linkedin.com/company/caloes",
+    "https://x.com/Cal_OES",
+    "https://www.youtube.com/user/CalEMATV",
+    "https://www.facebook.com/CaliforniaOES/",
+    "https://www.instagram.com/cal_oes/",
+    "https://www.linkedin.com/company/caloes",
+    "https://twitter.com/Cal_OES",
+    "https://www.youtube.com/user/CalEMATV"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

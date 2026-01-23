@@ -4,20 +4,120 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "California Department of Housing and Community Development | California Department of Housing and Community Development",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:20.277Z",
+  "finalUrl": "https://www.hcd.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "must-revalidate, no-cache, private"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-language",
+      "value": "en"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https: 'unsafe-eval'; object-src 'none'; style-src 'self' 'unsafe-inline' https: fonts.googleapis.com;; img-src 'self' data: https:; media-src 'self' https:; frame-src 'self' https:; frame-ancestors 'self'; child-src 'self'; font-src 'self' data: https:; connect-src 'self' https:; report-uri /report-csp-violation; upgrade-insecure-requests"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:18 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "Sun, 19 Nov 1978 05:00:00 GMT"
+    },
+    {
+      "name": "feature-policy",
+      "value": "accelerometer 'none'; camera 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; payment 'none'; usb 'none'"
+    },
+    {
+      "name": "from-origin",
+      "value": "same"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "strict-origin-when-cross-origin"
+    },
+    {
+      "name": "set-cookie",
+      "value": "TiPMix=48.675309422511845; path=/; HttpOnly; Domain=hcd.ca.gov; Max-Age=3600; Secure; SameSite=None"
+    },
+    {
+      "name": "set-cookie",
+      "value": "x-ms-routing-name=self; path=/; HttpOnly; Domain=hcd.ca.gov; Max-Age=3600; Secure; SameSite=None"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-drupal-cache",
+      "value": "UNCACHEABLE (response policy)"
+    },
+    {
+      "name": "x-drupal-dynamic-cache",
+      "value": "UNCACHEABLE (response policy)"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-generator",
+      "value": "Drupal 10 (https://www.drupal.org)"
+    },
+    {
+      "name": "x-ms-middleware-request-id",
+      "value": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "PHP/8.3.26"
+    }
+  ],
+  "contentSize": 114394,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.facebook.com/CaliforniaHCD",
+    "https://twitter.com/California_HCD",
+    "https://www.youtube.com/channel/UC7ciVAlNzF0vHlJ9kkMm1HA",
+    "https://www.linkedin.com/company/californiahcd",
+    "https://www.instagram.com/california_hcd/",
+    "https://www.facebook.com/",
+    "https://twitter.com/California_HCD",
+    "https://www.youtube.com/channel/UC7ciVAlNzF0vHlJ9kkMm1HA",
+    "https://www.linkedin.com/company/californiahcd",
+    "https://www.instagram.com/california_hcd/"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

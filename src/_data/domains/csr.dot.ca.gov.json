@@ -4,13 +4,54 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Submit Customer Service Request",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:10.436Z",
+  "finalUrl": "https://csr.dot.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "no-store, no-cache, must-revalidate"
+    },
+    {
+      "name": "connection",
+      "value": "Keep-Alive"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:07 GMT"
+    },
+    {
+      "name": "expires",
+      "value": "Thu, 19 Nov 1981 08:52:00 GMT"
+    },
+    {
+      "name": "keep-alive",
+      "value": "timeout=2, max=500"
+    },
+    {
+      "name": "pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "set-cookie",
+      "value": "ci_session=qbe8uk8dr9t9b8p931m5uvduict16q97; expires=Sat, 24 Jan 2026 01:08:07 GMT; Max-Age=7200; path=/; secure; HttpOnly; SameSite=Lax"
+    },
+    {
+      "name": "set-cookie",
+      "value": "TS0178dfc2=01ccba8e7f27d4ed25462bb8e9b50989d0c76b0451a73dc8b4588726b532001249d776b0b979ba06d08bc100ca24028dba5ca716d279d3564df43524382f3ca20ef41bbd85; Path=/"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    }
+  ],
+  "contentSize": 100308,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

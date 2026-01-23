@@ -4,20 +4,140 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Home - The Academy",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:41.788Z",
+  "finalUrl": "https://theacademy.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "accept-ranges",
+      "value": "bytes"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-length",
+      "value": "39848"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:36 GMT"
+    },
+    {
+      "name": "fastly-restarts",
+      "value": "1"
+    },
+    {
+      "name": "link",
+      "value": "<https://theacademy.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://theacademy.ca.gov/wp-json/wp/v2/pages/19>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://theacademy.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "no-referrer-when-downgrade"
+    },
+    {
+      "name": "server",
+      "value": "Flywheel/5.1.0"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-cache",
+      "value": "MISS, HIT"
+    },
+    {
+      "name": "x-cache-hits",
+      "value": "0, 0"
+    },
+    {
+      "name": "x-cacheable",
+      "value": "YES"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-fw-dynamic",
+      "value": "TRUE"
+    },
+    {
+      "name": "x-fw-hash",
+      "value": "7oehxoyt6n"
+    },
+    {
+      "name": "x-fw-serve",
+      "value": "TRUE"
+    },
+    {
+      "name": "x-fw-server",
+      "value": "Flywheel/5.1.0"
+    },
+    {
+      "name": "x-fw-static",
+      "value": "NO"
+    },
+    {
+      "name": "x-fw-type",
+      "value": "FLYWHEEL_BOT"
+    },
+    {
+      "name": "x-fw-version",
+      "value": "5.0.0"
+    },
+    {
+      "name": "x-served-by",
+      "value": "cache-sjc10060-SJC, cache-sjc1000114-SJC"
+    },
+    {
+      "name": "x-tec-api-origin",
+      "value": "https://theacademy.ca.gov"
+    },
+    {
+      "name": "x-tec-api-root",
+      "value": "https://theacademy.ca.gov/wp-json/tribe/events/v1/"
+    },
+    {
+      "name": "x-tec-api-version",
+      "value": "v1"
+    },
+    {
+      "name": "x-timer",
+      "value": "S1769209716.102564,VS0,VE4"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1"
+    }
+  ],
+  "contentSize": 238697,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "http://www.facebook.com/SBRPSTC",
+    "http://www.twitter.com/SBRPSTC",
+    "http://www.instagram.com/SBRPSTC",
+    "http://www.facebook.com/SBRPSTC",
+    "http://www.twitter.com/SBRPSTC",
+    "http://www.instagram.com/SBRPSTC"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

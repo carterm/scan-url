@@ -4,13 +4,78 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "West Contra Costa Healthcare District",
+  "lastStatus": 200,
+  "lastChecked": "2026-01-23T23:08:41.271Z",
+  "finalUrl": "https://wcchd.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "alt-svc",
+      "value": "h3=\":443\"; ma=86400"
+    },
+    {
+      "name": "cache-control",
+      "value": "max-age=289, must-revalidate"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "br"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "date",
+      "value": "Fri, 23 Jan 2026 23:08:39 GMT"
+    },
+    {
+      "name": "host-header",
+      "value": "wpcloud"
+    },
+    {
+      "name": "last-modified",
+      "value": "Thu, 22 Jan 2026 21:43:46 GMT"
+    },
+    {
+      "name": "link",
+      "value": "<https://wcchd.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://wcchd.ca.gov/wp-json/wp/v2/pages/5>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://wcchd.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "server-timing",
+      "value": "a8c-cdn, dc;desc=sjc, cache;desc=STALE;dur=4.0"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding, Cookie"
+    },
+    {
+      "name": "x-ac",
+      "value": "3.sjc _atomic_bur STALE"
+    },
+    {
+      "name": "x-nananana",
+      "value": "Batcache-Hit"
+    }
+  ],
+  "contentSize": 42513,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
