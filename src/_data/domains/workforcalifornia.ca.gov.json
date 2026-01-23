@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Work for California",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:40.846Z",
   "finalUrl": "https://www.workforcalifornia.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -31,10 +30,6 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:39 GMT"
-    },
-    {
       "name": "pragma",
       "value": "no-cache"
     },
@@ -45,18 +40,6 @@
     {
       "name": "server",
       "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "set-cookie",
-      "value": ".AspNetCore.Antiforgery.cdV5uW_Ejgc=CfDJ8AO88hqgfkRMrOAFfThVUZJMSTOgG0URZTsRnDYUlsFOWhT1ZU2Shm2JfVL5lUnYJTFyWqyZqm5gKkUtvZ95f52BMRMaVzHE-rw4GfmF7s10qdwh84jYXGUzZZXVBVrqvOf3ivZH-2fbUkstjjN4KW8; path=/; samesite=strict; httponly"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ARRAffinity=9d716053ef092553e7bdd2639d89f002241b80715630c2dbb839c205a5e8d5f8;Path=/;HttpOnly;Secure;Domain=app-chr-workforca-public-web-prod01.chraseintprod.appserviceenvironment.net"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ARRAffinitySameSite=9d716053ef092553e7bdd2639d89f002241b80715630c2dbb839c205a5e8d5f8;Path=/;HttpOnly;SameSite=None;Secure;Domain=app-chr-workforca-public-web-prod01.chraseintprod.appserviceenvironment.net"
     },
     {
       "name": "strict-transport-security",
@@ -79,7 +62,6 @@
       "value": "ASP.NET"
     }
   ],
-  "contentSize": 30283,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

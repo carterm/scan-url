@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "BSCC – Board of State and Community Corrections",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:07:59.492Z",
   "finalUrl": "https://www.bscc.ca.gov/",
   "metaGenerator": "CAWeb v.1.6.4",
   "responseHeaders": [
@@ -23,16 +22,8 @@
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "20309"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:58 GMT"
     },
     {
       "name": "keep-alive",
@@ -47,7 +38,6 @@
       "value": "Accept-Encoding,Cookie"
     }
   ],
-  "contentSize": 117119,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

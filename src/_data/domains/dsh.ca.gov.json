@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California Department of State Hospitals",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:15.274Z",
   "finalUrl": "https://www.dsh.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -15,28 +14,12 @@
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "11867"
-    },
-    {
       "name": "content-type",
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:11 GMT"
-    },
-    {
       "name": "server",
       "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ARRAffinity=d1edccc01c344a970d60b9212632f67857689793b6311e7123b8f655c4053268;Path=/;HttpOnly;Secure;Domain=www.dsh.ca.gov"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ARRAffinitySameSite=d1edccc01c344a970d60b9212632f67857689793b6311e7123b8f655c4053268;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.dsh.ca.gov"
     },
     {
       "name": "vary",
@@ -47,7 +30,6 @@
       "value": "ASP.NET"
     }
   ],
-  "contentSize": 43967,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

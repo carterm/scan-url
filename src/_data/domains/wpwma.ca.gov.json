@@ -6,14 +6,9 @@
   "includeInScan": true,
   "title": "Home - Western Placer Waste Management Authority",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:45.218Z",
   "finalUrl": "https://wpwma.ca.gov/",
   "metaGenerator": "WordPress 6.9",
   "responseHeaders": [
-    {
-      "name": "age",
-      "value": "251"
-    },
     {
       "name": "alt-svc",
       "value": "h3=\":443\"; ma=86400"
@@ -27,10 +22,6 @@
       "value": "HIT"
     },
     {
-      "name": "cf-ray",
-      "value": "9c2af44d1fa232b9-SMF"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -41,10 +32,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:40 GMT"
     },
     {
       "name": "ki-cache-tag",
@@ -80,15 +67,11 @@
     },
     {
       "name": "report-to",
-      "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=cpKVz3gqhU6iPFNLKBvkdoKCEne8Xj8HsHsr4Hs0QUmQ1bXHjnFujsetEUjV1Yj5%2BWUU%2ByJLt9F%2B6uZuVcNsr6AUqwT5gh5Bpmq2GB0htNot0rA00kVFpUlMTEhH66ZOtpWOz2jK8CkQsg%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+      "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=dTHlEewyMKiNG8YHXlXeoJLHN%2F98YXDIYlGeGT6bRdDLYcX0izwAcbSby7eYZUmgkA5cvICOzS7vfjB0lKnX3KxPMVsI9qJ4BxyC%2FfDXtMZylU8BWlcz45bN1ph0EvfV5yRa2ElH%2BT3Ejg%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
     },
     {
       "name": "server",
       "value": "cloudflare"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__cf_bm=Fajn_9FI7jCnFAKKljOcTbVn7jBbSCB5K5HcjxdQxPI-1769209720-1.0.1.1-IQgWuxKIoGlMEk4Nr0l2qjNhD10VG1ZEj45.tfkeJu.iY60vCxOy5n2SBNZWIM4I40678Rx6fKUiIJi.YtBkYhVkToL8fG5XCuKIMihteTY; path=/; expires=Fri, 23-Jan-26 23:38:40 GMT; domain=.wpwma.ca.gov; HttpOnly; Secure; SameSite=None"
     },
     {
       "name": "transfer-encoding",
@@ -111,7 +94,6 @@
       "value": "HIT"
     }
   ],
-  "contentSize": 594152,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

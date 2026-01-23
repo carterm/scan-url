@@ -6,17 +6,12 @@
   "includeInScan": true,
   "title": "Home Page | Trinidad CA",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:39.684Z",
   "finalUrl": "https://www.trinidad.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
     {
       "name": "accept-ranges",
       "value": "bytes"
-    },
-    {
-      "name": "age",
-      "value": "11869"
     },
     {
       "name": "cache-control",
@@ -31,10 +26,6 @@
       "value": "DYNAMIC"
     },
     {
-      "name": "cf-ray",
-      "value": "9c2af43a5a5c9e56-SJC"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -47,24 +38,12 @@
       "value": "en"
     },
     {
-      "name": "content-length",
-      "value": "8554"
-    },
-    {
       "name": "content-security-policy",
       "value": "default-src 'self' * blob: data:; script-src * about: 'unsafe-inline' 'unsafe-eval'; object-src 'self'; style-src * 'unsafe-inline'; img-src * data: blob:; media-src * blob: data:; frame-ancestors 'self'; upgrade-insecure-requests"
     },
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:37 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "\"1769197846\""
     },
     {
       "name": "expires",
@@ -99,14 +78,6 @@
       "value": "04live"
     },
     {
-      "name": "x-cache",
-      "value": "HIT"
-    },
-    {
-      "name": "x-cache-hits",
-      "value": "46"
-    },
-    {
       "name": "x-content-type-options",
       "value": "nosniff"
     },
@@ -131,7 +102,6 @@
       "value": "v-cf64e8ea-f894-11f0-a485-ef1cf599ce89"
     }
   ],
-  "contentSize": 38613,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

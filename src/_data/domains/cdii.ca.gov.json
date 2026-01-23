@@ -6,13 +6,12 @@
   "includeInScan": true,
   "title": "Homepage - CDII",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:07.184Z",
   "finalUrl": "https://www.cdii.ca.gov/",
   "metaGenerator": "All in One SEO (AIOSEO) 4.9.1.1",
   "responseHeaders": [
     {
       "name": "cache-control",
-      "value": "max-age=2715, public"
+      "value": "max-age=1167, public"
     },
     {
       "name": "connection",
@@ -25,14 +24,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:04 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "\"07938cff6f153140dc1cb96bd449d588\""
     },
     {
       "name": "expires",
@@ -91,7 +82,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 240962,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

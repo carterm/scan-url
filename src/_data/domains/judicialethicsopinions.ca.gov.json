@@ -6,17 +6,12 @@
   "includeInScan": true,
   "title": "California Supreme Court Committee on Judicial Ethics Opinions - CJEO",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:23.389Z",
   "finalUrl": "https://www.judicialethicsopinions.ca.gov/",
   "metaGenerator": "All in One SEO (AIOSEO) 4.4.8",
   "responseHeaders": [
     {
       "name": "accept-ranges",
       "value": "bytes"
-    },
-    {
-      "name": "age",
-      "value": "0"
     },
     {
       "name": "cache-control",
@@ -31,16 +26,8 @@
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "41545"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:19 GMT"
     },
     {
       "name": "link",
@@ -63,35 +50,18 @@
       "value": "1.1 varnish, 1.1 varnish"
     },
     {
-      "name": "x-cache",
-      "value": "MISS, MISS"
-    },
-    {
-      "name": "x-cache-hits",
-      "value": "0, 0"
-    },
-    {
       "name": "x-pantheon-styx-hostname",
-      "value": "styx-fe4-b-86cbf58b65-42ffj"
+      "value": "styx-fe4-a-7f76c9f659-wgnps"
     },
     {
       "name": "x-pingback",
       "value": "https://www.judicialethicsopinions.ca.gov/xmlrpc.php"
     },
     {
-      "name": "x-served-by",
-      "value": "cache-chi-klot8100076-CHI, cache-sjc10043-SJC"
-    },
-    {
       "name": "x-styx-req-id",
-      "value": "682a48c5-f8b0-11f0-a692-9ec2a5bc62b0"
-    },
-    {
-      "name": "x-timer",
-      "value": "S1769209699.365224,VS0,VE289"
+      "value": "af29f96c-f8b2-11f0-acda-522b4a88e6b9"
     }
   ],
-  "contentSize": 125844,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

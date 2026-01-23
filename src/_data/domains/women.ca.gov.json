@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "CCSWG | California Commission on Status of Women and Girls",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:43.695Z",
   "finalUrl": "https://women.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af44a08ad32b7-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:40 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://women.ca.gov/>; rel=shortlink"
     },
@@ -59,10 +50,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "__cf_bm=I10UBqkO5E32dYKarMFKrz_cYjYFq8pFLMEy5GIUsVk-1769209720-1.0.1.1-6ibqcejEe8HYGJlqtqpT1g7KYeKwE1qOm7hpkipgXlNTl3qtpptfpOCFUpt6z62qffXwqtAxZNUjvACIydqGTVYyO1GhNApSIRpy06XEGHw; path=/; expires=Fri, 23-Jan-26 23:38:40 GMT; domain=.women.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -73,10 +60,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS"
     },
     {
       "name": "x-cache-group",
@@ -107,7 +90,6 @@
       "value": "v1"
     }
   ],
-  "contentSize": 229587,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

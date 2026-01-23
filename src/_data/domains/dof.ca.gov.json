@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California Department of Finance",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:13.143Z",
   "finalUrl": "https://dof.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -19,23 +18,14 @@
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:12 GMT"
-    },
-    {
       "name": "server",
       "value": "volt-adc"
     },
     {
       "name": "transfer-encoding",
       "value": "chunked"
-    },
-    {
-      "name": "x-envoy-upstream-service-time",
-      "value": "21"
     }
   ],
-  "contentSize": 18416,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

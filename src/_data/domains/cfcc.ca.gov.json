@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California Financing Coordinating Committee (CFCC)",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:06.884Z",
   "finalUrl": "https://www.cfcc.ca.gov/",
   "metaGenerator": "CAWeb v.1.5.2a",
   "responseHeaders": [
@@ -31,12 +30,8 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:05 GMT"
-    },
-    {
       "name": "expires",
-      "value": "Fri, 23 Jan 2026 23:18:05 GMT"
+      "value": "Fri, 23 Jan 2026 23:43:52 GMT"
     },
     {
       "name": "last-modified",
@@ -79,7 +74,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 141936,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

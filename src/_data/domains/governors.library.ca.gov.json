@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Governors of California",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:18.365Z",
   "finalUrl": "https://www.governors.library.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -15,16 +14,8 @@
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "16690"
-    },
-    {
       "name": "content-type",
       "value": "text/html"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:16 GMT"
     },
     {
       "name": "server",
@@ -43,7 +34,6 @@
       "value": "DENY"
     }
   ],
-  "contentSize": 70447,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

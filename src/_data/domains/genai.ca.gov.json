@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "GenAI | Generative Artificial Intelligence",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:21.239Z",
   "finalUrl": "https://www.genai.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af3bc0f2c6e7e-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:17 GMT"
-    },
-    {
       "name": "expires",
       "value": "Wed, 11 Jan 1984 05:00:00 GMT"
     },
@@ -63,10 +54,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "__cf_bm=IOfP9p8GYnK7uKQYVdRx1qMCGlTrgJIhz1.6kh9vaZQ-1769209697-1.0.1.1-j8rDGnjNlvTof7tReGqmq91jjL7UBaUxu3RCICECZQnh7jwELr3uWz_Xx6IdlH3QgA_Smy24E25G5BrVLfqaqa9.RFPk.a8LEM0M_vmpw40; path=/; expires=Fri, 23-Jan-26 23:38:17 GMT; domain=.www.genai.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -77,10 +64,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS"
     },
     {
       "name": "x-cache-group",
@@ -103,7 +86,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 86563,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

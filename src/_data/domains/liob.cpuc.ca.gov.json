@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "LIOB | Low Income Oversight Board",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:27.972Z",
   "finalUrl": "https://liob.cpuc.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af3dd3b8cd7cf-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:23 GMT"
-    },
-    {
       "name": "expires",
       "value": "Wed, 11 Jan 1984 05:00:00 GMT"
     },
@@ -63,10 +54,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "__cf_bm=gpoK8TjaSrtHpuJYXZ0whWyJLn5.ENUL7O_vgSqcmj0-1769209703-1.0.1.1-RTn47P74doTKRilkDPk18JJLwhnsSuPvp9d4pGdtWqsnbX7rjHk4PYDOmDf5CmSGsyhgw38MmDigKCYy0yPUJ8NBq859fJrUSfHlnONic0U; path=/; expires=Fri, 23-Jan-26 23:38:23 GMT; domain=.liob.cpuc.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -77,10 +64,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS"
     },
     {
       "name": "x-cache-group",
@@ -103,7 +86,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 131534,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

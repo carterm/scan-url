@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Parentage |",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:32.728Z",
   "finalUrl": "https://parentage.dcss.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af3fa0c88a495-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:28 GMT"
-    },
-    {
       "name": "expires",
       "value": "Wed, 11 Jan 1984 05:00:00 GMT"
     },
@@ -63,14 +54,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "caweb-alert-0=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; secure; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__cf_bm=OHSNxfXRlWmvwycM6kUURLsk4yRg2i_ruLFYoVELx8Y-1769209707-1.0.1.1-Y7leZeEwghQx3qYjPsUdZ.8lFkgNNI6_e9Ywh5Aecr2DQ8AGMXMUdDj7Y3qaC8F8AUQMcFq07L8VH_y0R2g2v0s.luhcSvST64iMJnqyv6Y; path=/; expires=Fri, 23-Jan-26 23:38:27 GMT; domain=.parentage.dcss.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -81,10 +64,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS"
     },
     {
       "name": "x-cache-group",
@@ -107,7 +86,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 148483,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

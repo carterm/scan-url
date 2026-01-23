@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "C-ROB – California Rehabilitation Oversight Board",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:11.084Z",
   "finalUrl": "https://crob.ca.gov/",
   "metaGenerator": "WordPress 6.9",
   "responseHeaders": [
@@ -17,10 +16,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:04 GMT"
     },
     {
       "name": "keep-alive",
@@ -55,7 +50,6 @@
       "value": "v1"
     }
   ],
-  "contentSize": 114481,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Governor of California",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:23.000Z",
   "finalUrl": "https://www.gov.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af3bc78c76e7e-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:16 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://www.gov.ca.gov/>; rel=shortlink"
     },
@@ -59,18 +50,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "cagov-alert-0=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "caweb-alert-0=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; secure; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__cf_bm=Hzlz0E_Q1ilpUeRBEDymny3cHUtuD0PLImKVfxpWqRE-1769209696-1.0.1.1-rjtcltnOeTUcMRsgP_XFne0.KJhTZIgPQp29_QbBTYP17g1V7jph_TcUMp2q.CL.Z1hvVMezBUuyG1n7kdG7DP4LCopZmpEBONjfh0nu6nM; path=/; expires=Fri, 23-Jan-26 23:38:16 GMT; domain=.www.gov.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -81,10 +60,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache",
-      "value": "HIT: 160"
     },
     {
       "name": "x-cache-group",
@@ -103,7 +78,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 290463,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

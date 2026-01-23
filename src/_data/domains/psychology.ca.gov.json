@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California Board of Psychology",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:30.065Z",
   "finalUrl": "https://www.psychology.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -31,20 +30,12 @@
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:29 GMT"
-    },
-    {
       "name": "keep-alive",
-      "value": "timeout=5, max=99"
+      "value": "timeout=5, max=16"
     },
     {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS01e1d73c=01ed741c229c314d774d81e676602ec266b45ff263ac58e4a0eac582e5ddb9c32f305356a7be060c1c9d33e4db6172b75e6f1f98c6; Path=/; Domain=.www.psychology.ca.gov"
     },
     {
       "name": "strict-transport-security",
@@ -67,7 +58,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 34120,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Department of Consumer Affairs (DCA)",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:11.678Z",
   "finalUrl": "https://www.dca.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -31,20 +30,12 @@
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:11 GMT"
-    },
-    {
       "name": "keep-alive",
-      "value": "timeout=5, max=76"
+      "value": "timeout=5, max=86"
     },
     {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS017502fb=01ed741c22184a558b45b2c02448dcf8904093bede40834b92524466f8c04f1cfe6f1d8691de1be04b6492fd76496501d2c8ccdacd; Path=/; Domain=.www.dca.ca.gov"
     },
     {
       "name": "strict-transport-security",
@@ -67,7 +58,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 61485,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

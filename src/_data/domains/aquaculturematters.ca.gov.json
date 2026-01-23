@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Aquaculture Matters – Why aquaculture in California matters",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:02.199Z",
   "finalUrl": "https://aquaculturematters.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -16,7 +15,7 @@
     },
     {
       "name": "cache-control",
-      "value": "max-age=295, must-revalidate"
+      "value": "max-age=300, must-revalidate"
     },
     {
       "name": "connection",
@@ -31,16 +30,12 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:56 GMT"
-    },
-    {
       "name": "host-header",
       "value": "WordPress.com"
     },
     {
       "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 22:48:42 GMT"
+      "value": "Fri, 23 Jan 2026 23:30:42 GMT"
     },
     {
       "name": "link",
@@ -52,7 +47,7 @@
     },
     {
       "name": "server-timing",
-      "value": "a8c-cdn, dc;desc=sjc, cache;desc=STALE;dur=2.0"
+      "value": "a8c-cdn, dc;desc=bur, cache;desc=HIT;dur=1.0"
     },
     {
       "name": "strict-transport-security",
@@ -68,7 +63,7 @@
     },
     {
       "name": "x-ac",
-      "value": "4.sjc _atomic_bur STALE"
+      "value": "20.bur _atomic_bur HIT"
     },
     {
       "name": "x-hacker",
@@ -76,10 +71,9 @@
     },
     {
       "name": "x-nananana",
-      "value": "Batcache-Hit"
+      "value": "Batcache-Set"
     }
   ],
-  "contentSize": 264919,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

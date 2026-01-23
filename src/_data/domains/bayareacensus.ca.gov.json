@@ -6,25 +6,12 @@
   "includeInScan": true,
   "title": "Bay Area Census: We've Moved",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:07:57.003Z",
   "finalUrl": "http://www.bayareacensus.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
     {
-      "name": "content-length",
-      "value": "3235"
-    },
-    {
       "name": "content-type",
       "value": "text/html"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:57 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "\"f4cad0013e25815e4fbb707e31de4f55\""
     },
     {
       "name": "last-modified",
@@ -36,18 +23,17 @@
     },
     {
       "name": "x-amz-id-2",
-      "value": "vaY0jakeqctKuhTarLz8ZwLVvrgrTzOvEOYaO4ywA2bF0PXXZOPC12f6sXAgpm5F8cELh1Egldc="
+      "value": "qwzSqLIpZHnAgPJQswGEVndn7FaJml9DxqTj4gUA1uVFZBZ00aGAT0cEjmCsgcF2XgWjDvO0C/w="
     },
     {
       "name": "x-amz-request-id",
-      "value": "0MPY8SYW7H5K95J2"
+      "value": "NS6R3MTQXT6Z5K5K"
     },
     {
       "name": "x-amz-version-id",
       "value": "c52hFsQV9LmuQpfDKTfXFBOjG76ZGq4S"
     }
   ],
-  "contentSize": 3235,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

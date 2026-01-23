@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "PASS Login",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:27.677Z",
   "finalUrl": "https://pass.post.ca.gov/login",
   "metaGenerator": null,
   "responseHeaders": [
@@ -31,10 +30,6 @@
       "value": "text/html;charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:27 GMT"
-    },
-    {
       "name": "expires",
       "value": "0"
     },
@@ -45,10 +40,6 @@
     {
       "name": "pragma",
       "value": "no-cache"
-    },
-    {
-      "name": "set-cookie",
-      "value": "org.springframework.web.servlet.i18n.CookieLocaleResolver.LOCALE=und; Path=/; Secure; HttpOnly; SameSite=Lax"
     },
     {
       "name": "strict-transport-security",
@@ -72,14 +63,13 @@
     },
     {
       "name": "x-requestid",
-      "value": "117db67b-d04c-4348-95e6-f814d6d1115c"
+      "value": "bb764fa0-d470-48d7-9022-67270d9e0a64"
     },
     {
       "name": "x-xss-protection",
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 23207,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

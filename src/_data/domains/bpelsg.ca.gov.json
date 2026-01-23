@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Board for Professional Engineers, Land Surveyors, and Geologists",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:07:57.709Z",
   "finalUrl": "https://www.bpelsg.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -31,20 +30,12 @@
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:57 GMT"
-    },
-    {
       "name": "keep-alive",
-      "value": "timeout=5, max=54"
+      "value": "timeout=5, max=57"
     },
     {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS0127f0f8=01ed741c22445b7bfa0c486c8a40a924db846e4b7ff350f042d1b820369e34e0fd84e32ec0e96e99bb56b072b06ec124cc840f3fc4; Path=/; Domain=.www.bpelsg.ca.gov"
     },
     {
       "name": "strict-transport-security",
@@ -67,7 +58,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 39066,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

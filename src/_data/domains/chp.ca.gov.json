@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California Highway Patrol",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:06.815Z",
   "finalUrl": "https://www.chp.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -17,10 +16,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af3750f1a32b4-SMF"
     },
     {
       "name": "connection",
@@ -35,10 +30,6 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:05 GMT"
-    },
-    {
       "name": "request-context",
       "value": "appId=cid-v1:21534320-bb29-41ca-aef3-2d002fe6c966"
     },
@@ -47,23 +38,10 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "EPiStateMarker=true; path=/; secure"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ARRAffinity=d8322addb6412232c846137d85fc06ced103bf44f839bade99f113a38ab98d3c;Path=/;HttpOnly;Secure;Domain=www.chp.ca.gov"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ARRAffinitySameSite=d8322addb6412232c846137d85fc06ced103bf44f839bade99f113a38ab98d3c;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.chp.ca.gov"
-    },
-    {
       "name": "transfer-encoding",
       "value": "chunked"
     }
   ],
-  "contentSize": 37118,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "CleanCalifornia | Caltrans",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:06.535Z",
   "finalUrl": "https://cleancalifornia.dot.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -19,16 +18,8 @@
       "value": "no-cache, no-store"
     },
     {
-      "name": "content-length",
-      "value": "64323"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:04 GMT"
     },
     {
       "name": "expires",
@@ -44,19 +35,7 @@
     },
     {
       "name": "server-timing",
-      "value": "dtSInfo;desc=\"0\", dtRpid;desc=\"1524281433\""
-    },
-    {
-      "name": "set-cookie",
-      "value": "shell#lang=en; path=/; secure; SameSite=None"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ASP.NET_SessionId=ovxpoext5uh1tbeuksg3kngz; path=/; secure; HttpOnly; SameSite=None"
-    },
-    {
-      "name": "set-cookie",
-      "value": "dtCookie=v_4_srv_5_sn_C9F8F55DB73026BAAA6B9BB11A44E2E3_perc_100000_ol_0_mul_1_app-3Aac09c9fedeecc4e2_1_rcs-3Acss_0; Path=/; Domain=.ca.gov"
+      "value": "dtSInfo;desc=\"0\", dtRpid;desc=\"-348843919\""
     },
     {
       "name": "x-oneagent-js-injection",
@@ -67,7 +46,6 @@
       "value": "true"
     }
   ],
-  "contentSize": 64323,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -6,13 +6,12 @@
   "includeInScan": true,
   "title": "AskEDD",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:07:58.792Z",
   "finalUrl": "https://askedd.edd.ca.gov/s/",
   "metaGenerator": null,
   "responseHeaders": [
     {
       "name": "akamai-grn",
-      "value": "0.20a7cb17.1769209676.386cda23"
+      "value": "0.4ba7cb17.1769211225.732f3165"
     },
     {
       "name": "cache-control",
@@ -27,32 +26,24 @@
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "21574"
-    },
-    {
       "name": "content-security-policy",
       "value": "upgrade-insecure-requests, frame-ancestors 'self'; report-uri /_/commcsp?disposition=enforce"
     },
     {
       "name": "content-security-policy-report-only",
-      "value": "frame-src *.force.com https://player.vimeo.com 'self' https://stats.g.doubleclick.net *.youtube.co.uk https://sfdc-link-preview.hk.salesforce.com https://checkoutshopper-test.adyen.com/ https://pal-test.adyen.com *.cybersource.com *.youtube.es *.adis.ws *.youtube.ie https://www.youtube.com *.cloudinary.com https://pay.google.com https://api.ipify.org *.vimeo.com *.youtube.jp bcove.video *.youtube.fr https://player.cloudinary.com https://sfdc-link-preview-staging.sfdc.sh https://s1.adis.ws *.forceusercontent.com *.youtube.com *.brightcove.net *.youtube.nl https://service.force.com/embeddedservice/ https://fast.wistia.net *.quip.com *.arkoselabs.com *.youtube-nocookie.com https://www.paypal.com https://appiniummastertrial.secure.force.com https://play.vidyard.com https://*.c.forceusercontent.com/lightningmaps/ https://eddcontact.file.force.com *.youtube.com.br *.salesforce-experience.com *.salesforceliveagent.com https://scormanywhere.secure.force.com https://checkoutshopper-live.adyen.com/ *.sfdcfc.net *.youtube.ca https://location.force.com *.vidyard.com https://www.gstatic.com/recaptcha/ https://players.brightcove.net https://*.c.forceusercontent.com https://cdn.embedly.com https://www.google.com/recaptcha/ https://js.stripe.com/ https://www.sandbox.paypal.com https://www.googletagmanager.com *.wistia.net https://www.google-analytics.com *.salesforce.com https://usa9020.sfdc-pu91w7.salesforce.com *.youtube.pl; report-to sfdc-csp-ep; report-uri https://eddcontact.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Dt00000004XiB&networkId=0DMt00000008OzP&type=communities"
+      "value": "font-src *.force.com https://api.ipify.org https://fonts.gstatic.com/ 'self' https://stats.g.doubleclick.net https://www.googletagmanager.com https://www.google-analytics.com *.salesforce.com blob: data:; report-to sfdc-csp-ep; report-uri https://eddcontact.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Dt00000004XiB&networkId=0DMt00000008OzP&type=communities"
     },
     {
       "name": "content-type",
       "value": "text/html;charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:57 GMT"
-    },
-    {
       "name": "expires",
-      "value": "Thu, 23 Jan 2025 23:07:56 GMT"
+      "value": "Thu, 23 Jan 2025 23:33:45 GMT"
     },
     {
       "name": "last-modified",
-      "value": "Thu, 23 Jan 2025 23:07:56 GMT"
+      "value": "Thu, 23 Jan 2025 23:33:45 GMT"
     },
     {
       "name": "link",
@@ -60,7 +51,7 @@
     },
     {
       "name": "report-to",
-      "value": "{\"max_age\":31536000,\"endpoints\":[{\"url\":\"https://eddcontact.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Dt00000004XiB&networkId=0DMt00000008OzP&type=communities\"}],\"group\":\"sfdc-csp-ep\"}"
+      "value": "{\"endpoints\":[{\"url\":\"https://eddcontact.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Dt00000004XiB&networkId=0DMt00000008OzP&type=communities\"}],\"max_age\":31536000,\"group\":\"sfdc-csp-ep\"}"
     },
     {
       "name": "reporting-endpoints",
@@ -68,19 +59,7 @@
     },
     {
       "name": "server-timing",
-      "value": "Headers;dur=52"
-    },
-    {
-      "name": "set-cookie",
-      "value": "CookieConsentPolicy=0:1; path=/; expires=Sat, 23-Jan-2027 23:07:56 GMT; Max-Age=31536000; secure"
-    },
-    {
-      "name": "set-cookie",
-      "value": "LSKey-c$CookieConsentPolicy=0:1; path=/; expires=Sat, 23-Jan-2027 23:07:56 GMT; Max-Age=31536000; secure"
-    },
-    {
-      "name": "set-cookie",
-      "value": "renderCtx=%7B%22pageId%22%3A%2285af8b4f-c249-43ba-b864-3b9b42e6fcec%22%2C%22schema%22%3A%22Published%22%2C%22viewType%22%3A%22Published%22%2C%22brandingSetId%22%3A%225c70b636-0815-446c-be9b-2d0364fefd27%22%2C%22audienceIds%22%3A%22%22%7D; path=/s; secure"
+      "value": "Headers;dur=43"
     },
     {
       "name": "strict-transport-security",
@@ -107,7 +86,6 @@
       "value": "no-cache,must-revalidate,max-age=0,no-store,private"
     }
   ],
-  "contentSize": 112692,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

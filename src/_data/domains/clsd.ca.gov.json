@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Coast Life Support District – Ambulance & collaborative healthcare services for southern Mendocino and northern Sonoma County coastal communities",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:08.129Z",
   "finalUrl": "https://clsd.ca.gov/",
   "metaGenerator": "WordPress 6.9",
   "responseHeaders": [
@@ -29,10 +28,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:06 GMT"
     },
     {
       "name": "link",
@@ -63,10 +58,6 @@
       "value": "Accept-Encoding"
     },
     {
-      "name": "x-cache",
-      "value": "HIT"
-    },
-    {
       "name": "x-content-type-options",
       "value": "nosniff"
     },
@@ -83,7 +74,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 118671,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

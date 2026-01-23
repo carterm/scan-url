@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Welcome - California Acupuncture Board",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:07:56.737Z",
   "finalUrl": "https://www.acupuncture.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -31,20 +30,12 @@
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:56 GMT"
-    },
-    {
       "name": "keep-alive",
-      "value": "timeout=5, max=99"
+      "value": "timeout=5, max=52"
     },
     {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS019864b7=01ed741c221c525c0ac2b026fcdf3b0b6787c2b6a1c92be02ab4c1504aeb28182a81ff4cbd9aae8b6d845b08f8d5e1e85fe72dfffb; Path=/; Domain=.www.acupuncture.ca.gov"
     },
     {
       "name": "strict-transport-security",
@@ -67,7 +58,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 30704,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

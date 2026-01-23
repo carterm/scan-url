@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "OYCR - Office of Youth and Community Restoration",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:34.437Z",
   "finalUrl": "https://oycr.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af3f7f9483403-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:28 GMT"
-    },
-    {
       "name": "expires",
       "value": "Wed, 11 Jan 1984 05:00:00 GMT"
     },
@@ -63,22 +54,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "caweb-alert-0=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; secure; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "caweb-alert-1=1; path=/; secure; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "caweb-alert-2=1; path=/; secure; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__cf_bm=M0oRTcpUa4pjK8QMMUgpfmaZOLJUvTBmnOOBKJ2A7Qo-1769209708-1.0.1.1-rXkKMWyeQKAiDpP51B.ZOZXLLShIDZOxoyfnIt.5ru1lcceX2fHlPCnuaHd0xmuUV37NxQo1G.YgbtybWYvBKk6B87M7XkTxHqL7PsE7ln0; path=/; expires=Fri, 23-Jan-26 23:38:28 GMT; domain=.oycr.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -89,10 +64,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS"
     },
     {
       "name": "x-cache-group",
@@ -127,7 +98,6 @@
       "value": "v1"
     }
   ],
-  "contentSize": 258950,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Login Template Title",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:42.201Z",
   "finalUrl": "https://tourism.ca.gov/s/login/?language=en_US",
   "metaGenerator": null,
   "responseHeaders": [
@@ -31,16 +30,12 @@
       "value": "text/html;charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:37 GMT"
-    },
-    {
       "name": "expires",
-      "value": "Thu, 23 Jan 2025 23:08:36 GMT"
+      "value": "Thu, 23 Jan 2025 23:34:18 GMT"
     },
     {
       "name": "last-modified",
-      "value": "Thu, 23 Jan 2025 23:08:36 GMT"
+      "value": "Thu, 23 Jan 2025 23:34:18 GMT"
     },
     {
       "name": "link",
@@ -48,7 +43,7 @@
     },
     {
       "name": "report-to",
-      "value": "{\"max_age\":31536000,\"endpoints\":[{\"url\":\"https://visitcalifornia.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Df4000002a9aF&networkId=0DM2T000000TNfN&type=communities\"}],\"group\":\"sfdc-csp-ep\"}"
+      "value": "{\"endpoints\":[{\"url\":\"https://visitcalifornia.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Df4000002a9aF&networkId=0DM2T000000TNfN&type=communities\"}],\"max_age\":31536000,\"group\":\"sfdc-csp-ep\"}"
     },
     {
       "name": "reporting-endpoints",
@@ -60,23 +55,7 @@
     },
     {
       "name": "server-timing",
-      "value": "Headers;dur=162"
-    },
-    {
-      "name": "set-cookie",
-      "value": "CookieConsentPolicy=0:1; path=/; expires=Sat, 23-Jan-2027 23:08:36 GMT; Max-Age=31536000; secure"
-    },
-    {
-      "name": "set-cookie",
-      "value": "LSKey-c$CookieConsentPolicy=0:1; path=/; expires=Sat, 23-Jan-2027 23:08:36 GMT; Max-Age=31536000; secure"
-    },
-    {
-      "name": "set-cookie",
-      "value": "PicassoLanguage89583dbc-f049-4b58-b730-cf9e1684a983Published=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0"
-    },
-    {
-      "name": "set-cookie",
-      "value": "renderCtx=%7B%22pageId%22%3A%22df16c311-ce17-490d-a52a-2e8918ad1bb4%22%2C%22schema%22%3A%22Published%22%2C%22viewType%22%3A%22Published%22%2C%22brandingSetId%22%3A%22a98c555e-c77f-4374-a63a-5a107f2d69c9%22%2C%22audienceIds%22%3A%22%22%7D; path=/s; secure"
+      "value": "Headers;dur=95"
     },
     {
       "name": "strict-transport-security",
@@ -103,7 +82,6 @@
       "value": "ALLOWALL"
     }
   ],
-  "contentSize": 511519,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

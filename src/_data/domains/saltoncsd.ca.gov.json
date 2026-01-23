@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Homepage Salton Community Services District",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:32.780Z",
   "finalUrl": "https://saltoncsd.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -23,36 +22,12 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:31 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "W/\"e277763728fa50d6be475ff90479634b\""
-    },
-    {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
     },
     {
       "name": "server",
       "value": "nginx"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ahoy_visitor=6ba5ef32-ec13-4517-94e4-50f761ad2114; path=/; expires=Sun, 23 Jan 2028 23:08:31 GMT"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ahoy_visit=ba7cff28-9ae4-42f5-adf4-a2ff36dc54b6; path=/; expires=Sat, 24 Jan 2026 03:08:31 GMT"
-    },
-    {
-      "name": "set-cookie",
-      "value": "XSRF-TOKEN=4TKEOTP7CwhYuX5ytMFUUTZSfqDKG6UtTupgMKKe1UgYQb3By%2B97icRFhFb7Dz%2Fi0RApSMhMe3Qf0Z9qzkHd8A%3D%3D; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "_traction_session=6FK0kGI1%2F01pWW7aDTKakHMPkD9VqjRPY6CJ83tYEMiF8BFgnuiPjskp%2ByfDlLCvNEYhwItG9iIO9lXKbS%2FQWqFBfgkp8L09CY6E7775yMvgxqkRIUobJdXERE7iml1wiYTu9EvpZtpzlnFtGl0%3D--xd%2FspZG%2F91RaaRDx--DmqVacYxfA%2FSi4p6Mu9g7Q%3D%3D; path=/; HttpOnly"
     },
     {
       "name": "strict-transport-security",
@@ -80,18 +55,17 @@
     },
     {
       "name": "x-request-id",
-      "value": "e41251d9-259e-4231-ab74-048cd9d45a3d"
+      "value": "19a94eb0-6e65-47d6-9510-e2a8600ec715"
     },
     {
       "name": "x-runtime",
-      "value": "0.043977"
+      "value": "0.051603"
     },
     {
       "name": "x-xss-protection",
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 88985,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

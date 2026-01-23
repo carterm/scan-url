@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Department of Consumer Affairs - California Board of Naturopathic Medicine",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:23.903Z",
   "finalUrl": "https://www.naturopathic.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -31,20 +30,12 @@
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:23 GMT"
-    },
-    {
       "name": "keep-alive",
-      "value": "timeout=5, max=34"
+      "value": "timeout=5, max=89"
     },
     {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS01e45ea5=01ed741c22c0e6fa9984a40e695862de37723bf110a6f9320df704213d18ced6cc190a0c57c1b4e287273fa3cb4a51fa465e4b9ba4; Path=/; Domain=.www.naturopathic.ca.gov"
     },
     {
       "name": "strict-transport-security",
@@ -67,7 +58,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 41888,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

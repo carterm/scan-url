@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "First 5 California - Improving Lives of California's Children and Families",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:04.013Z",
   "finalUrl": "https://www.ccfc.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -15,16 +14,8 @@
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "15712"
-    },
-    {
       "name": "content-type",
       "value": "text/html"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:01 GMT"
     },
     {
       "name": "server",
@@ -39,7 +30,6 @@
       "value": "ASP.NET"
     }
   ],
-  "contentSize": 74576,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

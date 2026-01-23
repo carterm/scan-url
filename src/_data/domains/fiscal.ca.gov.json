@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "FI$Cal - State of California. One state. One system.|",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:18.244Z",
   "finalUrl": "https://fiscal.ca.gov/",
   "metaGenerator": "Divi Child v.3.11.1.1533591462",
   "responseHeaders": [
@@ -23,20 +22,12 @@
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "34667"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:15 GMT"
-    },
-    {
       "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 22:58:53 GMT"
+      "value": "Fri, 23 Jan 2026 23:29:01 GMT"
     },
     {
       "name": "permissions-policy",
@@ -49,14 +40,6 @@
     {
       "name": "server",
       "value": "nginx"
-    },
-    {
-      "name": "set-cookie",
-      "value": "gaffinityCORS=e74a47e86681209e95f251b7b76e340e; Path=/; SameSite=None; Secure"
-    },
-    {
-      "name": "set-cookie",
-      "value": "gaffinity=e74a47e86681209e95f251b7b76e340e; Path=/"
     },
     {
       "name": "strict-transport-security",
@@ -76,7 +59,7 @@
     },
     {
       "name": "x-ms-middleware-request-id",
-      "value": "572f71c9-942d-4dfd-907f-8114f6beb66f"
+      "value": "7eb1ccda-6ffd-4ba4-b71d-b1b608f949d5"
     },
     {
       "name": "x-powered-by",
@@ -87,7 +70,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 203723,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

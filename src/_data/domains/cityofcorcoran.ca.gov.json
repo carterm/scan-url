@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Corcoran, Ca",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:07.071Z",
   "finalUrl": "https://cityofcorcoran.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -19,20 +18,12 @@
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "12359"
-    },
-    {
       "name": "content-security-policy",
       "value": "frame-ancestors 'self'"
     },
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:06 GMT"
     },
     {
       "name": "referrer-policy",
@@ -59,7 +50,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 52822,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

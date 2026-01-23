@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "BOPC - Board of Pilot Commissioners",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:05.006Z",
   "finalUrl": "https://bopc.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af340d99d32b7-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:59 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://bopc.ca.gov/>; rel=shortlink"
     },
@@ -59,14 +50,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "caweb-alert-0=1; path=/; secure; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__cf_bm=q2SD3ajdA6cA5pmO.5wHZbF6cl6vSBl8ovUXsjLbE9E-1769209679-1.0.1.1-cFNnKEMXONKtHSDpEL1fabo03ASTMCmIrmPwAEdBYdsyKdO0lY8a4UPwqX8fJQBhilFAKMcGkxlKL3XSw2EbDB7u71D43hClUbs42AOGGOM; path=/; expires=Fri, 23-Jan-26 23:37:59 GMT; domain=.bopc.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -77,10 +60,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS"
     },
     {
       "name": "x-cache-group",
@@ -111,7 +90,6 @@
       "value": "v1"
     }
   ],
-  "contentSize": 211470,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

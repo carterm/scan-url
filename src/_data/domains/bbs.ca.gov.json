@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Board of Behavioral Sciences (BBS)",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:07:57.246Z",
   "finalUrl": "https://www.bbs.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -31,20 +30,12 @@
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:57 GMT"
-    },
-    {
       "name": "keep-alive",
-      "value": "timeout=5, max=66"
+      "value": "timeout=5, max=64"
     },
     {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS01cf5a94=01ed741c22bcf9d59f7594ddc7c5a33c8967459ed6925dec61e1d585edd9c3cba3ae3ceb2018da748d944924551d710a2c76708b49; Path=/; Domain=.www.bbs.ca.gov"
     },
     {
       "name": "strict-transport-security",
@@ -67,7 +58,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 54094,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

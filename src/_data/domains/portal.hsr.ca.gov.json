@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:29.598Z",
   "finalUrl": "https://portal.hsr.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -19,20 +18,8 @@
       "value": "close"
     },
     {
-      "name": "content-length",
-      "value": "212"
-    },
-    {
       "name": "content-type",
       "value": "text/html"
-    },
-    {
-      "name": "set-cookie",
-      "value": "visid_incap_2171022=27smstyVRmiiHK9f1tyoy23/c2kAAAAAQUIPAAAAAACwcw9D2yez5lCkUL/qXdlI; expires=Sat, 23 Jan 2027 09:35:21 GMT; HttpOnly; path=/; Domain=.hsr.ca.gov; Secure; SameSite=None"
-    },
-    {
-      "name": "set-cookie",
-      "value": "incap_ses_177_2171022=K3QrLLxIg2T0rZIXpdR0Am3/c2kAAAAAAR1BeYZIfvCCIstb8IQbPA==; path=/; Domain=.hsr.ca.gov; Secure; SameSite=None"
     },
     {
       "name": "strict-transport-security",
@@ -40,10 +27,9 @@
     },
     {
       "name": "x-iinfo",
-      "value": "54-275316150-0 0NNN RT(1769209708134 1253) q(0 -1 -1 16) r(1 -1) B10(4,289,0) U18"
+      "value": "39-108693418-0 0NNN RT(1769211251570 1072) q(0 -1 -1 -1) r(0 -1) B12(4,315,0) U18"
     }
   ],
-  "contentSize": 212,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

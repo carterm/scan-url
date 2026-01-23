@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California Earthquake Early Warning – California Earthquake Early Warning Information",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:17.221Z",
   "finalUrl": "https://www.earthquake.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.0",
   "responseHeaders": [
@@ -23,24 +22,12 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:13 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "\"5f77abfd1f0790d24b4f194db0be3126\""
-    },
-    {
       "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 22:22:15 GMT"
+      "value": "Fri, 23 Jan 2026 23:00:21 GMT"
     },
     {
       "name": "link",
       "value": "<https://www.earthquake.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.earthquake.ca.gov/wp-json/wp/v2/pages/341>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.earthquake.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ApplicationGatewayAffinity=78783145a90b4bd168abbdbbc9ea74f8; Path=/"
     },
     {
       "name": "transfer-encoding",
@@ -49,17 +36,8 @@
     {
       "name": "vary",
       "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-azure-ref",
-      "value": "20260123T230813Z-16f45f5c75b9bm4qhC1BY1spzw0000001vu000000000150b"
-    },
-    {
-      "name": "x-cache",
-      "value": "CONFIG_NOCACHE"
     }
   ],
-  "contentSize": 198641,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

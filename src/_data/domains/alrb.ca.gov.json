@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "ALRB | The California Agricultural Labor Relations Board was created in 1975 to ensure peace in the fields of California by guaranteeing justice for all agricultural workers and stability in agricultural labor relations. The Board seeks to achieve these ends by providing orderly processes for protecting, implementing, and enforcing the respective rights and responsibilities of employees, employers and labor organizations in their relations with each other.",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:01.179Z",
   "finalUrl": "https://www.alrb.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af33a48b832bd-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:56 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://www.alrb.ca.gov/>; rel=shortlink"
     },
@@ -59,18 +50,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "caweb-alert-0=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; secure; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "caweb-alert-1=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; secure; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__cf_bm=PfFAENXY38J2TfBNtQsjn5LEGLM621c6l_66tr4zaps-1769209676-1.0.1.1-9nKjH6UYdtYOAYcD.qITrhtB0TDy2WOYizkIISrfasAFwWRei7_0wwyJuAzGPIiz6ck7jvscbaTfFSVrsc3_weN6O6SDWAcGgSkBVuM18Gc; path=/; expires=Fri, 23-Jan-26 23:37:56 GMT; domain=.www.alrb.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -81,10 +60,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache",
-      "value": "HIT: 4"
     },
     {
       "name": "x-cache-group",
@@ -115,7 +90,6 @@
       "value": "v1"
     }
   ],
-  "contentSize": 407789,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

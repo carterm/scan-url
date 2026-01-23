@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Homepage | California State Senate",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:33.952Z",
   "finalUrl": "https://www.senate.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -17,10 +16,6 @@
     {
       "name": "access-control-allow-origin",
       "value": "https://senatetv.calegis.net"
-    },
-    {
-      "name": "age",
-      "value": "88"
     },
     {
       "name": "cache-control",
@@ -39,24 +34,12 @@
       "value": "en"
     },
     {
-      "name": "content-length",
-      "value": "9619"
-    },
-    {
       "name": "content-security-policy",
       "value": "default-src https: data: 'unsafe-inline' 'unsafe-eval' blob: www.youtube.com www.googletagmanager.com; script-src 'unsafe-eval' 'unsafe-inline'  'self' google.com www.googletagmanager.com www.google.com www.gstatic.com cdnjs.cloudflare.com cdn.jsdelivr.net unpkg.com ssl.p.jwpcdn.com www.googletagmanager.com www.google-analytics.com leganaiwebp2.calegis.net ajax.googleapis.com ssl.p.jwpcdn.com  translate.google.com; style-src 'unsafe-inline'  *; img-src 'self' data: https:; media-src 'self' blob: data:  https: stream.assembly.ca.gov stream.assembly.ca.gov:1935 stream.senate.ca.gov stream.senate.ca.gov:1935; frame-src  https: *.youtu.be *.youtube.com youtu.be; frame-ancestors *.assembly.ca.gov *.calegis.net; child-src 'self' blob: www.google.com www.gstatic.com www.youtube.com player.vimeo.com ssl.p.jwpcdn.com; font-src 'self' fonts.gstatic.com themes.googleusercontent.com data:; report-uri /report-csp-violation; upgrade-insecure-requests"
     },
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 19:22:37 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "\"1769196157-gzip\""
     },
     {
       "name": "feature-policy",
@@ -72,7 +55,7 @@
     },
     {
       "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 19:22:37 GMT"
+      "value": "Fri, 23 Jan 2026 23:15:45 GMT"
     },
     {
       "name": "referrer-policy",
@@ -96,15 +79,11 @@
     },
     {
       "name": "x-cache-age",
-      "value": "88"
-    },
-    {
-      "name": "x-cache-hits",
-      "value": "15"
+      "value": "128"
     },
     {
       "name": "x-cache-ttl-remaining",
-      "value": "2629657.436"
+      "value": "2629617.207"
     },
     {
       "name": "x-cacheable",
@@ -136,7 +115,7 @@
     },
     {
       "name": "x-varnish",
-      "value": "50871553 50713401"
+      "value": "46985565 48741518"
     },
     {
       "name": "x-varnish-cache",
@@ -151,7 +130,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 52395,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

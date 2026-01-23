@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "State Treasurer's Office",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:38.885Z",
   "finalUrl": "https://www.treasurer.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -23,24 +22,8 @@
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:36 GMT"
-    },
-    {
       "name": "server",
       "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ASPSESSIONIDQEBTQRBQ=EBGNADJBAJMJHAMJJHHPDFDE; secure; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "visid_incap_2930660=bdPScGyOTqSNbUN2x7riJHT/c2kAAAAAQUIPAAAAAAA+DuhSFQnd4Qc3wj3Bm63g; expires=Sat, 23 Jan 2027 08:19:57 GMT; HttpOnly; path=/; Domain=.treasurer.ca.gov"
-    },
-    {
-      "name": "set-cookie",
-      "value": "incap_ses_605_2930660=t3gCMu7fl1l7dLQ/ZWRlCHT/c2kAAAAA70TVRXryylevTKOUQHsxPQ==; path=/; Domain=.treasurer.ca.gov"
     },
     {
       "name": "transfer-encoding",
@@ -52,14 +35,13 @@
     },
     {
       "name": "x-iinfo",
-      "value": "53-235372121-235372255 NNYN CT(8 30 0) RT(1769209716351 379) q(0 0 0 1) r(1 1) U24"
+      "value": "52-257649378-257649579 NNYY CT(15 42 0) RT(1769211258321 378) q(0 1 1 78) r(1 1) U24"
     },
     {
       "name": "x-powered-by",
       "value": "ASP.NET"
     }
   ],
-  "contentSize": 38942,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

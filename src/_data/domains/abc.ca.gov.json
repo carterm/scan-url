@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Alcoholic Beverage Control | Trust - Innovation - Professionalism",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:07:58.277Z",
   "finalUrl": "https://www.abc.ca.gov/",
   "metaGenerator": "CAWeb v.1.1.4b",
   "responseHeaders": [
@@ -27,10 +26,6 @@
       "value": "DYNAMIC"
     },
     {
-      "name": "cf-ray",
-      "value": "9c2af339da72d7cf-SMF"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -41,10 +36,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:55 GMT"
     },
     {
       "name": "last-modified",
@@ -59,20 +50,12 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "__cf_bm=Vfex8NYK3zFezyHzwf8nLYM2ZEcPRS.Ru2lcruCIguc-1769209675-1.0.1.1-O4k60BkDELr0h0FEstURyjy89PRZaM6bRroK5V7A78P5LmVCBeO_hz10jCikbVmQdKCPGhEsxRWM1TGA8WEz134J2Mv7m96VpwxwGWhbTlU; path=/; expires=Fri, 23-Jan-26 23:37:55 GMT; domain=.www.abc.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "transfer-encoding",
       "value": "chunked"
     },
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache",
-      "value": "HIT: 372"
     },
     {
       "name": "x-cache-group",
@@ -91,7 +74,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 123379,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

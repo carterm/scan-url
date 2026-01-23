@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Taxes | California Tax Service Center",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:40.603Z",
   "finalUrl": "https://taxes.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "BYPASS"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af4314f1d32b7-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:36 GMT"
-    },
-    {
       "name": "expires",
       "value": "Wed, 11 Jan 1984 05:00:00 GMT"
     },
@@ -63,14 +54,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "caweb-alert-0=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; secure; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__cf_bm=dyIAC6RQFftUOZhZl3GKByDnkwkfaW20iOAjG0bhg.Y-1769209716-1.0.1.1-SXLv9J3PxZex4mKziGNsm.lyYmNFucMrx1DufMBzvd9Jvr0CMu6e6viqHuTu4TM_aLREjWM862Qv14z2eDY4bDV9KAIrFbwlOEfIFyJq10M; path=/; expires=Fri, 23-Jan-26 23:38:36 GMT; domain=.taxes.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -81,10 +64,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS"
     },
     {
       "name": "x-cache-group",
@@ -107,7 +86,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 128736,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

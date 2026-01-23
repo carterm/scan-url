@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Department of Conservation Map Server",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:21.904Z",
   "finalUrl": "https://maps.conservation.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -23,24 +22,12 @@
       "value": "keep-alive"
     },
     {
-      "name": "content-length",
-      "value": "39716"
-    },
-    {
       "name": "content-type",
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:21 GMT"
-    },
-    {
-      "name": "x-azure-ref",
-      "value": "20260123T230821Z-r1cf444f6d6bbpmshC1BY1rru40000001sb000000000b8b4"
-    },
-    {
-      "name": "x-cache",
-      "value": "TCP_HIT"
+      "name": "x-cache-info",
+      "value": "L1_T2"
     },
     {
       "name": "x-fd-int-roxy-purgeid",
@@ -51,7 +38,6 @@
       "value": "ASP.NET"
     }
   ],
-  "contentSize": 39713,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

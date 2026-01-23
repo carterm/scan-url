@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Home Page - California Energy Commission",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:33.341Z",
   "finalUrl": "https://seeds.energy.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -15,32 +14,12 @@
       "value": "private"
     },
     {
-      "name": "content-length",
-      "value": "29769"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:31 GMT"
-    },
-    {
       "name": "server",
       "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ASP.NET_SessionId=dhbq2hkgxvh3jpwe0gij1xzz; path=/; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ASP.NET_SessionId=dhbq2hkgxvh3jpwe0gij1xzz; path=/; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__AntiXsrfToken=fc82624a532e4105bcfab8ae33827ed9; path=/; HttpOnly"
     },
     {
       "name": "x-aspnet-version",
@@ -51,7 +30,6 @@
       "value": "ASP.NET"
     }
   ],
-  "contentSize": 29769,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

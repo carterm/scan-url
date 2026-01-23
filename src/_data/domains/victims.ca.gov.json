@@ -6,17 +6,12 @@
   "includeInScan": true,
   "title": "CalVCB - CA Victim Compensation Board",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:38.404Z",
   "finalUrl": "https://victims.ca.gov/",
   "metaGenerator": "WordPress 6.8.3",
   "responseHeaders": [
     {
-      "name": "age",
-      "value": "27"
-    },
-    {
       "name": "cache-control",
-      "value": "max-age=176, must-revalidate"
+      "value": "max-age=300, must-revalidate"
     },
     {
       "name": "connection",
@@ -31,12 +26,8 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:10 GMT"
-    },
-    {
       "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 23:06:06 GMT"
+      "value": "Fri, 23 Jan 2026 23:34:19 GMT"
     },
     {
       "name": "link",
@@ -60,19 +51,15 @@
     },
     {
       "name": "via",
-      "value": "1.1 4b259f0713185d35b300d672958b1cb6.cloudfront.net (CloudFront)"
+      "value": "1.1 6b6864bce40e8c6517571357636f0dbe.cloudfront.net (CloudFront)"
     },
     {
       "name": "x-amz-cf-id",
-      "value": "B9bDSDvnS2rm9z18sOkPUuPJ--vzSFsvW7hKOj5_sxHKt48REe6o7w=="
+      "value": "hzBT4u2OuHNOSdWJiPpRCIlJAVWJfL1LExGQ6gEHvO24BVxtA-wzwg=="
     },
     {
       "name": "x-amz-cf-pop",
-      "value": "LAX54-P8"
-    },
-    {
-      "name": "x-cache",
-      "value": "Hit from cloudfront"
+      "value": "SFO53-P7"
     },
     {
       "name": "x-content-type-options",
@@ -87,7 +74,6 @@
       "value": "EXPIRED"
     }
   ],
-  "contentSize": 72889,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -6,17 +6,12 @@
   "includeInScan": true,
   "title": "Home Page - California Arts Council",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:03.761Z",
   "finalUrl": "https://arts.ca.gov/",
   "metaGenerator": "WordPress 6.8.2",
   "responseHeaders": [
     {
       "name": "accept-ranges",
       "value": "bytes"
-    },
-    {
-      "name": "age",
-      "value": "488"
     },
     {
       "name": "cache-control",
@@ -31,16 +26,8 @@
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "61285"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:56 GMT"
     },
     {
       "name": "link",
@@ -63,24 +50,12 @@
       "value": "1.1 varnish, 1.1 varnish"
     },
     {
-      "name": "x-cache",
-      "value": "HIT, HIT"
-    },
-    {
-      "name": "x-cache-hits",
-      "value": "3, 0"
-    },
-    {
       "name": "x-pantheon-styx-hostname",
-      "value": "styx-fe4-a-7f76c9f659-x5m9m"
-    },
-    {
-      "name": "x-served-by",
-      "value": "cache-chi-klot8100062-CHI, cache-sjc1000132-SJC"
+      "value": "styx-fe4-a-7f76c9f659-t59kw"
     },
     {
       "name": "x-styx-req-id",
-      "value": "357e2f03-f8af-11f0-8c89-667b86bf9276"
+      "value": "ac8a4674-f8b3-11f0-ab33-1a4d72d53a85"
     },
     {
       "name": "x-tec-api-origin",
@@ -93,13 +68,8 @@
     {
       "name": "x-tec-api-version",
       "value": "v1"
-    },
-    {
-      "name": "x-timer",
-      "value": "S1769209676.269106,VS0,VE3"
     }
   ],
-  "contentSize": 392461,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

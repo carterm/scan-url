@@ -6,14 +6,9 @@
   "includeInScan": true,
   "title": "Home | The State Bar of California",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:03.000Z",
   "finalUrl": "https://www.calbar.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
-    {
-      "name": "age",
-      "value": "787"
-    },
     {
       "name": "cache-control",
       "value": "max-age=86400, public"
@@ -39,14 +34,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:58 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "W/\"1769208884\""
-    },
-    {
       "name": "expires",
       "value": "Sun, 19 Nov 1978 05:00:00 GMT"
     },
@@ -60,7 +47,7 @@
     },
     {
       "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 22:54:44 GMT"
+      "value": "Fri, 23 Jan 2026 23:24:59 GMT"
     },
     {
       "name": "referrer-policy",
@@ -87,14 +74,6 @@
       "value": "1.1 varnish, 1.1 varnish"
     },
     {
-      "name": "x-cache",
-      "value": "HIT, HIT"
-    },
-    {
-      "name": "x-cache-hits",
-      "value": "2, 2"
-    },
-    {
       "name": "x-content-type-options",
       "value": "nosniff"
     },
@@ -116,26 +95,17 @@
     },
     {
       "name": "x-pantheon-styx-hostname",
-      "value": "styx-fe1-a-6c5bdb56b8-4vkbk"
-    },
-    {
-      "name": "x-served-by",
-      "value": "cache-chi-klot8100096-CHI, cache-dfw-kdfw8210120-DFW"
+      "value": "styx-fe1-b-6d866b556d-t57ll"
     },
     {
       "name": "x-styx-req-id",
-      "value": "82b58f47-f8ae-11f0-b4fa-0eea13fe9734"
-    },
-    {
-      "name": "x-timer",
-      "value": "S1769209679.690228,VS0,VE2"
+      "value": "bc58cd94-f8b2-11f0-8591-3ef852c08ca4"
     },
     {
       "name": "x-xss-protection",
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 406304,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

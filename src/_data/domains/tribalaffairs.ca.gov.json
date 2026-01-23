@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "The Governor's Office of Tribal Affairs |",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:43.176Z",
   "finalUrl": "https://tribalaffairs.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af4397c916e7e-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:37 GMT"
-    },
-    {
       "name": "expires",
       "value": "Wed, 11 Jan 1984 05:00:00 GMT"
     },
@@ -63,10 +54,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "__cf_bm=x6GCtGTxWyF_xmDQu7hq.acHNrqodgqB31mDwyNWoHo-1769209717-1.0.1.1-.iUmaCGB5r4p_XyrKfxkfOnCBZLXPRHOiJ9nxv8SzFqN.Bqa77.zrAmFzhaPCC5bpJrPsZsTbvr45ko2qH6JPvl7q1u8WywVlAo5L8zzgZ0; path=/; expires=Fri, 23-Jan-26 23:38:37 GMT; domain=.tribalaffairs.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -77,10 +64,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS"
     },
     {
       "name": "x-cache-group",
@@ -103,7 +86,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 226837,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

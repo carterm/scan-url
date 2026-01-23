@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Welcome to the Bureau of Security and Investigative Services",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:07:58.627Z",
   "finalUrl": "https://www.bsis.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -31,20 +30,12 @@
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:58 GMT"
-    },
-    {
       "name": "keep-alive",
-      "value": "timeout=5, max=99"
+      "value": "timeout=5, max=46"
     },
     {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS0133cb64=01ed741c227453658e647599e94afd26337a48d0557583f8b4f41de4b7a1596376592525bfc961169d98fd610a26362c7e24224093; Path=/; Domain=.www.bsis.ca.gov"
     },
     {
       "name": "strict-transport-security",
@@ -67,7 +58,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 42547,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

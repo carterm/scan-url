@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Hello Savings!",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:19.797Z",
   "finalUrl": "https://hellosavings.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -19,16 +18,8 @@
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "5740"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:18 GMT"
     },
     {
       "name": "server",
@@ -47,7 +38,6 @@
       "value": "ASP.NET"
     }
   ],
-  "contentSize": 14753,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

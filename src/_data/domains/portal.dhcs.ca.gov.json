@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Login for DHCS Application Portal",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:29.272Z",
   "finalUrl": "https://portal.dhcs.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -15,28 +14,12 @@
       "value": "bytes"
     },
     {
-      "name": "age",
-      "value": "35278"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
     {
-      "name": "content-length",
-      "value": "12000"
-    },
-    {
       "name": "content-type",
       "value": "text/html"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 13:21:04 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "\"707f91612ea7f8cdae7447eff8a30c63\""
     },
     {
       "name": "last-modified",
@@ -48,11 +31,11 @@
     },
     {
       "name": "via",
-      "value": "1.1 d10240e7319a7132a723389f68b24380.cloudfront.net (CloudFront)"
+      "value": "1.1 f17e2ae5998b0b8b03850e97d88e04a6.cloudfront.net (CloudFront)"
     },
     {
       "name": "x-amz-cf-id",
-      "value": "aoiiv_r1HTnd4YqhPp1zgIQ1ZLhB6VKSXDv79SvO2V0wWUwLMUVEnQ=="
+      "value": "4fwgj72DAZ6nbLfZwgq_VaTVjgu5JNUR_L_QRTGSRi4JQR3RpSewGA=="
     },
     {
       "name": "x-amz-cf-pop",
@@ -65,13 +48,8 @@
     {
       "name": "x-amz-version-id",
       "value": "1UyugqNCRjtG0aOLFQ9u.bZB8kkkUH13"
-    },
-    {
-      "name": "x-cache",
-      "value": "Hit from cloudfront"
     }
   ],
-  "contentSize": 11997,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

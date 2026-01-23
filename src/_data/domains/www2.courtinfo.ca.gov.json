@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California Court News",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:41.086Z",
   "finalUrl": "https://www2.courtinfo.ca.gov/ccn/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:40 GMT"
     },
     {
       "name": "referrer-policy",
@@ -43,15 +38,10 @@
       "value": "nosniff"
     },
     {
-      "name": "x-envoy-upstream-service-time",
-      "value": "50"
-    },
-    {
       "name": "x-volterra-location",
       "value": "b-sv10-sjc"
     }
   ],
-  "contentSize": 19637,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

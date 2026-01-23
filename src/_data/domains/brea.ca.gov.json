@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California Bureau of Real Estate Appraisers",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:07:57.789Z",
   "finalUrl": "https://www.brea.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -31,12 +30,8 @@
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:57 GMT"
-    },
-    {
       "name": "keep-alive",
-      "value": "timeout=5, max=75"
+      "value": "timeout=5, max=63"
     },
     {
       "name": "referrer-policy",
@@ -63,7 +58,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 37629,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

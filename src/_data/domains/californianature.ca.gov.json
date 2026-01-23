@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "30x30 California",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:00.482Z",
   "finalUrl": "https://www.californianature.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -27,14 +26,6 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:59 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "W/\"134f4-9GEGEWh9ZqmYjY2gbObBZubT3ac\""
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000, max-age=31536000"
     },
@@ -47,7 +38,6 @@
       "value": "nosniff"
     }
   ],
-  "contentSize": 79092,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Office of Student Assistance and Relief",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:26.428Z",
   "finalUrl": "https://www.osar.bppe.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -31,12 +30,8 @@
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:26 GMT"
-    },
-    {
       "name": "keep-alive",
-      "value": "timeout=5, max=82"
+      "value": "timeout=5, max=19"
     },
     {
       "name": "referrer-policy",
@@ -63,7 +58,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 45155,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

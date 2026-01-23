@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "EMSA | Emergency Medical Services Authority",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:20.603Z",
   "finalUrl": "https://emsa.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af3a88be1d7cf-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:13 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://emsa.ca.gov/>; rel=shortlink"
     },
@@ -59,10 +50,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "__cf_bm=ukx6pxffDBX4R0Hs6Dc8LDc87NSCXTYmM6gz_3shJQA-1769209693-1.0.1.1-llAP87nYWwUP45Hm6pZqKyNIzVJGgvTNiJ_hEuUJZ3O83y3p7WX2hJGro3Ra7NTqqDsn7_pC9bfPSXwKdrWH7h018rickfmwmtXeaGYOPUc; path=/; expires=Fri, 23-Jan-26 23:38:13 GMT; domain=.emsa.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -73,10 +60,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache",
-      "value": "HIT: 14"
     },
     {
       "name": "x-cache-group",
@@ -95,7 +78,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 204158,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

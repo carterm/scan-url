@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California Coastal Commission",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:09.355Z",
   "finalUrl": "https://www.coastal.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -19,16 +18,8 @@
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "41930"
-    },
-    {
       "name": "content-type",
       "value": "text/html"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:06 GMT"
     },
     {
       "name": "server",
@@ -43,7 +34,6 @@
       "value": "ASP.NET"
     }
   ],
-  "contentSize": 165570,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

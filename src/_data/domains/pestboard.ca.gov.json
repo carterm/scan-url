@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Department of Consumer Affairs Structural Pest Control Board",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:29.073Z",
   "finalUrl": "https://www.pestboard.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -31,20 +30,12 @@
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:28 GMT"
-    },
-    {
       "name": "keep-alive",
       "value": "timeout=5, max=89"
     },
     {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS017b3670=01ed741c229cc506b71dfab300436b010207d387b1e0ca11cf34d22211455b841623c415237d5b5a84dd00aeb48865967bb4843bc5; Path=/; Domain=.www.pestboard.ca.gov"
     },
     {
       "name": "strict-transport-security",
@@ -67,7 +58,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 41505,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

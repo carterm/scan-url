@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Home page - Bureau of Automotive Repair",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:07:57.392Z",
   "finalUrl": "https://www.bar.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -23,20 +22,8 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:56 GMT"
-    },
-    {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "set-cookie",
-      "value": "BIGipServer~BAR_Web~pool_bar_web=!Ltqr8QBHMjz+QapgY+OTfj45VE50mUHlj3i0PLzWYroZFdZ1Qfw5W30mtaboUt//HpHqoLY92yQu3w==; Path=/; Version=1; Secure; Httponly"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS016a468b=01ed741c22cfdc467d6acda6b020709f94aba4b43b67387939f925f6a915f21cc137446aa2c43572c718e55c2d30eb54ec5c5e9d18; Path=/; Domain=.www.bar.ca.gov"
     },
     {
       "name": "strict-transport-security",
@@ -59,7 +46,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 40831,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

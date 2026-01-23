@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Home - Colorado River Board",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:16.662Z",
   "finalUrl": "https://crb.ca.gov/",
   "metaGenerator": "Site Kit by Google 1.168.0",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:16 GMT"
     },
     {
       "name": "link",
@@ -47,7 +42,6 @@
       "value": "SAMEORIGIN"
     }
   ],
-  "contentSize": 30077,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

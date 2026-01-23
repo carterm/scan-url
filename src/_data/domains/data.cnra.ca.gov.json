@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Welcome - California Natural Resources Agency Open Data",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:13.224Z",
   "finalUrl": "https://data.cnra.ca.gov/",
   "metaGenerator": "ckan 2.9.11",
   "responseHeaders": [
@@ -23,10 +22,6 @@
       "value": "DYNAMIC"
     },
     {
-      "name": "cf-ray",
-      "value": "9c2af3965f2ceb21-SJC"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -39,12 +34,8 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:11 GMT"
-    },
-    {
       "name": "expires",
-      "value": "Fri, 23 Jan 2026 23:08:10 GMT"
+      "value": "Fri, 23 Jan 2026 23:33:57 GMT"
     },
     {
       "name": "server",
@@ -67,7 +58,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 55226,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

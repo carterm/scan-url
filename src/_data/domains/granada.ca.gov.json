@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Homepage Granada Community Services District",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:21.821Z",
   "finalUrl": "https://granada.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -27,44 +26,12 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:16 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "W/\"6ed1cd386e15680be8726c312598bc08\""
-    },
-    {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
     },
     {
       "name": "server",
       "value": "nginx"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ahoy_visitor=d4750631-5bbb-4e30-9347-8039031d78cb; path=/; expires=Sun, 23 Jan 2028 23:08:16 GMT"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ahoy_visit=2e8ac1c8-200b-4c28-9934-c493c2d5b28c; path=/; expires=Sat, 24 Jan 2026 03:08:16 GMT"
-    },
-    {
-      "name": "set-cookie",
-      "value": "XSRF-TOKEN=nzt6u%2BwCTimCVxI6VlFQFwf8JusJMJD28lI7MF8ee2qJ%2BSxlu5%2BEFJMA18e%2Bn2f8MjAjmrgndP3s%2FXQvZHWEMw%3D%3D; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "_traction_session=8wR%2FDKsLpyRSyqaP5r6iV54RNNZ5IA4%2FHm%2FuQvO95aUfk3PGg1d8KOhDiCQi85JcVGNbAEnoXo4DjA0PtUqXZPy2Z0DZs7aCQb6ny1SmqZ3q3AIrncwGRdxum9BfomgZosAd2n6aoWj1RNGFw4I%3D--1ezW%2FU2k%2FkJtwwY6--TU9CqJu2qAj2w2rh0PLjuA%3D%3D; path=/; HttpOnly"
-    },
-    {
-      "name": "set-cookie",
-      "value": "visid_incap_2863987=NqrhOuh+ROCgodmeT11HDmD/c2kAAAAAQUIPAAAAAAC1VJ2TsQm4sYlsjcGc8TcO; expires=Sat, 23 Jan 2027 09:35:56 GMT; HttpOnly; path=/; Domain=.ca.gov"
-    },
-    {
-      "name": "set-cookie",
-      "value": "incap_ses_414_2863987=mjopEmPnPlKh4WiP6tK+BWD/c2kAAAAAFtxIv9vS/bmLHQmjpV9zIQ==; path=/; Domain=.ca.gov"
     },
     {
       "name": "strict-transport-security",
@@ -92,7 +59,7 @@
     },
     {
       "name": "x-iinfo",
-      "value": "9-2313429-2313430 NNNN CT(20 31 0) RT(1769209696453 186) q(0 0 1 1) r(1 2) U12"
+      "value": "45-81529305-81529397 NNNN CT(22 33 0) RT(1769211242034 332) q(0 0 1 -1) r(1 4) U12"
     },
     {
       "name": "x-permitted-cross-domain-policies",
@@ -100,18 +67,17 @@
     },
     {
       "name": "x-request-id",
-      "value": "b2767178-ac20-45ec-93c0-bb4361c95a27"
+      "value": "b1e719c3-e0e5-4de4-a56f-a443b30214c3"
     },
     {
       "name": "x-runtime",
-      "value": "0.040290"
+      "value": "0.207578"
     },
     {
       "name": "x-xss-protection",
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 100457,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

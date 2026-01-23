@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "EASTERN SIERRA COUNCIL OF GOVERNMENTS JOINT POWERS AUTHORITY",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:18.546Z",
   "finalUrl": "https://escog.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -15,28 +14,12 @@
       "value": "bytes"
     },
     {
-      "name": "age",
-      "value": "111701"
-    },
-    {
       "name": "content-encoding",
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "30525"
-    },
-    {
       "name": "content-type",
       "value": "text/html;charset=utf-8"
-    },
-    {
-      "name": "date",
-      "value": "Thu, 22 Jan 2026 16:06:32 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "W/\"6fab7cf0164f9bf581ac2156461b726c--gzip\""
     },
     {
       "name": "expires",
@@ -45,10 +28,6 @@
     {
       "name": "server",
       "value": "Squarespace"
-    },
-    {
-      "name": "set-cookie",
-      "value": "crumb=BRwp4k4lRKI+YjdmODRmNjc3Njc4NzUzOTliMjkxMDE4MjI1OGE4;Secure;Path=/"
     },
     {
       "name": "strict-transport-security",
@@ -64,14 +43,13 @@
     },
     {
       "name": "x-contextid",
-      "value": "yR48zpGC/uZj7kHE2"
+      "value": "jhHzdJQU/PETW7ZR9"
     },
     {
       "name": "x-frame-options",
       "value": "SAMEORIGIN"
     }
   ],
-  "contentSize": 257585,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Home : CA Department of Developmental Services",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:12.540Z",
   "finalUrl": "https://www.dds.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -19,20 +18,12 @@
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "14844"
-    },
-    {
       "name": "content-security-policy",
       "value": "frame-ancestors 'self' https://caddsprod.servicenowservices.com"
     },
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:11 GMT"
     },
     {
       "name": "link",
@@ -48,22 +39,17 @@
     },
     {
       "name": "via",
-      "value": "1.1 b0a911ba4778cdb479566c0f03452054.cloudfront.net (CloudFront)"
+      "value": "1.1 dfd304f8a9d0311c835e78943f8ff050.cloudfront.net (CloudFront)"
     },
     {
       "name": "x-amz-cf-id",
-      "value": "F-eb9ftwxOkQ5O04efIlFfYoBJQ0I3UW5IdzG06Sm_IaD1xerk9OOQ=="
+      "value": "krSARzj4AvkmWBUOMd273nQLdUYeV-TUFDFo5Mi6uO7iLWhTWgfi_Q=="
     },
     {
       "name": "x-amz-cf-pop",
       "value": "LAX53-P6"
-    },
-    {
-      "name": "x-cache",
-      "value": "Miss from cloudfront"
     }
   ],
-  "contentSize": 56563,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

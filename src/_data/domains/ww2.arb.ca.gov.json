@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Homepage | California Air Resources Board",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:41.145Z",
   "finalUrl": "https://ww2.arb.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -17,10 +16,6 @@
     {
       "name": "access-control-allow-origin",
       "value": "*"
-    },
-    {
-      "name": "age",
-      "value": "1855"
     },
     {
       "name": "cache-control",
@@ -39,20 +34,8 @@
       "value": "en"
     },
     {
-      "name": "content-length",
-      "value": "18856"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:39 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "\"1769207863\""
     },
     {
       "name": "expires",
@@ -60,7 +43,7 @@
     },
     {
       "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 22:37:43 GMT"
+      "value": "Fri, 23 Jan 2026 23:20:14 GMT"
     },
     {
       "name": "referrer-policy",
@@ -91,14 +74,6 @@
       "value": "prod"
     },
     {
-      "name": "x-cache",
-      "value": "HIT"
-    },
-    {
-      "name": "x-cache-hits",
-      "value": "187"
-    },
-    {
       "name": "x-content-type-options",
       "value": "nosniff"
     },
@@ -116,7 +91,7 @@
     },
     {
       "name": "x-request-id",
-      "value": "v-220e2338-f8ac-11f0-85c0-530cc741b26a"
+      "value": "v-123f17cc-f8b2-11f0-a866-e372ed9e5762"
     },
     {
       "name": "x-ua-compatible",
@@ -127,7 +102,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 58319,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

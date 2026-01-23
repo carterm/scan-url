@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "CDT - California Department of Technology",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:09.500Z",
   "finalUrl": "https://cdt.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af36da95a32b9-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:04 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://cdt.ca.gov/>; rel=shortlink"
     },
@@ -59,10 +50,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "__cf_bm=z26HhDU.1OOecQqb2DNGMBHT.vK7RIil6kO2xsvHgt4-1769209684-1.0.1.1-L5loYpYIP_LFYor6xsNEZcwJgGluMz5w_iS9QnpbAAS2gfuG3zxfANrtaUKC3x0cTENeZvhxy5WqXVnmXfZfZDYEwg3VW6p.kk2YiCPBO3Q; path=/; expires=Fri, 23-Jan-26 23:38:04 GMT; domain=.cdt.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -73,10 +60,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache",
-      "value": "HIT: 66"
     },
     {
       "name": "x-cache-group",
@@ -95,7 +78,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 200130,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Medal of Valor Awards - Home",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:22.073Z",
   "finalUrl": "https://medalofvalor.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -15,16 +14,8 @@
       "value": "private"
     },
     {
-      "name": "content-length",
-      "value": "10866"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:09:30 GMT"
     },
     {
       "name": "server",
@@ -39,7 +30,6 @@
       "value": "ASP.NET"
     }
   ],
-  "contentSize": 10866,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

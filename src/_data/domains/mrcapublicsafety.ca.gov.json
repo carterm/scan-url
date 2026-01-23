@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "MRCA Public Safety",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:22.748Z",
   "finalUrl": "http://www.mrcapublicsafety.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -15,24 +14,12 @@
       "value": "bytes"
     },
     {
-      "name": "content-length",
-      "value": "10876"
-    },
-    {
       "name": "content-location",
       "value": "http://www.mrcapublicsafety.ca.gov/index.html"
     },
     {
       "name": "content-type",
       "value": "text/html"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 21:49:17 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "\"0331e4b80d3d11:14f5\""
     },
     {
       "name": "last-modified",
@@ -47,7 +34,6 @@
       "value": "ASP.NET"
     }
   ],
-  "contentSize": 10876,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

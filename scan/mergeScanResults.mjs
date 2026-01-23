@@ -17,7 +17,6 @@ export function mergeScanResult(record, scan) {
   //
   // Core scan metadata
   //
-  updated.lastChecked = new Date().toISOString();
   updated.lastStatus = scan.lastStatus;
   updated.finalUrl = scan.finalUrl;
 
@@ -25,7 +24,6 @@ export function mergeScanResult(record, scan) {
   // Headers + protocol + size
   //
   updated.responseHeaders = scan.responseHeaders;
-  updated.contentSize = scan.contentSize;
 
   //
   // Page content

@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "CA Census | Be Counted, California!",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:11.427Z",
   "finalUrl": "https://census.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af36fdce83525-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:05 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://census.ca.gov/>; rel=shortlink"
     },
@@ -59,14 +50,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "caweb-alert-0=1; path=/; secure; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__cf_bm=yTfuaFT2p1BEyjY3T8F0H_D3UnGNt6APvWAvJcG3mhs-1769209685-1.0.1.1-zR8MdSjpv2twyTEvqAALQO_MQEI5MsJQY7XR58waT1IPPx61D131HvLiwIYBQ3t1t48VrU489gd5Hdlk_oOmyeei9_Q7irdmioLqvKQLaqY; path=/; expires=Fri, 23-Jan-26 23:38:05 GMT; domain=.census.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -77,10 +60,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS"
     },
     {
       "name": "x-cache-group",
@@ -99,7 +78,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 208176,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

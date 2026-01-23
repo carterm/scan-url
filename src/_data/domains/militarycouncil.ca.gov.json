@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Military Council | State of CA Governor's Military Council",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:29.356Z",
   "finalUrl": "https://militarycouncil.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af3ddfeb732b7-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:23 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://militarycouncil.ca.gov/>; rel=shortlink"
     },
@@ -59,10 +50,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "__cf_bm=nBytGCSODYude6z7HNyCJA1e9OnFMNEfpIBZCLini7E-1769209703-1.0.1.1-0qifhyrthw9jCU_yZGrRSyJEtnGPHooBSCofDbrzCJ06SHo0WV5c8tzmZ3bLPXKajLIpfilItvrdNg7tWthRE55SAp0KQuGTfBJLTjfwdA8; path=/; expires=Fri, 23-Jan-26 23:38:23 GMT; domain=.militarycouncil.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -73,10 +60,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS"
     },
     {
       "name": "x-cache-group",
@@ -95,7 +78,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 146450,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

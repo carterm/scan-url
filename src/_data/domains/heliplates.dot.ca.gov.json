@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Division of Aeronautics",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:18.649Z",
   "finalUrl": "https://heliplates.dot.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -19,28 +18,12 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:16 GMT"
-    },
-    {
       "name": "keep-alive",
       "value": "timeout=2, max=500"
     },
     {
       "name": "server-timing",
-      "value": "dtSInfo;desc=\"0\", dtRpid;desc=\"-508087839\""
-    },
-    {
-      "name": "set-cookie",
-      "value": "dtCookie=v_4_srv_6_sn_D35CA414C37C703F5854A1F58F7E9AA5_perc_100000_ol_0_mul_1_app-3A2fe244bf495007df_1_rcs-3Acss_0; Path=/; Domain=.ca.gov"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS0178dfc2=01ccba8e7f5dba700b859671a0f80fddc9fc4505ec295ac7a896ac6f2b65c11fee57ae1b4ce6b3c2b32e59d7131944b3e9d64fbd4e; Path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS01ef51aa=01ccba8e7ff5b53e97b3192ff8641ea85fc81da0a1295ac7a896ac6f2b65c11fee57ae1b4c2fb31060d1bd965f6ab89e72ec477dd8fbe48ab9c520c0511e49eeae6b603a4a; path=/; domain=.ca.gov"
+      "value": "dtSInfo;desc=\"0\", dtRpid;desc=\"1909968408\""
     },
     {
       "name": "transfer-encoding",
@@ -55,7 +38,6 @@
       "value": "true"
     }
   ],
-  "contentSize": 36864,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "San Joaquin River Conservancy – The San Joaquin River Conservancy is a regionally governed agency created to develop and manage the San Joaquin River Parkway",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:40.181Z",
   "finalUrl": "https://sjrc.ca.gov/",
   "metaGenerator": "Site Kit by Google 1.168.0",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:39 GMT"
     },
     {
       "name": "link",
@@ -47,7 +42,6 @@
       "value": "SAMEORIGIN"
     }
   ],
-  "contentSize": 29727,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

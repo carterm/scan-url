@@ -6,14 +6,9 @@
   "includeInScan": true,
   "title": "SCAC -- Homepage",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:33.169Z",
   "finalUrl": "https://scac.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
-    {
-      "name": "age",
-      "value": "37815"
-    },
     {
       "name": "alt-svc",
       "value": "h3=\":443\"; ma=86400"
@@ -29,14 +24,6 @@
     {
       "name": "content-type",
       "value": "text/html"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 12:38:18 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "W/\"1c1092f376f53190386451c9f1d3b02a\""
     },
     {
       "name": "last-modified",
@@ -56,11 +43,11 @@
     },
     {
       "name": "via",
-      "value": "1.1 bc08c4741561bfef91a350939b871d94.cloudfront.net (CloudFront)"
+      "value": "1.1 af5a2f02113f9d73125122a019cf6cbc.cloudfront.net (CloudFront)"
     },
     {
       "name": "x-amz-cf-id",
-      "value": "5wHYDYGseIQQYHq-HMAgTorVZz8gbXlNtJayaX8YjQIaVwgTSfoIuA=="
+      "value": "7TP4hskRmDLNKQqb702Sz4yO6czRdI5oGayJ0YDB-qdCrBDaHuZS5w=="
     },
     {
       "name": "x-amz-cf-pop",
@@ -69,13 +56,8 @@
     {
       "name": "x-amz-server-side-encryption",
       "value": "AES256"
-    },
-    {
-      "name": "x-cache",
-      "value": "Hit from cloudfront"
     }
   ],
-  "contentSize": 5418,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

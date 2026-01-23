@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Raisin City Water District",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:32.165Z",
   "finalUrl": "https://rcwd.ca.gov/",
   "metaGenerator": "Starfield Technologies; Go Daddy Website Builder 8.0.0000",
   "responseHeaders": [
@@ -31,14 +30,6 @@
       "value": "text/html;charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:30 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "ee076fd09f4c4160fb0e090bd7413a10"
-    },
-    {
       "name": "keep-alive",
       "value": "timeout=5"
     },
@@ -49,10 +40,6 @@
     {
       "name": "server",
       "value": "DPS/2.0.0+sha-57bdacc"
-    },
-    {
-      "name": "set-cookie",
-      "value": "dps_site_id=us-west-2; path=/; secure"
     },
     {
       "name": "strict-transport-security",
@@ -75,7 +62,6 @@
       "value": "57bdacc"
     }
   ],
-  "contentSize": 130176,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

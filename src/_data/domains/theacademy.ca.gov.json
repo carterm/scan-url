@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Home - The Academy",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:41.788Z",
   "finalUrl": "https://theacademy.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -23,16 +22,8 @@
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "39848"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:36 GMT"
     },
     {
       "name": "fastly-restarts",
@@ -53,14 +44,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS, HIT"
-    },
-    {
-      "name": "x-cache-hits",
-      "value": "0, 0"
     },
     {
       "name": "x-cacheable",
@@ -99,10 +82,6 @@
       "value": "5.0.0"
     },
     {
-      "name": "x-served-by",
-      "value": "cache-sjc10060-SJC, cache-sjc1000114-SJC"
-    },
-    {
       "name": "x-tec-api-origin",
       "value": "https://theacademy.ca.gov"
     },
@@ -115,15 +94,10 @@
       "value": "v1"
     },
     {
-      "name": "x-timer",
-      "value": "S1769209716.102564,VS0,VE4"
-    },
-    {
       "name": "x-xss-protection",
       "value": "1"
     }
   ],
-  "contentSize": 238697,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

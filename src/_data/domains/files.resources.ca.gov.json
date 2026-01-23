@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "files.resources.ca.gov —  Domain welcome page for",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:16.140Z",
   "finalUrl": "https://files.resources.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -19,20 +18,8 @@
       "value": "keep-alive"
     },
     {
-      "name": "content-length",
-      "value": "78013"
-    },
-    {
       "name": "content-type",
       "value": "text/html"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:15 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "\"68d5e44c-130bd\""
     },
     {
       "name": "last-modified",
@@ -43,7 +30,6 @@
       "value": "nginx"
     }
   ],
-  "contentSize": 78010,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

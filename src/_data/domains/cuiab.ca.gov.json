@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California Unemployment Insurance Appeals Board | The California Unemployment Insurance Appeals Board has a long tradition of protecting the rights of employers and unemployed or disabled workers.",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:16.822Z",
   "finalUrl": "https://cuiab.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af38ebbc132b4-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:09 GMT"
-    },
-    {
       "name": "expires",
       "value": "Wed, 11 Jan 1984 05:00:00 GMT"
     },
@@ -63,18 +54,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "caweb-alert-0=1; path=/; secure; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "caweb-alert-1=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; secure; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__cf_bm=gs.9UMbE8nK07pjY9I5dFhqXNkKcplKnbG3AqVsBRMI-1769209689-1.0.1.1-BNcbpQNo4VquHkQspXDORoFdBzE7Yr3.5.Sbsas0FmCRr..WY5cnjS4ZaVbbVbhfvdGccr5Wv_ebyplqGziBII5vuaU62YP.AkCc91iDFOE; path=/; expires=Fri, 23-Jan-26 23:38:09 GMT; domain=.cuiab.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -85,10 +64,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS"
     },
     {
       "name": "x-cache-group",
@@ -111,7 +86,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 201548,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "TOA Website",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:36.543Z",
   "finalUrl": "https://toa.otsi.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -27,20 +26,8 @@
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "6905"
-    },
-    {
       "name": "content-type",
       "value": "text/html"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:36 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "\"cdba1fe14ddc1:0\""
     },
     {
       "name": "last-modified",
@@ -51,14 +38,6 @@
       "value": "Microsoft-IIS/10.0"
     },
     {
-      "name": "set-cookie",
-      "value": "ARRAffinity=364f1b7421067eedaf2742ade62e5be297702534cf2f7f55316f4dded44b874b;Path=/;HttpOnly;Secure;Domain=toa.otsi.ca.gov"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ARRAffinitySameSite=364f1b7421067eedaf2742ade62e5be297702534cf2f7f55316f4dded44b874b;Path=/;HttpOnly;SameSite=None;Secure;Domain=toa.otsi.ca.gov"
-    },
-    {
       "name": "vary",
       "value": "Accept-Encoding"
     },
@@ -67,7 +46,6 @@
       "value": "ASP.NET"
     }
   ],
-  "contentSize": 20534,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

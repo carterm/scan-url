@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California Seniors",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:34.169Z",
   "finalUrl": "https://seniors.insurance.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -27,10 +26,6 @@
       "value": "text/html;charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:33 GMT"
-    },
-    {
       "name": "expires",
       "value": "Mon, 06 Jan 1990 00:00:01 GMT"
     },
@@ -41,22 +36,6 @@
     {
       "name": "server",
       "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "set-cookie",
-      "value": "CFID=38104213; Path=/; HttpOnly; SameSite=strict"
-    },
-    {
-      "name": "set-cookie",
-      "value": "CFTOKEN=22392878; Path=/; HttpOnly; SameSite=strict"
-    },
-    {
-      "name": "set-cookie",
-      "value": "CSRFTOKEN=692AA64DBC73FAAF34D4FC57B8202B722E5D35A5; Path=/; SameSite=strict"
-    },
-    {
-      "name": "set-cookie",
-      "value": "BIGipServerinsurance.app~insurance_pool=2241878026.20480.0000; path=/; Httponly; Secure"
     },
     {
       "name": "transfer-encoding",
@@ -75,7 +54,6 @@
       "value": "ASP.NET"
     }
   ],
-  "contentSize": 21262,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

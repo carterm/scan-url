@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Tahoe Conservancy |",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:41.912Z",
   "finalUrl": "https://tahoe.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af42fe843a495-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:36 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://tahoe.ca.gov/>; rel=shortlink"
     },
@@ -59,26 +50,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "caweb-alert-0=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; secure; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "caweb-alert-1=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; secure; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "caweb-alert-2=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; secure; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "caweb-alert-3=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; secure; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__cf_bm=_e0KCp8u01yxIMxX2wxxbngXz_6zeP9hbojd9zs59LY-1769209716-1.0.1.1-B3VcswUguCbmadZfEmTaESWQ379VMCFh9uZyBqSJJxuRUa1.E8doKnEzyKEozvPuloHcUsiqh_Xob3ERpREydrIC__oFPhCmIX99pETU_Jc; path=/; expires=Fri, 23-Jan-26 23:38:36 GMT; domain=.tahoe.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -89,10 +60,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS"
     },
     {
       "name": "x-cache-group",
@@ -111,7 +78,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 220844,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

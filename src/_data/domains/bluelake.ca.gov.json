@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "City of Blue Lake, CA - Blue Lake, California",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:00.622Z",
   "finalUrl": "https://bluelake.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -23,10 +22,6 @@
       "value": "DYNAMIC"
     },
     {
-      "name": "cf-ray",
-      "value": "9c2af340ce2ca495-SMF"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -37,10 +32,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:57 GMT"
     },
     {
       "name": "last-modified",
@@ -55,20 +46,12 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "__cf_bm=zkvpKzMG_faGssBtPAUTM3rvm6y2j4nRWsFsNgUjt8o-1769209677-1.0.1.1-4oVOAptFhk7rwCd76P2w7YWtwpj_SLMcEzdexNzK6oQpAc7wmVOThzrrb28NYlBoJRpY4cvMIOEdfzmwk3PNHY1RMR4bQzk5teSh9GE6d8A; path=/; expires=Fri, 23-Jan-26 23:37:57 GMT; domain=.bluelake.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "transfer-encoding",
       "value": "chunked"
     },
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache",
-      "value": "HIT: 14"
     },
     {
       "name": "x-cache-group",
@@ -99,7 +82,6 @@
       "value": "v1"
     }
   ],
-  "contentSize": 139410,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

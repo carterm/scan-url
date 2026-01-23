@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Save Water Report - State of California",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:32.655Z",
   "finalUrl": "https://www.savewater.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -27,10 +26,6 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:32 GMT"
-    },
-    {
       "name": "expires",
       "value": "-1"
     },
@@ -41,22 +36,6 @@
     {
       "name": "request-context",
       "value": "appId=cid-v1:7ff4aea4-19b3-4663-8197-2ecb27243eaf"
-    },
-    {
-      "name": "set-cookie",
-      "value": ".AspNetCore.Antiforgery.cdV5uW_Ejgc=CfDJ8BogdhmfHflBumMO9FQMwFQIuosObb9QsmtQR1XQpfYCSIFDqsPRSkLsVNOJINMRdeUgGuRJL2uvIc4lK8eo4OUn_bRs0zbcXuCOgqAQAsYUB9yQ6CWgrJHsT5PJfNOw9GRX68Q5-hWGDX3r3zYpedk; path=/; secure; samesite=strict; httponly"
-    },
-    {
-      "name": "set-cookie",
-      "value": ".AspNetCore.Session=CfDJ8BogdhmfHflBumMO9FQMwFTV1HrS5IvnqRXcNVg5dDVnarbmLQIZkOrVhbmFKzKyoYwUtJr0b42OGuz6Kvz%2F%2BLph8ynqQDhin4soZNWb7%2FSpGKcNlTXz3FbT0IT1sJquhS5kbpVKaKFDPfcfcKNaUF%2FWvEuxXpACXY8694Ucd9d4; path=/; secure; samesite=lax; httponly"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ARRAffinity=745a4fbffc3159155622803e3fc7040a0a2f7f779e83f3d997f156575608fbe9;Path=/;HttpOnly;Secure;Domain=as-camc-swrcb-svwtr-savewater-ww-p-001.azurewebsites.net"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ARRAffinitySameSite=745a4fbffc3159155622803e3fc7040a0a2f7f779e83f3d997f156575608fbe9;Path=/;HttpOnly;SameSite=None;Secure;Domain=as-camc-swrcb-svwtr-savewater-ww-p-001.azurewebsites.net"
     },
     {
       "name": "strict-transport-security",
@@ -71,14 +50,6 @@
       "value": "Accept-Encoding"
     },
     {
-      "name": "x-azure-ref",
-      "value": "20260123T230832Z-17d5b7ddf78pzhq8hC1SJCavcg00000000w0000000004wdb"
-    },
-    {
-      "name": "x-cache",
-      "value": "CONFIG_NOCACHE"
-    },
-    {
       "name": "x-frame-options",
       "value": "SAMEORIGIN"
     },
@@ -87,7 +58,6 @@
       "value": "ASP.NET"
     }
   ],
-  "contentSize": 44177,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

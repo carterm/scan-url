@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Log in - LGRS Online",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:21.472Z",
   "finalUrl": "https://lgrsonline.sco.ca.gov/account/login",
   "metaGenerator": null,
   "responseHeaders": [
@@ -15,16 +14,8 @@
       "value": "no-cache"
     },
     {
-      "name": "content-length",
-      "value": "11021"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:20 GMT"
     },
     {
       "name": "expires",
@@ -39,14 +30,6 @@
       "value": ""
     },
     {
-      "name": "set-cookie",
-      "value": "__RequestVerificationToken=LCLZyP7_uRuKkge2DpQ1M3zLdJKDl-hxfMaHykVjXFe7W2Q4Dq8eqjCN6U_nlI4aXPc5CC0rDoqDj2dMIYAfq4aQLx24h5ko8NpeJ2meXiY1; path=/; secure; HttpOnly"
-    },
-    {
-      "name": "set-cookie",
-      "value": ".AspNet.ApplicationCookie=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT; secure; HttpOnly"
-    },
-    {
       "name": "x-aspnetmvc-version",
       "value": "5.2"
     },
@@ -59,7 +42,6 @@
       "value": "ASP.NET"
     }
   ],
-  "contentSize": 11021,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "OTA | Office of Tax Appeals",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:33.864Z",
   "finalUrl": "https://ota.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af3f7fab36a04-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:28 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://ota.ca.gov/>; rel=shortlink"
     },
@@ -59,10 +50,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "__cf_bm=enGRIAFKh8e3MdCRP.sn62gP15xj6IqSxtrFaZf7Tsc-1769209708-1.0.1.1-p61RBH5VVotojoU0LB6xsVbpY3_hHBUx30wadEpZURg34xCrovVh_sZBG6GGe2Km10rsT46EXgsms0Urpj_t9Fs7QG6EyJZYSsNENIL1t8o; path=/; expires=Fri, 23-Jan-26 23:38:28 GMT; domain=.ota.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -73,10 +60,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS"
     },
     {
       "name": "x-cache-group",
@@ -95,7 +78,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 172834,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

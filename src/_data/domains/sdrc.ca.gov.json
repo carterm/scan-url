@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "San Diego River Conservancy",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:40.747Z",
   "finalUrl": "https://sdrc.ca.gov/",
   "metaGenerator": "Site Kit by Google 1.168.0",
   "responseHeaders": [
@@ -17,10 +16,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:40 GMT"
     },
     {
       "name": "link",
@@ -39,7 +34,6 @@
       "value": "nosniff"
     }
   ],
-  "contentSize": 27372,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

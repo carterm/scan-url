@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Diagnostic Centers - Special Education (CA Dept of Education)",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:11.530Z",
   "finalUrl": "https://www.dc-cde.ca.gov/",
   "metaGenerator": "Jekyll v3.8.5",
   "responseHeaders": [
@@ -27,34 +26,6 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:10 GMT"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__uzma=20ad3e4d-6609-4729-b2c2-0e0afc1f4232; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:10 GMT; Max-Age=15724800; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__uzmb=1769209690; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:10 GMT; Max-Age=15724800; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__uzme=7487; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:10 GMT; Max-Age=15724800; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__uzmc=755581059278; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:10 GMT; Max-Age=15724800; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__uzmd=1769209690; HttpOnly; path=/; Expires=Fri, 24-Jul-26 23:08:10 GMT; Max-Age=15724800; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "BIGipServerDC_Pool=2408411658.47873.0000; path=/; Httponly; Secure"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000"
     },
@@ -63,7 +34,6 @@
       "value": "chunked"
     }
   ],
-  "contentSize": 14051,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

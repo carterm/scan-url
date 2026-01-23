@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Personnel Authorization System (PAS)",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:28.474Z",
   "finalUrl": "https://pasapi.technology.ca.gov/index.html",
   "metaGenerator": null,
   "responseHeaders": [
@@ -27,24 +26,8 @@
       "value": "text/html;charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:27 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "W/\"XOBHbzSpH4XT+XhwXTXiMgebhgw=\""
-    },
-    {
       "name": "request-context",
       "value": "appId=cid-v1:c9b44974-d454-44ee-8af9-468a2d9f65f7"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ARRAffinity=742efbbcfe86db4b2ce8e180d05cf8d029b1cff23d15060530d6a374dbe3056c;Path=/;HttpOnly;Secure;Domain=Pasapi.technology.ca.gov"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ARRAffinitySameSite=742efbbcfe86db4b2ce8e180d05cf8d029b1cff23d15060530d6a374dbe3056c;Path=/;HttpOnly;SameSite=None;Secure;Domain=Pasapi.technology.ca.gov"
     },
     {
       "name": "transfer-encoding",
@@ -55,14 +38,6 @@
       "value": "Accept-Encoding"
     },
     {
-      "name": "x-azure-ref",
-      "value": "20260123T230827Z-r1f5df854fcp6gv8hC1LAXn3v00000000c0g00000000aygn"
-    },
-    {
-      "name": "x-cache",
-      "value": "CONFIG_NOCACHE"
-    },
-    {
       "name": "x-powered-by",
       "value": "ASP.NET"
     },
@@ -71,7 +46,6 @@
       "value": "5.29.2"
     }
   ],
-  "contentSize": 919,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

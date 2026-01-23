@@ -6,17 +6,12 @@
   "includeInScan": true,
   "title": "Home | Superior Court of California, County of Tehama",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:43.456Z",
   "finalUrl": "https://www.tehama.courts.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
     {
       "name": "accept-ranges",
       "value": "bytes"
-    },
-    {
-      "name": "age",
-      "value": "10645"
     },
     {
       "name": "cache-control",
@@ -35,20 +30,8 @@
       "value": "en"
     },
     {
-      "name": "content-length",
-      "value": "230577"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:35 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "W/\"1769199069\""
     },
     {
       "name": "expires",
@@ -75,14 +58,6 @@
       "value": "1.1 varnish, 1.1 varnish, 1.1 varnish, 1.1 varnish"
     },
     {
-      "name": "x-cache",
-      "value": "HIT, HIT, MISS, MISS"
-    },
-    {
-      "name": "x-cache-hits",
-      "value": "1, 0, 0, 0"
-    },
-    {
       "name": "x-content-type-options",
       "value": "nosniff"
     },
@@ -107,23 +82,14 @@
       "value": "styx-fe1-a-6c5bdb56b8-j6wm8"
     },
     {
-      "name": "x-served-by",
-      "value": "cache-chi-kigq8000099-CHI, cache-sjc10044-SJC, cache-sjc1000123-SJC, cache-sjc1000145-SJC"
-    },
-    {
       "name": "x-styx-req-id",
       "value": "a8cdd02d-f897-11f0-9526-8a211348bf99"
-    },
-    {
-      "name": "x-timer",
-      "value": "S1769209716.638693,VS0,VE7"
     },
     {
       "name": "x-ua-compatible",
       "value": "IE=edge"
     }
   ],
-  "contentSize": 616716,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Homepage South Placer Municipal Utility District",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:35.454Z",
   "finalUrl": "https://spmud.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -23,36 +22,12 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:34 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "W/\"25ee530bf23d59a059f200d70ef0cf05\""
-    },
-    {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
     },
     {
       "name": "server",
       "value": "nginx"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ahoy_visitor=027215b7-a10a-4426-b63b-215941b0c807; path=/; expires=Sun, 23 Jan 2028 23:08:34 GMT"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ahoy_visit=74e7d57d-eb76-41f2-a559-3b8beb0e404b; path=/; expires=Sat, 24 Jan 2026 03:08:34 GMT"
-    },
-    {
-      "name": "set-cookie",
-      "value": "XSRF-TOKEN=aNaCNbEWE1IIWh6nk7lzz0e5pA%2FHrP4VJmVN2%2FyJewWG25mEx0tT8nGkGw8NjVXDQ8SOWUdIoqj6pCEiNp42TA%3D%3D; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "_traction_session=iu9xJ8pjcYn9qpuRKBUiYk5B1VnyRFx9qVVxxtdMAAFkYBaZqLdY5JjnMsEN8ebWOzjcAdADGsv5nSYDegNKrt1%2FRKAdLRDhvuOtWXOzTZkf%2BhH6mZE8w%2BkNyNMipz11nKp%2FbfNloSDmG%2FIBTI4%3D--71S%2FcI8yZ15v%2Fhje--nxSmLGEu4AqsXKI3tMwf9w%3D%3D; path=/; HttpOnly"
     },
     {
       "name": "strict-transport-security",
@@ -80,18 +55,17 @@
     },
     {
       "name": "x-request-id",
-      "value": "606bd5d0-2d06-4536-9f38-f89c1d6ddd90"
+      "value": "607e5a59-7f08-49d6-abab-e174eb704816"
     },
     {
       "name": "x-runtime",
-      "value": "0.043168"
+      "value": "0.139358"
     },
     {
       "name": "x-xss-protection",
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 95088,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

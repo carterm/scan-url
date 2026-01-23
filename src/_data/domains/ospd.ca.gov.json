@@ -6,13 +6,12 @@
   "includeInScan": true,
   "title": "Home - Office of the State Public Defender",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:29.718Z",
   "finalUrl": "https://www.ospd.ca.gov/",
   "metaGenerator": "WordPress 6.8.3",
   "responseHeaders": [
     {
       "name": "cache-control",
-      "value": "public, max-age=3247"
+      "value": "public, max-age=1703"
     },
     {
       "name": "content-encoding",
@@ -21,14 +20,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:26 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "\"aafe599bcccc1f93e63b12118dbe3c9f\""
     },
     {
       "name": "last-modified",
@@ -87,7 +78,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 116276,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

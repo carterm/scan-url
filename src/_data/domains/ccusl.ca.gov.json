@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Welcome to the California Commission on Uniform State Laws Web site | CALIFORNIA COMMISSION ON UNIFORM STATE LAWS",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:03.867Z",
   "finalUrl": "https://ccusl.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -17,10 +16,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af3608c91eb21-SJC"
     },
     {
       "name": "connection",
@@ -41,10 +36,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:02 GMT"
     },
     {
       "name": "expires",
@@ -69,10 +60,6 @@
     {
       "name": "server",
       "value": "cloudflare"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__cf_bm=afB7yOegmV3AfnBf1rZTW_gmO81rc7Bsr9BRANRDyr0-1769209682-1.0.1.1-A_odEQXjiiBsyKM3d7DFwQnZ2TP4YOfuz9_1zENo85CcmnhIIyagYuHYHfTlA5O9pYAPeZXb1Stuv0kyFPvtFYKMnIj1zNA6bFAg5WAfVjA; path=/; expires=Fri, 23-Jan-26 23:38:02 GMT; domain=.ccusl.ca.gov; HttpOnly; Secure; SameSite=None"
     },
     {
       "name": "strict-transport-security",
@@ -115,7 +102,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 14207,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

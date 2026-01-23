@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Central Valley Flood Protection Board – State of California",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:14.530Z",
   "finalUrl": "https://cvfpb.ca.gov/",
   "metaGenerator": "Site Kit by Google 1.168.0",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:14 GMT"
     },
     {
       "name": "link",
@@ -59,7 +54,6 @@
       "value": "v1"
     }
   ],
-  "contentSize": 28535,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

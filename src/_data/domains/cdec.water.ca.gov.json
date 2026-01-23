@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California Data Exchange Center",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:19.327Z",
   "finalUrl": "https://cdec.water.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -31,20 +30,8 @@
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:14:30 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "\"7be15-648febce0b500-gzip\""
-    },
-    {
       "name": "last-modified",
       "value": "Thu, 22 Jan 2026 19:06:28 GMT"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS01f8a092=0172ee179abbb59e34cb02c245d37e6ffd3c71cd7611f6d1ff5e3c95fb44853cddb10aaf6383a1e2e34ff53f3600099ee37277ea8a; Path=/; Domain=.cdec.water.ca.gov"
     },
     {
       "name": "strict-transport-security",
@@ -59,7 +46,6 @@
       "value": "Accept-Encoding"
     }
   ],
-  "contentSize": 507413,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

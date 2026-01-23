@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "File Request - California Department of Conservation",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:16.475Z",
   "finalUrl": "https://filerequest.conservation.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -19,20 +18,8 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:16 GMT"
-    },
-    {
       "name": "server",
       "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "set-cookie",
-      "value": "filerequestCORS=20ea34e3b930339fc76ee41cdd55c688; Path=/; SameSite=None; Secure"
-    },
-    {
-      "name": "set-cookie",
-      "value": "filerequest=20ea34e3b930339fc76ee41cdd55c688; Path=/"
     },
     {
       "name": "strict-transport-security",
@@ -43,7 +30,6 @@
       "value": "chunked"
     }
   ],
-  "contentSize": 26601,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

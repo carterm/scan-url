@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Dental Board of California",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:11.595Z",
   "finalUrl": "https://www.dbc.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -31,20 +30,12 @@
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:11 GMT"
-    },
-    {
       "name": "keep-alive",
-      "value": "timeout=5, max=94"
+      "value": "timeout=5, max=83"
     },
     {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS01ba82ac=01ed741c22ab7ff85fa33c804cb62984e91b379127660d37781a5f1f4cf56f0dbe8a178d84b2f43a95c0ce6135733a20daca70f263; Path=/; Domain=.www.dbc.ca.gov"
     },
     {
       "name": "strict-transport-security",
@@ -67,7 +58,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 41387,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

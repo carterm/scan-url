@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Baldwin Hills Conservancy",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:07:58.370Z",
   "finalUrl": "https://bhc.ca.gov/",
   "metaGenerator": "Site Kit by Google 1.168.0",
   "responseHeaders": [
@@ -25,10 +24,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:56 GMT"
     },
     {
       "name": "last-modified",
@@ -51,7 +46,6 @@
       "value": "nosniff"
     }
   ],
-  "contentSize": 49910,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

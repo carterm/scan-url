@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California State Board of Equalization Homepage",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:07:57.534Z",
   "finalUrl": "https://boe.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -19,16 +18,8 @@
       "value": "keep-alive"
     },
     {
-      "name": "content-length",
-      "value": "37493"
-    },
-    {
       "name": "content-type",
       "value": "text/html"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:57 GMT"
     },
     {
       "name": "expires",
@@ -55,14 +46,6 @@
       "value": "Microsoft-IIS/10.0"
     },
     {
-      "name": "set-cookie",
-      "value": "AWSALB=DDbhPlEkqyyvzM6KrWE8Cgvrb0/D61f72suC0lIcG32rBjwlmPg6sdeZ/9h4Hz7WoWMAmXDE4i+cI1CSGD7MFrm29wNJM2o9q3fdIrvvncCAA2E6G0ADcF96Sdaz; Expires=Fri, 30 Jan 2026 23:07:57 GMT; Path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "AWSALBCORS=DDbhPlEkqyyvzM6KrWE8Cgvrb0/D61f72suC0lIcG32rBjwlmPg6sdeZ/9h4Hz7WoWMAmXDE4i+cI1CSGD7MFrm29wNJM2o9q3fdIrvvncCAA2E6G0ADcF96Sdaz; Expires=Fri, 30 Jan 2026 23:07:57 GMT; Path=/; SameSite=None; Secure"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains; preload"
     },
@@ -79,7 +62,6 @@
       "value": "0"
     }
   ],
-  "contentSize": 37493,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -6,17 +6,12 @@
   "includeInScan": true,
   "title": "Metropolitan Transportation Commission | MTC is the transportation planning, financing and coordinating agency for the nine-county San Francisco Bay Area.",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:27.347Z",
   "finalUrl": "https://mtc.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
     {
       "name": "accept-ranges",
       "value": "bytes"
-    },
-    {
-      "name": "age",
-      "value": "9039"
     },
     {
       "name": "cache-control",
@@ -35,10 +30,6 @@
       "value": "en"
     },
     {
-      "name": "content-length",
-      "value": "26002"
-    },
-    {
       "name": "content-security-policy",
       "value": "frame-ancestors 'self'; report-uri /report-csp-violation"
     },
@@ -51,20 +42,12 @@
       "value": "same-origin"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:22 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "W/\"1769200662\""
-    },
-    {
       "name": "expires",
       "value": "Sun, 19 Nov 1978 05:00:00 GMT"
     },
     {
       "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 20:37:42 GMT"
+      "value": "Fri, 23 Jan 2026 23:11:03 GMT"
     },
     {
       "name": "referrer-policy",
@@ -85,14 +68,6 @@
     {
       "name": "via",
       "value": "1.1 varnish, 1.1 varnish, 1.1 varnish"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS, HIT, MISS"
-    },
-    {
-      "name": "x-cache-hits",
-      "value": "0, 44, 0"
     },
     {
       "name": "x-content-type-options",
@@ -116,26 +91,17 @@
     },
     {
       "name": "x-pantheon-styx-hostname",
-      "value": "styx-fe1-b-6d866b556d-p9cpm"
-    },
-    {
-      "name": "x-served-by",
-      "value": "cache-chi-klot8100101-CHI, cache-sjc10022-SJC, cache-sjc10031-SJC"
+      "value": "styx-fe1-a-6c5bdb56b8-4vkbk"
     },
     {
       "name": "x-styx-req-id",
-      "value": "5db43d85-f89b-11f0-83a5-e2f3ef986497"
-    },
-    {
-      "name": "x-timer",
-      "value": "S1769209703.838589,VS0,VE9"
+      "value": "ca0048bf-f8b0-11f0-b4fa-0eea13fe9734"
     },
     {
       "name": "x-xss-protection",
       "value": "1"
     }
   ],
-  "contentSize": 113799,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

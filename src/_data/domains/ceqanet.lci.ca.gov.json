@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "CEQAnet",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:08.394Z",
   "finalUrl": "https://ceqanet.lci.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -28,7 +27,7 @@
     },
     {
       "name": "cache-control",
-      "value": "public, max-age=183"
+      "value": "public, max-age=437"
     },
     {
       "name": "connection",
@@ -43,20 +42,12 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:04 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "\"1769208968:dtagent10327251022105625uc9U\""
-    },
-    {
       "name": "expires",
-      "value": "Fri, 23 Jan 2026 23:11:08 GMT"
+      "value": "Fri, 23 Jan 2026 23:41:10 GMT"
     },
     {
       "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 22:56:07 GMT"
+      "value": "Fri, 23 Jan 2026 23:26:09 GMT"
     },
     {
       "name": "referrer-policy",
@@ -64,11 +55,7 @@
     },
     {
       "name": "server-timing",
-      "value": "dtSInfo;desc=\"0\", dtRpid;desc=\"-1117254327\""
-    },
-    {
-      "name": "set-cookie",
-      "value": "dtCookietb8ox27v=v_4_srv_5_sn_A05693E73824CBC5B504B41834AB9317_perc_100000_ol_0_mul_1_app-3A53319921b2676389_1_rcs-3Acss_0; Path=/; Domain=.ca.gov"
+      "value": "dtSInfo;desc=\"0\", dtRpid;desc=\"-878274269\""
     },
     {
       "name": "strict-transport-security",
@@ -81,14 +68,6 @@
     {
       "name": "vary",
       "value": "*"
-    },
-    {
-      "name": "x-azure-ref",
-      "value": "20260123T230804Z-r1cf444f6d6qhxtchC1BY1s8sc00000003v000000000fa5a"
-    },
-    {
-      "name": "x-cache",
-      "value": "CONFIG_NOCACHE"
     },
     {
       "name": "x-content-type-options",
@@ -111,7 +90,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 269044,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

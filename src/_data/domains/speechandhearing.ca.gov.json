@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Speech-Language Pathology and Audiology and Hearing Aid Dispensers Board",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:34.669Z",
   "finalUrl": "https://www.speechandhearing.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -31,20 +30,12 @@
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:34 GMT"
-    },
-    {
       "name": "keep-alive",
-      "value": "timeout=5, max=98"
+      "value": "timeout=5, max=34"
     },
     {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS01316e42=01ed741c2241d39d9de5fb17f319708a70757830cd68f603686d83fd20176fdffa6c97353643547dd8775ba9996365eaea189a2aab; Path=/; Domain=.www.speechandhearing.ca.gov"
     },
     {
       "name": "strict-transport-security",
@@ -67,7 +58,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 38703,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

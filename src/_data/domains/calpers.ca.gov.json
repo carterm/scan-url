@@ -6,17 +6,12 @@
   "includeInScan": true,
   "title": "California Public Employees' Retirement System",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:00.764Z",
   "finalUrl": "https://www.calpers.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
     {
       "name": "accept-ranges",
       "value": "bytes"
-    },
-    {
-      "name": "age",
-      "value": "152"
     },
     {
       "name": "cache-control",
@@ -35,10 +30,6 @@
       "value": "en"
     },
     {
-      "name": "content-length",
-      "value": "15127"
-    },
-    {
       "name": "content-security-policy",
       "value": "report-uri /report-csp-violation; upgrade-insecure-requests"
     },
@@ -47,20 +38,12 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:59 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "\"1769209526-gzip\""
-    },
-    {
       "name": "expires",
       "value": "Sun, 19 Nov 1978 05:00:00 GMT"
     },
     {
       "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 23:05:26 GMT"
+      "value": "Fri, 23 Jan 2026 23:23:20 GMT"
     },
     {
       "name": "referrer-policy",
@@ -80,7 +63,7 @@
     },
     {
       "name": "via",
-      "value": "varnish, 1.1 7ca6d2d626b960c9f2445a99b73406be.cloudfront.net (CloudFront)"
+      "value": "varnish, 1.1 f3219597d17b6efcbda39f405ca2692a.cloudfront.net (CloudFront)"
     },
     {
       "name": "x-ah-environment",
@@ -88,19 +71,11 @@
     },
     {
       "name": "x-amz-cf-id",
-      "value": "HBCCm_GWGLmTNevg4q14A6ILyd1pL_VIuYPBjuMZa--wkf3rL4TwbQ=="
+      "value": "EY4ugbPqlkTPD-JiBaCbED7QNaq2p-u5NLyN_OGD8LRnGoyKPo9A4A=="
     },
     {
       "name": "x-amz-cf-pop",
       "value": "LAX50-P4"
-    },
-    {
-      "name": "x-cache",
-      "value": "Miss from cloudfront"
-    },
-    {
-      "name": "x-cache-hits",
-      "value": "125"
     },
     {
       "name": "x-content-type-options",
@@ -124,10 +99,9 @@
     },
     {
       "name": "x-request-id",
-      "value": "v-012edafa-f8b0-11f0-bcef-b778119fbff4"
+      "value": "v-811c2626-f8b2-11f0-9210-bf43eda9d920"
     }
   ],
-  "contentSize": 91880,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

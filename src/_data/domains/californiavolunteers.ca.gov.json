@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California Volunteers | California Volunteers",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:08.617Z",
   "finalUrl": "https://www.californiavolunteers.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af3504fe93525-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:01 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://www.californiavolunteers.ca.gov/>; rel=shortlink"
     },
@@ -59,10 +50,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "__cf_bm=wvgjBiGYoF28B7NE7hLsDc6OHWA7d31V7_rJxjTHmpI-1769209681-1.0.1.1-B1.Hvl4YiZMkjFBxYIdQ2Vbvh6VKgwxRce7DwYV16kYgnU1TTMCFEST54PbOTbJWNsuWg1P5O0Vl_W2PwoFBtUZbm1FWW1ZP3DXSg1Yd9tM; path=/; expires=Fri, 23-Jan-26 23:38:01 GMT; domain=.www.californiavolunteers.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -73,10 +60,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS"
     },
     {
       "name": "x-cache-group",
@@ -95,7 +78,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 263557,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

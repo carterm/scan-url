@@ -6,17 +6,12 @@
   "includeInScan": true,
   "title": "Home | Superior Court of California | County of Inyo",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:28.463Z",
   "finalUrl": "https://www.inyo.courts.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
     {
       "name": "accept-ranges",
       "value": "bytes"
-    },
-    {
-      "name": "age",
-      "value": "10028"
     },
     {
       "name": "cache-control",
@@ -35,20 +30,8 @@
       "value": "en"
     },
     {
-      "name": "content-length",
-      "value": "217657"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:19 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "W/\"1768454241\""
     },
     {
       "name": "expires",
@@ -75,14 +58,6 @@
       "value": "1.1 varnish, 1.1 varnish, 1.1 varnish, 1.1 varnish"
     },
     {
-      "name": "x-cache",
-      "value": "HIT, HIT, MISS, MISS"
-    },
-    {
-      "name": "x-cache-hits",
-      "value": "1, 0, 0, 0"
-    },
-    {
       "name": "x-content-type-options",
       "value": "nosniff"
     },
@@ -107,23 +82,14 @@
       "value": "styx-fe1-a-55667d788d-d7wd4"
     },
     {
-      "name": "x-served-by",
-      "value": "cache-chi-kigq8000132-CHI, cache-sjc10044-SJC, cache-sjc1000100-SJC, cache-sjc1000116-SJC"
-    },
-    {
       "name": "x-styx-req-id",
       "value": "77f337e3-f1d1-11f0-9eaf-7a8b5217b1eb"
-    },
-    {
-      "name": "x-timer",
-      "value": "S1769209700.558273,VS0,VE8"
     },
     {
       "name": "x-ua-compatible",
       "value": "IE=edge"
     }
   ],
-  "contentSize": 585201,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

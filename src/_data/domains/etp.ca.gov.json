@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Employment Training Panel | Employment Training Panel",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:21.642Z",
   "finalUrl": "https://etp.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af3ae9cc7a495-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:15 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://etp.ca.gov/>; rel=shortlink"
     },
@@ -59,18 +50,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "caweb-alert-0=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; secure; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "caweb-alert-1=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; secure; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__cf_bm=hHHmKdTqn8ewC75JiwDEPXFwoBHxZD9ziEe0d73_FVA-1769209695-1.0.1.1-vKeW_P5Sh_Z00jBuohN7pTMX6na4evgk84ituW3jEY_5taYUCugjcQUFq9Q5JpgxYMnyIvWxPNj9nKvzva3yQKQ5QuClUYrEq1bfONKBM8I; path=/; expires=Fri, 23-Jan-26 23:38:15 GMT; domain=.etp.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -81,10 +60,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS"
     },
     {
       "name": "x-cache-group",
@@ -103,7 +78,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 240876,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

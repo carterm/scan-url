@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Office of Traffic Safety | The California Office of Traffic Safety’s mission is to administer traffic safety grant funds to reduce traffic deaths, injuries, and economic losses.",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:33.771Z",
   "finalUrl": "https://www.ots.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af3f7fda63507-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:26 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://www.ots.ca.gov/>; rel=shortlink"
     },
@@ -59,18 +50,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "caweb-alert-0=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; secure; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "caweb-alert-1=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; secure; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__cf_bm=YZra52QjjWRMbnH8uC1TN8_8WBXid3hdojIrBnr5UBE-1769209706-1.0.1.1-iAWtcBSphTc7jZZ9chVTLC0fJi__PrXxMsAcjWQ_Z4Oa2UT3xSOHiqfrO8R.HkVq5NAly2qhXJi0T1IfZKVQ7HGf3x7h7qbJfcbKCX6qydg; path=/; expires=Fri, 23-Jan-26 23:38:26 GMT; domain=.www.ots.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -81,10 +60,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache",
-      "value": "HIT: 1"
     },
     {
       "name": "x-cache-group",
@@ -103,7 +78,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 293033,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

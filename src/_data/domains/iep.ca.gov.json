@@ -4,21 +4,78 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Interagency Ecological Program > Home",
+  "lastStatus": 200,
+  "finalUrl": "https://iep.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "no-cache,no-store, no-cache, must-revalidate"
+    },
+    {
+      "name": "content-encoding",
+      "value": "br"
+    },
+    {
+      "name": "content-security-policy",
+      "value": "default-src 'self' data: blob:;\t\tscript-src 'self' 'unsafe-inline' 'unsafe-eval'\t\t  https://www.googletagmanager.com\t\t  https://www.google-analytics.com\t\t  https://ssl.google-analytics.com\t\t  https://www.gstatic.com\t\t  https://alert.cdt.ca.gov\t\t  https://cse.google.com\t\t  https://translate.google.com\t\t  https://www.google.com\t\t  https://translate.googleapis.com\t\t  https://translate-pa.googleapis.com\t\t  https://www.youtube.com\t\t  https://www.youtube-nocookie.com\t\t  https://*.adtrafficquality.google;\t\tscript-src-elem 'self' 'unsafe-inline'\t\t  https://www.googletagmanager.com\t\t  https://www.google-analytics.com\t\t  https://ssl.google-analytics.com\t\t  https://www.gstatic.com\t\t  https://alert.cdt.ca.gov\t\t  https://cse.google.com\t\t  https://translate.google.com\t\t  https://www.google.com\t\t  https://translate.googleapis.com\t\t  https://translate-pa.googleapis.com\t\t  https://www.google.com/cse/static/\t\t  https://platform.twitter.com\t\t  https://www.youtube.com\t\t  https://www.youtube-nocookie.com\t\t  https://*.adtrafficquality.google;\t\tstyle-src 'self' 'unsafe-inline'\t\t  https://fonts.googleapis.com\t\t  https://www.gstatic.com\t\t  https://www.google.com;\t\tstyle-src-elem 'self' 'unsafe-inline' blob:\t\t  https://fonts.googleapis.com\t\t  https://www.gstatic.com\t\t  https://www.google.com\t\t  https://www.google.com/cse/static/\t\t  https://www.gstatic.com/_/translate_http/;\t\tstyle-src-attr 'self' 'unsafe-inline';\t\tfont-src 'self' https://fonts.gstatic.com;\t\timg-src 'self' data: blob:\t\t  https://ssl.google-analytics.com\t\t  https://www.google.com\t\t  https://clients1.google.com\t\t  https://www.gstatic.com\t\t  https://translate.googleapis.com\t\t  https://fonts.gstatic.com\t\t  https://cse.google.com\t\t  https://i.ytimg.com\t\t  https://*.ytimg.com\t\t  https://syndicatedsearch.goog\t\t  https://www.gstatic.com/images/\t\t  https://california.azureedge.net\t\t  https://wildlife.ca.gov\t\t  https://www.googletagmanager.com\t\t  https://*.adtrafficquality.google;\t\tconnect-src 'self'\t\t  https://www.google-analytics.com\t\t  https://translate.googleapis.com\t\t  https://translate-pa.googleapis.com\t\t  https://clients1.google.com\t\t  https://www.google.com\t\t  https://*.googlevideo.com\t\t  https://www.youtube.com\t\t  https://ep1.adtrafficquality.google\t\t  https://*.adtrafficquality.google;\t\tframe-src 'self'\t\t  https://accounts.google.com\t\t  https://calendar.google.com\t\t  https://www.google.com\t\t  https://www.youtube.com\t\t  https://www.youtube-nocookie.com\t\t  https://deltascience.shinyapps.io\t\t  https://*.adtrafficquality.google\t\t  https://ep2.adtrafficquality.google\t\t  https://cse.google.com;\t\tframe-ancestors 'self' wildlife.ca.gov *.wildlife.ca.gov;\t\treport-uri /csp-violation-report-endpoint;\t\t"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "expires",
+      "value": "-1"
+    },
+    {
+      "name": "permissions-policy",
+      "value": "geolocation=(), microphone=(), camera=(), usb=(), fullscreen=(self), payment=()"
+    },
+    {
+      "name": "pragma",
+      "value": "no-cache"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "strict-origin-when-cross-origin"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=63072000; includeSubDomains"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding,Accept-Encoding"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "SAMEORIGIN"
+    },
+    {
+      "name": "x-ua-compatible",
+      "value": "IE=edge"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.youtube.com/playlist?list=PL-PEXRYYBP1TfHYR2o4tupieGQphEPhDa"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

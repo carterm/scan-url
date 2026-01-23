@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Sonoma County Transportation Authority | SCTA",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:34.125Z",
   "finalUrl": "https://scta.ca.gov/",
   "metaGenerator": "WordPress 6.9",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:32 GMT"
     },
     {
       "name": "host-header",
@@ -71,7 +66,6 @@
       "value": "v1"
     }
   ],
-  "contentSize": 110377,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

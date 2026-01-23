@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Bureau for Private and Post-Secondary Education - BPPE",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:07:58.015Z",
   "finalUrl": "https://www.bppe.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -31,20 +30,12 @@
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:57 GMT"
-    },
-    {
       "name": "keep-alive",
-      "value": "timeout=5, max=99"
+      "value": "timeout=5, max=79"
     },
     {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS01beaf1c=01ed741c2225fbe62dfbf032f519ec5419f5a65993541847f804f8928fb9ff63d50d296be7d1fc1749bcd40982064c978525717d25; Path=/; Domain=.www.bppe.ca.gov"
     },
     {
       "name": "strict-transport-security",
@@ -67,7 +58,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 70105,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

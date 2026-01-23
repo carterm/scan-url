@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Home",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:11.306Z",
   "finalUrl": "https://www.csd.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -23,10 +22,6 @@
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "34531"
-    },
-    {
       "name": "content-security-policy",
       "value": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;"
     },
@@ -35,16 +30,12 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:09 GMT"
-    },
-    {
       "name": "expires",
-      "value": "Thu, 08 Jan 2026 23:08:09 GMT"
+      "value": "Thu, 08 Jan 2026 23:33:55 GMT"
     },
     {
       "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 23:08:09 GMT"
+      "value": "Fri, 23 Jan 2026 23:33:55 GMT"
     },
     {
       "name": "microsoftsharepointteamservices",
@@ -52,7 +43,7 @@
     },
     {
       "name": "request-id",
-      "value": "a4f4efa1-33bf-c08c-d74d-9a60b973dc1f"
+      "value": "1ef6efa1-135a-c08c-d74d-9a88928cf920"
     },
     {
       "name": "server",
@@ -64,11 +55,11 @@
     },
     {
       "name": "sprequestduration",
-      "value": "96"
+      "value": "111"
     },
     {
       "name": "sprequestguid",
-      "value": "a4f4efa1-33bf-c08c-d74d-9a60b973dc1f"
+      "value": "1ef6efa1-135a-c08c-d74d-9a88928cf920"
     },
     {
       "name": "vary",
@@ -99,7 +90,6 @@
       "value": "0"
     }
   ],
-  "contentSize": 117254,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

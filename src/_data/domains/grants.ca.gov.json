@@ -6,13 +6,12 @@
   "includeInScan": true,
   "title": "Home - California Grants Portal",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:17.459Z",
   "finalUrl": "https://www.grants.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
     {
       "name": "cache-control",
-      "value": "max-age=0, s-maxage=155, must-revalidate"
+      "value": "max-age=0, s-maxage=174, must-revalidate"
     },
     {
       "name": "connection",
@@ -23,12 +22,8 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:16 GMT"
-    },
-    {
       "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 23:04:56 GMT"
+      "value": "Fri, 23 Jan 2026 23:31:39 GMT"
     },
     {
       "name": "link",
@@ -52,11 +47,11 @@
     },
     {
       "name": "via",
-      "value": "1.1 b4c82cd10e0e4a2d839a59a3f405bfa2.cloudfront.net (CloudFront)"
+      "value": "1.1 da34a87c52ac72533d016ec1c077c41a.cloudfront.net (CloudFront)"
     },
     {
       "name": "x-amz-cf-id",
-      "value": "QSb9lEnM_xzPG2M7rVYMRRWrkvkOYF5UDcKlxkZ5ter6Q5sLP1dukg=="
+      "value": "aPDWHj5WMoVniumAvb7k1NhkjbQNJHs1WPqIkgf4GEMeJCscIr6Arw=="
     },
     {
       "name": "x-amz-cf-pop",
@@ -71,10 +66,6 @@
       "value": "Yes"
     },
     {
-      "name": "x-cache",
-      "value": "Miss from cloudfront"
-    },
-    {
       "name": "x-elasticpress-query",
       "value": "true"
     },
@@ -87,7 +78,6 @@
       "value": "HIT"
     }
   ],
-  "contentSize": 102094,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

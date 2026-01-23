@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Log in - LAIF Application",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:21.264Z",
   "finalUrl": "https://laifonline.treasurer.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -23,24 +22,8 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:19 GMT"
-    },
-    {
       "name": "server",
       "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__RequestVerificationToken=5htpr-YBps-wu7OLmhwyaaRJ4kNVD5x8hGJVWB8UBWgPZj5Kle1fHqEQBDAmW6PF-ntDxH2AjpbZuxutKOfWgJyL-441; path=/; HttpOnly"
-    },
-    {
-      "name": "set-cookie",
-      "value": "visid_incap_2950295=/XCn8/fERMCaukncMs2CcmP/c2kAAAAAQUIPAAAAAABFmROZpwDo2CWOCKpG0yoV; expires=Sat, 23 Jan 2027 09:50:07 GMT; HttpOnly; path=/; Domain=.treasurer.ca.gov"
-    },
-    {
-      "name": "set-cookie",
-      "value": "incap_ses_187_2950295=tT55PUhizgxxbFqBl1uYAmP/c2kAAAAAlZFtsq4+IKluva7iDPUrJQ==; path=/; Domain=.treasurer.ca.gov"
     },
     {
       "name": "transfer-encoding",
@@ -64,14 +47,13 @@
     },
     {
       "name": "x-iinfo",
-      "value": "41-108630240-108621182 pNYy RT(1769209699392 396) q(0 0 0 1) r(0 0) U12"
+      "value": "5-10874907-10874912 NNYN CT(7 26 0) RT(1769211244492 440) q(0 0 0 -1) r(1 1) U12"
     },
     {
       "name": "x-powered-by",
       "value": "ASP.NET"
     }
   ],
-  "contentSize": 13134,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

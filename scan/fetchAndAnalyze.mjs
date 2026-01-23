@@ -6,9 +6,22 @@ import { createDomainRecord } from "./types/DomainRecord.mjs";
 
 import { fetch, Agent } from "undici";
 import { performance } from "node:perf_hooks";
-import http from "node:http";
-import https from "node:https";
 import { JSDOM, VirtualConsole, ResourceLoader } from "jsdom";
+
+const removeHeaders = [
+  "age",
+  "date",
+  "x-cache",
+  "x-cache-hits",
+  "x-served-by",
+  "x-timer",
+  "cf-ray",
+  "set-cookie",
+  "etag",
+  "content-length",
+  "x-envoy-upstream-service-time",
+  "x-azure-ref"
+];
 
 const fetchTimeout = 15000; //15 seconds
 
@@ -64,7 +77,7 @@ export async function fetchAndAnalyze(url) {
   } finally {
     const end = performance.now();
     const duration = Math.round((end - start) / 1000);
-    console.log(`Fetching ${url} took ${duration.toFixed(2)} ms`);
+    //console.log(`Fetching ${url} took ${duration} S`);
   }
 
   const status = res.status;
@@ -75,8 +88,11 @@ export async function fetchAndAnalyze(url) {
    */
   const headers = [];
   res.headers.forEach((value, name) => {
-    headers.push({ name, value });
+    if (!removeHeaders.includes(name.toLowerCase())) {
+      headers.push({ name, value });
+    }
   });
+  domainRecord.responseHeaders = headers;
 
   const body = await res.text();
   const contentSize = Buffer.byteLength(body);
@@ -90,8 +106,7 @@ export async function fetchAndAnalyze(url) {
   if (status >= 400 || cloudflareChallenge) {
     domainRecord.lastStatus = status;
     domainRecord.finalUrl = finalUrl;
-    domainRecord.responseHeaders = headers;
-    domainRecord.contentSize = contentSize;
+
     domainRecord.cloudflare = cloudflareChallenge;
     domainRecord.errorMessage = cloudflareChallenge
       ? "Cloudflare challenge detected"
@@ -147,8 +162,6 @@ export async function fetchAndAnalyze(url) {
 
   domainRecord.lastStatus = status;
   domainRecord.finalUrl = finalUrl;
-  domainRecord.responseHeaders = headers;
-  domainRecord.contentSize = contentSize;
   domainRecord.cloudflare = false;
   domainRecord.title = title;
   domainRecord.metaGenerator = metaGenerator;

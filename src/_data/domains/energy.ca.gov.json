@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Home Page-California Energy Commission",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:14.851Z",
   "finalUrl": "https://www.energy.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -19,16 +18,8 @@
       "value": "en"
     },
     {
-      "name": "content-length",
-      "value": "90365"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:13 GMT"
     },
     {
       "name": "expires",
@@ -63,7 +54,6 @@
       "value": "PHP/8.2.17, ASP.NET"
     }
   ],
-  "contentSize": 90365,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

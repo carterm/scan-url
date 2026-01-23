@@ -6,14 +6,9 @@
   "includeInScan": true,
   "title": "Employment Development Department | California",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:14.292Z",
   "finalUrl": "https://edd.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
-    {
-      "name": "age",
-      "value": "53"
-    },
     {
       "name": "cache-control",
       "value": "public, no-cache=\"Set-Cookie\""
@@ -23,16 +18,8 @@
       "value": "keep-alive"
     },
     {
-      "name": "content-length",
-      "value": "121732"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:20 GMT"
     },
     {
       "name": "server",
@@ -40,11 +27,11 @@
     },
     {
       "name": "via",
-      "value": "1.1 1a217c89b4334efb14f3209fbb937894.cloudfront.net (CloudFront)"
+      "value": "1.1 0b19a78b40fcfcac4638465f05c49f4c.cloudfront.net (CloudFront)"
     },
     {
       "name": "x-amz-cf-id",
-      "value": "-lQd_pmwBrr8ZpUV5avHds-m7TzrHULjgTTULrXZttcIPUanOg3bOw=="
+      "value": "mc5I90oE3yvdUwF94Aao3QILGuR1TXDvm9BLOkPMs6Ue67dkC4neAQ=="
     },
     {
       "name": "x-amz-cf-pop",
@@ -59,15 +46,10 @@
       "value": "5.2"
     },
     {
-      "name": "x-cache",
-      "value": "Hit from cloudfront"
-    },
-    {
       "name": "x-powered-by",
       "value": "ASP.NET"
     }
   ],
-  "contentSize": 121732,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Subdivision Public Reports Lookup System",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:34.610Z",
   "finalUrl": "https://sprls.dre.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -15,16 +14,8 @@
       "value": "private"
     },
     {
-      "name": "content-length",
-      "value": "17231"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:33 GMT"
     },
     {
       "name": "strict-transport-security",
@@ -35,7 +26,6 @@
       "value": "DRE"
     }
   ],
-  "contentSize": 17231,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

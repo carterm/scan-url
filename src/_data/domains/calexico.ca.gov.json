@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Calexico, CA",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:00.450Z",
   "finalUrl": "https://www.calexico.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -15,16 +14,8 @@
       "value": "no-store, must-revalidate, private,must-revalidate,max-age=0,private"
     },
     {
-      "name": "content-length",
-      "value": "56217"
-    },
-    {
       "name": "content-type",
       "value": "text/html"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:58 GMT"
     },
     {
       "name": "expires",
@@ -39,10 +30,6 @@
       "value": "no-cache"
     },
     {
-      "name": "set-cookie",
-      "value": "ASPSESSIONIDSWDSQRBC=PCALHPJBFMJEAMPDAOBCBJFG; secure; path=/; path=/; secure; HttpOnly; SameSite=Strict"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=360;"
     },
@@ -52,10 +39,9 @@
     },
     {
       "name": "x-wt",
-      "value": "484"
+      "value": "78"
     }
   ],
-  "contentSize": 56217,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

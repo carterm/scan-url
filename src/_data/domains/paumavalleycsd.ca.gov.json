@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Homepage Pauma Valley Community Services District",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:29.997Z",
   "finalUrl": "https://paumavalleycsd.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -23,36 +22,12 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:28 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "W/\"cf84e13c8e5f744d025bc6d67cc07ba2\""
-    },
-    {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
     },
     {
       "name": "server",
       "value": "nginx"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ahoy_visitor=356444a2-db9f-4812-aff3-d4788e84aadb; path=/; expires=Sun, 23 Jan 2028 23:08:28 GMT"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ahoy_visit=9e752031-7e0a-4cff-b4e1-76e530b63132; path=/; expires=Sat, 24 Jan 2026 03:08:28 GMT"
-    },
-    {
-      "name": "set-cookie",
-      "value": "XSRF-TOKEN=jQh%2BQszIdF08P%2BSpmae21Hn6fNIUhnPgI56A58P1hc72MopMsXyZtnl3whg9zPBigju%2FFMYl86sZJGKftaxgJA%3D%3D; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "_traction_session=%2BoBHPIMAmOhe2Z6O2N3rzrKjPRDmQbi%2BwoKM8sMDJc0M7VS7Vi7cY8p5KV4%2B36Exv7X57tAj33srnb%2B9TVfTteJ%2FiMM5UGURWcomXqi6lc3EBWIJHrqXMqtFJxExVB6AczTdpSd9LLjD0E53h8g%3D--W%2BqRTUi%2B2KeKvm%2BT--jwW24M5eoJzMnXsd9%2BOfkA%3D%3D; path=/; HttpOnly"
     },
     {
       "name": "strict-transport-security",
@@ -80,18 +55,17 @@
     },
     {
       "name": "x-request-id",
-      "value": "32b03f39-1be9-4a79-971c-16efaf4ccd82"
+      "value": "3db0d4d6-fc99-4363-a165-135046b33e34"
     },
     {
       "name": "x-runtime",
-      "value": "0.032320"
+      "value": "0.050317"
     },
     {
       "name": "x-xss-protection",
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 94840,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "HCAI - Department of Health Care Access and Information",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:17.658Z",
   "finalUrl": "https://hcai.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -19,10 +18,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:17 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://hcai.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://hcai.ca.gov/wp-json/wp/v2/pages/8974>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://hcai.ca.gov/>; rel=shortlink"
     },
@@ -33,10 +28,6 @@
     {
       "name": "transfer-encoding",
       "value": "chunked"
-    },
-    {
-      "name": "x-cache",
-      "value": "HIT"
     },
     {
       "name": "x-content-type-options",
@@ -59,7 +50,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 146047,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

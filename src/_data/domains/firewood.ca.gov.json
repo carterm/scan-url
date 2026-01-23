@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California Firewood Task Force | Home",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:16.432Z",
   "finalUrl": "https://www.firewood.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -19,35 +18,14 @@
       "value": "keep-alive"
     },
     {
-      "name": "content-length",
-      "value": "15862"
-    },
-    {
       "name": "content-type",
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:16 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "\"c842a853aa8ad91:0\""
-    },
-    {
       "name": "last-modified",
       "value": "Fri, 19 May 2023 23:33:33 GMT"
-    },
-    {
-      "name": "x-azure-ref",
-      "value": "20260123T230816Z-16f45f5c75b8ps9thC1BY1ynb40000000510000000007wv4"
-    },
-    {
-      "name": "x-cache",
-      "value": "CONFIG_NOCACHE"
     }
   ],
-  "contentSize": 15862,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Business Activity Reporting System - DRE",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:07:56.970Z",
   "finalUrl": "https://bars.dre.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -15,32 +14,12 @@
       "value": "private"
     },
     {
-      "name": "content-length",
-      "value": "18078"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:56 GMT"
-    },
-    {
       "name": "server",
       "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ASP.NET_SessionId=vyyis1tgtufwibpffp54klne; path=/; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ASP.NET_SessionId=vyyis1tgtufwibpffp54klne; path=/; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__RequestVerificationToken=6p76q17VdMN9_fj1pyZD4kJu_78nQYK8lz1MiUCCyikmc2n0WjrWaDJ-uY5-qeyElXQabASvJAPp8qyTSFr4ehm3wcDni7BroFGoSXKOcFU1; path=/; HttpOnly"
     },
     {
       "name": "strict-transport-security",
@@ -63,7 +42,6 @@
       "value": "ASP.NET"
     }
   ],
-  "contentSize": 18078,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

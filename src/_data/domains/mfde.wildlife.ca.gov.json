@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Marine Fisheries Data Explorer",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:22.194Z",
   "finalUrl": "https://mfde.wildlife.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -19,20 +18,8 @@
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "2123"
-    },
-    {
       "name": "content-type",
       "value": "text/html"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:21 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "\"069dd3ff348dc1:0\""
     },
     {
       "name": "last-modified",
@@ -41,14 +28,6 @@
     {
       "name": "server",
       "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ARRAffinity=c4e34dc9b85e418172115e442ce70046a8d27f4d70c6d8bf41502e04a4664c15;Path=/;HttpOnly;Secure;Domain=mfde.wildlife.ca.gov"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ARRAffinitySameSite=c4e34dc9b85e418172115e442ce70046a8d27f4d70c6d8bf41502e04a4664c15;Path=/;HttpOnly;SameSite=None;Secure;Domain=mfde.wildlife.ca.gov"
     },
     {
       "name": "strict-transport-security",
@@ -63,7 +42,6 @@
       "value": "ASP.NET"
     }
   ],
-  "contentSize": 3744,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

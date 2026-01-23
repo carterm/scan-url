@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "FYH | Foster Youth Help",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:23.247Z",
   "finalUrl": "https://fosteryouthhelp.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af3b83cb13507-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:17 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://fosteryouthhelp.ca.gov/>; rel=shortlink"
     },
@@ -59,10 +50,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "__cf_bm=JDQ98cbexaQWBN4s2_DjP.KcBpNKsG3EJsthbiVVcJc-1769209697-1.0.1.1-y8NmZLsbnKSbOyRfisv9e360QKv2xCGJniFGpb2f9i32LRrQRpDPW4dbe28O_KUm9Tu0q0O6ce34IGdbfs4FLTfLPWV8bYc4.A4rHw4hzIU; path=/; expires=Fri, 23-Jan-26 23:38:17 GMT; domain=.fosteryouthhelp.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -73,10 +60,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS"
     },
     {
       "name": "x-cache-group",
@@ -95,7 +78,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 292221,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

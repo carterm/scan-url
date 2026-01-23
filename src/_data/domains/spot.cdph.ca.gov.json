@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "SPOT",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:36.494Z",
   "finalUrl": "https://spot.cdph.ca.gov/s/?language=en_US",
   "metaGenerator": null,
   "responseHeaders": [
@@ -24,23 +23,19 @@
     },
     {
       "name": "content-security-policy-report-only",
-      "value": "script-src https://pay.google.com https://www.gstatic.com/recaptcha/ https://uip.canary.lwc.dev 'unsafe-inline' https://cdn.content.aws-dev2-uswest2.aws.sfdc.cl/ 'self' https://payments.salesforce.com/ https://checkoutshopper-test.adyen.com/ https://pal-test.adyen.com blob: https://youtu.be https://www.google.com/recaptcha/ https://js.stripe.com/ https://checkoutshopper-live.adyen.com/ import: https://cdn.content.aws-prod1-useast1.aws.sfdc.cl/ *.salesforce.com https://www.paypal.com/sdk/js 'report-sample' https://service.force.com/embeddedservice/ https://www.youtube.com 'unsafe-eval'; report-to sfdc-csp-ep; report-uri https://cdphct.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Dt00000004XQC&networkId=0DMt0000000PBdO&type=communities"
+      "value": "font-src https://www.google.com *.force.com https://tagmanager.google.com https://fonts.gstatic.com/ 'self' https://stats.g.doubleclick.net blob: https://www.gstatic.com https://www.googletagmanager.com https://ssl.gstatic.com https://www.google-analytics.com *.salesforce.com https://public.tableau.com https://www.ocgov.com data:; report-to sfdc-csp-ep; report-uri https://cdphct.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Dt00000004XQC&networkId=0DMt0000000PBdO&type=communities"
     },
     {
       "name": "content-type",
       "value": "text/html;charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:34 GMT"
-    },
-    {
       "name": "expires",
-      "value": "Thu, 23 Jan 2025 23:08:35 GMT"
+      "value": "Thu, 23 Jan 2025 23:34:17 GMT"
     },
     {
       "name": "last-modified",
-      "value": "Thu, 23 Jan 2025 23:08:35 GMT"
+      "value": "Thu, 23 Jan 2025 23:34:17 GMT"
     },
     {
       "name": "link",
@@ -48,7 +43,7 @@
     },
     {
       "name": "report-to",
-      "value": "{\"endpoints\":[{\"url\":\"https://cdphct.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Dt00000004XQC&networkId=0DMt0000000PBdO&type=communities\"}],\"max_age\":31536000,\"group\":\"sfdc-csp-ep\"}"
+      "value": "{\"max_age\":31536000,\"endpoints\":[{\"url\":\"https://cdphct.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Dt00000004XQC&networkId=0DMt0000000PBdO&type=communities\"}],\"group\":\"sfdc-csp-ep\"}"
     },
     {
       "name": "reporting-endpoints",
@@ -60,31 +55,7 @@
     },
     {
       "name": "server-timing",
-      "value": "Headers;dur=184"
-    },
-    {
-      "name": "set-cookie",
-      "value": "CookieConsentPolicy=0:1; path=/; expires=Sat, 23-Jan-2027 23:08:34 GMT; Max-Age=31536000; secure"
-    },
-    {
-      "name": "set-cookie",
-      "value": "LSKey-c$CookieConsentPolicy=0:1; path=/; expires=Sat, 23-Jan-2027 23:08:34 GMT; Max-Age=31536000; secure"
-    },
-    {
-      "name": "set-cookie",
-      "value": "PicassoLanguage4c9c189a-5a32-4355-b637-6ca105c48a7ePublished=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0"
-    },
-    {
-      "name": "set-cookie",
-      "value": "renderCtx=%7B%22pageId%22%3A%227703c7df-dc87-4a95-aa43-e644b0145280%22%2C%22schema%22%3A%22Published%22%2C%22viewType%22%3A%22Published%22%2C%22brandingSetId%22%3A%2254ca7d0f-4986-4a1d-a524-f5605950c413%22%2C%22audienceIds%22%3A%226Aut000000000ZB%22%7D; path=/s; secure"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS01dc4fc6=01e66920c75bb0f25a74fd8533e801750b7322ae6b590f645e62a80942358c4154214b98eeccd65c667da3f46e50805e69e61548a6; Path=/; Secure; HttpOnly; SameSite=Strict; "
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS0122c47a=01e66920c75bb0f25a74fd8533e801750b7322ae6b590f645e62a80942358c4154214b98eeccd65c667da3f46e50805e69e61548a6; path=/s"
+      "value": "Headers;dur=185"
     },
     {
       "name": "strict-transport-security",
@@ -107,10 +78,6 @@
       "value": "nosniff"
     },
     {
-      "name": "x-envoy-upstream-service-time",
-      "value": "460"
-    },
-    {
       "name": "x-frame-options",
       "value": "SAMEORIGIN"
     },
@@ -119,7 +86,6 @@
       "value": "sv10-sjc"
     }
   ],
-  "contentSize": 120554,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

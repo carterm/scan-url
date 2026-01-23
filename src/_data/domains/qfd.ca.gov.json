@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Homepage Quincy Fire Protection District",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:33.146Z",
   "finalUrl": "https://qfd.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -23,36 +22,12 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:31 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "W/\"3cc69277469a019215e98f3dc0fa9efd\""
-    },
-    {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
     },
     {
       "name": "server",
       "value": "nginx"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ahoy_visitor=d9333151-92ba-49a7-9f32-a76408c07185; path=/; expires=Sun, 23 Jan 2028 23:08:29 GMT"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ahoy_visit=b95e11d8-7606-456a-92ab-78350f801b7c; path=/; expires=Sat, 24 Jan 2026 03:08:29 GMT"
-    },
-    {
-      "name": "set-cookie",
-      "value": "XSRF-TOKEN=6b7oE8q97lyhB%2FPXuPHT%2Bun59QtrnghEbT0oy4XMADzZ4%2BRdgdCMS3D4xnGqrTv2SPB47h8Ch3%2F6yEsKnGYE7g%3D%3D; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "_traction_session=tF%2F9i6j0yxdOPleptfum9vyXmErMm%2ByMCKmsZ8JQn0f2nGzBWfYLoNxDXWJrgGDrD84rKQkBPD%2FLEkT%2FiCHFY5XqtE1DmGyCeubXJHnvnIpOVPiBnT9PlpssEP7DtA59naVWG8bjazaH6bCpy88%3D--5M5tyweBo2Yqe15o--yG7y6mlfn%2B9cB%2B4E5a5XfA%3D%3D; path=/; HttpOnly"
     },
     {
       "name": "strict-transport-security",
@@ -80,18 +55,17 @@
     },
     {
       "name": "x-request-id",
-      "value": "05a5c647-d17a-4c03-82b6-5b0d5fccd421"
+      "value": "a3c01f25-4a4d-4496-8cd3-c9787deb61d6"
     },
     {
       "name": "x-runtime",
-      "value": "1.569911"
+      "value": "0.958139"
     },
     {
       "name": "x-xss-protection",
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 110033,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

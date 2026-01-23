@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California Department of Conservation",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:10.037Z",
   "finalUrl": "https://www.conservation.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -23,10 +22,6 @@
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "23241"
-    },
-    {
       "name": "content-security-policy",
       "value": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;"
     },
@@ -35,12 +30,8 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:08 GMT"
-    },
-    {
       "name": "expires",
-      "value": "Fri, 23 Jan 2026 23:11:08 GMT"
+      "value": "Fri, 23 Jan 2026 23:36:55 GMT"
     },
     {
       "name": "microsoftsharepointteamservices",
@@ -48,19 +39,11 @@
     },
     {
       "name": "request-id",
-      "value": "a4f4efa1-e2a7-c0cd-1d08-51017215fe43"
+      "value": "1ef6efa1-6237-c0cd-34e9-12c26119f2c1"
     },
     {
       "name": "server",
       "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "set-cookie",
-      "value": "pubsite-gwCORS=8d15abb1f80a0e01d0a0d7e4077a2fad; Path=/; SameSite=None; Secure"
-    },
-    {
-      "name": "set-cookie",
-      "value": "pubsite-gw=8d15abb1f80a0e01d0a0d7e4077a2fad; Path=/"
     },
     {
       "name": "spiislatency",
@@ -68,11 +51,11 @@
     },
     {
       "name": "sprequestduration",
-      "value": "125"
+      "value": "130"
     },
     {
       "name": "sprequestguid",
-      "value": "a4f4efa1-e2a7-c0cd-1d08-51017215fe43"
+      "value": "1ef6efa1-6237-c0cd-34e9-12c26119f2c1"
     },
     {
       "name": "vary",
@@ -103,7 +86,6 @@
       "value": "0"
     }
   ],
-  "contentSize": 81422,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

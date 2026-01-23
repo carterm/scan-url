@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "City of La Cañada Flintridge",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:25.266Z",
   "finalUrl": "https://lcf.ca.gov/",
   "metaGenerator": "All in One SEO (AIOSEO) 4.9.3",
   "responseHeaders": [
@@ -31,10 +30,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:20 GMT"
-    },
-    {
       "name": "keep-alive",
       "value": "timeout=20"
     },
@@ -55,10 +50,6 @@
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
     },
     {
-      "name": "x-cache",
-      "value": "HIT: 12"
-    },
-    {
       "name": "x-cache-group",
       "value": "normal"
     },
@@ -71,7 +62,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 386934,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

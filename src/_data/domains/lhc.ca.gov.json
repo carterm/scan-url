@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Home - Little Hoover Commission",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:22.586Z",
   "finalUrl": "https://lhc.ca.gov/",
   "metaGenerator": "WordPress 6.9",
   "responseHeaders": [
@@ -23,10 +22,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:21 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://lhc.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://lhc.ca.gov/wp-json/wp/v2/pages/2956>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://lhc.ca.gov/>; rel=shortlink"
     },
@@ -41,10 +36,6 @@
     {
       "name": "transfer-encoding",
       "value": "chunked"
-    },
-    {
-      "name": "x-cache",
-      "value": "HIT"
     },
     {
       "name": "x-cache-hit-level",
@@ -75,7 +66,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 169199,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

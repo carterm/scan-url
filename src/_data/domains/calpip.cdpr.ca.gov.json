@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "CalPIP Home - California Pesticide Information Portal",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:01.473Z",
   "finalUrl": "https://calpip.cdpr.ca.gov/main.cfm",
   "metaGenerator": null,
   "responseHeaders": [
@@ -27,32 +26,12 @@
       "value": "text/html;charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:00 GMT"
-    },
-    {
       "name": "keep-alive",
       "value": "timeout=15, max=100"
     },
     {
       "name": "server",
       "value": "Apache"
-    },
-    {
-      "name": "set-cookie",
-      "value": "CFID=1256335; Expires=Sun, 16 Jan 2056 23:08:00 GMT; Path=/; Secure; HttpOnly;HttpOnly;Secure;SameSite=Strict"
-    },
-    {
-      "name": "set-cookie",
-      "value": "CFTOKEN=88895366; Expires=Sun, 16 Jan 2056 23:08:00 GMT; Path=/; Secure; HttpOnly;HttpOnly;Secure;SameSite=Strict"
-    },
-    {
-      "name": "set-cookie",
-      "value": "visid_incap_817311=0gdQJUt+T0ulAVEER3Vp+U//c2kAAAAAQUIPAAAAAADeUmO4c8AJTtER1GCSfY9R; expires=Sat, 23 Jan 2027 07:04:52 GMT; HttpOnly; path=/; Domain=.cdpr.ca.gov; Secure; SameSite=None"
-    },
-    {
-      "name": "set-cookie",
-      "value": "incap_ses_362_817311=P78keGzPXX0q3A0TMRUGBU//c2kAAAAAhxsvjbLJmMGghdxYkNTrvw==; path=/; Domain=.cdpr.ca.gov; Secure; SameSite=None"
     },
     {
       "name": "strict-transport-security",
@@ -72,14 +51,13 @@
     },
     {
       "name": "x-iinfo",
-      "value": "21-6318796-6318808 NNYN CT(9 13 0) RT(1769209679412 575) q(0 0 0 0) r(1 1) U12"
+      "value": "47-183462736-183462964 NNYN CT(25 23 0) RT(1769211228221 728) q(0 0 0 -1) r(1 1) U12"
     },
     {
       "name": "x-ua-compatible",
       "value": "IE=edge"
     }
   ],
-  "contentSize": 41267,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

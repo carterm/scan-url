@@ -6,17 +6,12 @@
   "includeInScan": true,
   "title": "Front Page | California Courts Newsroom",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:29.935Z",
   "finalUrl": "https://newsroom.courts.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
     {
       "name": "accept-ranges",
       "value": "bytes"
-    },
-    {
-      "name": "age",
-      "value": "22"
     },
     {
       "name": "cache-control",
@@ -35,20 +30,8 @@
       "value": "en"
     },
     {
-      "name": "content-length",
-      "value": "32811"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:23 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "W/\"1769209681\""
     },
     {
       "name": "expires",
@@ -75,14 +58,6 @@
       "value": "1.1 varnish, 1.1 varnish, 1.1 varnish, 1.1 varnish"
     },
     {
-      "name": "x-cache",
-      "value": "MISS, HIT, MISS, MISS"
-    },
-    {
-      "name": "x-cache-hits",
-      "value": "0, 1, 0, 0"
-    },
-    {
       "name": "x-content-type-options",
       "value": "nosniff"
     },
@@ -107,23 +82,14 @@
       "value": "styx-fe1-b-6d866b556d-m9krg"
     },
     {
-      "name": "x-served-by",
-      "value": "cache-chi-klot8100137-CHI, cache-sjc1000129-SJC, cache-sjc1000129-SJC, cache-sjc10036-SJC"
-    },
-    {
       "name": "x-styx-req-id",
       "value": "5d609d69-f8b0-11f0-8a4b-1af615ee3ba5"
-    },
-    {
-      "name": "x-timer",
-      "value": "S1769209704.989473,VS0,VE8"
     },
     {
       "name": "x-ua-compatible",
       "value": "IE=edge"
     }
   ],
-  "contentSize": 101294,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

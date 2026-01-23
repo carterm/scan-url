@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California Commission on APIA Affairs | Empowering & Elevating AANHPI Communities In California",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:09.045Z",
   "finalUrl": "https://capiaa.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af35a1e44a495-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:02 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://capiaa.ca.gov/>; rel=shortlink"
     },
@@ -59,10 +50,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "__cf_bm=PnAiUtWcs8kHt8VjaY.kVsJt6BOoFhUz_IFv.cLsXYc-1769209682-1.0.1.1-UPPbTOO_L5oBFght5FSLlCUjIjqU_xvf9vOy4MSISY_rFfFz451XbjqmsZ7zq0Q5JyfagzAvHkWD4y2fKoUQuBSqdgpQnN44cGL_M83ksjQ; path=/; expires=Fri, 23-Jan-26 23:38:02 GMT; domain=.capiaa.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -73,10 +60,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS"
     },
     {
       "name": "x-cache-group",
@@ -95,7 +78,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 247011,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

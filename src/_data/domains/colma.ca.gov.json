@@ -4,71 +4,18 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "Home - Town of Colma",
-  "lastStatus": 200,
-  "lastChecked": "2026-01-23T22:53:50.340Z",
-  "finalUrl": "https://www.colma.ca.gov/",
-  "metaGenerator": "Site Kit by Google 1.170.0",
-  "responseHeaders": [
-    {
-      "name": "cache-control",
-      "value": "max-age=0"
-    },
-    {
-      "name": "connection",
-      "value": "close"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-length",
-      "value": "17056"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 22:53:48 GMT"
-    },
-    {
-      "name": "expires",
-      "value": "Fri, 23 Jan 2026 22:53:48 GMT"
-    },
-    {
-      "name": "link",
-      "value": "<https://www.colma.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.colma.ca.gov/wp-json/wp/v2/pages/3186>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.colma.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=15724800; includeSubDomains"
-    },
-    {
-      "name": "vary",
-      "value": "X-Forwarded-Proto,Accept-Encoding"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "PHP/8.2.30"
-    }
-  ],
-  "contentSize": 77237,
+  "title": "",
+  "lastStatus": null,
+  "finalUrl": null,
+  "metaGenerator": null,
+  "responseHeaders": [],
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [
-    "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.colma.ca.gov",
-    "https://twitter.com/share?url=https%3A%2F%2Fwww.colma.ca.gov",
-    "https://twitter.com/townofcolma",
-    "https://instagram.com/townofcolmaofficial",
-    "https://facebook.com/townofcolma"
-  ],
+  "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

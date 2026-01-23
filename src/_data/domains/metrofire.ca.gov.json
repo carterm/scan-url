@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Homepage Sacramento Metropolitan Fire District",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:25.828Z",
   "finalUrl": "https://metrofire.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -23,36 +22,12 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:23 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "W/\"1a71f8bd08ac69065d5338576fba42e6\""
-    },
-    {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
     },
     {
       "name": "server",
       "value": "nginx"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ahoy_visitor=429b6476-94a4-4411-b294-4f87a7fe8ecc; path=/; expires=Sun, 23 Jan 2028 23:08:21 GMT"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ahoy_visit=be328ece-c383-4d96-9a02-40c442b616e1; path=/; expires=Sat, 24 Jan 2026 03:08:21 GMT"
-    },
-    {
-      "name": "set-cookie",
-      "value": "XSRF-TOKEN=BHOAeo%2FZFg6wn1XRz%2BrlIeShjbUMNiua4K%2BpQZms4Y3nQsighYmRaQMMKrXL7S6fwCH9%2FPxSTryaqMuM0dopcA%3D%3D; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "_traction_session=IjiYOx%2Fd04mTRf6Zq17K4LBYr8t7PrWu6nGTTY%2B2QQS2XbrhMMrgiLwUpKidn3lcsI5ET2RAzkciZwDdAxj1%2F6JaibeJ7XnOWU1NGBCmm56F1vsPf9m3e9%2FCxdl2hG99%2BIQX2yPEixr%2FsBsIrtA%3D--%2F7Cr3OSoYedjYse5--g56WLDl5MpLQ88%2BaHFc4Tg%3D%3D; path=/; HttpOnly"
     },
     {
       "name": "strict-transport-security",
@@ -80,18 +55,17 @@
     },
     {
       "name": "x-request-id",
-      "value": "9c942328-b43c-424d-aa3a-ed9996159c72"
+      "value": "21cb98aa-29a9-4fa2-a1f9-fc0299f1ebcd"
     },
     {
       "name": "x-runtime",
-      "value": "1.654857"
+      "value": "1.430981"
     },
     {
       "name": "x-xss-protection",
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 128166,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

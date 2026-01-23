@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California Office of the Small Business Advocate (CalOSBA)",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:44.907Z",
   "finalUrl": "https://www.calosba.ca.gov/",
   "metaGenerator": "CAWeb v.1.5.2a",
   "responseHeaders": [
@@ -23,24 +22,12 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:01 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://www.calosba.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.calosba.ca.gov/wp-json/wp/v2/pages/295>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.calosba.ca.gov/>; rel=shortlink"
     },
     {
       "name": "server",
       "value": "Apache"
-    },
-    {
-      "name": "set-cookie",
-      "value": "caweb-alert-id-0=1"
-    },
-    {
-      "name": "set-cookie",
-      "value": "caweb-alert-id-1=1"
     },
     {
       "name": "transfer-encoding",
@@ -51,7 +38,6 @@
       "value": "Accept-Encoding"
     }
   ],
-  "contentSize": 4754674,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

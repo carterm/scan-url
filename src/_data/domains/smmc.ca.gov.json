@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Santa Monica Mountains Conservancy – Welcome to California",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:36.934Z",
   "finalUrl": "https://smmc.ca.gov/",
   "metaGenerator": "CAWeb v.1.4.21",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:31 GMT"
     },
     {
       "name": "expires",
@@ -47,15 +42,10 @@
       "value": "Apache"
     },
     {
-      "name": "set-cookie",
-      "value": "PHPSESSID=3be8bc3d0ee26e2f7afd8ff0b041a9eb; path=/; secure; HttpOnly"
-    },
-    {
       "name": "transfer-encoding",
       "value": "chunked"
     }
   ],
-  "contentSize": 80245,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

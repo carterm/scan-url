@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Cal Guard | Cal Guard",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:06.103Z",
   "finalUrl": "https://calguard.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af34f6f3f3507-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:00 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://calguard.ca.gov/>; rel=shortlink"
     },
@@ -59,10 +50,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "__cf_bm=Av68Q34ZtjE8MXb.AjVgR_emy_cPPuVS6p8M7A4hGcE-1769209680-1.0.1.1-ljdavpcAkNKSVn26qkYzNfIaTVHHGFLt77iZ4KLZERFmu4N54BxDs5x70g1dt34CbHeN.LBowj.zpLm_zUx.KzSyfg4mYAcCdsNcUDKToEk; path=/; expires=Fri, 23-Jan-26 23:38:00 GMT; domain=.calguard.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -73,10 +60,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS"
     },
     {
       "name": "x-cache-group",
@@ -95,7 +78,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 200770,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

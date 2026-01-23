@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Homepage Antelope Valley Air Quality Management District",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:07:58.725Z",
   "finalUrl": "https://www.avaqmd.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -23,36 +22,12 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:57 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "W/\"bb01ded6162b17fb6f278e98663a5367\""
-    },
-    {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
     },
     {
       "name": "server",
       "value": "nginx"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ahoy_visitor=52e9edb2-81f3-4fd5-8a8e-947109f9e90c; path=/; expires=Sun, 23 Jan 2028 23:07:57 GMT"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ahoy_visit=c539f9d3-be93-4e6d-b42d-e53c3b01a96c; path=/; expires=Sat, 24 Jan 2026 03:07:57 GMT"
-    },
-    {
-      "name": "set-cookie",
-      "value": "XSRF-TOKEN=85JkziJ3mXzkyDJjiOT6SddJSe0lzgyHzu11NlIPiceW3edWXkzIapilOg%2BhGMT1e8lNJo1gjaVp0CqhO%2Bnp3A%3D%3D; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "_traction_session=DM9YqUzMcZmVmrLrE7OgUSpsQArIyNdMBMJokilXfwDCYENSqF7vx%2F87R%2B%2BIK1J67bzKBxQUT4HNw0dEq0oXuEf9s%2FD3a6295uA8eso0eMnmGtfCNr3ZOiipfkiN6aGJwkvBF%2F8BPgAt274e%2FS4%3D--o2B3ePPWBUW30Vd7--WGYPqo0NhLLeP8icSQLr4w%3D%3D; path=/; HttpOnly"
     },
     {
       "name": "strict-transport-security",
@@ -80,18 +55,17 @@
     },
     {
       "name": "x-request-id",
-      "value": "04c80186-e9c3-43ef-b740-623d0891dbd7"
+      "value": "8eb7abf6-6f80-4e15-af7a-a598813e0bf0"
     },
     {
       "name": "x-runtime",
-      "value": "0.040903"
+      "value": "0.033006"
     },
     {
       "name": "x-xss-protection",
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 95121,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

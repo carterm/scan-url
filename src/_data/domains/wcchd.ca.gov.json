@@ -6,17 +6,12 @@
   "includeInScan": true,
   "title": "West Contra Costa Healthcare District",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:41.271Z",
   "finalUrl": "https://wcchd.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
     {
       "name": "alt-svc",
       "value": "h3=\":443\"; ma=86400"
-    },
-    {
-      "name": "cache-control",
-      "value": "max-age=289, must-revalidate"
     },
     {
       "name": "connection",
@@ -31,16 +26,8 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:39 GMT"
-    },
-    {
       "name": "host-header",
       "value": "wpcloud"
-    },
-    {
-      "name": "last-modified",
-      "value": "Thu, 22 Jan 2026 21:43:46 GMT"
     },
     {
       "name": "link",
@@ -52,7 +39,7 @@
     },
     {
       "name": "server-timing",
-      "value": "a8c-cdn, dc;desc=sjc, cache;desc=STALE;dur=4.0"
+      "value": "a8c-cdn, dc;desc=bur, cache;desc=STALE;dur=1.0"
     },
     {
       "name": "strict-transport-security",
@@ -68,14 +55,9 @@
     },
     {
       "name": "x-ac",
-      "value": "3.sjc _atomic_bur STALE"
-    },
-    {
-      "name": "x-nananana",
-      "value": "Batcache-Hit"
+      "value": "20.bur _atomic_bur STALE"
     }
   ],
-  "contentSize": 42513,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Log In ‹ Find a new way — WordPress",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:16.949Z",
   "finalUrl": "https://findanewway.ca.gov/wp-login.php",
   "metaGenerator": null,
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af3b5be156e7e-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:16 GMT"
-    },
-    {
       "name": "expires",
       "value": "Thu, 19 Nov 1981 08:52:00 GMT"
     },
@@ -63,28 +54,12 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "wordpress_test_cookie=WP%20Cookie%20check; secure; HttpOnly"
-    },
-    {
-      "name": "set-cookie",
-      "value": "PHPSESSID=45b7943dfa0bff343d4ee7c6f51028e5; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__cf_bm=6M2unUk0XrgrG62rDiIVdcYp7GXctaPipeZx81c..SY-1769209696-1.0.1.1-P0NuvtRcppXLO84fS4Z8WSxJeIpgTilJ4P8OZOqHAK9uftIklyDXA3N0lNz3ZPyHjkYN61lA8_pa979ybcmd.aGyUeSCc5NyH7tk5sBHUlw; path=/; expires=Fri, 23-Jan-26 23:38:16 GMT; domain=.findanewway.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "transfer-encoding",
       "value": "chunked"
     },
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS"
     },
     {
       "name": "x-cacheable",
@@ -107,7 +82,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 11723,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California DMV",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:14.656Z",
   "finalUrl": "https://www.dmv.ca.gov/portal/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -15,12 +14,8 @@
       "value": "https://www.dmv.ca.gov"
     },
     {
-      "name": "age",
-      "value": "200"
-    },
-    {
       "name": "cache-control",
-      "value": "max-age=300, must-revalidate"
+      "value": "max-age=299, must-revalidate"
     },
     {
       "name": "connection",
@@ -39,12 +34,8 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:04:52 GMT"
-    },
-    {
       "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 23:04:52 GMT"
+      "value": "Fri, 23 Jan 2026 23:29:52 GMT"
     },
     {
       "name": "link",
@@ -52,7 +43,7 @@
     },
     {
       "name": "on-ws",
-      "value": "prd1"
+      "value": "prd2"
     },
     {
       "name": "p3p",
@@ -61,22 +52,6 @@
     {
       "name": "server",
       "value": "volt-adc"
-    },
-    {
-      "name": "set-cookie",
-      "value": "AWSALB=xnfgYzqn9Y2uTDE8bzoW7dbHB/VZ+s6KfsCWFIYu8NzhobPrGmABzfYRV9fj3svhgIjF5/A2iv2xMWOmbY6T8Vkl0FNCyJbMZHAANseGGkllOUlIalSFf+/ONenE; Expires=Fri, 30 Jan 2026 23:04:52 GMT; Path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "AWSALBCORS=xnfgYzqn9Y2uTDE8bzoW7dbHB/VZ+s6KfsCWFIYu8NzhobPrGmABzfYRV9fj3svhgIjF5/A2iv2xMWOmbY6T8Vkl0FNCyJbMZHAANseGGkllOUlIalSFf+/ONenE; Expires=Fri, 30 Jan 2026 23:04:52 GMT; Path=/; SameSite=None; Secure"
-    },
-    {
-      "name": "set-cookie",
-      "value": "PD_STATEFUL_0531fc7e-9a22-11ea-bf4d-fa163e384dc6=%2Fportal; Path=/; SameSite=None; Secure; HttpOnly"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS01dc4fc6=01e66920c75110773c8a53d5bfb06996b9ec44f82b674e925f6d59dd6bef27e041bbb7802fcbe4f3b1650018bbe12d06c00822fc32; Path=/; Secure; HttpOnly; SameSite=Strict;"
     },
     {
       "name": "strict-transport-security",
@@ -92,27 +67,19 @@
     },
     {
       "name": "via",
-      "value": "1.1 fb7105f9421933293beb9186f66d67e8.cloudfront.net (CloudFront)"
+      "value": "1.1 aa5f099352c5555cec23a954f4bd95f4.cloudfront.net (CloudFront)"
     },
     {
       "name": "x-amz-cf-id",
-      "value": "FLAOQioIw2NUl8T2df-7JE7dU3JEkMp2YmMB1Z6NfQA2_DrPWoHzPg=="
+      "value": "I4MFH8-uthlEZO2-ZDdceYWa5SGbgCW2DYlXCymfkl5PD6WHoYnU1w=="
     },
     {
       "name": "x-amz-cf-pop",
       "value": "LAX54-P11"
     },
     {
-      "name": "x-cache",
-      "value": "Hit from cloudfront"
-    },
-    {
       "name": "x-elasticpress-query",
       "value": "true"
-    },
-    {
-      "name": "x-envoy-upstream-service-time",
-      "value": "44"
     },
     {
       "name": "x-frame-options",
@@ -123,7 +90,6 @@
       "value": "b-sv10-sjc"
     }
   ],
-  "contentSize": 105061,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

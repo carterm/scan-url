@@ -6,17 +6,12 @@
   "includeInScan": true,
   "title": "Self-Help Guide to the California Courts | California Courts | Self Help Guide",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:40.535Z",
   "finalUrl": "https://www.sucorte.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
     {
       "name": "accept-ranges",
       "value": "bytes"
-    },
-    {
-      "name": "age",
-      "value": "0"
     },
     {
       "name": "cache-control",
@@ -35,24 +30,12 @@
       "value": "en"
     },
     {
-      "name": "content-length",
-      "value": "49131"
-    },
-    {
       "name": "content-security-policy",
       "value": "frame-ancestors 'self' courts.ca.gov *.courts.ca.gov develop-jcc-courts.pantheonsite.io stage-jcc-courts.pantheonsite.io epic-uat-jcc-courts.pantheonsite.io develop-jcc-appellate.pantheonsite.io stage-jcc-appellate.pantheonsite.io epic-uat-jcc-appellate.pantheonsite.io develop-jcc-supremecourt.pantheonsite.io stage-jcc-supremecourt.pantheonsite.io epic-uat-jcc-supremecourt.pantheonsite.io"
     },
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:35 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "W/\"1769167808\""
     },
     {
       "name": "expires",
@@ -79,14 +62,6 @@
       "value": "1.1 varnish, 1.1 varnish"
     },
     {
-      "name": "x-cache",
-      "value": "HIT, HIT"
-    },
-    {
-      "name": "x-cache-hits",
-      "value": "1, 0"
-    },
-    {
       "name": "x-content-type-options",
       "value": "nosniff"
     },
@@ -107,23 +82,14 @@
       "value": "styx-fe3-b-6f684c5d8c-krjch"
     },
     {
-      "name": "x-served-by",
-      "value": "cache-chi-kigq8000137-CHI, cache-sjc10047-SJC"
-    },
-    {
       "name": "x-styx-req-id",
       "value": "568bfa68-f8a6-11f0-8815-9ef699a13d1e"
-    },
-    {
-      "name": "x-timer",
-      "value": "S1769209715.130820,VS0,VE97"
     },
     {
       "name": "x-ua-compatible",
       "value": "IE=edge"
     }
   ],
-  "contentSize": 159772,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

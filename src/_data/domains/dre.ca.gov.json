@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California Department of Real Estate",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:12.819Z",
   "finalUrl": "https://www.dre.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -15,24 +14,12 @@
       "value": "private"
     },
     {
-      "name": "content-length",
-      "value": "47130"
-    },
-    {
       "name": "content-type",
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:12 GMT"
-    },
-    {
       "name": "server",
       "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ASPSESSIONIDQECAQTCA=PFMIDIPBLOIKEEHNGNEDBBED; secure; path=/"
     },
     {
       "name": "strict-transport-security",
@@ -43,7 +30,6 @@
       "value": "ASP.NET"
     }
   ],
-  "contentSize": 47130,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

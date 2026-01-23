@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Lieutenant Governor - Office of the Lt. Governor of California",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:30.730Z",
   "finalUrl": "https://ltg.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af3da291c32b4-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:22 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://ltg.ca.gov/>; rel=shortlink"
     },
@@ -59,10 +50,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "__cf_bm=.608t1BvqtVki6wzAVUgKMq5EQ.CZFG9gAzY6GUqIoY-1769209702-1.0.1.1-K9cNIiLuASZdUovQP0i2uQfanf7VG.zuguYMSU6ENLYVBUyl2LXlpixoF2S9nyg.D_EThpe7_RE11rEmBV78cdhV84mJFKQnM9jXSG5IlR8; path=/; expires=Fri, 23-Jan-26 23:38:22 GMT; domain=.ltg.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -73,10 +60,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS"
     },
     {
       "name": "x-cache-group",
@@ -95,7 +78,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 286092,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

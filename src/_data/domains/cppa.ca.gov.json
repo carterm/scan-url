@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California Privacy Protection Agency (CPPA)",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:08.018Z",
   "finalUrl": "https://www.cppa.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -29,10 +28,6 @@
     {
       "name": "content-type",
       "value": "text/html"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:07 GMT"
     },
     {
       "name": "keep-alive",
@@ -63,7 +58,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 21568,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

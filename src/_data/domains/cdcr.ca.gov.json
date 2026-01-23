@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California Department of Corrections and Rehabilitation - CDCR",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:05.472Z",
   "finalUrl": "https://www.cdcr.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -16,7 +15,7 @@
     },
     {
       "name": "cache-control",
-      "value": "max-age=205, must-revalidate"
+      "value": "max-age=118, must-revalidate"
     },
     {
       "name": "connection",
@@ -31,16 +30,12 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:01 GMT"
-    },
-    {
       "name": "host-header",
       "value": "wpcloud"
     },
     {
       "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 22:52:08 GMT"
+      "value": "Fri, 23 Jan 2026 23:27:44 GMT"
     },
     {
       "name": "link",
@@ -52,7 +47,7 @@
     },
     {
       "name": "server-timing",
-      "value": "a8c-cdn, dc;desc=sjc, cache;desc=STALE;dur=2.0"
+      "value": "a8c-cdn, dc;desc=bur, cache;desc=STALE;dur=1.0"
     },
     {
       "name": "strict-transport-security",
@@ -68,7 +63,7 @@
     },
     {
       "name": "x-ac",
-      "value": "3.sjc _atomic_bur STALE"
+      "value": "20.bur _atomic_bur STALE"
     },
     {
       "name": "x-distributor",
@@ -83,7 +78,6 @@
       "value": "Batcache-Hit"
     }
   ],
-  "contentSize": 56320,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

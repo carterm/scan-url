@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "CDPH",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:22.239Z",
   "finalUrl": "https://medassist.cdph.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -19,20 +18,8 @@
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "352"
-    },
-    {
       "name": "content-type",
       "value": "text/html"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:43 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "\"ca8d823926bedb1:0\""
     },
     {
       "name": "last-modified",
@@ -51,15 +38,10 @@
       "value": "Accept-Encoding"
     },
     {
-      "name": "x-envoy-upstream-service-time",
-      "value": "27"
-    },
-    {
       "name": "x-volterra-location",
       "value": "b-sv10-sjc"
     }
   ],
-  "contentSize": 326,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

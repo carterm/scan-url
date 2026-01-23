@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Welcome to the California Veterinary Medical Board (VMB)",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:38.988Z",
   "finalUrl": "https://www.vmb.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -31,20 +30,12 @@
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:38 GMT"
-    },
-    {
       "name": "keep-alive",
-      "value": "timeout=5, max=99"
+      "value": "timeout=5, max=70"
     },
     {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS0118504a=01ed741c22e6fefcaad52e6a8afd69f56eb11bb0e004dfe66b9474ca8b9e2bae10691afc9feb10fb0db5a8fb7cf873dc32175afd12; Path=/; Domain=.www.vmb.ca.gov"
     },
     {
       "name": "strict-transport-security",
@@ -67,7 +58,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 49742,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

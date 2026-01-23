@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Podiatric Medical Board of California",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:29.586Z",
   "finalUrl": "https://www.pmbc.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -31,20 +30,12 @@
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:29 GMT"
-    },
-    {
       "name": "keep-alive",
-      "value": "timeout=5, max=52"
+      "value": "timeout=5, max=71"
     },
     {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS0110d9ff=01ed741c225f10dd518a5ce79d3e23f2ec0d82e5c58707bc119dbde767813a1c57c7b1ffec023ab3d7f8625860a844a520385712c9; Path=/; Domain=.www.pmbc.ca.gov"
     },
     {
       "name": "strict-transport-security",
@@ -67,7 +58,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 39789,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

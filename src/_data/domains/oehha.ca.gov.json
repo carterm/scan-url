@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:24.691Z",
   "finalUrl": "https://oehha.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -19,20 +18,8 @@
       "value": "close"
     },
     {
-      "name": "content-length",
-      "value": "212"
-    },
-    {
       "name": "content-type",
       "value": "text/html"
-    },
-    {
-      "name": "set-cookie",
-      "value": "visid_incap_1712983=Fi96mioGQJqn1o0Nyw1gAWj/c2kAAAAAQUIPAAAAAAADVLz+9mlfl4tblXR/LD8x; expires=Sat, 23 Jan 2027 08:20:21 GMT; HttpOnly; path=/; Domain=.ca.gov; Secure; SameSite=None"
-    },
-    {
-      "name": "set-cookie",
-      "value": "incap_ses_189_1712983=gLiCOtvN13hIB2LRlHafAmj/c2kAAAAAKQL1krbUGDxIHXFqSdPDug==; path=/; Domain=.ca.gov; Secure; SameSite=None"
     },
     {
       "name": "strict-transport-security",
@@ -40,10 +27,9 @@
     },
     {
       "name": "x-iinfo",
-      "value": "36-79375854-0 0NNN RT(1769209703976 524) q(0 -1 -1 1) r(0 -1) B10(4,289,0) U18"
+      "value": "17-115811161-0 0NNN RT(1769211248481 407) q(0 -1 -1 5) r(0 -1) B12(4,315,0) U18"
     }
   ],
-  "contentSize": 212,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

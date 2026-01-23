@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "FERIX Home",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:15.978Z",
   "finalUrl": "https://ferix.water.ca.gov/webapp/home.jsp",
   "metaGenerator": null,
   "responseHeaders": [
@@ -19,20 +18,12 @@
       "value": "text/html;charset=ISO-8859-1"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:11:29 GMT"
-    },
-    {
       "name": "keep-alive",
       "value": "timeout=5, max=100"
     },
     {
       "name": "server",
       "value": "Apache/2.4.10 (Unix) mod_jk/1.2.40"
-    },
-    {
-      "name": "set-cookie",
-      "value": "JSESSIONID=B51C381E02443B9FBBE332E5D1F9BF1F.worker1; Path=/webapp/; Secure; HttpOnly"
     },
     {
       "name": "strict-transport-security",
@@ -43,7 +34,6 @@
       "value": "chunked"
     }
   ],
-  "contentSize": 22152,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

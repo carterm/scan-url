@@ -6,17 +6,12 @@
   "includeInScan": true,
   "title": "Watershed Conservation Authority",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:40.916Z",
   "finalUrl": "https://www.wca.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
     {
       "name": "access-control-request-method",
       "value": "GET, POST, PUT, DELETE"
-    },
-    {
-      "name": "age",
-      "value": "52"
     },
     {
       "name": "alt-svc",
@@ -29,10 +24,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af443bdb06a04-SMF"
     },
     {
       "name": "connection",
@@ -51,20 +42,12 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:38 GMT"
-    },
-    {
       "name": "expires",
-      "value": "Fri, 23 Jan 2026 23:08:46 GMT, Fri, 01 Jan 1990 00:00:00 GMT"
+      "value": "Fri, 23 Jan 2026 23:34:59 GMT, Fri, 01 Jan 1990 00:00:00 GMT"
     },
     {
       "name": "server",
       "value": "cloudflare"
-    },
-    {
-      "name": "set-cookie",
-      "value": "_nbuild_token=DVFp9jTodGJEatglZwjxZ6YksrSpvxvHGRGEWvh40eQ%3D; path=/; HttpOnly"
     },
     {
       "name": "strict-transport-security",
@@ -92,7 +75,7 @@
     },
     {
       "name": "x-middleware-start",
-      "value": "t=1769209718636255"
+      "value": "t=1769211260579109"
     },
     {
       "name": "x-nb-cached-page",
@@ -111,7 +94,6 @@
       "value": "0.350286"
     }
   ],
-  "contentSize": 41006,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "BARS",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:07:57.644Z",
   "finalUrl": "https://www.bars.technology.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -23,51 +22,22 @@
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "1406"
-    },
-    {
       "name": "content-type",
       "value": "text/html"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:56 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "\"094e8121cfda1:0\""
     },
     {
       "name": "last-modified",
       "value": "Fri, 05 Jul 2024 17:30:48 GMT"
     },
     {
-      "name": "set-cookie",
-      "value": "ARRAffinity=95b0f45caa65a8edd44ac7b207b161b7310b973b937bdd50dcc50ba93f3b56fd;Path=/;HttpOnly;Secure;Domain=bars.technology.ca.gov"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ARRAffinitySameSite=95b0f45caa65a8edd44ac7b207b161b7310b973b937bdd50dcc50ba93f3b56fd;Path=/;HttpOnly;SameSite=None;Secure;Domain=bars.technology.ca.gov"
-    },
-    {
       "name": "vary",
       "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-azure-ref",
-      "value": "20260123T230756Z-16c8dc7695d86qqchC1SJCy1bc00000019g0000000004k3v"
-    },
-    {
-      "name": "x-cache",
-      "value": "CONFIG_NOCACHE"
     },
     {
       "name": "x-powered-by",
       "value": "ASP.NET"
     }
   ],
-  "contentSize": 2335,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

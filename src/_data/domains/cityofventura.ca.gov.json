@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Ventura, CA | Official Website",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:10.934Z",
   "finalUrl": "https://www.cityofventura.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -17,10 +16,6 @@
     {
       "name": "cf-cache-status",
       "value": "EXPIRED"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af378b852d7cf-SMF"
     },
     {
       "name": "connection",
@@ -39,16 +34,12 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:06 GMT"
-    },
-    {
       "name": "expires",
-      "value": "Fri, 23 Jan 2026 23:08:36 GMT"
+      "value": "Fri, 23 Jan 2026 23:34:23 GMT"
     },
     {
       "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 23:08:06 GMT"
+      "value": "Fri, 23 Jan 2026 23:33:53 GMT"
     },
     {
       "name": "p3p",
@@ -71,7 +62,6 @@
       "value": "nosniff"
     }
   ],
-  "contentSize": 136090,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

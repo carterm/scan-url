@@ -6,11 +6,9 @@
   "includeInScan": true,
   "title": "",
   "lastStatus": null,
-  "lastChecked": null,
   "finalUrl": null,
   "metaGenerator": null,
   "responseHeaders": [],
-  "contentSize": 0,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -20,6 +18,6 @@
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
-  "errorMessage": null,
+  "errorMessage": "Fetch error: fetch failed redirect count exceeded",
   "notes": null
 }

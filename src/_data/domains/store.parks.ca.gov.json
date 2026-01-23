@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Home - California State Parks & Recreation Online Store",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:39.245Z",
   "finalUrl": "https://store.parks.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -17,10 +16,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af42f9efc32ba-SMF"
     },
     {
       "name": "connection",
@@ -35,24 +30,12 @@
       "value": "en-US"
     },
     {
-      "name": "content-length",
-      "value": "26252"
-    },
-    {
       "name": "content-security-policy",
       "value": "block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;"
     },
     {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:35 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "\"page_cache:79937503517:IndexController:45e4958b54247d8fe2ed36624b96b250\""
     },
     {
       "name": "link",
@@ -68,7 +51,7 @@
     },
     {
       "name": "report-to",
-      "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=1eDhwcaqfwxGs091vM4WKhnOQGyTDX7XXOEakAcoGUepkvKpjLQ3yxrRrQJ5rzmd6qnJCuSFxfGyEcj1RdQH0mdE6ety2UkMpmCagFF8yUIBUbPPFE6qUohF%2FhQymSNZbtN4pRHUuqbpbUHpXzQkuQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+      "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=ImltpoceXC4VC1paOKiSbgB0j3Yh4%2FV6Ek9wBR%2FMAs%2B3WwG3LoPTtorW5%2FifiWM4pI8yUtjwjwjbaeB%2B9O7H0L1YiCRcP764fxH1ihPausGBbJLXU4gfuFZZGYjvZe4l6mVRPFkDBJFPMxlUy63%2BzA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
     },
     {
       "name": "server",
@@ -76,35 +59,11 @@
     },
     {
       "name": "server-timing",
-      "value": "processing;dur=23, db;dur=4, asn;desc=\"7922\", edge;desc=\"SMF\", country;desc=\"US\", theme;desc=\"165008277789\", pageType;desc=\"index\", servedBy;desc=\"4l42\", requestID;desc=\"c8da346c-1dbf-4173-b3ec-391ae12a0e80-1769209715\", _y;desc=\"a31381cd-fa75-47a3-ad1d-a37781e6593a\", _s;desc=\"73cf4afd-6d46-4217-8ed0-a1c9f0b3a520\", _cmp;desc=\"3.AMPS_USCA_f_f_JOekbvD0Qw6ZjmR35Uwkxg\", compressionLevel;desc=\"5\", cfRequestDuration;dur=93.000174, ipv6"
-    },
-    {
-      "name": "set-cookie",
-      "value": "localization=US; path=/; expires=Sat, 23 Jan 2027 23:08:35 GMT"
-    },
-    {
-      "name": "set-cookie",
-      "value": "cart_currency=USD; path=/; expires=Fri, 06 Feb 2026 23:08:35 GMT"
-    },
-    {
-      "name": "set-cookie",
-      "value": "_shopify_y=a31381cd-fa75-47a3-ad1d-a37781e6593a; domain=ca.gov; path=/; expires=Sun, 24 Jan 2027 05:08:35 GMT; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "_shopify_s=73cf4afd-6d46-4217-8ed0-a1c9f0b3a520; domain=ca.gov; path=/; expires=Fri, 23 Jan 2026 23:38:35 GMT; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "_shopify_essential=:AZvtHdn0AAEA4KiYiCUuvlS2Nl1Oe0CX_QGY80B7i96P_gPs32EgrzmF_DF0bIoixeyRZWr1dGViVKTOmxUBuJ4ryn6bHxlk1CHCXihP30trZmM4KM4oAHmxQq19e0mSfaEgQ5S1_hiAI2VZtvxA2SFMLe_AZ0ofqomwNqLIe6RYv5zioR3DHJZZI9Rb62AAbko6h1lDf1yYSvOfY5tHzwhrAcNTECbOGZ52i3j7x7gOpCbdnlJydOlf-QSf1HjKWU7kh4DRp4_95MKGkb1Qzppy4pSmM4lIDx0XSlJFCuWFrn8108fyzRBaMINkCLNCyUQ3Grw6FiCFMkchlkfKykatQgVrn1g7jcveUxoV-Z9TpDE:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "_shopify_analytics=:AZvtHdoBAAEAECeySX4PRcvw-OzNIt52bvEUocqmko9uTRf5KWBOJ6D1fyyW-rMKtUVXmz8:; Max-Age=31536000; Path=/; HttpOnly; Secure; Priority=High; SameSite=Lax"
+      "value": "processing;dur=26;desc=\"gc:1\", db;dur=4, asn;desc=\"7922\", edge;desc=\"SMF\", country;desc=\"US\", theme;desc=\"165008277789\", pageType;desc=\"index\", servedBy;desc=\"5tsc\", requestID;desc=\"89d1d852-f496-42b2-b94c-7f9190ddefb1-1769211257\", _y;desc=\"4839892f-fc59-4755-a907-cff86a45af5d\", _s;desc=\"5f2266a7-32dd-4c23-b728-0d1a688158a3\", _cmp;desc=\"3.AMPS_USCA_f_f_JajWDezcQR2bK0j5HeLAYQ\", compressionLevel;desc=\"5\", cfRequestDuration;dur=94.000101, ipv6"
     },
     {
       "name": "shopify-complexity-score",
-      "value": "210"
+      "value": "230"
     },
     {
       "name": "strict-transport-security",
@@ -136,7 +95,7 @@
     },
     {
       "name": "x-request-id",
-      "value": "c8da346c-1dbf-4173-b3ec-391ae12a0e80-1769209715"
+      "value": "89d1d852-f496-42b2-b94c-7f9190ddefb1-1769211257"
     },
     {
       "name": "x-shardid",
@@ -155,7 +114,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 147083,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

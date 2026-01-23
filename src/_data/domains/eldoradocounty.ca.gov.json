@@ -4,102 +4,18 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "Home - El Dorado County",
-  "lastStatus": 200,
-  "lastChecked": "2026-01-23T22:53:59.191Z",
-  "finalUrl": "https://www.eldoradocounty.ca.gov/Home",
-  "metaGenerator": "OpenCities - https://granicus.com/product/opencities",
-  "responseHeaders": [
-    {
-      "name": "alt-svc",
-      "value": "h3=\":443\"; ma=93600"
-    },
-    {
-      "name": "cache-control",
-      "value": "public, max-age=60"
-    },
-    {
-      "name": "cache-tag",
-      "value": "pg-3c220ac1ca344581a715f2c3a455ec16,te-32f097276ca9400b8b99811333656341"
-    },
-    {
-      "name": "connection",
-      "value": "close"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-language",
-      "value": "en-US"
-    },
-    {
-      "name": "content-length",
-      "value": "31041"
-    },
-    {
-      "name": "content-security-policy",
-      "value": "frame-ancestors 'self';"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 22:53:57 GMT"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "server-timing",
-      "value": "cdn-cache; desc=REVALIDATE, edge; dur=35, origin; dur=609, ak_p; desc=\"1769208837107_399532107_3812550665_64252_3826_31_222_-\";dur=1"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ASP.NET_SessionId=nsjhtes5gjgx55pimfs0wm5u; path=/; secure; HttpOnly; SameSite=None, OC_EA_EmergencyAnnouncementList_Dismissed=; path=/; secure; HttpOnly; SameSite=None"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-akamai-transformed",
-      "value": "9 28753 0 pmb=mRUM,1"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-mobile-client",
-      "value": "false"
-    }
-  ],
-  "contentSize": 86274,
+  "title": "",
+  "lastStatus": null,
+  "finalUrl": null,
+  "metaGenerator": null,
+  "responseHeaders": [],
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [
-    "https://www.facebook.com/ElDoradoCountyNews/",
-    "https://twitter.com/CountyElDorado",
-    "https://www.facebook.com/ElDoradoCountyNews/",
-    "https://twitter.com/CountyElDorado"
-  ],
+  "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

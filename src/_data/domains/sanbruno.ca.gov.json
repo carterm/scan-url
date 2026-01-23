@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "San Bruno, CA | Official Website",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:34.799Z",
   "finalUrl": "https://www.sanbruno.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -19,10 +18,6 @@
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "31929"
-    },
-    {
       "name": "content-security-policy",
       "value": "frame-ancestors 'self' https://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data: blob:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
     },
@@ -31,24 +26,8 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:32 GMT"
-    },
-    {
       "name": "p3p",
       "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "set-cookie",
-      "value": "CP_IsMobile=false; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "CP_IsMobile=false; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ASP.NET_SessionId=mni5jjr1aqhhu41ouca0ngf5; path=/; secure; HttpOnly; SameSite=None"
     },
     {
       "name": "vary",
@@ -59,7 +38,6 @@
       "value": "nosniff"
     }
   ],
-  "contentSize": 114001,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

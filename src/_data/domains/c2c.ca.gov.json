@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California Cradle-to-Career Data System | C2C",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:03.204Z",
   "finalUrl": "https://c2c.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -23,10 +22,6 @@
       "value": "DYNAMIC"
     },
     {
-      "name": "cf-ray",
-      "value": "9c2af3498f3ea495-SMF"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -39,10 +34,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:58 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://c2c.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://c2c.ca.gov/wp-json/wp/v2/pages/155>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://c2c.ca.gov/>; rel=shortlink"
     },
@@ -51,20 +42,12 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "__cf_bm=TRM3rYLSxTELIwEAK3h6ZOAi.a3jm8XOIt.zrwtcs_w-1769209678-1.0.1.1-tDUBkZC7UbliGFev1zcnkRKgw663ZHDitF8uhX8WScg7rHKexB9EQ1XBCRZ_Lsz1UJgLQPt3cVrut0Rzyt9XWc03tvyLBGbvdSrV2UG4Lms; path=/; expires=Fri, 23-Jan-26 23:37:58 GMT; domain=.c2c.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "transfer-encoding",
       "value": "chunked"
     },
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache",
-      "value": "HIT: 9"
     },
     {
       "name": "x-cache-group",
@@ -83,7 +66,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 167201,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

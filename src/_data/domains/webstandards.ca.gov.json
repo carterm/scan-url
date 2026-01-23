@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Webstandards | The online resource for California State agency webmasters",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:43.580Z",
   "finalUrl": "https://webstandards.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af4481a926a04-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:40 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://webstandards.ca.gov/>; rel=shortlink"
     },
@@ -57,10 +48,6 @@
     {
       "name": "server",
       "value": "cloudflare"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__cf_bm=Pu0P.Rx6mib7S8mXFTsxMQ8YZL8vTFRNfo5.hIWDtYI-1769209720-1.0.1.1-FXpDhqAjdym38bkTvnYiJ5VMdoWex0ixhA8O4aGCDuTOsikF2aWiqbkeTu08DvJuAENRNq7sc3U9SylTw_KKM1swOA.OuGpXqGbyqnP8xcs; path=/; expires=Fri, 23-Jan-26 23:38:40 GMT; domain=.webstandards.ca.gov; HttpOnly; Secure; SameSite=None"
     },
     {
       "name": "strict-transport-security",
@@ -75,8 +62,8 @@
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
     },
     {
-      "name": "x-cache",
-      "value": "MISS"
+      "name": "x-cache-enabled",
+      "value": "False"
     },
     {
       "name": "x-cache-group",
@@ -91,11 +78,14 @@
       "value": "nosniff"
     },
     {
+      "name": "x-orig-cache-control",
+      "value": "no-store, no-cache"
+    },
+    {
       "name": "x-powered-by",
       "value": "WP Engine"
     }
   ],
-  "contentSize": 249965,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

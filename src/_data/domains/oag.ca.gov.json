@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "State of California - Department of Justice - Office of the Attorney General",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:27.892Z",
   "finalUrl": "https://www.oag.ca.gov/",
   "metaGenerator": "Drupal 7 (http://drupal.org)",
   "responseHeaders": [
@@ -31,24 +30,16 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:24 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "\"1769209694-0\""
-    },
-    {
       "name": "expires",
       "value": "Sun, 19 Nov 1978 05:00:00 GMT"
     },
     {
       "name": "keep-alive",
-      "value": "timeout=5, max=65"
+      "value": "timeout=5, max=78"
     },
     {
       "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 23:08:14 GMT"
+      "value": "Fri, 23 Jan 2026 23:31:54 GMT"
     },
     {
       "name": "link",
@@ -57,10 +48,6 @@
     {
       "name": "server",
       "value": "Apache"
-    },
-    {
-      "name": "set-cookie",
-      "value": "oag.ca.gov=1946487463.20480.0000; path=/; Httponly; Secure"
     },
     {
       "name": "transfer-encoding",
@@ -91,7 +78,6 @@
       "value": "IE=Edge"
     }
   ],
-  "contentSize": 127373,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

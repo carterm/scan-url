@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Home - NVTA",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:27.115Z",
   "finalUrl": "https://nvta.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:24 GMT"
     },
     {
       "name": "link",
@@ -51,7 +46,6 @@
       "value": "BYPASS"
     }
   ],
-  "contentSize": 123907,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

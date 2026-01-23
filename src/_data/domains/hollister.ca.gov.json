@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Hollister, CA",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:20.753Z",
   "finalUrl": "https://hollister.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -23,20 +22,12 @@
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "19815"
-    },
-    {
       "name": "content-security-policy",
       "value": "frame-ancestors 'self'"
     },
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:18 GMT"
     },
     {
       "name": "referrer-policy",
@@ -67,7 +58,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 99241,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

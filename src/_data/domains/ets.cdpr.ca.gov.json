@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California Department of Pesticide Regulation Electronic Transfer System",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:15.486Z",
   "finalUrl": "https://ets.cdpr.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -23,32 +22,12 @@
       "value": "text/html;charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:14 GMT"
-    },
-    {
       "name": "keep-alive",
       "value": "timeout=15, max=100"
     },
     {
       "name": "server",
       "value": "Apache"
-    },
-    {
-      "name": "set-cookie",
-      "value": "CFID=3830162; Expires=Sun, 16 Jan 2056 23:08:14 GMT; Path=/; Secure; HttpOnly;HttpOnly;Secure;SameSite=Strict"
-    },
-    {
-      "name": "set-cookie",
-      "value": "CFTOKEN=57cd619508a03b5d-43276565-E8C0-D20F-A55776A933CEFD43; Expires=Sun, 16 Jan 2056 23:08:14 GMT; Path=/; Secure; HttpOnly;HttpOnly;Secure;SameSite=Strict"
-    },
-    {
-      "name": "set-cookie",
-      "value": "visid_incap_878211=ErnE+kE0SJ2xDrjlC96c317/c2kAAAAAQUIPAAAAAAAdVZG5eiSLbjT3yq80ZNOa; expires=Sat, 23 Jan 2027 07:04:50 GMT; HttpOnly; path=/; Domain=.cdpr.ca.gov; Secure; SameSite=None"
-    },
-    {
-      "name": "set-cookie",
-      "value": "incap_ses_362_878211=YDrJMzHesXfkDw4TMRUGBV7/c2kAAAAAY3HDJF/wOg87CoEvElfNTQ==; path=/; Domain=.cdpr.ca.gov; Secure; SameSite=None"
     },
     {
       "name": "strict-transport-security",
@@ -64,14 +43,13 @@
     },
     {
       "name": "x-iinfo",
-      "value": "4-9624205-9624208 NNYN CT(9 14 0) RT(1769209694122 606) q(0 0 0 0) r(0 0) U12"
+      "value": "43-54153832-54153970 NNYN CT(12 868 0) RT(1769211240146 850) q(0 0 9 -1) r(9 9) U12"
     },
     {
       "name": "x-ua-compatible",
       "value": "IE=edge"
     }
   ],
-  "contentSize": 1126,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

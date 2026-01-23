@@ -26,18 +26,12 @@
  * @property {number | null} lastStatus
  *   HTTP status code from the last scan.
  *
- * @property {string | null} lastChecked
- *   ISO timestamp of the last scan.
- *
  * @property {string | null} finalUrl
  *   The final resolved URL after redirects, or null if none occurred.
  *
  * @property {string | null} metaGenerator
  * @property {Array<{name: string, value: string}>} responseHeaders
  *   Raw response headers, preserving order and duplicates.
- *
- * @property {number} contentSize
- *   Size of the response body in bytes.
  *
  * @property {boolean} cloudflare
  * @property {boolean} slow
@@ -79,14 +73,11 @@ export function createDomainRecord() {
 
     title: "",
     lastStatus: null,
-    lastChecked: null,
     finalUrl: null,
 
     metaGenerator: null,
 
     responseHeaders: [],
-
-    contentSize: 0,
 
     cloudflare: false,
     slow: false,

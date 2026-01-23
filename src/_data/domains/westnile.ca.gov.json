@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Westnile.ca.gov | California West Nile Virus Website",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:40.006Z",
   "finalUrl": "https://westnile.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -17,10 +16,6 @@
     {
       "name": "content-type",
       "value": "text/html"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:39 GMT"
     },
     {
       "name": "strict-transport-security",
@@ -35,7 +30,6 @@
       "value": "SAMEORIGIN"
     }
   ],
-  "contentSize": 109557,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Dental Hygiene Board of California",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:12.896Z",
   "finalUrl": "https://www.dhbc.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -31,20 +30,12 @@
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:12 GMT"
-    },
-    {
       "name": "keep-alive",
-      "value": "timeout=5, max=57"
+      "value": "timeout=5, max=79"
     },
     {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS01b2be31=01ed741c2227d15edcae1502dc1068fe8834807a48d32eb5d46d04b37ff59fd2eb09de0dadd39b2c5aab9384ea049683f32b35a28c; Path=/; Domain=.www.dhbc.ca.gov"
     },
     {
       "name": "strict-transport-security",
@@ -67,7 +58,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 45326,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

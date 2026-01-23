@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Building California: Transforming Infrastructure for a Better Future | Home",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:07:59.511Z",
   "finalUrl": "https://www.build.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -27,10 +26,6 @@
       "value": "*"
     },
     {
-      "name": "age",
-      "value": "0"
-    },
-    {
       "name": "cache-control",
       "value": "private, no-cache, no-store, max-age=0, must-revalidate"
     },
@@ -45,14 +40,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:58 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "W/\"xb4etkugdomhn\""
     },
     {
       "name": "referrer-policy",
@@ -88,14 +75,13 @@
     },
     {
       "name": "x-vercel-id",
-      "value": "sfo1::sfo1::ph5tz-1769209678309-94b1472e36af"
+      "value": "sfo1::sfo1::m7thq-1769211227022-fafcb04d2790"
     },
     {
       "name": "x-xss-protection",
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 29152,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California Board of Barbering and Cosmetology",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:07:57.319Z",
   "finalUrl": "https://www.barbercosmo.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -31,20 +30,12 @@
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:57 GMT"
-    },
-    {
       "name": "keep-alive",
-      "value": "timeout=5, max=100"
+      "value": "timeout=5, max=86"
     },
     {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS014a8327=01ed741c226be6ce01d09c0364e69e66729001d906dad91ea0045a3f1a00b731bad3fc65b5e5a3eda470490996a35ed269a4315670; Path=/; Domain=.www.barbercosmo.ca.gov"
     },
     {
       "name": "strict-transport-security",
@@ -67,7 +58,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 43744,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

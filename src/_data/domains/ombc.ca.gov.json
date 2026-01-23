@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Welcome To Our Web Site - Osteopathic Medical Board of California",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:26.190Z",
   "finalUrl": "https://www.ombc.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -31,20 +30,12 @@
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:25 GMT"
-    },
-    {
       "name": "keep-alive",
-      "value": "timeout=5, max=56"
+      "value": "timeout=5, max=82"
     },
     {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS019265fb=01ed741c2288527dea8b58da3623ae67f143bc3897a5fd646edc99cb3c3a08e9c2f0e4c8d52f024e5e404c580113fd0777b083e997; Path=/; Domain=.www.ombc.ca.gov"
     },
     {
       "name": "strict-transport-security",
@@ -67,7 +58,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 47030,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

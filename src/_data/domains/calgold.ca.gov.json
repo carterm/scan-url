@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "CalGold | CalGold v2 - Permit Assistance Tool",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:07:59.850Z",
   "finalUrl": "https://www.calgold.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -19,28 +18,8 @@
       "value": "keep-alive"
     },
     {
-      "name": "content-length",
-      "value": "79744"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:59 GMT"
-    },
-    {
-      "name": "set-cookie",
-      "value": "AWSALB=Bzy9Fs8VdyApwXahyP2zTysxEraiwMxaM5LZRAZRxMNTX4kUDaf2Xjrlip0iZPUocRo1CHZqIDboMMFuOau8AalWnEHIzaDhZQIYAU84mHQz3dw5NyTmSvkjM+xH; Expires=Fri, 30 Jan 2026 23:07:59 GMT; Path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "AWSALBCORS=Bzy9Fs8VdyApwXahyP2zTysxEraiwMxaM5LZRAZRxMNTX4kUDaf2Xjrlip0iZPUocRo1CHZqIDboMMFuOau8AalWnEHIzaDhZQIYAU84mHQz3dw5NyTmSvkjM+xH; Expires=Fri, 30 Jan 2026 23:07:59 GMT; Path=/; SameSite=None; Secure"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__RequestVerificationToken=XAHFsOx7G6x5nF10En0r3T5UEr4rVho2C4I9DirOuKy_4vQd1ITByeEREHkI7z2WbjlHZgHZpys5NO4J1SEykKogDJY2hNgIIdBDJnW6Xus1; path=/; HttpOnly"
     },
     {
       "name": "x-aspnetmvc-version",
@@ -59,7 +38,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 79744,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

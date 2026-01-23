@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "City of Morgan Hill, CA - Official Website | Official Website",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:26.109Z",
   "finalUrl": "https://www.morganhill.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -19,20 +18,12 @@
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "52861"
-    },
-    {
       "name": "content-security-policy",
       "value": "frame-ancestors 'self' https://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data: blob:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *"
     },
     {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:22 GMT"
     },
     {
       "name": "p3p",
@@ -43,18 +34,6 @@
       "value": "Microsoft-IIS/10.0"
     },
     {
-      "name": "set-cookie",
-      "value": "CP_IsMobile=false; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "CP_IsMobile=false; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ASP.NET_SessionId=bm1h41tlbxkkksa2dqtyjzwi; path=/; secure; HttpOnly; SameSite=None"
-    },
-    {
       "name": "vary",
       "value": "Accept-Encoding"
     },
@@ -63,7 +42,6 @@
       "value": "nosniff"
     }
   ],
-  "contentSize": 198231,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

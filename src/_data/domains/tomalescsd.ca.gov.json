@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Tomales Village CSD",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:37.270Z",
   "finalUrl": "https://www.tomalescsd.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -15,28 +14,12 @@
       "value": "bytes"
     },
     {
-      "name": "age",
-      "value": "108239"
-    },
-    {
       "name": "content-encoding",
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "16230"
-    },
-    {
       "name": "content-type",
       "value": "text/html;charset=utf-8"
-    },
-    {
-      "name": "date",
-      "value": "Thu, 22 Jan 2026 16:13:13 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "W/\"f13d915a8a36ae2c4b10670154355867\""
     },
     {
       "name": "expires",
@@ -45,10 +28,6 @@
     {
       "name": "server",
       "value": "Squarespace"
-    },
-    {
-      "name": "set-cookie",
-      "value": "crumb=BZxHc8oEZjHvYjM4ZDJkMDBjMDZiYzExYjgxYTFlYWYxYjhmZGFk;Secure;Path=/"
     },
     {
       "name": "strict-transport-security",
@@ -64,10 +43,9 @@
     },
     {
       "name": "x-contextid",
-      "value": "pAsJErTb/axZzpPwU"
+      "value": "vEMj3fzM/8Ir2BNwD"
     }
   ],
-  "contentSize": 73909,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

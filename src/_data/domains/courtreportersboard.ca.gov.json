@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Court Reporters Board of California",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:07.979Z",
   "finalUrl": "https://www.courtreportersboard.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -31,20 +30,12 @@
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:07 GMT"
-    },
-    {
       "name": "keep-alive",
-      "value": "timeout=5, max=100"
+      "value": "timeout=5, max=91"
     },
     {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS01dec987=01ed741c2270c60f3e8b7fc4340142fa39b4c3bb298a3dcc5019ca3202027c3cd6817425c34e09d3f1179d27575438252396d4bd35; Path=/; Domain=.www.courtreportersboard.ca.gov"
     },
     {
       "name": "strict-transport-security",
@@ -67,7 +58,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 36133,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

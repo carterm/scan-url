@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Homepage Sacramento Regional Fire/Ems Communications Center",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:37.113Z",
   "finalUrl": "https://srfecc.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -23,36 +22,12 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:36 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "W/\"d8d7a2bdfdd7ec84bad05df9c97cc779\""
-    },
-    {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
     },
     {
       "name": "server",
       "value": "nginx"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ahoy_visitor=3749e96d-853e-4096-abc5-555cd4381d8e; path=/; expires=Sun, 23 Jan 2028 23:08:34 GMT"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ahoy_visit=c0cb7b16-8cfa-4554-8245-344493b05f67; path=/; expires=Sat, 24 Jan 2026 03:08:34 GMT"
-    },
-    {
-      "name": "set-cookie",
-      "value": "XSRF-TOKEN=oCi9guCHPyA7a1yWuBJuDS44DEqoh9A%2FYTNHKdOty%2FItkUQWudg14hgkYq8ssjQoYSSotDUw%2BdnhEkk0UcfSzw%3D%3D; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "_traction_session=SvUWj9qpj8QY969CVfwGRQ9q8vYDMsovSD7keDqCJGy7gYzPMn%2BkfdDlZrAw9cknNUewjU3l2EaSZvtgP1%2FKzeMdNyHi00YKRuZXg1%2F%2F5zYJqRwV5t%2B4zKKG2BwN%2BflaAUw6nDrnE4Cd8feGttY%3D--HiWBx0xiEp4%2FZa3O--fKQgdYBYSJJg1tsh3phUeQ%3D%3D; path=/; HttpOnly"
     },
     {
       "name": "strict-transport-security",
@@ -80,18 +55,17 @@
     },
     {
       "name": "x-request-id",
-      "value": "20fe4c6e-7556-45f3-b786-93fda3c68425"
+      "value": "84df45c2-63c6-4bd4-bea1-c557078e4138"
     },
     {
       "name": "x-runtime",
-      "value": "1.230664"
+      "value": "1.136862"
     },
     {
       "name": "x-xss-protection",
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 93607,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

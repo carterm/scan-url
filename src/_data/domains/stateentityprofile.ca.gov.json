@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "CA.GOV State Entity Profile - CA.GOV State Entity Profile",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:35.577Z",
   "finalUrl": "https://www.stateentityprofile.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -35,28 +34,12 @@
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "4290"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:35 GMT"
-    },
-    {
       "name": "request-context",
       "value": "appId=cid-v1:7f74e662-cac4-4e9f-aa50-d7a817cade88"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ARRAffinity=abd7c4840ba964924efab1042419df7a54898eed822d8ed3e504734b7322b016;Path=/;HttpOnly;Secure;Domain=as-cdt-pub-migr-sep-ww-p-001.azurewebsites.net"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ARRAffinitySameSite=abd7c4840ba964924efab1042419df7a54898eed822d8ed3e504734b7322b016;Path=/;HttpOnly;SameSite=None;Secure;Domain=as-cdt-pub-migr-sep-ww-p-001.azurewebsites.net"
     },
     {
       "name": "vary",
@@ -71,19 +54,10 @@
       "value": "5.2"
     },
     {
-      "name": "x-azure-ref",
-      "value": "20260123T230835Z-16c8dc7695dd4gz7hC1SJC0va00000001rbg000000006f1z"
-    },
-    {
-      "name": "x-cache",
-      "value": "CONFIG_NOCACHE"
-    },
-    {
       "name": "x-powered-by",
       "value": "ASP.NET"
     }
   ],
-  "contentSize": 12734,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

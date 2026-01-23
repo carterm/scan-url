@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Department of Consumer Affairs Professional Fiduciaries Bureau",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:16.107Z",
   "finalUrl": "https://www.fiduciary.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -31,20 +30,12 @@
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:15 GMT"
-    },
-    {
       "name": "keep-alive",
-      "value": "timeout=5, max=100"
+      "value": "timeout=5, max=93"
     },
     {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS01ebcf47=01ed741c2204a5e0d48b7ac364625d15ffee398a2d5f1fb8765e1e11b3277c8eb1d46b7416db066f35e6ac7a90ce48dfea2972e574; Path=/; Domain=.www.fiduciary.ca.gov"
     },
     {
       "name": "strict-transport-security",
@@ -67,7 +58,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 34768,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

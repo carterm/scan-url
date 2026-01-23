@@ -6,14 +6,9 @@
   "includeInScan": true,
   "title": "Home :: California Secretary of State",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:36.302Z",
   "finalUrl": "https://www.sos.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
-    {
-      "name": "age",
-      "value": "5291"
-    },
     {
       "name": "cache-control",
       "value": "max-age=7200, s-maxage=7200"
@@ -31,10 +26,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 21:40:22 GMT"
-    },
-    {
       "name": "expires",
       "value": "Fri, 23 Jan 2026 23:31:43 GMT"
     },
@@ -45,26 +36,6 @@
     {
       "name": "server",
       "value": "nginx"
-    },
-    {
-      "name": "set-cookie",
-      "value": "AWSALB=vkvZ3HFiqspAEp4KILR6Q0kXjF0aJ7kyQx9i0N2nor2AsvRGx2ksQgm/jmPvjXRGc5eESi3SAl64uicw5z6tO/hEHDaw3IAlQAhruLe8hqxLD/sUcpnwygrquYBO; Expires=Fri, 30 Jan 2026 21:40:22 GMT; Path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "AWSALBCORS=vkvZ3HFiqspAEp4KILR6Q0kXjF0aJ7kyQx9i0N2nor2AsvRGx2ksQgm/jmPvjXRGc5eESi3SAl64uicw5z6tO/hEHDaw3IAlQAhruLe8hqxLD/sUcpnwygrquYBO; Expires=Fri, 30 Jan 2026 21:40:22 GMT; Path=/; SameSite=None; Secure"
-    },
-    {
-      "name": "set-cookie",
-      "value": "nlbi_992756=zLD3AK2bSiwClYxdb2M0AQAAAAAuUXTf482IqqOkEb8L2gAM; HttpOnly; path=/; Domain=.sos.ca.gov"
-    },
-    {
-      "name": "set-cookie",
-      "value": "visid_incap_992756=4ZpwZgdNQ5K4ViQIChGfAHH/c2kAAAAAQUIPAAAAAACuRam4pGZ+fLSnw1IvzeKQ; expires=Sat, 23 Jan 2027 06:13:17 GMT; HttpOnly; path=/; Domain=.sos.ca.gov"
-    },
-    {
-      "name": "set-cookie",
-      "value": "incap_ses_341_992756=4qrCLT5RHz/APWDA1nm7BHH/c2kAAAAApmbX04wsAaKVeEaqXYEtqQ==; path=/; Domain=.sos.ca.gov"
     },
     {
       "name": "strict-transport-security",
@@ -80,19 +51,15 @@
     },
     {
       "name": "via",
-      "value": "1.1 97bc018596ec6eea95bb5c59cf872884.cloudfront.net (CloudFront)"
+      "value": "1.1 761782808760d046e9ac00786dcb53c6.cloudfront.net (CloudFront)"
     },
     {
       "name": "x-amz-cf-id",
-      "value": "lypYxIBPvCpUAwNJ_g8LHASJBqKURV4y66POycBO0vBxHrzEbJfkMg=="
+      "value": "aRSy0PDBe3qzTo4ti4zpjCfLsovto9ikQxW1BPReveQaDnUN7IMy5A=="
     },
     {
       "name": "x-amz-cf-pop",
       "value": "SEA900-P2"
-    },
-    {
-      "name": "x-cache",
-      "value": "Hit from cloudfront"
     },
     {
       "name": "x-cdn",
@@ -108,14 +75,13 @@
     },
     {
       "name": "x-iinfo",
-      "value": "51-13349047-13221158 pNNy RT(1769209713395 513) q(0 0 0 7) r(1 1) U12"
+      "value": "40-4103151-4103190 nNNY RT(1769211255906 364) q(0 0 0 -1) r(0 0) U12"
     },
     {
       "name": "x-xss-protection",
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 71410,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

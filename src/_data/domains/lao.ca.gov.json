@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Legislative Analyst’s Office",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:21.750Z",
   "finalUrl": "https://www.lao.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -17,10 +16,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af3cfab2deb35-SJC"
     },
     {
       "name": "connection",
@@ -35,16 +30,8 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:19 GMT"
-    },
-    {
       "name": "server",
       "value": "cloudflare"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__cf_bm=o40LaTlDVvc0byyRG49askDZKzNkeuXRurPFFEF2X9g-1769209699-1.0.1.1-EpsbWQBsu7J1kkzxXFfX2elwYHqg63IckFl4oGBLL0gpdLnL_ePzGC9ni8mtZrUj3kxUboHaDjGPbHx8M_5pEfvZ3x1FAAFqK6Qw9dRPQ7s; path=/; expires=Fri, 23-Jan-26 23:38:19 GMT; domain=.lao.ca.gov; HttpOnly; Secure; SameSite=None"
     },
     {
       "name": "transfer-encoding",
@@ -63,7 +50,6 @@
       "value": "ASP.NET"
     }
   ],
-  "contentSize": 36980,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

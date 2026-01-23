@@ -6,17 +6,12 @@
   "includeInScan": true,
   "title": "California Courts - Home | Judicial Branch of California",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:15.467Z",
   "finalUrl": "https://courts.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
     {
       "name": "accept-ranges",
       "value": "bytes"
-    },
-    {
-      "name": "age",
-      "value": "509"
     },
     {
       "name": "cache-control",
@@ -35,20 +30,8 @@
       "value": "en"
     },
     {
-      "name": "content-length",
-      "value": "88408"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:07 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "W/\"1769209173\""
     },
     {
       "name": "expires",
@@ -56,7 +39,7 @@
     },
     {
       "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 22:59:33 GMT"
+      "value": "Fri, 23 Jan 2026 23:32:40 GMT"
     },
     {
       "name": "server",
@@ -75,14 +58,6 @@
       "value": "1.1 varnish, 1.1 varnish, 1.1 varnish, 1.1 varnish"
     },
     {
-      "name": "x-cache",
-      "value": "MISS, HIT, MISS, MISS"
-    },
-    {
-      "name": "x-cache-hits",
-      "value": "0, 15, 0, 0"
-    },
-    {
       "name": "x-content-type-options",
       "value": "nosniff"
     },
@@ -92,7 +67,7 @@
     },
     {
       "name": "x-drupal-dynamic-cache",
-      "value": "MISS"
+      "value": "HIT"
     },
     {
       "name": "x-frame-options",
@@ -104,26 +79,17 @@
     },
     {
       "name": "x-pantheon-styx-hostname",
-      "value": "styx-fe2-a-848544cbb8-zxcwh"
-    },
-    {
-      "name": "x-served-by",
-      "value": "cache-chi-kigq8000125-CHI, cache-sjc10026-SJC, cache-sjc10027-SJC, cache-sjc10027-SJC"
+      "value": "styx-fe2-b-5df7bd8b5f-2s9ks"
     },
     {
       "name": "x-styx-req-id",
-      "value": "2ec9f990-f8af-11f0-b37b-6e9421bf3059"
-    },
-    {
-      "name": "x-timer",
-      "value": "S1769209687.450398,VS0,VE8"
+      "value": "cf313ef3-f8b3-11f0-83ed-ba04bd691607"
     },
     {
       "name": "x-ua-compatible",
       "value": "IE=edge"
     }
   ],
-  "contentSize": 275840,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

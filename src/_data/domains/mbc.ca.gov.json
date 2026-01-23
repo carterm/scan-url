@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Home | Medical Board of California",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:22.183Z",
   "finalUrl": "https://www.mbc.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -39,20 +38,12 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:21 GMT"
-    },
-    {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
     },
     {
       "name": "server",
       "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "set-cookie",
-      "value": "BIGipServer~MBC_Web~pool_mbc_web=!jfkznJtu8g4Xmi9gY+OTfj45VE50mVvl0SUvv12YHdjv96IDrDiWTpBwXzMlne9PNZpmI5HTf/kitw==; Path=/; Version=1; Secure; Httponly"
     },
     {
       "name": "strict-transport-security",
@@ -91,7 +82,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 41980,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

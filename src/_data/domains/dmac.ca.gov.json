@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Disaster Management Area C",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:12.572Z",
   "finalUrl": "https://www.dmac.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -17,10 +16,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:12 GMT"
     },
     {
       "name": "keep-alive",
@@ -35,7 +30,6 @@
       "value": "chunked"
     }
   ],
-  "contentSize": 6767,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

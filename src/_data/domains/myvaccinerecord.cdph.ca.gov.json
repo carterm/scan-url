@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Digital Vaccine Record",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:23.305Z",
   "finalUrl": "https://myvaccinerecord.cdph.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -20,15 +19,11 @@
     },
     {
       "name": "content-security-policy",
-      "value": "default-src 'self' apple-health:;; script-src 'nonce-9R5QFmj2fx7p61t/72loJg==' 'self' 'wasm-unsafe-eval' https://cdn.jsdelivr.net https://www.googletagmanager.com https://www.google-analytics.com https://stats.g.doubleclick.net https://translate.google.com https://translate.googleapis.com https://translate-pa.googleapis.com; style-src 'self' 'strict-dynamic' 'nonce-9R5QFmj2fx7p61t/72loJg==' https://cdn.jsdelivr.net https://fonts.googleapis.com https://www.gstatic.com https://translate.googleapis.com https://translate.google.com https://translate-pa.googleapis.com; img-src 'self' 'nonce-9R5QFmj2fx7p61t/72loJg==' data: blob: https://fonts.gstatic.com https://www.gstatic.com https://translate.google.com http://translate.google.com https://translate.googleapis.com https://www.google.com https://www.googletagmanager.com https://www.google-analytics.com https://translate-pa.googleapis.com https://dev.myvaccinerecord.cdph.ca.gov https://uat.myvaccinerecord.cdph.ca.gov https://myvaccinerecord.cdph.ca.gov; font-src 'self' https://fonts.gstatic.com; connect-src 'self' 'nonce-9R5QFmj2fx7p61t/72loJg==' data: blob: https://cdn.jsdelivr.net https://fonts.gstatic.com https://westus2-2.in.applicationinsights.azure.com https://www.googletagmanager.com https://www.google-analytics.com https://stats.g.doubleclick.net https://translate.googleapis.com https://translate-pa.googleapis.com https://localhost:51804 https://dev.apistatus.myvaccinerecord.cdph.ca.gov https://dev.myvaccinerecord.cdph.ca.gov/ https://api-dev.mycavax.cdph.ca.gov https://dev.apiqr.myvaccinerecord.cdph.ca.gov https://uat.apistatus.myvaccinerecord.cdph.ca.gov https://uat.myvaccinerecord.cdph.ca.gov/ https://api-uat.mycavax.cdph.ca.gov https://uat.apiqr.myvaccinerecord.cdph.ca.gov https://dev.myvaccinerecord.cdph.ca.gov https://uat.myvaccinerecord.cdph.ca.gov https://apistatus.myvaccinerecord.cdph.ca.gov https://myvaccinerecord.cdph.ca.gov/ https://api.mycavax.cdph.ca.gov https://apiqr.myvaccinerecord.cdph.ca.gov https://myvaccinerecord.cdph.ca.gov; frame-src 'self' 'nonce-9R5QFmj2fx7p61t/72loJg==' https://www.googletagmanager.com https://translate.google.com https://translate.googleapis.com; object-src 'none'; base-uri 'self'"
+      "value": "default-src 'self' apple-health:;; script-src 'nonce-cdHLJgaJS6+pSlbVqHBeEw==' 'self' 'wasm-unsafe-eval' https://cdn.jsdelivr.net https://www.googletagmanager.com https://www.google-analytics.com https://stats.g.doubleclick.net https://translate.google.com https://translate.googleapis.com https://translate-pa.googleapis.com; style-src 'self' 'strict-dynamic' 'nonce-cdHLJgaJS6+pSlbVqHBeEw==' https://cdn.jsdelivr.net https://fonts.googleapis.com https://www.gstatic.com https://translate.googleapis.com https://translate.google.com https://translate-pa.googleapis.com; img-src 'self' 'nonce-cdHLJgaJS6+pSlbVqHBeEw==' data: blob: https://fonts.gstatic.com https://www.gstatic.com https://translate.google.com http://translate.google.com https://translate.googleapis.com https://www.google.com https://www.googletagmanager.com https://www.google-analytics.com https://translate-pa.googleapis.com https://dev.myvaccinerecord.cdph.ca.gov https://uat.myvaccinerecord.cdph.ca.gov https://myvaccinerecord.cdph.ca.gov; font-src 'self' https://fonts.gstatic.com; connect-src 'self' 'nonce-cdHLJgaJS6+pSlbVqHBeEw==' data: blob: https://cdn.jsdelivr.net https://fonts.gstatic.com https://westus2-2.in.applicationinsights.azure.com https://www.googletagmanager.com https://www.google-analytics.com https://stats.g.doubleclick.net https://translate.googleapis.com https://translate-pa.googleapis.com https://localhost:51804 https://dev.apistatus.myvaccinerecord.cdph.ca.gov https://dev.myvaccinerecord.cdph.ca.gov/ https://api-dev.mycavax.cdph.ca.gov https://dev.apiqr.myvaccinerecord.cdph.ca.gov https://uat.apistatus.myvaccinerecord.cdph.ca.gov https://uat.myvaccinerecord.cdph.ca.gov/ https://api-uat.mycavax.cdph.ca.gov https://uat.apiqr.myvaccinerecord.cdph.ca.gov https://dev.myvaccinerecord.cdph.ca.gov https://uat.myvaccinerecord.cdph.ca.gov https://apistatus.myvaccinerecord.cdph.ca.gov https://myvaccinerecord.cdph.ca.gov/ https://api.mycavax.cdph.ca.gov https://apiqr.myvaccinerecord.cdph.ca.gov https://myvaccinerecord.cdph.ca.gov; frame-src 'self' 'nonce-cdHLJgaJS6+pSlbVqHBeEw==' https://www.googletagmanager.com https://translate.google.com https://translate.googleapis.com; object-src 'none'; base-uri 'self'"
     },
     {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:23 GMT"
     },
     {
       "name": "referrer-policy",
@@ -43,26 +38,6 @@
       "value": "volt-adc"
     },
     {
-      "name": "set-cookie",
-      "value": "csp-nonce=9R5QFmj2fx7p61t%2F72loJg%3D%3D; Path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ARRAffinity=68de3378dd5ab647534a7df54cde8650b6f8aa50d2a3bf4c4f9c7de965cb50a1;Path=/;HttpOnly;Secure;Domain=prod-ui2.myvaccinerecord.cdph.ca.gov"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ARRAffinitySameSite=68de3378dd5ab647534a7df54cde8650b6f8aa50d2a3bf4c4f9c7de965cb50a1;Path=/;HttpOnly;SameSite=None;Secure;Domain=prod-ui2.myvaccinerecord.cdph.ca.gov"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS01dc4fc6=01e66920c7ff29e686fc860825b3b0ae2c8c4766bc288ce3079fdb872393266f38452d781ffb243483abce8bab30696d0c061cba92; Path=/; Secure; HttpOnly; SameSite=Strict; "
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS0134b328=01e66920c7ff29e686fc860825b3b0ae2c8c4766bc288ce3079fdb872393266f38452d781ffb243483abce8bab30696d0c061cba92; path=/; domain=prod-ui2.myvaccinerecord.cdph.ca.gov"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains; preload"
     },
@@ -75,27 +50,14 @@
       "value": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch, Accept-Encoding"
     },
     {
-      "name": "x-azure-ref",
-      "value": "20260123T230822Z-r1cf444f6d6ddxvbhC1BY1rhvs00000001ug0000000050bk"
-    },
-    {
-      "name": "x-cache",
-      "value": "CONFIG_NOCACHE"
-    },
-    {
-      "name": "x-envoy-upstream-service-time",
-      "value": "127"
-    },
-    {
       "name": "x-frame-options",
       "value": "SAMEORIGIN"
     },
     {
       "name": "x-volterra-location",
-      "value": "b-sv10-sjc"
+      "value": "sv10-sjc"
     }
   ],
-  "contentSize": 13455,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -4,13 +4,52 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "lastChecked": null,
-  "finalUrl": null,
+  "title": "Hazardous Waste Tracking System",
+  "lastStatus": 200,
+  "finalUrl": "https://hwts.dtsc.ca.gov/",
   "metaGenerator": null,
-  "responseHeaders": [],
-  "contentSize": 0,
+  "responseHeaders": [
+    {
+      "name": "cf-cache-status",
+      "value": "DYNAMIC"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "last-modified",
+      "value": "Tue, 20 Jan 2026 17:19:09 GMT"
+    },
+    {
+      "name": "server",
+      "value": "cloudflare"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=15552000; includeSubDomains"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

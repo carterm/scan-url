@@ -6,33 +6,20 @@
   "includeInScan": true,
   "title": "Office of Data and Innovation",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:21.353Z",
   "finalUrl": "https://innovation.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
-    {
-      "name": "age",
-      "value": "1054"
-    },
     {
       "name": "connection",
       "value": "keep-alive"
     },
     {
       "name": "content-encoding",
-      "value": "br"
+      "value": "gzip"
     },
     {
       "name": "content-type",
       "value": "text/html"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 22:54:01 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "W/\"fd14f5f0fd147e3d5965b98dfe5433a5\""
     },
     {
       "name": "last-modified",
@@ -52,22 +39,17 @@
     },
     {
       "name": "via",
-      "value": "1.1 e56bc63c76e69036d29159d5b81dfac8.cloudfront.net (CloudFront)"
+      "value": "1.1 377e700760b40e7e4bd174438fa20908.cloudfront.net (CloudFront)"
     },
     {
       "name": "x-amz-cf-id",
-      "value": "Iy0AeTAny3O5Rzgb9NJs1cSeuHQW3G8J1w39iBP2rPL4T0b_i6a86w=="
+      "value": "Qo0E9TSyMIhfvwfC0S7UoBGaHHw6MfCNxkbOsUjnyii7Ok2v-q3GRA=="
     },
     {
       "name": "x-amz-cf-pop",
-      "value": "LAX54-P6"
-    },
-    {
-      "name": "x-cache",
-      "value": "Hit from cloudfront"
+      "value": "SFO5-P3"
     }
   ],
-  "contentSize": 163134,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

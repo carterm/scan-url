@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California Legislative Information",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:21.028Z",
   "finalUrl": "https://leginfo.legislature.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:20 GMT"
     },
     {
       "name": "expires",
@@ -43,18 +38,6 @@
       "value": "Apache"
     },
     {
-      "name": "set-cookie",
-      "value": "JSESSIONID=uljtHaCeF_6CLV0TtruRYW3LxfVnopHmbLXCHlzPG9XRr2D57s3_!-1083291761; path=/; HttpOnly"
-    },
-    {
-      "name": "set-cookie",
-      "value": "csfcfc=LHCVBNMeaxT9%2Fw4sl41lneI3bte8JFvEF4YVz8Av7FPNQjU%3D; expires=Thu, 01-Jan-1970 01:00:00 GMT; path=/; secure; HttpOnly"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ROUTEID=.3; path=/"
-    },
-    {
       "name": "transfer-encoding",
       "value": "chunked"
     },
@@ -63,7 +46,6 @@
       "value": "nosniff"
     }
   ],
-  "contentSize": 163142,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

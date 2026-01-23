@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Home | California Dept. of Social Services",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:05.250Z",
   "finalUrl": "https://www.cdss.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -15,16 +14,8 @@
       "value": "no-cache"
     },
     {
-      "name": "content-length",
-      "value": "58225"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:04 GMT"
     },
     {
       "name": "expires",
@@ -33,70 +24,6 @@
     {
       "name": "pragma",
       "value": "no-cache"
-    },
-    {
-      "name": "set-cookie",
-      "value": "dnn_IsMobile=False; path=/; HttpOnly"
-    },
-    {
-      "name": "set-cookie",
-      "value": "language=en-US; path=/; HttpOnly"
-    },
-    {
-      "name": "set-cookie",
-      "value": ".ASPXANONYMOUS=yjUVC8y8XAbDKCNG1T_bv3YhzmYAnebEfJjt5kLSyc9_WhZUDua_dPLpPDVWN8kDWcEpd2aYqbNIdUwAGsNQ_Pp-1yrsKYOQPWHttvc4LPAA48tH0; expires=Fri, 03-Apr-2026 09:48:04 GMT; path=/; HttpOnly"
-    },
-    {
-      "name": "set-cookie",
-      "value": "Analytics_VisitorId=a3be4974-f6c0-4c36-b5b7-5aed00df4665; expires=Fri, 23-Jan-2026 23:07:04 GMT; path=/; HttpOnly"
-    },
-    {
-      "name": "set-cookie",
-      "value": "Analytics=SessionId=ccb0a316-33f0-4624-a2db-3f1d07bf9a19&TabId=696&ContentItemId=-1; expires=Fri, 23-Jan-2026 23:07:04 GMT; path=/; HttpOnly"
-    },
-    {
-      "name": "set-cookie",
-      "value": "dnn_IsMobile=False; path=/; HttpOnly"
-    },
-    {
-      "name": "set-cookie",
-      "value": "language=en-US; path=/; HttpOnly"
-    },
-    {
-      "name": "set-cookie",
-      "value": ".ASPXANONYMOUS=yjUVC8y8XAbDKCNG1T_bv3YhzmYAnebEfJjt5kLSyc9_WhZUDua_dPLpPDVWN8kDWcEpd2aYqbNIdUwAGsNQ_Pp-1yrsKYOQPWHttvc4LPAA48tH0; expires=Fri, 03-Apr-2026 09:48:04 GMT; path=/; HttpOnly"
-    },
-    {
-      "name": "set-cookie",
-      "value": "Analytics_VisitorId=a3be4974-f6c0-4c36-b5b7-5aed00df4665; expires=Fri, 23-Jan-2026 23:07:04 GMT; path=/; HttpOnly"
-    },
-    {
-      "name": "set-cookie",
-      "value": "Analytics=SessionId=ccb0a316-33f0-4624-a2db-3f1d07bf9a19&TabId=696&ContentItemId=-1; expires=Fri, 23-Jan-2026 23:07:04 GMT; path=/; HttpOnly"
-    },
-    {
-      "name": "set-cookie",
-      "value": "dnn_IsMobile=False; path=/; HttpOnly"
-    },
-    {
-      "name": "set-cookie",
-      "value": "language=en-US; path=/; HttpOnly"
-    },
-    {
-      "name": "set-cookie",
-      "value": ".ASPXANONYMOUS=yjUVC8y8XAbDKCNG1T_bv3YhzmYAnebEfJjt5kLSyc9_WhZUDua_dPLpPDVWN8kDWcEpd2aYqbNIdUwAGsNQ_Pp-1yrsKYOQPWHttvc4LPAA48tH0; expires=Fri, 03-Apr-2026 09:48:04 GMT; path=/; HttpOnly"
-    },
-    {
-      "name": "set-cookie",
-      "value": "Analytics_VisitorId=a3be4974-f6c0-4c36-b5b7-5aed00df4665; expires=Fri, 23-Jan-2026 23:07:04 GMT; path=/; HttpOnly"
-    },
-    {
-      "name": "set-cookie",
-      "value": "Analytics=SessionId=ccb0a316-33f0-4624-a2db-3f1d07bf9a19&TabId=696&ContentItemId=-1; expires=Fri, 23-Jan-2026 23:07:04 GMT; path=/; HttpOnly"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__RequestVerificationToken=oAb2f1EZhGbVqz0EIRP9Ed9sNYiUcBOo-Tl-An8LAW1OboGnT-Lsn6sqED-slka5sJIFBg2; path=/; HttpOnly"
     },
     {
       "name": "x-frame-options",
@@ -111,7 +38,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 58225,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "EDD Labor Market Information Division - Home Page",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:20.434Z",
   "finalUrl": "https://labormarketinfo.edd.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -15,20 +14,12 @@
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "12442"
-    },
-    {
       "name": "content-security-policy",
       "value": "default-src 'self' 'unsafe-inline' 'unsafe-eval'                   *.ca.gov                   *.tableau.com                   *.gov                  *.google.com                  *.google-analytics.com      *.surveymonkey.com      *.youtube.com      *.powerbigov.us                  ;"
     },
     {
       "name": "content-type",
       "value": "text/html"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:19 GMT"
     },
     {
       "name": "referrer-policy",
@@ -55,7 +46,6 @@
       "value": "ASP.NET"
     }
   ],
-  "contentSize": 41506,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

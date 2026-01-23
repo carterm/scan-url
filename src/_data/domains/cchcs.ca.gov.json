@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "CCHCS - California Correctional Health Care Services",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:07.317Z",
   "finalUrl": "https://cchcs.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af35edb50d7cf-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:01 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://cchcs.ca.gov/>; rel=shortlink"
     },
@@ -59,26 +50,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "caweb-alert-0=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; secure; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "caweb-alert-1=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; secure; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "caweb-alert-2=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; secure; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "caweb-alert-3=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; secure; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__cf_bm=ezvAvyTTzt_yi4QVuAbksdlG.IL8V8FcJLyCcL9ND1E-1769209681-1.0.1.1-DcvjmaXJA80CmicVw6Aql_zCvq6nm9LBDnOe.RAl7ZPGoxJd.7veQuXH7jU0a.2trKNAb7rrohTC8CgE0TOzcQ8checrSUzPVOtdFv76qi4; path=/; expires=Fri, 23-Jan-26 23:38:01 GMT; domain=.cchcs.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -89,10 +60,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache",
-      "value": "HIT: 4"
     },
     {
       "name": "x-cache-group",
@@ -111,7 +78,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 153346,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

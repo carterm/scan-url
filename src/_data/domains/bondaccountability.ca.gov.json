@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Home | CA.GOV Bond Accountability",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:07:58.536Z",
   "finalUrl": "https://bondaccountability.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -19,23 +18,14 @@
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:57 GMT"
-    },
-    {
       "name": "server",
       "value": "volt-adc"
     },
     {
       "name": "transfer-encoding",
       "value": "chunked"
-    },
-    {
-      "name": "x-envoy-upstream-service-time",
-      "value": "1142"
     }
   ],
-  "contentSize": 16464,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Home - Contractors Corner | Caltrans",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:33.063Z",
   "finalUrl": "https://ppmoe.dot.ca.gov/cc",
   "metaGenerator": null,
   "responseHeaders": [
@@ -27,10 +26,6 @@
       "value": "text/html;charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:29 GMT"
-    },
-    {
       "name": "expires",
       "value": "0"
     },
@@ -48,31 +43,7 @@
     },
     {
       "name": "server-timing",
-      "value": "t;desc=\"8e8f82f647ae\", sem_wait;dur=0, sesh_wait;dur=0"
-    },
-    {
-      "name": "set-cookie",
-      "value": "BIGipServerpool_cdotprod=a8f3c173e2452aafa32ced8cc7d2229e; httponly; secure; samesite=None; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "JSESSIONID=7423F9869B500F71ECE64135EA3D7122; Path=/; HttpOnly; Secure; SameSite=None"
-    },
-    {
-      "name": "set-cookie",
-      "value": "glide_user=; Max-Age=0; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; HttpOnly; Secure; SameSite=None"
-    },
-    {
-      "name": "set-cookie",
-      "value": "glide_user_session=; Max-Age=0; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; HttpOnly; Secure; SameSite=None"
-    },
-    {
-      "name": "set-cookie",
-      "value": "glide_user_route=glide.f3c4271686a481a622e8ac6efa67be08; Max-Age=2147483647; Expires=Thu, 11-Feb-2094 02:22:36 GMT; Path=/; HttpOnly; Secure; SameSite=None"
-    },
-    {
-      "name": "set-cookie",
-      "value": "glide_node_id_for_js=988237b7d20ba4b0e900f22cd5e164df9f51882b650b03f7bbc191b74bc7a92b; Path=/; Secure; SameSite=None"
+      "value": "t;desc=\"fa655a72872e\", sem_wait;dur=0, sesh_wait;dur=0"
     },
     {
       "name": "strict-transport-security",
@@ -96,10 +67,9 @@
     },
     {
       "name": "x-transaction-id",
-      "value": "8e8f82f647ae"
+      "value": "fa655a72872e"
     }
   ],
-  "contentSize": 166831,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

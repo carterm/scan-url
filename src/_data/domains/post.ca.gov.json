@@ -6,21 +6,12 @@
   "includeInScan": true,
   "title": "Home",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:30.201Z",
   "finalUrl": "https://post.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
     {
       "name": "cache-control",
       "value": "no-cache"
-    },
-    {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
-      "name": "content-length",
-      "value": "11965"
     },
     {
       "name": "content-security-policy",
@@ -35,10 +26,6 @@
       "value": "same-origin"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:29 GMT"
-    },
-    {
       "name": "expires",
       "value": "-1"
     },
@@ -51,36 +38,8 @@
       "value": "strict-origin-when-cross-origin"
     },
     {
-      "name": "set-cookie",
-      "value": "dnn_IsMobile=False; domain=post.ca.gov; path=/; secure; HttpOnly; SameSite=Strict"
-    },
-    {
-      "name": "set-cookie",
-      "value": "language=en-US; domain=post.ca.gov; path=/; secure; HttpOnly; SameSite=Strict"
-    },
-    {
-      "name": "set-cookie",
-      "value": ".ASPXANONYMOUS=uLIcCQLsbLfxLA_7bVIlx-ph9wZapM-nmzKyHFrxBRs8Iw56g2NmGidFhjVamDEs3xzoIpPH-UTF8F6GS2E8N0fCbvnzvz7mljgoPYNqXWwn-ZDV0; expires=Fri, 03-Apr-2026 09:48:29 GMT; path=/; secure; HttpOnly; SameSite=Strict"
-    },
-    {
-      "name": "set-cookie",
-      "value": "Analytics_VisitorId=c2ff92cc-20d3-4565-90f0-c35b1e1dbe3d; domain=post.ca.gov; expires=Fri, 23-Jan-2026 23:07:29 GMT; path=/; secure; HttpOnly; SameSite=Strict"
-    },
-    {
-      "name": "set-cookie",
-      "value": "Analytics=SessionId=94f3def4-50d0-4ec7-b7fc-87ab16cab24f&TabId=20&ContentItemId=-1; domain=post.ca.gov; expires=Fri, 23-Jan-2026 23:07:29 GMT; path=/; secure; HttpOnly; SameSite=Strict"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__RequestVerificationToken=v5xQInGJbiD0tShF3fxgmG3jf9JtCZMWvqcjfoFAXVpFqShlAfytrG2VRP5NE9R_mKAsCA2; domain=post.ca.gov; path=/; secure; HttpOnly; SameSite=Strict"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains; preload"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
     },
     {
       "name": "x-content-type-options",
@@ -99,7 +58,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 35175,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

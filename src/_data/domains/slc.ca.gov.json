@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "CA State Lands Commission | California State lands Commission",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:40.318Z",
   "finalUrl": "https://www.slc.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af425dfa0351c-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:34 GMT"
-    },
-    {
       "name": "expires",
       "value": "Wed, 11 Jan 1984 05:00:00 GMT"
     },
@@ -63,10 +54,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "__cf_bm=ifsMB74shYHe.PHyGydAdeBSgq6bZYqGD.ynlwt8Bjs-1769209714-1.0.1.1-syuCbLS0Wr9bVhxQSHtY37KeDJF4bme1xhzXOmuMCcHvdeyUvlPIslI6MgxOnvcMNgjAs6L2BfeoyatoQ8ws_FN037XgbXG5QnLQv9SZik4; path=/; expires=Fri, 23-Jan-26 23:38:34 GMT; domain=.www.slc.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -77,10 +64,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS"
     },
     {
       "name": "x-cache-group",
@@ -103,7 +86,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 285409,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

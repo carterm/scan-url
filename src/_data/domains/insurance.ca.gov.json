@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "CA Department of Insurance",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:20.379Z",
   "finalUrl": "https://www.insurance.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -27,10 +26,6 @@
       "value": "text/html;charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:19 GMT"
-    },
-    {
       "name": "expires",
       "value": "Mon, 06 Jan 1990 00:00:01 GMT"
     },
@@ -41,22 +36,6 @@
     {
       "name": "server",
       "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "set-cookie",
-      "value": "CFID=38104207; Path=/; HttpOnly; SameSite=strict"
-    },
-    {
-      "name": "set-cookie",
-      "value": "CFTOKEN=23312955; Path=/; HttpOnly; SameSite=strict"
-    },
-    {
-      "name": "set-cookie",
-      "value": "CSRFTOKEN=B6BFEC84BA14034C62CFE7C0AABBF0CAF5CE6966; Path=/; SameSite=strict"
-    },
-    {
-      "name": "set-cookie",
-      "value": "BIGipServerinsurance.app~insurance_pool=2241878026.20480.0000; path=/; Httponly; Secure"
     },
     {
       "name": "transfer-encoding",
@@ -75,7 +54,6 @@
       "value": "ASP.NET"
     }
   ],
-  "contentSize": 55119,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Let's Get Healthy California",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:26.942Z",
   "finalUrl": "https://letsgethealthy.ca.gov/",
   "metaGenerator": "Powered by Slider Revolution 6.7.39 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af3d92c7c32bc-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:21 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://letsgethealthy.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://letsgethealthy.ca.gov/wp-json/wp/v2/pages/5>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://letsgethealthy.ca.gov/>; rel=shortlink"
     },
@@ -63,10 +54,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "__cf_bm=euBWdKl2N3x9njhekqVJm3jOgeHEe6cJmKS_leQvU5E-1769209701-1.0.1.1-Vk0w_oazsum_q386LlsqRImk.1fZvVJBteI3J_._n_T2TNAt5WrYogP1KNcS0s87xJ5GFBDJPNT_ciqcHk8I61dS4T_gwZclMPua5V1lcZs; path=/; expires=Fri, 23-Jan-26 23:38:21 GMT; domain=.letsgethealthy.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=2592000"
     },
@@ -77,10 +64,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache",
-      "value": "HIT: 9"
     },
     {
       "name": "x-cache-group",
@@ -119,7 +102,6 @@
       "value": "1"
     }
   ],
-  "contentSize": 220202,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

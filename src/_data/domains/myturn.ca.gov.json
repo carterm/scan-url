@@ -6,17 +6,12 @@
   "includeInScan": true,
   "title": "",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:23.281Z",
   "finalUrl": "https://myturn.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
     {
       "name": "accept-ranges",
       "value": "bytes"
-    },
-    {
-      "name": "content-length",
-      "value": "42172"
     },
     {
       "name": "content-md5",
@@ -27,14 +22,6 @@
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:22 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "\"0x8DE595A7CC9083F\""
-    },
-    {
       "name": "last-modified",
       "value": "Thu, 22 Jan 2026 02:03:50 GMT"
     },
@@ -43,12 +30,8 @@
       "value": "volt-adc"
     },
     {
-      "name": "x-envoy-upstream-service-time",
-      "value": "99"
-    },
-    {
       "name": "x-ms-request-id",
-      "value": "0dc22287-a01e-0105-76bd-8cb657000000"
+      "value": "efca03e1-601e-00de-10c0-8c8e67000000"
     },
     {
       "name": "x-ms-version",
@@ -59,7 +42,6 @@
       "value": "sv10-sjc"
     }
   ],
-  "contentSize": 42172,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

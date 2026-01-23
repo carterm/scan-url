@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:07:56.886Z",
   "finalUrl": "https://www.biomonitoring.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -19,20 +18,8 @@
       "value": "close"
     },
     {
-      "name": "content-length",
-      "value": "212"
-    },
-    {
       "name": "content-type",
       "value": "text/html"
-    },
-    {
-      "name": "set-cookie",
-      "value": "visid_incap_1786885=OvoXqD8EQN+1WIUGniduK0v/c2kAAAAAQUIPAAAAAACOGkNdrP84SvmZ980GzZK7; expires=Sat, 23 Jan 2027 08:19:38 GMT; HttpOnly; path=/; Domain=.biomonitoring.ca.gov; Secure; SameSite=None"
-    },
-    {
-      "name": "set-cookie",
-      "value": "incap_ses_361_1786885=SO9Aev7s+2WLCx4Xt4cCBUv/c2kAAAAAfGkqGSG9PyYuYayspX5G9A==; path=/; Domain=.biomonitoring.ca.gov; Secure; SameSite=None"
     },
     {
       "name": "strict-transport-security",
@@ -40,10 +27,9 @@
     },
     {
       "name": "x-iinfo",
-      "value": "53-215569050-0 0NNN RT(1769209676297 498) q(0 -1 -1 0) r(0 -1) B10(4,289,0) U24"
+      "value": "33-58436832-0 0NNN RT(1769211225749 253) q(0 -1 -1 0) r(0 -1) B12(4,315,0) U24"
     }
   ],
-  "contentSize": 212,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

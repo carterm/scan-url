@@ -6,14 +6,9 @@
   "includeInScan": true,
   "title": "Public Awareness and Safety Programs |San Francisco Bay Area",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:28.254Z",
   "finalUrl": "https://ncric.ca.gov/",
   "metaGenerator": "WordPress 6.8.3",
   "responseHeaders": [
-    {
-      "name": "age",
-      "value": "191005"
-    },
     {
       "name": "alt-svc",
       "value": "h3=\":443\"; ma=86400"
@@ -25,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "HIT"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af3e5883332ba-SMF"
     },
     {
       "name": "connection",
@@ -43,12 +34,8 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:23 GMT"
-    },
-    {
       "name": "expires",
-      "value": "Mon, 23 Feb 2026 23:08:23 GMT"
+      "value": "Mon, 23 Feb 2026 23:34:07 GMT"
     },
     {
       "name": "last-modified",
@@ -57,10 +44,6 @@
     {
       "name": "server",
       "value": "cloudflare"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__cf_bm=_Hher.FWcCPURu1K4a6g35LWv3tr1k8gTg.GZ4kbtSI-1769209703-1.0.1.1-cMG_Pn0Jx3ucQf.2Dp_9jxIBLUzpGcHu2ZpvoCsQN.boo4vhvXSS23xse_liofKLCISLKnwzMNXXrDQVJJC3m5OLF3CXZfEJLum6nqm2vq4; path=/; expires=Fri, 23-Jan-26 23:38:23 GMT; domain=.ncric.ca.gov; HttpOnly; Secure; SameSite=None"
     },
     {
       "name": "transfer-encoding",
@@ -87,7 +70,6 @@
       "value": "0"
     }
   ],
-  "contentSize": 142001,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

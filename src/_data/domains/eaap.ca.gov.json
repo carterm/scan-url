@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Education Audit Appeals Panel |",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:20.078Z",
   "finalUrl": "https://eaap.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af3a5395c351c-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:14 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://eaap.ca.gov/>; rel=shortlink"
     },
@@ -59,10 +50,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "__cf_bm=Uq.dAtanX8ANeklX3FmNlXRnXsZXp.DnYdQEeXjPpQ0-1769209694-1.0.1.1-D_sSjO09uFiJMYHMEKBGDntO4_kWpT6vXVO5.OOxoVJHzh42FzzdShXZFhtsKQbCGM5qE6DVfvaYk1ESkMdkPZkenUpWXM_BBAqlGGqLwEI; path=/; expires=Fri, 23-Jan-26 23:38:14 GMT; domain=.eaap.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -73,10 +60,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS"
     },
     {
       "name": "x-cache-group",
@@ -95,7 +78,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 183001,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

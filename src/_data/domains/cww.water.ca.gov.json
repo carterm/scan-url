@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California Water Watch",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:10.746Z",
   "finalUrl": "https://cww.water.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -23,10 +22,6 @@
       "value": "text/html;charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:10 GMT"
-    },
-    {
       "name": "keep-alive",
       "value": "timeout=5, max=100"
     },
@@ -35,15 +30,10 @@
       "value": "Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k mod_jk/1.2.48"
     },
     {
-      "name": "set-cookie",
-      "value": "JSESSIONID=39E294E2DC7964A93CE4CB59CCEBE44A; Path=/; Secure; HttpOnly"
-    },
-    {
       "name": "transfer-encoding",
       "value": "chunked"
     }
   ],
-  "contentSize": 120393,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

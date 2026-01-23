@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "ABCAB | ABC Appeals Board",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:01.621Z",
   "finalUrl": "https://abcab.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af339cd85351c-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:07:57 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://abcab.ca.gov/>; rel=shortlink"
     },
@@ -59,10 +50,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "__cf_bm=jyP.RHFdkYox5_rkFOGUOdXFui_iwN59IOnhmIg4qXE-1769209677-1.0.1.1-sYR8vVr4KfCN09mKESFBBy_k5.bjfnxupt6TGOH5cKYpQntKE9__G31nC.NsbefT4VnHkpanEB03Xvyfj7KB6W8F3_EMc1JxJFvW0abP7lo; path=/; expires=Fri, 23-Jan-26 23:37:57 GMT; domain=.abcab.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -73,10 +60,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS"
     },
     {
       "name": "x-cache-group",
@@ -95,7 +78,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 167456,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

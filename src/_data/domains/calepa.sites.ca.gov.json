@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "calepa.sites.ca.gov |",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:03.908Z",
   "finalUrl": "https://calepa.sites.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af34b1a443403-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:00 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://calepa.sites.ca.gov/>; rel=shortlink"
     },
@@ -59,10 +50,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "__cf_bm=fkl90G4iTzzqYUWJ7hYNIr6.VojcZ2gqlslMltC6Ty8-1769209680-1.0.1.1-0tkTf7zJTqeNKbGxnmH7vXmcKaGj8SmZvwIcjxZy7vEubS9AWDL6l.LJ2FIMZJRjCGkZmmByFU06sCZnk6uBDewNLgo.UeLJpaA_WEfrpNI; path=/; expires=Fri, 23-Jan-26 23:38:00 GMT; domain=.calepa.sites.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -73,10 +60,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS"
     },
     {
       "name": "x-cache-group",
@@ -95,7 +78,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 80485,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

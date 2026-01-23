@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Office of Law Enforcement Support - State of California",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:27.496Z",
   "finalUrl": "https://www.oles.ca.gov/",
   "metaGenerator": "WordPress 6.9",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:25 GMT"
     },
     {
       "name": "link",
@@ -67,7 +62,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 69390,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

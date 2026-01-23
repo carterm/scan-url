@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:22.000Z",
   "finalUrl": "https://mcweb.apps.prd.cammis.medi-cal.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -23,24 +22,8 @@
       "value": "text/html"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:21 GMT"
-    },
-    {
-      "name": "etag",
-      "value": "W/\"68f031f3-cd1\""
-    },
-    {
       "name": "last-modified",
       "value": "Wed, 15 Oct 2025 23:44:51 GMT"
-    },
-    {
-      "name": "set-cookie",
-      "value": "1f04fd0a3d2522496acf4cda77401a8e=e576bce90bf08e00a8e0d2e82d6508ee; path=/; HttpOnly; Secure"
-    },
-    {
-      "name": "set-cookie",
-      "value": "BIGipServernx0wl2PAtE8pN1gdjvLzWw=2710345482.20480.0000; path=/; Httponly"
     },
     {
       "name": "strict-transport-security",
@@ -63,7 +46,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 3281,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

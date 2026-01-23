@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Sierra Nevada Conservancy | Building resilience",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:39.810Z",
   "finalUrl": "https://sierranevada.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
@@ -21,10 +20,6 @@
     {
       "name": "cf-cache-status",
       "value": "DYNAMIC"
-    },
-    {
-      "name": "cf-ray",
-      "value": "9c2af425ed4b32b8-SMF"
     },
     {
       "name": "connection",
@@ -43,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:34 GMT"
-    },
-    {
       "name": "expires",
       "value": "Wed, 11 Jan 1984 05:00:00 GMT"
     },
@@ -63,18 +54,6 @@
       "value": "cloudflare"
     },
     {
-      "name": "set-cookie",
-      "value": "caweb-alert-0=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; secure; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "caweb-alert-1=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; secure; HttpOnly; SameSite=Lax"
-    },
-    {
-      "name": "set-cookie",
-      "value": "__cf_bm=1EzberC9OPDi3XChfQVzcIsda0KFmoDQXPw8ErfPH8A-1769209714-1.0.1.1-wRLysWPyH98zbeL3JSXP0SwtECauqYLM1MoT69Q_JM3t.B7tQBce3E0t_A6bXkWykdJjEGkTo7JjTx6HKY4uD7w2p.2g5lFB0VqOx4fbP2M; path=/; expires=Fri, 23-Jan-26 23:38:34 GMT; domain=.sierranevada.ca.gov; HttpOnly; Secure; SameSite=None"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains"
     },
@@ -85,10 +64,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding"
-    },
-    {
-      "name": "x-cache",
-      "value": "MISS"
     },
     {
       "name": "x-cache-group",
@@ -111,7 +86,6 @@
       "value": "WP Engine"
     }
   ],
-  "contentSize": 248909,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

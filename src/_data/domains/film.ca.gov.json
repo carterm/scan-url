@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "California Film Commission | State of California",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:32.087Z",
   "finalUrl": "https://film.ca.gov/",
   "metaGenerator": "CAWeb v.1.5.2a",
   "responseHeaders": [
@@ -31,12 +30,8 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:16 GMT"
-    },
-    {
       "name": "expires",
-      "value": "Fri, 23 Jan 2026 23:18:15 GMT"
+      "value": "Fri, 23 Jan 2026 23:44:01 GMT"
     },
     {
       "name": "link",
@@ -49,154 +44,6 @@
     {
       "name": "server",
       "value": "Apache"
-    },
-    {
-      "name": "set-cookie",
-      "value": "AWSALB=Mdla6JzZdWv//zLmai1AJvcHjk69hggGZWU/AOi5QLJgRzWjPHKbXsD1QL+bGpXO1Jx5AKnBh6jjq6vwao0IZCnHh6TvLKChB6Ax89mRiEn5pGI83xd15Gn1+0fD; Expires=Fri, 30 Jan 2026 23:08:15 GMT; Path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "AWSALBCORS=Mdla6JzZdWv//zLmai1AJvcHjk69hggGZWU/AOi5QLJgRzWjPHKbXsD1QL+bGpXO1Jx5AKnBh6jjq6vwao0IZCnHh6TvLKChB6Ax89mRiEn5pGI83xd15Gn1+0fD; Expires=Fri, 30 Jan 2026 23:08:15 GMT; Path=/; SameSite=None; Secure"
-    },
-    {
-      "name": "set-cookie",
-      "value": "caweb-alert-id-0=1"
-    },
-    {
-      "name": "set-cookie",
-      "value": "caweb-alert-id-1=1"
-    },
-    {
-      "name": "set-cookie",
-      "value": "caweb-alert-id-2=1"
-    },
-    {
-      "name": "set-cookie",
-      "value": "caweb-alert-id-3=1"
-    },
-    {
-      "name": "set-cookie",
-      "value": "caweb-alert-id-4=1"
-    },
-    {
-      "name": "set-cookie",
-      "value": "caweb-alert-id-5=1"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_3=Leah%20M.%20Medrano; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_4=Eric%20Klosterman; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_5=Erik%20Deutsch; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_6=Joseph%20Cruz; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_7=Jennifer%20Jackson; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_8=Laura%20Baptista; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_9=Lisa%20Mosher; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_10=Jerram%20Swartz; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_11=Isaiah%20Sandoval; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_12=Francisco%20Vasquez; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_13=Catherine%20Adamic; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_14=David%20Booth; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_15=Brandy%20Davis; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_16=Ian%20Ramer; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_17=home%20page%20header%20video; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_19=Richard%20Schlesinger; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_21=Alfonso%20Casey; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_22=Jennifer%20Fierro; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_23=Shadina%20Tiffith; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_24=Tiana%20Reynolds; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_25=Lori%20Moilov; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_26=Omar%20Yousif; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_27=Lorna%20Leslie; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_28=Fanshen%20Cox; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_29=Megan%20Fleming; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_32=Leo%20Fialho; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_33=Heather%20Jennings; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_34=Shadina%20Tiffith-1; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ays_popup_cookie_35=Shawn%20Wu; expires=Fri, 23-Jan-2026 23:07:16 GMT; Max-Age=0; path=/"
     },
     {
       "name": "strict-transport-security",
@@ -227,7 +74,6 @@
       "value": "1; mode=block"
     }
   ],
-  "contentSize": 1412827,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Find a Sales and Use Tax Rate",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:24.226Z",
   "finalUrl": "https://maps.cdtfa.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -19,16 +18,8 @@
       "value": "no-cache, no-store, max-age=0"
     },
     {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:22 GMT"
     },
     {
       "name": "pragma",
@@ -43,36 +34,12 @@
       "value": "Microsoft-IIS/10.0"
     },
     {
-      "name": "set-cookie",
-      "value": "TiPMix=71.51857399284849; path=/; HttpOnly; Domain=maps.cdtfa.ca.gov; Max-Age=3600; Secure; SameSite=None"
-    },
-    {
-      "name": "set-cookie",
-      "value": "x-ms-routing-name=self; path=/; HttpOnly; Domain=maps.cdtfa.ca.gov; Max-Age=3600; Secure; SameSite=None"
-    },
-    {
-      "name": "set-cookie",
-      "value": ".AspNetCore.Antiforgery.cdV5uW_Ejgc=CfDJ8NFDpu6Dj8BIse-IMk135Pem1Fbt6l919nXt-wNrG7HpTCoqiCIQcUNtz9d1a8F8W4uSXbQ7UAfC_IPs3hMKmi3Rn-wXCuzbbALt1uflcA_NCYjt5H-JFCuerRXO8s8PmZVdM-FCY1rTWvcqpmkjR-g; path=/; samesite=strict; httponly"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ARRAffinity=ff8a57e3572e40f8f3ea2b24b42ee5af6a861631111d16a4ba1e3aa3616f348c;Path=/;HttpOnly;Secure;Domain=maps.cdtfa.ca.gov"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ARRAffinitySameSite=ff8a57e3572e40f8f3ea2b24b42ee5af6a861631111d16a4ba1e3aa3616f348c;Path=/;HttpOnly;SameSite=None;Secure;Domain=maps.cdtfa.ca.gov"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=2592000"
     },
     {
       "name": "transfer-encoding",
       "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
     },
     {
       "name": "x-frame-options",
@@ -83,7 +50,6 @@
       "value": "ASP.NET"
     }
   ],
-  "contentSize": 11579,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

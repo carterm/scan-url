@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Pocket Utility Guide",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:39.329Z",
   "finalUrl": "https://utilitypocketguide.dot.ca.gov/public/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -23,16 +22,8 @@
       "value": "gzip"
     },
     {
-      "name": "content-length",
-      "value": "16268"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:35 GMT"
     },
     {
       "name": "keep-alive",
@@ -40,19 +31,7 @@
     },
     {
       "name": "server-timing",
-      "value": "dtSInfo;desc=\"0\", dtRpid;desc=\"1122596448\""
-    },
-    {
-      "name": "set-cookie",
-      "value": "dtCookie=v_4_srv_6_sn_2F12CBBC04501CEECD946F4DA2B04ECC_perc_100000_ol_0_mul_1_app-3A89db1250a9cdc3ca_1_rcs-3Acss_0; Path=/; Domain=.ca.gov"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS0178dfc2=01ccba8e7f204ba327557e55ab7a4bad8a5117fbe641ca62931b315ce5df617d854384a96484c0c545184e9b8f88cc2786274111da; Path=/"
-    },
-    {
-      "name": "set-cookie",
-      "value": "TS01ef51aa=01ccba8e7fc010033e8088ca04f0bd0dd444d9fadf41ca62931b315ce5df617d854384a964d66e8a29b8b3d0e94b6db5f0935c49d7df2ca393f3d2c998bf4bfb2e153c2a14; path=/; domain=.ca.gov"
+      "value": "dtSInfo;desc=\"0\", dtRpid;desc=\"-518614704\""
     },
     {
       "name": "vary",
@@ -67,7 +46,6 @@
       "value": "true"
     }
   ],
-  "contentSize": 70809,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

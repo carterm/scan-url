@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "CDPH Home",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:14.081Z",
   "finalUrl": "https://www.cdph.ca.gov/",
   "metaGenerator": null,
   "responseHeaders": [
@@ -27,12 +26,8 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:07 GMT"
-    },
-    {
       "name": "expires",
-      "value": "Fri, 23 Jan 2026 23:13:07 GMT"
+      "value": "Fri, 23 Jan 2026 23:35:50 GMT"
     },
     {
       "name": "microsoftsharepointteamservices",
@@ -40,7 +35,7 @@
     },
     {
       "name": "request-id",
-      "value": "a3f4efa1-458b-d002-174f-c86148b84c66"
+      "value": "1df6efa1-a57a-d002-484c-3afacae5d66a"
     },
     {
       "name": "server",
@@ -52,11 +47,11 @@
     },
     {
       "name": "sprequestduration",
-      "value": "3015"
+      "value": "33"
     },
     {
       "name": "sprequestguid",
-      "value": "a3f4efa1-458b-d002-174f-c86148b84c66"
+      "value": "1df6efa1-a57a-d002-484c-3afacae5d66a"
     },
     {
       "name": "transfer-encoding",
@@ -69,10 +64,6 @@
     {
       "name": "x-content-type-options",
       "value": "nosniff"
-    },
-    {
-      "name": "x-envoy-upstream-service-time",
-      "value": "3058"
     },
     {
       "name": "x-frame-options",
@@ -88,10 +79,9 @@
     },
     {
       "name": "x-volterra-location",
-      "value": "sv10-sjc"
+      "value": "b-sv10-sjc"
     }
   ],
-  "contentSize": 544012,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

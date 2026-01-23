@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "City of Point Arena",
   "lastStatus": 200,
-  "lastChecked": "2026-01-23T23:08:33.535Z",
   "finalUrl": "https://pointarena.ca.gov/",
   "metaGenerator": "WordPress 6.9",
   "responseHeaders": [
@@ -19,10 +18,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "date",
-      "value": "Fri, 23 Jan 2026 23:08:30 GMT"
-    },
-    {
       "name": "host-header",
       "value": "d3AuYmx1ZWhvc3QuY29t"
     },
@@ -33,18 +28,6 @@
     {
       "name": "server",
       "value": "nginx/1.27.2"
-    },
-    {
-      "name": "set-cookie",
-      "value": "wordpress_google_apps_login=9658ab3ccc93fbd722d0cda90e991466; path=/; secure; HttpOnly"
-    },
-    {
-      "name": "set-cookie",
-      "value": "ep_session_id=ep-sess-1769209710-qdWcv9Rn; path=/; secure; HttpOnly"
-    },
-    {
-      "name": "set-cookie",
-      "value": "nfd-enable-cf-opt=63a6825d27cab0f204d3b602; path=/; Max-Age=86400; HttpOnly"
     },
     {
       "name": "transfer-encoding",
@@ -83,7 +66,6 @@
       "value": "v1"
     }
   ],
-  "contentSize": 152000,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
