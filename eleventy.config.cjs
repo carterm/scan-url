@@ -6,7 +6,12 @@
  */
 
 module.exports = function (/** @type {eleventyConfig} **/ eleventyConfig) {
-  eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
+  eleventyConfig.addPassthroughCopy({
+    "./node_modules/@cagovweb/state-template/dist/css/cagov.core.min.css":
+      "css/cagov.core.min.css",
+    "./node_modules/@cagovweb/state-template/dist/js/cagov.core.min.js":
+      "js/cagov.core.min.js"
+  });
 
   //Start with default config, easier to configure 11ty later
   /** @type {EleventyDefaultConfig} */
@@ -15,15 +20,13 @@ module.exports = function (/** @type {eleventyConfig} **/ eleventyConfig) {
     htmlTemplateEngine: "njk",
     markdownTemplateEngine: "njk",
     templateFormats: ["html", "njk", "11ty.js", "md"],
-
+    keys: {},
     dir: {
       // site content pages
       input: "pages",
       data: "../src/_data",
       // site structure pages (path is realtive to input directory)
-      includes: "../src/_includes",
-      // @ts-ignore
-      layouts: "../src/_includes/layouts",
+
       // site final outpuut directory
       output: "_site"
     }
