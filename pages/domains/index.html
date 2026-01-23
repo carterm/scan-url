@@ -1,0 +1,17 @@
+---
+title: domain list
+---
+
+<h1>All CA.gov Domains</h1>
+
+<ul>
+  {% for key, value in domains %}
+
+  <li>
+    <a href="/domains/{{ key }}/"> {{ value.domain }} </a>
+    {% if value.cosmetic %}
+    <span style="color:#888">(cosmetic → {{ value.forwardsTo }})</span>
+    {% endif %}
+  </li>
+  {% endfor %}
+</ul>
