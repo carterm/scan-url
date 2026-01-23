@@ -14,7 +14,9 @@
   "bugs": "https://github.com/carterm/scan-url/issues",
   "license": "MIT",
   "scripts": {
-    "start": "npm run scan && npm run csv && npm run report",
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy",
+    "runscan": "npm run scan && npm run csv && npm run report",
     "dev": "SCAN_MASTER_TIMEOUT=5000 node src/scan.cjs",
     "scan": "node src/scan.cjs",
     "report": "node src/report.cjs",
@@ -29,6 +31,7 @@
     "prettier": "^3.0.3"
   },
   "dependencies": {
+    "@11ty/eleventy": "^3.1.2",
     "jsdom": "^24.0.0",
     "json-2-csv": "^5.5.1",
     "undici": "^6.22.0"
