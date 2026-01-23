@@ -16,6 +16,7 @@
   "scripts": {
     "start": "npx @11ty/eleventy --serve",
     "build": "npx @11ty/eleventy",
+    "ingest_urls": "node src/ingest/ingestUrls.mjs",
     "runscan": "npm run scan && npm run csv && npm run report",
     "dev": "SCAN_MASTER_TIMEOUT=5000 node src/scan.cjs",
     "scan": "node src/scan.cjs",
@@ -24,7 +25,7 @@
     "GIT cleanup": "git clean -fd"
   },
   "private": true,
-  "type": "commonjs",
+  "type": "module",
   "devDependencies": {
     "eslint": "^8.56.0",
     "eslint-plugin-jsdoc": "^48.2.0",

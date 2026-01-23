@@ -1,0 +1,12 @@
+{
+  "domain": "pharmacy.ca.gov",
+  "preferredPath": "/",
+  "www": true,
+  "lastStatus": null,
+  "lastChecked": null,
+  "redirects": [],
+  "cloudflare": null,
+  "cosmetic": false,
+  "forwardsTo": null,
+  "notes": ""
+}

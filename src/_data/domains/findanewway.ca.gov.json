@@ -1,0 +1,12 @@
+{
+  "domain": "findanewway.ca.gov",
+  "preferredPath": "/wp-login.php",
+  "www": false,
+  "lastStatus": null,
+  "lastChecked": null,
+  "redirects": [],
+  "cloudflare": null,
+  "cosmetic": false,
+  "forwardsTo": null,
+  "notes": ""
+}

@@ -1,0 +1,12 @@
+{
+  "domain": "billing.technology.ca.gov",
+  "preferredPath": "/login.aspx",
+  "www": false,
+  "lastStatus": null,
+  "lastChecked": null,
+  "redirects": [],
+  "cloudflare": null,
+  "cosmetic": false,
+  "forwardsTo": null,
+  "notes": ""
+}

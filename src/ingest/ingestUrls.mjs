@@ -3,7 +3,8 @@
 /**
  * @typedef {Object} DomainRecord
  * @property {string} domain
- * @property {string} preferredUrl
+ * @property {string} preferredPath
+ * @property {boolean} www
  * @property {number | null} lastStatus
  * @property {string | null} lastChecked
  * @property {string[]} redirects
@@ -15,10 +16,15 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import { fileURLToPath } from "node:url";
 import { normalizeUrl } from "./normalizeUrl.mjs";
 
+// Resolve __dirname in ESM
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
 const DOMAIN_DIR = path.join(process.cwd(), "src/_data/domains");
-const INGEST_FILE = path.join(process.cwd(), "src/ingest/ingestTarget.txt");
+const INGEST_FILE = path.join(__dirname, "ingestTarget.txt");
 
 /**
  * Ensure the domain directory exists.
@@ -55,13 +61,15 @@ function saveRecord(filePath, record) {
 /**
  * Create a new starter domain record.
  * @param {string} domain
- * @param {string} preferredUrl
+ * @param {string} preferredPath
+ * @param {boolean} www
  * @returns {DomainRecord}
  */
-function createStarterRecord(domain, preferredUrl) {
+function createStarterRecord(domain, preferredPath, www) {
   return {
     domain,
-    preferredUrl,
+    preferredPath,
+    www,
     lastStatus: null,
     lastChecked: null,
     redirects: [],
@@ -79,7 +87,7 @@ export function ingestUrls() {
   ensureDomainDir();
 
   if (!fs.existsSync(INGEST_FILE)) {
-    console.error("ingestTarget.txt not found. Create it in src/ingest/");
+    console.error("❌ ingestTarget.txt not found. Create it in src/ingest/");
     return;
   }
 
@@ -94,7 +102,7 @@ export function ingestUrls() {
     const normalized = normalizeUrl(raw);
     if (!normalized) continue;
 
-    const { domain, preferredUrl } = normalized;
+    const { domain, preferredPath, www } = normalized;
     const filePath = path.join(DOMAIN_DIR, `${domain}.json`);
 
     /** @type {DomainRecord} */
@@ -105,22 +113,32 @@ export function ingestUrls() {
       if (existing) {
         record = existing;
 
-        // Update preferredUrl if it's new or shorter
+        // Update preferredPath if new one is shorter ("/" wins)
         if (
-          !record.preferredUrl ||
-          preferredUrl.length < record.preferredUrl.length
+          !record.preferredPath ||
+          preferredPath.length < record.preferredPath.length
         ) {
-          record.preferredUrl = preferredUrl;
+          record.preferredPath = preferredPath;
+        }
+
+        // Update www flag if new info arrives
+        if (www && !record.www) {
+          record.www = true;
         }
       } else {
-        record = createStarterRecord(domain, preferredUrl);
+        record = createStarterRecord(domain, preferredPath, www);
       }
     } else {
-      record = createStarterRecord(domain, preferredUrl);
+      record = createStarterRecord(domain, preferredPath, www);
     }
 
     saveRecord(filePath, record);
   }
 
-  console.log(`Ingested ${urls.length} URL(s).`);
+  console.log(`✅ Ingested ${urls.length} URL(s).`);
+}
+
+// Auto-run when executed directly
+if (import.meta.url === `file://${process.argv[1]}`) {
+  ingestUrls();
 }
