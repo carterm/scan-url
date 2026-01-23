@@ -10,35 +10,14 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { normalizeUrl } from "./normalizeUrl.mjs";
 
+import { loadRecord, saveRecord } from "../helpers/fileIO.mjs";
+
 // Resolve __dirname in ESM
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const DOMAIN_DIR = path.join(process.cwd(), "src/_data/domains");
 const INGEST_FILE = path.join(__dirname, "ingestTarget.txt");
-
-/**
- * Load an existing domain record from disk.
- * @param {string} filePath
- * @returns {DomainRecord | null}
- */
-function loadRecord(filePath) {
-  try {
-    const raw = fs.readFileSync(filePath, "utf8");
-    return /** @type {DomainRecord} */ (JSON.parse(raw));
-  } catch {
-    return null;
-  }
-}
-
-/**
- * Write a domain record to disk.
- * @param {string} filePath
- * @param {DomainRecord} record
- */
-function saveRecord(filePath, record) {
-  fs.writeFileSync(filePath, JSON.stringify(record, null, 2));
-}
 
 /**
  * Create a new starter DomainRecord.

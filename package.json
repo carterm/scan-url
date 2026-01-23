@@ -17,10 +17,7 @@
     "start": "npx @11ty/eleventy --serve",
     "build": "npx @11ty/eleventy",
     "ingest_urls": "node src/ingest/ingestUrls.mjs",
-    "runscan": "npm run scan && npm run csv && npm run report",
-    "dev": "SCAN_MASTER_TIMEOUT=5000 node src/scan.cjs",
-    "scan": "node src/scan.cjs",
-    "report": "node src/report.cjs",
+    "scan_all": "node scan/scanAll.mjs",
     "csv": "node src/csv.cjs",
     "GIT cleanup": "git clean -fd"
   },
@@ -36,6 +33,7 @@
     "@cagovweb/state-template": "^6.5.5",
     "jsdom": "^24.0.0",
     "json-2-csv": "^5.5.1",
+    "node-fetch": "^3.3.2",
     "undici": "^6.22.0"
   }
 }

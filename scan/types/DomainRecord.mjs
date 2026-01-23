@@ -39,9 +39,6 @@
  * @property {number} contentSize
  *   Size of the response body in bytes.
  *
- * @property {number | null} httpVersion
- *   HTTP protocol version (1.1 → 1.1, HTTP/2 → 2, HTTP/3 → 3).
- *
  * @property {boolean} cloudflare
  * @property {boolean} slow
  * @property {boolean} hasStatewideAlerts
@@ -90,7 +87,6 @@ export function createDomainRecord() {
     responseHeaders: [],
 
     contentSize: 0,
-    httpVersion: null,
 
     cloudflare: false,
     slow: false,
