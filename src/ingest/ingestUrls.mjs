@@ -1,8 +1,9 @@
 // @ts-check
 
 /**
- * @typedef {import("../types/DomainRecord.cjs").DomainRecord} DomainRecord
+ * @typedef {import("../types/DomainRecord.mjs").DomainRecord} DomainRecord
  */
+import { createDomainRecord } from "../types/DomainRecord.mjs";
 
 import fs from "node:fs";
 import path from "node:path";
@@ -56,30 +57,11 @@ function saveRecord(filePath, record) {
  * @returns {DomainRecord}
  */
 function createStarterRecord(domain, preferredPath, www) {
-  return {
-    domain,
-    preferredPath,
-    www,
-    title: `title for ${domain}`,
-    lastStatus: null,
-    lastChecked: null,
-    redirects: [],
-    cloudflare: false,
-    cosmetic: false,
-    forwardsTo: null,
-    notes: null,
-    finalUrl: null,
-    metaGenerator: null,
-    headerPoweredBy: null,
-    headerServer: null,
-    slow: false,
-    hasStatewideAlerts: false,
-    usesStateTemplate: false,
-    hasJQuery: false,
-    hasGoogleAnalytics: false,
-    errorCode: null,
-    errorMessage: null
-  };
+  const domainRecord = createDomainRecord();
+  domainRecord.domain = domain;
+  domainRecord.preferredPath = preferredPath;
+  domainRecord.www = www;
+  return domainRecord;
 }
 
 /**
