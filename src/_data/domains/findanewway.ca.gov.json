@@ -18,10 +18,6 @@
       "value": "max-age=0, must-revalidate, private"
     },
     {
-      "name": "cf-cache-status",
-      "value": "DYNAMIC"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -32,10 +28,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "expires",
-      "value": "Thu, 19 Nov 1981 08:52:00 GMT"
     },
     {
       "name": "pragma",

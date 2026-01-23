@@ -22,10 +22,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "expires",
-      "value": "Thu, 19 Nov 1981 08:52:00 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://smmc.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://smmc.ca.gov/wp-json/wp/v2/pages/2>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://smmc.ca.gov/>; rel=shortlink"
     },

@@ -27,7 +27,7 @@
     },
     {
       "name": "x-ms-request-id",
-      "value": "5a10e936-601e-00f1-19c1-8c83ac000000"
+      "value": "679ec6e8-f01e-0028-5cc2-8cfb29000000"
     },
     {
       "name": "x-ms-version",
@@ -35,7 +35,7 @@
     },
     {
       "name": "x-volterra-location",
-      "value": "sv10-sjc"
+      "value": "b-sv10-sjc"
     }
   ],
   "cloudflare": false,

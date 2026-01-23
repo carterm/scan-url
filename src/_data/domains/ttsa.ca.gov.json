@@ -14,10 +14,6 @@
       "value": "private, s-maxage=600,no-transform"
     },
     {
-      "name": "cf-cache-status",
-      "value": "DYNAMIC"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },

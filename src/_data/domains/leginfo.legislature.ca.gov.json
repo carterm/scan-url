@@ -22,10 +22,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "expires",
-      "value": "-1"
-    },
-    {
       "name": "pragma",
       "value": "no-cache"
     },

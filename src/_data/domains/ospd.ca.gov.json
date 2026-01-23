@@ -11,7 +11,7 @@
   "responseHeaders": [
     {
       "name": "cache-control",
-      "value": "public, max-age=1400"
+      "value": "public, max-age=1086"
     },
     {
       "name": "content-encoding",

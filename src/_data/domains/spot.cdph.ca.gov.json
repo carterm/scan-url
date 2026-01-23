@@ -19,15 +19,11 @@
     },
     {
       "name": "content-security-policy-report-only",
-      "value": "frame-src *.force.com https://player.vimeo.com 'self' https://stats.g.doubleclick.net *.youtube.co.uk https://sfdc-link-preview.hk.salesforce.com https://checkoutshopper-test.adyen.com/ https://pal-test.adyen.com *.cybersource.com *.youtube.es *.adis.ws https://www.gstatic.com *.youtube.ie https://www.youtube.com *.cloudinary.com https://www.google.com https://pay.google.com *.vimeo.com *.youtube.jp bcove.video *.youtube.fr https://player.cloudinary.com https://sfdc-link-preview-staging.sfdc.sh https://s1.adis.ws *.forceusercontent.com *.youtube.com *.brightcove.net https://ssl.gstatic.com *.youtube.nl https://service.force.com/embeddedservice/ https://fast.wistia.net *.quip.com *.arkoselabs.com *.youtube-nocookie.com https://www.paypal.com https://appiniummastertrial.secure.force.com https://play.vidyard.com https://*.c.forceusercontent.com/lightningmaps/ *.youtube.com.br *.salesforce-experience.com *.salesforceliveagent.com https://cdphct.file.force.com https://scormanywhere.secure.force.com https://checkoutshopper-live.adyen.com/ *.sfdcfc.net *.youtube.ca https://location.force.com https://public.tableau.com *.vidyard.com https://usa9014.sfdc-pu91w7.salesforce.com https://tagmanager.google.com https://www.gstatic.com/recaptcha/ https://players.brightcove.net https://*.c.forceusercontent.com https://cdn.embedly.com https://www.google.com/recaptcha/ https://js.stripe.com/ https://www.sandbox.paypal.com https://www.googletagmanager.com *.wistia.net https://www.google-analytics.com *.salesforce.com https://www.ocgov.com *.youtube.pl; report-to sfdc-csp-ep; report-uri https://cdphct.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Dt00000004XQC&networkId=0DMt0000000PBdO&type=communities"
+      "value": "script-src https://pay.google.com https://www.gstatic.com/recaptcha/ https://uip.canary.lwc.dev 'unsafe-inline' https://cdn.content.aws-dev2-uswest2.aws.sfdc.cl/ 'self' https://payments.salesforce.com/ https://checkoutshopper-test.adyen.com/ https://pal-test.adyen.com blob: https://youtu.be https://www.google.com/recaptcha/ https://js.stripe.com/ https://checkoutshopper-live.adyen.com/ import: https://cdn.content.aws-prod1-useast1.aws.sfdc.cl/ *.salesforce.com https://www.paypal.com/sdk/js 'report-sample' https://service.force.com/embeddedservice/ https://www.youtube.com 'unsafe-eval'; report-to sfdc-csp-ep; report-uri https://cdphct.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Dt00000004XQC&networkId=0DMt0000000PBdO&type=communities"
     },
     {
       "name": "content-type",
       "value": "text/html;charset=UTF-8"
-    },
-    {
-      "name": "expires",
-      "value": "Thu, 23 Jan 2025 23:39:20 GMT"
     },
     {
       "name": "link",
@@ -44,10 +40,6 @@
     {
       "name": "server",
       "value": "volt-adc"
-    },
-    {
-      "name": "server-timing",
-      "value": "Headers;dur=183"
     },
     {
       "name": "strict-transport-security",
@@ -75,7 +67,7 @@
     },
     {
       "name": "x-volterra-location",
-      "value": "b-sv10-sjc"
+      "value": "sv10-sjc"
     }
   ],
   "cloudflare": false,

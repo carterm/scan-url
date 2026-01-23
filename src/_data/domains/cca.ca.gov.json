@@ -18,10 +18,6 @@
       "value": "public, max-age=2678400"
     },
     {
-      "name": "cf-cache-status",
-      "value": "HIT"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -32,10 +28,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "expires",
-      "value": "Mon, 23 Feb 2026 23:38:51 GMT"
     },
     {
       "name": "link",

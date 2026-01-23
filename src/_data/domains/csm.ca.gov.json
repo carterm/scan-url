@@ -26,10 +26,6 @@
       "value": "text/html"
     },
     {
-      "name": "expires",
-      "value": "0"
-    },
-    {
       "name": "pragma",
       "value": "no-cache"
     },

@@ -70,10 +70,6 @@
       "value": "HIT"
     },
     {
-      "name": "x-vercel-id",
-      "value": "sfo1::jdvfr-1769211531416-d2f8af77089b"
-    },
-    {
       "name": "x-xss-protection",
       "value": "1; mode=block"
     }

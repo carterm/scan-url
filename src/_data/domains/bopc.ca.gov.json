@@ -18,10 +18,6 @@
       "value": "max-age=600, must-revalidate"
     },
     {
-      "name": "cf-cache-status",
-      "value": "DYNAMIC"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },

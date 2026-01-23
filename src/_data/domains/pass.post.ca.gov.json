@@ -26,10 +26,6 @@
       "value": "text/html;charset=UTF-8"
     },
     {
-      "name": "expires",
-      "value": "0"
-    },
-    {
       "name": "pragma",
       "value": "no-cache"
     },
@@ -55,7 +51,7 @@
     },
     {
       "name": "x-requestid",
-      "value": "5db4b0d2-fab0-45ec-b503-28b7a7d35122"
+      "value": "494ce2be-3a3b-4c40-82cc-bec83d7a438a"
     },
     {
       "name": "x-xss-protection",

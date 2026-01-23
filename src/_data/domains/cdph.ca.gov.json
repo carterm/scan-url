@@ -22,10 +22,6 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "expires",
-      "value": "Fri, 23 Jan 2026 23:43:57 GMT"
-    },
-    {
       "name": "microsoftsharepointteamservices",
       "value": "16.0.0.10417"
     },
@@ -35,7 +31,7 @@
     },
     {
       "name": "spiislatency",
-      "value": "0"
+      "value": "1"
     },
     {
       "name": "transfer-encoding",

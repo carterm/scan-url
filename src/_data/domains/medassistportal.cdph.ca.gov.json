@@ -35,7 +35,7 @@
     },
     {
       "name": "x-volterra-location",
-      "value": "sv10-sjc"
+      "value": "b-sv10-sjc"
     }
   ],
   "cloudflare": false,

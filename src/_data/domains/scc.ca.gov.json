@@ -51,7 +51,7 @@
     },
     {
       "name": "x-sucuri-cache",
-      "value": "HIT"
+      "value": "EXPIRED"
     },
     {
       "name": "x-sucuri-id",

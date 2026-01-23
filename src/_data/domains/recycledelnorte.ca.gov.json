@@ -26,10 +26,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "expires",
-      "value": "Thu, 01 Jan 1970 00:00:00 +0000"
-    },
-    {
       "name": "pragma",
       "value": "no-cache"
     },

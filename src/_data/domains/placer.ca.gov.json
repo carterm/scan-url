@@ -14,10 +14,6 @@
       "value": "public, max-age=30"
     },
     {
-      "name": "cf-cache-status",
-      "value": "HIT"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -28,10 +24,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "expires",
-      "value": "Fri, 23 Jan 2026 23:39:44 GMT"
     },
     {
       "name": "p3p",

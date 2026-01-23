@@ -38,10 +38,6 @@
       "value": "same-origin"
     },
     {
-      "name": "expires",
-      "value": "Sun, 19 Nov 1978 05:00:00 GMT"
-    },
-    {
       "name": "referrer-policy",
       "value": "no-referrer-when-downgrade"
     },

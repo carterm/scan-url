@@ -9,6 +9,7 @@ import { performance } from "node:perf_hooks";
 import { JSDOM, VirtualConsole, ResourceLoader } from "jsdom";
 
 const removeHeaders = [
+  "akamai-grn",
   "age",
   "date",
   "x-cache",
@@ -25,13 +26,18 @@ const removeHeaders = [
   "x-amz-cf-id",
   "last-modified",
   "content-security-policy",
+  "content-security-policy-report-only",
   "request-id",
   "sprequestduration",
   "sprequestguid",
   "x-iinfo",
   "x-runtime",
   "keep-alive",
-  "expires"
+  "expires",
+  "x-vercel-id",
+  "server-timing",
+  "x-contextid",
+  "cf-cache-status"
 ];
 
 const fetchTimeout = 15000; //15 seconds

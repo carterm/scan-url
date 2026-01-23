@@ -63,11 +63,11 @@
     },
     {
       "name": "x-cache-age",
-      "value": "100"
+      "value": "4"
     },
     {
       "name": "x-cache-ttl-remaining",
-      "value": "604699.213"
+      "value": "604795.967"
     },
     {
       "name": "x-cacheable",
@@ -95,7 +95,7 @@
     },
     {
       "name": "x-varnish",
-      "value": "45177982 48602275"
+      "value": "48925975 48602598"
     },
     {
       "name": "x-varnish-cache",

@@ -26,10 +26,6 @@
       "value": "text/html;charset=UTF-8"
     },
     {
-      "name": "expires",
-      "value": "0"
-    },
-    {
       "name": "pragma",
       "value": "no-store,no-cache"
     },
@@ -40,10 +36,6 @@
     {
       "name": "server",
       "value": "snow_adc"
-    },
-    {
-      "name": "server-timing",
-      "value": "t;desc=\"6896deb6872e\", sem_wait;dur=0, sesh_wait;dur=0"
     },
     {
       "name": "strict-transport-security",
@@ -67,7 +59,7 @@
     },
     {
       "name": "x-transaction-id",
-      "value": "6896deb6872e"
+      "value": "c1c75236c32e"
     }
   ],
   "cloudflare": false,

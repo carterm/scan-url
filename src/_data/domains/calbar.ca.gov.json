@@ -30,10 +30,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "expires",
-      "value": "Sun, 19 Nov 1978 05:00:00 GMT"
-    },
-    {
       "name": "feature-policy",
       "value": "Permissions-Policy: geolocation=(), camera=(), microphone=()"
     },
@@ -79,11 +75,11 @@
     },
     {
       "name": "x-pantheon-styx-hostname",
-      "value": "styx-fe1-b-6d866b556d-t57ll"
+      "value": "styx-fe1-b-6d866b556d-942r5"
     },
     {
       "name": "x-styx-req-id",
-      "value": "bc58cd94-f8b2-11f0-8591-3ef852c08ca4"
+      "value": "56b00810-f8b5-11f0-9cd3-22bc5758a205"
     },
     {
       "name": "x-xss-protection",

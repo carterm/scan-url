@@ -34,10 +34,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "expires",
-      "value": "Sun, 19 Nov 1978 05:00:00 GMT"
-    },
-    {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
     },
@@ -83,7 +79,7 @@
     },
     {
       "name": "x-request-id",
-      "value": "v-a7701920-f8b4-11f0-a019-f70fd3a50469"
+      "value": "v-673136cc-f8b5-11f0-b4b2-af41e440363d"
     }
   ],
   "cloudflare": false,

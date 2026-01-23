@@ -15,7 +15,7 @@
     },
     {
       "name": "cache-control",
-      "value": "max-age=299, must-revalidate"
+      "value": "max-age=296, must-revalidate"
     },
     {
       "name": "connection",
@@ -35,7 +35,7 @@
     },
     {
       "name": "on-ws",
-      "value": "prd2"
+      "value": "prd1"
     },
     {
       "name": "p3p",
@@ -71,7 +71,7 @@
     },
     {
       "name": "x-volterra-location",
-      "value": "b-sv10-sjc"
+      "value": "sv10-sjc"
     }
   ],
   "cloudflare": false,

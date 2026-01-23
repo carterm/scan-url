@@ -15,7 +15,7 @@
     },
     {
       "name": "cache-control",
-      "value": "max-age=40, must-revalidate"
+      "value": "max-age=117, must-revalidate"
     },
     {
       "name": "connection",
@@ -40,10 +40,6 @@
     {
       "name": "server",
       "value": "nginx"
-    },
-    {
-      "name": "server-timing",
-      "value": "a8c-cdn, dc;desc=sjc, cache;desc=STALE;dur=1.0"
     },
     {
       "name": "strict-transport-security",

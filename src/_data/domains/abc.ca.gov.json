@@ -22,10 +22,6 @@
       "value": "max-age=14400, must-revalidate"
     },
     {
-      "name": "cf-cache-status",
-      "value": "DYNAMIC"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },

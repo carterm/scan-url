@@ -18,10 +18,6 @@
       "value": "public, max-age=0, s-maxage=3600"
     },
     {
-      "name": "cf-cache-status",
-      "value": "HIT"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -63,7 +59,7 @@
     },
     {
       "name": "report-to",
-      "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=ma4v4l%2FNvfVGW3cddmRCmnZEtRfXT2vcOT3xKdM5yblmzd4B0KuW%2B6oFg6LCM72Hq%2FiH7G%2BB3i9A2aq8BhyhMGOJNXHp4SdTVdvASkaIEYzhFYIx6Cf%2FD8jlW9r%2BmA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+      "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=03Yu7EVSV4nPw5u5%2Bfgwl2xvQBpHZ%2BUtoC0cTu7JyZCu8K0MgQ1Noj0pXmjP8ho3vzDlFIkG8fBP8kkItBUgGk8Pma04By557GIL37%2F1l956iQLKvSVmCm%2BzL3I4DphVGT9LN1fbMdMmfA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
     },
     {
       "name": "server",

@@ -22,20 +22,12 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "expires",
-      "value": "-1"
-    },
-    {
       "name": "pragma",
       "value": "no-cache"
     },
     {
       "name": "server",
       "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "server-timing",
-      "value": "dtSInfo;desc=\"0\", dtRpid;desc=\"-713421006\""
     },
     {
       "name": "strict-transport-security",

@@ -14,10 +14,6 @@
       "value": "h3=\":443\"; ma=86400"
     },
     {
-      "name": "cf-cache-status",
-      "value": "DYNAMIC"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },

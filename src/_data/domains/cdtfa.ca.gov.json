@@ -22,10 +22,6 @@
       "value": "text/html"
     },
     {
-      "name": "expires",
-      "value": "-1"
-    },
-    {
       "name": "permissions-policy",
       "value": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()"
     },

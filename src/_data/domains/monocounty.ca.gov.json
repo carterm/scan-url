@@ -14,10 +14,6 @@
       "value": "public, max-age=10800"
     },
     {
-      "name": "cf-cache-status",
-      "value": "DYNAMIC"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -32,10 +28,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "expires",
-      "value": "Sun, 19 Nov 1978 05:00:00 GMT"
     },
     {
       "name": "link",

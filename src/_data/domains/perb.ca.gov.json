@@ -39,7 +39,7 @@
     },
     {
       "name": "x-cache-status",
-      "value": "HIT"
+      "value": "STALE"
     },
     {
       "name": "x-content-type-options",

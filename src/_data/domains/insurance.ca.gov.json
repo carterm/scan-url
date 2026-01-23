@@ -22,10 +22,6 @@
       "value": "text/html;charset=UTF-8"
     },
     {
-      "name": "expires",
-      "value": "Mon, 06 Jan 1990 00:00:01 GMT"
-    },
-    {
       "name": "pragma",
       "value": "no-cache"
     },

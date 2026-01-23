@@ -11,7 +11,7 @@
   "responseHeaders": [
     {
       "name": "akamai-grn",
-      "value": "0.4ba7cb17.1769211527.734c3cd4"
+      "value": "0.67a7cb17.1769211841.8cf07156"
     },
     {
       "name": "cache-control",
@@ -27,15 +27,11 @@
     },
     {
       "name": "content-security-policy-report-only",
-      "value": "img-src *.force.com slack-imgs-mil-dev.com 'self' https://stats.g.doubleclick.net *.slack.com https://www.paypal.com https://usa9020.sfdc-pu91w7.salesforce.com/icons/ https://img.youtube.com https://payments.salesforce.com/icons/ https://eddcontact.file.force.com https://login.salesforce.com/icons/ *.slack-imgs.com slack-imgs-gov.com https://i.ytimg.com https://cdn.content.aws-dev2-uswest2.aws.sfdc.cl/icons/ *.salesforce-experience.com https://edd.ca.gov https://www.gstatic.com *.slack-edge-gov.com https://metrics-nds.docgen.nintex.io *.my-salesforce.com slack-imgs-gov-dev.com *.slack-edge.com *.cloudinary.com https://cdn.content.aws-prod1-useast1.aws.sfdc.cl/icons/ slack-mil-dev.com https://api.ipify.org https://www.gstatic.com/recaptcha/ *.amazonaws.com blob: https://eddcontact.my.salesforce.com https://www.google.com/recaptcha/ *.slack-edge.mil https://www.sandbox.paypal.com https://data.metrics-nds.docgen.nintex.io https://i.vimeocdn.com https://content.metrics-nds.docgen.nintex.io slack-imgs.com slack-gov-dev.com *.sfdcstatic.com https://www.googletagmanager.com https://www.google-analytics.com *.salesforce.com *.twimg.com https://*.adyen.com slack-imgs.mil data:; report-to sfdc-csp-ep; report-uri https://eddcontact.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Dt00000004XiB&networkId=0DMt00000008OzP&type=communities"
+      "value": "script-src https://www.googletagmanager.com/gtm.js 'unsafe-inline' 'self' https://payments.salesforce.com/ https://stats.g.doubleclick.net https://checkoutshopper-test.adyen.com/ https://pal-test.adyen.com https://checkoutshopper-live.adyen.com/ https://cdn.content.aws-prod1-useast1.aws.sfdc.cl/ https://pay.google.com https://www.gstatic.com/recaptcha/ https://uip.canary.lwc.dev https://cdn.content.aws-dev2-uswest2.aws.sfdc.cl/ blob: https://www.googletagmanager.com/gtag/js https://www.google.com/recaptcha/ https://js.stripe.com/ import: https://www.google-analytics.com *.salesforce.com https://www.paypal.com/sdk/js 'report-sample' https://service.force.com/embeddedservice/ 'unsafe-eval'; report-to sfdc-csp-ep; report-uri https://eddcontact.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Dt00000004XiB&networkId=0DMt00000008OzP&type=communities"
     },
     {
       "name": "content-type",
       "value": "text/html;charset=UTF-8"
-    },
-    {
-      "name": "expires",
-      "value": "Thu, 23 Jan 2025 23:38:47 GMT"
     },
     {
       "name": "link",
@@ -48,10 +44,6 @@
     {
       "name": "reporting-endpoints",
       "value": "sfdc-csp-ep=\"https://eddcontact.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Dt00000004XiB&networkId=0DMt00000008OzP&type=communities\""
-    },
-    {
-      "name": "server-timing",
-      "value": "Headers;dur=41"
     },
     {
       "name": "strict-transport-security",

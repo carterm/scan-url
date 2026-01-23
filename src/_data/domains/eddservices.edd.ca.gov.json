@@ -26,20 +26,12 @@
       "value": "text/html"
     },
     {
-      "name": "expires",
-      "value": "Fri, 23 Jan 2026 23:39:02 GMT"
-    },
-    {
       "name": "p3p",
       "value": "CP=\"NON CUR OTPi OUR NOR UNI\""
     },
     {
       "name": "pragma",
       "value": "no-cache"
-    },
-    {
-      "name": "server-timing",
-      "value": "cdn-cache; desc=MISS, edge; dur=12, origin; dur=14, ak_p; desc=\"1769211541958_35003535_2486372122_2609_7024_20_131_-\";dur=1"
     },
     {
       "name": "strict-transport-security",

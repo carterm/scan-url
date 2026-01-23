@@ -70,10 +70,6 @@
       "value": "MISS"
     },
     {
-      "name": "x-vercel-id",
-      "value": "sfo1::sfo1::565nk-1769211528984-786b4a44c6a2"
-    },
-    {
       "name": "x-xss-protection",
       "value": "1; mode=block"
     }

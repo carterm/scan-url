@@ -26,16 +26,8 @@
       "value": "text/html;charset=UTF-8"
     },
     {
-      "name": "expires",
-      "value": "0"
-    },
-    {
       "name": "pragma",
       "value": "no-cache"
-    },
-    {
-      "name": "server-timing",
-      "value": "dtSInfo;desc=\"0\", dtRpid;desc=\"926146050\""
     },
     {
       "name": "transfer-encoding",

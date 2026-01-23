@@ -34,10 +34,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "expires",
-      "value": "Sun, 19 Nov 1978 05:00:00 GMT"
-    },
-    {
       "name": "feature-policy",
       "value": ""
     },
@@ -67,11 +63,11 @@
     },
     {
       "name": "x-cache-age",
-      "value": "222"
+      "value": "144"
     },
     {
       "name": "x-cache-ttl-remaining",
-      "value": "604577.649"
+      "value": "604655.475"
     },
     {
       "name": "x-cacheable",
@@ -99,7 +95,7 @@
     },
     {
       "name": "x-varnish",
-      "value": "49072521 51025234"
+      "value": "48529211 47504270"
     },
     {
       "name": "x-varnish-cache",

@@ -26,10 +26,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "expires",
-      "value": "Fri, 23 Jan 2026 23:49:04 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://film.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://film.ca.gov/wp-json/wp/v2/pages/2134>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://film.ca.gov/>; rel=shortlink"
     },

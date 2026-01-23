@@ -27,7 +27,7 @@
     },
     {
       "name": "cache-control",
-      "value": "public, max-age=135"
+      "value": "public, max-age=722"
     },
     {
       "name": "connection",
@@ -42,16 +42,8 @@
       "value": "text/html; charset=utf-8"
     },
     {
-      "name": "expires",
-      "value": "Fri, 23 Jan 2026 23:41:10 GMT"
-    },
-    {
       "name": "referrer-policy",
       "value": "no-referrer-when-downgrade"
-    },
-    {
-      "name": "server-timing",
-      "value": "dtSInfo;desc=\"0\", dtRpid;desc=\"1458682550\""
     },
     {
       "name": "strict-transport-security",

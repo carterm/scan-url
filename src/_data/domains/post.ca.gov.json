@@ -26,10 +26,6 @@
       "value": "same-origin"
     },
     {
-      "name": "expires",
-      "value": "-1"
-    },
-    {
       "name": "pragma",
       "value": "no-cache"
     },

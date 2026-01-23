@@ -11,7 +11,7 @@
   "responseHeaders": [
     {
       "name": "cache-control",
-      "value": "max-age=68, must-revalidate"
+      "value": "max-age=101, must-revalidate"
     },
     {
       "name": "connection",
@@ -55,7 +55,7 @@
     },
     {
       "name": "x-tenup-cache",
-      "value": "HIT"
+      "value": "EXPIRED"
     }
   ],
   "cloudflare": false,

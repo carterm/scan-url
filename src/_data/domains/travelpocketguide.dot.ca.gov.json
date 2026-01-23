@@ -26,10 +26,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "server-timing",
-      "value": "dtSInfo;desc=\"0\", dtRpid;desc=\"636330267\""
-    },
-    {
       "name": "vary",
       "value": "Accept-Encoding"
     },

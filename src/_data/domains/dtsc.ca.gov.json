@@ -4,19 +4,100 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
+  "title": "Department of Toxic Substances Control | DTSC",
+  "lastStatus": 200,
+  "finalUrl": "https://dtsc.ca.gov/",
+  "metaGenerator": "CAWeb v.1.13.3",
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "max-age=600, must-revalidate"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "link",
+      "value": "<https://dtsc.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "permissions-policy",
+      "value": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")"
+    },
+    {
+      "name": "server",
+      "value": "cloudflare"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=15552000; includeSubDomains"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
+    },
+    {
+      "name": "x-cache-group",
+      "value": "normal"
+    },
+    {
+      "name": "x-cacheable",
+      "value": "SHORT"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "WP Engine"
+    },
+    {
+      "name": "x-tec-api-origin",
+      "value": "https://dtsc.ca.gov"
+    },
+    {
+      "name": "x-tec-api-root",
+      "value": "https://dtsc.ca.gov/wp-json/tribe/events/v1/"
+    },
+    {
+      "name": "x-tec-api-version",
+      "value": "v1"
+    }
+  ],
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.instagram.com/californiadtsc/?utm_source=ig_embed&utm_campaign=loading",
+    "https://www.instagram.com/californiadtsc/?utm_source=ig_embed&utm_campaign=loading",
+    "https://www.instagram.com/californiadtsc/?utm_source=ig_embed&utm_campaign=loading",
+    "https://www.instagram.com/californiadtsc/",
+    "https://www.instagram.com/californiadtsc/?utm_source=ig_embed&utm_campaign=loading",
+    "https://www.instagram.com/californiadtsc/?utm_source=ig_embed&utm_campaign=loading",
+    "https://www.facebook.com/pages/Department-of-Toxic-Substances-Control-DTSC/109412255835",
+    "https://www.instagram.com/californiadtsc/",
+    "https://www.linkedin.com/company/californiadtsc",
+    "https://twitter.com/CaliforniaDTSC",
+    "https://www.youtube.com/user/DTSCgreen"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null

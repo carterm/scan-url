@@ -18,10 +18,6 @@
       "value": "max-age=3600, public"
     },
     {
-      "name": "cf-cache-status",
-      "value": "DYNAMIC"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -36,10 +32,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "expires",
-      "value": "Sun, 19 Nov 1978 05:00:00 GMT"
     },
     {
       "name": "server",
@@ -75,7 +67,7 @@
     },
     {
       "name": "x-request-id",
-      "value": "v-60e455e8-f8b4-11f0-a3e1-43cb45174ab4"
+      "value": "v-5dad294e-f8b5-11f0-b378-bb8253169ab6"
     },
     {
       "name": "x-xss-protection",

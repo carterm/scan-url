@@ -30,10 +30,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "expires",
-      "value": "Sun, 19 Nov 1978 05:00:00 GMT"
-    },
-    {
       "name": "feature-policy",
       "value": "geolocation 'none'; camera 'none'; microphone 'none'"
     },

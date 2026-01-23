@@ -34,10 +34,6 @@
       "value": "Microsoft-IIS/10.0"
     },
     {
-      "name": "server-timing",
-      "value": "dtSInfo;desc=\"0\", dtRpid;desc=\"-667621528\""
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=2592000"
     },

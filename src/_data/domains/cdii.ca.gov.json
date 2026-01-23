@@ -11,7 +11,7 @@
   "responseHeaders": [
     {
       "name": "cache-control",
-      "value": "max-age=865, public"
+      "value": "max-age=551, public"
     },
     {
       "name": "connection",
@@ -24,10 +24,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "expires",
-      "value": "Fri, 23 Jan 2026 23:53:19 GMT"
     },
     {
       "name": "link",

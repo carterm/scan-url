@@ -18,10 +18,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "server-timing",
-      "value": "dtSInfo;desc=\"0\", dtRpid;desc=\"946859781\""
-    },
-    {
       "name": "transfer-encoding",
       "value": "chunked"
     },

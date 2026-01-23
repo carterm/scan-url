@@ -18,10 +18,6 @@
       "value": "no-cache, must-revalidate, max-age=0, no-store, private"
     },
     {
-      "name": "cf-cache-status",
-      "value": "DYNAMIC"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -32,10 +28,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "expires",
-      "value": "Wed, 11 Jan 1984 05:00:00 GMT"
     },
     {
       "name": "link",

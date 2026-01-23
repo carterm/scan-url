@@ -38,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "expires",
-      "value": "Sun, 19 Nov 1978 05:00:00 GMT"
-    },
-    {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
     },
@@ -83,7 +79,7 @@
     },
     {
       "name": "x-request-id",
-      "value": "v-123f17cc-f8b2-11f0-a866-e372ed9e5762"
+      "value": "v-2437c9a8-f8b5-11f0-92c5-27ad9bbe83fe"
     },
     {
       "name": "x-ua-compatible",

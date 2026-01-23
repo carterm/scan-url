@@ -15,7 +15,7 @@
     },
     {
       "name": "cache-control",
-      "value": "max-age=207, must-revalidate"
+      "value": "max-age=155, must-revalidate"
     },
     {
       "name": "connection",
@@ -42,10 +42,6 @@
       "value": "nginx"
     },
     {
-      "name": "server-timing",
-      "value": "a8c-cdn, dc;desc=sjc, cache;desc=STALE;dur=2.0"
-    },
-    {
       "name": "strict-transport-security",
       "value": "max-age=31536000"
     },
@@ -59,7 +55,7 @@
     },
     {
       "name": "x-ac",
-      "value": "3.sjc _atomic_bur STALE"
+      "value": "20.bur _atomic_bur HIT"
     },
     {
       "name": "x-nananana",

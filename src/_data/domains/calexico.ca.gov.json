@@ -18,10 +18,6 @@
       "value": "text/html"
     },
     {
-      "name": "expires",
-      "value": "Tue, 01 Jan 1980 06:00:00 GMT"
-    },
-    {
       "name": "pragma",
       "value": "no-cache"
     },
@@ -35,7 +31,7 @@
     },
     {
       "name": "x-wt",
-      "value": "63"
+      "value": "78"
     }
   ],
   "cloudflare": false,
