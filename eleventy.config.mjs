@@ -5,7 +5,7 @@
  * @typedef {import("@11ty/eleventy/UserConfig").default} eleventyConfig
  */
 
-module.exports = function (/** @type {eleventyConfig} **/ eleventyConfig) {
+export default function (/** @type {eleventyConfig} **/ eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     "./node_modules/@cagovweb/state-template/dist/css/cagov.core.min.css":
       "css/cagov.core.min.css",
@@ -33,4 +33,4 @@ module.exports = function (/** @type {eleventyConfig} **/ eleventyConfig) {
   };
 
   return config;
-};
+}
