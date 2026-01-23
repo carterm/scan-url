@@ -61,7 +61,24 @@ function createStarterRecord(domain, preferredPath, www) {
   domainRecord.domain = domain;
   domainRecord.preferredPath = preferredPath;
   domainRecord.www = www;
+  domainRecord.title = "Title for " + domain;
   return domainRecord;
+}
+
+/**
+ * Update an existing record with new ingestion info.
+ * @param {DomainRecord} record
+ * @param {string} preferredPath
+ * @param {boolean} www
+ */
+function updateRecordFromIngest(record, preferredPath, www) {
+  if (preferredPath.length < record.preferredPath.length) {
+    record.preferredPath = preferredPath;
+  }
+
+  if (www && !record.www) {
+    record.www = true;
+  }
 }
 
 /**
@@ -75,9 +92,8 @@ export function ingestUrls() {
     return;
   }
 
-  const urlList = fs.readFileSync(INGEST_FILE, "utf8");
-
-  const urls = urlList
+  const urls = fs
+    .readFileSync(INGEST_FILE, "utf8")
     .split(/\r?\n/)
     .map(u => u.trim())
     .filter(Boolean);
@@ -89,32 +105,10 @@ export function ingestUrls() {
     const { domain, preferredPath, www } = normalized;
     const filePath = path.join(DOMAIN_DIR, `${domain}.json`);
 
-    /** @type {DomainRecord} */
-    let record;
+    const record =
+      loadRecord(filePath) ?? createStarterRecord(domain, preferredPath, www);
 
-    if (fs.existsSync(filePath)) {
-      const existing = loadRecord(filePath);
-      if (existing) {
-        record = existing;
-
-        // Update preferredPath if new one is shorter ("/" wins)
-        if (
-          !record.preferredPath ||
-          preferredPath.length < record.preferredPath.length
-        ) {
-          record.preferredPath = preferredPath;
-        }
-
-        // Update www flag if new info arrives
-        if (www && !record.www) {
-          record.www = true;
-        }
-      } else {
-        record = createStarterRecord(domain, preferredPath, www);
-      }
-    } else {
-      record = createStarterRecord(domain, preferredPath, www);
-    }
+    updateRecordFromIngest(record, preferredPath, www);
 
     saveRecord(filePath, record);
   }
