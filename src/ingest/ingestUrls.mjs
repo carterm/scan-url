@@ -64,10 +64,21 @@ function createStarterRecord(domain, preferredPath, www) {
     lastStatus: null,
     lastChecked: null,
     redirects: [],
-    cloudflare: null,
+    cloudflare: false,
     cosmetic: false,
     forwardsTo: null,
-    notes: ""
+    notes: null,
+    finalUrl: null,
+    metaGenerator: null,
+    headerPoweredBy: null,
+    headerServer: null,
+    slow: false,
+    hasStatewideAlerts: false,
+    usesStateTemplate: false,
+    hasJQuery: false,
+    hasGoogleAnalytics: false,
+    errorCode: null,
+    errorMessage: null
   };
 }
 
