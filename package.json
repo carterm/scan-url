@@ -16,7 +16,7 @@
   "scripts": {
     "start": "npx @11ty/eleventy --serve",
     "build": "npx @11ty/eleventy",
-    "ingest_urls": "node src/ingest/ingestUrls.mjs",
+    "ingest_urls": "node scan/ingest/ingestUrls.mjs",
     "scan_all": "node scan/scanAll.mjs",
     "csv": "node src/csv.cjs",
     "GIT cleanup": "git clean -fd"
