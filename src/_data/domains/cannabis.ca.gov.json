@@ -26,10 +26,6 @@
       "value": "br"
     },
     {
-      "name": "content-security-policy",
-      "value": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://www.google-analytics.com https://cse.google.com https://alert.cdt.ca.gov https://cdn.cannabis.ca.gov https:; style-src 'self' 'unsafe-inline' https: data:; img-src 'self' data: https: blob:; font-src 'self' data: https:; connect-src 'self' https: data:; frame-src 'self' https: data: blob:; child-src 'self' https: data: blob:; media-src 'self' https: data: blob:; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self' https:; frame-ancestors 'none'"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
     },
@@ -75,7 +71,7 @@
     },
     {
       "name": "x-vercel-id",
-      "value": "sfo1::vhlcr-1769211229280-4c09662c5e81"
+      "value": "sfo1::jdvfr-1769211531416-d2f8af77089b"
     },
     {
       "name": "x-xss-protection",

@@ -26,20 +26,12 @@
       "value": "max-age=63072000; includeSubDomains; preload"
     },
     {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
       "name": "vary",
       "value": "Accept-Encoding"
     },
     {
       "name": "x-cdn",
       "value": "Imperva"
-    },
-    {
-      "name": "x-iinfo",
-      "value": "47-183468159-183468262 NNNN CT(41 100 0) RT(1769211246696 261) q(0 0 1 5) r(2 2) U12"
     },
     {
       "name": "x-powered-by",

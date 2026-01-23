@@ -4,20 +4,63 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
+  "title": "Home - Westlands Water District",
+  "lastStatus": 200,
+  "finalUrl": "https://wwd.ca.gov/",
+  "metaGenerator": "WordPress 6.9",
+  "responseHeaders": [
+    {
+      "name": "cache-control",
+      "value": "max-age=0, s-maxage=2592000"
+    },
+    {
+      "name": "cache-provider",
+      "value": "CLOUDWAYS-CACHE-DE"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "expires",
+      "value": "Fri, 23 Jan 2026 23:39:24 GMT"
+    },
+    {
+      "name": "server",
+      "value": "nginx"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    }
+  ],
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://www.facebook.com/WestlandsWaterDistrict/",
+    "https://twitter.com/Westlands_Water",
+    "https://www.linkedin.com/company/westlands-water-district/",
+    "https://www.instagram.com/accounts/login/?next=/westlands_water/",
+    "https://www.youtube.com/channel/UC94BCOwXZ4zN1Utem5H98sQ"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
-  "errorMessage": "Fetch error: fetch failed Connect Timeout Error (attempted address: wwd.ca.gov:443, timeout: 15000ms)",
+  "errorMessage": null,
   "notes": null
 }

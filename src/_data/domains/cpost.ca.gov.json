@@ -39,7 +39,7 @@
     },
     {
       "name": "server-timing",
-      "value": "a8c-cdn, dc;desc=bur, cache;desc=HIT;dur=1.0"
+      "value": "a8c-cdn, dc;desc=bur, cache;desc=STALE;dur=1.0"
     },
     {
       "name": "strict-transport-security",
@@ -55,7 +55,7 @@
     },
     {
       "name": "x-ac",
-      "value": "29.bur _atomic_bur HIT"
+      "value": "29.bur _atomic_bur STALE"
     }
   ],
   "cloudflare": false,

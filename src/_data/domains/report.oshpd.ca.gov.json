@@ -26,10 +26,6 @@
       "value": "gzip"
     },
     {
-      "name": "content-security-policy",
-      "value": "default-src https: mailto: tel: ws: blob: data: 'unsafe-inline' 'unsafe-eval'  *.hcai.ca.gov hcai.ca.gov; frame-ancestors 'self' *.oshpd.gov *.labs.oshpd.gov hcai.ca.gov *.hcai.ca.gov oshpd.ca.gov *.oshpd.ca.gov;"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
     },

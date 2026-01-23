@@ -12,10 +12,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 17:49:19 GMT"
     }
   ],
   "cloudflare": false,

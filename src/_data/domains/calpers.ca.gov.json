@@ -30,20 +30,12 @@
       "value": "en"
     },
     {
-      "name": "content-security-policy",
-      "value": "report-uri /report-csp-violation; upgrade-insecure-requests"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
     },
     {
       "name": "expires",
       "value": "Sun, 19 Nov 1978 05:00:00 GMT"
-    },
-    {
-      "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 23:23:20 GMT"
     },
     {
       "name": "referrer-policy",
@@ -62,16 +54,8 @@
       "value": "Cookie,Accept-Encoding"
     },
     {
-      "name": "via",
-      "value": "varnish, 1.1 f3219597d17b6efcbda39f405ca2692a.cloudfront.net (CloudFront)"
-    },
-    {
       "name": "x-ah-environment",
       "value": "prod"
-    },
-    {
-      "name": "x-amz-cf-id",
-      "value": "EY4ugbPqlkTPD-JiBaCbED7QNaq2p-u5NLyN_OGD8LRnGoyKPo9A4A=="
     },
     {
       "name": "x-amz-cf-pop",
@@ -99,7 +83,7 @@
     },
     {
       "name": "x-request-id",
-      "value": "v-811c2626-f8b2-11f0-9210-bf43eda9d920"
+      "value": "v-a7701920-f8b4-11f0-a019-f70fd3a50469"
     }
   ],
   "cloudflare": false,

@@ -26,10 +26,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "keep-alive",
-      "value": "timeout=20"
-    },
-    {
       "name": "link",
       "value": "<https://www.ych.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.ych.ca.gov/wp-json/wp/v2/pages/129>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.ych.ca.gov/>; rel=shortlink"
     },

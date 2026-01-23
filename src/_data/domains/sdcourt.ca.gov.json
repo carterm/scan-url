@@ -42,10 +42,6 @@
       "value": "Sun, 19 Nov 1978 05:00:00 GMT"
     },
     {
-      "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 23:32:20 GMT"
-    },
-    {
       "name": "server",
       "value": "cloudflare"
     },
@@ -56,10 +52,6 @@
     {
       "name": "vary",
       "value": "Cookie,Accept-Encoding"
-    },
-    {
-      "name": "via",
-      "value": "varnish"
     },
     {
       "name": "x-ah-environment",
@@ -83,7 +75,7 @@
     },
     {
       "name": "x-request-id",
-      "value": "v-c34a8cda-f8b3-11f0-bafc-5b83ac4c5742"
+      "value": "v-60e455e8-f8b4-11f0-a3e1-43cb45174ab4"
     },
     {
       "name": "x-xss-protection",

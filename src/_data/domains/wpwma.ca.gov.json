@@ -54,10 +54,6 @@
       "value": "g1p"
     },
     {
-      "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 22:15:36 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://wpwma.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://wpwma.ca.gov/wp-json/wp/v2/pages/10127>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://wpwma.ca.gov/>; rel=shortlink"
     },
@@ -67,7 +63,7 @@
     },
     {
       "name": "report-to",
-      "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=dTHlEewyMKiNG8YHXlXeoJLHN%2F98YXDIYlGeGT6bRdDLYcX0izwAcbSby7eYZUmgkA5cvICOzS7vfjB0lKnX3KxPMVsI9qJ4BxyC%2FfDXtMZylU8BWlcz45bN1ph0EvfV5yRa2ElH%2BT3Ejg%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+      "value": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=ma4v4l%2FNvfVGW3cddmRCmnZEtRfXT2vcOT3xKdM5yblmzd4B0KuW%2B6oFg6LCM72Hq%2FiH7G%2BB3i9A2aq8BhyhMGOJNXHp4SdTVdvASkaIEYzhFYIx6Cf%2FD8jlW9r%2BmA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
     },
     {
       "name": "server",

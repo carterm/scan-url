@@ -30,10 +30,6 @@
       "value": "br"
     },
     {
-      "name": "content-security-policy",
-      "value": "frame-ancestors 'self' *.ca.gov"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
     },
@@ -62,10 +58,6 @@
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
     },
     {
-      "name": "x-cache-enabled",
-      "value": "False"
-    },
-    {
       "name": "x-cache-group",
       "value": "normal"
     },
@@ -76,10 +68,6 @@
     {
       "name": "x-content-type-options",
       "value": "nosniff"
-    },
-    {
-      "name": "x-orig-cache-control",
-      "value": "no-store, no-cache"
     },
     {
       "name": "x-powered-by",

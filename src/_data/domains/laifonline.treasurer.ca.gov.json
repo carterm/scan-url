@@ -46,10 +46,6 @@
       "value": "SAMEORIGIN"
     },
     {
-      "name": "x-iinfo",
-      "value": "5-10874907-10874912 NNYN CT(7 26 0) RT(1769211244492 440) q(0 0 0 -1) r(1 1) U12"
-    },
-    {
       "name": "x-powered-by",
       "value": "ASP.NET"
     }

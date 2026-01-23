@@ -26,16 +26,8 @@
       "value": "gzip"
     },
     {
-      "name": "content-security-policy",
-      "value": "frame-ancestors 'self' *.ca.gov"
-    },
-    {
       "name": "content-type",
       "value": "text/html"
-    },
-    {
-      "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 22:03:08 GMT"
     },
     {
       "name": "strict-transport-security",

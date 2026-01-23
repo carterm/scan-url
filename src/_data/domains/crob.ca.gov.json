@@ -18,10 +18,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "keep-alive",
-      "value": "timeout=5, max=100"
-    },
-    {
       "name": "link",
       "value": "<https://crob.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://crob.ca.gov/wp-json/wp/v2/pages/7>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://crob.ca.gov/>; rel=shortlink"
     },

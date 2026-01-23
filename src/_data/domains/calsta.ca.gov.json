@@ -30,12 +30,8 @@
       "value": "no-cache"
     },
     {
-      "name": "server",
-      "value": "Microsoft-IIS/10.0"
-    },
-    {
       "name": "server-timing",
-      "value": "dtSInfo;desc=\"0\", dtRpid;desc=\"263863847\""
+      "value": "dtSInfo;desc=\"0\", dtRpid;desc=\"341165417\""
     },
     {
       "name": "x-oneagent-js-injection",

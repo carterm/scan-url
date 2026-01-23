@@ -20,7 +20,18 @@ const removeHeaders = [
   "etag",
   "content-length",
   "x-envoy-upstream-service-time",
-  "x-azure-ref"
+  "x-azure-ref",
+  "via",
+  "x-amz-cf-id",
+  "last-modified",
+  "content-security-policy",
+  "request-id",
+  "sprequestduration",
+  "sprequestguid",
+  "x-iinfo",
+  "x-runtime",
+  "keep-alive",
+  "expires"
 ];
 
 const fetchTimeout = 15000; //15 seconds

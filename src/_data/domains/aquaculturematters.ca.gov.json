@@ -15,7 +15,7 @@
     },
     {
       "name": "cache-control",
-      "value": "max-age=300, must-revalidate"
+      "value": "max-age=40, must-revalidate"
     },
     {
       "name": "connection",
@@ -34,10 +34,6 @@
       "value": "WordPress.com"
     },
     {
-      "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 23:30:42 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://aquaculturematters.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://wp.me/4OtSF>; rel=shortlink"
     },
@@ -47,7 +43,7 @@
     },
     {
       "name": "server-timing",
-      "value": "a8c-cdn, dc;desc=bur, cache;desc=HIT;dur=1.0"
+      "value": "a8c-cdn, dc;desc=sjc, cache;desc=STALE;dur=1.0"
     },
     {
       "name": "strict-transport-security",
@@ -63,7 +59,7 @@
     },
     {
       "name": "x-ac",
-      "value": "20.bur _atomic_bur HIT"
+      "value": "4.sjc _atomic_bur STALE"
     },
     {
       "name": "x-hacker",
@@ -71,7 +67,7 @@
     },
     {
       "name": "x-nananana",
-      "value": "Batcache-Set"
+      "value": "Batcache-Hit"
     }
   ],
   "cloudflare": false,

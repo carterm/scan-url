@@ -26,10 +26,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "keep-alive",
-      "value": "timeout=5, max=100"
-    },
-    {
       "name": "server",
       "value": "Apache"
     },
@@ -44,10 +40,6 @@
     {
       "name": "x-cdn",
       "value": "Imperva"
-    },
-    {
-      "name": "x-iinfo",
-      "value": "49-208417399-208417507 NNYN CT(16 19 0) RT(1769211247167 339) q(0 0 0 -1) r(0 0) U12"
     }
   ],
   "cloudflare": false,

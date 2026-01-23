@@ -18,10 +18,6 @@
       "value": "gzip"
     },
     {
-      "name": "content-security-policy",
-      "value": "frame-ancestors 'self'"
-    },
-    {
       "name": "content-type",
       "value": "text/html;charset=UTF-8"
     },

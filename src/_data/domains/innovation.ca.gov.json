@@ -15,15 +15,11 @@
     },
     {
       "name": "content-encoding",
-      "value": "gzip"
+      "value": "br"
     },
     {
       "name": "content-type",
       "value": "text/html"
-    },
-    {
-      "name": "last-modified",
-      "value": "Tue, 20 Jan 2026 19:36:15 GMT"
     },
     {
       "name": "server",
@@ -38,16 +34,8 @@
       "value": "accept-encoding"
     },
     {
-      "name": "via",
-      "value": "1.1 377e700760b40e7e4bd174438fa20908.cloudfront.net (CloudFront)"
-    },
-    {
-      "name": "x-amz-cf-id",
-      "value": "Qo0E9TSyMIhfvwfC0S7UoBGaHHw6MfCNxkbOsUjnyii7Ok2v-q3GRA=="
-    },
-    {
       "name": "x-amz-cf-pop",
-      "value": "SFO5-P3"
+      "value": "LAX54-P6"
     }
   ],
   "cloudflare": false,

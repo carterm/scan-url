@@ -26,10 +26,6 @@
       "value": "br"
     },
     {
-      "name": "content-security-policy",
-      "value": "default-src 'self'; style-src 'self' 'nonce-1e63435e1334cbe100fd'; script-src 'self' 'nonce-1e63435e1334cbe100fd' www.googletagmanager.com; img-src 'self' 'nonce-1e63435e1334cbe100fd' www.googletagmanager.com data:; font-src 'self' 'nonce-1e63435e1334cbe100fd' data:; connect-src 'self' www.google-analytics.com www.googletagmanager.com; frame-src 'self' *.youtube.com player.vimeo.com;"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
     },
@@ -67,7 +63,7 @@
     },
     {
       "name": "x-rq",
-      "value": "sjc7 0 30 9980"
+      "value": "sjc4 0 30 9980"
     },
     {
       "name": "x-xss-protection",

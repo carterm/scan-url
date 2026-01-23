@@ -22,20 +22,12 @@
       "value": "en"
     },
     {
-      "name": "content-security-policy",
-      "value": "default-src *  data: blob: filesystem: about: ws: wss: 'unsafe-inline' 'unsafe-eval'; script-src * data: blob: 'unsafe-inline' 'unsafe-eval'; connect-src * data: blob: 'unsafe-inline'; img-src * data: blob: 'unsafe-inline'; frame-src * data: blob: ; style-src * data: blob: 'unsafe-inline'; font-src * data: blob: 'unsafe-inline';"
-    },
-    {
       "name": "content-type",
       "value": "text/html;charset=UTF-8"
     },
     {
       "name": "expires",
       "value": "0"
-    },
-    {
-      "name": "keep-alive",
-      "value": "timeout=5, max=100"
     },
     {
       "name": "pragma",

@@ -18,16 +18,8 @@
       "value": "Keep-Alive"
     },
     {
-      "name": "content-security-policy",
-      "value": "default-src 'self'; script-src 'self' https://*.googleapis.com https://*.gstatic.com https://*.google-analytics.com 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline' https://*.googleapis.com; img-src 'self' data: https://*.dot.ca.gov https://dot.ca.gov https://*.google-analytics.com https://ssl.google-analytics.com; font-src 'self' https://*.googleapis.com; frame-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self';"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "keep-alive",
-      "value": "timeout=2, max=500"
     },
     {
       "name": "strict-transport-security",

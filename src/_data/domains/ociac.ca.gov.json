@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Orange County Intelligence Assessment Center - Home",
   "lastStatus": 200,
-  "finalUrl": "https://ociac.ca.gov/(X(1)S(1bmaw2l1jcwfqcbms3b10arv))/default.aspx?AspxAutoDetectCookieSupport=1",
+  "finalUrl": "https://ociac.ca.gov/(X(1)S(cldp2w5a0tks3msur5jokpl5))/default.aspx?AspxAutoDetectCookieSupport=1",
   "metaGenerator": null,
   "responseHeaders": [
     {
@@ -18,16 +18,12 @@
       "value": "gzip"
     },
     {
-      "name": "content-security-policy",
-      "value": "object-src 'none';frame-src 'self' https://www.youtube.com https://www.google.com/recaptcha/ https://maps.google.com https://*.twitter.com https://www.dhs.gov/ https://safe.menlosecurity.com;script-src 'self' https://fonts.googleapis.com https://www.youtube.com https://ajax.googleapis.com https://*.twitter.com https://ssl.google-analytics.com https: http: 'nonce-041f5611ddce41cb82a80e41ad9a66f4' 'strict-dynamic' 'unsafe-inline' ;base-uri 'self';font-src 'self' data: https://fonts.gstatic.com https://*.fontawesome.com https://cdnjs.cloudflare.com ;form-action 'self' https://*.twitter.com ;manifest-src 'self';block-all-mixed-content;img-src 'self' data: https://netsential.com https://*.google-analytics.com https://*.ytimg.com data: https://*.google.com https://*.gstatic.com https://*.googleapis.com https://*.twitter.com https://*.twimg.com https://twitter-badges.s3.amazonaws.com/ https://ociac.ca.gov https://www.dhs.gov https://ncric.org https://www.facebook.com;report-uri /Content_Security_Policy.aspx"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
     },
     {
       "name": "expires",
-      "value": "Fri, 23 Jan 2026 23:34:11 GMT,0"
+      "value": "Fri, 23 Jan 2026 23:39:13 GMT,0"
     },
     {
       "name": "pragma",

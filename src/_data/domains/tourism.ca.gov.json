@@ -22,20 +22,12 @@
       "value": "gzip"
     },
     {
-      "name": "content-security-policy",
-      "value": "upgrade-insecure-requests, frame-ancestors *; report-uri /_/commcsp?disposition=enforce"
-    },
-    {
       "name": "content-type",
       "value": "text/html;charset=UTF-8"
     },
     {
       "name": "expires",
-      "value": "Thu, 23 Jan 2025 23:34:18 GMT"
-    },
-    {
-      "name": "last-modified",
-      "value": "Thu, 23 Jan 2025 23:34:18 GMT"
+      "value": "Thu, 23 Jan 2025 23:39:22 GMT"
     },
     {
       "name": "link",
@@ -55,7 +47,7 @@
     },
     {
       "name": "server-timing",
-      "value": "Headers;dur=95"
+      "value": "Headers;dur=132"
     },
     {
       "name": "strict-transport-security",

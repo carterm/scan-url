@@ -34,10 +34,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "last-modified",
-      "value": "Fri, 19 Dec 2025 16:30:26 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://bluelake.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://bluelake.ca.gov/wp-json/wp/v2/pages/11>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://bluelake.ca.gov/>; rel=shortlink"
     },

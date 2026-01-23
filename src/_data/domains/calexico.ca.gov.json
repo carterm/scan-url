@@ -22,10 +22,6 @@
       "value": "Tue, 01 Jan 1980 06:00:00 GMT"
     },
     {
-      "name": "last-modified",
-      "value": "Fri, 2 Jan 2026 12:58:00 GMT"
-    },
-    {
       "name": "pragma",
       "value": "no-cache"
     },
@@ -39,7 +35,7 @@
     },
     {
       "name": "x-wt",
-      "value": "78"
+      "value": "63"
     }
   ],
   "cloudflare": false,

@@ -42,24 +42,12 @@
       "value": "max-age=300"
     },
     {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
       "name": "vary",
       "value": "Accept-Encoding, Cookie, Cookie"
     },
     {
-      "name": "via",
-      "value": "1.1 varnish, 1.1 varnish, 1.1 varnish, 1.1 varnish"
-    },
-    {
       "name": "x-cdn",
       "value": "Imperva"
-    },
-    {
-      "name": "x-iinfo",
-      "value": "40-100238701-100238943 NNNY CT(2 2 0) RT(1769211230870 1290) q(0 0 0 -1) r(0 0) U24"
     },
     {
       "name": "x-pantheon-styx-hostname",

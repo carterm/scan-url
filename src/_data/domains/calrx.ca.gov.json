@@ -11,7 +11,7 @@
   "responseHeaders": [
     {
       "name": "cache-control",
-      "value": "max-age=0, s-maxage=300, must-revalidate"
+      "value": "max-age=0, s-maxage=204, must-revalidate"
     },
     {
       "name": "connection",
@@ -26,10 +26,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 23:30:45 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://calrx.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://calrx.ca.gov/wp-json/wp/v2/pages/799>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://calrx.ca.gov/>; rel=shortlink"
     },
@@ -42,20 +38,12 @@
       "value": "Accept-Encoding,Cookie"
     },
     {
-      "name": "via",
-      "value": "1.1 a4c0b37c5594897542c32d639430b8b0.cloudfront.net (CloudFront)"
-    },
-    {
-      "name": "x-amz-cf-id",
-      "value": "8TrAQWM1QAUFfWADHA2rJQYH-2LGdzI3SGzqvWpxoqCd1lKS71amrQ=="
-    },
-    {
       "name": "x-amz-cf-pop",
       "value": "LAX53-P4"
     },
     {
       "name": "x-btcache",
-      "value": "MISS"
+      "value": "HIT"
     },
     {
       "name": "x-btcache-served",

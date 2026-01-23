@@ -14,8 +14,8 @@
       "value": "no-cache"
     },
     {
-      "name": "content-security-policy",
-      "value": "frame-src 'self' post.ca.gov whova.com *.youtube.com youtube.com *.google.com google.com app.powerbigov.us; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.post.ca.gov post.ca.gov https://alert.cdt.ca.gov *.google.com *.googletagmanager.com *.googleapis.com *.gstatic.com *.azure.net azure.net *.cloudflare.com cloudflare.com *.2sxc.org 2sxc.org https://whova.com; worker-src blob:"
+      "name": "content-encoding",
+      "value": "br"
     },
     {
       "name": "content-type",
@@ -40,6 +40,10 @@
     {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains; preload"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
     },
     {
       "name": "x-content-type-options",

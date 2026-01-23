@@ -22,10 +22,6 @@
       "value": "text/html"
     },
     {
-      "name": "last-modified",
-      "value": "Tue, 18 Jun 2024 00:21:10 GMT"
-    },
-    {
       "name": "server",
       "value": "AmazonS3"
     },
@@ -36,14 +32,6 @@
     {
       "name": "vary",
       "value": "accept-encoding"
-    },
-    {
-      "name": "via",
-      "value": "1.1 2e8c8fc7f80802bb6dcb544378ac6298.cloudfront.net (CloudFront)"
-    },
-    {
-      "name": "x-amz-cf-id",
-      "value": "VAF_FswUO2n44EKvMo015uEdV_8SbR_uUbjOJid5MNaPGOY92aEqgA=="
     },
     {
       "name": "x-amz-cf-pop",

@@ -15,7 +15,7 @@
     },
     {
       "name": "cf-cache-status",
-      "value": "EXPIRED"
+      "value": "HIT"
     },
     {
       "name": "connection",
@@ -31,11 +31,7 @@
     },
     {
       "name": "expires",
-      "value": "Fri, 23 Jan 2026 23:34:46 GMT"
-    },
-    {
-      "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 23:34:16 GMT"
+      "value": "Fri, 23 Jan 2026 23:39:48 GMT"
     },
     {
       "name": "server",

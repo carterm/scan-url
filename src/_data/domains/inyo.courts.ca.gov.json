@@ -38,10 +38,6 @@
       "value": "Sun, 19 Nov 1978 05:00:00 GMT"
     },
     {
-      "name": "last-modified",
-      "value": "Thu, 15 Jan 2026 05:17:21 GMT"
-    },
-    {
       "name": "server",
       "value": "nginx"
     },
@@ -52,10 +48,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Cookie, Cookie, Cookie, orig-host"
-    },
-    {
-      "name": "via",
-      "value": "1.1 varnish, 1.1 varnish, 1.1 varnish, 1.1 varnish"
     },
     {
       "name": "x-content-type-options",

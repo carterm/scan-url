@@ -34,10 +34,6 @@
       "value": "br"
     },
     {
-      "name": "content-security-policy",
-      "value": "frame-ancestors 'self' https://app.contentful.com"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
     },
@@ -75,7 +71,7 @@
     },
     {
       "name": "x-vercel-id",
-      "value": "sfo1::sfo1::m7thq-1769211227022-fafcb04d2790"
+      "value": "sfo1::sfo1::565nk-1769211528984-786b4a44c6a2"
     },
     {
       "name": "x-xss-protection",

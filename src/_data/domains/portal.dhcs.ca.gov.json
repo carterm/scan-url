@@ -22,20 +22,8 @@
       "value": "text/html"
     },
     {
-      "name": "last-modified",
-      "value": "Thu, 11 Sep 2025 22:13:04 GMT"
-    },
-    {
       "name": "server",
       "value": "AmazonS3"
-    },
-    {
-      "name": "via",
-      "value": "1.1 f17e2ae5998b0b8b03850e97d88e04a6.cloudfront.net (CloudFront)"
-    },
-    {
-      "name": "x-amz-cf-id",
-      "value": "4fwgj72DAZ6nbLfZwgq_VaTVjgu5JNUR_L_QRTGSRi4JQR3RpSewGA=="
     },
     {
       "name": "x-amz-cf-pop",

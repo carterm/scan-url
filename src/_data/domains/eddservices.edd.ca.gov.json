@@ -27,11 +27,7 @@
     },
     {
       "name": "expires",
-      "value": "Fri, 23 Jan 2026 23:34:00 GMT"
-    },
-    {
-      "name": "last-modified",
-      "value": "Wed, 29 Jan 2025 18:31:17 GMT"
+      "value": "Fri, 23 Jan 2026 23:39:02 GMT"
     },
     {
       "name": "p3p",
@@ -43,7 +39,7 @@
     },
     {
       "name": "server-timing",
-      "value": "cdn-cache; desc=MISS, edge; dur=33, origin; dur=12, ak_p; desc=\"1769211239984_35003535_2485761499_4446_7244_20_64_-\";dur=1"
+      "value": "cdn-cache; desc=MISS, edge; dur=12, origin; dur=14, ak_p; desc=\"1769211541958_35003535_2486372122_2609_7024_20_131_-\";dur=1"
     },
     {
       "name": "strict-transport-security",

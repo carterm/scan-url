@@ -42,16 +42,12 @@
       "value": "Accept-Encoding, Cookie, Cookie"
     },
     {
-      "name": "via",
-      "value": "1.1 varnish, 1.1 varnish"
-    },
-    {
       "name": "x-pantheon-styx-hostname",
-      "value": "styx-fe4-b-86cbf58b65-kq96p"
+      "value": "styx-fe4-a-7f76c9f659-lrgwp"
     },
     {
       "name": "x-styx-req-id",
-      "value": "fa5bacdc-f8b3-11f0-ac17-a2b5b9fc6ce1"
+      "value": "66de8388-f8b4-11f0-aeae-6e7051f7d45b"
     },
     {
       "name": "x-ua-compatible",

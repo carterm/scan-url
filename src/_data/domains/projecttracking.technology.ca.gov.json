@@ -22,10 +22,6 @@
       "value": "gzip"
     },
     {
-      "name": "content-security-policy",
-      "value": "frame-ancestors 'self' https://cdtcdev.sites.ca.gov https://cdt.ca.gov;"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
     },

@@ -46,12 +46,8 @@
       "value": "Accept-Encoding, Cookie, Cookie"
     },
     {
-      "name": "via",
-      "value": "1.1 varnish, 1.1 varnish"
-    },
-    {
       "name": "x-pantheon-styx-hostname",
-      "value": "styx-fe4-a-7f76c9f659-wgnps"
+      "value": "styx-fe4-a-7f76c9f659-x5m9m"
     },
     {
       "name": "x-pingback",
@@ -59,7 +55,7 @@
     },
     {
       "name": "x-styx-req-id",
-      "value": "af29f96c-f8b2-11f0-acda-522b4a88e6b9"
+      "value": "2f9a19b6-f8b4-11f0-8c89-667b86bf9276"
     }
   ],
   "cloudflare": false,

@@ -30,20 +30,12 @@
       "value": "en"
     },
     {
-      "name": "content-security-policy",
-      "value": "frame-ancestors 'self' courts.ca.gov *.courts.ca.gov develop-jcc-courts.pantheonsite.io stage-jcc-courts.pantheonsite.io epic-uat-jcc-courts.pantheonsite.io develop-jcc-appellate.pantheonsite.io stage-jcc-appellate.pantheonsite.io epic-uat-jcc-appellate.pantheonsite.io develop-jcc-supremecourt.pantheonsite.io stage-jcc-supremecourt.pantheonsite.io epic-uat-jcc-supremecourt.pantheonsite.io"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
     },
     {
       "name": "expires",
       "value": "Sun, 19 Nov 1978 05:00:00 GMT"
-    },
-    {
-      "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 11:30:08 GMT"
     },
     {
       "name": "link",
@@ -56,10 +48,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Cookie, Cookie, Cookie"
-    },
-    {
-      "name": "via",
-      "value": "1.1 varnish, 1.1 varnish"
     },
     {
       "name": "x-content-type-options",

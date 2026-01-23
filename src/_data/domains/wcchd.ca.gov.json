@@ -14,6 +14,10 @@
       "value": "h3=\":443\"; ma=86400"
     },
     {
+      "name": "cache-control",
+      "value": "max-age=207, must-revalidate"
+    },
+    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -39,7 +43,7 @@
     },
     {
       "name": "server-timing",
-      "value": "a8c-cdn, dc;desc=bur, cache;desc=STALE;dur=1.0"
+      "value": "a8c-cdn, dc;desc=sjc, cache;desc=STALE;dur=2.0"
     },
     {
       "name": "strict-transport-security",
@@ -55,7 +59,11 @@
     },
     {
       "name": "x-ac",
-      "value": "20.bur _atomic_bur STALE"
+      "value": "3.sjc _atomic_bur STALE"
+    },
+    {
+      "name": "x-nananana",
+      "value": "Batcache-Hit"
     }
   ],
   "cloudflare": false,

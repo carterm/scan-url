@@ -30,10 +30,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "keep-alive",
-      "value": "timeout=5, max=100"
-    },
-    {
       "name": "pragma",
       "value": "no-cache"
     },
@@ -46,10 +42,6 @@
       "value": "max-age=31536000; includeSubDomains; preload"
     },
     {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
       "name": "vary",
       "value": "Accept-Encoding"
     },
@@ -60,10 +52,6 @@
     {
       "name": "x-content-type-options",
       "value": "nosniff"
-    },
-    {
-      "name": "x-iinfo",
-      "value": "50-226355350-226355494 NNNN CT(17 28 0) RT(1769211258985 328) q(0 0 0 -1) r(1 1) U24"
     }
   ],
   "cloudflare": false,

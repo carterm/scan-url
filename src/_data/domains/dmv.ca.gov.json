@@ -26,16 +26,8 @@
       "value": "gzip"
     },
     {
-      "name": "content-security-policy",
-      "value": "frame-ancestors 'self' https://*.dmv.ca.gov"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 23:29:52 GMT"
     },
     {
       "name": "link",
@@ -64,14 +56,6 @@
     {
       "name": "vary",
       "value": "Cookie"
-    },
-    {
-      "name": "via",
-      "value": "1.1 aa5f099352c5555cec23a954f4bd95f4.cloudfront.net (CloudFront)"
-    },
-    {
-      "name": "x-amz-cf-id",
-      "value": "I4MFH8-uthlEZO2-ZDdceYWa5SGbgCW2DYlXCymfkl5PD6WHoYnU1w=="
     },
     {
       "name": "x-amz-cf-pop",

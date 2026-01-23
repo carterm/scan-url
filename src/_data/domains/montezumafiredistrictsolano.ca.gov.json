@@ -46,10 +46,6 @@
       "value": "Accept-Encoding, Cookie, Cookie"
     },
     {
-      "name": "via",
-      "value": "1.1 varnish, 1.1 varnish"
-    },
-    {
       "name": "x-pantheon-styx-hostname",
       "value": "styx-fe3-b-6f684c5d8c-2gn8b"
     },

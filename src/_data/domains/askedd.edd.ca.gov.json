@@ -11,7 +11,7 @@
   "responseHeaders": [
     {
       "name": "akamai-grn",
-      "value": "0.4ba7cb17.1769211225.732f3165"
+      "value": "0.4ba7cb17.1769211527.734c3cd4"
     },
     {
       "name": "cache-control",
@@ -26,12 +26,8 @@
       "value": "gzip"
     },
     {
-      "name": "content-security-policy",
-      "value": "upgrade-insecure-requests, frame-ancestors 'self'; report-uri /_/commcsp?disposition=enforce"
-    },
-    {
       "name": "content-security-policy-report-only",
-      "value": "font-src *.force.com https://api.ipify.org https://fonts.gstatic.com/ 'self' https://stats.g.doubleclick.net https://www.googletagmanager.com https://www.google-analytics.com *.salesforce.com blob: data:; report-to sfdc-csp-ep; report-uri https://eddcontact.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Dt00000004XiB&networkId=0DMt00000008OzP&type=communities"
+      "value": "img-src *.force.com slack-imgs-mil-dev.com 'self' https://stats.g.doubleclick.net *.slack.com https://www.paypal.com https://usa9020.sfdc-pu91w7.salesforce.com/icons/ https://img.youtube.com https://payments.salesforce.com/icons/ https://eddcontact.file.force.com https://login.salesforce.com/icons/ *.slack-imgs.com slack-imgs-gov.com https://i.ytimg.com https://cdn.content.aws-dev2-uswest2.aws.sfdc.cl/icons/ *.salesforce-experience.com https://edd.ca.gov https://www.gstatic.com *.slack-edge-gov.com https://metrics-nds.docgen.nintex.io *.my-salesforce.com slack-imgs-gov-dev.com *.slack-edge.com *.cloudinary.com https://cdn.content.aws-prod1-useast1.aws.sfdc.cl/icons/ slack-mil-dev.com https://api.ipify.org https://www.gstatic.com/recaptcha/ *.amazonaws.com blob: https://eddcontact.my.salesforce.com https://www.google.com/recaptcha/ *.slack-edge.mil https://www.sandbox.paypal.com https://data.metrics-nds.docgen.nintex.io https://i.vimeocdn.com https://content.metrics-nds.docgen.nintex.io slack-imgs.com slack-gov-dev.com *.sfdcstatic.com https://www.googletagmanager.com https://www.google-analytics.com *.salesforce.com *.twimg.com https://*.adyen.com slack-imgs.mil data:; report-to sfdc-csp-ep; report-uri https://eddcontact.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Dt00000004XiB&networkId=0DMt00000008OzP&type=communities"
     },
     {
       "name": "content-type",
@@ -39,11 +35,7 @@
     },
     {
       "name": "expires",
-      "value": "Thu, 23 Jan 2025 23:33:45 GMT"
-    },
-    {
-      "name": "last-modified",
-      "value": "Thu, 23 Jan 2025 23:33:45 GMT"
+      "value": "Thu, 23 Jan 2025 23:38:47 GMT"
     },
     {
       "name": "link",
@@ -59,7 +51,7 @@
     },
     {
       "name": "server-timing",
-      "value": "Headers;dur=43"
+      "value": "Headers;dur=41"
     },
     {
       "name": "strict-transport-security",

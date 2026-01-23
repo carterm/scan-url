@@ -38,10 +38,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "last-modified",
-      "value": "Tue, 20 Jan 2026 08:26:57 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://www.abc.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.abc.ca.gov/wp-json/wp/v2/pages/20>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.abc.ca.gov/>; rel=shortlink"
     },

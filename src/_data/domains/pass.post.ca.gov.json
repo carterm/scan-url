@@ -22,20 +22,12 @@
       "value": "und"
     },
     {
-      "name": "content-security-policy",
-      "value": "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://www.google.com; object-src 'none'; worker-src 'self' blob: 'unsafe-inline';"
-    },
-    {
       "name": "content-type",
       "value": "text/html;charset=UTF-8"
     },
     {
       "name": "expires",
       "value": "0"
-    },
-    {
-      "name": "keep-alive",
-      "value": "timeout=60"
     },
     {
       "name": "pragma",
@@ -63,7 +55,7 @@
     },
     {
       "name": "x-requestid",
-      "value": "bb764fa0-d470-48d7-9022-67270d9e0a64"
+      "value": "5db4b0d2-fab0-45ec-b503-28b7a7d35122"
     },
     {
       "name": "x-xss-protection",

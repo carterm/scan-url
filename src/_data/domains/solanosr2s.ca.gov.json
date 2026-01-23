@@ -50,10 +50,6 @@
       "value": "Accept-Encoding, Cookie, Cookie"
     },
     {
-      "name": "via",
-      "value": "1.1 varnish, 1.1 varnish"
-    },
-    {
       "name": "x-content-type-options",
       "value": "nosniff"
     },

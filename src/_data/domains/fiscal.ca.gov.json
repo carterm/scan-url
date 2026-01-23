@@ -26,10 +26,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 23:29:01 GMT"
-    },
-    {
       "name": "permissions-policy",
       "value": "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)"
     },
@@ -59,7 +55,7 @@
     },
     {
       "name": "x-ms-middleware-request-id",
-      "value": "7eb1ccda-6ffd-4ba4-b71d-b1b608f949d5"
+      "value": "cdc375e9-456e-4e6d-acff-e1be1805c63d"
     },
     {
       "name": "x-powered-by",

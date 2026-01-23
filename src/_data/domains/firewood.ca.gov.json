@@ -20,10 +20,6 @@
     {
       "name": "content-type",
       "value": "text/html"
-    },
-    {
-      "name": "last-modified",
-      "value": "Fri, 19 May 2023 23:33:33 GMT"
     }
   ],
   "cloudflare": false,

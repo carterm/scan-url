@@ -14,10 +14,6 @@
       "value": "bytes"
     },
     {
-      "name": "content-security-policy",
-      "value": "frame-ancestors 'self' *.ca.gov;"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
     },
@@ -39,7 +35,7 @@
     },
     {
       "name": "x-volterra-location",
-      "value": "b-sv10-sjc"
+      "value": "sv10-sjc"
     }
   ],
   "cloudflare": false,

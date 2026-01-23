@@ -18,6 +18,6 @@
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
-  "errorMessage": null,
+  "errorMessage": "Fetch error: fetch failed redirect count exceeded",
   "notes": null
 }

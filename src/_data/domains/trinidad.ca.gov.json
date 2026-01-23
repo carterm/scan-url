@@ -38,20 +38,12 @@
       "value": "en"
     },
     {
-      "name": "content-security-policy",
-      "value": "default-src 'self' * blob: data:; script-src * about: 'unsafe-inline' 'unsafe-eval'; object-src 'self'; style-src * 'unsafe-inline'; img-src * data: blob:; media-src * blob: data:; frame-ancestors 'self'; upgrade-insecure-requests"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
     },
     {
       "name": "expires",
       "value": "Sun, 19 Nov 1978 05:00:00 GMT"
-    },
-    {
-      "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 19:50:46 GMT"
     },
     {
       "name": "permissions-policy",
@@ -68,10 +60,6 @@
     {
       "name": "vary",
       "value": "Cookie,Accept-Encoding"
-    },
-    {
-      "name": "via",
-      "value": "varnish"
     },
     {
       "name": "x-ah-environment",

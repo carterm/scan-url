@@ -38,10 +38,6 @@
       "value": "Sun, 19 Nov 1978 05:00:00 GMT"
     },
     {
-      "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 23:32:40 GMT"
-    },
-    {
       "name": "server",
       "value": "nginx"
     },
@@ -54,10 +50,6 @@
       "value": "Accept-Encoding, Cookie, Cookie, Cookie"
     },
     {
-      "name": "via",
-      "value": "1.1 varnish, 1.1 varnish, 1.1 varnish, 1.1 varnish"
-    },
-    {
       "name": "x-content-type-options",
       "value": "nosniff"
     },
@@ -67,7 +59,7 @@
     },
     {
       "name": "x-drupal-dynamic-cache",
-      "value": "HIT"
+      "value": "MISS"
     },
     {
       "name": "x-frame-options",
@@ -79,11 +71,11 @@
     },
     {
       "name": "x-pantheon-styx-hostname",
-      "value": "styx-fe2-b-5df7bd8b5f-2s9ks"
+      "value": "styx-fe2-a-848544cbb8-6nj5p"
     },
     {
       "name": "x-styx-req-id",
-      "value": "cf313ef3-f8b3-11f0-83ed-ba04bd691607"
+      "value": "5326c1f2-f8b4-11f0-847f-ce00492c793b"
     },
     {
       "name": "x-ua-compatible",

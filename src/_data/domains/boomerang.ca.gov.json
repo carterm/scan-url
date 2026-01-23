@@ -22,10 +22,6 @@
       "value": "gzip"
     },
     {
-      "name": "content-security-policy",
-      "value": "base-uri 'self';                                     default-src 'self';                                     connect-src 'self';                                     form-action 'self';                                     img-src 'self' data: https://california.azureedge.net https://ssl.google-analytics.com;                                     object-src 'self';                                     script-src 'self' 'unsafe-inline' 'unsafe-eval' https://ajax.googleapis.com https://ssl.google-analytics.com;                                      style-src 'self' 'unsafe-inline';                                     upgrade-insecure-requests;"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
     },

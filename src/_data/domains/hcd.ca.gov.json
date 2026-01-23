@@ -26,10 +26,6 @@
       "value": "en"
     },
     {
-      "name": "content-security-policy",
-      "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https: 'unsafe-eval'; object-src 'none'; style-src 'self' 'unsafe-inline' https: fonts.googleapis.com;; img-src 'self' data: https:; media-src 'self' https:; frame-src 'self' https:; frame-ancestors 'self'; child-src 'self'; font-src 'self' data: https:; connect-src 'self' https:; report-uri /report-csp-violation; upgrade-insecure-requests"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
     },

@@ -26,16 +26,12 @@
       "value": "Thu, 19 Nov 1981 08:52:00 GMT"
     },
     {
-      "name": "keep-alive",
-      "value": "timeout=2, max=500"
-    },
-    {
       "name": "pragma",
       "value": "no-cache"
     },
     {
       "name": "server-timing",
-      "value": "dtSInfo;desc=\"0\", dtRpid;desc=\"-513159636\""
+      "value": "dtSInfo;desc=\"0\", dtRpid;desc=\"-1656659252\""
     },
     {
       "name": "transfer-encoding",

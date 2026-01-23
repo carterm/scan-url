@@ -22,10 +22,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "keep-alive",
-      "value": "timeout=5, max=100"
-    },
-    {
       "name": "link",
       "value": "<https://mrca.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://mrca.ca.gov/wp-json/wp/v2/pages/8>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://wp.me/PaiH4x-8>; rel=shortlink"
     },

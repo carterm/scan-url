@@ -18,10 +18,6 @@
       "value": "text/html;charset=ISO-8859-1"
     },
     {
-      "name": "keep-alive",
-      "value": "timeout=5, max=100"
-    },
-    {
       "name": "server",
       "value": "Apache/2.4.10 (Unix) mod_jk/1.2.40"
     },

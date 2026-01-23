@@ -26,10 +26,6 @@
       "value": "en"
     },
     {
-      "name": "content-security-policy",
-      "value": "report-uri /report-csp-violation; upgrade-insecure-requests"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
     },
@@ -40,14 +36,6 @@
     {
       "name": "feature-policy",
       "value": "geolocation 'none'; camera 'none'; microphone 'none'"
-    },
-    {
-      "name": "keep-alive",
-      "value": "timeout=75"
-    },
-    {
-      "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 21:53:41 GMT"
     },
     {
       "name": "referrer-policy",
@@ -68,10 +56,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Accept-Encoding, Cookie, Cookie, Cookie"
-    },
-    {
-      "name": "via",
-      "value": "1.1 varnish, 1.1 varnish"
     },
     {
       "name": "x-content-type-options",

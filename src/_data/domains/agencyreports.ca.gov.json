@@ -26,10 +26,6 @@
       "value": "en"
     },
     {
-      "name": "content-security-policy",
-      "value": "default-src https: data: 'unsafe-inline' 'unsafe-eval'; script-src 'unsafe-inline'  'self' google.com www.google.com www.gstatic.com www.recaptcha.net polyfill.io; style-src 'unsafe-inline'  *; img-src 'self' data: https:; frame-ancestors *.assembly.ca.gov *.calegis.net; child-src www.google.com www.gstatic.com; font-src 'self' fonts.gstatic.com themes.googleusercontent.com data:; report-uri /report-csp-violation; upgrade-insecure-requests"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
     },
@@ -40,14 +36,6 @@
     {
       "name": "from-origin",
       "value": "https://acc-was.calegis.net"
-    },
-    {
-      "name": "keep-alive",
-      "value": "timeout=5, max=100"
-    },
-    {
-      "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 23:05:51 GMT"
     },
     {
       "name": "referrer-policy",

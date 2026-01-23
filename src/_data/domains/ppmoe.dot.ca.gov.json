@@ -43,7 +43,7 @@
     },
     {
       "name": "server-timing",
-      "value": "t;desc=\"fa655a72872e\", sem_wait;dur=0, sesh_wait;dur=0"
+      "value": "t;desc=\"6896deb6872e\", sem_wait;dur=0, sesh_wait;dur=0"
     },
     {
       "name": "strict-transport-security",
@@ -67,7 +67,7 @@
     },
     {
       "name": "x-transaction-id",
-      "value": "fa655a72872e"
+      "value": "6896deb6872e"
     }
   ],
   "cloudflare": false,

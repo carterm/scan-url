@@ -42,10 +42,6 @@
       "value": "Sun, 19 Nov 1978 05:00:00 GMT"
     },
     {
-      "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 23:20:14 GMT"
-    },
-    {
       "name": "referrer-policy",
       "value": "strict-origin-when-cross-origin"
     },
@@ -60,10 +56,6 @@
     {
       "name": "vary",
       "value": "Cookie,Accept-Encoding"
-    },
-    {
-      "name": "via",
-      "value": "varnish"
     },
     {
       "name": "x-acquia-no-301-404-caching-enforcement",

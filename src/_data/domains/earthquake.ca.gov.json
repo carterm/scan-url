@@ -22,12 +22,12 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 23:00:21 GMT"
-    },
-    {
       "name": "link",
       "value": "<https://www.earthquake.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.earthquake.ca.gov/wp-json/wp/v2/pages/341>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.earthquake.ca.gov/>; rel=shortlink"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains"
     },
     {
       "name": "transfer-encoding",
@@ -36,6 +36,10 @@
     {
       "name": "vary",
       "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
     }
   ],
   "cloudflare": false,

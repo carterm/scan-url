@@ -50,10 +50,6 @@
       "value": "Accept-Encoding, Cookie, Cookie"
     },
     {
-      "name": "via",
-      "value": "1.1 varnish, 1.1 varnish"
-    },
-    {
       "name": "x-content-type-options",
       "value": "nosniff"
     },
@@ -63,7 +59,7 @@
     },
     {
       "name": "x-pantheon-styx-hostname",
-      "value": "styx-fe4-b-86cbf58b65-kfxk4"
+      "value": "styx-fe4-b-86cbf58b65-cjk27"
     },
     {
       "name": "x-powered-by",
@@ -71,7 +67,7 @@
     },
     {
       "name": "x-styx-req-id",
-      "value": "b47f1bc8-f8b2-11f0-ba5b-b2986f440fbf"
+      "value": "20854f44-f8b4-11f0-a698-9e5e80f28646"
     },
     {
       "name": "x-xss-protection",

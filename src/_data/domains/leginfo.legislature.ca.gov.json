@@ -26,10 +26,6 @@
       "value": "-1"
     },
     {
-      "name": "keep-alive",
-      "value": "timeout=5, max=150"
-    },
-    {
       "name": "pragma",
       "value": "no-cache"
     },

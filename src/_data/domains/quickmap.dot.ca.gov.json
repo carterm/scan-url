@@ -30,10 +30,6 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "keep-alive",
-      "value": "timeout=2, max=500"
-    },
-    {
       "name": "server",
       "value": "Apache"
     },

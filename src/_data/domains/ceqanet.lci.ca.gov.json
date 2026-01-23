@@ -27,7 +27,7 @@
     },
     {
       "name": "cache-control",
-      "value": "public, max-age=437"
+      "value": "public, max-age=135"
     },
     {
       "name": "connection",
@@ -46,16 +46,12 @@
       "value": "Fri, 23 Jan 2026 23:41:10 GMT"
     },
     {
-      "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 23:26:09 GMT"
-    },
-    {
       "name": "referrer-policy",
       "value": "no-referrer-when-downgrade"
     },
     {
       "name": "server-timing",
-      "value": "dtSInfo;desc=\"0\", dtRpid;desc=\"-878274269\""
+      "value": "dtSInfo;desc=\"0\", dtRpid;desc=\"1458682550\""
     },
     {
       "name": "strict-transport-security",

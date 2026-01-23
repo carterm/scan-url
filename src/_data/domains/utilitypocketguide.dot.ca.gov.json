@@ -26,12 +26,8 @@
       "value": "text/html; charset=UTF-8"
     },
     {
-      "name": "keep-alive",
-      "value": "timeout=2, max=500"
-    },
-    {
       "name": "server-timing",
-      "value": "dtSInfo;desc=\"0\", dtRpid;desc=\"-518614704\""
+      "value": "dtSInfo;desc=\"0\", dtRpid;desc=\"555504896\""
     },
     {
       "name": "vary",

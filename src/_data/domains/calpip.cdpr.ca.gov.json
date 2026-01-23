@@ -18,16 +18,8 @@
       "value": "gzip"
     },
     {
-      "name": "content-security-policy",
-      "value": "default-src * 'unsafe-inline' 'unsafe-eval'; script-src * 'unsafe-inline' 'unsafe-eval'; connect-src self * 'unsafe-inline'; img-src * data: blob: 'unsafe-inline'; frame-src self; style-src * 'unsafe-inline';"
-    },
-    {
       "name": "content-type",
       "value": "text/html;charset=UTF-8"
-    },
-    {
-      "name": "keep-alive",
-      "value": "timeout=15, max=100"
     },
     {
       "name": "server",
@@ -48,10 +40,6 @@
     {
       "name": "x-content-type-options",
       "value": "nosniff"
-    },
-    {
-      "name": "x-iinfo",
-      "value": "47-183462736-183462964 NNYN CT(25 23 0) RT(1769211228221 728) q(0 0 0 -1) r(1 1) U12"
     },
     {
       "name": "x-ua-compatible",

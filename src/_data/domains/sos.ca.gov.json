@@ -50,14 +50,6 @@
       "value": "Accept-Encoding"
     },
     {
-      "name": "via",
-      "value": "1.1 761782808760d046e9ac00786dcb53c6.cloudfront.net (CloudFront)"
-    },
-    {
-      "name": "x-amz-cf-id",
-      "value": "aRSy0PDBe3qzTo4ti4zpjCfLsovto9ikQxW1BPReveQaDnUN7IMy5A=="
-    },
-    {
       "name": "x-amz-cf-pop",
       "value": "SEA900-P2"
     },
@@ -72,10 +64,6 @@
     {
       "name": "x-frame-options",
       "value": "sameorigin"
-    },
-    {
-      "name": "x-iinfo",
-      "value": "40-4103151-4103190 nNNY RT(1769211255906 364) q(0 0 0 -1) r(0 0) U12"
     },
     {
       "name": "x-xss-protection",

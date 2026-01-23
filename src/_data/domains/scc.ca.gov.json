@@ -22,10 +22,6 @@
       "value": "br"
     },
     {
-      "name": "content-security-policy",
-      "value": "upgrade-insecure-requests;"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
     },
@@ -55,7 +51,7 @@
     },
     {
       "name": "x-sucuri-cache",
-      "value": "EXPIRED"
+      "value": "HIT"
     },
     {
       "name": "x-sucuri-id",

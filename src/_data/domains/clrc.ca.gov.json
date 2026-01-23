@@ -26,10 +26,6 @@
       "value": "text/html"
     },
     {
-      "name": "keep-alive",
-      "value": "timeout=5"
-    },
-    {
       "name": "server",
       "value": "Apache"
     },

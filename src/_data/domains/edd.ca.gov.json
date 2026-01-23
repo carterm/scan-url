@@ -26,14 +26,6 @@
       "value": "Microsoft-IIS/10.0"
     },
     {
-      "name": "via",
-      "value": "1.1 0b19a78b40fcfcac4638465f05c49f4c.cloudfront.net (CloudFront)"
-    },
-    {
-      "name": "x-amz-cf-id",
-      "value": "mc5I90oE3yvdUwF94Aao3QILGuR1TXDvm9BLOkPMs6Ue67dkC4neAQ=="
-    },
-    {
       "name": "x-amz-cf-pop",
       "value": "LAX54-P3"
     },

@@ -22,28 +22,16 @@
       "value": "gzip"
     },
     {
-      "name": "content-security-policy",
-      "value": "frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
     },
     {
       "name": "expires",
-      "value": "Thu, 08 Jan 2026 23:33:55 GMT"
-    },
-    {
-      "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 23:33:55 GMT"
+      "value": "Thu, 08 Jan 2026 23:38:57 GMT"
     },
     {
       "name": "microsoftsharepointteamservices",
       "value": "16.0.0.19127"
-    },
-    {
-      "name": "request-id",
-      "value": "1ef6efa1-135a-c08c-d74d-9a88928cf920"
     },
     {
       "name": "server",
@@ -52,14 +40,6 @@
     {
       "name": "spiislatency",
       "value": "0"
-    },
-    {
-      "name": "sprequestduration",
-      "value": "111"
-    },
-    {
-      "name": "sprequestguid",
-      "value": "1ef6efa1-135a-c08c-d74d-9a88928cf920"
     },
     {
       "name": "vary",

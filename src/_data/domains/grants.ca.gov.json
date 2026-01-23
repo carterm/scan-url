@@ -11,7 +11,7 @@
   "responseHeaders": [
     {
       "name": "cache-control",
-      "value": "max-age=0, s-maxage=174, must-revalidate"
+      "value": "max-age=0, s-maxage=178, must-revalidate"
     },
     {
       "name": "connection",
@@ -20,10 +20,6 @@
     {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 23:31:39 GMT"
     },
     {
       "name": "link",
@@ -44,14 +40,6 @@
     {
       "name": "vary",
       "value": "Cookie"
-    },
-    {
-      "name": "via",
-      "value": "1.1 da34a87c52ac72533d016ec1c077c41a.cloudfront.net (CloudFront)"
-    },
-    {
-      "name": "x-amz-cf-id",
-      "value": "aPDWHj5WMoVniumAvb7k1NhkjbQNJHs1WPqIkgf4GEMeJCscIr6Arw=="
     },
     {
       "name": "x-amz-cf-pop",

@@ -22,10 +22,6 @@
       "value": "text/javascript"
     },
     {
-      "name": "content-security-policy",
-      "value": "default-src 'unsafe-inline' 'self';      script-src 'unsafe-inline' 'self' https://ajax.googleapis.com https://www.googletagmanager.com https://www.google-analytics.com https://fonts.googleapis.com https://fonts.gstatic.com https://checkout.stripe.com https://js.stripe.com https://bvwd.ca.gov https://biltmoresquare.net 'unsafe-eval';      script-src-elem 'unsafe-inline' 'self' https://jquery.com https://ajax.googleapis.com https://www.googletagmanager.com https://www.google-analytics.com https://checkout.stripe.com https://js.stripe.com https://bvwd.ca.gov https://biltmoresquare.net;      style-src-elem 'unsafe-inline' 'self' https://fonts.googleapis.com https://fonts.gstatic.com https://checkout.stripe.com https://bvwd.ca.gov https://biltmoresquare.net;      font-src 'self' data: https://fonts.gstatic.com;      connect-src 'self' https://www.google-analytics.com https://www.googletagmanager.com wss://keithfimreite.com https://api.stripe.com https://checkout.stripe.com https://bvwd.ca.gov https://biltmoresquare.net;      img-src 'self' https://www.google-analytics.com https://www.googletagmanager.com/ https://q.stripe.com https://bvwd.ca.gov https://biltmoresquare.net data:;      frame-src https://checkout.stripe.com https://bvwd.ca.gov;"
-    },
-    {
       "name": "content-style-type",
       "value": "text/css"
     },

@@ -26,14 +26,6 @@
       "value": "text/html"
     },
     {
-      "name": "keep-alive",
-      "value": "timeout=5"
-    },
-    {
-      "name": "last-modified",
-      "value": "Sat, 04 Jan 2025 22:47:19 GMT"
-    },
-    {
       "name": "server",
       "value": "Apache"
     },

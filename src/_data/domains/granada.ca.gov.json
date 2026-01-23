@@ -58,20 +58,12 @@
       "value": "SAMEORIGIN"
     },
     {
-      "name": "x-iinfo",
-      "value": "45-81529305-81529397 NNNN CT(22 33 0) RT(1769211242034 332) q(0 0 1 -1) r(1 4) U12"
-    },
-    {
       "name": "x-permitted-cross-domain-policies",
       "value": "none"
     },
     {
       "name": "x-request-id",
-      "value": "b1e719c3-e0e5-4de4-a56f-a443b30214c3"
-    },
-    {
-      "name": "x-runtime",
-      "value": "0.207578"
+      "value": "e27bf7d5-8a28-44f8-986e-0291766f2784"
     },
     {
       "name": "x-xss-protection",

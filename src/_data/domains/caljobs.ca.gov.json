@@ -24,10 +24,6 @@
     {
       "name": "strict-transport-security",
       "value": "max-age=7543; includeSubDomains"
-    },
-    {
-      "name": "x-iinfo",
-      "value": "49-120946850-0 pNNN RT(1769211228003 593) q(0 -1 -1 -1) r(0 -1) B12(14,0,0) U18"
     }
   ],
   "cloudflare": false,

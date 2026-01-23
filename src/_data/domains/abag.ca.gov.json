@@ -30,10 +30,6 @@
       "value": "en"
     },
     {
-      "name": "content-security-policy",
-      "value": "frame-ancestors 'self'; report-uri /report-csp-violation"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
     },
@@ -44,10 +40,6 @@
     {
       "name": "expires",
       "value": "Sun, 19 Nov 1978 05:00:00 GMT"
-    },
-    {
-      "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 21:48:18 GMT"
     },
     {
       "name": "referrer-policy",
@@ -64,10 +56,6 @@
     {
       "name": "vary",
       "value": "Accept-Encoding, Cookie, Cookie, Cookie"
-    },
-    {
-      "name": "via",
-      "value": "1.1 varnish, 1.1 varnish, 1.1 varnish"
     },
     {
       "name": "x-content-type-options",

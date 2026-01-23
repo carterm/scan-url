@@ -15,7 +15,7 @@
     },
     {
       "name": "cache-control",
-      "value": "max-age=118, must-revalidate"
+      "value": "max-age=235, must-revalidate"
     },
     {
       "name": "connection",
@@ -32,10 +32,6 @@
     {
       "name": "host-header",
       "value": "wpcloud"
-    },
-    {
-      "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 23:27:44 GMT"
     },
     {
       "name": "link",

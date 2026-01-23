@@ -14,10 +14,6 @@
       "value": "private"
     },
     {
-      "name": "content-security-policy",
-      "value": "frame-ancestors 'self' https://saccourt-ca.prod.govaccess.org/"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
     },

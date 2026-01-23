@@ -14,10 +14,6 @@
       "value": "gzip"
     },
     {
-      "name": "content-security-policy",
-      "value": "default-src 'self' 'unsafe-inline' 'unsafe-eval'                   *.ca.gov                   *.tableau.com                   *.gov                  *.google.com                  *.google-analytics.com      *.surveymonkey.com      *.youtube.com      *.powerbigov.us                  ;"
-    },
-    {
       "name": "content-type",
       "value": "text/html"
     },

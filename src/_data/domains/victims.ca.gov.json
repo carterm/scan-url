@@ -11,23 +11,15 @@
   "responseHeaders": [
     {
       "name": "cache-control",
-      "value": "max-age=300, must-revalidate"
+      "value": "max-age=68, must-revalidate"
     },
     {
       "name": "connection",
       "value": "keep-alive"
     },
     {
-      "name": "content-security-policy",
-      "value": "default-src  'self' ; img-src      'self' 'unsafe-inline' 'unsafe-eval' data: https://www.google.com https://translate.google.com https://www.googletagmanager.com https://www.google-analytics.com https://translate.googleapis.com https://www.gstatic.com https://secure.gravatar.com https://fonts.gstatic.com https://*.crazyegg.com;  script-src   'self' 'unsafe-inline' 'unsafe-eval' https://translate-pa.googleapis.com https://www.google.com https://translate.google.com https://www.googletagmanager.com https://www.google-analytics.com https://translate.googleapis.com https://www.gstatic.com https://alert.cdt.ca.gov https://platform.twitter.com https://www.facebook.com https://connect.facebook.net https://www.instagram.com https://static.elfsight.com https://*.crazyegg.com https://s3.amazonaws.com https://victims.us14.list-manage.com;  style-src    'self' 'unsafe-inline' https://translate.google.com https://www.googletagmanager.com https://www.google-analytics.com https://translate.googleapis.com https://www.gstatic.com https://*.crazyegg.com https://*.mailchimp.com;  font-src     'self' data: https://translate.google.com https://www.googletagmanager.com https://www.google-analytics.com https://translate.googleapis.com https://www.gstatic.com https://*.crazyegg.com;  frame-src    'self' https://translate.google.com https://www.googletagmanager.com https://www.google-analytics.com https://translate.googleapis.com https://www.gstatic.com https://platform.twitter.com https://syndication.twitter.com https://www.facebook.com https://www.instagram.com https://*.elf.site https://*.crazyegg.com;  object-src   'self' ;  connect-src      'self' https://translate.google.com https://www.googletagmanager.com https://www.google-analytics.com https://translate.googleapis.com https://www.gstatic.com https://alert.cdt.ca.gov https://translate-pa.googleapis.com https://*.crazyegg.com;"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "last-modified",
-      "value": "Fri, 23 Jan 2026 23:34:19 GMT"
     },
     {
       "name": "link",
@@ -50,14 +42,6 @@
       "value": "Cookie"
     },
     {
-      "name": "via",
-      "value": "1.1 6b6864bce40e8c6517571357636f0dbe.cloudfront.net (CloudFront)"
-    },
-    {
-      "name": "x-amz-cf-id",
-      "value": "hzBT4u2OuHNOSdWJiPpRCIlJAVWJfL1LExGQ6gEHvO24BVxtA-wzwg=="
-    },
-    {
       "name": "x-amz-cf-pop",
       "value": "SFO53-P7"
     },
@@ -71,7 +55,7 @@
     },
     {
       "name": "x-tenup-cache",
-      "value": "EXPIRED"
+      "value": "HIT"
     }
   ],
   "cloudflare": false,

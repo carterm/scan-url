@@ -22,16 +22,12 @@
       "value": "gzip"
     },
     {
-      "name": "content-security-policy",
-      "value": "default-src 'self' *.twitter.com *.twimg.com *.googleapis.com *.ibank.ca.gov *.ctctcdn.com *.constantcontact.com *.gstatic.com *.google-analytics.com stats.g.doubleclick.net ocsp.usertrust.com ocsp.sectigo.com *.wakelet.com; img-src 'self' data: http: https: *.gravatar.com *.wp.com *.wordpress.com *.wakelet.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' http: https: *.wp.com *.wordpress.com; style-src 'self' 'unsafe-inline' http: https: fonts.googleapis.com *.wp.com *.wordpress.com; font-src 'self' data: http: https: fonts.googleapis.com themes.googleusercontent.com *.wp.com *.wordpress.com; frame-src 'self' 'unsafe-inline' 'unsafe-eval' http: https: *.wp.com *.wordpress.com *.wakelet.com"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
     },
     {
       "name": "expires",
-      "value": "Fri, 23 Jan 2026 23:44:04 GMT"
+      "value": "Fri, 23 Jan 2026 23:49:06 GMT"
     },
     {
       "name": "link",

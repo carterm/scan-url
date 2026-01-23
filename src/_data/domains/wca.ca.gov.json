@@ -34,16 +34,12 @@
       "value": "br"
     },
     {
-      "name": "content-security-policy",
-      "value": "frame-ancestors wca.nationbuilder.com"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
     },
     {
       "name": "expires",
-      "value": "Fri, 23 Jan 2026 23:34:59 GMT, Fri, 01 Jan 1990 00:00:00 GMT"
+      "value": "Fri, 23 Jan 2026 23:40:23 GMT, Fri, 01 Jan 1990 00:00:00 GMT"
     },
     {
       "name": "server",
@@ -75,7 +71,7 @@
     },
     {
       "name": "x-middleware-start",
-      "value": "t=1769211260579109"
+      "value": "t=1769211563480922"
     },
     {
       "name": "x-nb-cached-page",
@@ -83,15 +79,11 @@
     },
     {
       "name": "x-rack-cache",
-      "value": "fresh"
+      "value": "stale, valid, store"
     },
     {
       "name": "x-request-id",
       "value": "cb715394-fe59-4d89-b65e-732e31e1209b"
-    },
-    {
-      "name": "x-runtime",
-      "value": "0.350286"
     }
   ],
   "cloudflare": false,

@@ -26,10 +26,6 @@
       "value": "text/html"
     },
     {
-      "name": "last-modified",
-      "value": "Wed, 07 Aug 2024 00:34:34 GMT"
-    },
-    {
       "name": "pragma",
       "value": "no-cache"
     },
@@ -48,10 +44,6 @@
     {
       "name": "x-content-type-options",
       "value": "nosniff"
-    },
-    {
-      "name": "x-iinfo",
-      "value": "46-81613128-81613275 NNYN CT(14 20 0) RT(1769211239221 424) q(0 0 0 7) r(0 0) U12"
     }
   ],
   "cloudflare": false,

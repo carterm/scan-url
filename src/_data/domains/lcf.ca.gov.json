@@ -22,16 +22,8 @@
       "value": "br"
     },
     {
-      "name": "content-security-policy",
-      "value": "upgrade-insecure-requests"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "keep-alive",
-      "value": "timeout=20"
     },
     {
       "name": "link",
