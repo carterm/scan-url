@@ -6,8 +6,8 @@
   "includeInScan": true,
   "title": "Self-Help Guide to the California Courts | California Courts | Self Help Guide",
   "lastStatus": 200,
-  "finalUrl": "https://www.sucorte.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
+  "metaGenerator": "Drupal 9 (https://www.drupal.org)",
   "responseHeaders": [
     {
       "name": "accept-ranges",

@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "File Request - California Department of Conservation",
   "lastStatus": 200,
-  "finalUrl": "https://filerequest.conservation.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -33,9 +32,12 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-TB4GXTE2XM"
+  ],
   "socialLinks": [
     "https://www.facebook.com/calconservation",
     "https://twitter.com/CalConservation",

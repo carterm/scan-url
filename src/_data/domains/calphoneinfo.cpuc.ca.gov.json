@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "State of California, California Public Utilities Commission",
   "lastStatus": 200,
-  "finalUrl": "https://calphoneinfo.cpuc.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -39,7 +38,11 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-G77XY5RQCC",
+    "UA-1915322-3",
+    "UA-3419582-2"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CaliforniaPUC",
     "https://twitter.com/californiapuc"

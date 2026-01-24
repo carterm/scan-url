@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Mental health for all",
   "lastStatus": 200,
-  "finalUrl": "https://www.mentalhealth.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -36,10 +35,13 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-P7T6SMN0LM",
+    "GTM-NJ6Q4MV"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

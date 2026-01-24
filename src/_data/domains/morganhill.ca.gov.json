@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "City of Morgan Hill, CA - Official Website | Official Website",
   "lastStatus": 200,
-  "finalUrl": "https://www.morganhill.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -38,8 +37,11 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-PMD5WBK6KL",
+    "GTM-K73C5PS"
+  ],
   "socialLinks": [
     "https://www.facebook.com/morganhillgovernment/",
     "https://www.instagram.com/cityofmorganhill/",

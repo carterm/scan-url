@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "San Bruno, CA | Official Website",
   "lastStatus": 200,
-  "finalUrl": "https://www.sanbruno.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -34,8 +33,11 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-FVWSYTCK31",
+    "GTM-K73C5PS"
+  ],
   "socialLinks": [
     "https://www.facebook.com/thecityofsanbruno/",
     "https://www.instagram.com/cityofsanbruno/",

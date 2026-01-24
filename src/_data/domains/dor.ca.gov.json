@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Home Page - CA Department of Rehabilitation",
   "lastStatus": 200,
-  "finalUrl": "https://www.dor.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -48,10 +47,15 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-74S7YNBTH1",
+    "UA-21431721-18",
+    "UA-3419582-2"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CaliforniaDOR",
     "https://www.instagram.com/dorcalifornia/",

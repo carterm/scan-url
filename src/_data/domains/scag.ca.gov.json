@@ -6,8 +6,8 @@
   "includeInScan": true,
   "title": "Home | Southern California Association of Governments",
   "lastStatus": 200,
-  "finalUrl": "https://scag.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
+  "metaGenerator": "Drupal 10 (https://www.drupal.org)",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -58,8 +58,11 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-HOMEPAGEPO",
+    "GTM-PCMC9BT"
+  ],
   "socialLinks": [
     "https://www.facebook.com/SCAGmpo",
     "https://twitter.com/SCAGnews",

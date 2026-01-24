@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Find a Sales and Use Tax Rate",
   "lastStatus": 200,
-  "finalUrl": "https://maps.cdtfa.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "blazor-enhanced-nav",
@@ -51,7 +50,11 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "GTM-W42NR96",
+    "UA-3419582-2",
+    "UA-64276560-39"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

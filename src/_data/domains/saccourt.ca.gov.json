@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Superior Court of California - County of Sacramento",
   "lastStatus": 200,
-  "finalUrl": "https://www.saccourt.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-type",
@@ -34,8 +33,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-4132807-14"
+  ],
   "socialLinks": [
     "https://www.linkedin.com/company/sacramento-superior-court",
     "https://www.facebook.com/SacramentoCountyCourt",

@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "California Strategic Growth Council - Strategic Growth Council",
   "lastStatus": 200,
-  "finalUrl": "https://sgc.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "WordPress 6.9",
   "responseHeaders": [
     {
@@ -60,10 +60,13 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-GN1F20H06C"
+  ],
   "socialLinks": [
     "https://www.linkedin.com/company/strategic-growth-council/",
     "https://www.instagram.com/cal.lci/profilecard/?igsh=NTc4MTIwNjQ2YQ",

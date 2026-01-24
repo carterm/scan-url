@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Login",
   "lastStatus": 200,
-  "finalUrl": "https://www.calcompetes.ca.gov/Login.aspx",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -42,7 +41,7 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,

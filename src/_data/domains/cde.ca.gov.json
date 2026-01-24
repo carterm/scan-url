@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Department of Education",
   "lastStatus": 200,
-  "finalUrl": "https://www.cde.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -32,10 +31,12 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-FXBTGX69YQ"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

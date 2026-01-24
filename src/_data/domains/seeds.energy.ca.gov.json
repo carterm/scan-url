@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Home Page - California Energy Commission",
   "lastStatus": 200,
-  "finalUrl": "https://seeds.energy.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-type",
@@ -29,8 +28,8 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [
     "http://www.facebook.com/CAEnergy/",

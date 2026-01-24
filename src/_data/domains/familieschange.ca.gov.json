@@ -6,8 +6,8 @@
   "includeInScan": true,
   "title": "Home | Familieschange California",
   "lastStatus": 200,
-  "finalUrl": "https://familieschange.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
+  "metaGenerator": "Drupal 7 (http://drupal.org)",
   "responseHeaders": [
     {
       "name": "connection",
@@ -54,8 +54,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-42225500-1"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

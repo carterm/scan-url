@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Home - Western Placer Waste Management Authority",
   "lastStatus": 200,
-  "finalUrl": "https://wpwma.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "WordPress 6.9",
   "responseHeaders": [
     {
@@ -83,7 +83,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-L673EFZY1V"
+  ],
   "socialLinks": [
     "https://www.youtube.com/watch?v=KQQdftQrcjs&list=PLnUskxTUjkSIRdgeQ3x_Pmm2DsMbzKDB2",
     "https://www.facebook.com/WPWMA/",

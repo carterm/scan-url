@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Made in California",
   "lastStatus": 200,
-  "finalUrl": "https://www.madeincalifornia.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.5.2a",
   "responseHeaders": [
     {
@@ -38,8 +38,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-SEYPRR85FP"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CaliforniaOSBA/",
     "https://twitter.com/californiaosba",

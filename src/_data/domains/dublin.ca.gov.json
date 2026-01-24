@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Dublin, CA - Official Website | Official Website",
   "lastStatus": 200,
-  "finalUrl": "https://www.dublin.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-type",
@@ -26,8 +25,12 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-6REM15SLX9",
+    "G-J43R5LMW0E",
+    "GTM-K73C5PS"
+  ],
   "socialLinks": [
     "https://twitter.com/DublinPIO"
   ],

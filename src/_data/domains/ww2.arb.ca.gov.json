@@ -6,8 +6,8 @@
   "includeInScan": true,
   "title": "Homepage | California Air Resources Board",
   "lastStatus": 200,
-  "finalUrl": "https://ww2.arb.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
+  "metaGenerator": "Drupal 9 (https://www.drupal.org)",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -79,7 +79,10 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-7M1ZZPXDBL",
+    "UA-19803621-1"
+  ],
   "socialLinks": [
     "https://twitter.com/AirResources",
     "https://www.facebook.com/people/California-Air-Resources-Board/100087562832527/",

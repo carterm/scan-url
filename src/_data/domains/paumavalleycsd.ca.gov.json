@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Homepage Pauma Valley Community Services District",
   "lastStatus": 200,
-  "finalUrl": "https://paumavalleycsd.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",

@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California State Auditor",
   "lastStatus": 200,
-  "finalUrl": "https://www.auditor.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -67,7 +66,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-70N4V9ZKFQ"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

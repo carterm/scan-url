@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "files.resources.ca.gov — Domain welcome page for",
   "lastStatus": 200,
-  "finalUrl": "https://files.resources.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",

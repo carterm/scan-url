@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Contra Costa County, CA Official Website | Official Website",
   "lastStatus": 200,
-  "finalUrl": "https://www.contracosta.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -46,8 +45,11 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-PC37G0VFEW",
+    "GTM-K73C5PS"
+  ],
   "socialLinks": [
     "https://twitter.com/CCCounty",
     "https://www.youtube.com/channel/UCMcge3PizlYUVI-CipBafVQ",

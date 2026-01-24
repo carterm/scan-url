@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "SPOT",
   "lastStatus": 200,
-  "finalUrl": "https://spot.cdph.ca.gov/s/?language=en_US",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",

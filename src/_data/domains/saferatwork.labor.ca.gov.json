@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Safer At Work | California for All",
   "lastStatus": 200,
-  "finalUrl": "https://saferatwork.labor.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
     {
@@ -69,9 +69,17 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-WN09725CCD",
+    "G-Y7T2KCM7P1",
+    "GTM-5LKL585",
+    "UA-21974567-38",
+    "UA-3419582-2",
+    "UA-3419582-47"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CaliforniaDIR",
     "https://twitter.com/#!/CA_DIR",

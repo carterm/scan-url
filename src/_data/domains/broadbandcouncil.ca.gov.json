@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "California Broadband Council | The California Broadband Council was established by legislation in 2010 (S.B. 1462 – Padilla) to marshal the state’s resources to further the policy of increasing broadband network deployment, and eliminating the Digital Divide by expanding broadband accessibility, literacy, adoption, and usage.",
   "lastStatus": 200,
-  "finalUrl": "https://broadbandcouncil.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
     {
@@ -69,9 +69,16 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-BM545KDPMZ",
+    "G-Y7T2KCM7P1",
+    "UA-21970760-37",
+    "UA-3419582-2",
+    "UA-3419582-47"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

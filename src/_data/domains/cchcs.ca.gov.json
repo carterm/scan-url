@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "CCHCS - California Correctional Health Care Services",
   "lastStatus": 200,
-  "finalUrl": "https://cchcs.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
     {
@@ -68,10 +68,17 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-Q9Y67HPNNY",
+    "G-Y7T2KCM7P1",
+    "GTM-T7W8RZ8",
+    "UA-3419582-2",
+    "UA-3419582-47"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

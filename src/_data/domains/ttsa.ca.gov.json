@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Tahoe-Truckee SanitationAgency, CA | Official Website",
   "lastStatus": 200,
-  "finalUrl": "https://www.ttsa.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -42,8 +41,11 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-BT3F8NYDVX",
+    "GTM-K73C5PS"
+  ],
   "socialLinks": [
     "https://www.facebook.com/p/Tahoe-Truckee-Sanitation-Agency-100065674712024/?locale=fr_CA",
     "https://www.linkedin.com/company/tahoe-truckee-sanitation-agency"

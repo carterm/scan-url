@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Legislative Analyst’s Office",
   "lastStatus": 200,
-  "finalUrl": "https://www.lao.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -46,8 +45,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-V20H6V9DXQ"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

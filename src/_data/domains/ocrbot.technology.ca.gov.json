@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "OCRBot",
   "lastStatus": 200,
-  "finalUrl": "https://www.ocrbot.technology.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -35,7 +34,10 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "UA-21970760-42",
+    "UA-3419582-2"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

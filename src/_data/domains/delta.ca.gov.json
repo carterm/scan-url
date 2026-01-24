@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Delta Protection Commission – Committed to the Protection and Health of the Delta",
   "lastStatus": 200,
-  "finalUrl": "https://delta.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "Site Kit by Google 1.168.0",
   "responseHeaders": [
     {
@@ -47,11 +47,15 @@
     }
   ],
   "cloudflare": false,
-  "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "slow": true,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-YB8LP09907",
+    "UA-20973992-19",
+    "UA-3419582-2"
+  ],
   "socialLinks": [
     "https://www.facebook.com/DeltaProtectionCommission",
     "http://twitter.com/CA_DPC",

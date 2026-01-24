@@ -6,8 +6,8 @@
   "includeInScan": true,
   "title": "Home | Superior Court of California - County of San Diego",
   "lastStatus": 200,
-  "finalUrl": "https://www.sdcourt.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
+  "metaGenerator": "Drupal 10 (https://www.drupal.org)",
   "responseHeaders": [
     {
       "name": "access-control-allow-origin",
@@ -66,8 +66,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-9TV7LRTJDG"
+  ],
   "socialLinks": [
     "https://www.linkedin.com/company/sdsuperiorcourt/",
     "https://www.twitter.com/SDSuperiorCourt",

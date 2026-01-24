@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California State Parks",
   "lastStatus": 200,
-  "finalUrl": "https://www.parks.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-type",
@@ -35,7 +34,10 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-NQRMQVQ7T5",
+    "UA-3419582-2"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CaliforniaStateParks",
     "https://twitter.com/CAStateParks",

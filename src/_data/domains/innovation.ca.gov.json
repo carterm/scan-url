@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Office of Data and Innovation",
   "lastStatus": 200,
-  "finalUrl": "https://innovation.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -32,18 +31,16 @@
     {
       "name": "vary",
       "value": "accept-encoding"
-    },
-    {
-      "name": "x-amz-cf-pop",
-      "value": "LAX54-P6"
     }
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "GTM-PQRTS7Z"
+  ],
   "socialLinks": [
     "https://www.linkedin.com/company/california-office-of-data-and-innovation/",
     "https://www.instagram.com/california_odi/",

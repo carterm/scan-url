@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "30x30 California",
   "lastStatus": 200,
-  "finalUrl": "https://www.californianature.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -39,7 +38,10 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-Y6CYCFDK0H",
+    "UA-59627195-16"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

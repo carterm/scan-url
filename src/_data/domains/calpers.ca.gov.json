@@ -6,8 +6,8 @@
   "includeInScan": true,
   "title": "California Public Employees' Retirement System",
   "lastStatus": 200,
-  "finalUrl": "https://www.calpers.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
+  "metaGenerator": "Drupal 10 (https://www.drupal.org)",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -50,10 +50,6 @@
       "value": "prod"
     },
     {
-      "name": "x-amz-cf-pop",
-      "value": "LAX50-P4"
-    },
-    {
       "name": "x-content-type-options",
       "value": "nosniff"
     },
@@ -71,7 +67,11 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-EGNB9Q40R8",
+    "G-NVPAH5KF7T",
+    "GTM-TVMFZD9"
+  ],
   "socialLinks": [
     "https://www.youtube.com/CalPERS",
     "https://www.youtube.com/CalPERS",

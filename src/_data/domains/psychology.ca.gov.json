@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Board of Psychology",
   "lastStatus": 200,
-  "finalUrl": "https://www.psychology.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -54,8 +53,12 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-G17MN7HXHK",
+    "UA-64276560-22"
+  ],
   "socialLinks": [
     "https://www.facebook.com/BoardofPsychology",
     "https://twitter.com/CABDofPsych",

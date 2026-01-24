@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "NMVB Home Page",
   "lastStatus": 200,
-  "finalUrl": "https://www.nmvb.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -33,9 +32,13 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-2DWD3387QF",
+    "GTM-NFWKKCR",
+    "UA-24087628-12"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

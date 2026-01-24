@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Home :: California Secretary of State",
   "lastStatus": 200,
-  "finalUrl": "https://www.sos.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -42,10 +41,6 @@
       "value": "Accept-Encoding"
     },
     {
-      "name": "x-amz-cf-pop",
-      "value": "SEA900-P2"
-    },
-    {
       "name": "x-cdn",
       "value": "Imperva"
     },
@@ -66,8 +61,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-TC7VGHV"
+  ],
   "socialLinks": [
     "https://twitter.com/CASOSVote",
     "https://www.facebook.com/CaliforniaSOS/",

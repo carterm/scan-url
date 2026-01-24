@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Calexico, CA",
   "lastStatus": 200,
-  "finalUrl": "https://www.calexico.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-type",
@@ -30,7 +29,7 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [
     "https://www.facebook.com/CityofCalexicoCA/",

@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California School for the Blind, Fremont",
   "lastStatus": 200,
-  "finalUrl": "https://www.csb-cde.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -34,8 +33,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-CZVXSCW7Y7"
+  ],
   "socialLinks": [
     "https://www.youtube.com/channel/UCrrZcLxRWmKKnOR98m6SeqQ",
     "https://www.facebook.com/CaliforniaSchoolForTheBlind",

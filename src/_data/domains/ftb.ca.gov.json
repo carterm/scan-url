@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Franchise Tax Board Homepage | FTB.ca.gov",
   "lastStatus": 200,
-  "finalUrl": "https://www.ftb.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -60,10 +59,13 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-EQVZX0SCVD",
+    "GTM-NJ6Q4MV"
+  ],
   "socialLinks": [
     "https://www.facebook.com/franchisetaxboard/",
     "https://x.com/calftb",

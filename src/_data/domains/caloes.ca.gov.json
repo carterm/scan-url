@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "California Governor's Office of Emergency Services | California's Emergency Services Leader",
   "lastStatus": 200,
-  "finalUrl": "https://www.caloes.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.0",
   "responseHeaders": [
     {
@@ -36,10 +36,16 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-MDLYGZX10N",
+    "GTM-5JTZCJC",
+    "UA-3419582-2",
+    "UA-54732306-2"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CaliforniaOES",
     "https://www.instagram.com/cal_OES/",

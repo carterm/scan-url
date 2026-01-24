@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Digital Vaccine Record",
   "lastStatus": 200,
-  "finalUrl": "https://myvaccinerecord.cdph.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -51,7 +50,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "GTM-5L4RSCS"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "City of Point Arena",
   "lastStatus": 200,
-  "finalUrl": "https://pointarena.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "WordPress 6.9",
   "responseHeaders": [
     {
@@ -70,7 +70,7 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [
     "https://www.facebook.com/204306180005839",

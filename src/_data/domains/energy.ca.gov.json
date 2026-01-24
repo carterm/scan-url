@@ -6,8 +6,8 @@
   "includeInScan": true,
   "title": "Home Page-California Energy Commission",
   "lastStatus": 200,
-  "finalUrl": "https://www.energy.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
+  "metaGenerator": "Drupal 10 (https://www.drupal.org)",
   "responseHeaders": [
     {
       "name": "content-language",
@@ -40,10 +40,12 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-B5BLHWHE7P"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CAEnergy",
     "https://www.instagram.com/calenergy",

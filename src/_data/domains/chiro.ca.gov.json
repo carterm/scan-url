@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Board of Chiropractic Examiners, California Department of Consumer Affairs",
   "lastStatus": 200,
-  "finalUrl": "https://www.chiro.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -55,7 +54,11 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-K09KJQJEEF",
+    "UA-20973992-13"
+  ],
   "socialLinks": [
     "https://www.facebook.com/pages/Board-of-Chiropractic-Examiners/119628211455666",
     "https://twitter.com/BCE_news",

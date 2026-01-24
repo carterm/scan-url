@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "California Health and Human Services - California Health & Human Services",
   "lastStatus": 200,
-  "finalUrl": "https://www.chhs.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "WordPress 6.9",
   "responseHeaders": [
     {
@@ -66,8 +66,12 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-C326YCQ2HL",
+    "GTM-5R9P4F7",
+    "UA-3419582-2"
+  ],
   "socialLinks": [
     "https://twitter.com/chhsdatanews",
     "https://www.facebook.com/CAHealthHumanServices/",

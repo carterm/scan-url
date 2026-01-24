@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Homepage Heritage Ranch Community Services District",
   "lastStatus": 200,
-  "finalUrl": "https://www.heritageranchcsd.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -59,7 +58,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "UA-40786643-1"
+  ],
   "socialLinks": [
     "https://www.youtube.com/@HeritageRanchCSD"
   ],

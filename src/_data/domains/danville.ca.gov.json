@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Danville, CA | Official Website",
   "lastStatus": 200,
-  "finalUrl": "https://www.danville.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -38,8 +37,11 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-K6CCK2JPQ9",
+    "GTM-K73C5PS"
+  ],
   "socialLinks": [
     "https://www.facebook.com/DanvilleCAgov/",
     "https://twitter.com/danvillecagov",

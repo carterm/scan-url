@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Homepage The Town of Discovery Bay",
   "lastStatus": 200,
-  "finalUrl": "https://todb.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -59,7 +58,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-TYLERSV4HT"
+  ],
   "socialLinks": [
     "https://www.instagram.com/todb94505/",
     "https://www.facebook.com/profile.php?id=100064686577195",

@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Welcome to the Legislative Counsel of California | Legislative Counsel",
   "lastStatus": 200,
-  "finalUrl": "https://legislativecounsel.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",

@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "ALRB | The California Agricultural Labor Relations Board was created in 1975 to ensure peace in the fields of California by guaranteeing justice for all agricultural workers and stability in agricultural labor relations. The Board seeks to achieve these ends by providing orderly processes for protecting, implementing, and enforcing the respective rights and responsibilities of employees, employers and labor organizations in their relations with each other.",
   "lastStatus": 200,
-  "finalUrl": "https://www.alrb.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
     {
@@ -80,10 +80,17 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-3GVNPSC58B",
+    "G-69TD0KNT0F",
+    "G-Y7T2KCM7P1",
+    "UA-3419582-2",
+    "UA-3419582-47",
+    "UA-58832707-1"
+  ],
   "socialLinks": [
     "https://www.facebook.com/profile.php?id=100068890073000",
     "https://www.linkedin.com/company/agricultural-labor-relations-board/",

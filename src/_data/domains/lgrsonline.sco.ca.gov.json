@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Log in - LGRS Online",
   "lastStatus": 200,
-  "finalUrl": "https://lgrsonline.sco.ca.gov/account/login",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-type",
@@ -38,8 +37,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-K5ZRSNK"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

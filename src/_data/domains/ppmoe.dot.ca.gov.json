@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Home - Contractors Corner | Caltrans",
   "lastStatus": 200,
-  "finalUrl": "https://ppmoe.dot.ca.gov/cc",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -59,7 +58,11 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-MULTISELEC",
+    "G-RESPONSIVE",
+    "G-TRANSCLUDE"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

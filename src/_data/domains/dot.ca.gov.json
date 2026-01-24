@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Department of Transportation | Caltrans",
   "lastStatus": 200,
-  "finalUrl": "https://dot.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ch",
@@ -36,10 +35,15 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-PXR8P55JR4",
+    "G-WLDEF7NZZ2",
+    "GTM-573PLG9"
+  ],
   "socialLinks": [
     "http://www.x.com/CaltransHQ",
     "http://www.facebook.com/CaltransHQ",

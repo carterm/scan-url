@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Department of Pesticide Regulation Mobile Gallery",
   "lastStatus": 200,
-  "finalUrl": "https://mobile.cdpr.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -47,7 +46,10 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "UA-3419582-2",
+    "UA-5300495-1"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

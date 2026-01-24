@@ -6,8 +6,8 @@
   "includeInScan": true,
   "title": "Home Page | Trinidad CA",
   "lastStatus": 200,
-  "finalUrl": "https://www.trinidad.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
+  "metaGenerator": "Drupal 10 (https://www.drupal.org)",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -71,7 +71,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-1F2ZXJ4JW4"
+  ],
   "socialLinks": [
     "https://www.facebook.com/TrinidadChamber/"
   ],

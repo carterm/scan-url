@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Cal Spill Watch Home",
   "lastStatus": 200,
-  "finalUrl": "https://calspillwatch.wildlife.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -53,9 +52,11 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-3TD3C8P5WP"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CalSpillWatch/",
     "https://www.instagram.com/calspillwatch/",

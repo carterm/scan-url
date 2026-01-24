@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Report Center - HCAI",
   "lastStatus": 200,
-  "finalUrl": "https://report.hcai.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "access-control-allow-origin",
@@ -62,7 +61,7 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,

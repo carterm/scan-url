@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Welcome - California Natural Resources Agency Open Data",
   "lastStatus": 200,
-  "finalUrl": "https://data.cnra.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "ckan 2.9.11",
   "responseHeaders": [
     {
@@ -48,10 +48,13 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-L05EYD0Q7Q",
+    "G-Q09GQ8WSZJ"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Nipomo Community Services District | NSCD Nipomo, California",
   "lastStatus": 200,
-  "finalUrl": "https://ncsd.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "Powered by WPBakery Page Builder - drag and drop page builder for WordPress.",
   "responseHeaders": [
     {
@@ -70,7 +70,7 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [
     "https://www.facebook.com/NipomoCSD",

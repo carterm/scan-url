@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Interagency Ecological Program > Home",
   "lastStatus": 200,
-  "finalUrl": "https://iep.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -57,9 +56,11 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-YSTKZ5TE6T"
+  ],
   "socialLinks": [
     "https://www.youtube.com/playlist?list=PL-PEXRYYBP1TfHYR2o4tupieGQphEPhDa"
   ],

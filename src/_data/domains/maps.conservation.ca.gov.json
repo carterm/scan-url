@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Department of Conservation Map Server",
   "lastStatus": 200,
-  "finalUrl": "https://maps.conservation.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -37,9 +36,14 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-XL3D15KXV3",
+    "UA-3419582-2",
+    "UA-34494709-3"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

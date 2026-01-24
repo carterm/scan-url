@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Climate Investments",
   "lastStatus": 200,
-  "finalUrl": "https://www.caclimateinvestments.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -42,8 +41,16 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-2540B90566",
+    "G-701BF8BBC0",
+    "G-C63BF8989A",
+    "G-COLLECTION",
+    "G-F9093F2D52",
+    "G-SQTTDXLFMY",
+    "G-ZCFAH2ENT5"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CAClimateInvest/",
     "https://x.com/CAClimateInvest"

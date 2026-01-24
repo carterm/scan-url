@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Solano Transportation Authority | Safe Routes to School",
   "lastStatus": 200,
-  "finalUrl": "https://solanosr2s.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "Powered by WPBakery Page Builder - drag and drop page builder for WordPress.",
   "responseHeaders": [
     {
@@ -66,8 +66,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-7Q0YPT74S7"
+  ],
   "socialLinks": [
     "https://www.facebook.com/SolanoSR2S/",
     "https://www.instagram.com/solanosr2s/",

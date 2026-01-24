@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Firewood Task Force | Home",
   "lastStatus": 200,
-  "finalUrl": "https://www.firewood.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -26,7 +25,7 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,

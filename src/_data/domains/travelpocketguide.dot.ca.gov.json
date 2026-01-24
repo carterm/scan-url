@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Pocket Travel Guide",
   "lastStatus": 200,
-  "finalUrl": "https://travelpocketguide.dot.ca.gov/public/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -37,9 +36,12 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-21431721-9",
+    "UA-3419582-2"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

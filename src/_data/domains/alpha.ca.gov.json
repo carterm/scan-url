@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Welcome to Alpha.CA.gov",
   "lastStatus": 200,
-  "finalUrl": "https://www.alpha.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -32,10 +31,6 @@
     {
       "name": "vary",
       "value": "accept-encoding"
-    },
-    {
-      "name": "x-amz-cf-pop",
-      "value": "LAX50-P3"
     }
   ],
   "cloudflare": false,
@@ -43,7 +38,10 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-5GGV1QPJD4",
+    "G-69TD0KNT0F"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Commission on Aging - State of California",
   "lastStatus": 200,
-  "finalUrl": "https://www.ccoa.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -56,10 +55,14 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-M8T749HDDC",
+    "UA-21431721-20"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CACommissionOnAging",
     "https://www.linkedin.com/company/cacommissiononaging",

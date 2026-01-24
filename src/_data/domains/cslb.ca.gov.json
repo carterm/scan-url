@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "CSLB-Home -CSLB",
   "lastStatus": 200,
-  "finalUrl": "https://www.cslb.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "access-control-allow-private-network",
@@ -44,10 +43,14 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-1W465E5H9H",
+    "UA-3419582-2",
+    "UA-8901380-1"
+  ],
   "socialLinks": [
     "https://cslb.webex.com/weblink/register/rb203a1e7daf9931c52543834ed64d885",
     "https://www.facebook.com/CSLB.CA?ref=ts",

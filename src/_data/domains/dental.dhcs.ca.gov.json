@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Welcome to the Medi-Cal Dental Program",
   "lastStatus": 200,
-  "finalUrl": "https://www.dental.dhcs.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -69,9 +68,12 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-1CEWEWFPWS",
+    "GTM-KVM7FWB"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

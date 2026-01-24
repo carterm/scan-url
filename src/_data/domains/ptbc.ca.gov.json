@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Physical Therapy Board of California",
   "lastStatus": 200,
-  "finalUrl": "https://www.ptbc.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -53,9 +52,16 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-V6KF16YJFK",
+    "GTM-M683DJB",
+    "GTM-NBQCVZC",
+    "UA-21974567-31",
+    "UA-3419582-2"
+  ],
   "socialLinks": [
     "https://www.facebook.com/PTBCnews",
     "https://twitter.com/PTBCnews",

@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Home | Medical Board of California",
   "lastStatus": 200,
-  "finalUrl": "https://www.mbc.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "access-control-allow-headers",
@@ -79,7 +78,10 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-VZEZFBT2Z2",
+    "GTM-NJ6Q4MV"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Water Watch",
   "lastStatus": 200,
-  "finalUrl": "https://cww.water.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -32,10 +31,12 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-G9NNQTSS8V"
+  ],
   "socialLinks": [
     "https://www.instagram.com/cadepartmentofwaterresources/",
     "https://twitter.com/CA_DWR",

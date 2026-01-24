@@ -6,8 +6,8 @@
   "includeInScan": true,
   "title": "CA Department of Insurance",
   "lastStatus": 200,
-  "finalUrl": "https://www.insurance.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
+  "metaGenerator": "CommonSpot Build 10.9.1.579",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -44,10 +44,14 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-6MLHRYZYQV",
+    "UA-23180855-1",
+    "UA-3419582-2"
+  ],
   "socialLinks": [
     "http://www.facebook.com/insurancecagov",
     "https://www.youtube.com/user/CaDeptOfInsurance",

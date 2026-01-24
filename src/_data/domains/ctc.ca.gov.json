@@ -6,8 +6,8 @@
   "includeInScan": true,
   "title": "California Commission on Teacher Credentialing",
   "lastStatus": 200,
-  "finalUrl": "https://www.ctc.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
+  "metaGenerator": "Sitefinity 13.3.7641.0 PU",
   "responseHeaders": [
     {
       "name": "connection",
@@ -52,10 +52,14 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-8L1GC3E1C3",
+    "UA-3695757-1"
+  ],
   "socialLinks": [
     "http://www.facebook.com/CalCTC",
     "https://www.linkedin.com/company/cal-ctc",

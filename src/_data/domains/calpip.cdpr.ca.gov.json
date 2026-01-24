@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "CalPIP Home - California Pesticide Information Portal",
   "lastStatus": 200,
-  "finalUrl": "https://calpip.cdpr.ca.gov/main.cfm",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -48,10 +47,12 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-PG47TPC"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CaPesticideRegulation",
     "https://x.com/CA_PesticideReg",

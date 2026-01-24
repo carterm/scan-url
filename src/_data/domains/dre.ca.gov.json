@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Department of Real Estate",
   "lastStatus": 200,
-  "finalUrl": "https://www.dre.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-type",
@@ -28,10 +27,12 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-N2491HJ7H9"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CADepartmentofRealEstate",
     "https://twitter.com/CA_DRE",

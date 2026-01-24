@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Home Page | Triple-A Council of California - State of California",
   "lastStatus": 200,
-  "finalUrl": "https://tacc.ccoa.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -56,10 +55,14 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-20973992-12",
+    "UA-21431721-20",
+    "UA-3419582-2"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

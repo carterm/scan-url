@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Log In",
   "lastStatus": 200,
-  "finalUrl": "https://cdlaconline.treasurer.ca.gov/Account/Login.aspx",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -43,7 +42,10 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "UA-1867705-10",
+    "UA-3419582-2"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

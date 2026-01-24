@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Inspector General - California Department of Transportation | IOAI",
   "lastStatus": 200,
-  "finalUrl": "https://ig.dot.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ch",
@@ -32,10 +31,13 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-2E0Z1X4NN2",
+    "G-69TD0KNT0F"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

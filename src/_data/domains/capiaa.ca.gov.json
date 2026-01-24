@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "California Commission on APIA Affairs | Empowering & Elevating AANHPI Communities In California",
   "lastStatus": 200,
-  "finalUrl": "https://capiaa.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
     {
@@ -69,9 +69,16 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-FZL67QR94L",
+    "G-Y7T2KCM7P1",
+    "UA-24087628-35",
+    "UA-3419582-2",
+    "UA-3419582-47"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CommissionAPIA",
     "https://www.instagram.com/commissionapia",

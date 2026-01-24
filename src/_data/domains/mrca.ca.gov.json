@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "MRCA",
   "lastStatus": 200,
-  "finalUrl": "https://mrca.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "WordPress 6.8.3",
   "responseHeaders": [
     {
@@ -39,11 +39,13 @@
     }
   ],
   "cloudflare": false,
-  "slow": false,
-  "hasStatewideAlerts": false,
+  "slow": true,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-1633733-24"
+  ],
   "socialLinks": [
     "https://www.instagram.com/MRCAparks/",
     "https://www.facebook.com/lamountains",

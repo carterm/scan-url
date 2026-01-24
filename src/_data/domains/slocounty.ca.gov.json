@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Home - County of San Luis Obispo",
   "lastStatus": 200,
-  "finalUrl": "https://www.slocounty.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -47,7 +46,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "GTM-PT92XTQ"
+  ],
   "socialLinks": [
     "https://www.facebook.com/SLOCountyGov",
     "https://www.youtube.com/user/slocountygov",

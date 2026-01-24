@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "CDTFA - CA Department of Tax and Fee Administration",
   "lastStatus": 200,
-  "finalUrl": "https://cdtfa.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -48,10 +47,12 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-W42NR96"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CDTFA",
     "https://twitter.com/cdtfa",

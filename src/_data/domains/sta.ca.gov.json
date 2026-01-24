@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Solano Transportation Authority",
   "lastStatus": 200,
-  "finalUrl": "https://sta.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -66,8 +65,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-L9SWKSSW0V"
+  ],
   "socialLinks": [
     "https://www.linkedin.com/company/solano-transportation-authority",
     "https://www.facebook.com/SolanoTransportationAuthority/",

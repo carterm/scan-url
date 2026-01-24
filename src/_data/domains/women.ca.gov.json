@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "CCSWG | California Commission on Status of Women and Girls",
   "lastStatus": 200,
-  "finalUrl": "https://women.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
     {
@@ -80,10 +80,17 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-7YZTFH0G4L",
+    "G-Y7T2KCM7P1",
+    "UA-20973992-29",
+    "UA-3419582-2",
+    "UA-3419582-47"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CCSWG/",
     "https://www.facebook.com/CCSWG/",

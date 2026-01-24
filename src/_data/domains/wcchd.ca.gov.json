@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "West Contra Costa Healthcare District",
   "lastStatus": 200,
-  "finalUrl": "https://wcchd.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "alt-svc",

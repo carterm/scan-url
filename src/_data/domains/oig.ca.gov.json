@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Home - Office of the Inspector General",
   "lastStatus": 200,
-  "finalUrl": "https://www.oig.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "WordPress 6.9",
   "responseHeaders": [
     {
@@ -38,8 +38,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-KRLFFB4"
+  ],
   "socialLinks": [
     "https://www.facebook.com/California-Office-of-the-Inspector-General-2148777195221148/",
     "https://twitter.com/CaliforniaOIG",

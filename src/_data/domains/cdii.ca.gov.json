@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Homepage - CDII",
   "lastStatus": 200,
-  "finalUrl": "https://www.cdii.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "All in One SEO (AIOSEO) 4.9.1.1",
   "responseHeaders": [
     {
@@ -74,8 +74,12 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-G7F3RDGPHQ",
+    "GTM-MSW2ZV4",
+    "UA-1915322-1"
+  ],
   "socialLinks": [
     "https://www.youtube.com/watch?v=qcd-QjIwXGA"
   ],

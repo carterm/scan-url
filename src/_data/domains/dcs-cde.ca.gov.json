@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Diagnostic Center, Southern California",
   "lastStatus": 200,
-  "finalUrl": "https://www.dcs-cde.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -34,8 +33,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-Z7339LS5S2"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Ventura, CA | Official Website",
   "lastStatus": 200,
-  "finalUrl": "https://www.cityofventura.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -46,8 +45,11 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-XWL3SB66NK",
+    "GTM-K73C5PS"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CityofVentura",
     "https://twitter.com/cityofventura",

@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Homepage | California State Senate",
   "lastStatus": 200,
-  "finalUrl": "https://www.senate.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -103,7 +102,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-CRN4TZH1YT"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

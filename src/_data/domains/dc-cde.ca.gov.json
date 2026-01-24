@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Diagnostic Centers - Special Education (CA Dept of Education)",
   "lastStatus": 200,
-  "finalUrl": "https://www.dc-cde.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "Jekyll v3.8.5",
   "responseHeaders": [
     {
@@ -34,7 +34,7 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,

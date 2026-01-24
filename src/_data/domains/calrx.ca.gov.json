@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "CalRx - Making prescription drugs more affordable for Californians",
   "lastStatus": 200,
-  "finalUrl": "https://calrx.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "WordPress 6.9",
   "responseHeaders": [
     {
@@ -34,10 +34,6 @@
       "value": "Accept-Encoding,Cookie"
     },
     {
-      "name": "x-amz-cf-pop",
-      "value": "LAX53-P4"
-    },
-    {
       "name": "x-btcache-served",
       "value": "Yes"
     },
@@ -51,7 +47,10 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-B15ZM3C3NN"
+  ],
   "socialLinks": [
     "https://www.youtube.com/watch?v=cvuytKeHV_8",
     "https://twitter.com/GavinNewsom/status/1545122879649374209",

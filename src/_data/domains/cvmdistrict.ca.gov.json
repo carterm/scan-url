@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Clovis Veterans Memorial District | Clovis, CA",
   "lastStatus": 200,
-  "finalUrl": "https://cvmdistrict.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "Wix.com Website Builder",
   "responseHeaders": [
     {
@@ -59,7 +59,11 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-BACKGROUND",
+    "G-PROVISIONI",
+    "G-TRANSLATIO"
+  ],
   "socialLinks": [
     "https://www.instagram.com/cvmdistrict",
     "https://www.facebook.com/cvmdistrict",

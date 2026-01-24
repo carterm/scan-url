@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Public Advocates Office",
   "lastStatus": 200,
-  "finalUrl": "https://www.publicadvocates.cpuc.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ch",
@@ -43,7 +42,10 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-SXHD1QGZTZ",
+    "UA-1915322-1"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CaliforniaPUC",
     "https://x.com/californiapuc",

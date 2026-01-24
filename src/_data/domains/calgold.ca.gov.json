@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "CalGold | CalGold v2 - Permit Assistance Tool",
   "lastStatus": 200,
-  "finalUrl": "https://www.calgold.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -37,9 +36,11 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-ZZ3YHMBCMQ"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CAGOBiz/",
     "https://twitter.com/CAGoBiz?ref_src=twsrc%5Etfw",

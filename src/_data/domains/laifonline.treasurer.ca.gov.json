@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Log in - LAIF Application",
   "lastStatus": 200,
-  "finalUrl": "https://laifonline.treasurer.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -50,8 +49,11 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-1867705-11",
+    "UA-3419582-2"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

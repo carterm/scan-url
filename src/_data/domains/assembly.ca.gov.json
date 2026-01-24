@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Welcome to the California State Assembly | California State Assembly",
   "lastStatus": 200,
-  "finalUrl": "https://www.assembly.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -95,7 +94,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-4D0PPGX2BH"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

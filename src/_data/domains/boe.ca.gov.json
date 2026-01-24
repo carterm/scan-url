@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California State Board of Equalization Homepage",
   "lastStatus": 200,
-  "finalUrl": "https://boe.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -52,10 +51,13 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-XH0RG68L1S"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CABoardOfEqualization",
     "https://twitter.com/CA_BOE_News",

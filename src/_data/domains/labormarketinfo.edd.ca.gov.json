@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "EDD Labor Market Information Division - Home Page",
   "lastStatus": 200,
-  "finalUrl": "https://labormarketinfo.edd.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -45,9 +44,13 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-ZQ9HCV9HTL",
+    "GTM-KKXR5S9",
+    "UA-3419582-31"
+  ],
   "socialLinks": [
     "https://www.facebook.com/californiaedd/",
     "https://twitter.com/CA_EDD",

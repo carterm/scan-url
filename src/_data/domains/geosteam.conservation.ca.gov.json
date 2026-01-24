@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Geothermal Well Search",
   "lastStatus": 200,
-  "finalUrl": "https://geosteam.conservation.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -38,8 +37,13 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-N4MB98DBXY",
+    "UA-3419582-2",
+    "UA-34494709-5"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

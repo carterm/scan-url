@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Home Page | Mono County California",
   "lastStatus": 200,
-  "finalUrl": "https://www.monocounty.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -59,7 +58,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "UA-22821328-1"
+  ],
   "socialLinks": [
     "https://www.facebook.com/countyofmono/",
     "https://www.instagram.com/monocountyofficial/",

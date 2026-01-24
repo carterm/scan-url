@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Transportation Commission | CTC",
   "lastStatus": 200,
-  "finalUrl": "https://catc.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ch",
@@ -32,10 +31,14 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-37E6VKG1R5",
+    "G-69TD0KNT0F",
+    "UA-21970760-33"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CATransportationCommission/",
     "https://twitter.com/California_CTC",

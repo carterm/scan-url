@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "California Volunteers | California Volunteers",
   "lastStatus": 200,
-  "finalUrl": "https://www.californiavolunteers.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
     {
@@ -69,9 +69,16 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-T935JFYNE2",
+    "G-Y7T2KCM7P1",
+    "UA-23110710-36",
+    "UA-3419582-2",
+    "UA-3419582-47"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CaliforniaVolunteers/",
     "https://www.tiktok.com/@californiavolunteers",

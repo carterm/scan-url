@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "California Supreme Court Committee on Judicial Ethics Opinions - CJEO",
   "lastStatus": 200,
-  "finalUrl": "https://www.judicialethicsopinions.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "All in One SEO (AIOSEO) 4.4.8",
   "responseHeaders": [
     {
@@ -50,7 +50,7 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [
     "https://www.youtube.com/watch?v=95OvVDvOd9U",

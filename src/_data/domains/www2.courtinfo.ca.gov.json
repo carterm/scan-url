@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Court News",
   "lastStatus": 200,
-  "finalUrl": "https://www2.courtinfo.ca.gov/ccn/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -38,7 +37,7 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,

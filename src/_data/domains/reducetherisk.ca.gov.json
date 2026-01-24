@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Reduce the Risk |",
   "lastStatus": 200,
-  "finalUrl": "https://www.reducetherisk.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.0",
   "responseHeaders": [
     {
@@ -45,9 +45,13 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "GTM-P3ZTL3M",
+    "UA-3419582-2"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

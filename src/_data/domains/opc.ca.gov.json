@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "- California Ocean Protection Council",
   "lastStatus": 200,
-  "finalUrl": "https://www.opc.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "Site Kit by Google 1.168.0",
   "responseHeaders": [
     {
@@ -36,10 +36,14 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-M2BQ3XS",
+    "UA-3419582-2",
+    "UA-59627195-2"
+  ],
   "socialLinks": [
     "http://www.facebook.com/OceanProtectionCouncil",
     "https://twitter.com/OPC_California",

@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "BARS",
   "lastStatus": 200,
-  "finalUrl": "https://www.bars.technology.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",

@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "State Controller's Office CPA Directory Service (CPADS)",
   "lastStatus": 200,
-  "finalUrl": "https://cpads.sco.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-type",
@@ -31,7 +30,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "GTM-MWCXZTZ"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

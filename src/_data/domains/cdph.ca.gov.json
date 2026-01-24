@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "CDPH Home",
   "lastStatus": 200,
-  "finalUrl": "https://www.cdph.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -56,10 +55,13 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-RESPONSIVE",
+    "GTM-KVN6ZCB"
+  ],
   "socialLinks": [
     "https://instagram.com/capublichealth/",
     "https://www.facebook.com/CAPublicHealth",

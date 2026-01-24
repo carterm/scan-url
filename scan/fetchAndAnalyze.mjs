@@ -113,6 +113,7 @@ export async function fetchAndAnalyze(url) {
   });
 
   const start = performance.now();
+  let duration = 0;
   // Let fetch handle redirects automatically
   /** @type {import("undici").Response} */
   let res;
@@ -128,7 +129,7 @@ export async function fetchAndAnalyze(url) {
     return domainRecord;
   } finally {
     const end = performance.now();
-    const duration = Math.round((end - start) / 1000);
+    duration = Math.round((end - start) / 1000);
     //console.log(`Fetching ${url} took ${duration} S`);
   }
 
@@ -168,6 +169,21 @@ export async function fetchAndAnalyze(url) {
 
   const doc = dom.window.document;
 
+  let redirectURL = doc.URL !== url ? doc.URL : undefined;
+  if (redirectURL?.startsWith("https://login.microsoftonline.com")) {
+    redirectURL = "[login.microsoftonline.com]";
+  }
+  if (redirectURL?.startsWith(url)) {
+    //remove the host in redirect if it matches target
+    redirectURL = redirectURL.replace(url, "/");
+  }
+  domainRecord.finalUrl = redirectURL ?? "";
+
+  const scripts = [...doc.scripts]
+    .map(x => x.src)
+    .filter(x => x)
+    .map(x => new URL(x, res.url).href);
+
   domainRecord.title =
     (doc.title?.trim().length
       ? doc.title.trim()
@@ -183,9 +199,28 @@ export async function fetchAndAnalyze(url) {
             doc.head.querySelector('meta[name="description" i]')
         )?.content) || "";
 
-  domainRecord.metaGenerator =
-    doc.querySelector('meta[name="generator"]')?.getAttribute("content") ||
-    null;
+  domainRecord.metaGenerator = /** @type {HTMLMetaElement} */ (
+    doc.head.querySelector("meta[name=generator i]")
+  )?.content;
+
+  domainRecord.hasStatewideAlerts = scripts.some(x =>
+    x.includes("alert.cdt.ca.gov")
+  );
+
+  domainRecord.usesStateTemplate = scripts.some(
+    x => x.includes("cagov.core") || x.includes("caweb-core")
+  );
+
+  domainRecord.hasJQuery = scripts.some(x => x.includes("jquery"));
+
+  const code = [...doc.scripts].map(x => `${x.text};${x.src}`).join(";");
+  const GA = /GTM-\w{7}|G-\w{10}|UA-\d{7,8}-\d{1,2}/gim;
+
+  domainRecord.googleAnalytics = [
+    ...new Set(code.toUpperCase().match(GA))
+  ].sort();
+
+  domainRecord.slow = duration >= 5;
 
   // Social links
   const SOCIAL_DOMAINS = [

@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "California Earthquake Early Warning – California Earthquake Early Warning Information",
   "lastStatus": 200,
-  "finalUrl": "https://www.earthquake.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.0",
   "responseHeaders": [
     {
@@ -37,9 +37,13 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-4NK0NC7W6K",
+    "G-69TD0KNT0F",
+    "UA-3419582-2"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

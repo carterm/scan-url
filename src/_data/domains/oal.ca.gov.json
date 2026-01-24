@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "OAL | Office of Administrative Law",
   "lastStatus": 200,
-  "finalUrl": "https://oal.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
     {
@@ -68,10 +68,17 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-3LCY3X8048",
+    "G-69TD0KNT0F",
+    "G-Y7T2KCM7P1",
+    "UA-20973992-16",
+    "UA-3419582-2",
+    "UA-3419582-47"
+  ],
   "socialLinks": [
     "https://www.youtube.com/watch?v=mjMEF_DRFto&t=2s",
     "https://www.youtube.com/watch?v=Eau_FQAhjVQ",

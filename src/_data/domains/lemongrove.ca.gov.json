@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Home | Lemon Grove",
   "lastStatus": 200,
-  "finalUrl": "https://www.lemongrove.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -50,8 +49,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-STQ0986EH9"
+  ],
   "socialLinks": [
     "https://www.facebook.com/cityoflemongrove/",
     "https://www.instagram.com/cityoflemongrove/?utm_source=ig_embed&utm_campaign=loading",

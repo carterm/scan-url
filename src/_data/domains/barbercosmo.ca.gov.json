@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Board of Barbering and Cosmetology",
   "lastStatus": 200,
-  "finalUrl": "https://www.barbercosmo.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -53,9 +52,16 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-8SW7CC7X25",
+    "GTM-M683DJB",
+    "GTM-NBQCVZC",
+    "UA-3419582-2",
+    "UA-64276560-3"
+  ],
   "socialLinks": [
     "https://www.facebook.com/people/California-State-Board-of-Barbering-and-Cosmetology/100068869178078/",
     "https://x.com/CA_BBC",

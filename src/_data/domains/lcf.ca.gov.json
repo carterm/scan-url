@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "City of La Cañada Flintridge",
   "lastStatus": 200,
-  "finalUrl": "https://lcf.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "All in One SEO (AIOSEO) 4.9.3",
   "responseHeaders": [
     {
@@ -54,8 +54,11 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-4WZC2R9V15",
+    "G-COMMISSION"
+  ],
   "socialLinks": [
     "https://www.facebook.com/cityoflacanadaflintridge",
     "https://twitter.com/theCityofLCF",

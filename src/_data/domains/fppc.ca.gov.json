@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "FPPC Home",
   "lastStatus": 200,
-  "finalUrl": "https://www.fppc.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -47,7 +46,11 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-1V1D6GRFKL",
+    "UA-22860881-1",
+    "UA-3419582-2"
+  ],
   "socialLinks": [
     "https://twitter.com/CA_FPPC",
     "https://www.youtube.com/user/CAFPPC/videos"

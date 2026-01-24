@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Department of Pesticide Regulation Electronic Transfer System",
   "lastStatus": 200,
-  "finalUrl": "https://ets.cdpr.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",

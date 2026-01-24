@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "California State Independent Living Council | To create policy and systems change for independent living.",
   "lastStatus": 200,
-  "finalUrl": "https://calsilc.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
     {
@@ -69,9 +69,16 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-9RWNEXS0MN",
+    "G-Y7T2KCM7P1",
+    "UA-21970760-45",
+    "UA-3419582-2",
+    "UA-3419582-47"
+  ],
   "socialLinks": [
     "https://www.facebook.com/California-SILC-679554488792946/",
     "https://twitter.com/CalSILC"

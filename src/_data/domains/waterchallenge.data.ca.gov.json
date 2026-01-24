@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "CA Water Data Challenge |",
   "lastStatus": 200,
-  "finalUrl": "https://waterchallenge.data.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
     {
@@ -69,9 +69,16 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-Y5H6H10KWM",
+    "G-Y7T2KCM7P1",
+    "UA-23110710-31",
+    "UA-3419582-2",
+    "UA-3419582-47"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

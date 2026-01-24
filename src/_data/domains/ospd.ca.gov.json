@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Home - Office of the State Public Defender",
   "lastStatus": 200,
-  "finalUrl": "https://www.ospd.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "WordPress 6.8.3",
   "responseHeaders": [
     {
@@ -69,8 +69,8 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": true,

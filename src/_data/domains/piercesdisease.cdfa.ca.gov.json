@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "CDFA - Pierce's Disease Research Updates",
   "lastStatus": 200,
-  "finalUrl": "https://piercesdisease.cdfa.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-type",
@@ -29,9 +28,11 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-W4BKPB7"
+  ],
   "socialLinks": [
     "https://www.facebook.com/California-Department-of-Food-and-Agriculture-83888787230/",
     "https://twitter.com/CDFANews",

@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Homepage Quincy Fire Protection District",
   "lastStatus": 200,
-  "finalUrl": "https://qfd.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",

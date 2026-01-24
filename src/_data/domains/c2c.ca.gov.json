@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Cradle-to-Career Data System | C2C",
   "lastStatus": 200,
-  "finalUrl": "https://c2c.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "alt-svc",
@@ -63,7 +62,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "GTM-P7T6C5S"
+  ],
   "socialLinks": [
     "https://www.linkedin.com/company/ca-cradle-to-career/",
     "https://www.facebook.com/CaliforniaC2C",

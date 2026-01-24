@@ -6,9 +6,12 @@
   "includeInScan": true,
   "title": "Division of Boating and Waterways",
   "lastStatus": 200,
-  "finalUrl": "https://dbw.parks.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
     {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
@@ -26,6 +29,10 @@
       "value": "chunked"
     },
     {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
       "name": "x-powered-by",
       "value": "ASP.NET"
     }
@@ -34,8 +41,11 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-NQRMQVQ7T5",
+    "UA-3419582-2"
+  ],
   "socialLinks": [
     "https://www.facebook.com/BoatCA",
     "https://twitter.com/boat_california",

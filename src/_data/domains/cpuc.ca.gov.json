@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Public Utilities Commission",
   "lastStatus": 200,
-  "finalUrl": "https://www.cpuc.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ch",
@@ -42,8 +41,11 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-LM6T7RGC27",
+    "UA-1915322-1"
+  ],
   "socialLinks": [
     "https://x.com/californiapuc",
     "https://www.facebook.com/CaliforniaPUC",

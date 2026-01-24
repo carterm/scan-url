@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Escrow Activity Reporting System - DRE",
   "lastStatus": 200,
-  "finalUrl": "https://ears.dre.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-type",
@@ -38,7 +37,7 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": true,

@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Architects Board",
   "lastStatus": 200,
-  "finalUrl": "https://www.cab.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -53,9 +52,12 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-R5WKN67L3M"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CaliforniaArchitectsBoard/",
     "https://www.instagram.com/caarchitectsboard/",

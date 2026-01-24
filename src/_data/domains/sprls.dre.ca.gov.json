@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Subdivision Public Reports Lookup System",
   "lastStatus": 200,
-  "finalUrl": "https://sprls.dre.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-type",
@@ -25,8 +24,8 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": true,

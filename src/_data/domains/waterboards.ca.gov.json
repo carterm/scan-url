@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Home Page | California State Water Resources Control Board",
   "lastStatus": 200,
-  "finalUrl": "https://www.waterboards.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -56,10 +55,15 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-C2B09DREVM",
+    "GTM-5PXRWRP",
+    "UA-3419582-2",
+    "UA-5950478-1"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CaliforniaWaterBoards",
     "https://www.linkedin.com/company/state-water-resources-control-board",

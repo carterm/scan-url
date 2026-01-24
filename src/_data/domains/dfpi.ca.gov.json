@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "DFPI - The Department of Financial Protection and Innovation",
   "lastStatus": 200,
-  "finalUrl": "https://dfpi.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "DFPI Divi Child Theme v.1.0.0",
   "responseHeaders": [
     {
@@ -70,8 +70,12 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-LDV6PXRQJZ",
+    "GTM-PLCHW6B",
+    "UA-1915322-1"
+  ],
   "socialLinks": [
     "https://twitter.com/CaliforniaDFPI",
     "https://www.facebook.com/CaliforniaDFPI",

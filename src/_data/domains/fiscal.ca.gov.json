@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "FI$Cal - State of California|",
   "lastStatus": 200,
-  "finalUrl": "https://fiscal.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "Divi Child v.3.11.1.1533591462",
   "responseHeaders": [
     {
@@ -60,10 +60,13 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-5TVLDSK",
+    "UA-3419582-2"
+  ],
   "socialLinks": [
     "https://twitter.com/calfiscal",
     "https://www.linkedin.com/company/fi-cal-project",

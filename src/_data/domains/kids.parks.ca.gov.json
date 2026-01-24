@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Kids in Parks",
   "lastStatus": 200,
-  "finalUrl": "https://kids.parks.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -42,8 +41,11 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-NQRMQVQ7T5",
+    "UA-3419582-2"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CaliforniaStateParks",
     "https://twitter.com/CAStateParks",

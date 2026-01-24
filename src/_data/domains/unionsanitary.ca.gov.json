@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Home - Union Sanitary District | Serving Fremont, Newark and Union City, California.",
   "lastStatus": 200,
-  "finalUrl": "https://unionsanitary.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "WordPress 6.9",
   "responseHeaders": [
     {
@@ -54,8 +54,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-0Z2KMBBLH5"
+  ],
   "socialLinks": [
     "https://twitter.com/usdtweets",
     "https://www.linkedin.com/company/union-sanitary-district",

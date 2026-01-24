@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "California State Summer School for the Arts",
   "lastStatus": 200,
-  "finalUrl": "https://www.csssa.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "Site Kit by Google 1.170.0",
   "responseHeaders": [
     {
@@ -38,8 +38,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-ANNOUNCEME"
+  ],
   "socialLinks": [
     "https://www.facebook.com/csssa",
     "https://www.instagram.com/csssa_schoolforthearts/",

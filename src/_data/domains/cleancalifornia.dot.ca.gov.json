@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "CleanCalifornia | Caltrans",
   "lastStatus": 200,
-  "finalUrl": "https://cleancalifornia.dot.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ch",
@@ -32,10 +31,14 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-KSEZWYWEFM",
+    "UA-21431721-46"
+  ],
   "socialLinks": [
     "https://www.facebook.com/rivercitywaterwayalliance/events",
     "https://twitter.com/hashtag/CleanWaterCA?src=hash&ref_src=twsrc%5Etfw",

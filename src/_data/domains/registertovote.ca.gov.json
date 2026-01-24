@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Online Voter Registration | California Secretary of State :: California Secretary of State",
   "lastStatus": 200,
-  "finalUrl": "https://registertovote.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",

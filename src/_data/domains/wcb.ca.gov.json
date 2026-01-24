@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Wildlife Conservation Board Home Page",
   "lastStatus": 200,
-  "finalUrl": "https://wcb.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -49,9 +48,11 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-K4YTKJ2W16"
+  ],
   "socialLinks": [
     "https://www.instagram.com/wildlifeconservationboard/",
     "https://www.facebook.com/WildlifeConservationBoard/",

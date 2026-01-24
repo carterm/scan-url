@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Department of State Hospitals",
   "lastStatus": 200,
-  "finalUrl": "https://www.dsh.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -32,10 +31,12 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-P37W8DW"
+  ],
   "socialLinks": [
     "https://www.facebook.com/pages/California-Department-of-State-Hospitals/308247659303315",
     "https://x.com/ca_dsh",

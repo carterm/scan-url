@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Office of Land Use and Climate Innovation",
   "lastStatus": 200,
-  "finalUrl": "https://www.lci.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -32,10 +31,13 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-K9SCBG6G33"
+  ],
   "socialLinks": [
     "https://www.youtube.com/channel/UCTBmAaS7WDxOcyjo85dcXtA",
     "https://www.instagram.com/cal.lci/profilecard/?igsh=NTc4MTIwNjQ2YQ%3D%3D",

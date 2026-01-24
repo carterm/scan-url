@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Home - California Public Employment Relations Board",
   "lastStatus": 200,
-  "finalUrl": "https://perb.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.2a",
   "responseHeaders": [
     {
@@ -49,9 +49,14 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-R38HHXY4X2",
+    "UA-21970760-41",
+    "UA-3419582-2"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

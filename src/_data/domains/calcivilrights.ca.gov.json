@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "CRD | Civil Rights Department",
   "lastStatus": 200,
-  "finalUrl": "https://calcivilrights.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
     {
@@ -80,10 +80,16 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-DMYWEFRNDX",
+    "G-Y7T2KCM7P1",
+    "UA-3419582-2",
+    "UA-3419582-47"
+  ],
   "socialLinks": [
     "https://www.facebook.com/people/California-Civil-Rights-Department/100064821877500/",
     "https://www.instagram.com/calcivilrights/",

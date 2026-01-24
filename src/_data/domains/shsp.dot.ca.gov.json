@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Caltrans | SHSP - Home",
   "lastStatus": 200,
-  "finalUrl": "https://shsp.dot.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -49,9 +48,12 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-WLDEF7NZZ2",
+    "GTM-NJ6Q4MV"
+  ],
   "socialLinks": [
     "http://www.facebook.com/CaltransHQ",
     "https://twitter.com/CaltransHQ?ref_src=twsrc%5Etfw"

@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Tehama County Public Works",
   "lastStatus": 200,
-  "finalUrl": "https://tcpw.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "WordPress 6.9",
   "responseHeaders": [
     {
@@ -39,7 +39,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-XYLMZ67JYC"
+  ],
   "socialLinks": [
     "https://www.facebook.com/TehamaCountyPublicWorks",
     "https://www.facebook.com/TehamaCountyPublicWorks",

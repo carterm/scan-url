@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "",
   "lastStatus": 200,
-  "finalUrl": "https://www.caljobs.ca.gov/vosnet/default.aspx",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",

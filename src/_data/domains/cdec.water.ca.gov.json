@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Data Exchange Center",
   "lastStatus": 200,
-  "finalUrl": "https://cdec.water.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -40,10 +39,13 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-QMSMYVM1J1",
+    "UA-3419582-2"
+  ],
   "socialLinks": [
     "http://www.youtube.com/watch?v=LSWStigJv_8=youtu.be",
     "https://www.facebook.com/events/237760683008593/",

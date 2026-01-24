@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Public Awareness and Safety Programs |San Francisco Bay Area",
   "lastStatus": 200,
-  "finalUrl": "https://ncric.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "WordPress 6.8.3",
   "responseHeaders": [
     {
@@ -58,7 +58,7 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [
     "https://twitter.com/NCRIC_HIDTA",

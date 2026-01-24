@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "OTA | Office of Tax Appeals",
   "lastStatus": 200,
-  "finalUrl": "https://ota.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
     {
@@ -69,9 +69,16 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-QP0XXEMY9P",
+    "G-Y7T2KCM7P1",
+    "UA-21970760-34",
+    "UA-3419582-2",
+    "UA-3419582-47"
+  ],
   "socialLinks": [
     "https://www.youtube.com/channel/UC2XtdzHbxxJCfom6rLutcmA",
     "https://www.linkedin.com/company/office-of-tax-appeals/",

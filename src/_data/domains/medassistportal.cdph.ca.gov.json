@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "CDPH",
   "lastStatus": 200,
-  "finalUrl": "https://medassistportal.cdph.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",

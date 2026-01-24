@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Water Commission",
   "lastStatus": 200,
-  "finalUrl": "https://cwc.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ch",
@@ -52,10 +51,12 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-KZVRVN6"
+  ],
   "socialLinks": [
     "https://www.facebook.com/profile.php?id=61567162603983",
     "https://twitter.com/CA_WaterCom",

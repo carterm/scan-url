@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Sierra County, CA - Official Website | Official Website",
   "lastStatus": 200,
-  "finalUrl": "https://www.sierracounty.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -38,8 +37,11 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-N28VLH4GMZ",
+    "GTM-K73C5PS"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

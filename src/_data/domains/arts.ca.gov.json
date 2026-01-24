@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Home Page - California Arts Council",
   "lastStatus": 200,
-  "finalUrl": "https://arts.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "WordPress 6.8.2",
   "responseHeaders": [
     {
@@ -58,8 +58,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-YMHBQ8PVF6"
+  ],
   "socialLinks": [
     "https://www.facebook.com/californiaartscouncil?ref=ts",
     "https://twitter.com/calartscouncil",

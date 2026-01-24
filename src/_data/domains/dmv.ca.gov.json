@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California DMV",
   "lastStatus": 200,
-  "finalUrl": "https://www.dmv.ca.gov/portal/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "access-control-allow-origin",
@@ -31,7 +30,7 @@
     },
     {
       "name": "on-ws",
-      "value": "prd2"
+      "value": "prd1"
     },
     {
       "name": "p3p",
@@ -54,10 +53,6 @@
       "value": "Cookie"
     },
     {
-      "name": "x-amz-cf-pop",
-      "value": "LAX54-P11"
-    },
-    {
       "name": "x-elasticpress-query",
       "value": "true"
     },
@@ -71,7 +66,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "GTM-KHCVGH4"
+  ],
   "socialLinks": [
     "https://youtube.com/watch?v=M0KVcHQtU18",
     "https://youtube.com/watch?v=CMc-SIvuKi0",

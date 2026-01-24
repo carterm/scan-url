@@ -6,8 +6,8 @@
   "includeInScan": true,
   "title": "Home | The Heber Public Utility District",
   "lastStatus": 200,
-  "finalUrl": "https://www.heber.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
+  "metaGenerator": "Drupal 8 (https://www.drupal.org)",
   "responseHeaders": [
     {
       "name": "content-encoding",

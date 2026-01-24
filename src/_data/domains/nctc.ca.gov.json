@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Nevada County Transportation Commission - Home",
   "lastStatus": 200,
-  "finalUrl": "https://www.nctc.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -30,8 +29,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-507R801X2W"
+  ],
   "socialLinks": [
     "https://www.facebook.com/Nevada-County-Transportation-Commission-1598091307119278/timeline/"
   ],

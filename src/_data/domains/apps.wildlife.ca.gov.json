@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Apps - California Department of Fish and Wildlife",
   "lastStatus": 200,
-  "finalUrl": "https://apps.wildlife.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -37,9 +36,12 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
+  "usesStateTemplate": true,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-2N4E4MK3J8",
+    "GTM-NJ6Q4MV"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

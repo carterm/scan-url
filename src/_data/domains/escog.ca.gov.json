@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "EASTERN SIERRA COUNCIL OF GOVERNMENTS JOINT POWERS AUTHORITY",
   "lastStatus": 200,
-  "finalUrl": "https://escog.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -47,7 +46,15 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-5CGC3ET1CB",
+    "G-701BF8BBC0",
+    "G-819AA7D562",
+    "G-ALTERNATIN",
+    "G-C63BF8989A",
+    "G-COLLECTION",
+    "G-F9093F2D52"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

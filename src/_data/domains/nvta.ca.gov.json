@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Home - NVTA",
   "lastStatus": 200,
-  "finalUrl": "https://nvta.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -50,7 +49,7 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [
     "https://www.youtube.com/watch?v=zFCI5czbs9U",

@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Monterey Park, CA - Official Website | Official Website",
   "lastStatus": 200,
-  "finalUrl": "https://www.montereypark.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -38,8 +37,12 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-4YGXQ16LXK",
+    "GTM-K73C5PS",
+    "UA-83428977-1"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CityofMontereyPark",
     "https://x.com/CityofMPK",

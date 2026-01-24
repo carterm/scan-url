@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Home | MyWaterQuality",
   "lastStatus": 200,
-  "finalUrl": "https://www.mywaterquality.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -45,9 +44,11 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-V9VPD8TNV4"
+  ],
   "socialLinks": [
     "https://www.facebook.com/cawqmc/",
     "https://www.instagram.com/ca.wqmc/",

@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Postmile Services",
   "lastStatus": 200,
-  "finalUrl": "https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -29,9 +28,12 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-21431721-9",
+    "UA-3419582-2"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

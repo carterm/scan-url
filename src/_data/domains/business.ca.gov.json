@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "California Governor’s Office of Business and Economic Development (GO-Biz)",
   "lastStatus": 200,
-  "finalUrl": "https://business.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.5.2a",
   "responseHeaders": [
     {
@@ -38,8 +38,11 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-ZYTZPSRY9P",
+    "GTM-NNRL3QT"
+  ],
   "socialLinks": [
     "https://www.youtube.com/@CAGOBiz",
     "https://x.com/CAGoBiz",

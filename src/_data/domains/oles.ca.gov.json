@@ -6,8 +6,8 @@
   "includeInScan": true,
   "title": "Office of Law Enforcement Support - State of California",
   "lastStatus": 200,
-  "finalUrl": "https://www.oles.ca.gov/",
-  "metaGenerator": "WordPress 6.9",
+  "finalUrl": "",
+  "metaGenerator": "Microsoft SharePoint",
   "responseHeaders": [
     {
       "name": "connection",
@@ -64,10 +64,12 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-83937323-1"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Welcome - California Open Data",
   "lastStatus": 200,
-  "finalUrl": "https://data.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "ckan 2.9.11",
   "responseHeaders": [
     {
@@ -48,10 +48,14 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-1VQT1C4PTE",
+    "G-YZK8JCN4R2",
+    "GTM-TKCM6M7"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

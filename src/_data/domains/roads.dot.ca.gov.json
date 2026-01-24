@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Division of Traffic Operations - Road Information - California Highway Information",
   "lastStatus": 200,
-  "finalUrl": "https://roads.dot.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -29,8 +28,8 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,

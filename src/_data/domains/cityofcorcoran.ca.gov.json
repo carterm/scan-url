@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Corcoran, Ca",
   "lastStatus": 200,
-  "finalUrl": "https://cityofcorcoran.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -50,7 +49,7 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [
     "https://www.facebook.com/sharer/sharer.php?u=http://cityofcorcoran.ca.gov/",

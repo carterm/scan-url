@@ -6,8 +6,8 @@
   "includeInScan": true,
   "title": "Metropolitan Transportation Commission | MTC is the transportation planning, financing and coordinating agency for the nine-county San Francisco Bay Area.",
   "lastStatus": 200,
-  "finalUrl": "https://mtc.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
+  "metaGenerator": "Drupal 10 (https://www.drupal.org)",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -71,7 +71,11 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-875ZLGCEXJ",
+    "G-JA30TM2_8L",
+    "GTM-55J6L25"
+  ],
   "socialLinks": [
     "https://www.linkedin.com/company/metropolitan-transportation-commission",
     "https://www.facebook.com/MTCBATA",

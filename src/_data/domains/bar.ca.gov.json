@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Home page - Bureau of Automotive Repair",
   "lastStatus": 200,
-  "finalUrl": "https://www.bar.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "access-control-allow-private-network",
@@ -45,9 +44,11 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-2RE0XT2L0F"
+  ],
   "socialLinks": [
     "https://www.facebook.com/BureauofAutomotiveRepair",
     "https://x.com/BARinfo",

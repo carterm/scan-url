@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "CWDB | California Workforce Development Board",
   "lastStatus": 200,
-  "finalUrl": "https://cwdb.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
     {
@@ -68,10 +68,16 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-TQ5Q6K3P3K",
+    "G-Y7T2KCM7P1",
+    "UA-3419582-2",
+    "UA-3419582-47"
+  ],
   "socialLinks": [
     "https://www.facebook.com/California-Workforce-Development-Board",
     "https://www.instagram.com/ca_workforcedev/",

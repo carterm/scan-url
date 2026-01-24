@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "LISTSERV - LISTSERV Archives - LISTSERV.STATE.CA.GOV",
   "lastStatus": 200,
-  "finalUrl": "https://listserv.state.ca.gov/wa.exe?INDEX",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -42,7 +41,7 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,

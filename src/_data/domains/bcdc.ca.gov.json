@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "SF Bay Conservation & Development |",
   "lastStatus": 200,
-  "finalUrl": "https://www.bcdc.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
     {
@@ -47,7 +47,11 @@
     },
     {
       "name": "vary",
-      "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding"
+      "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
+    },
+    {
+      "name": "x-cache-enabled",
+      "value": "False"
     },
     {
       "name": "x-cache-group",
@@ -55,7 +59,7 @@
     },
     {
       "name": "x-cacheable",
-      "value": "NO:Private"
+      "value": "SHORT"
     },
     {
       "name": "x-content-type-options",
@@ -81,9 +85,15 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-659EB2TT61",
+    "G-69TD0KNT0F",
+    "G-Y7T2KCM7P1",
+    "UA-3419582-2",
+    "UA-3419582-47"
+  ],
   "socialLinks": [
     "https://www.instagram.com/sf_bcdc",
     "https://www.linkedin.com/company/sfbcdc",

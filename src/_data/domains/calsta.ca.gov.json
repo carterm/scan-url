@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California State Transportation Agency | CalSTA",
   "lastStatus": 200,
-  "finalUrl": "https://calsta.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ch",
@@ -32,10 +31,13 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-8PZ3KQXET8"
+  ],
   "socialLinks": [
     "https://twitter.com/CA_Trans_Agency",
     "https://www.youtube.com/@CalStateTransportationAgency",

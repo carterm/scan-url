@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "California Statewide Wildfire Recovery Resources |",
   "lastStatus": 200,
-  "finalUrl": "https://www.wildfirerecovery.caloes.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.0",
   "responseHeaders": [
     {
@@ -36,10 +36,14 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-TS7HJEYWFP",
+    "UA-3419582-2"
+  ],
   "socialLinks": [
     "https://twitter.com/Cal_OES?ref_src=twsrc%5Etfw",
     "https://www.facebook.com/CaliforniaOES",

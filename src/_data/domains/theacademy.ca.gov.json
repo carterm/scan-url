@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Home - The Academy",
   "lastStatus": 200,
-  "finalUrl": "https://theacademy.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -102,8 +101,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-TC6WLH8"
+  ],
   "socialLinks": [
     "http://www.facebook.com/SBRPSTC",
     "http://www.twitter.com/SBRPSTC",

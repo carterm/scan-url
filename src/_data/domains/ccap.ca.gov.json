@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Cannabis Control Appeals Panel",
   "lastStatus": 200,
-  "finalUrl": "https://www.ccap.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -52,10 +51,17 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-HCFGD3JTY2",
+    "GTM-M683DJB",
+    "GTM-NBQCVZC",
+    "UA-21974567-34",
+    "UA-3419582-2"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

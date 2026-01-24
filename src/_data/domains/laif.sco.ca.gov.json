@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "State Controller's Office - Local Agency Investment Fund - Home",
   "lastStatus": 200,
-  "finalUrl": "https://laif.sco.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -48,10 +47,12 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-PQHTQRV"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CAController",
     "https://www.instagram.com/californiacontroller/",

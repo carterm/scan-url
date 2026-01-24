@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "",
   "lastStatus": 200,
-  "finalUrl": "https://myturn.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -35,7 +34,11 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-RJPGSHNVCG",
+    "GTM-5THG92K",
+    "GTM-WC8N8KN"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

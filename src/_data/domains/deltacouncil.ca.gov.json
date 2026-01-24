@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Delta Stewardship Council",
   "lastStatus": 200,
-  "finalUrl": "https://www.deltacouncil.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-type",
@@ -25,9 +24,11 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-J0HKBXFMWX"
+  ],
   "socialLinks": [
     "https://twitter.com/deltacouncil",
     "https://www.instagram.com/deltastewardshipcouncil/",

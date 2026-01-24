@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "California Conservation Corps",
   "lastStatus": 200,
-  "finalUrl": "https://ccc.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CCC Divi Child Theme v.1.0.1",
   "responseHeaders": [
     {
@@ -18,8 +18,11 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-9B8C5EW31B",
+    "UA-1915322-1"
+  ],
   "socialLinks": [
     "https://www.facebook.com/californiaconservationcorps/",
     "https://www.youtube.com/user/caconservationcorps/",

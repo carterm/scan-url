@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Department of Finance",
   "lastStatus": 200,
-  "finalUrl": "https://dof.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -28,10 +27,13 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-2LNG7V2TGM",
+    "GTM-NJ6Q4MV"
+  ],
   "socialLinks": [
     "https://twitter.com/HDatFinance",
     "https://www.youtube.com/@californiadepartmentoffina6442",

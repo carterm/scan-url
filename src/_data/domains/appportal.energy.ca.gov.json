@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Log in - California Energy Commission",
   "lastStatus": 200,
-  "finalUrl": "https://appportal.energy.ca.gov/Account/Login",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -41,8 +40,8 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [
     "http://www.facebook.com/CAEnergy/",

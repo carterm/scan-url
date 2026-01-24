@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Shasta Regional Transportation Agency, CA | Official Website",
   "lastStatus": 200,
-  "finalUrl": "https://www.srta.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -38,8 +37,11 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-C30T9L4XG7",
+    "GTM-K73C5PS"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

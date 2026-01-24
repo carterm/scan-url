@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Exposition Park – Welcome",
   "lastStatus": 200,
-  "finalUrl": "https://expositionpark.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "Site Kit by Google 1.167.0",
   "responseHeaders": [
     {
@@ -39,11 +39,14 @@
     }
   ],
   "cloudflare": false,
-  "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "slow": true,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-3419582-2",
+    "UA-59627195-10"
+  ],
   "socialLinks": [
     "https://www.instagram.com/ExpositionParkLA/",
     "https://www.tiktok.com/@expositionparkla?_t=8oQukM6KVXa&_r=1"

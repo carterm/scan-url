@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Welcome - California Acupuncture Board",
   "lastStatus": 200,
-  "finalUrl": "https://www.acupuncture.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -54,8 +53,13 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-CGS7Z07GXJ",
+    "GTM-NBQCVZC",
+    "UA-64276560-1"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

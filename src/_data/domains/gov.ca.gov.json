@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Governor of California",
   "lastStatus": 200,
-  "finalUrl": "https://www.gov.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
     {
@@ -68,10 +68,18 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-2G5GML7PQ6",
+    "G-69TD0KNT0F",
+    "G-Y7T2KCM7P1",
+    "GTM-TP25MN7",
+    "UA-3419582-2",
+    "UA-3419582-28",
+    "UA-3419582-47"
+  ],
   "socialLinks": [
     "https://www.instagram.com/reel/DS2-EPbEjpb/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D",
     "https://x.com/CAgovernor/status/1993038090886160754?s=20",

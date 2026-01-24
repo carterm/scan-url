@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Bureau of Real Estate Appraisers",
   "lastStatus": 200,
-  "finalUrl": "https://www.brea.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -55,7 +54,10 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "UA-22544255-17",
+    "UA-3419582-2"
+  ],
   "socialLinks": [
     "https://www.facebook.com/Bureau-of-Real-Estate-Appraisers-1788727484694167/",
     "https://twitter.com/CaliforniaBREA/"

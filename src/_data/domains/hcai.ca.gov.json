@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "HCAI - Department of Health Care Access and Information",
   "lastStatus": 200,
-  "finalUrl": "https://hcai.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -52,9 +51,9 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [
     "https://www.facebook.com/CaliforniaHCAI",

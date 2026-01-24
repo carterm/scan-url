@@ -6,8 +6,8 @@
   "includeInScan": true,
   "title": "Home | Superior Court of California | County of Inyo",
   "lastStatus": 200,
-  "finalUrl": "https://www.inyo.courts.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
+  "metaGenerator": "Drupal 9 (https://www.drupal.org)",
   "responseHeaders": [
     {
       "name": "accept-ranges",

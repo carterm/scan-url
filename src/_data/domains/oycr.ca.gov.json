@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "OYCR - Office of Youth and Community Restoration",
   "lastStatus": 200,
-  "finalUrl": "https://oycr.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
     {
@@ -81,9 +81,16 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-7ND7ZHXVPG",
+    "G-Y7T2KCM7P1",
+    "GTM-WWXFNGG",
+    "UA-3419582-2",
+    "UA-3419582-47"
+  ],
   "socialLinks": [
     "https://www.facebook.com/caloycr",
     "https://www.instagram.com/cal_oycr/",

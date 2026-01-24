@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Cal eProcure",
   "lastStatus": 200,
-  "finalUrl": "https://caleprocure.ca.gov/pages/index.aspx",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -34,8 +33,11 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-WTBNSTN",
+    "UA-3419582-2"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

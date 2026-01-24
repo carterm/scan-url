@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "State of California - Department of Justice - Office of the Attorney General",
   "lastStatus": 200,
-  "finalUrl": "https://www.oag.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "Drupal 7 (http://drupal.org)",
   "responseHeaders": [
     {
@@ -62,8 +62,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-6SNZMLLM7F"
+  ],
   "socialLinks": [
     "https://www.facebook.com/AGRobBonta",
     "https://twitter.com/AGRobBonta",

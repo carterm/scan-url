@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Interactive Broadband Map",
   "lastStatus": 200,
-  "finalUrl": "https://www.broadbandmap.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",

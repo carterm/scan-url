@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Office of Student Assistance and Relief",
   "lastStatus": 200,
-  "finalUrl": "https://www.osar.bppe.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -53,9 +52,16 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-D0ME26CM0R",
+    "GTM-M683DJB",
+    "GTM-NBQCVZC",
+    "UA-3419582-2",
+    "UA-64276560-41"
+  ],
   "socialLinks": [
     "https://www.facebook.com/TheCalOSAR",
     "https://twitter.com/TheCalOSAR",

@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Ojai, CA | Official Website",
   "lastStatus": 200,
-  "finalUrl": "https://www.ojai.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -34,8 +33,11 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-2WPLDT68FY",
+    "GTM-K73C5PS"
+  ],
   "socialLinks": [
     "https://www.facebook.com/cityofojai",
     "https://twitter.com/cityofojai",

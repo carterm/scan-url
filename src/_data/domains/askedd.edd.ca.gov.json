@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "AskEDD",
   "lastStatus": 200,
-  "finalUrl": "https://askedd.edd.ca.gov/s/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -59,7 +58,10 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-P1RJ1L0W4D",
+    "GTM-MCW7ZGX"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

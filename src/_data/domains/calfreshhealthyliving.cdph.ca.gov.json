@@ -6,8 +6,8 @@
   "includeInScan": true,
   "title": "Home",
   "lastStatus": 200,
-  "finalUrl": "https://calfreshhealthyliving.cdph.ca.gov/en/Pages/default.aspx",
-  "metaGenerator": null,
+  "finalUrl": "",
+  "metaGenerator": "Microsoft SharePoint",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -27,7 +27,7 @@
     },
     {
       "name": "spiislatency",
-      "value": "1"
+      "value": "0"
     },
     {
       "name": "vary",
@@ -55,7 +55,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "GTM-KVN6ZCB"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CalFreshHealthyLiving",
     "https://www.instagram.com/calfreshhealthyliving",

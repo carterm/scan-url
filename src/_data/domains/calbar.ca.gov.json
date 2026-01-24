@@ -6,8 +6,8 @@
   "includeInScan": true,
   "title": "Home | The State Bar of California",
   "lastStatus": 200,
-  "finalUrl": "https://www.calbar.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
+  "metaGenerator": "Drupal 11 (https://www.drupal.org)",
   "responseHeaders": [
     {
       "name": "connection",
@@ -70,8 +70,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-CT3SHXYGSG"
+  ],
   "socialLinks": [
     "https://www.facebook.com/StateBarofCA",
     "https://x.com/statebarca",

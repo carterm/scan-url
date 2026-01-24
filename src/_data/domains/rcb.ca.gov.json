@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Respiratory Care Board of California",
   "lastStatus": 200,
-  "finalUrl": "https://www.rcb.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -53,9 +52,16 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-05Q6QKZSH6",
+    "G-69TD0KNT0F",
+    "GTM-M683DJB",
+    "GTM-NBQCVZC",
+    "UA-3419582-2",
+    "UA-64276560-24"
+  ],
   "socialLinks": [
     "https://www.facebook.com/profile.php?id=61572759632137",
     "https://www.linkedin.com/company/respiratory-care-board-of-california",

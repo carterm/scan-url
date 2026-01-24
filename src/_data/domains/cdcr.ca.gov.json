@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Department of Corrections and Rehabilitation - CDCR",
   "lastStatus": 200,
-  "finalUrl": "https://www.cdcr.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "alt-svc",
@@ -63,7 +62,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "GTM-WWJWHL4"
+  ],
   "socialLinks": [
     "https://www.facebook.com/cacorrections/",
     "https://twitter.com/CACorrections",

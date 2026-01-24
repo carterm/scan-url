@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Transportation Authority of Marin",
   "lastStatus": 200,
-  "finalUrl": "https://www.tam.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "Powered by WPBakery Page Builder - drag and drop page builder for WordPress.",
   "responseHeaders": [
     {
@@ -70,8 +70,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-9DDJ0T3LZS"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

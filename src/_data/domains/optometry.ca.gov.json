@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Welcome to the Board of Optometry Web Site - State of California",
   "lastStatus": 200,
-  "finalUrl": "https://www.optometry.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -54,8 +53,12 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-4178EX5G7R",
+    "G-69TD0KNT0F",
+    "UA-64276560-15"
+  ],
   "socialLinks": [
     "https://www.facebook.com/pages/CA-State-Board-of-Optometry/166179506807589",
     "https://x.com/CAOptometry",

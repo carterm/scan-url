@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Delta Conservancy – Welcome",
   "lastStatus": 200,
-  "finalUrl": "https://deltaconservancy.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "Site Kit by Google 1.168.0",
   "responseHeaders": [
     {
@@ -39,11 +39,13 @@
     }
   ],
   "cloudflare": false,
-  "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "slow": true,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-34GCW1F9KH"
+  ],
   "socialLinks": [
     "https://www.youtube.com/channel/UCaOu3enYckyNnGQo0OrPhfw",
     "https://www.facebook.com/deltaconservancy/",

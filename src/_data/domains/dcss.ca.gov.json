@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Dept. Child Support Services - Information about Child Support Services",
   "lastStatus": 200,
-  "finalUrl": "https://dcss.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
     {
@@ -68,10 +68,16 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-5433YW1BYG",
+    "G-69TD0KNT0F",
+    "G-Y7T2KCM7P1",
+    "UA-3419582-2",
+    "UA-3419582-47"
+  ],
   "socialLinks": [
     "https://www.youtube.com/user/CAChildSupport",
     "https://www.linkedin.com/company/california-department-of-child-support-services/",

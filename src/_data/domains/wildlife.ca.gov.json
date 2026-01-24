@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Department of Fish and Wildlife Home Page",
   "lastStatus": 200,
-  "finalUrl": "https://wildlife.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-type",
@@ -49,9 +48,12 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-00TTOCYLYL",
+    "G-CMRV390FF9"
+  ],
   "socialLinks": [
     "https://www.youtube.com/user/CaliforniaDFG"
   ],

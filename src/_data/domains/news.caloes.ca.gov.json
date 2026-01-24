@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Cal OES News | NEWSROOM | Multimedia | California Governor's Office of Emergency Services",
   "lastStatus": 200,
-  "finalUrl": "https://www.news.caloes.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.0",
   "responseHeaders": [
     {
@@ -37,9 +37,13 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "GTM-PDD4LL4",
+    "UA-3419582-2"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CaliforniaOES",
     "https://www.instagram.com/cal_oes",

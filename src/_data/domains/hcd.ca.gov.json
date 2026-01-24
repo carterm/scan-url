@@ -6,8 +6,8 @@
   "includeInScan": true,
   "title": "California Department of Housing and Community Development | California Department of Housing and Community Development",
   "lastStatus": 200,
-  "finalUrl": "https://www.hcd.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
+  "metaGenerator": "Drupal 10 (https://www.drupal.org)",
   "responseHeaders": [
     {
       "name": "connection",
@@ -64,10 +64,13 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-5SNF3QP",
+    "GTM-NKB5FR7"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CaliforniaHCD",
     "https://twitter.com/California_HCD",

@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "California Infrastructure and Economic Development Bank (IBank)",
   "lastStatus": 200,
-  "finalUrl": "https://www.ibank.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.5.2a",
   "responseHeaders": [
     {
@@ -62,8 +62,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-SMHZVBEWVK"
+  ],
   "socialLinks": [
     "https://www.facebook.com/IBankCA/",
     "https://twitter.com/IBankCA",

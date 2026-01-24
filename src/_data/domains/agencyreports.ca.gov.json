@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Search for Agency Reports | California Agency Reports",
   "lastStatus": 200,
-  "finalUrl": "https://agencyreports.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",

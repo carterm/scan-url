@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Legislative Information",
   "lastStatus": 200,
-  "finalUrl": "https://leginfo.legislature.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",

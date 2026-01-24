@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Coastal Commission",
   "lastStatus": 200,
-  "finalUrl": "https://www.coastal.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "access-control-allow-origin",
@@ -36,10 +35,13 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-38DMPFK630",
+    "G-69TD0KNT0F"
+  ],
   "socialLinks": [
     "https://www.youtube.com/playlist?list=PLhOALIlMeKQ51x8PXbD1Wk6rpzhYdWHmG",
     "https://www.youtube.com/playlist?list=PLhOALIlMeKQ51x8PXbD1Wk6rpzhYdWHmG",

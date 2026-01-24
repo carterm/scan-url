@@ -6,8 +6,8 @@
   "includeInScan": true,
   "title": "Pinyon Pines County Water District",
   "lastStatus": 200,
-  "finalUrl": "https://www.pinyonpinescwd.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
+  "metaGenerator": "Serif WebPlus Starter Edition   (3.0.0.005)",
   "responseHeaders": [
     {
       "name": "accept-ranges",

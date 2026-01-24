@@ -6,8 +6,8 @@
   "includeInScan": true,
   "title": "Front Page | California Courts Newsroom",
   "lastStatus": 200,
-  "finalUrl": "https://newsroom.courts.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
+  "metaGenerator": "Drupal 9 (https://www.drupal.org)",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -63,7 +63,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-97ALDYA3VI"
+  ],
   "socialLinks": [
     "https://www.youtube.com/watch?v=VC7OPZ6izmk",
     "https://www.youtube.com/user/CaliforniaCourts",

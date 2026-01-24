@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "CSD Riverside",
   "lastStatus": 200,
-  "finalUrl": "https://www.csdr-cde.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -34,8 +33,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-KM0EBRSG3J"
+  ],
   "socialLinks": [
     "https://www.instagram.com/CSDRiverside/",
     "http://www.facebook.com/CSDRiverside",

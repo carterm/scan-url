@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Track Prop 30/Prop 55",
   "lastStatus": 200,
-  "finalUrl": "https://trackprop55.sco.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-type",
@@ -30,8 +29,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-T2X7CVX"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

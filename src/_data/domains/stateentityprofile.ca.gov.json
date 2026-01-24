@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "CA.GOV State Entity Profile - CA.GOV State Entity Profile",
   "lastStatus": 200,
-  "finalUrl": "https://www.stateentityprofile.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -57,8 +56,8 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": true,

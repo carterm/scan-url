@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Home Page - California Student Aid Commission",
   "lastStatus": 200,
-  "finalUrl": "https://www.cash4college.csac.ca.gov/",
-  "metaGenerator": "Webflow",
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -73,9 +72,12 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-20973992-20",
+    "UA-3419582-2"
+  ],
   "socialLinks": [
     "https://www.youtube.com/watch?v=z1-g-dfZX30",
     "https://www.youtube.com/user/CaStudentAid",

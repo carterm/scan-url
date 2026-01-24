@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Tahoe Conservancy |",
   "lastStatus": 200,
-  "finalUrl": "https://tahoe.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
     {
@@ -69,9 +69,16 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-7BTW7KMW8E",
+    "G-Y7T2KCM7P1",
+    "UA-21970760-38",
+    "UA-3419582-2",
+    "UA-3419582-47"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CaliforniaTahoeConservancy/",
     "https://www.instagram.com/california_tahoe_conservancy/",

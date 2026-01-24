@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Department of Cannabis Control",
   "lastStatus": 200,
-  "finalUrl": "https://www.cannabis.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "access-control-allow-origin",
@@ -75,7 +74,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-LABORATORI"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CACannabisDept",
     "https://twitter.com/CACannabisDept",

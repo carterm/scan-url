@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Seismic Safety Commission |",
   "lastStatus": 200,
-  "finalUrl": "https://www.ssc.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.0",
   "responseHeaders": [
     {
@@ -36,10 +36,14 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-TSWFKMRXC5",
+    "UA-3419582-2"
+  ],
   "socialLinks": [
     "https://www.youtube.com/watch?v=qhDdzHae4Rc",
     "http://www.youtube.com/watch?feature=player_embedded&v=V8D0jR0EaW8",

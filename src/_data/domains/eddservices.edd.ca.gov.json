@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Employer Services Online",
   "lastStatus": 200,
-  "finalUrl": "https://eddservices.edd.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",

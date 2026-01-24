@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Homepage Sacramento Metropolitan Fire District",
   "lastStatus": 200,
-  "finalUrl": "https://metrofire.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",

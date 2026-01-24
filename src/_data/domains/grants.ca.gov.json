@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Home - California Grants Portal",
   "lastStatus": 200,
-  "finalUrl": "https://www.grants.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -38,10 +37,6 @@
       "value": "Cookie"
     },
     {
-      "name": "x-amz-cf-pop",
-      "value": "LAX54-P11"
-    },
-    {
       "name": "x-btcache-served",
       "value": "Yes"
     },
@@ -58,8 +53,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-WFDBH54"
+  ],
   "socialLinks": [
     "https://www.linkedin.com/company/ca-grants-portal/",
     "https://x.com/CAGrantsPortal",

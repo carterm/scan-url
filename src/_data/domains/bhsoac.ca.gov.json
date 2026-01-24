@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Behavioral Health Services Oversight & Accountability Commission (BHSOAC) - State of California",
   "lastStatus": 200,
-  "finalUrl": "https://bhsoac.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.5.1",
   "responseHeaders": [
     {
@@ -50,8 +50,12 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-2S4WQ2SDZ6",
+    "G-5L308BQ8BW",
+    "UA-12799586-1"
+  ],
   "socialLinks": [
     "https://facebook.com/californiacbh",
     "https://x.com/californiacbh",

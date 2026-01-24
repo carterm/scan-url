@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Business, Consumer Services and Housing Agency",
   "lastStatus": 200,
-  "finalUrl": "https://www.bcsh.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -52,10 +51,17 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-E4Q2NW6P5W",
+    "GTM-M683DJB",
+    "GTM-NBQCVZC",
+    "UA-3419582-2",
+    "UA-64276560-31"
+  ],
   "socialLinks": [
     "https://www.facebook.com/BCSHAgency",
     "https://twitter.com/CAbcsh"

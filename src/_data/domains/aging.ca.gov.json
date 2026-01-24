@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Home Page | California Department of Aging - State of California",
   "lastStatus": 200,
-  "finalUrl": "https://www.aging.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -56,10 +55,14 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-WSL365RZCF",
+    "UA-21431721-20"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CaliforniaAging/",
     "https://www.instagram.com/cal_aging/",

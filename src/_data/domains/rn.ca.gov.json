@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Board of Registered Nursing",
   "lastStatus": 200,
-  "finalUrl": "https://www.rn.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -53,9 +52,16 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-FBDG3R1ZL6",
+    "GTM-M683DJB",
+    "GTM-NBQCVZC",
+    "UA-3419582-2",
+    "UA-64276560-23"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CA.BRN",
     "https://www.instagram.com/the_ca_brn/",

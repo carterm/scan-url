@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Home | California Dept. of Social Services",
   "lastStatus": 200,
-  "finalUrl": "https://www.cdss.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-type",
@@ -33,9 +32,12 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-6Y5ZSHSWZE",
+    "UA-77698819-4"
+  ],
   "socialLinks": [
     "https://www.youtube.com/watch?feature=shared&v=opg52FxKoSo",
     "https://www.youtube.com/watch?feature=shared&v=O7j7ut0_FKI",

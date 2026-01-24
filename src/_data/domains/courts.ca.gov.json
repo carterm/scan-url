@@ -6,8 +6,8 @@
   "includeInScan": true,
   "title": "California Courts - Home | Judicial Branch of California",
   "lastStatus": 200,
-  "finalUrl": "https://courts.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
+  "metaGenerator": "Drupal 9 (https://www.drupal.org)",
   "responseHeaders": [
     {
       "name": "accept-ranges",

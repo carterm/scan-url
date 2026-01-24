@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "CalVCB - CA Victim Compensation Board",
   "lastStatus": 200,
-  "finalUrl": "https://victims.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "WordPress 6.8.3",
   "responseHeaders": [
     {
@@ -38,10 +38,6 @@
       "value": "Cookie"
     },
     {
-      "name": "x-amz-cf-pop",
-      "value": "SFO53-P7"
-    },
-    {
       "name": "x-content-type-options",
       "value": "nosniff"
     },
@@ -52,10 +48,13 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-1P41D0CKTV",
+    "GTM-MZBJ9DW"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CaliforniaVictimCompensationBoard/",
     "https://twitter.com/helpingvictims",

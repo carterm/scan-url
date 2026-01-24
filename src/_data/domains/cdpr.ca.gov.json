@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Home Page - Department of Pesticide Regulation",
   "lastStatus": 200,
-  "finalUrl": "https://www.cdpr.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "WordPress 6.9",
   "responseHeaders": [
     {
@@ -57,9 +57,11 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
+  "usesStateTemplate": true,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "GTM-PG47TPC"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CaPesticideRegulation",
     "https://x.com/CA_PesticideReg",

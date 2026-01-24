@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "CalCareers",
   "lastStatus": 200,
-  "finalUrl": "https://calcareers.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -36,10 +35,15 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-1ZWR8CFVKV",
+    "G-69TD0KNT0F",
+    "G-B3UPD2PRSI",
+    "G-GVMXP4J73D"
+  ],
   "socialLinks": [
     "https://www.facebook.com/jobscagov-1397099267001434/?view_public_for=1397099267001434",
     "https://twitter.com/CalHR_gov",

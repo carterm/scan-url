@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Landscape Architects Technical Committee",
   "lastStatus": 200,
-  "finalUrl": "https://www.latc.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -53,9 +52,16 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-PG8SJMY8J6",
+    "GTM-M683DJB",
+    "GTM-NBQCVZC",
+    "UA-3419582-2",
+    "UA-64276560-12"
+  ],
   "socialLinks": [
     "https://www.instagram.com/ca_latc/?hl=en",
     "https://www.linkedin.com/company/landscape-architects-technical-committee",

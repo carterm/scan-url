@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Personnel Authorization System (PAS)",
   "lastStatus": 200,
-  "finalUrl": "https://pasapi.technology.ca.gov/index.html",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",

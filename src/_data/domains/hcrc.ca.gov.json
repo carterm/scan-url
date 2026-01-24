@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Habeas Corpus Resource Center (HCRC)",
   "lastStatus": 200,
-  "finalUrl": "https://www.hcrc.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "alt-svc",
@@ -49,9 +48,11 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
+  "usesStateTemplate": true,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "UA-20973992-30"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

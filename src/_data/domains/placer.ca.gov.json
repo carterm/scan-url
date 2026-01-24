@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Placer County, CA | Official Website",
   "lastStatus": 200,
-  "finalUrl": "https://www.placer.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -46,8 +45,12 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-5CJ5XHZRX6",
+    "GTM-K73C5PS",
+    "UA-1464228-1"
+  ],
   "socialLinks": [
     "https://www.youtube.com/placercountygov",
     "https://www.facebook.com/pages/Placer-County-California/348887075624",

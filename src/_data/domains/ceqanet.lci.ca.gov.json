@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "CEQAnet",
   "lastStatus": 200,
-  "finalUrl": "https://ceqanet.lci.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "access-control-allow-headers",
@@ -77,9 +76,11 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-4BWDLL1JK4"
+  ],
   "socialLinks": [
     "https://twitter.com/cagovernment",
     "https://www.youtube.com/user/californiagovernment"

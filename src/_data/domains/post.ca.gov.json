@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Home",
   "lastStatus": 200,
-  "finalUrl": "https://post.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -58,8 +57,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-K1FLBGKCQ9"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CaliforniaPOST",
     "https://www.youtube.com/user/CaliforniaPOST/",

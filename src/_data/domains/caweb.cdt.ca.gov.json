@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "CAWeb | The CAWeb Publishing Support site",
   "lastStatus": 200,
-  "finalUrl": "https://caweb.cdt.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
     {
@@ -68,10 +68,17 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-JM9XN48M0M",
+    "G-Y7T2KCM7P1",
+    "UA-31125811-32",
+    "UA-3419582-2",
+    "UA-3419582-47"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

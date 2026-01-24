@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Board of Vocational Nursing & Psychiatric Technicians",
   "lastStatus": 200,
-  "finalUrl": "https://www.bvnpt.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -53,9 +52,16 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-HTB5XLD158",
+    "GTM-M683DJB",
+    "GTM-NBQCVZC",
+    "UA-3419582-2",
+    "UA-64276560-29"
+  ],
   "socialLinks": [
     "https://www.youtube.com/watch?v=8q-6Cw9ukGk&t=1s",
     "https://twitter.com/CABVNPT",

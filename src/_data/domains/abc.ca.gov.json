@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Alcoholic Beverage Control | Trust - Innovation - Professionalism",
   "lastStatus": 200,
-  "finalUrl": "https://www.abc.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.1.4b",
   "responseHeaders": [
     {
@@ -64,10 +64,15 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-DCG7L67NBP",
+    "UA-24087628-11",
+    "UA-3419582-2"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CaliforniaABC",
     "https://twitter.com/ca_abc",

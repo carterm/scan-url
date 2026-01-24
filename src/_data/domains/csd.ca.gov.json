@@ -6,8 +6,8 @@
   "includeInScan": true,
   "title": "Home",
   "lastStatus": 200,
-  "finalUrl": "https://www.csd.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
+  "metaGenerator": "Microsoft SharePoint",
   "responseHeaders": [
     {
       "name": "connection",
@@ -64,10 +64,13 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-HK7CWSQCBM"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CaliforniaDepartmentOfCommunityServicesDevelopment",
     "https://twitter.com/ca_csd"

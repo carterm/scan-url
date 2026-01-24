@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Department of Consumer Affairs Professional Fiduciaries Bureau",
   "lastStatus": 200,
-  "finalUrl": "https://www.fiduciary.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -53,9 +52,12 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-M683DJB",
+    "GTM-NBQCVZC"
+  ],
   "socialLinks": [
     "https://www.facebook.com/California-Professional-Fiduciaries-Bureau-281715915342772/",
     "https://twitter.com/FiduciaryBureau"

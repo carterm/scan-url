@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Office of Traffic Safety | The California Office of Traffic Safety’s mission is to administer traffic safety grant funds to reduce traffic deaths, injuries, and economic losses.",
   "lastStatus": 200,
-  "finalUrl": "https://www.ots.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
     {
@@ -68,10 +68,17 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-1PS9L6E2RE",
+    "G-69TD0KNT0F",
+    "G-Y7T2KCM7P1",
+    "UA-20973992-23",
+    "UA-3419582-2",
+    "UA-3419582-47"
+  ],
   "socialLinks": [
     "https://www.instagram.com/p/DSne_1Ik-p9/",
     "https://www.instagram.com/p/DSd1f8PDJDn/",

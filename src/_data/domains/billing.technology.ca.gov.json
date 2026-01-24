@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Login",
   "lastStatus": 200,
-  "finalUrl": "https://billing.technology.ca.gov/login.aspx",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -39,7 +38,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "UA-3419582-2"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

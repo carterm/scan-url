@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Board of Occupational Therapy",
   "lastStatus": 200,
-  "finalUrl": "https://www.bot.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -53,9 +52,16 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-VWTHLSTC7N",
+    "GTM-M683DJB",
+    "GTM-NBQCVZC",
+    "UA-3419582-2",
+    "UA-64276560-14"
+  ],
   "socialLinks": [
     "https://www.facebook.com/occupationaltherapy.board",
     "https://twitter.com/California_BOT",

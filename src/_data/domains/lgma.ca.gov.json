@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "California Leafy Greens Marketing Agreement | Home Page",
   "lastStatus": 200,
-  "finalUrl": "https://lgma.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "SEOmatic",
   "responseHeaders": [
     {
@@ -66,8 +66,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-1545484-20"
+  ],
   "socialLinks": [
     "https://twitter.com/LGMAnews",
     "https://www.facebook.com/calgma",

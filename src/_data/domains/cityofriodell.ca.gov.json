@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Rio Dell, CA | Official Website",
   "lastStatus": 200,
-  "finalUrl": "https://www.cityofriodell.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -42,8 +41,11 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-G175W7V1CX",
+    "GTM-K73C5PS"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

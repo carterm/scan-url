@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Yolo County Housing Authority",
   "lastStatus": 200,
-  "finalUrl": "https://www.ych.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "Powered by LayerSlider 7.1.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress.",
   "responseHeaders": [
     {
@@ -66,8 +66,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-CY5VGQ3JWN"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Homepage Granada Community Services District",
   "lastStatus": 200,
-  "finalUrl": "https://granada.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",

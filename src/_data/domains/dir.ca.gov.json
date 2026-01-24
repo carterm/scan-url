@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Department of Industrial Relations - Home Page",
   "lastStatus": 200,
-  "finalUrl": "https://www.dir.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -36,10 +35,17 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-75V2BNQ3DR",
+    "G-9C30LB4KFJ",
+    "UA-3419582-2",
+    "UA-3419582-30",
+    "UA-5092920-1"
+  ],
   "socialLinks": [
     "https://www.linkedin.com/company/californiadir",
     "https://www.facebook.com/CaliforniaDIR",

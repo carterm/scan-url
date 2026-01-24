@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Disaster Management Area C",
   "lastStatus": 200,
-  "finalUrl": "https://www.dmac.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -30,7 +29,7 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,

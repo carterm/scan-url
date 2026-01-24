@@ -6,8 +6,8 @@
   "includeInScan": true,
   "title": "California Department of Conservation",
   "lastStatus": 200,
-  "finalUrl": "https://www.conservation.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
+  "metaGenerator": "Microsoft SharePoint",
   "responseHeaders": [
     {
       "name": "connection",
@@ -65,9 +65,13 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-N4MB98DBXY",
+    "UA-34494709-1"
+  ],
   "socialLinks": [
     "https://www.facebook.com/calconservation",
     "https://twitter.com/CalConservation",

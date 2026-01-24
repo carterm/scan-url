@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Welcome to the California Commission on Uniform State Laws Web site | CALIFORNIA COMMISSION ON UNIFORM STATE LAWS",
   "lastStatus": 200,
-  "finalUrl": "https://ccusl.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",

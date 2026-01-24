@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Horse Racing Board",
   "lastStatus": 200,
-  "finalUrl": "https://www.chrb.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-type",
@@ -25,9 +24,11 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-5Z5BS440DZ"
+  ],
   "socialLinks": [
     "https://www.facebook.com/cachrb",
     "http://twitter.com/cachrb",

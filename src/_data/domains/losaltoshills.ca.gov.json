@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Los Altos Hills, CA | Official Website",
   "lastStatus": 200,
-  "finalUrl": "https://www.losaltoshills.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -38,8 +37,11 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-B31D08W17S",
+    "GTM-K73C5PS"
+  ],
   "socialLinks": [
     "https://www.linkedin.com/company/town-of-los-altos-hills/posts/?feedView=all"
   ],

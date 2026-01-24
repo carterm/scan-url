@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "You are being redirected...",
   "lastStatus": 307,
-  "finalUrl": "https://cwds.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "alt-svc",

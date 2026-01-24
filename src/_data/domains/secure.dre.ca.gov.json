@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Welcome to the California Department of Real Estate eLicensing System - DRE",
   "lastStatus": 200,
-  "finalUrl": "https://secure.dre.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-type",
@@ -26,8 +25,12 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-5GPR0BKX57",
+    "UA-19741714-1",
+    "UA-3419582-2"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

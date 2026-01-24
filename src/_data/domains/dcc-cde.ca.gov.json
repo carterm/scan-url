@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Diagnostic Center, Central California (DCC)",
   "lastStatus": 200,
-  "finalUrl": "https://www.dcc-cde.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -34,8 +33,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-DMB73EY1PT"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

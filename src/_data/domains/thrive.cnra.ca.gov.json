@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Thrive @ Resources – Supporting the People Who Power California’s Natural Resources",
   "lastStatus": 200,
-  "finalUrl": "https://thrive.cnra.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "Site Kit by Google 1.168.0",
   "responseHeaders": [
     {
@@ -36,10 +36,12 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-DC4ZM50NEC"
+  ],
   "socialLinks": [
     "https://twitter.com/CalNatResources/",
     "https://twitter.com/intent/user?screen_name=CalNatResources",

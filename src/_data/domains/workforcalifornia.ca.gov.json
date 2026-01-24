@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Work for California",
   "lastStatus": 200,
-  "finalUrl": "https://www.workforcalifornia.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "blazor-enhanced-nav",
@@ -60,10 +59,12 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-H7MX86HSXW"
+  ],
   "socialLinks": [
     "https://www.youtube.com/embed/b6dR-2tDORY",
     "https://www.youtube.com/embed/Ba__zQWsz6w",

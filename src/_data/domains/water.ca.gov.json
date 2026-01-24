@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Department Of Water Resources",
   "lastStatus": 200,
-  "finalUrl": "https://water.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ch",
@@ -52,10 +51,12 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-KK6DT3F"
+  ],
   "socialLinks": [
     "https://www.youtube.com/user/calwater",
     "https://www.facebook.com/CADWR",

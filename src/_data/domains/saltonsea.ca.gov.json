@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Salton Sea Management Program",
   "lastStatus": 200,
-  "finalUrl": "https://saltonsea.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "Site Kit by Google 1.168.0",
   "responseHeaders": [
     {
@@ -60,10 +60,13 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-3419582-2",
+    "UA-59627195-7"
+  ],
   "socialLinks": [
     "https://www.instagram.com/thesaltonsea/",
     "https://twitter.com/CalNatResources",

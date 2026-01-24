@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "State Personnel Board",
   "lastStatus": 200,
-  "finalUrl": "https://www.spb.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -32,10 +31,14 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-7PSLJD4L8Y",
+    "UA-21431721-16",
+    "UA-3419582-2"
+  ],
   "socialLinks": [
     "https://spb-meetings.webex.com/spb-meetings/j.php?MTID=ma0f04d731497527b1984c1d69e8dac71",
     "https://www.facebook.com/pages/California-State-Personnel-Board/128278377197549",

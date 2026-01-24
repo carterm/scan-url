@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Hello Savings!",
   "lastStatus": 200,
-  "finalUrl": "https://hellosavings.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -38,8 +37,13 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-HTYPNEVXNL",
+    "UA-15934248-11",
+    "UA-1915322-13",
+    "UA-23611081-1"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

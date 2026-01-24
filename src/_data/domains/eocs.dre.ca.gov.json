@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Enforcement Online Complaints",
   "lastStatus": 200,
-  "finalUrl": "https://eocs.dre.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-type",
@@ -30,7 +29,7 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": true,

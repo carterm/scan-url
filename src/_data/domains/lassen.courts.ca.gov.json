@@ -6,8 +6,8 @@
   "includeInScan": true,
   "title": "Home | Superior Court of California | County of Lassen",
   "lastStatus": 200,
-  "finalUrl": "https://www.lassen.courts.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
+  "metaGenerator": "Drupal 9 (https://www.drupal.org)",
   "responseHeaders": [
     {
       "name": "accept-ranges",

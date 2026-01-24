@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "California Film Commission | State of California",
   "lastStatus": 200,
-  "finalUrl": "https://film.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.5.2a",
   "responseHeaders": [
     {
@@ -66,8 +66,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-JDMK21MWQ4"
+  ],
   "socialLinks": [
     "https://www.facebook.com/californiafilmcommission/",
     "https://twitter.com/FilmCalifornia",

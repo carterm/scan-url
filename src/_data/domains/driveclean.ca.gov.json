@@ -6,8 +6,8 @@
   "includeInScan": true,
   "title": "DriveClean | Clean Car Buying Guide",
   "lastStatus": 200,
-  "finalUrl": "https://driveclean.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
+  "metaGenerator": "Drupal 10 (https://www.drupal.org)",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -59,7 +59,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-K1QKLZJMS0"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

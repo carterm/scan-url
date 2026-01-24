@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "California Office of the Small Business Advocate (CalOSBA)",
   "lastStatus": 200,
-  "finalUrl": "https://www.calosba.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.5.2a",
   "responseHeaders": [
     {
@@ -42,8 +42,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-2KMN5NQW5J"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CaliforniaOSBA/",
     "https://twitter.com/californiaosba",

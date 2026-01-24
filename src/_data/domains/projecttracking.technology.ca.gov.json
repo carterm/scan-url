@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "IT Project Tracking - California Department of Technology - State of California - California Department of Technology - State of California",
   "lastStatus": 200,
-  "finalUrl": "https://www.projecttracking.technology.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -41,9 +40,11 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-20973992-32"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Coachella Valley Mountain Conservancy – Our mission is to protect the natural and cultural resources of the Coachella Valley",
   "lastStatus": 200,
-  "finalUrl": "https://cvmc.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "Site Kit by Google 1.168.0",
   "responseHeaders": [
     {
@@ -40,8 +40,8 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
   "hasJQuery": false,
   "googleAnalytics": [],
   "socialLinks": [],

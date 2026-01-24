@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "First 5 California - Improving Lives of California's Children and Families",
   "lastStatus": 200,
-  "finalUrl": "https://www.first5.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -32,10 +31,12 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-ZPMNSRN8SN"
+  ],
   "socialLinks": [
     "https://www.facebook.com/first5california",
     "https://twitter.com/First5CA",

@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "SCO: Home",
   "lastStatus": 200,
-  "finalUrl": "https://www.sco.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-type",
@@ -28,10 +27,12 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "GTM-5D5F2SV"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CAController",
     "https://www.instagram.com/californiacontroller/",

@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "State Treasurer's Office",
   "lastStatus": 200,
-  "finalUrl": "https://www.treasurer.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -36,10 +35,13 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-1867705-1",
+    "UA-3419582-2"
+  ],
   "socialLinks": [
     "https://www.facebook.com/pages/California-State-Treasurers-Office/356962197807214",
     "https://twitter.com/CalTreasurer",

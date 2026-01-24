@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Homepage South Placer Municipal Utility District",
   "lastStatus": 200,
-  "finalUrl": "https://spmud.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",

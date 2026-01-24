@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Home : CA Department of Developmental Services",
   "lastStatus": 200,
-  "finalUrl": "https://www.dds.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "connection",
@@ -32,18 +31,16 @@
     {
       "name": "vary",
       "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-amz-cf-pop",
-      "value": "LAX53-P6"
     }
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-N97XDWN"
+  ],
   "socialLinks": [
     "https://www.facebook.com/California-Department-of-Developmental-Services-2350643635259672/",
     "https://www.instagram.com/caldds_/",

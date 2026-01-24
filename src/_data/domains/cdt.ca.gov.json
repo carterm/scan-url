@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "CDT - California Department of Technology",
   "lastStatus": 200,
-  "finalUrl": "https://cdt.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
     {
@@ -68,10 +68,17 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-LPLGX1HR9S",
+    "G-Y7T2KCM7P1",
+    "UA-20973992-22",
+    "UA-3419582-2",
+    "UA-3419582-47"
+  ],
   "socialLinks": [
     "https://www.linkedin.com/company/california-department-of-technology",
     "https://twitter.com/CADeptTech",

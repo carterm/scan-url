@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "BSCC – Board of State and Community Corrections",
   "lastStatus": 200,
-  "finalUrl": "https://www.bscc.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.6.4",
   "responseHeaders": [
     {
@@ -34,8 +34,11 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-K3Z99JBWHR",
+    "UA-67888913-1"
+  ],
   "socialLinks": [
     "https://www.instagram.com/bsccofcalifornia/",
     "https://www.youtube.com/channel/UCcdgg9OctWxHiP13LxnlYzg",

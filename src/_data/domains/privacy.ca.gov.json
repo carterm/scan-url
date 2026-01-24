@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "privacy.ca.gov - A website brought to you by the California Privacy Protection Agency",
   "lastStatus": 200,
-  "finalUrl": "https://privacy.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.3",
   "responseHeaders": [
     {
@@ -80,10 +80,16 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-CS4089W2ZV",
+    "G-Y7T2KCM7P1",
+    "UA-3419582-2",
+    "UA-3419582-47"
+  ],
   "socialLinks": [
     "https://www.facebook.com/61574944561128",
     "https://instagram.com/calprivacy",

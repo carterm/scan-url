@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California State Coastal Conservancy – The Coastal Conservancy acts with others to preserve, protect and restore the resources of the California Coast. Our vision is of a beautiful, restored and accessible coastline.",
   "lastStatus": 200,
-  "finalUrl": "https://scc.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "alt-svc",
@@ -60,10 +59,13 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-MNKEMF21JK",
+    "GTM-NJ6Q4MV"
+  ],
   "socialLinks": [
     "https://www.facebook.com/coastalconservancy",
     "https://www.instagram.com/ca_coastal/",

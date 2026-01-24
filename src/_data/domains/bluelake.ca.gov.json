@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "City of Blue Lake, CA - Blue Lake, California",
   "lastStatus": 200,
-  "finalUrl": "https://bluelake.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "alt-svc",
@@ -70,7 +69,7 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,

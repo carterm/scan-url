@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "Board for Professional Engineers, Land Surveyors, and Geologists",
   "lastStatus": 200,
-  "finalUrl": "https://www.bpelsg.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "accept-ranges",
@@ -53,9 +52,15 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-00QVLPGF36",
+    "G-69TD0KNT0F",
+    "GTM-M683DJB",
+    "GTM-NBQCVZC",
+    "UA-64276560-10"
+  ],
   "socialLinks": [
     "https://www.facebook.com/BPELSG",
     "https://twitter.com/CA_Engineers",

@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California's Health Benefit Exchange",
   "lastStatus": 200,
-  "finalUrl": "https://healthexchange.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -37,8 +36,8 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [
     "https://www.facebook.com/CoveredCA/",

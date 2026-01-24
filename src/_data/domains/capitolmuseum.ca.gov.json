@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Homepage - California State Capitol Museum",
   "lastStatus": 200,
-  "finalUrl": "https://capitolmuseum.ca.gov/",
+  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.12.4",
   "responseHeaders": [
     {
@@ -53,9 +53,15 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-ZSV0Z9SPB3",
+    "UA-21974567-45",
+    "UA-3419582-2",
+    "UA-64245307-1"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,
