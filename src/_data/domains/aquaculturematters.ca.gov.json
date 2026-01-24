@@ -55,7 +55,7 @@
     },
     {
       "name": "x-nananana",
-      "value": "Batcache-Hit"
+      "value": "Batcache-Set"
     }
   ],
   "cloudflare": false,

@@ -47,7 +47,7 @@
     },
     {
       "name": "x-drupal-cache",
-      "value": "MISS"
+      "value": "HIT"
     },
     {
       "name": "x-frame-options",

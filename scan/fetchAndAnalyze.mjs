@@ -61,7 +61,14 @@ const removeHeaders = [
   "x-btcache",
   "x-pantheon-styx-hostname",
   "x-styx-req-id",
-  "x-requestid"
+  "x-requestid",
+  "x-nananana",
+  "x-drupal-cache",
+  "x-seen-by",
+  "x-wix-request-id",
+  "x-ms-middleware-request-id",
+  "x-transaction-id",
+  "x-middleware-start"
 ];
 
 const fetchTimeout = 15000; //15 seconds
@@ -136,7 +143,7 @@ export async function fetchAndAnalyze(url) {
   domainRecord.responseHeaders = headers;
 
   const body = await res.text();
-  const contentSize = Buffer.byteLength(body);
+  //const contentSize = Buffer.byteLength(body);
 
   // Basic Cloudflare detection (non-bypass)
   const cloudflareChallenge =
