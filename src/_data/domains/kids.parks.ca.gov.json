@@ -9,10 +9,6 @@
   "finalUrl": "",
   "responseHeaders": [
     {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
     },
@@ -29,10 +25,6 @@
       "value": "chunked"
     },
     {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
       "name": "x-powered-by",
       "value": "ASP.NET"
     }
@@ -47,10 +39,6 @@
     "UA-3419582-2"
   ],
   "socialLinks": [
-    "https://www.facebook.com/CaliforniaStateParks",
-    "https://twitter.com/CAStateParks",
-    "https://www.youtube.com/user/CaliforniaStateParks",
-    "https://www.instagram.com/castateparks/?hl=en",
     "https://www.facebook.com/CaliforniaStateParks",
     "https://twitter.com/CAStateParks",
     "https://www.youtube.com/user/CaliforniaStateParks",

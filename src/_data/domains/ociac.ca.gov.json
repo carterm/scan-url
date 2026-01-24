@@ -6,7 +6,7 @@
   "includeInScan": true,
   "title": "Orange County Intelligence Assessment Center - Home",
   "lastStatus": 200,
-  "finalUrl": "/(X(1)S(4tddkznl0ivh4lkf4alhdb3i))/default.aspx?AspxAutoDetectCookieSupport=1",
+  "finalUrl": "/(X(1)S(jl4iwrxci5hwefewcinwthv3))/default.aspx?AspxAutoDetectCookieSupport=1",
   "responseHeaders": [
     {
       "name": "content-encoding",
@@ -42,7 +42,7 @@
     }
   ],
   "cloudflare": false,
-  "slow": true,
+  "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,

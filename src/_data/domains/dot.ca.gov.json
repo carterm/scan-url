@@ -21,6 +21,10 @@
       "value": "no-cache"
     },
     {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
       "name": "x-oneagent-js-injection",
       "value": "true"
     },
@@ -46,7 +50,6 @@
     "http://www.youtube.com/caltransvideo",
     "https://www.instagram.com/officialcaltranshq/",
     "https://www.linkedin.com/company/caltrans/",
-    "http://www.facebook.com/CaltransHQ",
     "https://twitter.com/CaltransHQ?ref_src=twsrc%5Etfw"
   ],
   "linksToCaGov": true,

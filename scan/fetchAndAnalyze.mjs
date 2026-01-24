@@ -246,9 +246,13 @@ export async function fetchAndAnalyze(url) {
     ...doc.querySelectorAll("a[href]")
   ]);
 
-  domainRecord.socialLinks = anchorLinks
-    .map(a => a.href)
-    .filter(href => SOCIAL_DOMAINS.some(d => href.includes(d)));
+  domainRecord.socialLinks = [
+    ...new Set(
+      anchorLinks
+        .map(a => a.href)
+        .filter(href => SOCIAL_DOMAINS.some(d => href.includes(d)))
+    )
+  ];
 
   // CA.gov link detection
   domainRecord.linksToCaGov = anchorLinks.some(a => {

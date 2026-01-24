@@ -6,8 +6,8 @@
   "includeInScan": true,
   "title": "County Main | Tulare",
   "lastStatus": 200,
-  "finalUrl": "https://tularecounty.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
+  "metaGenerator": "Drupal 10 (https://www.drupal.org)",
   "responseHeaders": [
     {
       "name": "connection",
@@ -58,8 +58,11 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-GYFYZ4RT4Q",
+    "G-LEIT9I_ETO"
+  ],
   "socialLinks": [
     "https://www.facebook.com/countyoftulare",
     "https://www.instagram.com/countyoftulare/",
@@ -70,5 +73,6 @@
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,
-  "notes": null
+  "notes": null,
+  "nocache": false
 }

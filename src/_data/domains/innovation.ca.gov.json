@@ -14,7 +14,7 @@
     },
     {
       "name": "content-encoding",
-      "value": "br"
+      "value": "gzip"
     },
     {
       "name": "content-type",

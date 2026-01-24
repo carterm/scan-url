@@ -54,7 +54,7 @@
     }
   ],
   "cloudflare": false,
-  "slow": false,
+  "slow": true,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
@@ -63,8 +63,7 @@
     "https://www.facebook.com/MetroFireOfSacramento",
     "https://www.youtube.com/channel/UC3Yb3btGVX-neeHfapGOOSQ/featured",
     "https://www.instagram.com/metrofireofsacramento/",
-    "https://x.com/metrofirepio",
-    "https://www.facebook.com/MetroFireOfSacramento"
+    "https://x.com/metrofirepio"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

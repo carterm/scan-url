@@ -21,6 +21,10 @@
       "value": "no-cache"
     },
     {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
       "name": "x-oneagent-js-injection",
       "value": "true"
     },
@@ -41,8 +45,7 @@
   "socialLinks": [
     "https://twitter.com/CA_Trans_Agency",
     "https://www.youtube.com/@CalStateTransportationAgency",
-    "https://www.linkedin.com/company/california-state-transportation-agency",
-    "https://twitter.com/CA_Trans_Agency"
+    "https://www.linkedin.com/company/california-state-transportation-agency"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,
