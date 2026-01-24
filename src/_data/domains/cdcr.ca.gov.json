@@ -56,10 +56,6 @@
     {
       "name": "x-frame-options",
       "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-nananana",
-      "value": "Batcache-Hit"
     }
   ],
   "cloudflare": false,

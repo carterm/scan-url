@@ -52,10 +52,6 @@
     {
       "name": "x-is-logged-in",
       "value": "false"
-    },
-    {
-      "name": "x-transaction-id",
-      "value": "aa0b9eb64762"
     }
   ],
   "cloudflare": false,

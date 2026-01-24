@@ -4,7 +4,7 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "FI$Cal - State of California. One state. One system.|",
+  "title": "FI$Cal - State of California|",
   "lastStatus": 200,
   "finalUrl": "https://fiscal.ca.gov/",
   "metaGenerator": "Divi Child v.3.11.1.1533591462",
@@ -48,10 +48,6 @@
     {
       "name": "x-frame-options",
       "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-ms-middleware-request-id",
-      "value": "eaaee27f-63fd-4cd7-bb6c-4699a50b62cb"
     },
     {
       "name": "x-powered-by",

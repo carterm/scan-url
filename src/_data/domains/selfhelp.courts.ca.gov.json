@@ -50,10 +50,6 @@
       "value": "nosniff"
     },
     {
-      "name": "x-drupal-cache",
-      "value": "HIT"
-    },
-    {
       "name": "x-generator",
       "value": "Drupal 9 (https://www.drupal.org)"
     },

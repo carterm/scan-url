@@ -50,20 +50,12 @@
       "value": "nosniff"
     },
     {
-      "name": "x-drupal-cache",
-      "value": "UNCACHEABLE (response policy)"
-    },
-    {
       "name": "x-frame-options",
       "value": "SAMEORIGIN"
     },
     {
       "name": "x-generator",
       "value": "Drupal 10 (https://www.drupal.org)"
-    },
-    {
-      "name": "x-ms-middleware-request-id",
-      "value": "00000000-0000-0000-0000-000000000000"
     },
     {
       "name": "x-powered-by",

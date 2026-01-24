@@ -68,7 +68,9 @@ const removeHeaders = [
   "x-wix-request-id",
   "x-ms-middleware-request-id",
   "x-transaction-id",
-  "x-middleware-start"
+  "x-middleware-start",
+  "x-varnish-cache",
+  "cache-tag"
 ];
 
 const fetchTimeout = 15000; //15 seconds

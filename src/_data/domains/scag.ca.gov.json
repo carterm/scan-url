@@ -46,10 +46,6 @@
       "value": "nosniff"
     },
     {
-      "name": "x-drupal-cache",
-      "value": "MISS"
-    },
-    {
       "name": "x-frame-options",
       "value": "SAMEORIGIN"
     },

@@ -58,10 +58,6 @@
       "value": "SAMEORIGIN"
     },
     {
-      "name": "x-middleware-start",
-      "value": "t=1769212734832725"
-    },
-    {
       "name": "x-nb-cached-page",
       "value": "yes"
     }
