@@ -27,7 +27,7 @@
     },
     {
       "name": "spiislatency",
-      "value": "0"
+      "value": "1"
     },
     {
       "name": "vary",
@@ -66,5 +66,6 @@
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,
-  "notes": null
+  "notes": null,
+  "nocache": true
 }

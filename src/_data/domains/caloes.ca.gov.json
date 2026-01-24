@@ -26,12 +26,20 @@
       "value": "<https://www.caloes.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.caloes.ca.gov/wp-json/wp/v2/pages/41>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.caloes.ca.gov/>; rel=shortlink"
     },
     {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains"
+    },
+    {
       "name": "transfer-encoding",
       "value": "chunked"
     },
     {
       "name": "vary",
       "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
     }
   ],
   "cloudflare": false,
@@ -55,5 +63,6 @@
   "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
-  "notes": null
+  "notes": null,
+  "nocache": false
 }

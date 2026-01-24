@@ -6,8 +6,7 @@
   "includeInScan": true,
   "title": "California Cannabis Authority",
   "lastStatus": 200,
-  "finalUrl": "https://cca.ca.gov/",
-  "metaGenerator": null,
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "alt-svc",
@@ -62,7 +61,7 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,

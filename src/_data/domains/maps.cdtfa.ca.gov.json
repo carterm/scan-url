@@ -13,6 +13,10 @@
       "value": "allow"
     },
     {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
     },
@@ -37,6 +41,10 @@
       "value": "chunked"
     },
     {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
       "name": "x-frame-options",
       "value": "SAMEORIGIN"
     },
@@ -59,5 +67,6 @@
   "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
-  "notes": null
+  "notes": null,
+  "nocache": true
 }

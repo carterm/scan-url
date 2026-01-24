@@ -72,7 +72,8 @@ const removeHeaders = [
   "x-varnish-cache",
   "cache-tag",
   "x-amz-cf-pop",
-  "x-cache-info"
+  "x-cache-info",
+  "ki-cf-cache-status"
 ];
 
 const fetchTimeout = 15000; //15 seconds
@@ -141,6 +142,14 @@ export async function fetchAndAnalyze(url) {
       domainRecord.responseHeaders.push({ name, value });
     }
   });
+
+  const cacheControl = res.headers.get("cache-control")?.toLowerCase();
+  if (cacheControl) {
+    domainRecord.nocache =
+      cacheControl.includes("no-store") ||
+      cacheControl.includes("no-cache") ||
+      cacheControl.includes("max-age=0");
+  }
 
   const body = await res.text();
   //const contentSize = Buffer.byteLength(body);

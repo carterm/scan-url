@@ -56,6 +56,8 @@
  *
  * @property {string | null} notes
  *   Free-form manual notes.
+ * @property {boolean} nocache
+ *  Whether the page included cache-busting headers.
  */
 
 /**
@@ -77,8 +79,6 @@ export function createDomainRecord() {
 
     metaGenerator: null,
 
-    responseHeaders: [],
-
     cloudflare: false,
     slow: false,
     hasStatewideAlerts: false,
@@ -93,7 +93,9 @@ export function createDomainRecord() {
     cosmeticTargetURL: null,
 
     errorMessage: null,
+    nocache: false,
 
+    responseHeaders: [],
     notes: null
   };
 }

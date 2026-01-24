@@ -9,6 +9,10 @@
   "finalUrl": "",
   "responseHeaders": [
     {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
     },
@@ -23,6 +27,10 @@
     {
       "name": "transfer-encoding",
       "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
     },
     {
       "name": "x-powered-by",
@@ -51,5 +59,6 @@
   "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
-  "notes": null
+  "notes": null,
+  "nocache": false
 }

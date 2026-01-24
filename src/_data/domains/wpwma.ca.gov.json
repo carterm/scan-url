@@ -34,10 +34,6 @@
       "value": "Edge"
     },
     {
-      "name": "ki-cf-cache-status",
-      "value": "HIT"
-    },
-    {
       "name": "ki-edge",
       "value": "v=25.2.3;mv=5.0.18"
     },
@@ -98,5 +94,6 @@
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,
-  "notes": null
+  "notes": null,
+  "nocache": true
 }

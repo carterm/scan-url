@@ -39,7 +39,7 @@
     }
   ],
   "cloudflare": false,
-  "slow": true,
+  "slow": false,
   "hasStatewideAlerts": true,
   "usesStateTemplate": true,
   "hasJQuery": true,
@@ -54,5 +54,6 @@
   "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
-  "notes": null
+  "notes": null,
+  "nocache": true
 }

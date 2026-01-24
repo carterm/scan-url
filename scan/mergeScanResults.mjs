@@ -47,6 +47,8 @@ export function mergeScanResult(record, scan) {
   updated.usesStateTemplate = scan.usesStateTemplate;
   updated.hasJQuery = scan.hasJQuery;
 
+  updated.nocache = scan.nocache;
+
   //
   // Error handling
   //
