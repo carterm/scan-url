@@ -38,6 +38,10 @@
       "value": "max-age=300"
     },
     {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
       "name": "vary",
       "value": "Accept-Encoding, Cookie, Cookie"
     },

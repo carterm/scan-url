@@ -27,7 +27,7 @@
     },
     {
       "name": "spiislatency",
-      "value": "0"
+      "value": "1"
     },
     {
       "name": "vary",

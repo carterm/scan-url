@@ -70,7 +70,9 @@ const removeHeaders = [
   "x-transaction-id",
   "x-middleware-start",
   "x-varnish-cache",
-  "cache-tag"
+  "cache-tag",
+  "x-amz-cf-pop",
+  "x-cache-info"
 ];
 
 const fetchTimeout = 15000; //15 seconds
@@ -130,53 +132,58 @@ export async function fetchAndAnalyze(url) {
     //console.log(`Fetching ${url} took ${duration} S`);
   }
 
-  const status = res.status;
-  const finalUrl = res.url;
-
-  /**
-   * @type {{ name: string; value: string }[]}
-   */
-  const headers = [];
+  domainRecord.lastStatus = res.status;
+  domainRecord.finalUrl = res.url;
+  domainRecord.responseHeaders = [];
   res.headers.forEach((value, name) => {
     if (!removeHeaders.includes(name.toLowerCase())) {
-      headers.push({ name, value });
+      domainRecord.responseHeaders.push({ name, value });
     }
   });
-  domainRecord.responseHeaders = headers;
 
   const body = await res.text();
   //const contentSize = Buffer.byteLength(body);
 
   // Basic Cloudflare detection (non-bypass)
-  const cloudflareChallenge =
-    (status === 200 && body.includes("cf-browser-verification")) ||
+  domainRecord.cloudflare =
+    (domainRecord.lastStatus === 200 &&
+      body.includes("cf-browser-verification")) ||
     body.includes("Just a moment");
 
   // If Cloudflare challenge or 4xx/5xx → return minimal result
-  if (status >= 400 || cloudflareChallenge) {
-    domainRecord.lastStatus = status;
-    domainRecord.finalUrl = finalUrl;
-
-    domainRecord.cloudflare = cloudflareChallenge;
-    domainRecord.errorMessage = cloudflareChallenge
+  if (domainRecord.lastStatus >= 400 || domainRecord.cloudflare) {
+    domainRecord.errorMessage = domainRecord.cloudflare
       ? "Cloudflare challenge detected"
-      : `HTTP ${status}`;
+      : `HTTP ${domainRecord.lastStatus}`;
 
     return domainRecord;
   }
 
   // Parse HTML
   const dom = new JSDOM(body, {
-    url: finalUrl,
+    url: res.url,
     resources: new CustomResourceLoader(),
     virtualConsole
   });
 
   const doc = dom.window.document;
 
-  const title = doc.querySelector("title")?.textContent?.trim() || "";
+  domainRecord.title =
+    (doc.title?.trim().length
+      ? doc.title.trim()
+      : /** @type {HTMLMetaElement} */ (
+          doc.head.querySelector("meta[name=title i]") ||
+            doc.head.querySelector(
+              'meta[name="og:title" i], meta[property="og:title" i]'
+            ) ||
+            doc.head.querySelector(
+              'meta[name="twitter:title" i], meta[property="twitter:title" i]'
+            ) ||
+            doc.head.querySelector('meta[name="author" i]') ||
+            doc.head.querySelector('meta[name="description" i]')
+        )?.content) || "";
 
-  const metaGenerator =
+  domainRecord.metaGenerator =
     doc.querySelector('meta[name="generator"]')?.getAttribute("content") ||
     null;
 
@@ -195,12 +202,12 @@ export async function fetchAndAnalyze(url) {
     ...doc.querySelectorAll("a[href]")
   ]);
 
-  const socialLinks = anchorLinks
+  domainRecord.socialLinks = anchorLinks
     .map(a => a.href)
     .filter(href => SOCIAL_DOMAINS.some(d => href.includes(d)));
 
   // CA.gov link detection
-  const linksToCaGov = anchorLinks.some(a => {
+  domainRecord.linksToCaGov = anchorLinks.some(a => {
     try {
       const u = new URL(a.href);
       const host = u.hostname.toLowerCase();
@@ -209,15 +216,6 @@ export async function fetchAndAnalyze(url) {
       return false;
     }
   });
-
-  domainRecord.lastStatus = status;
-  domainRecord.finalUrl = finalUrl;
-  domainRecord.cloudflare = false;
-  domainRecord.title = title;
-  domainRecord.metaGenerator = metaGenerator;
-  domainRecord.socialLinks = socialLinks;
-  domainRecord.linksToCaGov = linksToCaGov;
-  domainRecord.errorMessage = null;
 
   return domainRecord;
 }

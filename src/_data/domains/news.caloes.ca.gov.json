@@ -10,10 +10,6 @@
   "metaGenerator": "CAWeb v.1.13.0",
   "responseHeaders": [
     {
-      "name": "accept-ranges",
-      "value": "bytes"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },
@@ -28,6 +24,10 @@
     {
       "name": "link",
       "value": "<https://www.news.caloes.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.news.caloes.ca.gov/wp-json/wp/v2/pages/23819>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://wp.me/PgM8my-6cb>; rel=shortlink"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
     },
     {
       "name": "vary",

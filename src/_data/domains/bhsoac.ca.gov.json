@@ -22,6 +22,10 @@
       "value": "text/html; charset=UTF-8"
     },
     {
+      "name": "link",
+      "value": "<https://bhsoac.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://bhsoac.ca.gov/wp-json/wp/v2/pages/2018>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://bhsoac.ca.gov/>; rel=shortlink"
+    },
+    {
       "name": "pragma",
       "value": "public"
     },

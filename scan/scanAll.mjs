@@ -39,7 +39,7 @@ async function scanAll() {
 
       const scan = await fetchAndAnalyze(record.targetURL);
 
-      if ((scan.lastStatus && scan.lastStatus >= 400) || scan.cloudflare) {
+      if (!scan.lastStatus || scan.lastStatus >= 400 || scan.cloudflare) {
         console.log(`❌ Skipped ${record.domain} (${scan.errorMessage})`);
         return;
       }

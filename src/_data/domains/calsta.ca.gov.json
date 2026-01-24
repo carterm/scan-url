@@ -4,7 +4,7 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "California State Transportation Agency  | CalSTA",
+  "title": "California State Transportation Agency | CalSTA",
   "lastStatus": 200,
   "finalUrl": "https://calsta.ca.gov/",
   "metaGenerator": null,
@@ -20,10 +20,6 @@
     {
       "name": "pragma",
       "value": "no-cache"
-    },
-    {
-      "name": "server",
-      "value": "Microsoft-IIS/10.0"
     },
     {
       "name": "x-oneagent-js-injection",

@@ -14,10 +14,6 @@
       "value": "h3=\":443\"; ma=86400"
     },
     {
-      "name": "cache-tag",
-      "value": "96db0520-a8d8-47ba-a905-0feea937cc19,0591ece5618226aa22d24ea3a3fb2bb5a286b5b942f2bcd3caf29a71a5b83c45"
-    },
-    {
       "name": "connection",
       "value": "keep-alive"
     },

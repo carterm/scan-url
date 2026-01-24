@@ -4,7 +4,7 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
+  "title": "State of California",
   "lastStatus": 200,
   "finalUrl": "https://mcweb.apps.prd.cammis.medi-cal.ca.gov/",
   "metaGenerator": null,
