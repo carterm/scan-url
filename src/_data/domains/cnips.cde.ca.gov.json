@@ -4,14 +4,10 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "Radware Captcha Page",
+  "title": "Child Nutrition Information and Payment System",
   "lastStatus": 200,
-  "finalUrl": "https://validate.perfdrive.com/?ssa=f675d968-292e-4abf-aa69-194df3814d16&ssb=57238202576&ssc=https%3A%2F%2Fcnips.cde.ca.gov%2FSplash.aspx&ssi=e8a2a63b-cucv-4c69-848f-5913a6fea7e4&ssk=botmanager_support@radware.com&ssm=54861202589446355101557861612745&ssn=ce7a6558d611a65bbb783b8b928ddb6f9e23c44398e1-6684-46b6-81fa8a&sso=21ff41f8-d0791bf145bb09ddd9ffa58374fb56188a802aeab561ec5d&ssp=09268503841769256569176926191735027&ssq=48172401646239004477016462570526682792595&ssr=NzMuOTAuMjEwLjIyNw==&sst=undici&ssu=&ssv=&ssw=&ssx=eyJ1em14IjoiN2Y5MDAwZjEzNDc2NmItYzg3MC00NmE4LWJkZjktZmIwODc2ZTYzYzVmMS0xNzY5MjE2NDYyNTczMC01Y2NkNTFiMGYzNTY4YTk0MTAiLCJyZCI6ImNhLmdvdiIsIl9fdXptZiI6IjdmOTAwMGM0NDM5OGUxLTY2ODQtNDZiNi04MWY4LWQwNzkxYmYxNDViYjEtMTc2OTIxNjQ2MjU3MzAtMDAyMWE5YjIzMTRhZWE2YmJjZDEwIn0=",
+  "finalUrl": "",
   "responseHeaders": [
-    {
-      "name": "alt-svc",
-      "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
-    },
     {
       "name": "connection",
       "value": "keep-alive"
@@ -22,22 +18,26 @@
     },
     {
       "name": "content-type",
-      "value": "text/html; charset=UTF-8"
+      "value": "text/html; charset=utf-8"
     },
     {
       "name": "pragma",
       "value": "no-cache"
     },
     {
-      "name": "vary",
-      "value": "Accept-Encoding"
+      "name": "strict-transport-security",
+      "value": "max-age=31536000"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
     }
   ],
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,

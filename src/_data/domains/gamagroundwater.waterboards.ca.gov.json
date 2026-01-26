@@ -4,20 +4,65 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
+  "title": "GAMA Groundwater",
+  "lastStatus": 200,
+  "finalUrl": "",
+  "responseHeaders": [
+    {
+      "name": "cf-apo-via",
+      "value": "origin,host"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html"
+    },
+    {
+      "name": "referrer-policy",
+      "value": "strict-origin-when-cross-origin"
+    },
+    {
+      "name": "server",
+      "value": "cloudflare"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=15768000; includeSubDomains; preload"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
+    },
+    {
+      "name": "x-content-type-options",
+      "value": "nosniff"
+    },
+    {
+      "name": "x-xss-protection",
+      "value": "1; mode=block"
+    }
+  ],
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,
-  "notes": null
+  "notes": null,
+  "nocache": true
 }

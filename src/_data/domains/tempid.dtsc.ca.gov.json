@@ -4,20 +4,72 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
+  "title": "Temporary State ID Number Issuance",
+  "lastStatus": 200,
+  "finalUrl": "",
+  "responseHeaders": [
+    {
+      "name": "access-control-expose-headers",
+      "value": "Request-Context"
+    },
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html; charset=utf-8"
+    },
+    {
+      "name": "request-context",
+      "value": "appId=cid-v1:49a8ff0e-352e-4f53-b14d-5887d65a6179"
+    },
+    {
+      "name": "server",
+      "value": "cloudflare"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=15552000; includeSubDomains"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-aspnet-version",
+      "value": "4.0.30319"
+    },
+    {
+      "name": "x-frame-options",
+      "value": "DENY"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-19066778-9",
+    "UA-3419582-14",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [
+    "https://twitter.com/cagovernment",
+    "https://www.youtube.com/user/californiagovernment"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
-  "notes": null
+  "notes": null,
+  "nocache": false
 }

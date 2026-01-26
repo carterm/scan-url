@@ -21,6 +21,10 @@
       "value": "no-cache"
     },
     {
+      "name": "server",
+      "value": "Microsoft-IIS/10.0"
+    },
+    {
       "name": "x-oneagent-js-injection",
       "value": "true"
     },

@@ -27,6 +27,10 @@
     {
       "name": "transfer-encoding",
       "value": "chunked"
+    },
+    {
+      "name": "vary",
+      "value": "Accept-Encoding"
     }
   ],
   "cloudflare": false,

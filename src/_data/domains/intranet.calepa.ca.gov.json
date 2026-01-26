@@ -4,9 +4,9 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "Log In ‹ Intranet – CalEPA — WordPress",
+  "title": "Intranet - CalEPA | Our internal website for employees!",
   "lastStatus": 200,
-  "finalUrl": "/wp-login.php?redirect_to=%2F",
+  "finalUrl": "",
   "responseHeaders": [
     {
       "name": "alt-svc",
@@ -25,16 +25,20 @@
       "value": "text/html; charset=UTF-8"
     },
     {
+      "name": "link",
+      "value": "<https://intranet.calepa.ca.gov/>; rel=shortlink"
+    },
+    {
       "name": "pragma",
       "value": "no-cache"
     },
     {
-      "name": "referrer-policy",
-      "value": "strict-origin-when-cross-origin"
-    },
-    {
       "name": "server",
       "value": "cloudflare"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=31536000; includeSubDomains"
     },
     {
       "name": "transfer-encoding",
@@ -42,19 +46,19 @@
     },
     {
       "name": "vary",
-      "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding"
+      "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
+    },
+    {
+      "name": "x-cache-group",
+      "value": "normal"
     },
     {
       "name": "x-cacheable",
-      "value": "NO:Private"
+      "value": "SHORT"
     },
     {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-pass-why",
-      "value": "wp-admin"
+      "name": "x-content-type-options",
+      "value": "nosniff"
     },
     {
       "name": "x-powered-by",
@@ -64,13 +68,24 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
+  "usesStateTemplate": true,
   "hasJQuery": true,
-  "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-DQ3VBC4CR1",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/CaliforniaEPA",
+    "https://www.instagram.com/californiaepa",
+    "https://www.linkedin.com/company/3668037/admin/",
+    "https://twitter.com/CaliforniaEPA",
+    "https://www.youtube.com/playlist?list=PLb43SK8iAJX64xVOpRHyZUlusspOMV1br"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": false,
+  "metaGenerator": "CAWeb v.1.12.4"
 }

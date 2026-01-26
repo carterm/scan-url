@@ -31,7 +31,7 @@
     },
     {
       "name": "link",
-      "value": "<https://www.abc.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.abc.ca.gov/wp-json/wp/v2/pages/20>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.abc.ca.gov/>; rel=shortlink"
+      "value": "<https://cdn-ildlpod.nitrocdn.com>; rel=preconnect, <https://www.abc.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.abc.ca.gov/wp-json/wp/v2/pages/20>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.abc.ca.gov/>; rel=shortlink"
     },
     {
       "name": "server",
@@ -46,16 +46,28 @@
       "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
     },
     {
+      "name": "x-cache-ctime",
+      "value": "1769452743"
+    },
+    {
       "name": "x-cache-group",
       "value": "normal"
     },
     {
       "name": "x-cacheable",
-      "value": "YES:14400.000"
+      "value": "SHORT"
     },
     {
       "name": "x-nitro-cache",
-      "value": "MISS"
+      "value": "HIT"
+    },
+    {
+      "name": "x-nitro-cache-from",
+      "value": "drop-in"
+    },
+    {
+      "name": "x-nitro-rev",
+      "value": "6e08d8c"
     },
     {
       "name": "x-powered-by",
@@ -64,9 +76,9 @@
   ],
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": true,
-  "usesStateTemplate": true,
-  "hasJQuery": true,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
   "googleAnalytics": [
     "G-69TD0KNT0F",
     "G-DCG7L67NBP",

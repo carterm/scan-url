@@ -34,6 +34,10 @@
       "value": "nginx"
     },
     {
+      "name": "sg-f-cache",
+      "value": "BYPASS"
+    },
+    {
       "name": "transfer-encoding",
       "value": "chunked"
     },

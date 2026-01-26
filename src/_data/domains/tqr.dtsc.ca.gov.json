@@ -4,20 +4,58 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
+  "title": "Transporter Quarterly Report",
+  "lastStatus": 200,
+  "finalUrl": "",
+  "responseHeaders": [
+    {
+      "name": "connection",
+      "value": "keep-alive"
+    },
+    {
+      "name": "content-encoding",
+      "value": "gzip"
+    },
+    {
+      "name": "content-type",
+      "value": "text/html;charset=UTF-8"
+    },
+    {
+      "name": "server",
+      "value": "cloudflare"
+    },
+    {
+      "name": "strict-transport-security",
+      "value": "max-age=15552000; includeSubDomains"
+    },
+    {
+      "name": "transfer-encoding",
+      "value": "chunked"
+    },
+    {
+      "name": "x-powered-by",
+      "value": "ASP.NET"
+    }
+  ],
   "cloudflare": false,
-  "slow": false,
+  "slow": true,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-1M36NQSZBV",
+    "G-69TD0KNT0F",
+    "UA-19066778-1",
+    "UA-19066778-11",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [
+    "https://twitter.com/cagovernment",
+    "https://www.youtube.com/user/californiagovernment"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
-  "notes": null
+  "notes": null,
+  "nocache": false
 }

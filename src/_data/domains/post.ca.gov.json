@@ -9,10 +9,6 @@
   "finalUrl": "",
   "responseHeaders": [
     {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
       "name": "content-type",
       "value": "text/html; charset=utf-8"
     },
@@ -31,10 +27,6 @@
     {
       "name": "strict-transport-security",
       "value": "max-age=31536000; includeSubDomains; preload"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
     },
     {
       "name": "x-content-type-options",
