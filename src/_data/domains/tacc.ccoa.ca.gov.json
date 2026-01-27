@@ -35,9 +35,6 @@
   "notes": null,
   "nocache": false,
   "DOMErrors": [
-    {
-      "Message": "Could not parse CSS stylesheet",
-      "Details": "\n    span.sr-only.sr-only-focusable {\n        colo..."
-    }
+    "Could not parse CSS stylesheet"
   ]
 }

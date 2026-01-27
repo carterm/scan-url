@@ -47,9 +47,6 @@
   "notes": null,
   "nocache": false,
   "DOMErrors": [
-    {
-      "Message": "Could not parse CSS stylesheet",
-      "Details": "#homepage-slider-module a:hover,#homepage-slider-m..."
-    }
+    "Could not parse CSS stylesheet"
   ]
 }

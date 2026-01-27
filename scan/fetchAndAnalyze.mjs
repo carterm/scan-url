@@ -12,7 +12,9 @@ const keepHeaders = [
   "server",
   "content-encoding",
   "x-content-type-options",
-  "connection"
+  "connection",
+  "x-frame-options",
+  "referrer-policy"
 ];
 
 const fetchTimeout = 15000; //15 seconds
@@ -124,20 +126,11 @@ export async function fetchAndAnalyze(original) {
   delete domainRecord.DOMErrors;
   const virtualConsole = new VirtualConsole();
   virtualConsole.on("jsdomError", e => {
-    console.log(`⚠️ JSDOM error for ${url}: ${e.message}`);
+    //console.log(`⚠️ JSDOM error for ${url}: ${e.message}`);
 
-    const Details =
-      typeof e === "object" && e !== null && "detail" in e
-        ? /** @type {string } */ (e["detail"]).toString().slice(0, 50) + "..."
-        : null;
-
-    if (Details) {
-      domainRecord.DOMErrors = domainRecord.DOMErrors || [];
-      domainRecord.DOMErrors.push({
-        Message: e.message,
-        Details
-      });
-    }
+    domainRecord.DOMErrors = domainRecord.DOMErrors || [];
+    if (!domainRecord.DOMErrors.includes(e.message))
+      domainRecord.DOMErrors.push(e.message);
   });
 
   // Parse HTML

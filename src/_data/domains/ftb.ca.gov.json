@@ -41,9 +41,6 @@
   "notes": null,
   "nocache": false,
   "DOMErrors": [
-    {
-      "Message": "Could not parse CSS stylesheet",
-      "Details": "\na.link-grid {\n\tborder-color: var(--brand-highligh..."
-    }
+    "Could not parse CSS stylesheet"
   ]
 }

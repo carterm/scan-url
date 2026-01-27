@@ -58,7 +58,7 @@
  *
  * @property {string | null} notes
  *   Free-form manual notes.
- * @property {{Message:string, Details:string}[]} [DOMErrors]
+ * @property {string[]} [DOMErrors]
  *  Any DOM parsing errors captured during analysis.
  * @property {boolean} nocache
  *  Whether the page included cache-busting headers.

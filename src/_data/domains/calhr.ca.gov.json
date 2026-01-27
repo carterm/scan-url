@@ -42,9 +42,6 @@
   "notes": null,
   "nocache": true,
   "DOMErrors": [
-    {
-      "Message": "Could not parse CSS stylesheet",
-      "Details": ".et_pb_slide_0,.et_pb_slide_2,.et_pb_slide_3,.et_p..."
-    }
+    "Could not parse CSS stylesheet"
   ]
 }

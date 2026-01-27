@@ -57,9 +57,6 @@
   "notes": null,
   "nocache": false,
   "DOMErrors": [
-    {
-      "Message": "Could not parse CSS stylesheet",
-      "Details": "@font-face{font-family:\"Century Gothic 1\";font-dis..."
-    }
+    "Could not parse CSS stylesheet"
   ]
 }

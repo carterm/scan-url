@@ -42,9 +42,6 @@
   "notes": null,
   "nocache": false,
   "DOMErrors": [
-    {
-      "Message": "Could not parse CSS stylesheet",
-      "Details": "body,.et_pb_column_1_2 .et_quote_content blockquot..."
-    }
+    "Could not parse CSS stylesheet"
   ]
 }

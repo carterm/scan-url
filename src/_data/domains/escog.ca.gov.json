@@ -21,7 +21,7 @@
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [
-    "G-2540B90566",
+    "G-2F49DC7692",
     "G-5CGC3ET1CB",
     "G-701BF8BBC0",
     "G-ALTERNATIN",
@@ -36,53 +36,17 @@
   "notes": null,
   "nocache": false,
   "DOMErrors": [
-    {
-      "Message": "Could not parse CSS stylesheet",
-      "Details": "\n\n.fe-639fa28ee7f4c15d525dc3d7 {\n  --grid-gutter: ..."
-    },
-    {
-      "Message": "Could not parse CSS stylesheet",
-      "Details": "\n\n.fe-639ab327f5cbfd64db6dde73 {\n  --grid-gutter: ..."
-    },
-    {
-      "Message": "Could not parse CSS stylesheet",
-      "Details": "\n\n.fe-63f7c7d61ced847efb69da19 {\n  --grid-gutter: ..."
-    },
-    {
-      "Message": "Could not parse CSS stylesheet",
-      "Details": "\n\n.fe-63b7385db168d62c7a8b4070 {\n  --grid-gutter: ..."
-    },
-    {
-      "Message": "Could not parse CSS stylesheet",
-      "Details": "\n\n.fe-63d9517b9f00b949103e77f8 {\n  --grid-gutter: ..."
-    },
-    {
-      "Message": "Could not parse CSS stylesheet",
-      "Details": "\n\n.fe-63b7372468685158ddc8b76e {\n  --grid-gutter: ..."
-    },
-    {
-      "Message": "Could not parse CSS stylesheet",
-      "Details": "\n\n.fe-63b73754e09ece3503cf4670 {\n  --grid-gutter: ..."
-    },
-    {
-      "Message": "Could not parse CSS stylesheet",
-      "Details": "\n\n.fe-63b7378e2ee3a15a44c184be {\n  --grid-gutter: ..."
-    },
-    {
-      "Message": "Could not parse CSS stylesheet",
-      "Details": "\n\n.fe-63b737cc0b04a46c17dd688b {\n  --grid-gutter: ..."
-    },
-    {
-      "Message": "Could not parse CSS stylesheet",
-      "Details": "\n\n.fe-63b736e7dd091a5f8f4a2c53 {\n  --grid-gutter: ..."
-    },
-    {
-      "Message": "Could not parse CSS stylesheet",
-      "Details": "\n\n.fe-63b73809ea814738e1c2c1f0 {\n  --grid-gutter: ..."
-    },
-    {
-      "Message": "Could not parse CSS stylesheet",
-      "Details": "\n\n.fe-639cc1a51540b460f5afe7ad {\n  --grid-gutter: ..."
-    }
+    "Could not parse CSS stylesheet",
+    "Could not parse CSS stylesheet",
+    "Could not parse CSS stylesheet",
+    "Could not parse CSS stylesheet",
+    "Could not parse CSS stylesheet",
+    "Could not parse CSS stylesheet",
+    "Could not parse CSS stylesheet",
+    "Could not parse CSS stylesheet",
+    "Could not parse CSS stylesheet",
+    "Could not parse CSS stylesheet",
+    "Could not parse CSS stylesheet",
+    "Could not parse CSS stylesheet"
   ]
 }

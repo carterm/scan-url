@@ -81,5 +81,7 @@
   "x-proxy-cache",
   "x-proxy-cache-info",
   "x-cnection",
-  "vary"
+  "vary",
+  "x-nitro-cache",
+  "x-nitro-cache-from"
 ]

@@ -43,13 +43,7 @@
   "notes": null,
   "nocache": false,
   "DOMErrors": [
-    {
-      "Message": "Could not parse CSS stylesheet",
-      "Details": ".et_pb_fullwidth_post_slider_0,.et_pb_fullwidth_po..."
-    },
-    {
-      "Message": "Could not parse CSS stylesheet",
-      "Details": "div.et_pb_section.et_pb_section_0{background-size:..."
-    }
+    "Could not parse CSS stylesheet",
+    "Could not parse CSS stylesheet"
   ]
 }
