@@ -6,41 +6,17 @@
   "includeInScan": true,
   "title": "Orange County Intelligence Assessment Center - Home",
   "lastStatus": 200,
-  "finalUrl": "/(X(1)S(dh3c1ksvs0tmzeq2z0a3j1pe))/default.aspx?AspxAutoDetectCookieSupport=1",
-  "responseHeaders": [
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "server",
-      "value": ""
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000; includeSubDomains"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "1; mode=block"
-    }
-  ],
+  "finalUrl": "/(X(1)S(tlnmi2o2ndqoqxp2gkbqldoa))/default.aspx?AspxAutoDetectCookieSupport=1",
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "server": "",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -30,7 +30,7 @@
  *   The final resolved URL after redirects, or null if none occurred.
  *
  * @property {string | null} metaGenerator
- * @property {Array<{name: string, value: string}>} responseHeaders
+ * @property {{[key: string]: string}} responseHeaders
  *   Raw response headers, preserving order and duplicates.
  *
  * @property {boolean} cloudflare
@@ -95,7 +95,7 @@ export function createDomainRecord() {
     errorMessage: null,
     nocache: false,
 
-    responseHeaders: [],
+    responseHeaders: {},
     notes: null
   };
 }

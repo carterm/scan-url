@@ -8,24 +8,12 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "WordPress 6.8.3",
-  "responseHeaders": [
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://www.calctra.ca.gov/wp-json/>; rel=\"https://api.w.org/\""
-    },
-    {
-      "name": "server",
-      "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "x-litespeed-tag",
-      "value": "87d_PGSRP"
-    }
-  ],
+  "responseHeaders": {
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://www.calctra.ca.gov/wp-json/>; rel=\"https://api.w.org/\"",
+    "server": "Microsoft-IIS/10.0",
+    "x-litespeed-tag": "87d_PGSRP"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

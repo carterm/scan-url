@@ -7,44 +7,19 @@
   "title": "Find a Sales and Use Tax Rate",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "blazor-enhanced-nav",
-      "value": "allow"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "request-context",
-      "value": "appId=cid-v1:c0911a60-0021-414b-8337-35e7ae2c49f7"
-    },
-    {
-      "name": "server",
-      "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=2592000"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "ASP.NET"
-    }
-  ],
+  "responseHeaders": {
+    "blazor-enhanced-nav": "allow",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "request-context": "appId=cid-v1:c0911a60-0021-414b-8337-35e7ae2c49f7",
+    "server": "Microsoft-IIS/10.0",
+    "strict-transport-security": "max-age=2592000",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "ASP.NET"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

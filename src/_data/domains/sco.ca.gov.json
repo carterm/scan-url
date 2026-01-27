@@ -7,24 +7,12 @@
   "title": "SCO: Home",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "server",
-      "value": ""
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "ASP.NET"
-    }
-  ],
+  "responseHeaders": {
+    "content-type": "text/html",
+    "server": "",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "ASP.NET"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -34,10 +22,10 @@
     "GTM-5D5F2SV"
   ],
   "socialLinks": [
+    "https://twitter.com/CAController",
     "https://www.facebook.com/CAController",
     "https://www.instagram.com/californiacontroller/",
-    "https://www.linkedin.com/company/california-state-controllers",
-    "https://twitter.com/CAController"
+    "https://www.linkedin.com/company/california-state-controllers"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

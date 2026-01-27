@@ -8,60 +8,21 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "Drupal 10 (https://www.drupal.org)",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-language",
-      "value": "en"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "feature-policy",
-      "value": "accelerometer 'none'; camera 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; payment 'none'; usb 'none'"
-    },
-    {
-      "name": "from-origin",
-      "value": "same"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-generator",
-      "value": "Drupal 10 (https://www.drupal.org)"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "PHP/8.3.26"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-language": "en",
+    "content-type": "text/html; charset=UTF-8",
+    "feature-policy": "accelerometer 'none'; camera 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; payment 'none'; usb 'none'",
+    "from-origin": "same",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=31536000",
+    "transfer-encoding": "chunked",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-generator": "Drupal 10 (https://www.drupal.org)",
+    "x-powered-by": "PHP/8.3.26"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -72,12 +33,12 @@
     "GTM-NKB5FR7"
   ],
   "socialLinks": [
-    "https://www.facebook.com/CaliforniaHCD",
     "https://twitter.com/California_HCD",
-    "https://www.youtube.com/channel/UC7ciVAlNzF0vHlJ9kkMm1HA",
-    "https://www.linkedin.com/company/californiahcd",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/CaliforniaHCD",
     "https://www.instagram.com/california_hcd/",
-    "https://www.facebook.com/"
+    "https://www.linkedin.com/company/californiahcd",
+    "https://www.youtube.com/channel/UC7ciVAlNzF0vHlJ9kkMm1HA"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

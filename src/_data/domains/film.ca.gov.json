@@ -8,60 +8,21 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "CAWeb v.1.5.2a",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://film.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://film.ca.gov/wp-json/wp/v2/pages/2134>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://film.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "strict-origin, no-referrer-when-downgrade"
-    },
-    {
-      "name": "server",
-      "value": "Apache"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=6000; includeSubDomains"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding,User-Agent"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "PHP/7.4.8"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "1; mode=block"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://film.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://film.ca.gov/wp-json/wp/v2/pages/2134>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://film.ca.gov/>; rel=shortlink",
+    "referrer-policy": "strict-origin, no-referrer-when-downgrade",
+    "server": "Apache",
+    "strict-transport-security": "max-age=6000; includeSubDomains",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding,User-Agent",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "PHP/7.4.8",
+    "x-xss-protection": "1; mode=block"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -71,11 +32,11 @@
     "G-JDMK21MWQ4"
   ],
   "socialLinks": [
-    "https://www.facebook.com/californiafilmcommission/",
     "https://twitter.com/FilmCalifornia",
-    "https://www.youtube.com/channel/UCCrKM8YIHj9NwVbT_8MtW4Q",
+    "https://www.facebook.com/californiafilmcommission/",
     "https://www.instagram.com/filmcalifornia/",
     "https://www.linkedin.com/company/filmcalifornia",
+    "https://www.youtube.com/channel/UCCrKM8YIHj9NwVbT_8MtW4Q",
     "https://www.youtube.com/watch?v=1_bnbZ6_kTI&width=900&height=500"
   ],
   "linksToCaGov": true,

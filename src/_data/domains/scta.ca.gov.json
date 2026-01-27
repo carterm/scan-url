@@ -8,64 +8,22 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "WordPress 6.9",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "host-header",
-      "value": "8441280b0c35cbc1147f8ba998a563a7"
-    },
-    {
-      "name": "link",
-      "value": "<https://scta.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://scta.ca.gov/wp-json/wp/v2/pages/14>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://scta.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-cache-enabled",
-      "value": "True"
-    },
-    {
-      "name": "x-httpd",
-      "value": "1"
-    },
-    {
-      "name": "x-proxy-cache",
-      "value": "HIT"
-    },
-    {
-      "name": "x-tec-api-origin",
-      "value": "https://scta.ca.gov"
-    },
-    {
-      "name": "x-tec-api-root",
-      "value": "https://scta.ca.gov/wp-json/tribe/events/v1/"
-    },
-    {
-      "name": "x-tec-api-version",
-      "value": "v1"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "host-header": "8441280b0c35cbc1147f8ba998a563a7",
+    "link": "<https://scta.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://scta.ca.gov/wp-json/wp/v2/pages/14>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://scta.ca.gov/>; rel=shortlink",
+    "server": "nginx",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding",
+    "x-cache-enabled": "True",
+    "x-httpd": "1",
+    "x-proxy-cache": "HIT",
+    "x-tec-api-origin": "https://scta.ca.gov",
+    "x-tec-api-root": "https://scta.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -77,8 +35,8 @@
     "G-TEMPLATEBU"
   ],
   "socialLinks": [
-    "http://www.facebook.com/GoSCTA/",
     "http://twitter.com/goscta",
+    "http://www.facebook.com/GoSCTA/",
     "https://www.youtube.com/@sctarcpa7902"
   ],
   "linksToCaGov": false,

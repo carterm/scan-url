@@ -7,48 +7,18 @@
   "title": "Save Water Report - State of California",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "request-context",
-      "value": "appId=cid-v1:7ff4aea4-19b3-4663-8197-2ecb27243eaf"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=2592000"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "ASP.NET"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "request-context": "appId=cid-v1:7ff4aea4-19b3-4663-8197-2ecb27243eaf",
+    "strict-transport-security": "max-age=2592000",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "ASP.NET"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

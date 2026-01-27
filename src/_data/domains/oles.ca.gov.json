@@ -8,60 +8,21 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "Microsoft SharePoint",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://oles.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://oles.ca.gov/wp-json/wp/v2/pages/55>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://oles.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "permissions-policy",
-      "value": "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "strict-origin"
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000; includeSubDomains; preload"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "PHP/8.3.26"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "1; mode=block"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://oles.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://oles.ca.gov/wp-json/wp/v2/pages/55>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://oles.ca.gov/>; rel=shortlink",
+    "permissions-policy": "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)",
+    "referrer-policy": "strict-origin",
+    "server": "nginx",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "transfer-encoding": "chunked",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "PHP/8.3.26",
+    "x-xss-protection": "1; mode=block"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,

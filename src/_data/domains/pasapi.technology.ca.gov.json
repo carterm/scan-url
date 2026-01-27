@@ -7,40 +7,16 @@
   "title": "Personnel Authorization System (PAS)",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html;charset=utf-8"
-    },
-    {
-      "name": "request-context",
-      "value": "appId=cid-v1:c9b44974-d454-44ee-8af9-468a2d9f65f7"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "ASP.NET"
-    },
-    {
-      "name": "x-swagger-ui-version",
-      "value": "5.29.2"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html;charset=utf-8",
+    "request-context": "appId=cid-v1:c9b44974-d454-44ee-8af9-468a2d9f65f7",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding",
+    "x-powered-by": "ASP.NET",
+    "x-swagger-ui-version": "5.29.2"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

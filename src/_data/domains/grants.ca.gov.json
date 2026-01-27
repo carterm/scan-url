@@ -7,48 +7,18 @@
   "title": "Home - California Grants Portal",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://www.grants.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.grants.ca.gov/wp-json/wp/v2/pages/18>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.grants.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000; includeSubDomains; preload"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Cookie"
-    },
-    {
-      "name": "x-btcache-served",
-      "value": "Yes"
-    },
-    {
-      "name": "x-elasticpress-query",
-      "value": "true"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://www.grants.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.grants.ca.gov/wp-json/wp/v2/pages/18>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.grants.ca.gov/>; rel=shortlink",
+    "server": "nginx",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "transfer-encoding": "chunked",
+    "vary": "Cookie",
+    "x-btcache-served": "Yes",
+    "x-elasticpress-query": "true",
+    "x-frame-options": "SAMEORIGIN"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -59,8 +29,8 @@
   ],
   "socialLinks": [
     "https://www.linkedin.com/company/ca-grants-portal/",
-    "https://x.com/CAGrantsPortal",
-    "https://www.youtube.com/user/CSLmultimedia"
+    "https://www.youtube.com/user/CSLmultimedia",
+    "https://x.com/CAGrantsPortal"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

@@ -7,24 +7,12 @@
   "title": "RMS",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "server",
-      "value": "envoy"
-    },
-    {
-      "name": "x-amz-version-id",
-      "value": "xgVOA7i0xaS9VPhP1rbGwKgAhH2FFTlp"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html",
+    "server": "envoy",
+    "x-amz-version-id": "xgVOA7i0xaS9VPhP1rbGwKgAhH2FFTlp"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

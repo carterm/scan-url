@@ -7,56 +7,20 @@
   "title": "California Budget",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "accept-ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-language",
-      "value": "und"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "server",
-      "value": "volt-adc"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000 ; includeSubDomains"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "origin,access-control-request-method,access-control-request-headers,accept-encoding"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "DENY"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "0"
-    }
-  ],
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "content-encoding": "gzip",
+    "content-language": "und",
+    "content-type": "text/html",
+    "pragma": "no-cache",
+    "server": "volt-adc",
+    "strict-transport-security": "max-age=31536000 ; includeSubDomains",
+    "transfer-encoding": "chunked",
+    "vary": "origin,access-control-request-method,access-control-request-headers,accept-encoding",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "DENY",
+    "x-xss-protection": "0"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

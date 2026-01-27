@@ -7,28 +7,13 @@
   "title": "California Housing Finance Agency | CalHFA",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "server",
-      "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-ua-compatible",
-      "value": "IE=edge"
-    }
-  ],
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "server": "Microsoft-IIS/10.0",
+    "vary": "Accept-Encoding",
+    "x-ua-compatible": "IE=edge"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -39,11 +24,11 @@
     "UA-19266071-3"
   ],
   "socialLinks": [
-    "https://www.twitter.com/calhfa",
     "https://www.facebook.com/calhfa",
-    "https://www.youtube.com/calhfa",
     "https://www.instagram.com/calhfa",
     "https://www.linkedin.com/company/california-housing-finance-agency",
+    "https://www.twitter.com/calhfa",
+    "https://www.youtube.com/calhfa",
     "https://www.youtube.com/embed/U3OYUxHKgZs?enablejsapi=1&wmode=opaque"
   ],
   "linksToCaGov": true,

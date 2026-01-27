@@ -7,32 +7,14 @@
   "title": "You are being redirected...",
   "lastStatus": 307,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "alt-svc",
-      "value": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "server",
-      "value": "Sucuri/Cloudproxy"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "x-sucuri-id",
-      "value": "11012"
-    }
-  ],
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "connection": "keep-alive",
+    "content-type": "text/html",
+    "server": "Sucuri/Cloudproxy",
+    "transfer-encoding": "chunked",
+    "x-sucuri-id": "11012"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

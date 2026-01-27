@@ -8,44 +8,17 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "WordPress 6.9",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "Keep-Alive"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://crob.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://crob.ca.gov/wp-json/wp/v2/pages/7>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://crob.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "server",
-      "value": "Apache"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000; includeSubDomains"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "x-tec-api-origin",
-      "value": "https://crob.ca.gov"
-    },
-    {
-      "name": "x-tec-api-root",
-      "value": "https://crob.ca.gov/wp-json/tribe/events/v1/"
-    },
-    {
-      "name": "x-tec-api-version",
-      "value": "v1"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "Keep-Alive",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://crob.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://crob.ca.gov/wp-json/wp/v2/pages/7>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://crob.ca.gov/>; rel=shortlink",
+    "server": "Apache",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "transfer-encoding": "chunked",
+    "x-tec-api-origin": "https://crob.ca.gov",
+    "x-tec-api-root": "https://crob.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

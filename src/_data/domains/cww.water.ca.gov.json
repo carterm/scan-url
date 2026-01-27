@@ -7,28 +7,13 @@
   "title": "California Water Watch",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "Keep-Alive"
-    },
-    {
-      "name": "content-language",
-      "value": "und"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html;charset=UTF-8"
-    },
-    {
-      "name": "server",
-      "value": "Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k mod_jk/1.2.48"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "Keep-Alive",
+    "content-language": "und",
+    "content-type": "text/html;charset=UTF-8",
+    "server": "Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k mod_jk/1.2.48",
+    "transfer-encoding": "chunked"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -38,8 +23,8 @@
     "G-G9NNQTSS8V"
   ],
   "socialLinks": [
-    "https://www.instagram.com/cadepartmentofwaterresources/",
     "https://twitter.com/CA_DWR",
+    "https://www.instagram.com/cadepartmentofwaterresources/",
     "https://www.youtube.com/@calwater"
   ],
   "linksToCaGov": true,

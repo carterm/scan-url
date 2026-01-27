@@ -8,68 +8,23 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "All in One SEO (AIOSEO) 4.9.1.1",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://www.cdii.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.cdii.ca.gov/wp-json/wp/v2/pages/6>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.cdii.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "permissions-policy",
-      "value": "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)"
-    },
-    {
-      "name": "pragma",
-      "value": "public"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "strict-origin"
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000; includeSubDomains; preload"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "PHP/8.3.26"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "1; mode=block"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://www.cdii.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.cdii.ca.gov/wp-json/wp/v2/pages/6>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.cdii.ca.gov/>; rel=shortlink",
+    "permissions-policy": "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)",
+    "pragma": "public",
+    "referrer-policy": "strict-origin",
+    "server": "nginx",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "PHP/8.3.26",
+    "x-xss-protection": "1; mode=block"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

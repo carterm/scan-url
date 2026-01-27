@@ -7,72 +7,24 @@
   "title": "Welcome to the California Commission on Uniform State Laws Web site | CALIFORNIA COMMISSION ON UNIFORM STATE LAWS",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-language",
-      "value": "en"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "feature-policy",
-      "value": ""
-    },
-    {
-      "name": "from-origin",
-      "value": "https://acc-was.calegis.net"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "no-referrer-when-downgrade"
-    },
-    {
-      "name": "server",
-      "value": "cloudflare"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000; includeSubDomains"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Cookie,Accept-Encoding"
-    },
-    {
-      "name": "x-content-security-policy",
-      "value": "default-src https: data: 'unsafe-inline' 'unsafe-eval' blob:; script-src https: data: 'unsafe-inline' 'unsafe-eval' blob:; style-src 'unsafe-inline'  *; img-src 'self' data: https:; frame-src www.recaptcha.net; frame-ancestors *.assembly.ca.gov *.calegis.net; child-src 'self' blob: www.google.com www.gstatic.com ssl.p.jwpcdn.com; font-src 'self' fonts.gstatic.com themes.googleusercontent.com data:; connect-src 'unsafe-inline'  'self'  *.calegis.net ldcgitprd1.calegis.net http://ldcgitprd1.calegis.net; report-uri /report-csp-violation; upgrade-insecure-requests"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-webkit-csp",
-      "value": "default-src https: data: 'unsafe-inline' 'unsafe-eval' blob:; script-src https: data: 'unsafe-inline' 'unsafe-eval' blob:; style-src 'unsafe-inline'  *; img-src 'self' data: https:; frame-src www.recaptcha.net; frame-ancestors *.assembly.ca.gov *.calegis.net; child-src 'self' blob: www.google.com www.gstatic.com ssl.p.jwpcdn.com; font-src 'self' fonts.gstatic.com themes.googleusercontent.com data:; connect-src 'unsafe-inline'  'self'  *.calegis.net ldcgitprd1.calegis.net http://ldcgitprd1.calegis.net; report-uri /report-csp-violation; upgrade-insecure-requests"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "1; mode=block"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-language": "en",
+    "content-type": "text/html; charset=UTF-8",
+    "feature-policy": "",
+    "from-origin": "https://acc-was.calegis.net",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "server": "cloudflare",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "transfer-encoding": "chunked",
+    "vary": "Cookie,Accept-Encoding",
+    "x-content-security-policy": "default-src https: data: 'unsafe-inline' 'unsafe-eval' blob:; script-src https: data: 'unsafe-inline' 'unsafe-eval' blob:; style-src 'unsafe-inline'  *; img-src 'self' data: https:; frame-src www.recaptcha.net; frame-ancestors *.assembly.ca.gov *.calegis.net; child-src 'self' blob: www.google.com www.gstatic.com ssl.p.jwpcdn.com; font-src 'self' fonts.gstatic.com themes.googleusercontent.com data:; connect-src 'unsafe-inline'  'self'  *.calegis.net ldcgitprd1.calegis.net http://ldcgitprd1.calegis.net; report-uri /report-csp-violation; upgrade-insecure-requests",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-webkit-csp": "default-src https: data: 'unsafe-inline' 'unsafe-eval' blob:; script-src https: data: 'unsafe-inline' 'unsafe-eval' blob:; style-src 'unsafe-inline'  *; img-src 'self' data: https:; frame-src www.recaptcha.net; frame-ancestors *.assembly.ca.gov *.calegis.net; child-src 'self' blob: www.google.com www.gstatic.com ssl.p.jwpcdn.com; font-src 'self' fonts.gstatic.com themes.googleusercontent.com data:; connect-src 'unsafe-inline'  'self'  *.calegis.net ldcgitprd1.calegis.net http://ldcgitprd1.calegis.net; report-uri /report-csp-violation; upgrade-insecure-requests",
+    "x-xss-protection": "1; mode=block"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -7,32 +7,14 @@
   "title": "State Treasurer's Office",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "server",
-      "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "x-cdn",
-      "value": "Imperva"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "ASP.NET"
-    }
-  ],
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "server": "Microsoft-IIS/10.0",
+    "transfer-encoding": "chunked",
+    "x-cdn": "Imperva",
+    "x-powered-by": "ASP.NET"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -43,10 +25,10 @@
     "UA-3419582-2"
   ],
   "socialLinks": [
-    "https://www.facebook.com/pages/California-State-Treasurers-Office/356962197807214",
     "https://twitter.com/CalTreasurer",
-    "https://www.youtube.com/channel/UCQ_HINGlTvFvznebJmnrVUw",
-    "https://www.instagram.com/caltreasurer/"
+    "https://www.facebook.com/pages/California-State-Treasurers-Office/356962197807214",
+    "https://www.instagram.com/caltreasurer/",
+    "https://www.youtube.com/channel/UCQ_HINGlTvFvznebJmnrVUw"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

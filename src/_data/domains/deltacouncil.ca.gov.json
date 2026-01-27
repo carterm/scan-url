@@ -7,20 +7,11 @@
   "title": "Delta Stewardship Council",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "server",
-      "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "ASP.NET"
-    }
-  ],
+  "responseHeaders": {
+    "content-type": "text/html",
+    "server": "Microsoft-IIS/10.0",
+    "x-powered-by": "ASP.NET"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -30,15 +21,15 @@
     "G-J0HKBXFMWX"
   ],
   "socialLinks": [
-    "https://twitter.com/deltacouncil",
-    "https://www.instagram.com/deltastewardshipcouncil/",
-    "https://www.linkedin.com/company/delta-stewardship-council-a-california-state-agency",
-    "https://www.facebook.com/Delta-Stewardship-Council-137873226259597/",
-    "https://www.youtube.com/user/DeltaCouncil/playlists?spfreload=10",
     "https://twitter.com/DeltaCouncil?ref_src=twsrc%5Etfw",
+    "https://twitter.com/deltacouncil",
+    "https://www.facebook.com/Delta-Stewardship-Council-137873226259597/",
+    "https://www.facebook.com/deltastewardshipcouncil/",
+    "https://www.instagram.com/deltastewardshipcouncil/",
     "https://www.instagram.com/deltastewardshipcouncil/?utm_source=ig_embed",
     "https://www.instagram.com/explore/locations/360649385/sacramentosan-joaquin-river-delta/?utm_source=ig_embed",
-    "https://www.facebook.com/deltastewardshipcouncil/"
+    "https://www.linkedin.com/company/delta-stewardship-council-a-california-state-agency",
+    "https://www.youtube.com/user/DeltaCouncil/playlists?spfreload=10"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

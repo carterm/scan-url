@@ -8,52 +8,19 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "Wix.com Website Builder",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
-      "name": "content-language",
-      "value": "en"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,"
-    },
-    {
-      "name": "server",
-      "value": "Pepyaka"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=86400"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-meta-site-id",
-      "value": "6b6797b3-72a4-4237-9aee-88c100fc530d"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-language": "en-US",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,",
+    "server": "Pepyaka",
+    "strict-transport-security": "max-age=86400",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-meta-site-id": "6b6797b3-72a4-4237-9aee-88c100fc530d"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -65,14 +32,14 @@
     "G-TRANSLATIO"
   ],
   "socialLinks": [
-    "https://www.instagram.com/cvmdistrict",
-    "https://www.facebook.com/cvmdistrict",
-    "https://www.twitter.com/cvmdistrict",
-    "https://www.linkedin.com/company/6576722",
-    "https://www.youtube.com/@CVMDistrict",
-    "https://www.facebook.com/cvmdistrict/?ref=aymt_homepage_panel&eid=ARAyBoj7SBbQlMRIuAYcjr0Ei8J6oR5RNb2jZgT8YVKumM5BLqLYJEZaxTFuXOYLmXZAXzlEz_ztgg2l",
     "https://twitter.com/CVMDistrict",
-    "https://www.instagram.com/cvmdistrict/"
+    "https://www.facebook.com/cvmdistrict",
+    "https://www.facebook.com/cvmdistrict/?ref=aymt_homepage_panel&eid=ARAyBoj7SBbQlMRIuAYcjr0Ei8J6oR5RNb2jZgT8YVKumM5BLqLYJEZaxTFuXOYLmXZAXzlEz_ztgg2l",
+    "https://www.instagram.com/cvmdistrict",
+    "https://www.instagram.com/cvmdistrict/",
+    "https://www.linkedin.com/company/6576722",
+    "https://www.twitter.com/cvmdistrict",
+    "https://www.youtube.com/@CVMDistrict"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

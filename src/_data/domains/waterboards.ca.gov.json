@@ -7,52 +7,19 @@
   "title": "Home Page | California State Water Resources Control Board",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "accept-ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "connection",
-      "value": "Keep-Alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "server",
-      "value": "Apache"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000; includeSubDomains; preload"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-cdn",
-      "value": "Imperva"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    }
-  ],
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "Keep-Alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "pragma": "no-cache",
+    "server": "Apache",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding",
+    "x-cdn": "Imperva",
+    "x-content-type-options": "nosniff"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -66,12 +33,12 @@
   ],
   "socialLinks": [
     "https://www.facebook.com/CaliforniaWaterBoards",
-    "https://www.linkedin.com/company/state-water-resources-control-board",
-    "https://x.com/CaWaterBoards",
     "https://www.instagram.com/ca.water.boards/",
-    "https://www.youtube.com/channel/UCGArzB_cw0ZCPtBHravW2hA",
+    "https://www.linkedin.com/company/state-water-resources-control-board",
     "https://www.tiktok.com/@cawaterboards",
-    "https://www.youtube.com/user/BoardWebSupport"
+    "https://www.youtube.com/channel/UCGArzB_cw0ZCPtBHravW2hA",
+    "https://www.youtube.com/user/BoardWebSupport",
+    "https://x.com/CaWaterBoards"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

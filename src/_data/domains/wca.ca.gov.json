@@ -7,60 +7,21 @@
   "title": "Watershed Conservation Authority",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "access-control-request-method",
-      "value": "GET, POST, PUT, DELETE"
-    },
-    {
-      "name": "alt-svc",
-      "value": "h3=\":443\"; ma=86400"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "server",
-      "value": "cloudflare"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=0; includeSubDomains; preload"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept"
-    },
-    {
-      "name": "x-content-digest",
-      "value": "77afd5a5acd3a812dd48ac74f8aee3c4eb5b76a7"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-nb-cached-page",
-      "value": "yes"
-    }
-  ],
+  "responseHeaders": {
+    "access-control-request-method": "GET, POST, PUT, DELETE",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=utf-8",
+    "server": "cloudflare",
+    "strict-transport-security": "max-age=0; includeSubDomains; preload",
+    "transfer-encoding": "chunked",
+    "vary": "Accept",
+    "x-content-digest": "77afd5a5acd3a812dd48ac74f8aee3c4eb5b76a7",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-nb-cached-page": "yes"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

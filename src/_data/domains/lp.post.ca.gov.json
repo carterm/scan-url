@@ -7,36 +7,15 @@
   "title": "",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "alt-svc",
-      "value": "h3=\":443\"; ma=86400"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "server",
-      "value": "cloudflare"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "sameorigin"
-    }
-  ],
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=utf-8",
+    "server": "cloudflare",
+    "transfer-encoding": "chunked",
+    "x-frame-options": "sameorigin"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -45,9 +24,9 @@
   "googleAnalytics": [],
   "socialLinks": [
     "https://www.facebook.com/CaliforniaPOST",
-    "https://www.youtube.com/user/CaliforniaPOST/",
     "https://www.instagram.com/commissiononpost/",
-    "https://www.linkedin.com/company/california-post/"
+    "https://www.linkedin.com/company/california-post/",
+    "https://www.youtube.com/user/CaliforniaPOST/"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

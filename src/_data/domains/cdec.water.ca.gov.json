@@ -7,36 +7,15 @@
   "title": "California Data Exchange Center",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "accept-ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "connection",
-      "value": "close"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=16070400; includeSubDomains"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    }
-  ],
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "close",
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "strict-transport-security": "max-age=16070400; includeSubDomains",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -48,9 +27,9 @@
   ],
   "socialLinks": [
     "http://www.youtube.com/watch?v=LSWStigJv_8=youtu.be",
-    "https://www.facebook.com/events/237760683008593/",
-    "https://www.facebook.com/CADWR",
     "https://twitter.com/CA_DWR",
+    "https://www.facebook.com/CADWR",
+    "https://www.facebook.com/events/237760683008593/",
     "https://www.instagram.com/cadepartmentofwaterresources",
     "https://www.youtube.com/user/calwater"
   ],

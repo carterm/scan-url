@@ -8,32 +8,14 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "Site Kit by Google 1.170.0",
-  "responseHeaders": [
-    {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "server",
-      "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "ASP.NET"
-    },
-    {
-      "name": "x-powered-by-plesk",
-      "value": "PleskWin"
-    }
-  ],
+  "responseHeaders": {
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "Microsoft-IIS/10.0",
+    "vary": "Accept-Encoding",
+    "x-powered-by": "ASP.NET",
+    "x-powered-by-plesk": "PleskWin"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

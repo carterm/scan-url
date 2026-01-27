@@ -7,32 +7,14 @@
   "title": "California Court News",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "accept-ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "no-referrer-when-downgrade"
-    },
-    {
-      "name": "server",
-      "value": "volt-adc"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    }
-  ],
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "content-type": "text/html; charset=UTF-8",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "server": "volt-adc",
+    "transfer-encoding": "chunked",
+    "x-content-type-options": "nosniff"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

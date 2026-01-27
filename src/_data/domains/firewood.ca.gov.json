@@ -7,20 +7,11 @@
   "title": "California Firewood Task Force | Home",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "accept-ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    }
-  ],
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-type": "text/html"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -7,48 +7,18 @@
   "title": "My WordPress Site",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "alt-svc",
-      "value": "h3=\":443\"; ma=86400"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "host-header",
-      "value": "wpcloud"
-    },
-    {
-      "name": "link",
-      "value": "<https://cpost.ca.gov/wp-json/>; rel=\"https://api.w.org/\""
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding, Cookie"
-    }
-  ],
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "host-header": "wpcloud",
+    "link": "<https://cpost.ca.gov/wp-json/>; rel=\"https://api.w.org/\"",
+    "server": "nginx",
+    "strict-transport-security": "max-age=31536000",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding, Cookie"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -8,36 +8,15 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "Serif WebPlus Starter Edition   (3.0.0.005)",
-  "responseHeaders": [
-    {
-      "name": "accept-ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "connection",
-      "value": "Upgrade, Keep-Alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "server",
-      "value": "Apache"
-    },
-    {
-      "name": "upgrade",
-      "value": "h2,h2c"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    }
-  ],
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "Upgrade, Keep-Alive",
+    "content-encoding": "br",
+    "content-type": "text/html",
+    "server": "Apache",
+    "upgrade": "h2,h2c",
+    "vary": "Accept-Encoding"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

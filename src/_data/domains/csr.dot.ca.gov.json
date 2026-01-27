@@ -7,24 +7,12 @@
   "title": "Submit Customer Service Request",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "Keep-Alive"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "Keep-Alive",
+    "content-type": "text/html; charset=UTF-8",
+    "pragma": "no-cache",
+    "transfer-encoding": "chunked"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

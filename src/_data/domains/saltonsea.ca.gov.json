@@ -8,56 +8,20 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "Site Kit by Google 1.168.0",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://saltonsea.ca.gov/wp-json/>; rel=\"https://api.w.org/\""
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "x-et-api-origin",
-      "value": "https://saltonsea.ca.gov"
-    },
-    {
-      "name": "x-et-api-root",
-      "value": "https://saltonsea.ca.gov/wp-json/tribe/tickets/v1/"
-    },
-    {
-      "name": "x-et-api-version",
-      "value": "v1"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-tec-api-origin",
-      "value": "https://saltonsea.ca.gov"
-    },
-    {
-      "name": "x-tec-api-root",
-      "value": "https://saltonsea.ca.gov/wp-json/tribe/events/v1/"
-    },
-    {
-      "name": "x-tec-api-version",
-      "value": "v1"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://saltonsea.ca.gov/wp-json/>; rel=\"https://api.w.org/\"",
+    "server": "nginx",
+    "transfer-encoding": "chunked",
+    "x-et-api-origin": "https://saltonsea.ca.gov",
+    "x-et-api-root": "https://saltonsea.ca.gov/wp-json/tribe/tickets/v1/",
+    "x-et-api-version": "v1",
+    "x-frame-options": "SAMEORIGIN",
+    "x-tec-api-origin": "https://saltonsea.ca.gov",
+    "x-tec-api-root": "https://saltonsea.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -68,8 +32,8 @@
     "UA-59627195-7"
   ],
   "socialLinks": [
-    "https://www.instagram.com/thesaltonsea/",
     "https://twitter.com/CalNatResources",
+    "https://www.instagram.com/thesaltonsea/",
     "https://www.youtube.com/@ResourcesAgency"
   ],
   "linksToCaGov": true,

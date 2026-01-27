@@ -8,48 +8,18 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "Drupal 7 (http://drupal.org)",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "Keep-Alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-language",
-      "value": "en"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "link",
-      "value": "</en/content/home>; rel=\"canonical\",</en/node/246>; rel=\"shortlink\""
-    },
-    {
-      "name": "server",
-      "value": "Apache/2.4.52 (Ubuntu)"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-generator",
-      "value": "Drupal 7 (http://drupal.org)"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "Keep-Alive",
+    "content-encoding": "gzip",
+    "content-language": "en",
+    "content-type": "text/html; charset=utf-8",
+    "link": "</en/content/home>; rel=\"canonical\",</en/node/246>; rel=\"shortlink\"",
+    "server": "Apache/2.4.52 (Ubuntu)",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-generator": "Drupal 7 (http://drupal.org)"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

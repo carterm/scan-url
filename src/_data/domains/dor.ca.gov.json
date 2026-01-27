@@ -7,44 +7,17 @@
   "title": "Home Page - CA Department of Rehabilitation",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "request-context",
-      "value": "appId=cid-v1:76602a33-8f89-448c-8a69-b07dff09bdc7"
-    },
-    {
-      "name": "server",
-      "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000; includeSubDomains; preload"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "ASP.NET"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "request-context": "appId=cid-v1:76602a33-8f89-448c-8a69-b07dff09bdc7",
+    "server": "Microsoft-IIS/10.0",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding",
+    "x-powered-by": "ASP.NET"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -57,10 +30,10 @@
     "UA-3419582-2"
   ],
   "socialLinks": [
+    "https://twitter.com/CaliforniaDOR",
     "https://www.facebook.com/CaliforniaDOR",
     "https://www.instagram.com/dorcalifornia/",
-    "https://www.linkedin.com/company/california-department-of-rehabilitation",
-    "https://twitter.com/CaliforniaDOR"
+    "https://www.linkedin.com/company/california-department-of-rehabilitation"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

@@ -7,32 +7,14 @@
   "title": "Welcome to Alpha.CA.gov",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "server",
-      "value": "AmazonS3"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "accept-encoding"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "server": "AmazonS3",
+    "transfer-encoding": "chunked",
+    "vary": "accept-encoding"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

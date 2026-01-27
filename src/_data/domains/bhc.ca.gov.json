@@ -8,36 +8,15 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "Site Kit by Google 1.168.0",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "wpo-cache-status",
-      "value": "cached"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "transfer-encoding": "chunked",
+    "wpo-cache-status": "cached",
+    "x-content-type-options": "nosniff"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -48,10 +27,10 @@
     "UA-59627195-3"
   ],
   "socialLinks": [
+    "https://www.facebook.com/Baldwin-Hills-Greenhouse-Program-91567654454/",
     "https://www.facebook.com/baldwinhillsconservancy/",
-    "https://www.instagram.com/urban_watersheds_conservancy/",
     "https://www.instagram.com/baldwinhillsconservancy/",
-    "https://www.facebook.com/Baldwin-Hills-Greenhouse-Program-91567654454/"
+    "https://www.instagram.com/urban_watersheds_conservancy/"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

@@ -7,32 +7,13 @@
   "title": "California Transportation Commission | CTC",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "accept-ch",
-      "value": "Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version,Sec-CH-UA-Arch,Sec-CH-UA-Model,Sec-CH-UA-Bitness"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "server",
-      "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "x-oneagent-js-injection",
-      "value": "true"
-    },
-    {
-      "name": "x-ruxit-js-agent",
-      "value": "true"
-    }
-  ],
+  "responseHeaders": {
+    "accept-ch": "Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version,Sec-CH-UA-Arch,Sec-CH-UA-Model,Sec-CH-UA-Bitness",
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "x-oneagent-js-injection": "true",
+    "x-ruxit-js-agent": "true"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -44,8 +25,8 @@
     "UA-21970760-33"
   ],
   "socialLinks": [
-    "https://www.facebook.com/CATransportationCommission/",
     "https://twitter.com/California_CTC",
+    "https://www.facebook.com/CATransportationCommission/",
     "https://www.youtube.com/channel/UCASI3gyTEuhZffC13RbG4xQ"
   ],
   "linksToCaGov": true,

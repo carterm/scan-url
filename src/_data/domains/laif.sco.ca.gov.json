@@ -7,44 +7,17 @@
   "title": "State Controller's Office - Local Agency Investment Fund - Home",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "server",
-      "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=2592000"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "ASP.NET"
-    }
-  ],
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "server": "Microsoft-IIS/10.0",
+    "strict-transport-security": "max-age=2592000",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "ASP.NET"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -54,10 +27,10 @@
     "GTM-PQHTQRV"
   ],
   "socialLinks": [
+    "https://twitter.com/CAController",
     "https://www.facebook.com/CAController",
     "https://www.instagram.com/californiacontroller/",
-    "https://www.linkedin.com/company/california-state-controllers",
-    "https://twitter.com/CAController"
+    "https://www.linkedin.com/company/california-state-controllers"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

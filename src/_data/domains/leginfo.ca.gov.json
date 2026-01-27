@@ -7,20 +7,11 @@
   "title": "Official California Legislative Information",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "accept-ranges",
-      "value": "none"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "server",
-      "value": "Sun-ONE-Web-Server/6.1"
-    }
-  ],
+  "responseHeaders": {
+    "accept-ranges": "none",
+    "content-type": "text/html",
+    "server": "Sun-ONE-Web-Server/6.1"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -8,52 +8,19 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "WordPress 6.8.3",
-  "responseHeaders": [
-    {
-      "name": "alt-svc",
-      "value": "h3=\":443\"; ma=86400"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "server",
-      "value": "cloudflare"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-gateway-cache-key",
-      "value": "1768975300.825|standard|https|ncric.ca.gov|||/"
-    },
-    {
-      "name": "x-gateway-cache-status",
-      "value": "HIT"
-    },
-    {
-      "name": "x-gateway-request-id",
-      "value": "c8b0005852f4fa552c0a1f34cbbfd43d"
-    },
-    {
-      "name": "x-gateway-skip-cache",
-      "value": "0"
-    }
-  ],
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "cloudflare",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding",
+    "x-gateway-cache-key": "1769462640.281|standard|https|ncric.ca.gov|||/",
+    "x-gateway-cache-status": "HIT",
+    "x-gateway-request-id": "9f1b5dbf61bf517809dda928ad6570b1",
+    "x-gateway-skip-cache": "0"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -62,21 +29,21 @@
   "googleAnalytics": [],
   "socialLinks": [
     "https://twitter.com/NCRIC_HIDTA",
-    "https://www.linkedin.com/company/ncric/",
-    "https://twitter.com/ncric_hidta",
-    "https://twitter.com/ncric_hidta/status/1969937061471044014",
     "https://twitter.com/NCRIC_HIDTA/status/1969937061471044014",
-    "https://twitter.com/intent/tweet?in_reply_to=1969937061471044014&related=ncric_hidta",
-    "https://twitter.com/intent/retweet?tweet_id=1969937061471044014&related=ncric_hidta",
-    "https://twitter.com/intent/like?tweet_id=1969937061471044014&related=ncric_hidta",
-    "https://twitter.com/ncric_hidta/status/1961489414598856715",
-    "https://twitter.com/intent/tweet?in_reply_to=1961489414598856715&related=ncric_hidta",
-    "https://twitter.com/intent/retweet?tweet_id=1961489414598856715&related=ncric_hidta",
+    "https://twitter.com/intent/like?tweet_id=1959036396657938518&related=ncric_hidta",
     "https://twitter.com/intent/like?tweet_id=1961489414598856715&related=ncric_hidta",
-    "https://twitter.com/ncric_hidta/status/1959036396657938518",
-    "https://twitter.com/intent/tweet?in_reply_to=1959036396657938518&related=ncric_hidta",
+    "https://twitter.com/intent/like?tweet_id=1969937061471044014&related=ncric_hidta",
     "https://twitter.com/intent/retweet?tweet_id=1959036396657938518&related=ncric_hidta",
-    "https://twitter.com/intent/like?tweet_id=1959036396657938518&related=ncric_hidta"
+    "https://twitter.com/intent/retweet?tweet_id=1961489414598856715&related=ncric_hidta",
+    "https://twitter.com/intent/retweet?tweet_id=1969937061471044014&related=ncric_hidta",
+    "https://twitter.com/intent/tweet?in_reply_to=1959036396657938518&related=ncric_hidta",
+    "https://twitter.com/intent/tweet?in_reply_to=1961489414598856715&related=ncric_hidta",
+    "https://twitter.com/intent/tweet?in_reply_to=1969937061471044014&related=ncric_hidta",
+    "https://twitter.com/ncric_hidta",
+    "https://twitter.com/ncric_hidta/status/1959036396657938518",
+    "https://twitter.com/ncric_hidta/status/1961489414598856715",
+    "https://twitter.com/ncric_hidta/status/1969937061471044014",
+    "https://www.linkedin.com/company/ncric/"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

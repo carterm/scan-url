@@ -7,36 +7,15 @@
   "title": "DGS",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "server",
-      "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "server": "Microsoft-IIS/10.0",
+    "vary": "Accept-Encoding",
+    "x-frame-options": "SAMEORIGIN"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -48,10 +27,10 @@
   ],
   "socialLinks": [
     "https://www.facebook.com/CalDGS/?ref=settings",
-    "https://x.com/califdgs?lang=en",
-    "https://www.youtube.com/user/CalifDGS",
     "https://www.instagram.com/dgscalif/?hl=en",
-    "https://www.linkedin.com/company/cadgs"
+    "https://www.linkedin.com/company/cadgs",
+    "https://www.youtube.com/user/CalifDGS",
+    "https://x.com/califdgs?lang=en"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

@@ -7,40 +7,16 @@
   "title": "IIS Windows Server",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "accept-ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000; includeSubDomains; preload"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "x-cdn",
-      "value": "Imperva"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    }
-  ],
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "pragma": "no-cache",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "transfer-encoding": "chunked",
+    "x-cdn": "Imperva",
+    "x-content-type-options": "nosniff"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

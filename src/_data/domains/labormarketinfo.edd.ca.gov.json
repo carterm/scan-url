@@ -7,40 +7,16 @@
   "title": "EDD Labor Market Information Division - Home Page",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000; includeSubDomains, max-age= 31536000"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "ASP.NET"
-    }
-  ],
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=31536000; includeSubDomains, max-age= 31536000",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "ASP.NET"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -52,10 +28,10 @@
     "UA-3419582-31"
   ],
   "socialLinks": [
-    "https://www.facebook.com/californiaedd/",
     "https://twitter.com/CA_EDD",
-    "https://www.linkedin.com/company/californiaedd/",
+    "https://www.facebook.com/californiaedd/",
     "https://www.instagram.com/ca_edd/",
+    "https://www.linkedin.com/company/californiaedd/",
     "https://youtube.com/user/CaliforniaEDD"
   ],
   "linksToCaGov": true,

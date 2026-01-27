@@ -7,24 +7,12 @@
   "title": "California Department of Finance",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "server",
-      "value": "volt-adc"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    }
-  ],
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "server": "volt-adc",
+    "transfer-encoding": "chunked"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -36,8 +24,8 @@
   ],
   "socialLinks": [
     "https://twitter.com/HDatFinance",
-    "https://www.youtube.com/@californiadepartmentoffina6442",
-    "https://www.linkedin.com/company/california-department-of-finance/"
+    "https://www.linkedin.com/company/california-department-of-finance/",
+    "https://www.youtube.com/@californiadepartmentoffina6442"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

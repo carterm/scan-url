@@ -7,56 +7,20 @@
   "title": "Franchise Tax Board Homepage | FTB.ca.gov",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-location",
-      "value": "www.ftb.ca.gov"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "p3p",
-      "value": "policyref=\"/w3c/p3p.xml\",CP=\"ALL DSP COR MON LAW CURa ADMa DEVa PSAa PSDa OUR SAMa IND NAV INT CNT STA\""
-    },
-    {
-      "name": "pragma",
-      "value": "public"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000 ; includeSubDomains ; preload"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-akamai-transformed",
-      "value": "9 8459 0 pmb=mRUM,1"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "DENY"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "1; mode=block"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-location": "www.ftb.ca.gov",
+    "content-type": "text/html",
+    "p3p": "policyref=\"/w3c/p3p.xml\",CP=\"ALL DSP COR MON LAW CURa ADMa DEVa PSAa PSDa OUR SAMa IND NAV INT CNT STA\"",
+    "pragma": "public",
+    "strict-transport-security": "max-age=31536000 ; includeSubDomains ; preload",
+    "vary": "Accept-Encoding",
+    "x-akamai-transformed": "9 8459 0 pmb=mRUM,1",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "DENY",
+    "x-xss-protection": "1; mode=block"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -68,10 +32,10 @@
   ],
   "socialLinks": [
     "https://www.facebook.com/franchisetaxboard/",
-    "https://x.com/calftb",
     "https://www.instagram.com/calftb/",
     "https://www.linkedin.com/company/franchise-tax-board",
-    "https://www.youtube.com/user/FranchiseTaxBoard"
+    "https://www.youtube.com/user/FranchiseTaxBoard",
+    "https://x.com/calftb"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

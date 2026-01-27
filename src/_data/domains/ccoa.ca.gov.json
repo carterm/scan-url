@@ -7,52 +7,19 @@
   "title": "California Commission on Aging - State of California",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "expect-ct",
-      "value": "enforce, max-age=7776000"
-    },
-    {
-      "name": "permissions-policy",
-      "value": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), fullscreen=(self)"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000; includeSubDomains; preload"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "sameorigin"
-    },
-    {
-      "name": "x-permitted-cross-domain-policies",
-      "value": "none"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "1; mode=block"
-    }
-  ],
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "expect-ct": "enforce, max-age=7776000",
+    "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), fullscreen=(self)",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "sameorigin",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "1; mode=block"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -64,10 +31,10 @@
     "UA-21431721-20"
   ],
   "socialLinks": [
+    "https://twitter.com/CACommisOnAging",
     "https://www.facebook.com/CACommissionOnAging",
-    "https://www.linkedin.com/company/cacommissiononaging",
     "https://www.instagram.com/cacommissiononaging/",
-    "https://twitter.com/CACommisOnAging"
+    "https://www.linkedin.com/company/cacommissiononaging"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

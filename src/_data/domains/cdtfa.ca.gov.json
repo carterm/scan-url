@@ -7,44 +7,17 @@
   "title": "CDTFA - CA Department of Tax and Fee Administration",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "permissions-policy",
-      "value": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()"
-    },
-    {
-      "name": "pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000; includeSubDomains; preload"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "0"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html",
+    "permissions-policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+    "pragma": "no-cache",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "0"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -54,11 +27,11 @@
     "GTM-W42NR96"
   ],
   "socialLinks": [
-    "https://www.facebook.com/CDTFA",
     "https://twitter.com/cdtfa",
-    "https://www.youtube.com/channel/UChhR8089KCKrv2p4bbipu8w",
+    "https://www.facebook.com/CDTFA",
+    "https://www.instagram.com/CDTFA/",
     "https://www.linkedin.com/company/cdtfa?trk=top_nav_home",
-    "https://www.instagram.com/CDTFA/"
+    "https://www.youtube.com/channel/UChhR8089KCKrv2p4bbipu8w"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

@@ -8,64 +8,22 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "WordPress 6.9",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "host-header",
-      "value": "6b7412fb82ca5edfd0917e3957f05d89"
-    },
-    {
-      "name": "link",
-      "value": "<https://mlfd.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://mlfd.ca.gov/wp-json/wp/v2/pages/754>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://mlfd.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "permissions-policy",
-      "value": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")"
-    },
-    {
-      "name": "pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "no-referrer-when-downgrade"
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding, Accept-Encoding"
-    },
-    {
-      "name": "x-httpd",
-      "value": "1"
-    },
-    {
-      "name": "x-proxy-cache",
-      "value": "EXPIRED"
-    },
-    {
-      "name": "x-proxy-cache-info",
-      "value": "0 NC:000000 UP:SKIP_CACHE_SET_COOKIE"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "host-header": "6b7412fb82ca5edfd0917e3957f05d89",
+    "link": "<https://mlfd.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://mlfd.ca.gov/wp-json/wp/v2/pages/754>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://mlfd.ca.gov/>; rel=shortlink",
+    "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
+    "pragma": "no-cache",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "server": "nginx",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding, Accept-Encoding",
+    "x-httpd": "1",
+    "x-proxy-cache": "EXPIRED",
+    "x-proxy-cache-info": "0 NC:000000 UP:SKIP_CACHE_SET_COOKIE"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -73,9 +31,9 @@
   "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [
+    "https://www.facebook.com/MammothLakesFSC/",
     "https://www.facebook.com/mammothlakesfire/",
-    "https://www.instagram.com/mammothlakesfiredept/",
-    "https://www.facebook.com/MammothLakesFSC/"
+    "https://www.instagram.com/mammothlakesfiredept/"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

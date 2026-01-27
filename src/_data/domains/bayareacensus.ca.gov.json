@@ -7,20 +7,11 @@
   "title": "Bay Area Census: We've Moved",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "server",
-      "value": "AmazonS3"
-    },
-    {
-      "name": "x-amz-version-id",
-      "value": "c52hFsQV9LmuQpfDKTfXFBOjG76ZGq4S"
-    }
-  ],
+  "responseHeaders": {
+    "content-type": "text/html",
+    "server": "AmazonS3",
+    "x-amz-version-id": "c52hFsQV9LmuQpfDKTfXFBOjG76ZGq4S"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

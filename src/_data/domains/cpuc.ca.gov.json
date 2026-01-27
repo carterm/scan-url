@@ -7,36 +7,15 @@
   "title": "California Public Utilities Commission",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "accept-ch",
-      "value": "Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version,Sec-CH-UA-Arch,Sec-CH-UA-Model,Sec-CH-UA-Bitness"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "request-context",
-      "value": "appId=cid-v1:51b3e88b-8bf5-4c30-87a7-32ba39a60e29"
-    },
-    {
-      "name": "server",
-      "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    }
-  ],
+  "responseHeaders": {
+    "accept-ch": "Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version,Sec-CH-UA-Arch,Sec-CH-UA-Model,Sec-CH-UA-Bitness",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "request-context": "appId=cid-v1:51b3e88b-8bf5-4c30-87a7-32ba39a60e29",
+    "server": "Microsoft-IIS/10.0",
+    "vary": "Accept-Encoding"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -47,11 +26,11 @@
     "UA-1915322-1"
   ],
   "socialLinks": [
-    "https://x.com/californiapuc",
     "https://www.facebook.com/CaliforniaPUC",
     "https://www.instagram.com/californiapuc",
+    "https://www.linkedin.com/company/californiapuc",
     "https://www.youtube.com/user/CaliforniaPUC",
-    "https://www.linkedin.com/company/californiapuc"
+    "https://x.com/californiapuc"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

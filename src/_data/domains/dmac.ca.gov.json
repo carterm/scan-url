@@ -7,24 +7,12 @@
   "title": "Disaster Management Area C",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "Keep-Alive"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "server",
-      "value": "Apache"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "Keep-Alive",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "Apache",
+    "transfer-encoding": "chunked"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

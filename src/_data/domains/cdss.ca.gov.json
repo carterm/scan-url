@@ -7,28 +7,13 @@
   "title": "Home | California Dept. of Social Services",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "content-type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-ua-compatible",
-      "value": "IE=edge"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "1; mode=block"
-    }
-  ],
+  "responseHeaders": {
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "x-frame-options": "SAMEORIGIN",
+    "x-ua-compatible": "IE=edge",
+    "x-xss-protection": "1; mode=block"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -39,18 +24,18 @@
     "UA-77698819-4"
   ],
   "socialLinks": [
-    "https://www.youtube.com/watch?feature=shared&v=opg52FxKoSo",
-    "https://www.youtube.com/watch?feature=shared&v=O7j7ut0_FKI",
-    "https://www.youtube.com/watch?feature=shared&v=nmsRaYeV98Q",
-    "https://www.youtube.com/watch?feature=shared&v=7G8xcrStK-w",
     "https://govca.app.box.com/s/46mdr10niig1civmvh00d467plprcwjv",
     "https://govca.app.box.com/s/g129ab47ef7wdg56ujh69e7a05akv5su",
-    "https://www.youtube.com/watch?v=wRa5Uvwh9Gg&feature=youtu.be",
+    "https://twitter.com/CaliforniaDSS",
     "https://www.facebook.com/people/California-Department-of-Social-Services/100063625101416/",
     "https://www.instagram.com/californiadss/",
-    "https://twitter.com/CaliforniaDSS",
     "https://www.linkedin.com/company/california-department-of-social-services",
-    "https://www.youtube.com/user/CaSocialService"
+    "https://www.youtube.com/user/CaSocialService",
+    "https://www.youtube.com/watch?feature=shared&v=7G8xcrStK-w",
+    "https://www.youtube.com/watch?feature=shared&v=O7j7ut0_FKI",
+    "https://www.youtube.com/watch?feature=shared&v=nmsRaYeV98Q",
+    "https://www.youtube.com/watch?feature=shared&v=opg52FxKoSo",
+    "https://www.youtube.com/watch?v=wRa5Uvwh9Gg&feature=youtu.be"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

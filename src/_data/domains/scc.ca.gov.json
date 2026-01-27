@@ -7,56 +7,20 @@
   "title": "California State Coastal Conservancy – The Coastal Conservancy acts with others to preserve, protect and restore the resources of the California Coast. Our vision is of a beautiful, restored and accessible coastline.",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "alt-svc",
-      "value": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://scc.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://scc.ca.gov/wp-json/wp/v2/pages/14105>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://scc.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "server",
-      "value": "Sucuri/Cloudproxy"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000; includeSubdomains; preload"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-sucuri-id",
-      "value": "11035"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "1; mode=block"
-    }
-  ],
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://scc.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://scc.ca.gov/wp-json/wp/v2/pages/14105>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://scc.ca.gov/>; rel=shortlink",
+    "server": "Sucuri/Cloudproxy",
+    "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-sucuri-id": "11035",
+    "x-xss-protection": "1; mode=block"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -67,9 +31,9 @@
     "GTM-NJ6Q4MV"
   ],
   "socialLinks": [
+    "https://twitter.com/ca_coastal",
     "https://www.facebook.com/coastalconservancy",
     "https://www.instagram.com/ca_coastal/",
-    "https://twitter.com/ca_coastal",
     "https://www.youtube.com/channel/UCqQxZGLlxANMIhAyWW8dyig/featured"
   ],
   "linksToCaGov": true,

@@ -7,28 +7,13 @@
   "title": "FERIX Home",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "Keep-Alive"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html;charset=ISO-8859-1"
-    },
-    {
-      "name": "server",
-      "value": "Apache/2.4.10 (Unix) mod_jk/1.2.40"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=16070400; includeSubDomains"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "Keep-Alive",
+    "content-type": "text/html;charset=ISO-8859-1",
+    "server": "Apache/2.4.10 (Unix) mod_jk/1.2.40",
+    "strict-transport-security": "max-age=16070400; includeSubDomains",
+    "transfer-encoding": "chunked"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -7,28 +7,13 @@
   "title": "California Department of State Hospitals",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "server",
-      "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "ASP.NET"
-    }
-  ],
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "server": "Microsoft-IIS/10.0",
+    "vary": "Accept-Encoding",
+    "x-powered-by": "ASP.NET"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -38,12 +23,12 @@
     "GTM-P37W8DW"
   ],
   "socialLinks": [
+    "https://twitter.com/DSHRecruit",
+    "https://twitter.com/dshrecruit",
     "https://www.facebook.com/pages/California-Department-of-State-Hospitals/308247659303315",
-    "https://x.com/ca_dsh",
     "https://www.linkedin.com/company/ca-department-of-state-hospitals",
     "https://www.youtube.com/channel/UCgOPURule9MVA731cgtbMcg",
-    "https://twitter.com/dshrecruit",
-    "https://twitter.com/DSHRecruit"
+    "https://x.com/ca_dsh"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

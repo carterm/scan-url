@@ -7,56 +7,20 @@
   "title": "California Cradle-to-Career Data System | C2C",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "alt-svc",
-      "value": "h3=\":443\"; ma=86400"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://c2c.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://c2c.ca.gov/wp-json/wp/v2/pages/155>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://c2c.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "server",
-      "value": "cloudflare"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache-group",
-      "value": "normal"
-    },
-    {
-      "name": "x-cacheable",
-      "value": "SHORT"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "WP Engine"
-    }
-  ],
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://c2c.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://c2c.ca.gov/wp-json/wp/v2/pages/155>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://c2c.ca.gov/>; rel=shortlink",
+    "server": "cloudflare",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie",
+    "x-cache-group": "normal",
+    "x-cacheable": "SHORT",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "WP Engine"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -66,8 +30,8 @@
     "GTM-P7T6C5S"
   ],
   "socialLinks": [
-    "https://www.linkedin.com/company/ca-cradle-to-career/",
     "https://www.facebook.com/CaliforniaC2C",
+    "https://www.linkedin.com/company/ca-cradle-to-career/",
     "https://www.youtube.com/@CA-Cradle-to-Career"
   ],
   "linksToCaGov": true,

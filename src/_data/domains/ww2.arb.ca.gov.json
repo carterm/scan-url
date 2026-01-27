@@ -8,72 +8,24 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "Drupal 9 (https://www.drupal.org)",
-  "responseHeaders": [
-    {
-      "name": "accept-ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "access-control-allow-origin",
-      "value": "*"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-language",
-      "value": "en"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000; includeSubDomains"
-    },
-    {
-      "name": "vary",
-      "value": "Cookie,Accept-Encoding"
-    },
-    {
-      "name": "x-acquia-no-301-404-caching-enforcement",
-      "value": "1"
-    },
-    {
-      "name": "x-ah-environment",
-      "value": "prod"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-ua-compatible",
-      "value": "IE=edge"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "1; mode=block"
-    }
-  ],
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "access-control-allow-origin": "*",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-language": "en",
+    "content-type": "text/html; charset=UTF-8",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "nginx",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "vary": "Cookie,Accept-Encoding",
+    "x-acquia-no-301-404-caching-enforcement": "1",
+    "x-ah-environment": "prod",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-ua-compatible": "IE=edge",
+    "x-xss-protection": "1; mode=block"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -86,8 +38,8 @@
   "socialLinks": [
     "https://twitter.com/AirResources",
     "https://www.facebook.com/people/California-Air-Resources-Board/100087562832527/",
-    "https://www.youtube.com/user/calairinfo",
-    "https://www.linkedin.com/company/california-air-resources-board"
+    "https://www.linkedin.com/company/california-air-resources-board",
+    "https://www.youtube.com/user/calairinfo"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

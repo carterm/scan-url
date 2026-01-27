@@ -8,72 +8,24 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "WordPress 6.9",
-  "responseHeaders": [
-    {
-      "name": "alt-svc",
-      "value": "h3=\":443\"; ma=86400"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "ki-cache-tag",
-      "value": "96db0520-a8d8-47ba-a905-0feea937cc19,0591ece5618226aa22d24ea3a3fb2bb5a286b5b942f2bcd3caf29a71a5b83c45"
-    },
-    {
-      "name": "ki-cache-type",
-      "value": "Edge"
-    },
-    {
-      "name": "ki-edge",
-      "value": "v=25.2.3;mv=5.0.18"
-    },
-    {
-      "name": "ki-origin",
-      "value": "g1p"
-    },
-    {
-      "name": "link",
-      "value": "<https://wpwma.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://wpwma.ca.gov/wp-json/wp/v2/pages/10127>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://wpwma.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "nel",
-      "value": "{\"success_fraction\":0.01,\"report_to\":\"cf-nel\",\"max_age\":604800}"
-    },
-    {
-      "name": "server",
-      "value": "cloudflare"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-edge-location-klb",
-      "value": "1"
-    },
-    {
-      "name": "x-kinsta-cache",
-      "value": "HIT"
-    }
-  ],
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "ki-cache-tag": "96db0520-a8d8-47ba-a905-0feea937cc19,0591ece5618226aa22d24ea3a3fb2bb5a286b5b942f2bcd3caf29a71a5b83c45",
+    "ki-cache-type": "Edge",
+    "ki-edge": "v=25.2.3;mv=5.0.18",
+    "ki-origin": "g1p",
+    "link": "<https://wpwma.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://wpwma.ca.gov/wp-json/wp/v2/pages/10127>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://wpwma.ca.gov/>; rel=shortlink",
+    "nel": "{\"success_fraction\":0.01,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "server": "cloudflare",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-edge-location-klb": "1",
+    "x-kinsta-cache": "HIT"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -83,13 +35,13 @@
     "G-L673EFZY1V"
   ],
   "socialLinks": [
-    "https://www.youtube.com/watch?v=KQQdftQrcjs&list=PLnUskxTUjkSIRdgeQ3x_Pmm2DsMbzKDB2",
-    "https://www.facebook.com/WPWMA/",
-    "https://www.instagram.com/wpwma/?hl=en",
     "https://twitter.com/wpwma1978?lang=en",
-    "https://www.youtube.com/channel/UCS2ctDTkh52BdD4zKQpopTg",
+    "https://www.facebook.com/WPWMA/",
+    "https://www.facebook.com/WPWMA/events",
+    "https://www.instagram.com/wpwma/?hl=en",
     "https://www.linkedin.com/company/wpwma/",
-    "https://www.facebook.com/WPWMA/events"
+    "https://www.youtube.com/channel/UCS2ctDTkh52BdD4zKQpopTg",
+    "https://www.youtube.com/watch?v=KQQdftQrcjs&list=PLnUskxTUjkSIRdgeQ3x_Pmm2DsMbzKDB2"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

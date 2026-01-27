@@ -7,48 +7,18 @@
   "title": "HCAI - Department of Health Care Access and Information",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://hcai.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://hcai.ca.gov/wp-json/wp/v2/pages/8974>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://hcai.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-elasticpress-query",
-      "value": "true"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN, SAMEORIGIN"
-    },
-    {
-      "name": "x-skip-cache",
-      "value": "0"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "1; mode=block"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://hcai.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://hcai.ca.gov/wp-json/wp/v2/pages/8974>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://hcai.ca.gov/>; rel=shortlink",
+    "server": "nginx",
+    "transfer-encoding": "chunked",
+    "x-content-type-options": "nosniff",
+    "x-elasticpress-query": "true",
+    "x-frame-options": "SAMEORIGIN, SAMEORIGIN",
+    "x-skip-cache": "0",
+    "x-xss-protection": "1; mode=block"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -56,11 +26,11 @@
   "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [
-    "https://www.facebook.com/CaliforniaHCAI",
     "https://twitter.com/CA_HCAI",
+    "https://www.facebook.com/CaliforniaHCAI",
+    "https://www.instagram.com/hcai_ca/",
     "https://www.linkedin.com/company/department-of-health-care-access-and-information",
-    "https://www.youtube.com/channel/UCWZlucPkJlQa8bvmf39SRqw",
-    "https://www.instagram.com/hcai_ca/"
+    "https://www.youtube.com/channel/UCWZlucPkJlQa8bvmf39SRqw"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

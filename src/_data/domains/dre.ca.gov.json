@@ -7,24 +7,12 @@
   "title": "California Department of Real Estate",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "server",
-      "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000; includeSubDomains"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "ASP.NET"
-    }
-  ],
+  "responseHeaders": {
+    "content-type": "text/html",
+    "server": "Microsoft-IIS/10.0",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "x-powered-by": "ASP.NET"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -34,9 +22,9 @@
     "G-N2491HJ7H9"
   ],
   "socialLinks": [
-    "https://www.facebook.com/CADepartmentofRealEstate",
     "https://twitter.com/CA_DRE",
     "https://twitter.com/ca_dre_esp",
+    "https://www.facebook.com/CADepartmentofRealEstate",
     "https://www.youtube.com/channel/UCoHUPfEK9YAHccJkxPE2LJw"
   ],
   "linksToCaGov": true,

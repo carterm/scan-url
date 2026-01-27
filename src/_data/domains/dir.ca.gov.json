@@ -7,32 +7,14 @@
   "title": "California Department of Industrial Relations - Home Page",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "server",
-      "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000; includeSubDomains"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "ASP.NET"
-    }
-  ],
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "server": "Microsoft-IIS/10.0",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "vary": "Accept-Encoding",
+    "x-powered-by": "ASP.NET"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -47,12 +29,12 @@
     "UA-5092920-1"
   ],
   "socialLinks": [
-    "https://www.linkedin.com/company/californiadir",
-    "https://www.facebook.com/CaliforniaDIR",
-    "https://x.com/CA_DIR",
     "http://www.youtube.com/CaliforniaDIR",
+    "https://twitter.com/#!/CA_DIR",
+    "https://www.facebook.com/CaliforniaDIR",
     "https://www.instagram.com/ca_dir/",
-    "https://twitter.com/#!/CA_DIR"
+    "https://www.linkedin.com/company/californiadir",
+    "https://x.com/CA_DIR"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

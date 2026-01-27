@@ -8,60 +8,21 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "WordPress 6.9",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://www.chhs.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.chhs.ca.gov/wp-json/wp/v2/pages/16>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.chhs.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "permissions-policy",
-      "value": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "strict-origin"
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000; includeSubDomains; preload"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "PHP/8.3.26"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "1; mode=block"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://www.chhs.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.chhs.ca.gov/wp-json/wp/v2/pages/16>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.chhs.ca.gov/>; rel=shortlink",
+    "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)",
+    "referrer-policy": "strict-origin",
+    "server": "nginx",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "transfer-encoding": "chunked",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "PHP/8.3.26",
+    "x-xss-protection": "1; mode=block"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -76,9 +37,9 @@
     "https://twitter.com/chhsdatanews",
     "https://www.facebook.com/CAHealthHumanServices/",
     "https://www.instagram.com/calhhs_/",
-    "https://x.com/Cal_HHS",
     "https://www.linkedin.com/company/health-&-human-services-agency-california",
-    "https://www.youtube.com/channel/UCZuqqHnNArlElrQSYHKTXUQ"
+    "https://www.youtube.com/channel/UCZuqqHnNArlElrQSYHKTXUQ",
+    "https://x.com/Cal_HHS"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

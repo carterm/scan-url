@@ -7,40 +7,16 @@
   "title": "Placer County, CA | Official Website",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "server",
-      "value": "cloudflare"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "p3p": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"",
+    "server": "cloudflare",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -53,11 +29,11 @@
   ],
   "socialLinks": [
     "http://youtube.com/@placercomeetings",
-    "https://www.youtube.com/placercountygov",
     "https://www.facebook.com/pages/Placer-County-California/348887075624",
-    "https://x.com/PlacerCA",
     "https://www.instagram.com/placercounty",
-    "https://www.linkedin.com/company/placercounty"
+    "https://www.linkedin.com/company/placercounty",
+    "https://www.youtube.com/placercountygov",
+    "https://x.com/PlacerCA"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

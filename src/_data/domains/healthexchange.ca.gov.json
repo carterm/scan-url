@@ -7,32 +7,14 @@
   "title": "California's Health Benefit Exchange",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "server",
-      "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "ASP.NET"
-    }
-  ],
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "server": "Microsoft-IIS/10.0",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Accept-Encoding",
+    "x-powered-by": "ASP.NET"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -40,8 +22,8 @@
   "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [
-    "https://www.facebook.com/CoveredCA/",
     "https://twitter.com/CoveredCA",
+    "https://www.facebook.com/CoveredCA/",
     "https://www.instagram.com/coveredca/?hl=en",
     "https://www.youtube.com/user/CoveredCA"
   ],

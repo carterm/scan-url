@@ -8,56 +8,20 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "Drupal 7 (http://drupal.org)",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "Keep-Alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-language",
-      "value": "en"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://oag.ca.gov/>; rel=\"canonical\",<https://oag.ca.gov/>; rel=\"shortlink\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon.png>; rel=\"apple-touch-icon\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-72x72.png>; rel=\"apple-touch-icon_72x72\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-76x76.png>; rel=\"apple-touch-icon_76x76\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-114x114.png>; rel=\"apple-touch-icon_114x114\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-120x120.png>; rel=\"apple-touch-icon_120x120\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-144x144.png>; rel=\"apple-touch-icon_144x144\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-152x152.png>; rel=\"apple-touch-icon_152x152\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-180x180.png>; rel=\"apple-touch-icon_180x180\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-57x57.png>; rel=\"apple-touch-icon-precomposed\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-72x72.png>; rel=\"apple-touch-icon-precomposed_72x72\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-76x76.png>; rel=\"apple-touch-icon-precomposed_76x76\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-114x114.png>; rel=\"apple-touch-icon-precomposed_114x114\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-120x120.png>; rel=\"apple-touch-icon-precomposed_120x120\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-144x144.png>; rel=\"apple-touch-icon-precomposed_144x144\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-152x152.png>; rel=\"apple-touch-icon-precomposed_152x152\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-180x180.png>; rel=\"apple-touch-icon-precomposed_180x180\""
-    },
-    {
-      "name": "server",
-      "value": "Apache"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Cookie,Accept-Encoding"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff, nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-generator",
-      "value": "Drupal 7 (http://drupal.org)"
-    },
-    {
-      "name": "x-ua-compatible",
-      "value": "IE=Edge"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "Keep-Alive",
+    "content-encoding": "gzip",
+    "content-language": "en",
+    "content-type": "text/html; charset=utf-8",
+    "link": "<https://oag.ca.gov/>; rel=\"canonical\",<https://oag.ca.gov/>; rel=\"shortlink\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon.png>; rel=\"apple-touch-icon\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-72x72.png>; rel=\"apple-touch-icon_72x72\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-76x76.png>; rel=\"apple-touch-icon_76x76\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-114x114.png>; rel=\"apple-touch-icon_114x114\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-120x120.png>; rel=\"apple-touch-icon_120x120\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-144x144.png>; rel=\"apple-touch-icon_144x144\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-152x152.png>; rel=\"apple-touch-icon_152x152\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-180x180.png>; rel=\"apple-touch-icon_180x180\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-57x57.png>; rel=\"apple-touch-icon-precomposed\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-72x72.png>; rel=\"apple-touch-icon-precomposed_72x72\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-76x76.png>; rel=\"apple-touch-icon-precomposed_76x76\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-114x114.png>; rel=\"apple-touch-icon-precomposed_114x114\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-120x120.png>; rel=\"apple-touch-icon-precomposed_120x120\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-144x144.png>; rel=\"apple-touch-icon-precomposed_144x144\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-152x152.png>; rel=\"apple-touch-icon-precomposed_152x152\",<https://oag.ca.gov/sites/default/themes/custom2017/oag2017/img/apple-touch-icon-180x180.png>; rel=\"apple-touch-icon-precomposed_180x180\"",
+    "server": "Apache",
+    "transfer-encoding": "chunked",
+    "vary": "Cookie,Accept-Encoding",
+    "x-content-type-options": "nosniff, nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-generator": "Drupal 7 (http://drupal.org)",
+    "x-ua-compatible": "IE=Edge"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -67,13 +31,13 @@
     "G-6SNZMLLM7F"
   ],
   "socialLinks": [
-    "https://www.facebook.com/AGRobBonta",
     "https://twitter.com/AGRobBonta",
+    "https://www.facebook.com/AGRobBonta",
     "https://www.instagram.com/AGRobBonta",
-    "https://www.youtube.com/user/caoag",
-    "https://x.com/AGRobBonta",
     "https://www.instagram.com/AGRobBonta/",
-    "https://www.tiktok.com/@agrobbonta"
+    "https://www.tiktok.com/@agrobbonta",
+    "https://www.youtube.com/user/caoag",
+    "https://x.com/AGRobBonta"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

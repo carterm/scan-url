@@ -7,36 +7,15 @@
   "title": "California Department of Food and Agriculture - CDFA",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "accept-ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "x-aspnet-version",
-      "value": "4.0.30319"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "ASP.NET"
-    },
-    {
-      "name": "x-ua-compatible",
-      "value": "IE=edge"
-    }
-  ],
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=utf-8",
+    "x-aspnet-version": "4.0.30319",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "ASP.NET",
+    "x-ua-compatible": "IE=edge"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -47,13 +26,13 @@
     "UA-3419582-2"
   ],
   "socialLinks": [
-    "https://www.facebook.com/California-Department-of-Food-and-Agriculture-83888787230/",
     "https://twitter.com/CDFANews",
-    "https://www.youtube.com/user/CDFAtoday",
-    "https://www.instagram.com/cafoodandag/",
-    "https://www.linkedin.com/company/californiadepartmentoffoodandagriculture",
     "https://twitter.com/CDFAnoticias",
-    "https://www.instagram.com/cdfanoticias/"
+    "https://www.facebook.com/California-Department-of-Food-and-Agriculture-83888787230/",
+    "https://www.instagram.com/cafoodandag/",
+    "https://www.instagram.com/cdfanoticias/",
+    "https://www.linkedin.com/company/californiadepartmentoffoodandagriculture",
+    "https://www.youtube.com/user/CDFAtoday"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

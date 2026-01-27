@@ -8,44 +8,17 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.2a",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://perb.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://perb.ca.gov/wp-json/wp/v2/pages/47687>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://perb.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000; includeSubDomains"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "PHP/8.2.29, PleskLin"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://perb.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://perb.ca.gov/wp-json/wp/v2/pages/47687>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://perb.ca.gov/>; rel=shortlink",
+    "server": "nginx",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "transfer-encoding": "chunked",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "PHP/8.2.29, PleskLin"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

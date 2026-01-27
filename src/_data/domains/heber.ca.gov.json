@@ -8,64 +8,22 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "Drupal 8 (https://www.drupal.org)",
-  "responseHeaders": [
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-language",
-      "value": "en"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "host-header",
-      "value": "c2hhcmVkLmJsdWVob3N0LmNvbQ=="
-    },
-    {
-      "name": "link",
-      "value": "<https://www.heber.ca.gov/home>; rel=\"canonical\", <https://www.heber.ca.gov/node/4>; rel=\"shortlink\""
-    },
-    {
-      "name": "server",
-      "value": "nginx/1.25.5"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-generator",
-      "value": "Drupal 8 (https://www.drupal.org)"
-    },
-    {
-      "name": "x-proxy-cache",
-      "value": "MISS"
-    },
-    {
-      "name": "x-server-cache",
-      "value": "true"
-    },
-    {
-      "name": "x-ua-compatible",
-      "value": "IE=edge"
-    }
-  ],
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-language": "en",
+    "content-type": "text/html; charset=UTF-8",
+    "host-header": "c2hhcmVkLmJsdWVob3N0LmNvbQ==",
+    "link": "<https://www.heber.ca.gov/home>; rel=\"canonical\", <https://www.heber.ca.gov/node/4>; rel=\"shortlink\"",
+    "server": "nginx/1.25.5",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-generator": "Drupal 8 (https://www.drupal.org)",
+    "x-proxy-cache": "MISS",
+    "x-server-cache": "true",
+    "x-ua-compatible": "IE=edge"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -74,10 +32,10 @@
   "googleAnalytics": [],
   "socialLinks": [
     "https://www.facebook.com/heberpublicutilitydistrict",
-    "https://www.instagram.com/heberpud/",
     "https://www.facebook.com/tonysandovalforheber",
-    "https://www.twitter.com/HeberTonySandov",
-    "https://www.linkedin.com/in/tony-sandoval-1142243"
+    "https://www.instagram.com/heberpud/",
+    "https://www.linkedin.com/in/tony-sandoval-1142243",
+    "https://www.twitter.com/HeberTonySandov"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

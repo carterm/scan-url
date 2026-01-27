@@ -8,32 +8,14 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "CAWeb v.1.4.21",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "Keep-Alive"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://smmc.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://smmc.ca.gov/wp-json/wp/v2/pages/2>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://smmc.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "server",
-      "value": "Apache"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "Keep-Alive",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://smmc.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://smmc.ca.gov/wp-json/wp/v2/pages/2>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://smmc.ca.gov/>; rel=shortlink",
+    "pragma": "no-cache",
+    "server": "Apache",
+    "transfer-encoding": "chunked"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,

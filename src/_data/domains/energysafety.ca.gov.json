@@ -8,24 +8,12 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "CAWeb v.1.9.0",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "transfer-encoding": "chunked"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -36,10 +24,10 @@
     "G-DCP197HRSL"
   ],
   "socialLinks": [
-    "https://www.facebook.com/caenergysafety",
     "https://instagram.com/caenergysafety",
-    "https://www.linkedin.com/company/energysafety/",
     "https://twitter.com/CaEnergySafety",
+    "https://www.facebook.com/caenergysafety",
+    "https://www.linkedin.com/company/energysafety/",
     "https://www.youtube.com/@caenergysafety"
   ],
   "linksToCaGov": true,

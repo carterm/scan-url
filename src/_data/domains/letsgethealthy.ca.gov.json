@@ -8,88 +8,28 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "Powered by Slider Revolution 6.7.39 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.",
-  "responseHeaders": [
-    {
-      "name": "alt-svc",
-      "value": "h3=\":443\"; ma=86400"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://letsgethealthy.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://letsgethealthy.ca.gov/wp-json/wp/v2/pages/5>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://letsgethealthy.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "permissions-policy",
-      "value": "accelerometer=(self), autoplay=(self), camera=(self), encrypted-media=(self), fullscreen=(self), geolocation=(self), gyroscope=(self), magnetometer=(self), microphone=(self), midi=(self), payment=(self), usb=(self)"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "server",
-      "value": "cloudflare"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=2592000"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache-group",
-      "value": "normal"
-    },
-    {
-      "name": "x-cacheable",
-      "value": "SHORT"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "sameorigin"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "WP Engine"
-    },
-    {
-      "name": "x-tec-api-origin",
-      "value": "https://letsgethealthy.ca.gov"
-    },
-    {
-      "name": "x-tec-api-root",
-      "value": "https://letsgethealthy.ca.gov/wp-json/tribe/events/v1/"
-    },
-    {
-      "name": "x-tec-api-version",
-      "value": "v1"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "1"
-    }
-  ],
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://letsgethealthy.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://letsgethealthy.ca.gov/wp-json/wp/v2/pages/5>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://letsgethealthy.ca.gov/>; rel=shortlink",
+    "permissions-policy": "accelerometer=(self), autoplay=(self), camera=(self), encrypted-media=(self), fullscreen=(self), geolocation=(self), gyroscope=(self), magnetometer=(self), microphone=(self), midi=(self), payment=(self), usb=(self)",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "cloudflare",
+    "strict-transport-security": "max-age=2592000",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie",
+    "x-cache-group": "normal",
+    "x-cacheable": "SHORT",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "sameorigin",
+    "x-powered-by": "WP Engine",
+    "x-tec-api-origin": "https://letsgethealthy.ca.gov",
+    "x-tec-api-root": "https://letsgethealthy.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1",
+    "x-xss-protection": "1"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -99,9 +39,9 @@
     "GTM-583MD7K"
   ],
   "socialLinks": [
-    "https://www.facebook.com/CAgetsHEALTHY/",
     "https://twitter.com/CAGetsHEALTHY",
-    "https://twitter.com/intent/user?user_id=3254699628"
+    "https://twitter.com/intent/user?user_id=3254699628",
+    "https://www.facebook.com/CAgetsHEALTHY/"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

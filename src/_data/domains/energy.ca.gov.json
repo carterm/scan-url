@@ -8,36 +8,15 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "Drupal 10 (https://www.drupal.org)",
-  "responseHeaders": [
-    {
-      "name": "content-language",
-      "value": "en"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "server",
-      "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-generator",
-      "value": "Drupal 10 (https://www.drupal.org)"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "PHP/8.2.17, ASP.NET"
-    }
-  ],
+  "responseHeaders": {
+    "content-language": "en",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "Microsoft-IIS/10.0",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-generator": "Drupal 10 (https://www.drupal.org)",
+    "x-powered-by": "PHP/8.2.17, ASP.NET"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -47,11 +26,11 @@
     "G-B5BLHWHE7P"
   ],
   "socialLinks": [
+    "https://twitter.com/calenergy",
     "https://www.facebook.com/CAEnergy",
     "https://www.instagram.com/calenergy",
-    "https://twitter.com/calenergy",
-    "https://www.youtube.com/calenergycommission",
-    "https://www.linkedin.com/company/california-energy-commission"
+    "https://www.linkedin.com/company/california-energy-commission",
+    "https://www.youtube.com/calenergycommission"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

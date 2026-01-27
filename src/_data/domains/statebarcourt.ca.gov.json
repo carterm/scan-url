@@ -8,64 +8,22 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "Drupal 11 (https://www.drupal.org)",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-language",
-      "value": "en"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "feature-policy",
-      "value": "geolocation 'none'; camera 'none'; microphone 'none'"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "server",
-      "value": ""
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31622400; includeSubDomains; preload"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding, Accept-Encoding, Cookie, Cookie, Cookie"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-generator",
-      "value": "Drupal 11 (https://www.drupal.org)"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "1; mode=block"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-language": "en",
+    "content-type": "text/html; charset=UTF-8",
+    "feature-policy": "geolocation 'none'; camera 'none'; microphone 'none'",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "",
+    "strict-transport-security": "max-age=31622400; includeSubDomains; preload",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding, Accept-Encoding, Cookie, Cookie, Cookie",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-generator": "Drupal 11 (https://www.drupal.org)",
+    "x-xss-protection": "1; mode=block"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -76,8 +34,8 @@
   ],
   "socialLinks": [
     "https://www.facebook.com/StateBarofCA",
-    "https://x.com/statebarca",
-    "https://www.linkedin.com/company/state-bar-of-california"
+    "https://www.linkedin.com/company/state-bar-of-california",
+    "https://x.com/statebarca"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

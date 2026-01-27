@@ -8,44 +8,17 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "WordPress 6.8.3",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://victims.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://victims.ca.gov/wp-json/wp/v2/pages/942>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://victims.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000; includeSubDomains; preload"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Cookie"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://victims.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://victims.ca.gov/wp-json/wp/v2/pages/942>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://victims.ca.gov/>; rel=shortlink",
+    "server": "nginx",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "transfer-encoding": "chunked",
+    "vary": "Cookie",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -56,11 +29,11 @@
     "GTM-MZBJ9DW"
   ],
   "socialLinks": [
-    "https://www.facebook.com/CaliforniaVictimCompensationBoard/",
     "https://twitter.com/helpingvictims",
-    "https://www.youtube.com/c/CaliforniaVictimCompensationBoard",
+    "https://www.facebook.com/CaliforniaVictimCompensationBoard/",
     "https://www.instagram.com/calvcb/",
-    "https://www.linkedin.com/company/calvcb/"
+    "https://www.linkedin.com/company/calvcb/",
+    "https://www.youtube.com/c/CaliforniaVictimCompensationBoard"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

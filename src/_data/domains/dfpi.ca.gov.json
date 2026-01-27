@@ -8,64 +8,22 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "DFPI Divi Child Theme v.1.0.0",
-  "responseHeaders": [
-    {
-      "name": "alt-svc",
-      "value": "h3=\":443\"; ma=86400"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://dfpi.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://dfpi.ca.gov/wp-json/wp/v2/pages/8>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://dfpi.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "server",
-      "value": "cloudflare"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache-group",
-      "value": "normal"
-    },
-    {
-      "name": "x-cacheable",
-      "value": "SHORT"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "WP Engine"
-    },
-    {
-      "name": "x-tec-api-origin",
-      "value": "https://dfpi.ca.gov"
-    },
-    {
-      "name": "x-tec-api-root",
-      "value": "https://dfpi.ca.gov/wp-json/tribe/events/v1/"
-    },
-    {
-      "name": "x-tec-api-version",
-      "value": "v1"
-    }
-  ],
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://dfpi.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://dfpi.ca.gov/wp-json/wp/v2/pages/8>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://dfpi.ca.gov/>; rel=shortlink",
+    "server": "cloudflare",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie",
+    "x-cache-group": "normal",
+    "x-cacheable": "SHORT",
+    "x-powered-by": "WP Engine",
+    "x-tec-api-origin": "https://dfpi.ca.gov",
+    "x-tec-api-root": "https://dfpi.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -77,9 +35,9 @@
     "UA-1915322-1"
   ],
   "socialLinks": [
+    "https://linkedin.com/company/californiadfpi",
     "https://twitter.com/CaliforniaDFPI",
     "https://www.facebook.com/CaliforniaDFPI",
-    "https://linkedin.com/company/californiadfpi",
     "https://www.instagram.com/californiadfpi/",
     "https://www.youtube.com/channel/UCBZhpVr_Vh7d33ZYapNlalw"
   ],

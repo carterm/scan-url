@@ -8,36 +8,15 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "Site Kit by Google 1.168.0",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://deltaconservancy.ca.gov/wp-json/>; rel=\"https://api.w.org/\""
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://deltaconservancy.ca.gov/wp-json/>; rel=\"https://api.w.org/\"",
+    "server": "nginx",
+    "transfer-encoding": "chunked",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -47,13 +26,13 @@
     "G-34GCW1F9KH"
   ],
   "socialLinks": [
-    "https://www.youtube.com/channel/UCaOu3enYckyNnGQo0OrPhfw",
-    "https://www.facebook.com/deltaconservancy/",
-    "https://twitter.com/DeltaConservncy",
-    "https://www.instagram.com/deltaconservancy/",
+    "http://www.facebook.com/pages/Sacramento-San-Joaquin-Delta-Conservancy/110824705668619",
     "https://hk.linkedin.com/company/sacramento-san-joaquin-delta-conservancy",
-    "https://www.youtube.com/watch?v=5lZK8sNWZCQ",
-    "http://www.facebook.com/pages/Sacramento-San-Joaquin-Delta-Conservancy/110824705668619"
+    "https://twitter.com/DeltaConservncy",
+    "https://www.facebook.com/deltaconservancy/",
+    "https://www.instagram.com/deltaconservancy/",
+    "https://www.youtube.com/channel/UCaOu3enYckyNnGQo0OrPhfw",
+    "https://www.youtube.com/watch?v=5lZK8sNWZCQ"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

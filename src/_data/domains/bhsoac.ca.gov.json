@@ -8,44 +8,17 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "CAWeb v.1.5.1",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://bhsoac.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://bhsoac.ca.gov/wp-json/wp/v2/pages/2018>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://bhsoac.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "pragma",
-      "value": "public"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "no-referrer-when-downgrade"
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "W3 Total Cache/2.8.12, PleskLin"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://bhsoac.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://bhsoac.ca.gov/wp-json/wp/v2/pages/2018>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://bhsoac.ca.gov/>; rel=shortlink",
+    "pragma": "public",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "server": "nginx",
+    "vary": "Accept-Encoding",
+    "x-powered-by": "W3 Total Cache/2.8.12, PleskLin"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -58,14 +31,14 @@
   ],
   "socialLinks": [
     "https://facebook.com/californiacbh",
-    "https://x.com/californiacbh",
-    "https://youtube.com/@californiacbh",
     "https://instagram.com/californiacbh",
     "https://linkedin.com/company/californiacbh/",
-    "https://www.facebook.com/mhsoac",
     "https://twitter.com/MHSOAC",
+    "https://www.facebook.com/mhsoac",
+    "https://www.instagram.com/mhsoac/?hl=en",
     "https://www.youtube.com/channel/UCj79tbWqqzIjshi2LsSpppw",
-    "https://www.instagram.com/mhsoac/?hl=en"
+    "https://x.com/californiacbh",
+    "https://youtube.com/@californiacbh"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

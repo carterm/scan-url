@@ -7,52 +7,19 @@
   "title": "Jury+ Web Solution by Jury Systems, Inc. - Login",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "Keep-Alive"
-    },
-    {
-      "name": "content-language",
-      "value": "en"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html;charset=UTF-8"
-    },
-    {
-      "name": "pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "same-origin"
-    },
-    {
-      "name": "server",
-      "value": "Apache"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=63072000; includeSubdomains; preload"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-permitted-cross-domain-policies",
-      "value": "none"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "1; mode=block"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "Keep-Alive",
+    "content-language": "en",
+    "content-type": "text/html;charset=UTF-8",
+    "pragma": "no-cache",
+    "referrer-policy": "same-origin",
+    "server": "Apache",
+    "strict-transport-security": "max-age=63072000; includeSubdomains; preload",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "1; mode=block"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

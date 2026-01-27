@@ -7,28 +7,13 @@
   "title": "CSD Riverside",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "strict-transport-security": "max-age=31536000",
+    "transfer-encoding": "chunked"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -38,10 +23,10 @@
     "G-KM0EBRSG3J"
   ],
   "socialLinks": [
-    "https://www.instagram.com/CSDRiverside/",
     "http://www.facebook.com/CSDRiverside",
-    "https://www.youtube.com/@csdriverside",
-    "http://www.twitter.com/CSDRiverside"
+    "http://www.twitter.com/CSDRiverside",
+    "https://www.instagram.com/CSDRiverside/",
+    "https://www.youtube.com/@csdriverside"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

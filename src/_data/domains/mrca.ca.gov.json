@@ -8,38 +8,17 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "WordPress 6.8.3",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "Keep-Alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://mrca.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://mrca.ca.gov/wp-json/wp/v2/pages/8>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://wp.me/PaiH4x-8>; rel=shortlink"
-    },
-    {
-      "name": "referrer-policy",
-      "value": ""
-    },
-    {
-      "name": "server",
-      "value": "Apache"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "Keep-Alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://mrca.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://mrca.ca.gov/wp-json/wp/v2/pages/8>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://wp.me/PaiH4x-8>; rel=shortlink",
+    "referrer-policy": "",
+    "server": "Apache",
+    "vary": "Accept-Encoding"
+  },
   "cloudflare": false,
-  "slow": true,
+  "slow": false,
   "hasStatewideAlerts": true,
   "usesStateTemplate": false,
   "hasJQuery": true,
@@ -47,9 +26,9 @@
     "UA-1633733-24"
   ],
   "socialLinks": [
-    "https://www.instagram.com/MRCAparks/",
-    "https://www.facebook.com/lamountains",
     "https://twitter.com/MRCAParks",
+    "https://www.facebook.com/lamountains",
+    "https://www.instagram.com/MRCAparks/",
     "https://www.youtube.com/MRCAParks"
   ],
   "linksToCaGov": false,

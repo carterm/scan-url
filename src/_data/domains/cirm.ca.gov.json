@@ -8,44 +8,17 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "WordPress 6.8.1",
-  "responseHeaders": [
-    {
-      "name": "accept-ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://www.cirm.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.cirm.ca.gov/wp-json/wp/v2/pages/12>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.cirm.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=300"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding, Cookie, Cookie"
-    },
-    {
-      "name": "x-ua-compatible",
-      "value": "IE=edge"
-    }
-  ],
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://www.cirm.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.cirm.ca.gov/wp-json/wp/v2/pages/12>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.cirm.ca.gov/>; rel=shortlink",
+    "server": "nginx",
+    "strict-transport-security": "max-age=300",
+    "vary": "Accept-Encoding, Cookie, Cookie",
+    "x-ua-compatible": "IE=edge"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -55,8 +28,8 @@
     "G-LGEK77YV1P"
   ],
   "socialLinks": [
-    "https://www.facebook.com/CaliforniaInstituteForRegenerativeMedicine",
     "https://twitter.com/cirmnews",
+    "https://www.facebook.com/CaliforniaInstituteForRegenerativeMedicine",
     "https://www.instagram.com/cirmnews/",
     "https://www.linkedin.com/company/california-institute-for-regenerative-medicine/",
     "https://www.youtube.com/user/CIRMTV"

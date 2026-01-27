@@ -7,56 +7,20 @@
   "title": "California Department of Corrections and Rehabilitation - CDCR",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "alt-svc",
-      "value": "h3=\":443\"; ma=86400"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "host-header",
-      "value": "wpcloud"
-    },
-    {
-      "name": "link",
-      "value": "<https://www.cdcr.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.cdcr.ca.gov/wp-json/wp/v2/pages/6205>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.cdcr.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding, Cookie"
-    },
-    {
-      "name": "x-distributor",
-      "value": "yes"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    }
-  ],
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "host-header": "wpcloud",
+    "link": "<https://www.cdcr.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.cdcr.ca.gov/wp-json/wp/v2/pages/6205>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.cdcr.ca.gov/>; rel=shortlink",
+    "server": "nginx",
+    "strict-transport-security": "max-age=31536000",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding, Cookie",
+    "x-distributor": "yes",
+    "x-frame-options": "SAMEORIGIN"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -66,10 +30,10 @@
     "GTM-WWJWHL4"
   ],
   "socialLinks": [
-    "https://www.facebook.com/cacorrections/",
     "https://twitter.com/CACorrections",
-    "https://www.youtube.com/user/CACorrections",
-    "https://www.instagram.com/cacorrections/"
+    "https://www.facebook.com/cacorrections/",
+    "https://www.instagram.com/cacorrections/",
+    "https://www.youtube.com/user/CACorrections"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

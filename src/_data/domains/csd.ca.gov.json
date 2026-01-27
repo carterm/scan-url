@@ -8,60 +8,21 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "Microsoft SharePoint",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "microsoftsharepointteamservices",
-      "value": "16.0.0.19127"
-    },
-    {
-      "name": "server",
-      "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "spiislatency",
-      "value": "0"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-aspnet-version",
-      "value": "4.0.30319"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-ms-invokeapp",
-      "value": "1; RequireReadOnly"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "ASP.NET"
-    },
-    {
-      "name": "x-sharepointhealthscore",
-      "value": "0"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "microsoftsharepointteamservices": "16.0.0.19127",
+    "server": "Microsoft-IIS/10.0",
+    "spiislatency": "0",
+    "vary": "Accept-Encoding",
+    "x-aspnet-version": "4.0.30319",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-ms-invokeapp": "1; RequireReadOnly",
+    "x-powered-by": "ASP.NET",
+    "x-sharepointhealthscore": "0"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -72,8 +33,8 @@
     "G-HK7CWSQCBM"
   ],
   "socialLinks": [
-    "https://www.facebook.com/CaliforniaDepartmentOfCommunityServicesDevelopment",
-    "https://twitter.com/ca_csd"
+    "https://twitter.com/ca_csd",
+    "https://www.facebook.com/CaliforniaDepartmentOfCommunityServicesDevelopment"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

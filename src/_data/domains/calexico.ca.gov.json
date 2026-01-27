@@ -7,24 +7,12 @@
   "title": "Calexico, CA",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=360;"
-    },
-    {
-      "name": "w",
-      "value": "1a"
-    }
-  ],
+  "responseHeaders": {
+    "content-type": "text/html",
+    "pragma": "no-cache",
+    "strict-transport-security": "max-age=360;",
+    "w": "3a"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

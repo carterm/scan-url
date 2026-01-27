@@ -8,60 +8,21 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "Powered by LayerSlider 7.1.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress.",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://www.ych.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.ych.ca.gov/wp-json/wp/v2/pages/129>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.ych.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache-group",
-      "value": "normal"
-    },
-    {
-      "name": "x-cacheable",
-      "value": "SHORT"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "WP Engine"
-    },
-    {
-      "name": "x-tec-api-origin",
-      "value": "https://www.ych.ca.gov"
-    },
-    {
-      "name": "x-tec-api-root",
-      "value": "https://www.ych.ca.gov/wp-json/tribe/events/v1/"
-    },
-    {
-      "name": "x-tec-api-version",
-      "value": "v1"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://www.ych.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.ych.ca.gov/wp-json/wp/v2/pages/129>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.ych.ca.gov/>; rel=shortlink",
+    "server": "nginx",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie",
+    "x-cache-group": "normal",
+    "x-cacheable": "SHORT",
+    "x-powered-by": "WP Engine",
+    "x-tec-api-origin": "https://www.ych.ca.gov",
+    "x-tec-api-root": "https://www.ych.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

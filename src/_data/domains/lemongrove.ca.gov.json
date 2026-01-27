@@ -7,44 +7,17 @@
   "title": "Home | Lemon Grove",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "strict-origin"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000; includeSubDomains"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "referrer-policy": "strict-origin",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -54,11 +27,11 @@
     "G-STQ0986EH9"
   ],
   "socialLinks": [
-    "https://www.facebook.com/cityoflemongrove/",
-    "https://www.instagram.com/cityoflemongrove/?utm_source=ig_embed&utm_campaign=loading",
-    "https://www.facebook.com/cityoflemongrove",
-    "https://www.instagram.com/cityoflemongrove/",
     "https://twitter.com/LemonGroveCAgov",
+    "https://www.facebook.com/cityoflemongrove",
+    "https://www.facebook.com/cityoflemongrove/",
+    "https://www.instagram.com/cityoflemongrove/",
+    "https://www.instagram.com/cityoflemongrove/?utm_source=ig_embed&utm_campaign=loading",
     "https://www.youtube.com/@cityoflemongrove"
   ],
   "linksToCaGov": false,

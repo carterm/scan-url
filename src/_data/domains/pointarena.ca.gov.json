@@ -8,64 +8,22 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "WordPress 6.9",
-  "responseHeaders": [
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "host-header",
-      "value": "d3AuYmx1ZWhvc3QuY29t"
-    },
-    {
-      "name": "link",
-      "value": "<https://pointarena.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://pointarena.ca.gov/wp-json/wp/v2/pages/291>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://pointarena.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "server",
-      "value": "nginx/1.27.2"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-endurance-cache-level",
-      "value": "2"
-    },
-    {
-      "name": "x-nginx-cache",
-      "value": "WordPress"
-    },
-    {
-      "name": "x-proxy-cache",
-      "value": "MISS"
-    },
-    {
-      "name": "x-server-cache",
-      "value": "true"
-    },
-    {
-      "name": "x-tec-api-origin",
-      "value": "https://pointarena.ca.gov"
-    },
-    {
-      "name": "x-tec-api-root",
-      "value": "https://pointarena.ca.gov/wp-json/tribe/events/v1/"
-    },
-    {
-      "name": "x-tec-api-version",
-      "value": "v1"
-    }
-  ],
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "host-header": "d3AuYmx1ZWhvc3QuY29t",
+    "link": "<https://pointarena.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://pointarena.ca.gov/wp-json/wp/v2/pages/291>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://pointarena.ca.gov/>; rel=shortlink",
+    "server": "nginx/1.27.2",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding",
+    "x-endurance-cache-level": "2",
+    "x-nginx-cache": "WordPress",
+    "x-proxy-cache": "MISS",
+    "x-server-cache": "true",
+    "x-tec-api-origin": "https://pointarena.ca.gov",
+    "x-tec-api-root": "https://pointarena.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -73,19 +31,19 @@
   "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [
+    "https://twitter.com/intent/tweet?text=https://www.facebook.com/photo.php?fbid=1295377315952350&set=a.628100769346678&type=3+1",
+    "https://twitter.com/intent/tweet?text=https://www.instagram.com/p/DT4OR15EVkT/+Point%20Arena%E2%80%99s%20original%20first%20responders.%20%F0%9F%8C%8A%E2%9A%93The%20Point%20Arena%20Life%20Saving%20Crew,%20early%201900s%20%E2%80%94%20local%20heroes%20who%20launched%20into%20dangerous%20surf%20to%20protect%20lives%20along%20our%20rugged%20coast.%20Arena%20Cove%20was%20the%20launch%20point%20for%20countless%20rescue%20missions%20on%20one%20of%20the%20most%20treacherous%20stretches%20of%20the%20California%20coast.%20%20Today,%20Arena%20Cove%20continues%20that%20tradition%20as%20a%20working%20harbor,%20supporting%20our%20fishing%20fleet%20and%20welcoming%20locals%20and%20visitors%20to%20enjoy%20the%20natural%20beauty%20of%20this%20special%20place.",
     "https://www.facebook.com/204306180005839",
     "https://www.facebook.com/photo.php?fbid=1295377315952350&set=a.628100769346678&type=3",
-    "https://www.facebook.com/sharer/sharer.php?u=https://www.facebook.com/photo.php?fbid=1295377315952350&set=a.628100769346678&type=3",
-    "https://twitter.com/intent/tweet?text=https://www.facebook.com/photo.php?fbid=1295377315952350&set=a.628100769346678&type=3+1",
-    "https://www.linkedin.com/shareArticle?mini=true&url=https://www.facebook.com/photo.php?fbid=1295377315952350&set=a.628100769346678&type=3",
-    "mailto:?subject=Shared%20Link&body=https://www.facebook.com/photo.php?fbid=1295377315952350&set=a.628100769346678&type=3%20-%201",
-    "https://www.instagram.com/p/DT4OR15EVkT/",
-    "https://www.facebook.com/sharer/sharer.php?u=https://www.instagram.com/p/DT4OR15EVkT/",
-    "https://twitter.com/intent/tweet?text=https://www.instagram.com/p/DT4OR15EVkT/+Point%20Arena%E2%80%99s%20original%20first%20responders.%20%F0%9F%8C%8A%E2%9A%93The%20Point%20Arena%20Life%20Saving%20Crew,%20early%201900s%20%E2%80%94%20local%20heroes%20who%20launched%20into%20dangerous%20surf%20to%20protect%20lives%20along%20our%20rugged%20coast.%20Arena%20Cove%20was%20the%20launch%20point%20for%20countless%20rescue%20missions%20on%20one%20of%20the%20most%20treacherous%20stretches%20of%20the%20California%20coast.%20%20Today,%20Arena%20Cove%20continues%20that%20tradition%20as%20a%20working%20harbor,%20supporting%20our%20fishing%20fleet%20and%20welcoming%20locals%20and%20visitors%20to%20enjoy%20the%20natural%20beauty%20of%20this%20special%20place.",
-    "https://www.linkedin.com/shareArticle?mini=true&url=https://www.instagram.com/p/DT4OR15EVkT/",
-    "mailto:?subject=Shared%20Link&body=https://www.instagram.com/p/DT4OR15EVkT/%20-%20Point%20Arena%E2%80%99s%20original%20first%20responders.%20%F0%9F%8C%8A%E2%9A%93The%20Point%20Arena%20Life%20Saving%20Crew,%20early%201900s%20%E2%80%94%20local%20heroes%20who%20launched%20into%20dangerous%20surf%20to%20protect%20lives%20along%20our%20rugged%20coast.%20Arena%20Cove%20was%20the%20launch%20point%20for%20countless%20rescue%20missions%20on%20one%20of%20the%20most%20treacherous%20stretches%20of%20the%20California%20coast.%20%20Today,%20Arena%20Cove%20continues%20that%20tradition%20as%20a%20working%20harbor,%20supporting%20our%20fishing%20fleet%20and%20welcoming%20locals%20and%20visitors%20to%20enjoy%20the%20natural%20beauty%20of%20this%20special%20place.",
     "https://www.facebook.com/pointarena",
-    "https://www.instagram.com/point_arena/"
+    "https://www.facebook.com/sharer/sharer.php?u=https://www.facebook.com/photo.php?fbid=1295377315952350&set=a.628100769346678&type=3",
+    "https://www.facebook.com/sharer/sharer.php?u=https://www.instagram.com/p/DT4OR15EVkT/",
+    "https://www.instagram.com/p/DT4OR15EVkT/",
+    "https://www.instagram.com/point_arena/",
+    "https://www.linkedin.com/shareArticle?mini=true&url=https://www.facebook.com/photo.php?fbid=1295377315952350&set=a.628100769346678&type=3",
+    "https://www.linkedin.com/shareArticle?mini=true&url=https://www.instagram.com/p/DT4OR15EVkT/",
+    "mailto:?subject=Shared%20Link&body=https://www.facebook.com/photo.php?fbid=1295377315952350&set=a.628100769346678&type=3%20-%201",
+    "mailto:?subject=Shared%20Link&body=https://www.instagram.com/p/DT4OR15EVkT/%20-%20Point%20Arena%E2%80%99s%20original%20first%20responders.%20%F0%9F%8C%8A%E2%9A%93The%20Point%20Arena%20Life%20Saving%20Crew,%20early%201900s%20%E2%80%94%20local%20heroes%20who%20launched%20into%20dangerous%20surf%20to%20protect%20lives%20along%20our%20rugged%20coast.%20Arena%20Cove%20was%20the%20launch%20point%20for%20countless%20rescue%20missions%20on%20one%20of%20the%20most%20treacherous%20stretches%20of%20the%20California%20coast.%20%20Today,%20Arena%20Cove%20continues%20that%20tradition%20as%20a%20working%20harbor,%20supporting%20our%20fishing%20fleet%20and%20welcoming%20locals%20and%20visitors%20to%20enjoy%20the%20natural%20beauty%20of%20this%20special%20place."
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

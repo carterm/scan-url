@@ -7,40 +7,16 @@
   "title": "Employer Services Online",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"NON CUR OTPi OUR NOR UNI\""
-    },
-    {
-      "name": "pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-akamai-transformed",
-      "value": "9 2898 0 pmb=mRUM,1"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "p3p": "CP=\"NON CUR OTPi OUR NOR UNI\"",
+    "pragma": "no-cache",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Accept-Encoding",
+    "x-akamai-transformed": "9 2898 0 pmb=mRUM,1"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

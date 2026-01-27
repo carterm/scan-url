@@ -8,64 +8,22 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.3",
-  "responseHeaders": [
-    {
-      "name": "alt-svc",
-      "value": "h3=\":443\"; ma=86400"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://www.ots.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "permissions-policy",
-      "value": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")"
-    },
-    {
-      "name": "server",
-      "value": "cloudflare"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000; includeSubDomains"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache-group",
-      "value": "normal"
-    },
-    {
-      "name": "x-cacheable",
-      "value": "SHORT"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "WP Engine"
-    }
-  ],
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://www.ots.ca.gov/>; rel=shortlink",
+    "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
+    "server": "cloudflare",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie",
+    "x-cache-group": "normal",
+    "x-cacheable": "SHORT",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "WP Engine"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -80,22 +38,22 @@
     "UA-3419582-47"
   ],
   "socialLinks": [
-    "https://www.instagram.com/p/DSne_1Ik-p9/",
-    "https://www.instagram.com/p/DSd1f8PDJDn/",
-    "https://www.instagram.com/reel/DRigjmpkUoA/",
-    "https://www.instagram.com/p/DRL3TwwDBZh/",
-    "https://www.instagram.com/p/DRDd6vxDFKw/",
-    "https://www.instagram.com/p/DRDdv5nEtNR/",
-    "https://www.instagram.com/p/DRDdVNyjGGj/",
-    "https://www.instagram.com/p/DQ66Q9Uj3Op/",
-    "https://www.instagram.com/p/DQeuaIQicyv/",
-    "https://www.instagram.com/p/DQeuRrNCU1H/",
-    "https://www.instagram.com/reel/DPmP_zrgd5L/",
-    "https://www.instagram.com/p/DPFNpnnjKQI/",
-    "https://www.instagram.com/ots_ca/",
-    "https://www.facebook.com/CaliforniaOTS",
     "https://instagram.com/ots_CA/",
     "https://twitter.com/OTS_CA",
+    "https://www.facebook.com/CaliforniaOTS",
+    "https://www.instagram.com/ots_ca/",
+    "https://www.instagram.com/p/DPFNpnnjKQI/",
+    "https://www.instagram.com/p/DQ66Q9Uj3Op/",
+    "https://www.instagram.com/p/DQeuRrNCU1H/",
+    "https://www.instagram.com/p/DQeuaIQicyv/",
+    "https://www.instagram.com/p/DRDd6vxDFKw/",
+    "https://www.instagram.com/p/DRDdVNyjGGj/",
+    "https://www.instagram.com/p/DRDdv5nEtNR/",
+    "https://www.instagram.com/p/DRL3TwwDBZh/",
+    "https://www.instagram.com/p/DSd1f8PDJDn/",
+    "https://www.instagram.com/p/DSne_1Ik-p9/",
+    "https://www.instagram.com/reel/DPmP_zrgd5L/",
+    "https://www.instagram.com/reel/DRigjmpkUoA/",
     "https://www.youtube.com/user/CaliforniaOTS"
   ],
   "linksToCaGov": true,

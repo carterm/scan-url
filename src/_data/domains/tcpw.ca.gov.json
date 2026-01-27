@@ -8,32 +8,14 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "WordPress 6.9",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://tcpw.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://tcpw.ca.gov/wp-json/wp/v2/pages/33>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://tcpw.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://tcpw.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://tcpw.ca.gov/wp-json/wp/v2/pages/33>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://tcpw.ca.gov/>; rel=shortlink",
+    "server": "nginx",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -43,8 +25,8 @@
     "G-XYLMZ67JYC"
   ],
   "socialLinks": [
-    "https://www.facebook.com/TehamaCountyPublicWorks",
-    "https://l.facebook.com/l.php?u=https%3A%2F%2Fhighways.dot.gov%2Fnewsroom%2Fbiden-harris-administration-announces-bipartisan-infrastructure-laws-first-bridge%3Ffbclid%3DIwAR14bg6f6womtiTBR2ufNG_Hq_z9Gfm_3yBsdrSZwDHsbPmW-yzhQJ8f_t8&h=AT3keUttKm6OvzOXnpgho23zTuVNPd0_-jH2RrbYil-glVbxDRkSIvDJq6l1_k-tXflSU2Ar076Z8rZVOJt5TtkK74G9Hvtk39zYoFKAbIW__wpuOovZFfjWmis10GGPlaVb&__tn__=-UK-R&c%5b0%5d=AT1wzYg9fSzJ-DnmzAtsZs2E9lKQ1a9sU0L9xrSxeTC2ZmkFZ3i9-nQz5I2QvfxuL9i3VMLJ3VL-7gKr_RuROgy-uyvSHDYRt9OHcxEu71QDObI8dhIAV9IRRMzSiG_fMpIu5jH-cQhyHKxuSHa4R3d8CjMWfwmSxQ04ibw6475jwWk5BxutkZn1vxo_zZB-njUkbLILBvyf"
+    "https://l.facebook.com/l.php?u=https%3A%2F%2Fhighways.dot.gov%2Fnewsroom%2Fbiden-harris-administration-announces-bipartisan-infrastructure-laws-first-bridge%3Ffbclid%3DIwAR14bg6f6womtiTBR2ufNG_Hq_z9Gfm_3yBsdrSZwDHsbPmW-yzhQJ8f_t8&h=AT3keUttKm6OvzOXnpgho23zTuVNPd0_-jH2RrbYil-glVbxDRkSIvDJq6l1_k-tXflSU2Ar076Z8rZVOJt5TtkK74G9Hvtk39zYoFKAbIW__wpuOovZFfjWmis10GGPlaVb&__tn__=-UK-R&c%5b0%5d=AT1wzYg9fSzJ-DnmzAtsZs2E9lKQ1a9sU0L9xrSxeTC2ZmkFZ3i9-nQz5I2QvfxuL9i3VMLJ3VL-7gKr_RuROgy-uyvSHDYRt9OHcxEu71QDObI8dhIAV9IRRMzSiG_fMpIu5jH-cQhyHKxuSHa4R3d8CjMWfwmSxQ04ibw6475jwWk5BxutkZn1vxo_zZB-njUkbLILBvyf",
+    "https://www.facebook.com/TehamaCountyPublicWorks"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

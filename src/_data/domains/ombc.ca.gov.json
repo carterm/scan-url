@@ -7,48 +7,18 @@
   "title": "Welcome To Our Web Site - Osteopathic Medical Board of California",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "accept-ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "access-control-allow-private-network",
-      "value": "true"
-    },
-    {
-      "name": "connection",
-      "value": "Keep-Alive"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=16070400; includeSubDomains; preload"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "1; mode=block"
-    }
-  ],
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "access-control-allow-private-network": "true",
+    "connection": "Keep-Alive",
+    "content-type": "text/html",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=16070400; includeSubDomains; preload",
+    "transfer-encoding": "chunked",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -64,9 +34,9 @@
   "socialLinks": [
     "https://m.facebook.com/OsteoBoardCA/",
     "https://twitter.com/OsteoBoardCA/",
-    "https://www.linkedin.com/company/osteopathic-medical-board-of-california",
+    "https://twitter.com/i/flow/login?redirect_after_login=%2FOsteoBoardCA%2F",
     "https://www.facebook.com/OsteoBoardCA",
-    "https://twitter.com/i/flow/login?redirect_after_login=%2FOsteoBoardCA%2F"
+    "https://www.linkedin.com/company/osteopathic-medical-board-of-california"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

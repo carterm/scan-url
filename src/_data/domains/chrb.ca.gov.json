@@ -7,20 +7,11 @@
   "title": "California Horse Racing Board",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "server",
-      "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "ASP.NET"
-    }
-  ],
+  "responseHeaders": {
+    "content-type": "text/html",
+    "server": "Microsoft-IIS/10.0",
+    "x-powered-by": "ASP.NET"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -30,19 +21,19 @@
     "G-5Z5BS440DZ"
   ],
   "socialLinks": [
-    "https://www.facebook.com/cachrb",
     "http://twitter.com/cachrb",
     "http://www.youtube.com/user/calchrb",
-    "https://www.youtube.com/watch?v=K60duTIe13s",
-    "https://www.youtube.com/watch?v=tPnbgznw0wI",
-    "https://www.youtube.com/watch?v=S59QWLGGVUU",
-    "https://www.youtube.com/watch?v=Lv675UvYZeM",
-    "https://www.youtube.com/watch?v=ybn-mRWykm8",
+    "https://www.facebook.com/cachrb",
+    "https://www.youtube.com/user/calchrb",
     "https://www.youtube.com/watch?v=C0N5a4sk8qI",
+    "https://www.youtube.com/watch?v=K60duTIe13s",
+    "https://www.youtube.com/watch?v=Lv675UvYZeM",
     "https://www.youtube.com/watch?v=MqwmtP8HGFc",
-    "https://www.youtube.com/watch?v=ZvjTxUkEHfs",
+    "https://www.youtube.com/watch?v=S59QWLGGVUU",
     "https://www.youtube.com/watch?v=WyKSSrMzavU",
-    "https://www.youtube.com/user/calchrb"
+    "https://www.youtube.com/watch?v=ZvjTxUkEHfs",
+    "https://www.youtube.com/watch?v=tPnbgznw0wI",
+    "https://www.youtube.com/watch?v=ybn-mRWykm8"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

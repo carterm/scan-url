@@ -8,40 +8,16 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "CommonSpot Build 10.9.1.579",
-  "responseHeaders": [
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html;charset=UTF-8"
-    },
-    {
-      "name": "pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "server",
-      "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN, SAMEORIGIN"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "ASP.NET"
-    }
-  ],
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html;charset=UTF-8",
+    "pragma": "no-cache",
+    "server": "Microsoft-IIS/10.0",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding",
+    "x-frame-options": "SAMEORIGIN, SAMEORIGIN",
+    "x-powered-by": "ASP.NET"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -54,10 +30,10 @@
   ],
   "socialLinks": [
     "http://www.facebook.com/insurancecagov",
-    "https://www.youtube.com/user/CaDeptOfInsurance",
-    "https://www.instagram.com/cadeptofinsurance/",
     "http://www.linkedin.com/company/california-department-of-insurance",
-    "https://twitter.com/CDINews"
+    "https://twitter.com/CDINews",
+    "https://www.instagram.com/cadeptofinsurance/",
+    "https://www.youtube.com/user/CaDeptOfInsurance"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

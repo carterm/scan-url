@@ -8,40 +8,16 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "WordPress 6.9",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://calrx.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://calrx.ca.gov/wp-json/wp/v2/pages/799>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://calrx.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-btcache-served",
-      "value": "Yes"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://calrx.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://calrx.ca.gov/wp-json/wp/v2/pages/799>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://calrx.ca.gov/>; rel=shortlink",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding,Cookie",
+    "x-btcache-served": "Yes",
+    "x-frame-options": "SAMEORIGIN"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -52,9 +28,9 @@
     "G-B15ZM3C3NN"
   ],
   "socialLinks": [
-    "https://www.youtube.com/watch?v=cvuytKeHV_8",
+    "https://twitter.com/CAgovernor/status/1637156655971565569?s=20link",
     "https://twitter.com/GavinNewsom/status/1545122879649374209",
-    "https://twitter.com/CAgovernor/status/1637156655971565569?s=20link"
+    "https://www.youtube.com/watch?v=cvuytKeHV_8"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

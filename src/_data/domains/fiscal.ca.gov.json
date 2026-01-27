@@ -8,56 +8,20 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "Divi Child v.3.11.1.1533591462",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "permissions-policy",
-      "value": "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "strict-origin"
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000; includeSubDomains; preload"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding, Cookie"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "PHP/8.3.26"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "1; mode=block"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "permissions-policy": "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)",
+    "referrer-policy": "strict-origin",
+    "server": "nginx",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "Accept-Encoding, Cookie",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "PHP/8.3.26",
+    "x-xss-protection": "1; mode=block"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -68,13 +32,13 @@
     "UA-3419582-2"
   ],
   "socialLinks": [
+    "https://instagram.com/calfiscal",
     "https://twitter.com/calfiscal",
+    "https://www.facebook.com/CalFiscal",
+    "https://www.facebook.com/calfiscal",
     "https://www.linkedin.com/company/fi-cal-project",
     "https://www.youtube.com/channel/UCw6Dnnb_djBG4fRTqKobQ5w",
-    "https://instagram.com/calfiscal",
-    "https://www.facebook.com/CalFiscal",
-    "https://www.youtube.com/watch?v=dxznM9Yv2nQ",
-    "https://www.facebook.com/calfiscal"
+    "https://www.youtube.com/watch?v=dxznM9Yv2nQ"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

@@ -8,56 +8,20 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "Drupal 9 (https://www.drupal.org)",
-  "responseHeaders": [
-    {
-      "name": "accept-ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-language",
-      "value": "en"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=300; includeSubDomains;"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding, Cookie, Cookie, Cookie, orig-host"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-generator",
-      "value": "Drupal 9 (https://www.drupal.org)"
-    },
-    {
-      "name": "x-ua-compatible",
-      "value": "IE=edge"
-    }
-  ],
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-language": "en",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "strict-transport-security": "max-age=300; includeSubDomains;",
+    "vary": "Accept-Encoding, Cookie, Cookie, Cookie, orig-host",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-generator": "Drupal 9 (https://www.drupal.org)",
+    "x-ua-compatible": "IE=edge"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

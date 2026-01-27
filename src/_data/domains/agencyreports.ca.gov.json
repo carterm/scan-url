@@ -7,60 +7,21 @@
   "title": "Search for Agency Reports | California Agency Reports",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "Keep-Alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-language",
-      "value": "en"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "from-origin",
-      "value": "https://acc-was.calegis.net"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "no-referrer-when-downgrade"
-    },
-    {
-      "name": "server",
-      "value": "Apache"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=1000; includeSubDomains"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Cookie,Accept-Encoding"
-    },
-    {
-      "name": "x-content-security-policy",
-      "value": "default-src https: data: 'unsafe-inline' 'unsafe-eval'; script-src 'unsafe-inline'  'self' google.com www.google.com www.gstatic.com www.recaptcha.net polyfill.io; style-src 'unsafe-inline'  *; img-src 'self' data: https:; frame-ancestors *.assembly.ca.gov *.calegis.net; child-src www.google.com www.gstatic.com; font-src 'self' fonts.gstatic.com themes.googleusercontent.com data:; report-uri /report-csp-violation; upgrade-insecure-requests"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-webkit-csp",
-      "value": "default-src https: data: 'unsafe-inline' 'unsafe-eval'; script-src 'unsafe-inline'  'self' google.com www.google.com www.gstatic.com www.recaptcha.net polyfill.io; style-src 'unsafe-inline'  *; img-src 'self' data: https:; frame-ancestors *.assembly.ca.gov *.calegis.net; child-src www.google.com www.gstatic.com; font-src 'self' fonts.gstatic.com themes.googleusercontent.com data:; report-uri /report-csp-violation; upgrade-insecure-requests"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "Keep-Alive",
+    "content-encoding": "gzip",
+    "content-language": "en",
+    "content-type": "text/html; charset=UTF-8",
+    "from-origin": "https://acc-was.calegis.net",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "server": "Apache",
+    "strict-transport-security": "max-age=1000; includeSubDomains",
+    "transfer-encoding": "chunked",
+    "vary": "Cookie,Accept-Encoding",
+    "x-content-security-policy": "default-src https: data: 'unsafe-inline' 'unsafe-eval'; script-src 'unsafe-inline'  'self' google.com www.google.com www.gstatic.com www.recaptcha.net polyfill.io; style-src 'unsafe-inline'  *; img-src 'self' data: https:; frame-ancestors *.assembly.ca.gov *.calegis.net; child-src www.google.com www.gstatic.com; font-src 'self' fonts.gstatic.com themes.googleusercontent.com data:; report-uri /report-csp-violation; upgrade-insecure-requests",
+    "x-content-type-options": "nosniff",
+    "x-webkit-csp": "default-src https: data: 'unsafe-inline' 'unsafe-eval'; script-src 'unsafe-inline'  'self' google.com www.google.com www.gstatic.com www.recaptcha.net polyfill.io; style-src 'unsafe-inline'  *; img-src 'self' data: https:; frame-ancestors *.assembly.ca.gov *.calegis.net; child-src www.google.com www.gstatic.com; font-src 'self' fonts.gstatic.com themes.googleusercontent.com data:; report-uri /report-csp-violation; upgrade-insecure-requests"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

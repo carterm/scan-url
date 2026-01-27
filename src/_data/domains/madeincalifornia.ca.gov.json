@@ -8,32 +8,14 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "CAWeb v.1.5.2a",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://www.madeincalifornia.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.madeincalifornia.ca.gov/wp-json/wp/v2/pages/30523>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.madeincalifornia.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "server",
-      "value": "Apache"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://www.madeincalifornia.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.madeincalifornia.ca.gov/wp-json/wp/v2/pages/30523>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.madeincalifornia.ca.gov/>; rel=shortlink",
+    "server": "Apache",
+    "vary": "Accept-Encoding"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -43,10 +25,10 @@
     "G-SEYPRR85FP"
   ],
   "socialLinks": [
-    "https://www.facebook.com/CaliforniaOSBA/",
     "https://twitter.com/californiaosba",
-    "https://www.youtube.com/channel/UChQxUhvsGGlibuQuJ86FPkg",
+    "https://www.facebook.com/CaliforniaOSBA/",
     "https://www.linkedin.com/company/governor-s-office-of-business-and-economic-development",
+    "https://www.youtube.com/channel/UChQxUhvsGGlibuQuJ86FPkg",
     "https://www.youtube.com/watch?v=78PwU7nWek4&width=900&height=500",
     "https://www.youtube.com/watch?v=POm3BVZyUMU&rel=0&width=900&height=500"
   ],

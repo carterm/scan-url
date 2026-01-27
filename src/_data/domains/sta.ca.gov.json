@@ -7,60 +7,21 @@
   "title": "Solano Transportation Authority",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "accept-ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://sta.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://sta.ca.gov/wp-json/wp/v2/pages/9>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://sta.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "server",
-      "value": ""
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000, max-age=300"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding, Cookie, Cookie"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-powered-by",
-      "value": ""
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "1; mode=block"
-    }
-  ],
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://sta.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://sta.ca.gov/wp-json/wp/v2/pages/9>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://sta.ca.gov/>; rel=shortlink",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "",
+    "strict-transport-security": "max-age=31536000, max-age=300",
+    "vary": "Accept-Encoding, Cookie, Cookie",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "",
+    "x-xss-protection": "1; mode=block"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -70,9 +31,9 @@
     "G-L9SWKSSW0V"
   ],
   "socialLinks": [
-    "https://www.linkedin.com/company/solano-transportation-authority",
+    "https://twitter.com/STA_Solano",
     "https://www.facebook.com/SolanoTransportationAuthority/",
-    "https://twitter.com/STA_Solano"
+    "https://www.linkedin.com/company/solano-transportation-authority"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

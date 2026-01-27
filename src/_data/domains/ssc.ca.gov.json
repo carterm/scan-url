@@ -8,40 +8,14 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.0",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://www.ssc.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.ssc.ca.gov/wp-json/wp/v2/pages/2>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.ssc.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000; includeSubDomains"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://www.ssc.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.ssc.ca.gov/wp-json/wp/v2/pages/2>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.ssc.ca.gov/>; rel=shortlink",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -53,11 +27,11 @@
     "UA-3419582-2"
   ],
   "socialLinks": [
-    "https://www.youtube.com/watch?v=qhDdzHae4Rc",
     "http://www.youtube.com/watch?feature=player_embedded&v=V8D0jR0EaW8",
-    "https://www.linkedin.com/posts/mnwdwater_resilienttogether-femagrant-mnwd-activity-7165866553400385537-estl?utm_source=share&utm_medium=member_desktop",
     "https://twitter.com/CAseismic",
-    "https://www.youtube.com/user/CSSCommission"
+    "https://www.linkedin.com/posts/mnwdwater_resilienttogether-femagrant-mnwd-activity-7165866553400385537-estl?utm_source=share&utm_medium=member_desktop",
+    "https://www.youtube.com/user/CSSCommission",
+    "https://www.youtube.com/watch?v=qhDdzHae4Rc"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

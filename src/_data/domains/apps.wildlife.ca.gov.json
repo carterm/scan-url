@@ -7,32 +7,14 @@
   "title": "Apps - California Department of Fish and Wildlife",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "accept-ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=63072000; includeSubDomains"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding,Accept-Encoding"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    }
-  ],
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "content-encoding": "br",
+    "content-type": "text/html",
+    "strict-transport-security": "max-age=63072000; includeSubDomains",
+    "vary": "Accept-Encoding,Accept-Encoding",
+    "x-content-type-options": "nosniff"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

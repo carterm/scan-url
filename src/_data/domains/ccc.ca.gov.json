@@ -8,12 +8,9 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "CCC Divi Child Theme v.1.0.1",
-  "responseHeaders": [
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    }
-  ],
+  "responseHeaders": {
+    "content-type": "text/html; charset=UTF-8"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -25,8 +22,8 @@
   ],
   "socialLinks": [
     "https://www.facebook.com/californiaconservationcorps/",
-    "https://www.youtube.com/user/caconservationcorps/",
-    "https://www.instagram.com/californiaconservationcorps/"
+    "https://www.instagram.com/californiaconservationcorps/",
+    "https://www.youtube.com/user/caconservationcorps/"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

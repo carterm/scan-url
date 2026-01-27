@@ -8,64 +8,22 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "Drupal 10 (https://www.drupal.org)",
-  "responseHeaders": [
-    {
-      "name": "accept-ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-language",
-      "value": "en"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "cross-origin-opener-policy",
-      "value": "same-origin"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "no-referrer-when-downgrade"
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=1000, max-age=300"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding, Cookie, Cookie, Cookie"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-generator",
-      "value": "Drupal 10 (https://www.drupal.org)"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "1"
-    }
-  ],
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-language": "en",
+    "content-type": "text/html; charset=UTF-8",
+    "cross-origin-opener-policy": "same-origin",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "server": "nginx",
+    "strict-transport-security": "max-age=1000, max-age=300",
+    "vary": "Accept-Encoding, Cookie, Cookie, Cookie",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-generator": "Drupal 10 (https://www.drupal.org)",
+    "x-xss-protection": "1"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -77,9 +35,9 @@
     "GTM-55J6L25"
   ],
   "socialLinks": [
-    "https://www.linkedin.com/company/metropolitan-transportation-commission",
-    "https://www.facebook.com/MTCBATA",
     "https://instagram.com/mtcbata",
+    "https://www.facebook.com/MTCBATA",
+    "https://www.linkedin.com/company/metropolitan-transportation-commission",
     "https://www.youtube.com/user/mtcabaglibrary"
   ],
   "linksToCaGov": false,

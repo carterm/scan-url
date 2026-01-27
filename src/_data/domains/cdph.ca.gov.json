@@ -7,52 +7,19 @@
   "title": "CDPH Home",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "microsoftsharepointteamservices",
-      "value": "16.0.0.10417"
-    },
-    {
-      "name": "server",
-      "value": "volt-adc"
-    },
-    {
-      "name": "spiislatency",
-      "value": "0"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "*"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-ms-invokeapp",
-      "value": "1; RequireReadOnly"
-    },
-    {
-      "name": "x-sharepointhealthscore",
-      "value": "0"
-    }
-  ],
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "microsoftsharepointteamservices": "16.0.0.10417",
+    "server": "volt-adc",
+    "spiislatency": "0",
+    "transfer-encoding": "chunked",
+    "vary": "*",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-ms-invokeapp": "1; RequireReadOnly",
+    "x-sharepointhealthscore": "0"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -64,11 +31,11 @@
   ],
   "socialLinks": [
     "https://instagram.com/capublichealth/",
+    "https://twitter.com/CAPublicHealth",
     "https://www.facebook.com/CAPublicHealth",
     "https://www.linkedin.com/company/california-department-of-public-health",
-    "https://www.youtube.com/user/CAPublicHealth",
-    "https://twitter.com/CAPublicHealth",
-    "https://www.tiktok.com/@capublichealth"
+    "https://www.tiktok.com/@capublichealth",
+    "https://www.youtube.com/user/CAPublicHealth"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

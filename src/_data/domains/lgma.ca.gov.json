@@ -8,60 +8,21 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "SEOmatic",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://lgma.ca.gov/>; rel='canonical'"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "no-referrer-when-downgrade"
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "Craft CMS, SEOmatic"
-    },
-    {
-      "name": "x-robots-tag",
-      "value": "all"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "1; mode=block"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://lgma.ca.gov/>; rel='canonical'",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "server": "nginx",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "Craft CMS, SEOmatic",
+    "x-robots-tag": "all",
+    "x-xss-protection": "1; mode=block"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -73,9 +34,9 @@
   "socialLinks": [
     "https://twitter.com/LGMAnews",
     "https://www.facebook.com/calgma",
+    "https://www.instagram.com/californialgma/",
     "https://www.linkedin.com/company/california-leafy-greens-marketing-agreement",
-    "https://www.youtube.com/channel/UCB9RsslTu_uK_9pqtYLcyqw",
-    "https://www.instagram.com/californialgma/"
+    "https://www.youtube.com/channel/UCB9RsslTu_uK_9pqtYLcyqw"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

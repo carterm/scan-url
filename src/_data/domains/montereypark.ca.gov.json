@@ -7,32 +7,14 @@
   "title": "Monterey Park, CA - Official Website | Official Website",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "p3p",
-      "value": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\""
-    },
-    {
-      "name": "server",
-      "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    }
-  ],
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "p3p": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"",
+    "server": "Microsoft-IIS/10.0",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -44,11 +26,11 @@
     "UA-83428977-1"
   ],
   "socialLinks": [
+    "https://twitter.com/CityofMPK",
     "https://www.facebook.com/CityofMontereyPark",
-    "https://x.com/CityofMPK",
     "https://www.instagram.com/cityofmontereypark/",
     "https://www.youtube.com/user/MontParkTV",
-    "https://twitter.com/CityofMPK"
+    "https://x.com/CityofMPK"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

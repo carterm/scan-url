@@ -7,32 +7,14 @@
   "title": "California Coastal Commission",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "access-control-allow-origin",
-      "value": "*"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "server",
-      "value": "Microsoft-IIS/7.5"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "ASP.NET"
-    }
-  ],
+  "responseHeaders": {
+    "access-control-allow-origin": "*",
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "server": "Microsoft-IIS/7.5",
+    "vary": "Accept-Encoding",
+    "x-powered-by": "ASP.NET"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -43,12 +25,12 @@
     "G-69TD0KNT0F"
   ],
   "socialLinks": [
-    "https://www.youtube.com/playlist?list=PLhOALIlMeKQ51x8PXbD1Wk6rpzhYdWHmG",
-    "https://www.youtube.com/watch?v=hoVn22IXuKE",
-    "https://www.youtube.com/playlist?list=PLhOALIlMeKQ44wljwJMoekuR3WqaXfY8X",
-    "http://www.facebook.com/californiacoast",
     "http://instagram.com/thecaliforniacoast",
-    "https://www.youtube.com/@Coast4uOrg"
+    "http://www.facebook.com/californiacoast",
+    "https://www.youtube.com/@Coast4uOrg",
+    "https://www.youtube.com/playlist?list=PLhOALIlMeKQ44wljwJMoekuR3WqaXfY8X",
+    "https://www.youtube.com/playlist?list=PLhOALIlMeKQ51x8PXbD1Wk6rpzhYdWHmG",
+    "https://www.youtube.com/watch?v=hoVn22IXuKE"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

@@ -7,32 +7,14 @@
   "title": "Login for DHCS Application Portal",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "accept-ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "server",
-      "value": "AmazonS3"
-    },
-    {
-      "name": "x-amz-server-side-encryption",
-      "value": "AES256"
-    },
-    {
-      "name": "x-amz-version-id",
-      "value": "1UyugqNCRjtG0aOLFQ9u.bZB8kkkUH13"
-    }
-  ],
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-type": "text/html",
+    "server": "AmazonS3",
+    "x-amz-server-side-encryption": "AES256",
+    "x-amz-version-id": "1UyugqNCRjtG0aOLFQ9u.bZB8kkkUH13"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -7,44 +7,17 @@
   "title": "CalPIP Home - California Pesticide Information Portal",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "Keep-Alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html;charset=UTF-8"
-    },
-    {
-      "name": "server",
-      "value": "Apache"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=63072000; includeSubDomains; preload"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "x-cdn",
-      "value": "Imperva"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-ua-compatible",
-      "value": "IE=edge"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "Keep-Alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html;charset=UTF-8",
+    "server": "Apache",
+    "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+    "transfer-encoding": "chunked",
+    "x-cdn": "Imperva",
+    "x-content-type-options": "nosniff",
+    "x-ua-compatible": "IE=edge"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -55,9 +28,9 @@
   ],
   "socialLinks": [
     "https://www.facebook.com/CaPesticideRegulation",
-    "https://x.com/CA_PesticideReg",
+    "https://www.linkedin.com/company/california-pesticide-regulation/",
     "https://www.youtube.com/CaliforniaPesticides",
-    "https://www.linkedin.com/company/california-pesticide-regulation/"
+    "https://x.com/CA_PesticideReg"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

@@ -7,28 +7,13 @@
   "title": "",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "accept-ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "content-md5",
-      "value": "yRMK3NMjFOp8nloQU2CQ3w=="
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "server",
-      "value": "volt-adc"
-    },
-    {
-      "name": "x-ms-version",
-      "value": "2018-03-28"
-    }
-  ],
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "content-md5": "yRMK3NMjFOp8nloQU2CQ3w==",
+    "content-type": "text/html",
+    "server": "volt-adc",
+    "x-ms-version": "2018-03-28"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

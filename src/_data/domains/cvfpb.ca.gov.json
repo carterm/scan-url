@@ -8,48 +8,18 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "Site Kit by Google 1.168.0",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://cvfpb.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://cvfpb.ca.gov/wp-json/wp/v2/pages/14344>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://cvfpb.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-tec-api-origin",
-      "value": "https://cvfpb.ca.gov"
-    },
-    {
-      "name": "x-tec-api-root",
-      "value": "https://cvfpb.ca.gov/wp-json/tribe/events/v1/"
-    },
-    {
-      "name": "x-tec-api-version",
-      "value": "v1"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://cvfpb.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://cvfpb.ca.gov/wp-json/wp/v2/pages/14344>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://cvfpb.ca.gov/>; rel=shortlink",
+    "server": "nginx",
+    "transfer-encoding": "chunked",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-tec-api-origin": "https://cvfpb.ca.gov",
+    "x-tec-api-root": "https://cvfpb.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,

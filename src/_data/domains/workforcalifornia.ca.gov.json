@@ -7,56 +7,20 @@
   "title": "Work for California",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "blazor-enhanced-nav",
-      "value": "allow"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "request-context",
-      "value": "appId=cid-v1:b86fbeb7-5d74-4106-8d0e-d61a9f570b02"
-    },
-    {
-      "name": "server",
-      "value": "Microsoft-IIS/10.0"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=2592000"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "ASP.NET"
-    }
-  ],
+  "responseHeaders": {
+    "blazor-enhanced-nav": "allow",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "request-context": "appId=cid-v1:b86fbeb7-5d74-4106-8d0e-d61a9f570b02",
+    "server": "Microsoft-IIS/10.0",
+    "strict-transport-security": "max-age=2592000",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "ASP.NET"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -66,17 +30,17 @@
     "G-H7MX86HSXW"
   ],
   "socialLinks": [
-    "https://www.youtube.com/embed/b6dR-2tDORY",
-    "https://www.youtube.com/embed/Ba__zQWsz6w",
-    "https://www.youtube.com/embed/KnSX6fvKCAg",
-    "https://www.youtube.com/embed/7M6B4L4TNbY",
-    "https://www.youtube.com/embed/EFr4pBAc9qI",
-    "https://www.youtube.com/embed/LlSiFe5yfZk",
+    "https://twitter.com/calhr_gov",
     "https://www.facebook.com/CalHR.gov",
     "https://www.linkedin.com/company/work-for-california",
-    "https://www.youtube.com/playlist?list=PLzDGQ8ghGbWxlMrxZyP08UZhL_VJaMnat",
-    "https://twitter.com/calhr_gov",
-    "https://www.youtube.com/channel/UCSNFW92Q4q-4enuqwdytIKw"
+    "https://www.youtube.com/channel/UCSNFW92Q4q-4enuqwdytIKw",
+    "https://www.youtube.com/embed/7M6B4L4TNbY",
+    "https://www.youtube.com/embed/Ba__zQWsz6w",
+    "https://www.youtube.com/embed/EFr4pBAc9qI",
+    "https://www.youtube.com/embed/KnSX6fvKCAg",
+    "https://www.youtube.com/embed/LlSiFe5yfZk",
+    "https://www.youtube.com/embed/b6dR-2tDORY",
+    "https://www.youtube.com/playlist?list=PLzDGQ8ghGbWxlMrxZyP08UZhL_VJaMnat"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

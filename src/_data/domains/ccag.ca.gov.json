@@ -7,84 +7,27 @@
   "title": "C/CAG",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "accept-ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "fastly-restarts",
-      "value": "1"
-    },
-    {
-      "name": "link",
-      "value": "<https://ccag.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "no-referrer-when-downgrade"
-    },
-    {
-      "name": "server",
-      "value": "Flywheel/5.1.0"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-cacheable",
-      "value": "YES"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-fw-dynamic",
-      "value": "TRUE"
-    },
-    {
-      "name": "x-fw-hash",
-      "value": "ksia5ss0bj"
-    },
-    {
-      "name": "x-fw-serve",
-      "value": "TRUE"
-    },
-    {
-      "name": "x-fw-server",
-      "value": "Flywheel/5.1.0"
-    },
-    {
-      "name": "x-fw-static",
-      "value": "NO"
-    },
-    {
-      "name": "x-fw-type",
-      "value": "FLYWHEEL_BOT"
-    },
-    {
-      "name": "x-fw-version",
-      "value": "5.0.0"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "1"
-    }
-  ],
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "fastly-restarts": "1",
+    "link": "<https://ccag.ca.gov/>; rel=shortlink",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "server": "Flywheel/5.1.0",
+    "vary": "Accept-Encoding",
+    "x-cacheable": "YES",
+    "x-content-type-options": "nosniff",
+    "x-fw-dynamic": "TRUE",
+    "x-fw-hash": "ksia5ss0bj",
+    "x-fw-serve": "TRUE",
+    "x-fw-server": "Flywheel/5.1.0",
+    "x-fw-static": "NO",
+    "x-fw-type": "FLYWHEEL_BOT",
+    "x-fw-version": "5.0.0",
+    "x-xss-protection": "1"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

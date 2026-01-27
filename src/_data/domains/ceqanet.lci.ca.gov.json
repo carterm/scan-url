@@ -7,72 +7,24 @@
   "title": "CEQAnet",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "access-control-allow-headers",
-      "value": "accept, authorization, Content-Type"
-    },
-    {
-      "name": "access-control-allow-methods",
-      "value": "GET, POST, OPTIONS, PUT, PATCH, DELETE"
-    },
-    {
-      "name": "access-control-allow-origin",
-      "value": "*"
-    },
-    {
-      "name": "access-control-expose-headers",
-      "value": "WWW-Authenticate"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "no-referrer-when-downgrade"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000; includeSubDomains; preload"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "*"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-oneagent-js-injection",
-      "value": "true"
-    },
-    {
-      "name": "x-ruxit-js-agent",
-      "value": "true"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "1; mode=block"
-    }
-  ],
+  "responseHeaders": {
+    "access-control-allow-headers": "accept, authorization, Content-Type",
+    "access-control-allow-methods": "GET, POST, OPTIONS, PUT, PATCH, DELETE",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "WWW-Authenticate",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "transfer-encoding": "chunked",
+    "vary": "*",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-oneagent-js-injection": "true",
+    "x-ruxit-js-agent": "true",
+    "x-xss-protection": "1; mode=block"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -7,64 +7,22 @@
   "title": "City of Blue Lake, CA - Blue Lake, California",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "alt-svc",
-      "value": "h3=\":443\"; ma=86400"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://bluelake.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://bluelake.ca.gov/wp-json/wp/v2/pages/11>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://bluelake.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "server",
-      "value": "cloudflare"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache-group",
-      "value": "normal"
-    },
-    {
-      "name": "x-cacheable",
-      "value": "YES:15552000.000"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "WP Engine"
-    },
-    {
-      "name": "x-tec-api-origin",
-      "value": "https://bluelake.ca.gov"
-    },
-    {
-      "name": "x-tec-api-root",
-      "value": "https://bluelake.ca.gov/wp-json/tribe/events/v1/"
-    },
-    {
-      "name": "x-tec-api-version",
-      "value": "v1"
-    }
-  ],
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://bluelake.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://bluelake.ca.gov/wp-json/wp/v2/pages/11>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://bluelake.ca.gov/>; rel=shortlink",
+    "server": "cloudflare",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie",
+    "x-cache-group": "normal",
+    "x-cacheable": "YES:15552000.000",
+    "x-powered-by": "WP Engine",
+    "x-tec-api-origin": "https://bluelake.ca.gov",
+    "x-tec-api-root": "https://bluelake.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

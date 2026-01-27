@@ -8,48 +8,18 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "WordPress 6.9",
-  "responseHeaders": [
-    {
-      "name": "alt-svc",
-      "value": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000, h3-Q050=\":443\"; ma=2592000, h3-Q046=\":443\"; ma=2592000, h3-Q043=\":443\"; ma=2592000, quic=\":443\"; ma=2592000; v=\"43,46\", h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://unionsanitary.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://unionsanitary.ca.gov/wp-json/wp/v2/pages/2763>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://unionsanitary.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "permissions-policy",
-      "value": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")"
-    },
-    {
-      "name": "server",
-      "value": "Sucuri/Cloudproxy"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "x-litespeed-cache",
-      "value": "hit"
-    },
-    {
-      "name": "x-sucuri-id",
-      "value": "11007"
-    },
-    {
-      "name": "x-turbo-charged-by",
-      "value": "LiteSpeed"
-    }
-  ],
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000, h3-Q050=\":443\"; ma=2592000, h3-Q046=\":443\"; ma=2592000, h3-Q043=\":443\"; ma=2592000, quic=\":443\"; ma=2592000; v=\"43,46\", h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://unionsanitary.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://unionsanitary.ca.gov/wp-json/wp/v2/pages/2763>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://unionsanitary.ca.gov/>; rel=shortlink",
+    "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
+    "server": "Sucuri/Cloudproxy",
+    "transfer-encoding": "chunked",
+    "x-litespeed-cache": "hit",
+    "x-sucuri-id": "11007",
+    "x-turbo-charged-by": "LiteSpeed"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -60,9 +30,9 @@
   ],
   "socialLinks": [
     "https://twitter.com/usdtweets",
-    "https://www.linkedin.com/company/union-sanitary-district",
     "https://www.facebook.com/Union-Sanitary-District-186695014698611/",
-    "https://www.facebook.com/unionsanitarydistrict"
+    "https://www.facebook.com/unionsanitarydistrict",
+    "https://www.linkedin.com/company/union-sanitary-district"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

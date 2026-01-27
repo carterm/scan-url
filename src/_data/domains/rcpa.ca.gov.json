@@ -8,72 +8,24 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "WordPress 6.9",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "host-header",
-      "value": "8441280b0c35cbc1147f8ba998a563a7"
-    },
-    {
-      "name": "link",
-      "value": "<https://rcpa.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://rcpa.ca.gov/wp-json/wp/v2/pages/428>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://rcpa.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    },
-    {
-      "name": "sg-f-cache",
-      "value": "BYPASS"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-cache-enabled",
-      "value": "True"
-    },
-    {
-      "name": "x-httpd-modphp",
-      "value": "1"
-    },
-    {
-      "name": "x-pingback",
-      "value": "https://rcpa.ca.gov/xmlrpc.php"
-    },
-    {
-      "name": "x-proxy-cache",
-      "value": "HIT"
-    },
-    {
-      "name": "x-tec-api-origin",
-      "value": "https://rcpa.ca.gov"
-    },
-    {
-      "name": "x-tec-api-root",
-      "value": "https://rcpa.ca.gov/wp-json/tribe/events/v1/"
-    },
-    {
-      "name": "x-tec-api-version",
-      "value": "v1"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "host-header": "8441280b0c35cbc1147f8ba998a563a7",
+    "link": "<https://rcpa.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://rcpa.ca.gov/wp-json/wp/v2/pages/428>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://rcpa.ca.gov/>; rel=shortlink",
+    "server": "nginx",
+    "sg-f-cache": "BYPASS",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding",
+    "x-cache-enabled": "True",
+    "x-httpd-modphp": "1",
+    "x-pingback": "https://rcpa.ca.gov/xmlrpc.php",
+    "x-proxy-cache": "HIT",
+    "x-tec-api-origin": "https://rcpa.ca.gov",
+    "x-tec-api-root": "https://rcpa.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -84,8 +36,8 @@
     "G-CACHEPRESS"
   ],
   "socialLinks": [
-    "https://www.facebook.com/SonomaRCPA/",
     "https://twitter.com/SonomaRCPA",
+    "https://www.facebook.com/SonomaRCPA/",
     "https://www.youtube.com/@sctarcpa7902"
   ],
   "linksToCaGov": false,

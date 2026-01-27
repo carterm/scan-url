@@ -8,64 +8,22 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "WordPress 6.9",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://lhc.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://lhc.ca.gov/wp-json/wp/v2/pages/2956>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://lhc.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "server",
-      "value": "sitedistrict-nginx"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=21600"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "x-cache-hit-level",
-      "value": "1"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-sd-served-by",
-      "value": "proxy-9"
-    },
-    {
-      "name": "x-server",
-      "value": "sitedistrict"
-    },
-    {
-      "name": "x-ua-compatible",
-      "value": "IE=edge"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "1; mode=block"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://lhc.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://lhc.ca.gov/wp-json/wp/v2/pages/2956>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://lhc.ca.gov/>; rel=shortlink",
+    "server": "sitedistrict-nginx",
+    "strict-transport-security": "max-age=21600",
+    "transfer-encoding": "chunked",
+    "x-cache-hit-level": "1",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-sd-served-by": "proxy-9",
+    "x-server": "sitedistrict",
+    "x-ua-compatible": "IE=edge",
+    "x-xss-protection": "1; mode=block"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -73,9 +31,9 @@
   "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [
-    "https://www.facebook.com/CALittleHoover",
-    "https://twitter.com/CALittleHoover",
     "http://www.youtube.com/channel/UCfcgKvOmTnuqmZZ7fN9I04w",
+    "https://twitter.com/CALittleHoover",
+    "https://www.facebook.com/CALittleHoover",
     "https://www.linkedin.com/company/little-hoover-commission"
   ],
   "linksToCaGov": false,

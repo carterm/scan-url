@@ -7,28 +7,13 @@
   "title": "Division of Aeronautics",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "Keep-Alive"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "x-oneagent-js-injection",
-      "value": "true"
-    },
-    {
-      "name": "x-ruxit-js-agent",
-      "value": "true"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "Keep-Alive",
+    "content-type": "text/html; charset=UTF-8",
+    "transfer-encoding": "chunked",
+    "x-oneagent-js-injection": "true",
+    "x-ruxit-js-agent": "true"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

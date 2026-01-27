@@ -136,10 +136,12 @@ export async function fetchAndAnalyze(url) {
 
   domainRecord.lastStatus = res.status;
   domainRecord.finalUrl = res.url;
-  domainRecord.responseHeaders = [];
+  domainRecord.responseHeaders = {};
   res.headers.forEach((value, name) => {
     if (!removeHeaders.includes(name.toLowerCase())) {
-      domainRecord.responseHeaders.push({ name, value });
+      domainRecord.responseHeaders[name] = domainRecord.responseHeaders[name]
+        ? domainRecord.responseHeaders[name] + "; " + value
+        : value;
     }
   });
 
@@ -252,7 +254,7 @@ export async function fetchAndAnalyze(url) {
         .map(a => a.href)
         .filter(href => SOCIAL_DOMAINS.some(d => href.includes(d)))
     )
-  ];
+  ].sort();
 
   // CA.gov link detection
   domainRecord.linksToCaGov = anchorLinks.some(a => {

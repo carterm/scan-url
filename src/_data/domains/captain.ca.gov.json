@@ -7,32 +7,13 @@
   "title": "CA Autism Professional Training and Information Network - CAPTAIN",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "strict-transport-security": "max-age=31536000",
+    "transfer-encoding": "chunked"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -42,8 +23,8 @@
     "G-7P4J8DKTKV"
   ],
   "socialLinks": [
-    "https://www.facebook.com/pages/Captain/859554854105466",
     "https://twitter.com/captain_ebps",
+    "https://www.facebook.com/pages/Captain/859554854105466",
     "https://www.instagram.com/captain_ebps/",
     "https://www.youtube.com/playlist?list=PLdYnp2_boOzfq90gKht1S_Vb-QS7VfdoW"
   ],

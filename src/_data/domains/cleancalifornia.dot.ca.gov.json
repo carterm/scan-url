@@ -7,28 +7,14 @@
   "title": "CleanCalifornia | Caltrans",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "accept-ch",
-      "value": "Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version,Sec-CH-UA-Arch,Sec-CH-UA-Model,Sec-CH-UA-Bitness"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "pragma",
-      "value": "no-cache"
-    },
-    {
-      "name": "x-oneagent-js-injection",
-      "value": "true"
-    },
-    {
-      "name": "x-ruxit-js-agent",
-      "value": "true"
-    }
-  ],
+  "responseHeaders": {
+    "accept-ch": "Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version,Sec-CH-UA-Arch,Sec-CH-UA-Model,Sec-CH-UA-Bitness",
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "server": "Microsoft-IIS/10.0",
+    "x-oneagent-js-injection": "true",
+    "x-ruxit-js-agent": "true"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": true,
@@ -40,11 +26,11 @@
     "UA-21431721-46"
   ],
   "socialLinks": [
-    "https://www.facebook.com/rivercitywaterwayalliance/events",
-    "https://twitter.com/hashtag/CleanWaterCA?src=hash&ref_src=twsrc%5Etfw",
-    "https://twitter.com/CaltransHQ/status/1806726511153852502?ref_src=twsrc%5Etfw",
     "http://www.facebook.com/CaltransHQ",
-    "https://twitter.com/CaltransHQ?ref_src=twsrc%5Etfw"
+    "https://twitter.com/CaltransHQ/status/1806726511153852502?ref_src=twsrc%5Etfw",
+    "https://twitter.com/CaltransHQ?ref_src=twsrc%5Etfw",
+    "https://twitter.com/hashtag/CleanWaterCA?src=hash&ref_src=twsrc%5Etfw",
+    "https://www.facebook.com/rivercitywaterwayalliance/events"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

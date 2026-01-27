@@ -8,56 +8,20 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "CAWeb v.1.5.2a",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://www.ibank.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.ibank.ca.gov/wp-json/wp/v2/pages/255>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.ibank.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "no-referrer-when-downgrade"
-    },
-    {
-      "name": "server",
-      "value": "Apache"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding,User-Agent"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "PHP/7.4.7"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "1; mode=block"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://www.ibank.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.ibank.ca.gov/wp-json/wp/v2/pages/255>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.ibank.ca.gov/>; rel=shortlink",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "server": "Apache",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding,User-Agent",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "PHP/7.4.7",
+    "x-xss-protection": "1; mode=block"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -67,11 +31,11 @@
     "G-SMHZVBEWVK"
   ],
   "socialLinks": [
-    "https://www.facebook.com/IBankCA/",
     "https://twitter.com/IBankCA",
-    "https://www.youtube.com/channel/UCMw85Tyn0zwUSo6JJg3YklQ",
+    "https://www.facebook.com/IBankCA/",
     "https://www.instagram.com/ibankca/",
-    "https://www.linkedin.com/company/ibankca/"
+    "https://www.linkedin.com/company/ibankca/",
+    "https://www.youtube.com/channel/UCMw85Tyn0zwUSo6JJg3YklQ"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

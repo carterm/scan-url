@@ -7,24 +7,12 @@
   "title": "waterresilience.ca.gov — Domain welcome page for",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "accept-ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "server",
-      "value": "nginx"
-    }
-  ],
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-type": "text/html",
+    "server": "nginx"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

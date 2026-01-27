@@ -7,96 +7,30 @@
   "title": "Homepage | California State Senate",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "accept-ranges",
-      "value": "none"
-    },
-    {
-      "name": "access-control-allow-origin",
-      "value": "https://senatetv.calegis.net"
-    },
-    {
-      "name": "connection",
-      "value": "Keep-Alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-language",
-      "value": "en"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "feature-policy",
-      "value": ""
-    },
-    {
-      "name": "from-origin",
-      "value": "same"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "no-referrer-when-downgrade"
-    },
-    {
-      "name": "server",
-      "value": "Apache"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=31536000; includeSubDomains"
-    },
-    {
-      "name": "vary",
-      "value": "X-Bin,Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-adv-varnish",
-      "value": "Cache-enabled"
-    },
-    {
-      "name": "x-cacheable",
-      "value": "YES"
-    },
-    {
-      "name": "x-content-security-policy",
-      "value": "default-src https: data: 'unsafe-inline' 'unsafe-eval' blob: www.youtube.com www.googletagmanager.com; script-src 'unsafe-eval' 'unsafe-inline'  'self' google.com www.googletagmanager.com www.google.com www.gstatic.com cdnjs.cloudflare.com cdn.jsdelivr.net unpkg.com ssl.p.jwpcdn.com www.googletagmanager.com www.google-analytics.com leganaiwebp2.calegis.net ajax.googleapis.com ssl.p.jwpcdn.com  translate.google.com; style-src 'unsafe-inline'  *; img-src 'self' data: https:; media-src 'self' blob: data:  https: stream.assembly.ca.gov stream.assembly.ca.gov:1935 stream.senate.ca.gov stream.senate.ca.gov:1935; frame-src  https: *.youtu.be *.youtube.com youtu.be; frame-ancestors *.assembly.ca.gov *.calegis.net; child-src 'self' blob: www.google.com www.gstatic.com www.youtube.com player.vimeo.com ssl.p.jwpcdn.com; font-src 'self' fonts.gstatic.com themes.googleusercontent.com data:; report-uri /report-csp-violation; upgrade-insecure-requests"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-drupal-cache-max-age",
-      "value": "0 (Uncacheable)"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-grace",
-      "value": "3600"
-    },
-    {
-      "name": "x-ttl",
-      "value": "2629746"
-    },
-    {
-      "name": "x-webkit-csp",
-      "value": "default-src https: data: 'unsafe-inline' 'unsafe-eval' blob: www.youtube.com www.googletagmanager.com; script-src 'unsafe-eval' 'unsafe-inline'  'self' google.com www.googletagmanager.com www.google.com www.gstatic.com cdnjs.cloudflare.com cdn.jsdelivr.net unpkg.com ssl.p.jwpcdn.com www.googletagmanager.com www.google-analytics.com leganaiwebp2.calegis.net ajax.googleapis.com ssl.p.jwpcdn.com  translate.google.com; style-src 'unsafe-inline'  *; img-src 'self' data: https:; media-src 'self' blob: data:  https: stream.assembly.ca.gov stream.assembly.ca.gov:1935 stream.senate.ca.gov stream.senate.ca.gov:1935; frame-src  https: *.youtu.be *.youtube.com youtu.be; frame-ancestors *.assembly.ca.gov *.calegis.net; child-src 'self' blob: www.google.com www.gstatic.com www.youtube.com player.vimeo.com ssl.p.jwpcdn.com; font-src 'self' fonts.gstatic.com themes.googleusercontent.com data:; report-uri /report-csp-violation; upgrade-insecure-requests"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "1; mode=block"
-    }
-  ],
+  "responseHeaders": {
+    "accept-ranges": "none",
+    "access-control-allow-origin": "https://senatetv.calegis.net",
+    "connection": "Keep-Alive",
+    "content-encoding": "gzip",
+    "content-language": "en",
+    "content-type": "text/html; charset=UTF-8",
+    "feature-policy": "",
+    "from-origin": "same",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "server": "Apache",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "vary": "X-Bin,Accept-Encoding,Cookie",
+    "x-adv-varnish": "Cache-enabled",
+    "x-cacheable": "YES",
+    "x-content-security-policy": "default-src https: data: 'unsafe-inline' 'unsafe-eval' blob: www.youtube.com www.googletagmanager.com; script-src 'unsafe-eval' 'unsafe-inline'  'self' google.com www.googletagmanager.com www.google.com www.gstatic.com cdnjs.cloudflare.com cdn.jsdelivr.net unpkg.com ssl.p.jwpcdn.com www.googletagmanager.com www.google-analytics.com leganaiwebp2.calegis.net ajax.googleapis.com ssl.p.jwpcdn.com  translate.google.com; style-src 'unsafe-inline'  *; img-src 'self' data: https:; media-src 'self' blob: data:  https: stream.assembly.ca.gov stream.assembly.ca.gov:1935 stream.senate.ca.gov stream.senate.ca.gov:1935; frame-src  https: *.youtu.be *.youtube.com youtu.be; frame-ancestors *.assembly.ca.gov *.calegis.net; child-src 'self' blob: www.google.com www.gstatic.com www.youtube.com player.vimeo.com ssl.p.jwpcdn.com; font-src 'self' fonts.gstatic.com themes.googleusercontent.com data:; report-uri /report-csp-violation; upgrade-insecure-requests",
+    "x-content-type-options": "nosniff",
+    "x-drupal-cache-max-age": "0 (Uncacheable)",
+    "x-frame-options": "SAMEORIGIN",
+    "x-grace": "3600",
+    "x-ttl": "2629746",
+    "x-webkit-csp": "default-src https: data: 'unsafe-inline' 'unsafe-eval' blob: www.youtube.com www.googletagmanager.com; script-src 'unsafe-eval' 'unsafe-inline'  'self' google.com www.googletagmanager.com www.google.com www.gstatic.com cdnjs.cloudflare.com cdn.jsdelivr.net unpkg.com ssl.p.jwpcdn.com www.googletagmanager.com www.google-analytics.com leganaiwebp2.calegis.net ajax.googleapis.com ssl.p.jwpcdn.com  translate.google.com; style-src 'unsafe-inline'  *; img-src 'self' data: https:; media-src 'self' blob: data:  https: stream.assembly.ca.gov stream.assembly.ca.gov:1935 stream.senate.ca.gov stream.senate.ca.gov:1935; frame-src  https: *.youtu.be *.youtube.com youtu.be; frame-ancestors *.assembly.ca.gov *.calegis.net; child-src 'self' blob: www.google.com www.gstatic.com www.youtube.com player.vimeo.com ssl.p.jwpcdn.com; font-src 'self' fonts.gstatic.com themes.googleusercontent.com data:; report-uri /report-csp-violation; upgrade-insecure-requests",
+    "x-xss-protection": "1; mode=block"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

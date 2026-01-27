@@ -8,72 +8,24 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "CAWeb v.1.1.4b",
-  "responseHeaders": [
-    {
-      "name": "accept-ch",
-      "value": "Sec-CH-UA-Mobile"
-    },
-    {
-      "name": "alt-svc",
-      "value": "h3=\":443\"; ma=86400"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://cdn-ildlpod.nitrocdn.com>; rel=preconnect, <https://www.abc.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.abc.ca.gov/wp-json/wp/v2/pages/20>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.abc.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "server",
-      "value": "cloudflare"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie"
-    },
-    {
-      "name": "x-cache-ctime",
-      "value": "1769452743"
-    },
-    {
-      "name": "x-cache-group",
-      "value": "normal"
-    },
-    {
-      "name": "x-cacheable",
-      "value": "SHORT"
-    },
-    {
-      "name": "x-nitro-cache",
-      "value": "HIT"
-    },
-    {
-      "name": "x-nitro-cache-from",
-      "value": "drop-in"
-    },
-    {
-      "name": "x-nitro-rev",
-      "value": "6e08d8c"
-    },
-    {
-      "name": "x-powered-by",
-      "value": "WP Engine"
-    }
-  ],
+  "responseHeaders": {
+    "accept-ch": "Sec-CH-UA-Mobile",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://cdn-ildlpod.nitrocdn.com>; rel=preconnect, <https://www.abc.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.abc.ca.gov/wp-json/wp/v2/pages/20>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.abc.ca.gov/>; rel=shortlink",
+    "server": "cloudflare",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie",
+    "x-cache-ctime": "1769468244",
+    "x-cache-group": "normal",
+    "x-cacheable": "SHORT",
+    "x-nitro-cache": "HIT",
+    "x-nitro-cache-from": "drop-in",
+    "x-nitro-rev": "6e08d8c",
+    "x-powered-by": "WP Engine"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -86,10 +38,10 @@
     "UA-3419582-2"
   ],
   "socialLinks": [
-    "https://www.facebook.com/CaliforniaABC",
     "https://twitter.com/ca_abc",
-    "https://www.youtube.com/user/CaliforniaABC/videos",
-    "https://www.linkedin.com/company/alcoholic-beverage-control"
+    "https://www.facebook.com/CaliforniaABC",
+    "https://www.linkedin.com/company/alcoholic-beverage-control",
+    "https://www.youtube.com/user/CaliforniaABC/videos"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

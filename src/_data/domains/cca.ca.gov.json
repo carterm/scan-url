@@ -7,56 +7,20 @@
   "title": "California Cannabis Authority",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "alt-svc",
-      "value": "h3=\":443\"; ma=86400"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "br"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "link",
-      "value": "<https://cca.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://cca.ca.gov/wp-json/wp/v2/pages/36>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://cca.ca.gov/>; rel=shortlink"
-    },
-    {
-      "name": "server",
-      "value": "cloudflare"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-gateway-cache-key",
-      "value": "1767219414.648|standard|https|cca.ca.gov|||/"
-    },
-    {
-      "name": "x-gateway-cache-status",
-      "value": "MISS"
-    },
-    {
-      "name": "x-gateway-request-id",
-      "value": "7054639e0cb35b02f10a0fa67fe1dc0f"
-    },
-    {
-      "name": "x-gateway-skip-cache",
-      "value": "0"
-    }
-  ],
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "link": "<https://cca.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://cca.ca.gov/wp-json/wp/v2/pages/36>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://cca.ca.gov/>; rel=shortlink",
+    "server": "cloudflare",
+    "transfer-encoding": "chunked",
+    "vary": "Accept-Encoding",
+    "x-gateway-cache-key": "1767219414.648|standard|https|cca.ca.gov|||/",
+    "x-gateway-cache-status": "MISS",
+    "x-gateway-request-id": "7054639e0cb35b02f10a0fa67fe1dc0f",
+    "x-gateway-skip-cache": "0"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
