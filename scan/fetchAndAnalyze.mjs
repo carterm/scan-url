@@ -71,9 +71,7 @@ export async function fetchAndAnalyze(original) {
   }
 
   domainRecord.lastStatus = res.status;
-  if (!domainRecord.ignoreFinalUrl) {
-    domainRecord.finalUrl = res.url;
-  }
+  domainRecord.finalUrl = res.url;
 
   domainRecord.responseHeaders = {};
 
@@ -137,8 +135,6 @@ export async function fetchAndAnalyze(original) {
   });
 
   const doc = dom.window.document;
-
-  // Get the fonts that were loaded from the CSS
 
   let redirectURL = doc.URL !== url ? doc.URL : undefined;
   if (redirectURL?.startsWith("https://login.microsoftonline.com")) {
@@ -248,6 +244,10 @@ export async function fetchAndAnalyze(original) {
       return false;
     }
   });
+
+  if (domainRecord.ignoreFinalUrl) {
+    domainRecord.finalUrl = original.finalUrl;
+  }
 
   return domainRecord;
 }
