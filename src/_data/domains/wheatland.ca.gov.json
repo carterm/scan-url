@@ -6,74 +6,23 @@
   "includeInScan": true,
   "title": "Home Page | City of Wheatland, CA",
   "lastStatus": 200,
-  "finalUrl": "https://www.wheatland.ca.gov/",
-  "metaGenerator": null,
-  "responseHeaders": [
-    {
-      "name": "accept-ranges",
-      "value": "bytes"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-language",
-      "value": "en"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "permissions-policy",
-      "value": "accelerometer=(), attribution-reporting=(), autoplay=*, bluetooth=(), browsing-topics=(), camera=(), compute-pressure=(), display-capture=*, encrypted-media=(), geolocation=(), gyroscope=(), hid=(), identity-credentials-get=(self), idle-detection=(), local-fonts=(self), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=*, publickey-credentials-get=(self), screen-wake-lock=(), serial=(), storage-access=(), usb=(), web-share=(), window-management=(), xr-spatial-tracking=()"
-    },
-    {
-      "name": "server",
-      "value": "cloudflare"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=2592000"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-ah-environment",
-      "value": "04live"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-drupal-cache",
-      "value": "UNCACHEABLE (response policy)"
-    },
-    {
-      "name": "x-drupal-dynamic-cache",
-      "value": "UNCACHEABLE (poor cacheability)"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-generator",
-      "value": "Drupal 10 (https://www.drupal.org)"
-    }
-  ],
+  "finalUrl": "",
+  "metaGenerator": "Drupal 10 (https://www.drupal.org)",
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-language": "en",
+    "content-type": "text/html; charset=UTF-8",
+    "permissions-policy": "accelerometer=(), attribution-reporting=(), autoplay=*, bluetooth=(), browsing-topics=(), camera=(), compute-pressure=(), display-capture=*, encrypted-media=(), geolocation=(), gyroscope=(), hid=(), identity-credentials-get=(self), idle-detection=(), local-fonts=(self), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=*, publickey-credentials-get=(self), screen-wake-lock=(), serial=(), storage-access=(), usb=(), web-share=(), window-management=(), xr-spatial-tracking=()",
+    "server": "cloudflare",
+    "strict-transport-security": "max-age=2592000",
+    "vary": "Accept-Encoding",
+    "x-ah-environment": "04live",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-generator": "Drupal 10 (https://www.drupal.org)"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -86,5 +35,6 @@
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,
-  "notes": null
+  "notes": null,
+  "nocache": true
 }

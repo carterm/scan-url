@@ -6,7 +6,6 @@ import fs from "node:fs";
 import path from "node:path";
 import pLimit from "p-limit";
 import { fetchAndAnalyze } from "./fetchAndAnalyze.mjs";
-import { mergeScanResult } from "./mergeScanResults.mjs";
 import { loadRecord, saveRecord } from "./helpers/fileIO.mjs";
 
 const DOMAIN_DIR = path.join(process.cwd(), "src/_data/domains");
@@ -35,16 +34,15 @@ async function scanAll() {
         return;
       }
 
-      const scan = await fetchAndAnalyze(record.targetURL);
+      const scan = await fetchAndAnalyze(record);
 
       if (!scan.lastStatus || scan.lastStatus >= 400 || scan.cloudflare) {
         console.log(`❌ Error ${record.domain} (${scan.errorMessage})`);
         return;
       }
 
-      const updated = mergeScanResult(record, scan);
-      if (JSON.stringify(record) !== JSON.stringify(updated)) {
-        saveRecord(filePath, updated);
+      if (JSON.stringify(record) !== JSON.stringify(scan)) {
+        saveRecord(filePath, scan);
         console.log(`📝 Updated ${record.domain}`);
       } else {
         console.log(`✅ Scanned ${record.domain}`);

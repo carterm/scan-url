@@ -107,13 +107,14 @@ class CustomResourceLoader extends ResourceLoader {
 }
 
 /**
- * @param {string} url
+ * @param {DomainRecord} original
  * @returns {Promise<DomainRecord>}
  */
-export async function fetchAndAnalyze(url) {
-  const domainRecord = createDomainRecord();
-  domainRecord.targetURL = url;
+export async function fetchAndAnalyze(original) {
+  const domainRecord = { ...original };
+  domainRecord.domain = original.domain;
 
+  const url = domainRecord.targetURL;
   const start = performance.now();
   let duration = 0;
   // Let fetch handle redirects automatically
