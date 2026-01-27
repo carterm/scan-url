@@ -10,7 +10,6 @@
   "responseHeaders": {
     "content-type": "text/html",
     "server": "Microsoft-IIS/10.0",
-    "strict-transport-security": "max-age=31536000; includeSubDomains",
     "x-powered-by": "ASP.NET"
   },
   "cloudflare": false,

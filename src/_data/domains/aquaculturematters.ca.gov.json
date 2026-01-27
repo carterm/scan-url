@@ -12,10 +12,7 @@
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "host-header": "WordPress.com",
-    "link": "<https://aquaculturematters.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://wp.me/4OtSF>; rel=shortlink",
     "server": "nginx",
-    "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding, accept, content-type, cookie",
     "x-hacker": "Want root?  Visit join.a8c.com and mention this header."
   },

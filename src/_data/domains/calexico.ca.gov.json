@@ -10,7 +10,6 @@
   "responseHeaders": {
     "content-type": "text/html",
     "pragma": "no-cache",
-    "strict-transport-security": "max-age=360;",
     "w": "3a"
   },
   "cloudflare": false,

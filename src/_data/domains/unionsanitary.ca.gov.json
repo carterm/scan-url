@@ -12,7 +12,6 @@
     "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000, h3-Q050=\":443\"; ma=2592000, h3-Q046=\":443\"; ma=2592000, h3-Q043=\":443\"; ma=2592000, quic=\":443\"; ma=2592000; v=\"43,46\", h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
     "connection": "keep-alive",
     "content-type": "text/html; charset=UTF-8",
-    "link": "<https://unionsanitary.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://unionsanitary.ca.gov/wp-json/wp/v2/pages/2763>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://unionsanitary.ca.gov/>; rel=shortlink",
     "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
     "server": "Sucuri/Cloudproxy",
     "x-litespeed-cache": "hit",

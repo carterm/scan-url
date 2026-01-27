@@ -11,7 +11,6 @@
   "responseHeaders": {
     "connection": "keep-alive",
     "content-type": "text/html; charset=UTF-8",
-    "link": "<https://saltonsea.ca.gov/wp-json/>; rel=\"https://api.w.org/\"",
     "server": "nginx",
     "x-et-api-origin": "https://saltonsea.ca.gov",
     "x-et-api-root": "https://saltonsea.ca.gov/wp-json/tribe/tickets/v1/",

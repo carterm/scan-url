@@ -15,7 +15,6 @@
     "permissions-policy": "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)",
     "referrer-policy": "strict-origin",
     "server": "nginx",
-    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "vary": "Accept-Encoding, Cookie",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",

@@ -13,7 +13,6 @@
     "content-encoding": "gzip",
     "content-language": "en",
     "content-type": "text/html; charset=utf-8",
-    "link": "</en/content/home>; rel=\"canonical\",</en/node/246>; rel=\"shortlink\"",
     "server": "Apache/2.4.52 (Ubuntu)",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",

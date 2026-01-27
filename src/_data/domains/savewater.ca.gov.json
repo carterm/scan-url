@@ -13,7 +13,6 @@
     "content-type": "text/html; charset=utf-8",
     "pragma": "no-cache",
     "request-context": "appId=cid-v1:7ff4aea4-19b3-4663-8197-2ecb27243eaf",
-    "strict-transport-security": "max-age=2592000",
     "vary": "Accept-Encoding",
     "x-frame-options": "SAMEORIGIN",
     "x-powered-by": "ASP.NET"

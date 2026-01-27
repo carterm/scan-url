@@ -9,7 +9,6 @@
   "finalUrl": "",
   "responseHeaders": {
     "content-type": "text/html; charset=utf-8",
-    "strict-transport-security": "max-age=31536000; includeSubDomains",
     "x-aspnet-version": "4.0.30319",
     "x-aspnetmvc-version": "5.2",
     "x-frame-options": "SAMEORIGIN",

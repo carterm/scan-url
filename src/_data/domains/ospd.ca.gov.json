@@ -11,12 +11,10 @@
   "responseHeaders": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "link": "<https://www.ospd.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.ospd.ca.gov/wp-json/wp/v2/pages/771>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.ospd.ca.gov/>; rel=shortlink",
     "permissions-policy": "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)",
     "pragma": "public",
     "referrer-policy": "strict-origin",
     "server": "nginx",
-    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",

@@ -11,7 +11,6 @@
     "connection": "keep-alive",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "strict-transport-security": "max-age=31536000, max-age=31536000",
     "x-content-type-options": "nosniff"
   },
   "cloudflare": false,

@@ -14,7 +14,6 @@
     "content-encoding": "gzip",
     "content-language": "en",
     "content-type": "text/html; charset=UTF-8",
-    "link": "<https://www.sucorte.ca.gov/>; rel=\"canonical\", <https://www.sucorte.ca.gov/>; rel=\"shortlink\"",
     "server": "nginx",
     "vary": "Accept-Encoding, Cookie, Cookie, Cookie",
     "x-content-type-options": "nosniff",

@@ -15,7 +15,6 @@
     "pragma": "no-cache",
     "range": "Partial Content",
     "server": "Microsoft-IIS/10.0",
-    "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-aspnet-version": "4.0.30319",
     "x-powered-by": "ASP.NET"

@@ -9,7 +9,6 @@
   "finalUrl": "",
   "responseHeaders": {
     "content-type": "text/html; charset=utf-8",
-    "strict-transport-security": "max-age=31536000; includeSubDomains",
     "x-frame-options": "SAMEORIGIN",
     "x-powered-by": "DRE"
   },

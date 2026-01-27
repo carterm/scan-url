@@ -13,7 +13,6 @@
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "server": "Apache",
-    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "x-cdn": "Imperva"
   },
   "cloudflare": false,

@@ -12,7 +12,6 @@
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "link": "<https://bluelake.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://bluelake.ca.gov/wp-json/wp/v2/pages/11>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://bluelake.ca.gov/>; rel=shortlink",
     "server": "cloudflare",
     "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie",
     "x-cache-group": "normal",

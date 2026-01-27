@@ -12,7 +12,6 @@
     "content-encoding": "gzip",
     "content-language": "en",
     "content-type": "text/html; charset=utf-8",
-    "link": "</home>; rel=\"canonical\",</node/161>; rel=\"shortlink\"",
     "server": "cloudflare",
     "vary": "Cookie,Accept-Encoding",
     "x-content-type-options": "nosniff",

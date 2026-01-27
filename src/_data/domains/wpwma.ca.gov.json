@@ -15,7 +15,6 @@
     "content-type": "text/html; charset=UTF-8",
     "ki-edge": "v=25.3.1;mv=5.0.18",
     "ki-origin": "g1p",
-    "link": "<https://wpwma.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://wpwma.ca.gov/wp-json/wp/v2/pages/10127>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://wpwma.ca.gov/>; rel=shortlink",
     "nel": "{\"success_fraction\":0.01,\"report_to\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
     "vary": "Accept-Encoding",

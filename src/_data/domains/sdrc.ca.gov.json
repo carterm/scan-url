@@ -11,7 +11,6 @@
   "responseHeaders": {
     "connection": "keep-alive",
     "content-type": "text/html; charset=UTF-8",
-    "link": "<https://sdrc.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://sdrc.ca.gov/wp-json/wp/v2/pages/7692>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://sdrc.ca.gov/>; rel=shortlink",
     "server": "nginx",
     "x-content-type-options": "nosniff"
   },

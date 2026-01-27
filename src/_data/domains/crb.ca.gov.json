@@ -11,7 +11,6 @@
   "responseHeaders": {
     "connection": "keep-alive",
     "content-type": "text/html; charset=UTF-8",
-    "link": "<https://crb.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://crb.ca.gov/wp-json/wp/v2/pages/6740>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://crb.ca.gov/>; rel=shortlink",
     "server": "nginx",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN"

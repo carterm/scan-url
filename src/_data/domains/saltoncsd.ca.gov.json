@@ -12,7 +12,6 @@
     "content-type": "text/html; charset=utf-8",
     "referrer-policy": "strict-origin-when-cross-origin",
     "server": "nginx",
-    "strict-transport-security": "max-age=31556952",
     "x-content-type-options": "nosniff",
     "x-download-options": "noopen",
     "x-frame-options": "SAMEORIGIN",

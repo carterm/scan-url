@@ -11,11 +11,9 @@
   "responseHeaders": {
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "link": "<https://sgc.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://sgc.ca.gov/wp-json/wp/v2/pages/2>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://sgc.ca.gov/>; rel=shortlink",
     "permissions-policy": "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)",
     "referrer-policy": "strict-origin",
     "server": "nginx",
-    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-powered-by": "PHP/8.3.29",

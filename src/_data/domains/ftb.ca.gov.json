@@ -14,7 +14,6 @@
     "content-type": "text/html",
     "p3p": "policyref=\"/w3c/p3p.xml\",CP=\"ALL DSP COR MON LAW CURa ADMa DEVa PSAa PSDa OUR SAMa IND NAV INT CNT STA\"",
     "pragma": "public",
-    "strict-transport-security": "max-age=31536000 ; includeSubDomains ; preload",
     "vary": "Accept-Encoding",
     "x-akamai-transformed": "9 8459 0 pmb=mRUM,1",
     "x-content-type-options": "nosniff",

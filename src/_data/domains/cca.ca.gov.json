@@ -12,7 +12,6 @@
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "link": "<https://cca.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://cca.ca.gov/wp-json/wp/v2/pages/36>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://cca.ca.gov/>; rel=shortlink",
     "server": "cloudflare",
     "vary": "Accept-Encoding",
     "x-gateway-cache-key": "1767219414.648|standard|https|cca.ca.gov|||/",

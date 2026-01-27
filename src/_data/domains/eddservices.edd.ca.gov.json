@@ -13,7 +13,6 @@
     "content-type": "text/html",
     "p3p": "CP=\"NON CUR OTPi OUR NOR UNI\"",
     "pragma": "no-cache",
-    "strict-transport-security": "max-age=31536000",
     "vary": "Accept-Encoding",
     "x-akamai-transformed": "9 2898 0 pmb=mRUM,1"
   },

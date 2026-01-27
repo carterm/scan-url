@@ -12,7 +12,6 @@
     "connection": "close",
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "strict-transport-security": "max-age=16070400; includeSubDomains",
     "vary": "Accept-Encoding"
   },
   "cloudflare": false,

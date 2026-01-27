@@ -10,8 +10,7 @@
   "responseHeaders": {
     "connection": "keep-alive",
     "content-encoding": "gzip",
-    "content-type": "text/html",
-    "strict-transport-security": "max-age=31536000"
+    "content-type": "text/html"
   },
   "cloudflare": false,
   "slow": false,

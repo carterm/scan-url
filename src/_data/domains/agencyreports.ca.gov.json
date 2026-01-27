@@ -15,7 +15,6 @@
     "from-origin": "https://acc-was.calegis.net",
     "referrer-policy": "no-referrer-when-downgrade",
     "server": "Apache",
-    "strict-transport-security": "max-age=1000; includeSubDomains",
     "vary": "Cookie,Accept-Encoding",
     "x-content-security-policy": "default-src https: data: 'unsafe-inline' 'unsafe-eval'; script-src 'unsafe-inline'  'self' google.com www.google.com www.gstatic.com www.recaptcha.net polyfill.io; style-src 'unsafe-inline'  *; img-src 'self' data: https:; frame-ancestors *.assembly.ca.gov *.calegis.net; child-src www.google.com www.gstatic.com; font-src 'self' fonts.gstatic.com themes.googleusercontent.com data:; report-uri /report-csp-violation; upgrade-insecure-requests",
     "x-content-type-options": "nosniff",

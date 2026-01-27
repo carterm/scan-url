@@ -14,7 +14,6 @@
     "content-type": "text/html; charset=utf-8",
     "microsoftsharepointteamservices": "16.0.0.19127",
     "server": "Microsoft-IIS/10.0",
-    "spiislatency": "0",
     "vary": "Accept-Encoding",
     "x-aspnet-version": "4.0.30319",
     "x-content-type-options": "nosniff",

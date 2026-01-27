@@ -12,7 +12,6 @@
     "connection": "keep-alive",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "link": "<https://www.calosba.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.calosba.ca.gov/wp-json/wp/v2/pages/295>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.calosba.ca.gov/>; rel=shortlink",
     "server": "Apache",
     "vary": "Accept-Encoding"
   },

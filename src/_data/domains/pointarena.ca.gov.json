@@ -11,13 +11,10 @@
   "responseHeaders": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "host-header": "d3AuYmx1ZWhvc3QuY29t",
-    "link": "<https://pointarena.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://pointarena.ca.gov/wp-json/wp/v2/pages/291>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://pointarena.ca.gov/>; rel=shortlink",
     "server": "nginx/1.27.2",
     "vary": "Accept-Encoding",
     "x-endurance-cache-level": "2",
     "x-nginx-cache": "WordPress",
-    "x-proxy-cache": "MISS",
     "x-server-cache": "true",
     "x-tec-api-origin": "https://pointarena.ca.gov",
     "x-tec-api-root": "https://pointarena.ca.gov/wp-json/tribe/events/v1/",

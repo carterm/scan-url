@@ -15,7 +15,6 @@
     "content-language": "en",
     "content-type": "text/html; charset=UTF-8",
     "server": "nginx",
-    "strict-transport-security": "max-age=300; includeSubDomains;",
     "vary": "Accept-Encoding, Cookie, Cookie, Cookie, orig-host",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",

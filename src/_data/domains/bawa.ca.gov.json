@@ -11,7 +11,6 @@
   "responseHeaders": {
     "connection": "Upgrade, Keep-Alive",
     "content-type": "text/html; charset=UTF-8",
-    "link": "<https://bawa.ca.gov/wp-json/>; rel=\"https://api.w.org/\"",
     "server": "Apache",
     "upgrade": "h2,h2c"
   },

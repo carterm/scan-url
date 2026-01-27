@@ -13,7 +13,6 @@
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "fastly-restarts": "1",
-    "link": "<https://ccag.ca.gov/>; rel=shortlink",
     "referrer-policy": "no-referrer-when-downgrade",
     "server": "Flywheel/5.1.0",
     "vary": "Accept-Encoding",

@@ -13,9 +13,7 @@
     "connection": "keep-alive",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "link": "<https://www.judicialethicsopinions.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.judicialethicsopinions.ca.gov/wp-json/wp/v2/pages/2>; rel=\"alternate\"; type=\"application/json\", <https://wp.me/Pezz8X-2>; rel=shortlink",
     "server": "nginx",
-    "strict-transport-security": "max-age=300",
     "vary": "Accept-Encoding, Cookie, Cookie",
     "x-pingback": "https://www.judicialethicsopinions.ca.gov/xmlrpc.php"
   },

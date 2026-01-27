@@ -10,9 +10,7 @@
   "responseHeaders": {
     "connection": "keep-alive",
     "content-type": "text/html; charset=UTF-8",
-    "link": "<https://www.grants.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.grants.ca.gov/wp-json/wp/v2/pages/18>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.grants.ca.gov/>; rel=shortlink",
     "server": "nginx",
-    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
     "vary": "Cookie",
     "x-btcache-served": "Yes",
     "x-elasticpress-query": "true",

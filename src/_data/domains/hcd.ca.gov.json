@@ -16,7 +16,6 @@
     "feature-policy": "accelerometer 'none'; camera 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; payment 'none'; usb 'none'",
     "from-origin": "same",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "strict-transport-security": "max-age=31536000",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 10 (https://www.drupal.org)",

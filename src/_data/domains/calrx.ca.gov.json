@@ -12,7 +12,6 @@
     "connection": "keep-alive",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "link": "<https://calrx.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://calrx.ca.gov/wp-json/wp/v2/pages/799>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://calrx.ca.gov/>; rel=shortlink",
     "vary": "Accept-Encoding,Cookie",
     "x-btcache-served": "Yes",
     "x-frame-options": "SAMEORIGIN"

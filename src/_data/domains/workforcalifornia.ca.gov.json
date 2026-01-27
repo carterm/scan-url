@@ -15,7 +15,6 @@
     "pragma": "no-cache",
     "request-context": "appId=cid-v1:b86fbeb7-5d74-4106-8d0e-d61a9f570b02",
     "server": "Microsoft-IIS/10.0",
-    "strict-transport-security": "max-age=2592000",
     "vary": "Accept-Encoding",
     "x-frame-options": "SAMEORIGIN",
     "x-powered-by": "ASP.NET"

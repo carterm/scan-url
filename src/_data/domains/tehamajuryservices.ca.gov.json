@@ -14,7 +14,6 @@
     "pragma": "no-cache",
     "referrer-policy": "same-origin",
     "server": "Apache",
-    "strict-transport-security": "max-age=63072000; includeSubdomains; preload",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-permitted-cross-domain-policies": "none",

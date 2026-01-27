@@ -10,7 +10,6 @@
   "responseHeaders": {
     "connection": "keep-alive",
     "content-type": "text/html",
-    "strict-transport-security": "max-age=31536000; includeSubDomains",
     "x-frame-options": "SAMEORIGIN"
   },
   "cloudflare": false,

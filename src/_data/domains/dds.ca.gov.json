@@ -11,7 +11,6 @@
     "connection": "keep-alive",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "link": "<https://www.dds.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.dds.ca.gov/wp-json/wp/v2/pages/23482>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.dds.ca.gov/>; rel=shortlink",
     "server": "Apache/2.4.63 (Ubuntu)",
     "vary": "Accept-Encoding"
   },

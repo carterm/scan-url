@@ -12,9 +12,7 @@
     "connection": "Keep-Alive",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "link": "<https://www.bscc.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.bscc.ca.gov/wp-json/wp/v2/pages/63601>; rel=\"alternate\"; type=\"application/json\", <https://www.bscc.ca.gov/>; rel=shortlink",
     "server": "Apache/2.4.41 (Ubuntu)",
-    "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Accept-Encoding,Cookie"
   },
   "cloudflare": false,

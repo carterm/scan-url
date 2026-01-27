@@ -12,10 +12,8 @@
     "connection": "keep-alive",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "link": "<https://www.dmv.ca.gov/portal/wp-json/>; rel=\"https://api.w.org/\", <https://www.dmv.ca.gov/portal/wp-json/wp/v2/pages/86>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.dmv.ca.gov/portal/>; rel=shortlink",
     "p3p": "CP=\"NON CUR OTPi OUR NOR UNI\"",
     "server": "volt-adc",
-    "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Cookie",
     "x-elasticpress-query": "true",
     "x-frame-options": "SAMEORIGIN"

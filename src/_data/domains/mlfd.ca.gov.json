@@ -12,16 +12,12 @@
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "host-header": "6b7412fb82ca5edfd0917e3957f05d89",
-    "link": "<https://mlfd.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://mlfd.ca.gov/wp-json/wp/v2/pages/754>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://mlfd.ca.gov/>; rel=shortlink",
     "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
     "pragma": "no-cache",
     "referrer-policy": "no-referrer-when-downgrade",
     "server": "nginx",
     "vary": "Accept-Encoding, Accept-Encoding",
-    "x-httpd": "1",
-    "x-proxy-cache": "EXPIRED",
-    "x-proxy-cache-info": "0 NC:000000 UP:SKIP_CACHE_SET_COOKIE"
+    "x-httpd": "1"
   },
   "cloudflare": false,
   "slow": false,

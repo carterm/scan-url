@@ -9,8 +9,7 @@
   "finalUrl": "",
   "responseHeaders": {
     "connection": "close",
-    "content-type": "text/html",
-    "strict-transport-security": "max-age=7543; includeSubDomains"
+    "content-type": "text/html"
   },
   "cloudflare": false,
   "slow": false,

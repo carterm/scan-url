@@ -10,8 +10,7 @@
   "responseHeaders": {
     "connection": "keep-alive",
     "content-type": "text/html; charset=utf-8",
-    "pragma": "no-cache",
-    "strict-transport-security": "max-age=31536000"
+    "pragma": "no-cache"
   },
   "cloudflare": false,
   "slow": false,

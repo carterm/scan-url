@@ -13,7 +13,6 @@
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "fastly-restarts": "1",
-    "link": "<https://theacademy.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://theacademy.ca.gov/wp-json/wp/v2/pages/19>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://theacademy.ca.gov/>; rel=shortlink",
     "referrer-policy": "no-referrer-when-downgrade",
     "server": "Flywheel/5.1.0",
     "vary": "Accept-Encoding",
