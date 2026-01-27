@@ -20,8 +20,6 @@ function loadAllDomainRecords() {
     const record = loadRecord(filePath);
     if (record) {
       items.push({ filePath, record });
-    } else {
-      console.warn(`⚠️ Skipping unreadable domain file: ${file}`);
     }
   }
   return items;
@@ -33,21 +31,24 @@ async function scanAll() {
   const tasks = items.map(({ filePath, record }) =>
     limit(async () => {
       if (!record.includeInScan) {
-        console.log(`❌ Skipped ${record.domain}`);
+        console.log(`🚫 Skipped ${record.domain}`);
         return;
       }
 
       const scan = await fetchAndAnalyze(record.targetURL);
 
       if (!scan.lastStatus || scan.lastStatus >= 400 || scan.cloudflare) {
-        console.log(`❌ Skipped ${record.domain} (${scan.errorMessage})`);
+        console.log(`❌ Error ${record.domain} (${scan.errorMessage})`);
         return;
       }
 
       const updated = mergeScanResult(record, scan);
-      saveRecord(filePath, updated);
-
-      console.log(`✅ Scanned ${record.domain}`);
+      if (JSON.stringify(record) !== JSON.stringify(updated)) {
+        saveRecord(filePath, updated);
+        console.log(`📝 Updated ${record.domain}`);
+      } else {
+        console.log(`✅ Scanned ${record.domain}`);
+      }
     })
   );
 

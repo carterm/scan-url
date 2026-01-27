@@ -114,11 +114,6 @@ export async function fetchAndAnalyze(url) {
   const domainRecord = createDomainRecord();
   domainRecord.targetURL = url;
 
-  const virtualConsole = new VirtualConsole();
-  virtualConsole.on("jsdomError", e => {
-    console.log(`⚠️ JSDOM error for ${url}: ${e.message}`);
-  });
-
   const start = performance.now();
   let duration = 0;
   // Let fetch handle redirects automatically
@@ -176,6 +171,11 @@ export async function fetchAndAnalyze(url) {
 
     return domainRecord;
   }
+
+  const virtualConsole = new VirtualConsole();
+  virtualConsole.on("jsdomError", e => {
+    console.log(`⚠️ JSDOM error for ${url}: ${e.message}`);
+  });
 
   // Parse HTML
   const dom = new JSDOM(body, {
