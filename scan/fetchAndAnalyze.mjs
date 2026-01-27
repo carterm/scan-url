@@ -184,6 +184,8 @@ export async function fetchAndAnalyze(url) {
 
   const doc = dom.window.document;
 
+  // Get the fonts that were loaded from the CSS
+
   let redirectURL = doc.URL !== url ? doc.URL : undefined;
   if (redirectURL?.startsWith("https://login.microsoftonline.com")) {
     redirectURL = "[login.microsoftonline.com]";
@@ -197,6 +199,12 @@ export async function fetchAndAnalyze(url) {
   const scripts = [...doc.scripts]
     .map(x => x.src)
     .filter(x => x)
+    .map(x => new URL(x, res.url).href);
+
+  const stylesheets = /** @type {HTMLLinkElement[]} */ ([
+    ...doc.querySelectorAll("link[rel=stylesheet]")
+  ])
+    .map(x => x.href)
     .map(x => new URL(x, res.url).href);
 
   domainRecord.title =
@@ -222,9 +230,9 @@ export async function fetchAndAnalyze(url) {
     x.includes("alert.cdt.ca.gov")
   );
 
-  domainRecord.usesStateTemplate = scripts.some(
-    x => x.includes("cagov.core") || x.includes("caweb-")
-  );
+  domainRecord.usesStateTemplate =
+    scripts.some(x => x.includes("cagov.core") || x.includes("caweb-")) ||
+    stylesheets.some(x => x.includes("cagov.core") || x.includes("caweb-"));
 
   domainRecord.hasJQuery = scripts.some(x => x.includes("jquery"));
 

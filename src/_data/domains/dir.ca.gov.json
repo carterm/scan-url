@@ -16,7 +16,7 @@
     "x-powered-by": "ASP.NET"
   },
   "cloudflare": false,
-  "slow": true,
+  "slow": false,
   "hasStatewideAlerts": true,
   "usesStateTemplate": true,
   "hasJQuery": true,

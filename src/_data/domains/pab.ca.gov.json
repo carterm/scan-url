@@ -10,11 +10,11 @@
   "responseHeaders": {
     "accept-ranges": "bytes",
     "access-control-allow-private-network": "true",
-    "connection": "Keep-Alive",
     "content-type": "text/html",
     "referrer-policy": "strict-origin-when-cross-origin",
     "strict-transport-security": "max-age=16070400; includeSubDomains; preload",
     "transfer-encoding": "chunked",
+    "x-cnection": "close",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-xss-protection": "1; mode=block"

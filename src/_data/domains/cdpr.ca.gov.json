@@ -16,7 +16,6 @@
     "link": "<https://www.cdpr.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.cdpr.ca.gov/wp-json/wp/v2/pages/2>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.cdpr.ca.gov/>; rel=shortlink",
     "server": "nginx",
     "strict-transport-security": "max-age=300",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding, Cookie, Cookie",
     "x-cdn": "Imperva",
     "x-pingback": "https://www.cdpr.ca.gov/xmlrpc.php"

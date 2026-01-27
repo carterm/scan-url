@@ -19,7 +19,7 @@
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
+  "usesStateTemplate": true,
   "hasJQuery": false,
   "googleAnalytics": [
     "G-8G032ZWHBJ"
