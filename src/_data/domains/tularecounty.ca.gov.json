@@ -8,66 +8,34 @@
   "lastStatus": 200,
   "finalUrl": "",
   "metaGenerator": "Drupal 10 (https://www.drupal.org)",
-  "responseHeaders": [
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-language",
-      "value": "en"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=UTF-8"
-    },
-    {
-      "name": "server",
-      "value": "cloudflare"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Cookie,Accept-Encoding"
-    },
-    {
-      "name": "x-ah-environment",
-      "value": "01live"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "SAMEORIGIN"
-    },
-    {
-      "name": "x-generator",
-      "value": "Drupal 10 (https://www.drupal.org)"
-    }
-  ],
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-language": "en",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "cloudflare",
+    "transfer-encoding": "chunked",
+    "vary": "Cookie,Accept-Encoding",
+    "x-ah-environment": "01live",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-generator": "Drupal 10 (https://www.drupal.org)"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": true,
   "googleAnalytics": [
-    "G-GYFYZ4RT4Q"
+    "G-GYFYZ4RT4Q",
+    "G-LEIT9I_ETO"
   ],
   "socialLinks": [
     "https://www.facebook.com/countyoftulare",
     "https://www.instagram.com/countyoftulare/",
     "https://www.linkedin.com/company/548497/",
-    "https://x.com/CountyofTulare",
-    "https://www.youtube.com/@countyoftulare216"
+    "https://www.youtube.com/@countyoftulare216",
+    "https://x.com/CountyofTulare"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

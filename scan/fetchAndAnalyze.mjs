@@ -73,7 +73,11 @@ const removeHeaders = [
   "cache-tag",
   "x-amz-cf-pop",
   "x-cache-info",
-  "ki-cf-cache-status"
+  "ki-cf-cache-status",
+  "on-ws",
+  "x-shopid",
+  "x-sorting-hat-shopid",
+  "x-shardid"
 ];
 
 const fetchTimeout = 15000; //15 seconds

@@ -18,9 +18,10 @@
     "server": "cloudflare",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "transfer-encoding": "chunked",
-    "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding",
+    "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie",
+    "x-cache-enabled": "False",
     "x-cache-group": "normal",
-    "x-cacheable": "NO:Private",
+    "x-cacheable": "SHORT",
     "x-content-type-options": "nosniff",
     "x-powered-by": "WP Engine",
     "x-tec-api-origin": "https://calrecycle.ca.gov",
@@ -51,5 +52,5 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": false
 }

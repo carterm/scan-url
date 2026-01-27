@@ -12,7 +12,6 @@
     "content-type": "text/html",
     "server": "Microsoft-IIS/10.0",
     "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-cdn": "Imperva",
     "x-powered-by": "ASP.NET"

@@ -24,9 +24,6 @@
     "x-download-options": "noopen",
     "x-frame-options": "DENY",
     "x-permitted-cross-domain-policies": "none",
-    "x-shardid": "284",
-    "x-shopid": "79937503517",
-    "x-sorting-hat-shopid": "79937503517",
     "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,
@@ -34,10 +31,7 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [
-    "G-SZPK2KCZDY",
-    "GTM-KJWTBZ2"
-  ],
+  "googleAnalytics": ["G-SZPK2KCZDY", "GTM-KJWTBZ2"],
   "socialLinks": [
     "https://twitter.com/CAStateParks",
     "https://www.instagram.com/castateparks/?hl=en"

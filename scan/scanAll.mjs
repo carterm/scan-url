@@ -55,5 +55,5 @@ async function scanAll() {
 }
 
 console.time("scanAll");
-scanAll();
+await scanAll();
 console.timeEnd("scanAll");

@@ -11,7 +11,6 @@
     "accept-ch": "Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version,Sec-CH-UA-Arch,Sec-CH-UA-Model,Sec-CH-UA-Bitness",
     "content-type": "text/html; charset=utf-8",
     "pragma": "no-cache",
-    "server": "Microsoft-IIS/10.0",
     "x-oneagent-js-injection": "true",
     "x-ruxit-js-agent": "true"
   },

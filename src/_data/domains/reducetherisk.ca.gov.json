@@ -13,8 +13,10 @@
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "link": "<https://www.reducetherisk.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.reducetherisk.ca.gov/wp-json/wp/v2/pages/2>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.reducetherisk.ca.gov/>; rel=shortlink",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
     "transfer-encoding": "chunked",
-    "vary": "Accept-Encoding"
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff"
   },
   "cloudflare": false,
   "slow": false,

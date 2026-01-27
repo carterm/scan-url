@@ -19,7 +19,6 @@
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "transfer-encoding": "chunked",
     "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie",
-    "x-cache-enabled": "False",
     "x-cache-group": "normal",
     "x-cacheable": "SHORT",
     "x-content-type-options": "nosniff",
