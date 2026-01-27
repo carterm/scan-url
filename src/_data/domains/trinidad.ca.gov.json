@@ -18,7 +18,7 @@
     "permissions-policy": "accelerometer=(), attribution-reporting=(), autoplay=*, bluetooth=(), browsing-topics=(), camera=(), compute-pressure=(), display-capture=*, encrypted-media=(), geolocation=(), gyroscope=(), hid=(), identity-credentials-get=(self), idle-detection=(), local-fonts=(self), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=*, publickey-credentials-get=(self), screen-wake-lock=(), serial=(), storage-access=(), usb=(), web-share=(), window-management=(), xr-spatial-tracking=()",
     "server": "cloudflare",
     "strict-transport-security": "max-age=2592000",
-    "vary": "Cookie, accept-encoding",
+    "vary": "Cookie,Accept-Encoding",
     "x-ah-environment": "04live",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",

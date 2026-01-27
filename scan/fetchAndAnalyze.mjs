@@ -2,17 +2,26 @@
 /**
  * @typedef {import("./types/DomainRecord.mjs").DomainRecord} DomainRecord
  */
-import { createDomainRecord } from "./types/DomainRecord.mjs";
 
 import { fetch, Agent } from "undici";
 import { performance } from "node:perf_hooks";
 import { JSDOM, VirtualConsole, ResourceLoader } from "jsdom";
+
+const keepHeaders = [
+  "server",
+  "content-encoding",
+  "vary",
+  "x-content-type-options",
+  "strict-transport-security"
+];
 
 const removeHeaders = [
   "akamai-grn",
   "age",
   "date",
   "x-cache",
+  "x-cacheable",
+  "x-cache-enabled",
   "x-cache-hits",
   "x-served-by",
   "x-timer",
@@ -43,6 +52,8 @@ const removeHeaders = [
   "x-request-id",
   "x-cache-status",
   "x-ac",
+  "ki-cache-type",
+  "ki-cache-tag",
   "x-volterra-location",
   "x-tenup-cache",
   "report-to",
@@ -139,6 +150,7 @@ export async function fetchAndAnalyze(original) {
   domainRecord.lastStatus = res.status;
   domainRecord.finalUrl = res.url;
   domainRecord.responseHeaders = {};
+
   res.headers.forEach((value, name) => {
     if (!removeHeaders.includes(name.toLowerCase())) {
       domainRecord.responseHeaders[name] = domainRecord.responseHeaders[name]
@@ -146,6 +158,19 @@ export async function fetchAndAnalyze(original) {
         : value;
     }
   });
+
+  // add back any removed headers from the original that match keepHeaders
+  keepHeaders.forEach(header => {
+    const value = original.responseHeaders[header];
+    if (value && !domainRecord.responseHeaders[header]) {
+      domainRecord.responseHeaders[header] = value;
+    }
+  });
+
+  // Sort the responseHeaders object
+  domainRecord.responseHeaders = Object.fromEntries(
+    Object.entries(domainRecord.responseHeaders).sort()
+  );
 
   const cacheControl = res.headers.get("cache-control")?.toLowerCase();
   if (cacheControl) {

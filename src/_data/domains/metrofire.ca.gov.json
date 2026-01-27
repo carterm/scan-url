@@ -20,7 +20,7 @@
     "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,
-  "slow": true,
+  "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
