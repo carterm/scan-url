@@ -19,7 +19,7 @@
     "x-sharepointhealthscore": "0"
   },
   "cloudflare": false,
-  "slow": true,
+  "slow": false,
   "hasStatewideAlerts": true,
   "usesStateTemplate": false,
   "hasJQuery": true,

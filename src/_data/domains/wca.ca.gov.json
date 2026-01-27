@@ -20,7 +20,7 @@
     "x-nb-cached-page": "yes"
   },
   "cloudflare": false,
-  "slow": true,
+  "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,

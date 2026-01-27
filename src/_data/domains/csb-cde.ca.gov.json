@@ -13,7 +13,7 @@
     "content-type": "text/html; charset=utf-8"
   },
   "cloudflare": false,
-  "slow": true,
+  "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": true,

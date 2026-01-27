@@ -12,7 +12,8 @@ const keepHeaders = [
   "server",
   "content-encoding",
   "vary",
-  "x-content-type-options"
+  "x-content-type-options",
+  "connection"
 ];
 
 const fetchTimeout = 15000; //15 seconds
@@ -70,7 +71,10 @@ export async function fetchAndAnalyze(original) {
   }
 
   domainRecord.lastStatus = res.status;
-  domainRecord.finalUrl = res.url;
+  if (!domainRecord.ignoreFinalUrl) {
+    domainRecord.finalUrl = res.url;
+  }
+
   domainRecord.responseHeaders = {};
 
   res.headers.forEach((value, name) => {
@@ -193,7 +197,7 @@ export async function fetchAndAnalyze(original) {
     ...new Set(code.toUpperCase().match(GA))
   ].sort();
 
-  domainRecord.slow = duration >= 5;
+  domainRecord.slow = duration >= 8;
 
   // Social links
   const SOCIAL_DOMAINS = [

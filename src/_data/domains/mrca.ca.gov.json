@@ -17,7 +17,7 @@
     "vary": "Accept-Encoding"
   },
   "cloudflare": false,
-  "slow": true,
+  "slow": false,
   "hasStatewideAlerts": true,
   "usesStateTemplate": false,
   "hasJQuery": true,

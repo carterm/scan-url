@@ -28,6 +28,8 @@
  *
  * @property {string | null} finalUrl
  *   The final resolved URL after redirects, or null if none occurred.
+ * @property {boolean} [ignoreFinalUrl]
+ *   Whether to ignore the final resolved URL after redirects.
  *
  * @property {string | null} metaGenerator
  * @property {{[key: string]: string}} responseHeaders
