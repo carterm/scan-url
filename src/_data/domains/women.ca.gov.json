@@ -19,7 +19,6 @@
     "strict-transport-security": "max-age=31536000; includeSubDomains",
     "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie",
     "x-cache-group": "normal",
-    "x-cacheable": "SHORT",
     "x-content-type-options": "nosniff",
     "x-powered-by": "WP Engine",
     "x-tec-api-origin": "https://women.ca.gov",

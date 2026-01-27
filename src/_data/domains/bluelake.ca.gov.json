@@ -16,7 +16,6 @@
     "server": "cloudflare",
     "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie",
     "x-cache-group": "normal",
-    "x-cacheable": "YES:15552000.000",
     "x-powered-by": "WP Engine",
     "x-tec-api-origin": "https://bluelake.ca.gov",
     "x-tec-api-root": "https://bluelake.ca.gov/wp-json/tribe/events/v1/",

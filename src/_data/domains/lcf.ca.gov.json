@@ -16,7 +16,6 @@
     "server": "nginx",
     "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie",
     "x-cache-group": "normal",
-    "x-cacheable": "SHORT",
     "x-powered-by": "WP Engine"
   },
   "cloudflare": false,

@@ -13,8 +13,6 @@
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "ki-cache-tag": "96db0520-a8d8-47ba-a905-0feea937cc19,0591ece5618226aa22d24ea3a3fb2bb5a286b5b942f2bcd3caf29a71a5b83c45",
-    "ki-cache-type": "None",
     "ki-edge": "v=25.3.1;mv=5.0.18",
     "ki-origin": "g1p",
     "link": "<https://wpwma.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://wpwma.ca.gov/wp-json/wp/v2/pages/10127>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://wpwma.ca.gov/>; rel=shortlink",

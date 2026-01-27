@@ -17,7 +17,6 @@
     "server": "nginx",
     "sg-f-cache": "BYPASS",
     "vary": "Accept-Encoding",
-    "x-cache-enabled": "True",
     "x-httpd-modphp": "1",
     "x-pingback": "https://rcpa.ca.gov/xmlrpc.php",
     "x-proxy-cache": "HIT",
