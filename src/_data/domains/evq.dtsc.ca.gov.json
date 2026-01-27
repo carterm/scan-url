@@ -7,48 +7,16 @@
   "title": "Electronic Verification Questionnaire (eVQ) System",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "access-control-expose-headers",
-      "value": "Request-Context"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html; charset=utf-8"
-    },
-    {
-      "name": "request-context",
-      "value": "appId=cid-v1:5da1700f-797e-4dd8-8e65-d31e1012d516"
-    },
-    {
-      "name": "server",
-      "value": "cloudflare"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=15552000; includeSubDomains"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "NOSNIFF"
-    },
-    {
-      "name": "x-frame-options",
-      "value": "DENY"
-    }
-  ],
+  "responseHeaders": {
+    "access-control-expose-headers": "Request-Context",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "request-context": "appId=cid-v1:5da1700f-797e-4dd8-8e65-d31e1012d516",
+    "server": "cloudflare",
+    "x-content-type-options": "NOSNIFF",
+    "x-frame-options": "DENY"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

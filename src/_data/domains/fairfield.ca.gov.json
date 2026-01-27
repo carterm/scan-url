@@ -5,10 +5,20 @@
   "active": true,
   "includeInScan": true,
   "title": "",
-  "lastStatus": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
+  "lastStatus": 200,
+  "finalUrl": "",
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/plain",
+    "expect-ct": "max-age=31536000",
+    "granicusserver": "mse2p-viscmsga4",
+    "server": "cloudflare",
+    "speculation-rules": "\"/cdn-cgi/speculation\"",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -19,5 +29,6 @@
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,
-  "notes": null
+  "notes": null,
+  "nocache": false
 }

@@ -83,5 +83,6 @@
   "x-cnection",
   "vary",
   "x-nitro-cache",
-  "x-nitro-cache-from"
+  "x-nitro-cache-from",
+  "x-cache-ctime"
 ]
