@@ -2,8 +2,8 @@
   "domain": "wpso.dmhc.ca.gov",
   "targetURL": "https://wpso.dmhc.ca.gov/",
   "www": false,
-  "active": true,
-  "includeInScan": true,
+  "active": false,
+  "includeInScan": false,
   "title": "",
   "lastStatus": null,
   "finalUrl": null,
@@ -19,5 +19,5 @@
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,
-  "notes": null
+  "notes": "Not workingsite as of 2026-01-27"
 }

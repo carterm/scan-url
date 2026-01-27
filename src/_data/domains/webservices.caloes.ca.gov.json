@@ -2,8 +2,8 @@
   "domain": "webservices.caloes.ca.gov",
   "targetURL": "https://webservices.caloes.ca.gov/",
   "www": false,
-  "active": true,
-  "includeInScan": true,
+  "active": false,
+  "includeInScan": false,
   "title": "",
   "lastStatus": null,
   "finalUrl": null,
@@ -19,5 +19,5 @@
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": "Fetch error: fetch failed Connect Timeout Error (attempted address: webservices.caloes.ca.gov:443, timeout: 15000ms)",
-  "notes": null
+  "notes": "Not responding as of 2026-01-27"
 }
