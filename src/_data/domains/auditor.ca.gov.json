@@ -13,7 +13,6 @@
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "server": "nginx",
-    "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-powered-by": "WordPress VIP <https://wpvip.com>",

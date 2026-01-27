@@ -15,7 +15,6 @@
     "permissions-policy": "camera=(), microphone=(), geolocation=(), interest-cohort=()",
     "referrer-policy": "strict-origin-when-cross-origin",
     "server": "Vercel",
-    "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
     "x-matched-path": "/",

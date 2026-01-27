@@ -14,7 +14,6 @@
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "server": "cloudflare",
-    "vary": "Accept-Encoding",
     "x-gateway-cache-key": "1769462640.281|standard|https|ncric.ca.gov|||/",
     "x-gateway-cache-status": "HIT",
     "x-gateway-request-id": "9f1b5dbf61bf517809dda928ad6570b1",

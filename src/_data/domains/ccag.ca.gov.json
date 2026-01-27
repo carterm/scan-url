@@ -15,7 +15,6 @@
     "fastly-restarts": "1",
     "referrer-policy": "no-referrer-when-downgrade",
     "server": "Flywheel/5.1.0",
-    "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-fw-dynamic": "TRUE",
     "x-fw-hash": "ksia5ss0bj",

@@ -15,7 +15,6 @@
     "pragma": "no-cache",
     "range": "Partial Content",
     "server": "Microsoft-IIS/10.0",
-    "vary": "Accept-Encoding",
     "x-aspnet-version": "4.0.30319",
     "x-powered-by": "ASP.NET"
   },

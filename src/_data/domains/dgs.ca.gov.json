@@ -13,7 +13,6 @@
     "content-type": "text/html; charset=utf-8",
     "pragma": "no-cache",
     "server": "Microsoft-IIS/10.0",
-    "vary": "Accept-Encoding",
     "x-frame-options": "SAMEORIGIN"
   },
   "cloudflare": false,

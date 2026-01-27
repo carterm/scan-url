@@ -80,5 +80,6 @@
   "host-header",
   "x-proxy-cache",
   "x-proxy-cache-info",
-  "x-cnection"
+  "x-cnection",
+  "vary"
 ]

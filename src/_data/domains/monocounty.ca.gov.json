@@ -13,7 +13,6 @@
     "content-language": "en",
     "content-type": "text/html; charset=utf-8",
     "server": "cloudflare",
-    "vary": "Cookie,Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-generator": "Drupal 7 (http://drupal.org)",
     "x-powered-by": "PHP/5.6.25"

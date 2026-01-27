@@ -15,7 +15,6 @@
     "permissions-policy": "accelerometer=(),camera=(),display-capture=(),document-domain=(),gyroscope=(),magnetometer=(),microphone=(),midi=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),usb=(),xr-spatial-tracking=()",
     "referrer-policy": "strict-origin-when-cross-origin",
     "server": "nginx",
-    "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-tec-api-origin": "https://www.holtville.ca.gov",

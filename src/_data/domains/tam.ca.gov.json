@@ -14,7 +14,6 @@
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "server": "cloudflare",
-    "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie",
     "x-cache-group": "normal",
     "x-powered-by": "WP Engine",
     "x-tec-api-origin": "https://www.tam.ca.gov",

@@ -15,7 +15,6 @@
     "content-language": "en",
     "content-type": "text/html; charset=UTF-8",
     "server": "nginx",
-    "vary": "Accept-Encoding, Cookie, Cookie, Cookie",
     "x-content-type-options": "nosniff",
     "x-generator": "Drupal 9 (https://www.drupal.org)",
     "x-ua-compatible": "IE=edge"

@@ -11,7 +11,6 @@
     "accept-ranges": "bytes",
     "content-encoding": "br",
     "content-type": "text/html",
-    "vary": "Accept-Encoding,Accept-Encoding",
     "x-content-type-options": "nosniff"
   },
   "cloudflare": false,

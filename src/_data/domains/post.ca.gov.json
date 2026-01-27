@@ -13,7 +13,6 @@
     "cross-origin-opener-policy": "same-origin",
     "pragma": "no-cache",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-ua-compatible": "IE=edge",

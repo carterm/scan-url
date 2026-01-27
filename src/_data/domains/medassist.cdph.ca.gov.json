@@ -11,8 +11,7 @@
     "accept-ranges": "bytes",
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "server": "volt-adc",
-    "vary": "Accept-Encoding"
+    "server": "volt-adc"
   },
   "cloudflare": false,
   "slow": false,

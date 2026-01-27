@@ -13,7 +13,6 @@
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "server": "nginx",
-    "vary": "Accept-Encoding",
     "x-httpd": "1",
     "x-tec-api-origin": "https://scta.ca.gov",
     "x-tec-api-root": "https://scta.ca.gov/wp-json/tribe/events/v1/",

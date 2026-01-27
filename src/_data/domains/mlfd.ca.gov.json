@@ -16,7 +16,6 @@
     "pragma": "no-cache",
     "referrer-policy": "no-referrer-when-downgrade",
     "server": "nginx",
-    "vary": "Accept-Encoding, Accept-Encoding",
     "x-httpd": "1"
   },
   "cloudflare": false,

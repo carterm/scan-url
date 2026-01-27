@@ -11,7 +11,6 @@ import removeHeaders from "./removeHeaders.json" assert { type: "json" };
 const keepHeaders = [
   "server",
   "content-encoding",
-  "vary",
   "x-content-type-options",
   "connection"
 ];

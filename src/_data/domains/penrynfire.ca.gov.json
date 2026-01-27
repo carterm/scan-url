@@ -13,7 +13,6 @@
     "content-encoding": "br",
     "content-type": "text/html;charset=utf-8",
     "server": "DPS/2.0.0+sha-57bdacc",
-    "vary": "Accept-Encoding",
     "x-siteid": "us-west-2",
     "x-version": "57bdacc"
   },

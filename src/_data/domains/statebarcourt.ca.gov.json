@@ -16,7 +16,6 @@
     "feature-policy": "geolocation 'none'; camera 'none'; microphone 'none'",
     "referrer-policy": "strict-origin-when-cross-origin",
     "server": "",
-    "vary": "Accept-Encoding, Accept-Encoding, Cookie, Cookie, Cookie",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",

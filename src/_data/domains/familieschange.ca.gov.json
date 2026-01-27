@@ -14,7 +14,6 @@
     "content-language": "en",
     "content-type": "text/html; charset=utf-8",
     "server": "Apache/2.4.52 (Ubuntu)",
-    "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 7 (http://drupal.org)"

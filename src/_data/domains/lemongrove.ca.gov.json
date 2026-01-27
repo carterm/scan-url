@@ -12,7 +12,6 @@
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
     "referrer-policy": "strict-origin",
-    "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN"
   },

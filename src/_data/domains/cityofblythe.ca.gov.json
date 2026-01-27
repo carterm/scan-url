@@ -12,7 +12,6 @@
     "content-type": "text/html; charset=utf-8",
     "p3p": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"",
     "server": "Microsoft-IIS/10.0",
-    "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff"
   },
   "cloudflare": false,

@@ -13,7 +13,6 @@
     "content-encoding": "gzip",
     "content-type": "text/html",
     "server": "AmazonS3",
-    "vary": "accept-encoding",
     "x-amz-server-side-encryption": "AES256"
   },
   "cloudflare": false,

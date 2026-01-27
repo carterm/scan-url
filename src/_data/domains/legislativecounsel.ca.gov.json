@@ -16,7 +16,6 @@
     "from-origin": "https://acc-was.calegis.net",
     "referrer-policy": "no-referrer-when-downgrade",
     "server": "cloudflare",
-    "vary": "Cookie,Accept-Encoding",
     "x-content-security-policy": "default-src https: data: 'unsafe-inline' 'unsafe-eval' blob:; script-src 'unsafe-inline' 'self' google.com www.google.com www.gstatic.com cdnjs.cloudflare.com cdn.jsdelivr.net unpkg.com ssl.p.jwpcdn.com www.googletagmanager.com www.google-analytics.com polyfill.io leganaiwebp2.calegis.net; style-src 'unsafe-inline'  *; img-src 'self' data: https:; media-src 'self' blob:; frame-ancestors *.assembly.ca.gov *.calegis.net; child-src 'self' blob: www.google.com www.gstatic.com ssl.p.jwpcdn.com; font-src 'self' fonts.gstatic.com themes.googleusercontent.com data:; report-uri /report-csp-violation; upgrade-insecure-requests",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",

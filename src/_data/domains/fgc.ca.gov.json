@@ -13,7 +13,6 @@
     "permissions-policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
     "pragma": "no-cache",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "vary": "Accept-Encoding,Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-ua-compatible": "IE=edge"
   },

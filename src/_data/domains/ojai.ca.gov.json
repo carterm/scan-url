@@ -11,7 +11,6 @@
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
     "p3p": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"",
-    "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff"
   },
   "cloudflare": false,

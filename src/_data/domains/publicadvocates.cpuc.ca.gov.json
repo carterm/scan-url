@@ -13,8 +13,7 @@
     "content-type": "text/html; charset=utf-8",
     "pragma": "no-cache",
     "request-context": "appId=cid-v1:51b3e88b-8bf5-4c30-87a7-32ba39a60e29",
-    "server": "Microsoft-IIS/10.0",
-    "vary": "Accept-Encoding"
+    "server": "Microsoft-IIS/10.0"
   },
   "cloudflare": false,
   "slow": false,

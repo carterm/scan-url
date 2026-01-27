@@ -11,7 +11,6 @@
     "connection": "Keep-Alive",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "vary": "Accept-Encoding",
     "x-oneagent-js-injection": "true",
     "x-ruxit-js-agent": "true"
   },

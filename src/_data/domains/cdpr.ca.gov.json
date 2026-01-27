@@ -14,7 +14,6 @@
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "server": "nginx",
-    "vary": "Accept-Encoding, Cookie, Cookie",
     "x-cdn": "Imperva",
     "x-pingback": "https://www.cdpr.ca.gov/xmlrpc.php"
   },

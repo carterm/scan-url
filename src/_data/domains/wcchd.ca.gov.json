@@ -12,8 +12,7 @@
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "server": "nginx",
-    "vary": "Accept-Encoding, Cookie"
+    "server": "nginx"
   },
   "cloudflare": false,
   "slow": false,

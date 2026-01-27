@@ -16,7 +16,6 @@
     "pragma": "public",
     "referrer-policy": "strict-origin",
     "server": "nginx",
-    "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-powered-by": "PHP/8.3.26",

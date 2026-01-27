@@ -15,7 +15,6 @@
     "pragma": "no-cache",
     "referrer-policy": "strict-origin-when-cross-origin",
     "server": "cloudflare",
-    "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding",
     "x-frame-options": "SAMEORIGIN",
     "x-pass-why": "wp-admin",
     "x-powered-by": "WP Engine"

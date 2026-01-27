@@ -14,7 +14,6 @@
     "content-language": "en-US",
     "content-type": "text/html; charset=UTF-8",
     "server": "Pepyaka",
-    "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-meta-site-id": "6b6797b3-72a4-4237-9aee-88c100fc530d"
   },

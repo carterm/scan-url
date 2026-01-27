@@ -15,7 +15,6 @@
     "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
     "referrer-policy": "no-referrer-when-downgrade",
     "server": "nginx",
-    "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-page-speed": "1.13.35.2-0",
@@ -26,7 +25,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": true,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-BACKGROUND"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

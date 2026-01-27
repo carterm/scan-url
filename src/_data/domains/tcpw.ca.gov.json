@@ -11,8 +11,7 @@
   "responseHeaders": {
     "connection": "keep-alive",
     "content-type": "text/html; charset=UTF-8",
-    "server": "nginx",
-    "vary": "Accept-Encoding"
+    "server": "nginx"
   },
   "cloudflare": false,
   "slow": false,

@@ -14,7 +14,6 @@
     "reporting-endpoints": "sfdc-csp-ep=\"https://visitcalifornia.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Df4000002a9aF&networkId=0DM2T000000TNfN&type=communities\"",
     "server": "nginx",
     "timing-allow-origin": "*",
-    "vary": "Accept-Encoding, Origin",
     "x-content-type-options": "nosniff",
     "x-frame-options": "ALLOWALL"
   },

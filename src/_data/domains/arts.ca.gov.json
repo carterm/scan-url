@@ -14,7 +14,6 @@
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "server": "nginx",
-    "vary": "Accept-Encoding, Cookie, Cookie",
     "x-tec-api-origin": "https://arts.ca.gov",
     "x-tec-api-root": "https://arts.ca.gov/wp-json/tribe/events/v1/",
     "x-tec-api-version": "v1"

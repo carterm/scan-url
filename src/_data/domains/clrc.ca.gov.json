@@ -13,8 +13,7 @@
     "content-encoding": "br",
     "content-type": "text/html",
     "server": "Apache",
-    "upgrade": "h2,h2c",
-    "vary": "Accept-Encoding"
+    "upgrade": "h2,h2c"
   },
   "cloudflare": false,
   "slow": false,

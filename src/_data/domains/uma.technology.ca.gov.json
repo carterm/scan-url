@@ -14,7 +14,6 @@
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
     "request-context": "appId=cid-v1:d4a6cb96-1e29-463a-a27b-b4b4d1174095",
-    "vary": "Accept-Encoding",
     "x-aspnet-version": "4.0.30319",
     "x-aspnetmvc-version": "5.2",
     "x-frame-options": "SAMEORIGIN",

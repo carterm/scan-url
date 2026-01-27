@@ -15,7 +15,6 @@
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "server": "cloudflare",
-    "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie",
     "x-cache-ctime": "1769468244",
     "x-cache-group": "normal",
     "x-nitro-cache": "HIT",

@@ -13,7 +13,6 @@
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "server": "nginx",
-    "vary": "Accept-Encoding, accept, content-type, cookie",
     "x-hacker": "Want root?  Visit join.a8c.com and mention this header."
   },
   "cloudflare": false,

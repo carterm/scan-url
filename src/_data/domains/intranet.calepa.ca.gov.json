@@ -14,7 +14,6 @@
     "content-type": "text/html; charset=UTF-8",
     "pragma": "no-cache",
     "server": "cloudflare",
-    "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie",
     "x-cache-group": "normal",
     "x-content-type-options": "nosniff",
     "x-powered-by": "WP Engine"

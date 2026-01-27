@@ -13,7 +13,6 @@
     "content-type": "text/html; charset=UTF-8",
     "pragma": "no-cache",
     "server": "nginx/1.18.0",
-    "vary": "Accept-Encoding, Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-powered-by": "Fat-Free Framework",

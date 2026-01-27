@@ -13,7 +13,6 @@
     "expect-ct": "enforce, max-age=7776000",
     "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), fullscreen=(self)",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "sameorigin",
     "x-permitted-cross-domain-policies": "none",

@@ -13,8 +13,7 @@
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "referrer-policy": "",
-    "server": "Apache",
-    "vary": "Accept-Encoding"
+    "server": "Apache"
   },
   "cloudflare": false,
   "slow": false,

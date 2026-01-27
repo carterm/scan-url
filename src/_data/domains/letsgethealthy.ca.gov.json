@@ -16,7 +16,6 @@
     "permissions-policy": "accelerometer=(self), autoplay=(self), camera=(self), encrypted-media=(self), fullscreen=(self), geolocation=(self), gyroscope=(self), magnetometer=(self), microphone=(self), midi=(self), payment=(self), usb=(self)",
     "referrer-policy": "strict-origin-when-cross-origin",
     "server": "cloudflare",
-    "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie",
     "x-cache-group": "normal",
     "x-content-type-options": "nosniff",
     "x-frame-options": "sameorigin",

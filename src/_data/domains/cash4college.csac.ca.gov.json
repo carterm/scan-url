@@ -12,7 +12,6 @@
     "content-type": "text/html; charset=utf-8",
     "pragma": "no-cache",
     "server": "Microsoft-IIS/10.0",
-    "vary": "Accept-Encoding",
     "x-aspnet-version": "4.0.30319",
     "x-aspnetmvc-version": "5.2",
     "x-content-type-options": "nosniff",

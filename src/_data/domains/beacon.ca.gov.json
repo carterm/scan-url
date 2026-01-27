@@ -14,7 +14,6 @@
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "server": "Sucuri/Cloudproxy",
-    "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-gateway-cache-key": "1768993275.658|tablet|https|beacon.ca.gov|||/",

@@ -12,7 +12,6 @@
     "permissions-policy": "geolocation=(), microphone=(), camera=(), usb=(), fullscreen=(self), payment=()",
     "pragma": "no-cache",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-ua-compatible": "IE=edge",
     "x-xss-protection": "1; mode=block"

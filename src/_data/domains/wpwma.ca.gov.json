@@ -17,7 +17,6 @@
     "ki-origin": "g1p",
     "nel": "{\"success_fraction\":0.01,\"report_to\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
-    "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-edge-location-klb": "1",
     "x-kinsta-cache": "HIT"

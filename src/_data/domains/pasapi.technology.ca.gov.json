@@ -12,7 +12,6 @@
     "content-encoding": "gzip",
     "content-type": "text/html;charset=utf-8",
     "request-context": "appId=cid-v1:c9b44974-d454-44ee-8af9-468a2d9f65f7",
-    "vary": "Accept-Encoding",
     "x-powered-by": "ASP.NET",
     "x-swagger-ui-version": "5.29.2"
   },

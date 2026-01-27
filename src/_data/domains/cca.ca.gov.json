@@ -13,7 +13,6 @@
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "server": "cloudflare",
-    "vary": "Accept-Encoding",
     "x-gateway-cache-key": "1767219414.648|standard|https|cca.ca.gov|||/",
     "x-gateway-cache-status": "MISS",
     "x-gateway-request-id": "7054639e0cb35b02f10a0fa67fe1dc0f",

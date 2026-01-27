@@ -14,7 +14,6 @@
     "content-type": "text/html",
     "pragma": "no-cache",
     "server": "volt-adc",
-    "vary": "origin,access-control-request-method,access-control-request-headers,accept-encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
     "x-xss-protection": "0"

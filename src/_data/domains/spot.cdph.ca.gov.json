@@ -13,7 +13,6 @@
     "reporting-endpoints": "sfdc-csp-ep=\"https://cdphct.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Dt00000004XQC&networkId=0DMt0000000PBdO&type=communities\"",
     "server": "volt-adc",
     "timing-allow-origin": "*",
-    "vary": "Accept-Encoding, Origin",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN"
   },

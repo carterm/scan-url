@@ -11,8 +11,7 @@
     "accept-ranges": "bytes",
     "connection": "close",
     "content-encoding": "gzip",
-    "content-type": "text/html",
-    "vary": "Accept-Encoding"
+    "content-type": "text/html"
   },
   "cloudflare": false,
   "slow": false,

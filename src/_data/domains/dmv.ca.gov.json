@@ -14,7 +14,6 @@
     "content-type": "text/html; charset=UTF-8",
     "p3p": "CP=\"NON CUR OTPi OUR NOR UNI\"",
     "server": "volt-adc",
-    "vary": "Cookie",
     "x-elasticpress-query": "true",
     "x-frame-options": "SAMEORIGIN"
   },

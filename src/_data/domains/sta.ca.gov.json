@@ -14,7 +14,6 @@
     "content-type": "text/html; charset=UTF-8",
     "referrer-policy": "strict-origin-when-cross-origin",
     "server": "",
-    "vary": "Accept-Encoding, Cookie, Cookie",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-powered-by": "",

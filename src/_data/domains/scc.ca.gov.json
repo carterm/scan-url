@@ -13,7 +13,6 @@
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "server": "Sucuri/Cloudproxy",
-    "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-sucuri-id": "11035",

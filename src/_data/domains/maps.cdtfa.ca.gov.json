@@ -14,7 +14,6 @@
     "pragma": "no-cache",
     "request-context": "appId=cid-v1:c0911a60-0021-414b-8337-35e7ae2c49f7",
     "server": "Microsoft-IIS/10.0",
-    "vary": "Accept-Encoding",
     "x-frame-options": "SAMEORIGIN",
     "x-powered-by": "ASP.NET"
   },
