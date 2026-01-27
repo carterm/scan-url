@@ -11,8 +11,7 @@
     "connection": "Keep-Alive",
     "content-language": "und",
     "content-type": "text/html;charset=UTF-8",
-    "server": "Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k mod_jk/1.2.48",
-    "transfer-encoding": "chunked"
+    "server": "Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k mod_jk/1.2.48"
   },
   "cloudflare": false,
   "slow": false,

@@ -13,8 +13,7 @@
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
     "request-context": "appId=cid-v1:21534320-bb29-41ca-aef3-2d002fe6c966",
-    "server": "cloudflare",
-    "transfer-encoding": "chunked"
+    "server": "cloudflare"
   },
   "cloudflare": false,
   "slow": false,

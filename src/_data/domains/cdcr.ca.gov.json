@@ -16,7 +16,6 @@
     "link": "<https://www.cdcr.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.cdcr.ca.gov/wp-json/wp/v2/pages/6205>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.cdcr.ca.gov/>; rel=shortlink",
     "server": "nginx",
     "strict-transport-security": "max-age=31536000",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding, Cookie",
     "x-distributor": "yes",
     "x-frame-options": "SAMEORIGIN"

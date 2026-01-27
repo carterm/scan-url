@@ -17,7 +17,6 @@
     "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
     "server": "cloudflare",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding",
     "x-cache-group": "normal",
     "x-cacheable": "NO:Private",
@@ -44,7 +43,8 @@
     "https://www.instagram.com/casurgeongeneral/",
     "https://www.linkedin.com/company/ca-surgeon-general/",
     "https://www.youtube.com/@CaliforniaSurgeonGeneral",
-    "https://www.youtube.com/playlist?list=PLvh6pmW96NARQl4TD5IR0dZ0c3GX4arZs"
+    "https://www.youtube.com/playlist?list=PLvh6pmW96NARQl4TD5IR0dZ0c3GX4arZs",
+    "https://youtu.be/OZXi5Z-kgHE"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

@@ -14,7 +14,6 @@
     "content-type": "text/html; charset=UTF-8",
     "link": "<https://c2c.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://c2c.ca.gov/wp-json/wp/v2/pages/155>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://c2c.ca.gov/>; rel=shortlink",
     "server": "cloudflare",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie",
     "x-cache-group": "normal",
     "x-cacheable": "SHORT",

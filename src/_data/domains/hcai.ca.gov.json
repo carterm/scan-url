@@ -12,7 +12,6 @@
     "content-type": "text/html; charset=UTF-8",
     "link": "<https://hcai.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://hcai.ca.gov/wp-json/wp/v2/pages/8974>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://hcai.ca.gov/>; rel=shortlink",
     "server": "nginx",
-    "transfer-encoding": "chunked",
     "x-content-type-options": "nosniff",
     "x-elasticpress-query": "true",
     "x-frame-options": "SAMEORIGIN, SAMEORIGIN",

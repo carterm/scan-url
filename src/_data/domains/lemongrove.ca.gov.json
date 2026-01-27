@@ -13,7 +13,6 @@
     "content-type": "text/html; charset=utf-8",
     "referrer-policy": "strict-origin",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN"

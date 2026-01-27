@@ -16,7 +16,6 @@
     "link": "<https://wcchd.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://wcchd.ca.gov/wp-json/wp/v2/pages/5>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://wcchd.ca.gov/>; rel=shortlink",
     "server": "nginx",
     "strict-transport-security": "max-age=31536000",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding, Cookie"
   },
   "cloudflare": false,

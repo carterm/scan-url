@@ -16,7 +16,7 @@
     "content-type": "text/html; charset=UTF-8",
     "link": "<https://www.selfhelp.courts.ca.gov/>; rel=\"canonical\", <https://www.selfhelp.courts.ca.gov/>; rel=\"shortlink\"",
     "server": "nginx",
-    "strict-transport-security": "max-age=300",
+    "strict-transport-security": "max-age=300; includeSubDomains;",
     "vary": "Accept-Encoding, Cookie, Cookie, Cookie, orig-host",
     "x-content-type-options": "nosniff",
     "x-generator": "Drupal 9 (https://www.drupal.org)",

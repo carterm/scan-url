@@ -15,7 +15,6 @@
     "content-language": "en",
     "content-type": "text/html; charset=UTF-8",
     "server": "cloudflare",
-    "transfer-encoding": "chunked",
     "vary": "Cookie,Accept-Encoding",
     "x-ah-environment": "prod",
     "x-content-type-options": "nosniff",

@@ -15,7 +15,6 @@
     "host-header": "8441280b0c35cbc1147f8ba998a563a7",
     "link": "<https://scta.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://scta.ca.gov/wp-json/wp/v2/pages/14>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://scta.ca.gov/>; rel=shortlink",
     "server": "nginx",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-cache-enabled": "True",
     "x-httpd": "1",

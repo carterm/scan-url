@@ -14,7 +14,6 @@
     "content-type": "text/html",
     "referrer-policy": "strict-origin-when-cross-origin",
     "strict-transport-security": "max-age=16070400; includeSubDomains; preload",
-    "transfer-encoding": "chunked",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-xss-protection": "1; mode=block"
@@ -29,7 +28,9 @@
     "G-G28V3EMKNN",
     "UA-64276560-5"
   ],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://youtu.be/E4kn_00M80E"
+  ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,

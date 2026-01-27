@@ -14,7 +14,6 @@
     "link": "<https://nvta.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://nvta.ca.gov/wp-json/wp/v2/pages/10>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://nvta.ca.gov/>; rel=shortlink",
     "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
     "server": "nginx",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-cache-nxaccel": "BYPASS"
   },

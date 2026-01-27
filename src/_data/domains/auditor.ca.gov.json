@@ -15,7 +15,6 @@
     "host-header": "a9130478a60e5f9135f765b23f26593b",
     "link": "<https://www.auditor.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.auditor.ca.gov/wp-json/wp/v2/pages/10>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.auditor.ca.gov/>; rel=shortlink",
     "server": "nginx",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",

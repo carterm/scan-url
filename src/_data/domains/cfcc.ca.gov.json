@@ -14,7 +14,6 @@
     "content-type": "text/html; charset=UTF-8",
     "referrer-policy": "no-referrer-when-downgrade",
     "server": "Apache/2.4.48 (Unix) OpenSSL/1.1.1n",
-    "transfer-encoding": "chunked",
     "vary": "User-Agent",
     "wpo-cache-status": "cached",
     "x-content-type-options": "nosniff",

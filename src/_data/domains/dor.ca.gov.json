@@ -14,7 +14,6 @@
     "request-context": "appId=cid-v1:76602a33-8f89-448c-8a69-b07dff09bdc7",
     "server": "Microsoft-IIS/10.0",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-powered-by": "ASP.NET"
   },

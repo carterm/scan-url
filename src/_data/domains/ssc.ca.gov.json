@@ -13,8 +13,9 @@
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "link": "<https://www.ssc.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.ssc.ca.gov/wp-json/wp/v2/pages/2>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.ssc.ca.gov/>; rel=shortlink",
-    "transfer-encoding": "chunked",
-    "vary": "Accept-Encoding"
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "vary": "Accept-Encoding",
+    "x-content-type-options": "nosniff"
   },
   "cloudflare": false,
   "slow": false,
@@ -28,6 +29,7 @@
   ],
   "socialLinks": [
     "http://www.youtube.com/watch?feature=player_embedded&v=V8D0jR0EaW8",
+    "http://youtu.be/fNCGTuPxRyE",
     "https://twitter.com/CAseismic",
     "https://www.linkedin.com/posts/mnwdwater_resilienttogether-femagrant-mnwd-activity-7165866553400385537-estl?utm_source=share&utm_medium=member_desktop",
     "https://www.youtube.com/user/CSSCommission",

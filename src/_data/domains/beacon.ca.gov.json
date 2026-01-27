@@ -15,7 +15,6 @@
     "content-type": "text/html; charset=UTF-8",
     "link": "<https://beacon.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://beacon.ca.gov/wp-json/wp/v2/pages/36>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://beacon.ca.gov/>; rel=shortlink",
     "server": "Sucuri/Cloudproxy",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",

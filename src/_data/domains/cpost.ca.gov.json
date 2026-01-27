@@ -16,7 +16,6 @@
     "link": "<https://cpost.ca.gov/wp-json/>; rel=\"https://api.w.org/\"",
     "server": "nginx",
     "strict-transport-security": "max-age=31536000",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding, Cookie"
   },
   "cloudflare": false,

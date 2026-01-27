@@ -15,7 +15,6 @@
     "pragma": "no-cache",
     "referrer-policy": "strict-origin-when-cross-origin",
     "server": "cloudflare",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding",
     "x-cacheable": "NO:Passed",
     "x-frame-options": "SAMEORIGIN",

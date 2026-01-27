@@ -13,7 +13,6 @@
     "content-type": "text/html; charset=UTF-8",
     "link": "<https://delta.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://delta.ca.gov/wp-json/wp/v2/pages/219690>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://delta.ca.gov/>; rel=shortlink",
     "server": "nginx",
-    "transfer-encoding": "chunked",
     "x-content-type-options": "nosniff",
     "x-tec-api-origin": "https://delta.ca.gov",
     "x-tec-api-root": "https://delta.ca.gov/wp-json/tribe/events/v1/",

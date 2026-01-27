@@ -12,7 +12,6 @@
     "content-type": "text/html; charset=UTF-8",
     "referrer-policy": "no-referrer-when-downgrade",
     "server": "volt-adc",
-    "transfer-encoding": "chunked",
     "x-content-type-options": "nosniff"
   },
   "cloudflare": false,

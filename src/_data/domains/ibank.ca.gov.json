@@ -15,7 +15,6 @@
     "link": "<https://www.ibank.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.ibank.ca.gov/wp-json/wp/v2/pages/255>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.ibank.ca.gov/>; rel=shortlink",
     "referrer-policy": "no-referrer-when-downgrade",
     "server": "Apache",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding,User-Agent",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",

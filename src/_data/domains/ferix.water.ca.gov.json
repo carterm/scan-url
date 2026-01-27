@@ -11,8 +11,7 @@
     "connection": "Keep-Alive",
     "content-type": "text/html;charset=ISO-8859-1",
     "server": "Apache/2.4.10 (Unix) mod_jk/1.2.40",
-    "strict-transport-security": "max-age=16070400; includeSubDomains",
-    "transfer-encoding": "chunked"
+    "strict-transport-security": "max-age=16070400; includeSubDomains"
   },
   "cloudflare": false,
   "slow": false,

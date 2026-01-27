@@ -17,7 +17,6 @@
     "referrer-policy": "no-referrer",
     "server": "Vercel",
     "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
-    "transfer-encoding": "chunked",
     "x-content-type-options": "nosniff",
     "x-dns-prefetch-control": "on",
     "x-matched-path": "/en-US",

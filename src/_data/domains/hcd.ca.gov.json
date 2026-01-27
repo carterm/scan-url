@@ -17,7 +17,6 @@
     "from-origin": "same",
     "referrer-policy": "strict-origin-when-cross-origin",
     "strict-transport-security": "max-age=31536000",
-    "transfer-encoding": "chunked",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 10 (https://www.drupal.org)",

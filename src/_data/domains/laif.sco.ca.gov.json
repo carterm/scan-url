@@ -13,7 +13,6 @@
     "pragma": "no-cache",
     "server": "Microsoft-IIS/10.0",
     "strict-transport-security": "max-age=2592000",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-frame-options": "SAMEORIGIN",
     "x-powered-by": "ASP.NET"

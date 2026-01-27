@@ -18,7 +18,6 @@
     "pragma": "no-cache",
     "referrer-policy": "no-referrer-when-downgrade",
     "server": "nginx",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding, Accept-Encoding",
     "x-httpd": "1",
     "x-proxy-cache": "EXPIRED",

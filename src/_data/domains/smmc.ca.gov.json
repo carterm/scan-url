@@ -13,8 +13,7 @@
     "content-type": "text/html; charset=UTF-8",
     "link": "<https://smmc.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://smmc.ca.gov/wp-json/wp/v2/pages/2>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://smmc.ca.gov/>; rel=shortlink",
     "pragma": "no-cache",
-    "server": "Apache",
-    "transfer-encoding": "chunked"
+    "server": "Apache"
   },
   "cloudflare": false,
   "slow": false,

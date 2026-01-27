@@ -15,7 +15,6 @@
     "link": "<https://lgma.ca.gov/>; rel='canonical'",
     "referrer-policy": "no-referrer-when-downgrade",
     "server": "nginx",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",

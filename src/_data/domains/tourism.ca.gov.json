@@ -16,7 +16,6 @@
     "server": "nginx",
     "strict-transport-security": "max-age=63072000; includeSubDomains",
     "timing-allow-origin": "*",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding, Origin",
     "x-content-type-options": "nosniff",
     "x-frame-options": "ALLOWALL"

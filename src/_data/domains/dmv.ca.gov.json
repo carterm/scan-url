@@ -16,7 +16,6 @@
     "p3p": "CP=\"NON CUR OTPi OUR NOR UNI\"",
     "server": "volt-adc",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
-    "transfer-encoding": "chunked",
     "vary": "Cookie",
     "x-elasticpress-query": "true",
     "x-frame-options": "SAMEORIGIN"

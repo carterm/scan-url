@@ -12,7 +12,6 @@
     "content-language": "und",
     "content-type": "text/html;charset=UTF-8",
     "pragma": "no-cache",
-    "transfer-encoding": "chunked",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
     "x-oneagent-js-injection": "true",

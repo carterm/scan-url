@@ -16,7 +16,6 @@
     "link": "<https://rcpa.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://rcpa.ca.gov/wp-json/wp/v2/pages/428>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://rcpa.ca.gov/>; rel=shortlink",
     "server": "nginx",
     "sg-f-cache": "BYPASS",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-cache-enabled": "True",
     "x-httpd-modphp": "1",

@@ -31,6 +31,7 @@ const removeHeaders = [
   "request-id",
   "sprequestduration",
   "sprequestguid",
+  "transfer-encoding",
   "x-iinfo",
   "x-runtime",
   "keep-alive",
@@ -77,7 +78,8 @@ const removeHeaders = [
   "on-ws",
   "x-shopid",
   "x-sorting-hat-shopid",
-  "x-shardid"
+  "x-shardid",
+  "x-content-digest"
 ];
 
 const fetchTimeout = 15000; //15 seconds
@@ -248,13 +250,29 @@ export async function fetchAndAnalyze(url) {
   // Social links
   const SOCIAL_DOMAINS = [
     "facebook.com",
+    "fb.com",
     "twitter.com",
     "x.com",
+    "t.co",
     "instagram.com",
+    "instagr.am",
     "linkedin.com",
+    "lnkd.in",
+    "pinterest.com",
+    "pin.it",
+    "reddit.com",
+    "rd.it",
     "youtube.com",
+    "youtu.be",
     "tiktok.com"
   ];
+
+  // add www, m variants
+  SOCIAL_DOMAINS.push(
+    ...SOCIAL_DOMAINS.map(d => "www." + d),
+    ...SOCIAL_DOMAINS.map(d => "m." + d),
+    ...SOCIAL_DOMAINS.map(d => "l." + d)
+  );
 
   const anchorLinks = /** @type {HTMLAnchorElement[]} */ ([
     ...doc.querySelectorAll("a[href]")
@@ -264,7 +282,7 @@ export async function fetchAndAnalyze(url) {
     ...new Set(
       anchorLinks
         .map(a => a.href)
-        .filter(href => SOCIAL_DOMAINS.some(d => href.includes(d)))
+        .filter(href => SOCIAL_DOMAINS.some(d => href.includes("://" + d)))
     )
   ].sort();
 

@@ -10,8 +10,7 @@
   "responseHeaders": {
     "accept-ranges": "bytes",
     "connection": "Keep-Alive",
-    "content-type": "text/html; charset=UTF-8",
-    "transfer-encoding": "chunked"
+    "content-type": "text/html; charset=UTF-8"
   },
   "cloudflare": false,
   "slow": false,

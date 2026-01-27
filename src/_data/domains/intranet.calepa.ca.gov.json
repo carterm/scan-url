@@ -4,22 +4,22 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "Log In ‹ Intranet – CalEPA — WordPress",
+  "title": "Intranet - CalEPA | Our internal website for employees!",
   "lastStatus": 200,
-  "finalUrl": "/wp-login.php?redirect_to=%2F",
+  "finalUrl": "",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
+    "link": "<https://intranet.calepa.ca.gov/>; rel=shortlink",
     "pragma": "no-cache",
-    "referrer-policy": "strict-origin-when-cross-origin",
     "server": "cloudflare",
-    "transfer-encoding": "chunked",
-    "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding",
-    "x-cacheable": "NO:Private",
-    "x-frame-options": "SAMEORIGIN",
-    "x-pass-why": "wp-admin",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie",
+    "x-cache-group": "normal",
+    "x-cacheable": "SHORT",
+    "x-content-type-options": "nosniff",
     "x-powered-by": "WP Engine"
   },
   "cloudflare": false,
@@ -27,11 +27,22 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": true,
   "hasJQuery": true,
-  "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-DQ3VBC4CR1",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CaliforniaEPA",
+    "https://www.facebook.com/CaliforniaEPA",
+    "https://www.instagram.com/californiaepa",
+    "https://www.linkedin.com/company/3668037/admin/",
+    "https://www.youtube.com/playlist?list=PLb43SK8iAJX64xVOpRHyZUlusspOMV1br"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": false,
+  "metaGenerator": "CAWeb v.1.12.4"
 }

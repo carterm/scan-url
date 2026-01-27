@@ -14,7 +14,6 @@
     "content-type": "text/html; charset=utf-8",
     "link": "</home>; rel=\"canonical\",</node/161>; rel=\"shortlink\"",
     "server": "cloudflare",
-    "transfer-encoding": "chunked",
     "vary": "Cookie,Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-generator": "Drupal 7 (http://drupal.org)",

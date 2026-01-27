@@ -14,7 +14,6 @@
     "referrer-policy": "no-referrer",
     "server": "Microsoft-IIS/10.0",
     "strict-transport-security": "max-age=2592000",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",

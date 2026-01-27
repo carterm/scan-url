@@ -12,7 +12,6 @@
     "connection": "Keep-Alive",
     "content-type": "text/html; charset=UTF-8",
     "server": "Apache",
-    "transfer-encoding": "chunked",
     "x-frame-options": "SAMEORIGIN"
   },
   "cloudflare": false,

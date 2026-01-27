@@ -13,7 +13,6 @@
     "content-type": "text/html;charset=UTF-8",
     "pragma": "no-cache",
     "server": "Microsoft-IIS/10.0",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-frame-options": "SAMEORIGIN, SAMEORIGIN",
     "x-powered-by": "ASP.NET"

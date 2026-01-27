@@ -17,7 +17,6 @@
     "referrer-policy": "strict-origin-when-cross-origin",
     "server": "",
     "strict-transport-security": "max-age=31622400; includeSubDomains; preload",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding, Accept-Encoding, Cookie, Origin, Cookie, Cookie",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",

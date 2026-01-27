@@ -14,7 +14,6 @@
     "pragma": "public",
     "server": "nginx",
     "strict-transport-security": "max-age=31536000",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-cdn": "Imperva",
     "x-content-type-options": "nosniff",

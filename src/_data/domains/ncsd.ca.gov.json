@@ -15,7 +15,6 @@
     "content-type": "text/html; charset=UTF-8",
     "link": "<https://ncsd.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://ncsd.ca.gov/wp-json/wp/v2/pages/5>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://ncsd.ca.gov/>; rel=shortlink",
     "server": "cloudflare",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie",
     "x-cache-group": "normal",
     "x-cacheable": "SHORT",
@@ -32,7 +31,8 @@
   "googleAnalytics": [],
   "socialLinks": [
     "https://twitter.com/NipomoCSD",
-    "https://www.facebook.com/NipomoCSD"
+    "https://www.facebook.com/NipomoCSD",
+    "https://youtu.be/HTFAAXVaAUs"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

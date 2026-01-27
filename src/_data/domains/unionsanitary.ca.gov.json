@@ -15,7 +15,6 @@
     "link": "<https://unionsanitary.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://unionsanitary.ca.gov/wp-json/wp/v2/pages/2763>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://unionsanitary.ca.gov/>; rel=shortlink",
     "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
     "server": "Sucuri/Cloudproxy",
-    "transfer-encoding": "chunked",
     "x-litespeed-cache": "hit",
     "x-sucuri-id": "11007",
     "x-turbo-charged-by": "LiteSpeed"

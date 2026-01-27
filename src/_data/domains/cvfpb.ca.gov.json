@@ -13,7 +13,6 @@
     "content-type": "text/html; charset=UTF-8",
     "link": "<https://cvfpb.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://cvfpb.ca.gov/wp-json/wp/v2/pages/14344>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://cvfpb.ca.gov/>; rel=shortlink",
     "server": "nginx",
-    "transfer-encoding": "chunked",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-tec-api-origin": "https://cvfpb.ca.gov",

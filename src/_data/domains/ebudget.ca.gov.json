@@ -15,7 +15,6 @@
     "pragma": "no-cache",
     "server": "volt-adc",
     "strict-transport-security": "max-age=31536000 ; includeSubDomains",
-    "transfer-encoding": "chunked",
     "vary": "origin,access-control-request-method,access-control-request-headers,accept-encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",

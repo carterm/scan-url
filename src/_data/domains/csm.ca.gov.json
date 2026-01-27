@@ -12,8 +12,7 @@
     "connection": "keep-alive",
     "content-type": "text/html",
     "pragma": "no-cache",
-    "server": "nginx",
-    "transfer-encoding": "chunked"
+    "server": "nginx"
   },
   "cloudflare": false,
   "slow": false,

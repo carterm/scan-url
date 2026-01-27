@@ -18,7 +18,6 @@
     "referrer-policy": "strict-origin-when-cross-origin",
     "server": "cloudflare",
     "strict-transport-security": "max-age=2592000",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie",
     "x-cache-group": "normal",
     "x-cacheable": "SHORT",

@@ -16,7 +16,6 @@
     "link": "<https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,",
     "server": "Pepyaka",
     "strict-transport-security": "max-age=86400",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-meta-site-id": "6b6797b3-72a4-4237-9aee-88c100fc530d"

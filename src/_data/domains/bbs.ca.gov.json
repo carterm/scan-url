@@ -14,7 +14,6 @@
     "content-type": "text/html",
     "referrer-policy": "strict-origin-when-cross-origin",
     "strict-transport-security": "max-age=16070400; includeSubDomains; preload",
-    "transfer-encoding": "chunked",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-xss-protection": "1; mode=block"
@@ -38,7 +37,8 @@
     "https://www.facebook.com/BehavioralSciencesBoardCA/",
     "https://www.facebook.com/Board-of-Behavioral-Sciences-California-218510451542562/",
     "https://www.youtube.com/user/CaliforniaDCA",
-    "https://www.youtube.com/watch?v=tE9DsszK3t4&list=PLAGnBcgB9ibtHg9U43wusNJ38CJUfHJiQ&index=11&pp=iAQB"
+    "https://www.youtube.com/watch?v=tE9DsszK3t4&list=PLAGnBcgB9ibtHg9U43wusNJ38CJUfHJiQ&index=11&pp=iAQB",
+    "https://youtu.be/58CKB8nD5wo"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

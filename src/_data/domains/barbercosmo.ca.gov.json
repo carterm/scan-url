@@ -14,7 +14,6 @@
     "content-type": "text/html",
     "referrer-policy": "strict-origin-when-cross-origin",
     "strict-transport-security": "max-age=16070400; includeSubDomains; preload",
-    "transfer-encoding": "chunked",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-xss-protection": "1; mode=block"
@@ -35,6 +34,7 @@
   "socialLinks": [
     "https://www.facebook.com/people/California-State-Board-of-Barbering-and-Cosmetology/100068869178078/",
     "https://www.instagram.com/cabarbercosmo/",
+    "https://www.pinterest.com/cagovernment/",
     "https://www.youtube.com/playlist?list=PL8A525BE338F5CD37",
     "https://x.com/CA_BBC"
   ],

@@ -15,7 +15,6 @@
     "link": "<https://lhc.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://lhc.ca.gov/wp-json/wp/v2/pages/2956>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://lhc.ca.gov/>; rel=shortlink",
     "server": "sitedistrict-nginx",
     "strict-transport-security": "max-age=21600",
-    "transfer-encoding": "chunked",
     "x-cache-hit-level": "1",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",

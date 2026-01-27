@@ -17,7 +17,6 @@
     "referrer-policy": "no-referrer-when-downgrade",
     "server": "nginx",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload, max-age=63072000; includeSubdomains; preload",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
@@ -25,13 +24,11 @@
     "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,
-  "slow": false,
+  "slow": true,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": true,
-  "googleAnalytics": [
-    "G-BACKGROUND"
-  ],
+  "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,

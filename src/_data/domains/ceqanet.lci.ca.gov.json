@@ -17,7 +17,6 @@
     "content-type": "text/html; charset=utf-8",
     "referrer-policy": "no-referrer-when-downgrade",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
-    "transfer-encoding": "chunked",
     "vary": "*",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
@@ -35,6 +34,7 @@
   ],
   "socialLinks": [
     "https://twitter.com/cagovernment",
+    "https://www.pinterest.com/cagovernment/",
     "https://www.youtube.com/user/californiagovernment"
   ],
   "linksToCaGov": true,

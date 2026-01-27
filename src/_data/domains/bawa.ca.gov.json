@@ -13,7 +13,6 @@
     "content-type": "text/html; charset=UTF-8",
     "link": "<https://bawa.ca.gov/wp-json/>; rel=\"https://api.w.org/\"",
     "server": "Apache",
-    "transfer-encoding": "chunked",
     "upgrade": "h2,h2c"
   },
   "cloudflare": false,

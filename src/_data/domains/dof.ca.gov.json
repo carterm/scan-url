@@ -10,8 +10,7 @@
   "responseHeaders": {
     "content-encoding": "gzip",
     "content-type": "text/html",
-    "server": "volt-adc",
-    "transfer-encoding": "chunked"
+    "server": "volt-adc"
   },
   "cloudflare": false,
   "slow": false,

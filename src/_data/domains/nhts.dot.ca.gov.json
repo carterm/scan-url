@@ -11,7 +11,6 @@
     "connection": "Keep-Alive",
     "content-type": "text/html; charset=UTF-8",
     "pragma": "no-cache",
-    "transfer-encoding": "chunked",
     "x-oneagent-js-injection": "true",
     "x-ruxit-js-agent": "true"
   },

@@ -16,7 +16,6 @@
     "link": "<https://aquaculturematters.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://wp.me/4OtSF>; rel=shortlink",
     "server": "nginx",
     "strict-transport-security": "max-age=31536000",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding, accept, content-type, cookie",
     "x-hacker": "Want root?  Visit join.a8c.com and mention this header."
   },

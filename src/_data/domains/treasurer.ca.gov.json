@@ -11,7 +11,6 @@
     "content-encoding": "gzip",
     "content-type": "text/html",
     "server": "Microsoft-IIS/10.0",
-    "transfer-encoding": "chunked",
     "x-cdn": "Imperva",
     "x-powered-by": "ASP.NET"
   },

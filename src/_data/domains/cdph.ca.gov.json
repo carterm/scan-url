@@ -13,7 +13,6 @@
     "microsoftsharepointteamservices": "16.0.0.10417",
     "server": "volt-adc",
     "spiislatency": "0",
-    "transfer-encoding": "chunked",
     "vary": "*",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",

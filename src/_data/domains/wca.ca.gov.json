@@ -15,9 +15,7 @@
     "content-type": "text/html; charset=utf-8",
     "server": "cloudflare",
     "strict-transport-security": "max-age=0; includeSubDomains; preload",
-    "transfer-encoding": "chunked",
     "vary": "Accept",
-    "x-content-digest": "77afd5a5acd3a812dd48ac74f8aee3c4eb5b76a7",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-nb-cached-page": "yes"

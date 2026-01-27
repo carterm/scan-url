@@ -12,7 +12,6 @@
     "content-encoding": "gzip",
     "content-type": "text/html",
     "server": "AmazonS3",
-    "transfer-encoding": "chunked",
     "vary": "accept-encoding"
   },
   "cloudflare": false,

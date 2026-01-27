@@ -13,7 +13,6 @@
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "server": "nginx",
-    "transfer-encoding": "chunked",
     "wpo-cache-status": "cached"
   },
   "cloudflare": false,

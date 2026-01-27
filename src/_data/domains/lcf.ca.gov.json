@@ -14,7 +14,6 @@
     "content-type": "text/html; charset=UTF-8",
     "link": "<https://lcf.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://lcf.ca.gov/wp-json/wp/v2/pages/10>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://lcf.ca.gov/>; rel=shortlink",
     "server": "nginx",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding, Accept-Encoding,Cookie",
     "x-cache-group": "normal",
     "x-cacheable": "SHORT",

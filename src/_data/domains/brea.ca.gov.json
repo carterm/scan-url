@@ -14,7 +14,6 @@
     "content-type": "text/html",
     "referrer-policy": "strict-origin-when-cross-origin",
     "strict-transport-security": "max-age=16070400; includeSubDomains; preload",
-    "transfer-encoding": "chunked",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-xss-protection": "1; mode=block"
@@ -30,7 +29,8 @@
   ],
   "socialLinks": [
     "https://twitter.com/CaliforniaBREA/",
-    "https://www.facebook.com/Bureau-of-Real-Estate-Appraisers-1788727484694167/"
+    "https://www.facebook.com/Bureau-of-Real-Estate-Appraisers-1788727484694167/",
+    "https://youtu.be/XGFX_TDjlC8"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

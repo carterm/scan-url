@@ -15,7 +15,6 @@
     "link": "<//img1.wsimg.com/ceph-p3-01/website-builder-data-prod/static/widgets/UX.4.51.10.js>; rel=preload; as=script; crossorigin,<https://img1.wsimg.com/gfonts/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA.woff2>; rel=preload; as=font; crossorigin,<https://img1.wsimg.com/gfonts/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6F.woff2>; rel=preload; as=font; crossorigin,<https://img1.wsimg.com/gfonts/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2>; rel=preload; as=font; crossorigin,<https://img1.wsimg.com/gfonts/s/oswald/v57/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiZQ.woff2>; rel=preload; as=font; crossorigin,<https://fonts.googleapis.com>; rel=preconnect; crossorigin,<https://fonts.gstatic.com>; rel=preconnect; crossorigin,<https://img1.wsimg.com>; rel=preconnect; crossorigin,<https://isteam.wsimg.com>; rel=preconnect; crossorigin",
     "server": "DPS/2.0.0+sha-57bdacc",
     "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-siteid": "us-west-2",
     "x-version": "57bdacc"

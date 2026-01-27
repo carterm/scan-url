@@ -10,8 +10,7 @@
   "responseHeaders": {
     "connection": "Keep-Alive",
     "content-type": "text/html; charset=UTF-8",
-    "server": "Apache",
-    "transfer-encoding": "chunked"
+    "server": "Apache"
   },
   "cloudflare": false,
   "slow": false,

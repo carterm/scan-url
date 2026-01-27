@@ -13,7 +13,6 @@
     "content-type": "text/html; charset=UTF-8",
     "link": "<https://opc.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://opc.ca.gov/wp-json/wp/v2/pages/19346>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://opc.ca.gov/>; rel=shortlink",
     "server": "nginx",
-    "transfer-encoding": "chunked",
     "x-frame-options": "SAMEORIGIN"
   },
   "cloudflare": false,

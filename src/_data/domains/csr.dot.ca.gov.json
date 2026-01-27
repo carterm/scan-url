@@ -10,8 +10,7 @@
   "responseHeaders": {
     "connection": "Keep-Alive",
     "content-type": "text/html; charset=UTF-8",
-    "pragma": "no-cache",
-    "transfer-encoding": "chunked"
+    "pragma": "no-cache"
   },
   "cloudflare": false,
   "slow": false,
@@ -22,7 +21,9 @@
     "UA-21431721-9",
     "UA-3419582-2"
   ],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://t.co/bzqHbsEuzU"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,

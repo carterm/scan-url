@@ -12,7 +12,6 @@
     "connection": "keep-alive",
     "content-type": "text/html",
     "server": "Sucuri/Cloudproxy",
-    "transfer-encoding": "chunked",
     "x-sucuri-id": "11012"
   },
   "cloudflare": false,

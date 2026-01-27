@@ -16,7 +16,6 @@
     "referrer-policy": "strict-origin, no-referrer-when-downgrade",
     "server": "Apache",
     "strict-transport-security": "max-age=6000; includeSubDomains",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding,User-Agent",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",

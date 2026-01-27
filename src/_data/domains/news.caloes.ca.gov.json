@@ -13,7 +13,6 @@
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "link": "<https://www.news.caloes.ca.gov/wp-json/>; rel=\"https://api.w.org/\", <https://www.news.caloes.ca.gov/wp-json/wp/v2/pages/23819>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://wp.me/PgM8my-6cb>; rel=shortlink",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding"
   },
   "cloudflare": false,

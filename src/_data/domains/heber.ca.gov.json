@@ -15,7 +15,6 @@
     "host-header": "c2hhcmVkLmJsdWVob3N0LmNvbQ==",
     "link": "<https://www.heber.ca.gov/home>; rel=\"canonical\", <https://www.heber.ca.gov/node/4>; rel=\"shortlink\"",
     "server": "nginx/1.25.5",
-    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",

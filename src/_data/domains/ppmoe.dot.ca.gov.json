@@ -15,7 +15,6 @@
     "referrer-policy": "same-origin",
     "server": "snow_adc",
     "strict-transport-security": "max-age=63072000; includeSubDomains",
-    "transfer-encoding": "chunked",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-is-logged-in": "false"
