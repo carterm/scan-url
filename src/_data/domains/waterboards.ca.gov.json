@@ -15,6 +15,7 @@
     "pragma": "no-cache",
     "server": "Apache",
     "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-cdn": "Imperva",
     "x-content-type-options": "nosniff"

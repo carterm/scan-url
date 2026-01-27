@@ -13,7 +13,7 @@
     "content-type": "text/html; charset=utf-8",
     "microsoftsharepointteamservices": "16.0.0.10417",
     "server": "volt-adc",
-    "spiislatency": "1",
+    "spiislatency": "0",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",

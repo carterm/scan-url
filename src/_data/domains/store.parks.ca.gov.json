@@ -31,7 +31,10 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": ["G-SZPK2KCZDY", "GTM-KJWTBZ2"],
+  "googleAnalytics": [
+    "G-SZPK2KCZDY",
+    "GTM-KJWTBZ2"
+  ],
   "socialLinks": [
     "https://twitter.com/CAStateParks",
     "https://www.instagram.com/castateparks/?hl=en"

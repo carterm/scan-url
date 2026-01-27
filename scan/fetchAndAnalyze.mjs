@@ -223,7 +223,7 @@ export async function fetchAndAnalyze(url) {
   );
 
   domainRecord.usesStateTemplate = scripts.some(
-    x => x.includes("cagov.core") || x.includes("caweb-core")
+    x => x.includes("cagov.core") || x.includes("caweb-")
   );
 
   domainRecord.hasJQuery = scripts.some(x => x.includes("jquery"));
