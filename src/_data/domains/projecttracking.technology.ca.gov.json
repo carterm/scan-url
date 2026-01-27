@@ -2,10 +2,10 @@
   "domain": "projecttracking.technology.ca.gov",
   "targetURL": "https://www.projecttracking.technology.ca.gov/",
   "www": true,
-  "active": true,
-  "includeInScan": true,
+  "active": false,
+  "includeInScan": false,
   "title": "IT Project Tracking - California Department of Technology - State of California - California Department of Technology - State of California",
-  "lastStatus": 200,
+  "lastStatus": 404,
   "finalUrl": "",
   "responseHeaders": {
     "connection": "keep-alive",
@@ -26,6 +26,6 @@
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,
-  "notes": null,
+  "notes": "2026-01-27 404 Web Site not found.",
   "nocache": false
 }
