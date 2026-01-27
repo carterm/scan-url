@@ -39,5 +39,11 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "DOMErrors": [
+    {
+      "Message": "Could not parse CSS stylesheet",
+      "Details": "\na.link-grid {\n\tborder-color: var(--brand-highligh..."
+    }
+  ]
 }

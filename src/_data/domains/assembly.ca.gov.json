@@ -39,5 +39,19 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "DOMErrors": [
+    {
+      "Message": "Could not parse CSS stylesheet",
+      "Details": ":root {   .has-primary-color{ color:#255752 }  .ha..."
+    },
+    {
+      "Message": "Could not parse CSS stylesheet",
+      "Details": ":root {   .has-primary-to-secondary-gradient-backg..."
+    },
+    {
+      "Message": "Could not parse CSS stylesheet",
+      "Details": ":root {   .has-small-font-size{ font-size:14px }  ..."
+    }
+  ]
 }

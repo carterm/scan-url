@@ -42,5 +42,11 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "DOMErrors": [
+    {
+      "Message": "Could not parse CSS stylesheet",
+      "Details": "\n.elementor-kit-20896{--e-global-color-6936f451:#4..."
+    }
+  ]
 }

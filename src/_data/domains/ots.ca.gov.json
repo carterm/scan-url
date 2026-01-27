@@ -55,5 +55,11 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "DOMErrors": [
+    {
+      "Message": "Could not parse CSS stylesheet",
+      "Details": "@font-face{font-family:\"Century Gothic 1\";font-dis..."
+    }
+  ]
 }

@@ -38,5 +38,15 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "DOMErrors": [
+    {
+      "Message": "Could not parse CSS stylesheet",
+      "Details": "\n/* -----------------------------------------\n   L..."
+    },
+    {
+      "Message": "Could not parse CSS stylesheet",
+      "Details": "\n.number-counter {\n    .no-js & {\n        visibili..."
+    }
+  ]
 }

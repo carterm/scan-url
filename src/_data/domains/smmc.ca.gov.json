@@ -27,5 +27,15 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": true,
+  "DOMErrors": [
+    {
+      "Message": "Could not parse CSS stylesheet",
+      "Details": "/* homepage announcements */\n/*\n.et_pb_module.et_p..."
+    },
+    {
+      "Message": "Could not parse CSS stylesheet",
+      "Details": ".et_pb_section_0{top:0px;bottom:auto;left:0px;righ..."
+    }
+  ]
 }

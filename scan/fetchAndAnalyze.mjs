@@ -121,9 +121,23 @@ export async function fetchAndAnalyze(original) {
     return domainRecord;
   }
 
+  delete domainRecord.DOMErrors;
   const virtualConsole = new VirtualConsole();
   virtualConsole.on("jsdomError", e => {
     console.log(`⚠️ JSDOM error for ${url}: ${e.message}`);
+
+    const Details =
+      typeof e === "object" && e !== null && "detail" in e
+        ? /** @type {string } */ (e["detail"]).toString().slice(0, 50) + "..."
+        : null;
+
+    if (Details) {
+      domainRecord.DOMErrors = domainRecord.DOMErrors || [];
+      domainRecord.DOMErrors.push({
+        Message: e.message,
+        Details
+      });
+    }
   });
 
   // Parse HTML

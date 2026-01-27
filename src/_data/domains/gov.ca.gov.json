@@ -48,5 +48,15 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "DOMErrors": [
+    {
+      "Message": "Could not parse CSS stylesheet",
+      "Details": ".et_pb_row_0{border-left-color:#e02b20}.et_pb_blog..."
+    },
+    {
+      "Message": "Could not parse CSS stylesheet",
+      "Details": ".et_pb_section_5{z-index:10;box-shadow:0px 12px 18..."
+    }
+  ]
 }

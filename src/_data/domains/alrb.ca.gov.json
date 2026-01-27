@@ -45,5 +45,11 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "DOMErrors": [
+    {
+      "Message": "Could not parse CSS stylesheet",
+      "Details": "#homepage-slider-module a:hover,#homepage-slider-m..."
+    }
+  ]
 }
