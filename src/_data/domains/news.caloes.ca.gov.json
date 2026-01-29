@@ -9,6 +9,7 @@
   "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.0",
   "responseHeaders": {
+    "accept-ranges": "bytes",
     "connection": "keep-alive",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",

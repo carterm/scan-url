@@ -84,5 +84,11 @@
   "vary",
   "x-nitro-cache",
   "x-nitro-cache-from",
-  "x-cache-ctime"
+  "x-cache-ctime",
+  "x-gateway-request-id",
+  "x-gateway-cache-key",
+  "x-gateway-rate-limit-delayed",
+  "x-akamai-transformed",
+  "x-gateway-cache-status",
+  "sg-f-cache"
 ]

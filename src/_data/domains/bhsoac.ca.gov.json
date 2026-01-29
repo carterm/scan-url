@@ -15,7 +15,7 @@
     "pragma": "public",
     "referrer-policy": "no-referrer-when-downgrade",
     "server": "nginx",
-    "x-powered-by": "W3 Total Cache/2.8.12, PleskLin"
+    "x-powered-by": "W3 Total Cache/2.9.1, PleskLin"
   },
   "cloudflare": false,
   "slow": false,

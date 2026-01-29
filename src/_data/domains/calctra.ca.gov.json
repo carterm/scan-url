@@ -10,7 +10,6 @@
   "metaGenerator": "WordPress 6.8.3",
   "responseHeaders": {
     "content-type": "text/html; charset=UTF-8",
-    "link": "<https://www.calctra.ca.gov/wp-json/>; rel=\"https://api.w.org/\"",
     "server": "Microsoft-IIS/10.0",
     "x-litespeed-tag": "87d_PGSRP"
   },
@@ -25,9 +24,9 @@
   ],
   "socialLinks": [
     "https://www.facebook.com/CALCTRA/",
+    "https://www.instagram.com/calctra/",
     "https://www.linkedin.com/company/california-correctional-training-rehabilitation-authority-calctra",
     "https://www.youtube.com/@CALCTRA",
-    "https://www.instagram.com/calctra/",
     "https://www.youtube.com/watch?v=RZj4COGbyhY"
   ],
   "linksToCaGov": false,

@@ -16,10 +16,9 @@
     "server": "Sucuri/Cloudproxy",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
-    "x-gateway-cache-key": "1768993275.658|tablet|https|beacon.ca.gov|||/",
+    "x-gateway-cache-key": "0|standard|https|beacon.ca.gov|||/",
     "x-gateway-cache-status": "MISS",
-    "x-gateway-rate-limit-delayed": "0.066",
-    "x-gateway-request-id": "22a46d8024814112e8f18c7bdb84c532",
+    "x-gateway-request-id": "a4a3a33cd0aa0a07d75bb168241b4aad",
     "x-gateway-skip-cache": "0",
     "x-sucuri-id": "11027",
     "x-xss-protection": "1; mode=block"
