@@ -18,8 +18,7 @@
     "nel": "{\"success_fraction\":0.01,\"report_to\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
     "x-content-type-options": "nosniff",
-    "x-edge-location-klb": "1",
-    "x-kinsta-cache": "HIT"
+    "x-edge-location-klb": "1"
   },
   "cloudflare": false,
   "slow": false,
