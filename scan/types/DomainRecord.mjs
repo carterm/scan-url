@@ -25,7 +25,8 @@
  *
  * @property {number | null} lastStatus
  *   HTTP status code from the last scan.
- *
+ * @property {boolean} goodScan
+ *   Whether the last scan was considered successful.
  * @property {string | null} finalUrl
  *   The final resolved URL after redirects, or null if none occurred.
  * @property {boolean} [ignoreFinalUrl]
@@ -73,6 +74,8 @@ export function createDomainRecord() {
     domain: "",
     targetURL: "",
     www: true,
+
+    goodScan: false,
 
     active: true,
     includeInScan: true,

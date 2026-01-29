@@ -4,10 +4,9 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "finalUrl": null,
-  "metaGenerator": null,
+  "title": "Service unavailable",
+  "lastStatus": 403,
+  "finalUrl": "",
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -17,8 +16,12 @@
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
-  "errorMessage": null,
-  "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "errorMessage": "HTTP 403",
+  "nocache": true,
+  "responseHeaders": {
+    "connection": "close",
+    "content-type": "text/html"
+  },
+  "notes": null,
+  "goodScan": false
 }

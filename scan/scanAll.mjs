@@ -36,14 +36,13 @@ async function scanAll() {
 
       const scan = await fetchAndAnalyze(record);
 
-      if (!scan.lastStatus || scan.lastStatus >= 400 || scan.cloudflare) {
-        console.log(`❌ Error ${record.domain} (${scan.errorMessage})`);
-        return;
-      }
-
       if (JSON.stringify(record) !== JSON.stringify(scan)) {
-        saveRecord(filePath, scan);
-        console.log(`📝 Updated ${record.domain}`);
+        if (!record.goodScan || scan.goodScan) {
+          saveRecord(filePath, scan);
+          console.log(`📝 Updated save ${record.domain}`);
+        } else {
+          console.log(`❌ Error ${record.domain} (${scan.errorMessage})`);
+        }
       } else {
         console.log(`✅ Scanned ${record.domain}`);
       }

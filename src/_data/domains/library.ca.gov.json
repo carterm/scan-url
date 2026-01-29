@@ -4,11 +4,18 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
+  "title": "ERROR: The request could not be satisfied",
+  "lastStatus": 403,
+  "finalUrl": "",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "CloudFront",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -18,6 +25,7 @@
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
-  "errorMessage": null,
-  "notes": null
+  "errorMessage": "HTTP 403",
+  "notes": null,
+  "goodScan": false
 }

@@ -4,11 +4,18 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "finalUrl": null,
-  "metaGenerator": null,
-  "responseHeaders": [],
+  "title": "Access Denied",
+  "lastStatus": 403,
+  "finalUrl": "",
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=93600",
+    "connection": "close",
+    "content-type": "text/html",
+    "mime-version": "1.0",
+    "server": "AkamaiGHost",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -18,6 +25,7 @@
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
-  "errorMessage": null,
-  "notes": null
+  "errorMessage": "HTTP 403",
+  "notes": null,
+  "goodScan": false
 }

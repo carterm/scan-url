@@ -120,8 +120,6 @@ export async function fetchAndAnalyze(original) {
     domainRecord.errorMessage = domainRecord.cloudflare
       ? "Cloudflare challenge detected"
       : `HTTP ${domainRecord.lastStatus}`;
-
-    return domainRecord;
   }
 
   delete domainRecord.DOMErrors;
@@ -254,6 +252,10 @@ export async function fetchAndAnalyze(original) {
 
   if (domainRecord.ignoreFinalUrl) {
     domainRecord.finalUrl = original.finalUrl;
+  }
+
+  if (domainRecord.errorMessage) {
+    domainRecord.goodScan = false;
   }
 
   return domainRecord;
