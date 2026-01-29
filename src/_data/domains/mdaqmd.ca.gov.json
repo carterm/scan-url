@@ -11,8 +11,7 @@
     "connection": "close",
     "content-type": "text/html",
     "mime-version": "1.0",
-    "server": "AkamaiGHost",
-    "x-reference-error": "18.4b60d017.1769718862.20983e83"
+    "server": "AkamaiGHost"
   },
   "cloudflare": false,
   "slow": false,

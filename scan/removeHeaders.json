@@ -91,5 +91,6 @@
   "x-akamai-transformed",
   "x-gateway-cache-status",
   "sg-f-cache",
-  "x-reference-error"
+  "x-reference-error",
+  "x-kinsta-cache"
 ]

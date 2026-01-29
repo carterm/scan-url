@@ -15,8 +15,7 @@
     "mime-version": "1.0",
     "server": "cloudflare",
     "speculation-rules": "\"/cdn-cgi/speculation\"",
-    "x-content-type-options": "nosniff",
-    "x-reference-error": "18.97a5dc17.1769718855.b02319d"
+    "x-content-type-options": "nosniff"
   },
   "cloudflare": false,
   "slow": false,
