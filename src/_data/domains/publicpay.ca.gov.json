@@ -4,37 +4,35 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "Just a moment...",
-  "lastStatus": 403,
+  "title": "GCC",
+  "lastStatus": 200,
   "finalUrl": "",
   "responseHeaders": {
-    "accept-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
-    "cf-mitigated": "challenge",
-    "connection": "close",
+    "connection": "keep-alive",
     "content-encoding": "gzip",
-    "content-type": "text/html; charset=UTF-8",
-    "critical-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
-    "cross-origin-embedder-policy": "require-corp",
-    "cross-origin-opener-policy": "same-origin",
-    "cross-origin-resource-policy": "same-origin",
-    "origin-agent-cluster": "?1",
-    "permissions-policy": "accelerometer=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()",
+    "content-type": "text/html; charset=utf-8",
     "referrer-policy": "same-origin",
     "server": "cloudflare",
     "x-content-type-options": "nosniff",
-    "x-frame-options": "SAMEORIGIN"
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "ASP.NET"
   },
-  "cloudflare": true,
+  "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-KX7MF5M"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/CAController",
+    "https://x.com/CAController"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": "Cloudflare challenge detected",
   "notes": null,
-  "nocache": true,
-  "goodScan": false
+  "nocache": false,
+  "goodScan": true
 }

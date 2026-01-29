@@ -90,5 +90,6 @@
   "x-gateway-rate-limit-delayed",
   "x-akamai-transformed",
   "x-gateway-cache-status",
-  "sg-f-cache"
+  "sg-f-cache",
+  "x-reference-error"
 ]

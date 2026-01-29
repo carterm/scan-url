@@ -42,5 +42,6 @@
   "errorMessage": null,
   "notes": null,
   "nocache": false,
-  "metaGenerator": "CAWeb v.1.12.4"
+  "metaGenerator": "CAWeb v.1.12.4",
+  "goodScan": true
 }
