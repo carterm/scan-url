@@ -14,7 +14,8 @@ const keepHeaders = [
   "x-content-type-options",
   "connection",
   "x-frame-options",
-  "referrer-policy"
+  "referrer-policy",
+  "accept-ranges"
 ];
 
 const fetchTimeout = 15000; //15 seconds
