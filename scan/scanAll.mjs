@@ -37,8 +37,8 @@ async function scanAll() {
       const scan = await fetchAndAnalyze(record);
 
       if (JSON.stringify(record) !== JSON.stringify(scan)) {
+        scan.goodScan = !scan.errorMessage;
         if (!record.goodScan || scan.goodScan) {
-          scan.goodScan = !scan.errorMessage;
           saveRecord(filePath, scan);
           console.log(`📝 Updated save ${record.domain}`);
         } else {
