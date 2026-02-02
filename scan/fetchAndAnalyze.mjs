@@ -16,7 +16,9 @@ const keepHeaders = [
   "connection",
   "x-frame-options",
   "referrer-policy",
-  "accept-ranges"
+  "accept-ranges",
+  "transfer-encoding",
+  "vary"
 ];
 
 const failTitleWords = [
