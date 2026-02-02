@@ -7,7 +7,6 @@ import { fetch, Agent } from "undici";
 import { performance } from "node:perf_hooks";
 import { JSDOM, VirtualConsole, ResourceLoader } from "jsdom";
 
- 
 import removeHeaders from "./removeHeaders.mjs";
 
 const keepHeaders = [
@@ -197,7 +196,10 @@ export async function fetchAndAnalyze(original) {
   const GA = /GTM-\w{7}|G-\w{10}|UA-\d{7,8}-\d{1,2}/gim;
 
   domainRecord.googleAnalytics = [
-    ...new Set(code.toUpperCase().match(GA))
+    ...new Set([
+      ...domainRecord.googleAnalytics,
+      ...(code.toUpperCase().match(GA) || [])
+    ])
   ].sort();
 
   domainRecord.slow = duration >= 8;
