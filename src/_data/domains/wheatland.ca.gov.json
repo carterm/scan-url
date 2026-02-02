@@ -27,7 +27,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-XJYXIFEK8N"
+  ],
   "socialLinks": [
     "https://www.facebook.com/cityofwheatland/"
   ],
