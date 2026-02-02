@@ -19,6 +19,16 @@ const keepHeaders = [
   "accept-ranges"
 ];
 
+const failTitleWords = [
+  "403 Forbidden",
+  "404 Not Found",
+  "400 Bad Request",
+  "Error",
+  "Bad Gateway",
+  "Captcha",
+  "Log In"
+];
+
 const fetchTimeout = 15000; //15 seconds
 
 const insecureAgent = new Agent({
@@ -256,6 +266,14 @@ export async function fetchAndAnalyze(original) {
 
   if (domainRecord.ignoreFinalUrl) {
     domainRecord.finalUrl = original.finalUrl;
+  }
+
+  // Mark it a bad scan if failure words are in the title
+  if (
+    !domainRecord.errorMessage &&
+    failTitleWords.some(word => domainRecord.title.includes(word))
+  ) {
+    domainRecord.errorMessage = `Failure title word detected in title: "${domainRecord.title}"`;
   }
 
   if (domainRecord.errorMessage) {
