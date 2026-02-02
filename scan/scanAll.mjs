@@ -38,6 +38,7 @@ async function scanAll() {
 
       if (JSON.stringify(record) !== JSON.stringify(scan)) {
         if (!record.goodScan || scan.goodScan) {
+          scan.goodScan = !scan.errorMessage;
           saveRecord(filePath, scan);
           console.log(`📝 Updated save ${record.domain}`);
         } else {
