@@ -17,13 +17,12 @@
   "hasStatewideAlerts": true,
   "usesStateTemplate": false,
   "hasJQuery": true,
-  "googleAnalytics": [
-    "G-FXBTGX69YQ"
-  ],
+  "googleAnalytics": ["G-FXBTGX69YQ"],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": true,
+  "goodScan": true
 }
