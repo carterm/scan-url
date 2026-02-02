@@ -1,7 +1,7 @@
 {
   "domain": "bars.technology.ca.gov",
-  "targetURL": "https://www.bars.technology.ca.gov/",
-  "www": true,
+  "targetURL": "https://bars.technology.ca.gov/",
+  "www": false,
   "active": true,
   "includeInScan": true,
   "title": "BARS",

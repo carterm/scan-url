@@ -9,7 +9,7 @@
   "finalUrl": "",
   "responseHeaders": {
     "accept-ranges": "bytes",
-    "content-encoding": "gzip",
+    "content-encoding": "br",
     "content-type": "text/html",
     "x-content-type-options": "nosniff"
   },

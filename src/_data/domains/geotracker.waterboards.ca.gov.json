@@ -7,52 +7,16 @@
   "title": "GeoTracker",
   "lastStatus": 200,
   "finalUrl": "",
-  "responseHeaders": [
-    {
-      "name": "cf-apo-via",
-      "value": "origin,host"
-    },
-    {
-      "name": "connection",
-      "value": "keep-alive"
-    },
-    {
-      "name": "content-encoding",
-      "value": "gzip"
-    },
-    {
-      "name": "content-type",
-      "value": "text/html"
-    },
-    {
-      "name": "referrer-policy",
-      "value": "strict-origin-when-cross-origin"
-    },
-    {
-      "name": "server",
-      "value": "cloudflare"
-    },
-    {
-      "name": "strict-transport-security",
-      "value": "max-age=15768000; includeSubDomains; preload"
-    },
-    {
-      "name": "transfer-encoding",
-      "value": "chunked"
-    },
-    {
-      "name": "vary",
-      "value": "Accept-Encoding"
-    },
-    {
-      "name": "x-content-type-options",
-      "value": "nosniff"
-    },
-    {
-      "name": "x-xss-protection",
-      "value": "1; mode=block"
-    }
-  ],
+  "responseHeaders": {
+    "cf-apo-via": "origin,host",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "cloudflare",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block"
+  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,

@@ -11,7 +11,7 @@
   "responseHeaders": {
     "connection": "keep-alive",
     "content-encoding": "br",
-    "content-language": "en",
+    "content-language": "zh-CN",
     "content-type": "text/html; charset=UTF-8",
     "server": "Pepyaka",
     "x-content-type-options": "nosniff",

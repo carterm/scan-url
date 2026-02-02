@@ -6,7 +6,9 @@
 import { fetch, Agent } from "undici";
 import { performance } from "node:perf_hooks";
 import { JSDOM, VirtualConsole, ResourceLoader } from "jsdom";
-import removeHeaders from "./removeHeaders.json" assert { type: "json" };
+
+ 
+import removeHeaders from "./removeHeaders.mjs";
 
 const keepHeaders = [
   "server",
