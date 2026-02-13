@@ -38,11 +38,11 @@
     "https://twitter.com/cagovernor",
     "https://www.facebook.com/CAgovernor/",
     "https://www.instagram.com/cagovernor/",
-    "https://www.instagram.com/p/DRDmydYEnQo/?igsh=NTc4MTIwNjQ2YQ==",
-    "https://www.instagram.com/p/DRSzzppF86u/",
-    "https://www.instagram.com/reel/DS2-EPbEjpb/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D",
+    "https://www.instagram.com/p/DTnqTWGlBgA/?igsh=NTc4MTIwNjQ2YQ%3D%3D",
+    "https://www.instagram.com/p/DUR7YnOEcRO/",
+    "https://www.instagram.com/p/DUq7GjUEjjI/?igsh=NTc4MTIwNjQ2YQ%3D%3D",
     "https://www.tiktok.com/@cagovernor",
-    "https://x.com/CAgovernor/status/1993038090886160754?s=20"
+    "https://www.tiktok.com/@cagovernor/video/7605378259118837022?lang=en"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,
@@ -51,5 +51,6 @@
   "nocache": false,
   "DOMErrors": [
     "Could not parse CSS stylesheet"
-  ]
+  ],
+  "goodScan": true
 }

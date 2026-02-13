@@ -12,10 +12,14 @@
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-type": "text/html",
+    "expect-ct": "max-age=86400, enforce",
     "mime-version": "1.0",
+    "referrer-policy": "same-origin",
     "server": "cloudflare",
     "speculation-rules": "\"/cdn-cgi/speculation\"",
-    "x-content-type-options": "nosniff"
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,
   "slow": false,

@@ -7,7 +7,7 @@
   "title": "Home - Office of the Inspector General",
   "lastStatus": 200,
   "finalUrl": "",
-  "metaGenerator": "WordPress 6.9",
+  "metaGenerator": "WordPress 6.9.1",
   "responseHeaders": {
     "connection": "Keep-Alive",
     "content-type": "text/html; charset=UTF-8",
@@ -30,5 +30,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

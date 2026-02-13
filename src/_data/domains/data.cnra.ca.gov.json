@@ -24,12 +24,14 @@
   "hasJQuery": true,
   "googleAnalytics": [
     "G-L05EYD0Q7Q",
-    "G-Q09GQ8WSZJ"
+    "G-Q09GQ8WSZJ",
+    "G-ZG8VBX1CS3"
   ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": true,
+  "goodScan": true
 }

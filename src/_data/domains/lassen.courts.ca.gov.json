@@ -18,6 +18,7 @@
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 9 (https://www.drupal.org)",
+    "x-robots-tag": "unavailable_after: Monday, 16-Feb-26 11:59:00 PST, unavailable_after: Monday, 16-Feb-26 11:59:00 PST, unavailable_after: Monday, 16-Feb-26 11:59:00 PST, unavailable_after: Monday, 16-Feb-26 11:59:00 PST",
     "x-ua-compatible": "IE=edge"
   },
   "cloudflare": false,
@@ -34,5 +35,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

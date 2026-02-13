@@ -1,7 +1,7 @@
 {
   "domain": "cdt.ca.gov",
-  "targetURL": "https://cdt.ca.gov/",
-  "www": false,
+  "targetURL": "https://www.cdt.ca.gov/",
+  "www": true,
   "active": true,
   "includeInScan": true,
   "title": "CDT - California Department of Technology",
@@ -42,7 +42,5 @@
   "errorMessage": null,
   "notes": null,
   "nocache": false,
-  "DOMErrors": [
-    "Could not parse CSS stylesheet"
-  ]
+  "DOMErrors": ["Could not parse CSS stylesheet"]
 }

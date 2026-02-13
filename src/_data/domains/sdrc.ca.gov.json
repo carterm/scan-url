@@ -7,7 +7,7 @@
   "title": "San Diego River Conservancy",
   "lastStatus": 200,
   "finalUrl": "",
-  "metaGenerator": "Site Kit by Google 1.168.0",
+  "metaGenerator": "Site Kit by Google 1.171.0",
   "responseHeaders": {
     "connection": "keep-alive",
     "content-type": "text/html; charset=UTF-8",
@@ -25,5 +25,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

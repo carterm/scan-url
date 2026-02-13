@@ -7,7 +7,7 @@
   "title": "Baldwin Hills Conservancy",
   "lastStatus": 200,
   "finalUrl": "",
-  "metaGenerator": "Site Kit by Google 1.168.0",
+  "metaGenerator": "Site Kit by Google 1.171.0",
   "responseHeaders": {
     "connection": "keep-alive",
     "content-encoding": "gzip",
@@ -35,5 +35,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": true,
+  "goodScan": true
 }

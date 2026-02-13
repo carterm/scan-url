@@ -4,24 +4,30 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "Service unavailable",
-  "lastStatus": 403,
+  "title": "CDT - CA-PMF - Project Management Framework",
+  "lastStatus": 200,
   "finalUrl": "",
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-WFDWPPLS2Q",
+    "GTM-NJ6Q4MV"
+  ],
   "socialLinks": [],
-  "linksToCaGov": false,
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": "HTTP 403",
   "nocache": true,
   "responseHeaders": {
-    "connection": "close",
-    "content-type": "text/html"
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "x-powered-by": "ASP.NET"
   },
   "notes": null,
-  "goodScan": false
+  "goodScan": true
 }

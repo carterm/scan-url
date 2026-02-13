@@ -8,9 +8,11 @@
   "lastStatus": 200,
   "finalUrl": "",
   "responseHeaders": {
+    "access-control-expose-headers": "Request-Context",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
     "microsoftsharepointteamservices": "16.0.0.10417",
+    "request-context": "appId=cid-v1:2ea2d672-f063-4e9e-a9d3-aa9e0eae9faa",
     "server": "volt-adc",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
@@ -38,5 +40,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

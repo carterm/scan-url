@@ -7,13 +7,16 @@
   "title": "Public Awareness and Safety Programs |San Francisco Bay Area",
   "lastStatus": 200,
   "finalUrl": "",
-  "metaGenerator": "WordPress 6.8.3",
+  "metaGenerator": "WordPress 6.9.1",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "server": "cloudflare",
+    "x-et-api-origin": "https://ncric.ca.gov",
+    "x-et-api-root": "https://ncric.ca.gov/wp-json/tribe/tickets/v1/",
+    "x-et-api-version": "v1",
     "x-gateway-skip-cache": "0"
   },
   "cloudflare": false,
@@ -25,24 +28,25 @@
   "socialLinks": [
     "https://twitter.com/NCRIC_HIDTA",
     "https://twitter.com/NCRIC_HIDTA/status/1969937061471044014",
-    "https://twitter.com/intent/like?tweet_id=1959036396657938518&related=ncric_hidta",
     "https://twitter.com/intent/like?tweet_id=1961489414598856715&related=ncric_hidta",
     "https://twitter.com/intent/like?tweet_id=1969937061471044014&related=ncric_hidta",
-    "https://twitter.com/intent/retweet?tweet_id=1959036396657938518&related=ncric_hidta",
+    "https://twitter.com/intent/like?tweet_id=2008269276772553155&related=ncric_hidta",
     "https://twitter.com/intent/retweet?tweet_id=1961489414598856715&related=ncric_hidta",
     "https://twitter.com/intent/retweet?tweet_id=1969937061471044014&related=ncric_hidta",
-    "https://twitter.com/intent/tweet?in_reply_to=1959036396657938518&related=ncric_hidta",
+    "https://twitter.com/intent/retweet?tweet_id=2008269276772553155&related=ncric_hidta",
     "https://twitter.com/intent/tweet?in_reply_to=1961489414598856715&related=ncric_hidta",
     "https://twitter.com/intent/tweet?in_reply_to=1969937061471044014&related=ncric_hidta",
+    "https://twitter.com/intent/tweet?in_reply_to=2008269276772553155&related=ncric_hidta",
     "https://twitter.com/ncric_hidta",
-    "https://twitter.com/ncric_hidta/status/1959036396657938518",
     "https://twitter.com/ncric_hidta/status/1961489414598856715",
     "https://twitter.com/ncric_hidta/status/1969937061471044014",
+    "https://twitter.com/ncric_hidta/status/2008269276772553155",
     "https://www.linkedin.com/company/ncric/"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

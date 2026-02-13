@@ -7,7 +7,7 @@
   "title": "California Health and Human Services - California Health & Human Services",
   "lastStatus": 200,
   "finalUrl": "",
-  "metaGenerator": "WordPress 6.9",
+  "metaGenerator": "WordPress 6.9.1",
   "responseHeaders": {
     "connection": "keep-alive",
     "content-encoding": "br",
@@ -45,5 +45,6 @@
   "nocache": false,
   "DOMErrors": [
     "Could not parse CSS stylesheet"
-  ]
+  ],
+  "goodScan": true
 }

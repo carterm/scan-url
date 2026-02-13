@@ -9,16 +9,16 @@
   "finalUrl": "",
   "metaGenerator": "DFPI Divi Child Theme v.1.0.0",
   "responseHeaders": {
+    "accept-ch": "Sec-CH-UA-Mobile",
     "alt-svc": "h3=\":443\"; ma=86400",
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
+    "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
     "server": "cloudflare",
     "x-cache-group": "normal",
-    "x-powered-by": "WP Engine",
-    "x-tec-api-origin": "https://dfpi.ca.gov",
-    "x-tec-api-root": "https://dfpi.ca.gov/wp-json/tribe/events/v1/",
-    "x-tec-api-version": "v1"
+    "x-nitro-rev": "fc4ba61",
+    "x-powered-by": "WP Engine"
   },
   "cloudflare": false,
   "slow": false,
@@ -26,6 +26,15 @@
   "usesStateTemplate": false,
   "hasJQuery": true,
   "googleAnalytics": [
+    "G-0B3643799C",
+    "G-32D447E14B",
+    "G-558973C0FD",
+    "G-64F21F7C3F",
+    "G-8A5471F88C",
+    "G-951D1725BE",
+    "G-BEC020F63C",
+    "G-DEAE874833",
+    "G-F43B551B74",
     "G-LDV6PXRQJZ",
     "GTM-PLCHW6B",
     "UA-1915322-1"
@@ -41,5 +50,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

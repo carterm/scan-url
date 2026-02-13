@@ -25,6 +25,7 @@
   "googleAnalytics": [
     "G-1VQT1C4PTE",
     "G-YZK8JCN4R2",
+    "G-ZG8VBX1CS3",
     "GTM-TKCM6M7"
   ],
   "socialLinks": [],
@@ -32,5 +33,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": true,
+  "goodScan": true
 }

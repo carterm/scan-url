@@ -7,7 +7,7 @@
   "title": "Home - Westlands Water District",
   "lastStatus": 200,
   "finalUrl": "",
-  "metaGenerator": "WordPress 6.9",
+  "metaGenerator": "WordPress 6.9.1",
   "responseHeaders": {
     "cache-provider": "CLOUDWAYS-CACHE-DE",
     "connection": "keep-alive",
@@ -34,5 +34,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": true,
+  "goodScan": true
 }

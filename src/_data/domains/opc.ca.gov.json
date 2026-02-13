@@ -7,7 +7,7 @@
   "title": "- California Ocean Protection Council",
   "lastStatus": 200,
   "finalUrl": "",
-  "metaGenerator": "Site Kit by Google 1.168.0",
+  "metaGenerator": "Site Kit by Google 1.171.0",
   "responseHeaders": {
     "connection": "keep-alive",
     "content-type": "text/html; charset=UTF-8",
@@ -38,5 +38,6 @@
   "nocache": false,
   "DOMErrors": [
     "Could not parse CSS stylesheet"
-  ]
+  ],
+  "goodScan": true
 }

@@ -10,7 +10,7 @@
   "responseHeaders": {
     "content-type": "text/html",
     "pragma": "no-cache",
-    "w": "1a"
+    "w": "3a"
   },
   "cloudflare": false,
   "slow": false,
@@ -26,5 +26,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": true,
+  "goodScan": true
 }

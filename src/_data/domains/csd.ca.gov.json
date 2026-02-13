@@ -28,7 +28,8 @@
   "hasJQuery": true,
   "googleAnalytics": [
     "G-69TD0KNT0F",
-    "G-HK7CWSQCBM"
+    "G-HK7CWSQCBM",
+    "G-YHZMO9H5F1"
   ],
   "socialLinks": [
     "https://twitter.com/ca_csd",
@@ -38,5 +39,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": true,
+  "goodScan": true
 }

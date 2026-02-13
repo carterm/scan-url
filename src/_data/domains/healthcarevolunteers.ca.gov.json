@@ -11,7 +11,7 @@
     "connection": "keep-alive",
     "content-type": "text/html",
     "server": "envoy",
-    "x-amz-version-id": "xgVOA7i0xaS9VPhP1rbGwKgAhH2FFTlp"
+    "x-amz-version-id": "3WeJcL5m9mBf8N2v_rj8G.seZupNOutF"
   },
   "cloudflare": false,
   "slow": false,
@@ -24,5 +24,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": true,
+  "goodScan": true
 }

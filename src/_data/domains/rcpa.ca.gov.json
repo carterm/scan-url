@@ -7,7 +7,7 @@
   "title": "Regional Climate Protection Authority",
   "lastStatus": 200,
   "finalUrl": "",
-  "metaGenerator": "WordPress 6.9",
+  "metaGenerator": "WordPress 6.9.1",
   "responseHeaders": {
     "connection": "keep-alive",
     "content-encoding": "br",
@@ -33,5 +33,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }
