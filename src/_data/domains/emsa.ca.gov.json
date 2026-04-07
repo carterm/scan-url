@@ -1,6 +1,6 @@
 {
   "domain": "emsa.ca.gov",
-  "targetURL": "https://emsa.ca.gov/",
+  "targetURL": "https://www.emsa.ca.gov/caemsa",
   "www": true,
   "active": true,
   "includeInScan": true,
