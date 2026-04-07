@@ -1,7 +1,7 @@
 {
   "domain": "emsa.ca.gov",
   "targetURL": "https://emsa.ca.gov/",
-  "www": false,
+  "www": true,
   "active": true,
   "includeInScan": true,
   "title": "EMSA | Emergency Medical Services Authority",

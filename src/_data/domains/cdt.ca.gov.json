@@ -42,5 +42,7 @@
   "errorMessage": null,
   "notes": null,
   "nocache": false,
-  "DOMErrors": ["Could not parse CSS stylesheet"]
+  "DOMErrors": [
+    "Could not parse CSS stylesheet"
+  ]
 }
