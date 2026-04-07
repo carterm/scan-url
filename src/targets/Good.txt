@@ -1,5 +1,4 @@
 http://www.bayareacensus.ca.gov/
-http://www.leginfo.ca.gov/
 http://www.mrcapublicsafety.ca.gov/
 https://abag.ca.gov/
 https://abcab.ca.gov/
@@ -10,6 +9,7 @@ https://aquaculturematters.ca.gov/
 https://arts.ca.gov/
 https://askedd.edd.ca.gov/s/
 https://bars.dre.ca.gov/
+https://bars.technology.ca.gov/
 https://bawa.ca.gov/
 https://beacon.ca.gov/
 https://bhc.ca.gov/
@@ -26,6 +26,7 @@ https://burnpermit.fire.ca.gov/
 https://business.ca.gov/
 https://bvwd.ca.gov/
 https://c2c.ca.gov/
+https://calable.ca.gov/
 https://calcareers.ca.gov/
 https://calcivilrights.ca.gov/
 https://calepa.ca.gov/
@@ -53,16 +54,15 @@ https://cchcs.ca.gov/
 https://ccusl.ca.gov/
 https://cdec.water.ca.gov/
 https://cdlaconline.treasurer.ca.gov/Account/Login.aspx
-https://cdt.ca.gov/
 https://cdtfa.ca.gov/
 https://census.ca.gov/
 https://ceqanet.lci.ca.gov/
 https://cers.calepa.ca.gov/
 https://childsupport.ca.gov/
-https://cloud.calhfa.ca.gov/
 https://cityofcorcoran.ca.gov/
 https://cjp.ca.gov/
 https://cleancalifornia.dot.ca.gov/
+https://cloud.calhfa.ca.gov/
 https://clsd.ca.gov/
 https://cnips.cde.ca.gov/Splash.aspx
 https://code.ca.gov/
@@ -100,7 +100,6 @@ https://ebudget.ca.gov/
 https://ecos.ca.gov/Login.aspx
 https://edd.ca.gov/
 https://eddservices.edd.ca.gov/
-https://emsa.ca.gov/
 https://energysafety.ca.gov/
 https://eocs.dre.ca.gov/
 https://escog.ca.gov/
@@ -292,7 +291,6 @@ https://www.auditor.ca.gov/
 https://www.avaqmd.ca.gov/
 https://www.bar.ca.gov/
 https://www.barbercosmo.ca.gov/
-https://www.bars.technology.ca.gov/
 https://www.bbs.ca.gov/
 https://www.bcdc.ca.gov/
 https://www.bcsh.ca.gov/
@@ -311,7 +309,6 @@ https://www.bvnpt.ca.gov/
 https://www.ca.gov/
 https://www.cab.ca.gov/
 https://www.caclimateinvestments.ca.gov/
-https://www.calable.ca.gov/
 https://www.calbar.ca.gov/
 https://www.calcompetes.ca.gov/Login.aspx
 https://www.calctra.ca.gov/
@@ -327,6 +324,7 @@ https://www.calosba.ca.gov/
 https://www.calpers.ca.gov/
 https://www.calvet.ca.gov/
 https://www.cannabis.ca.gov/
+https://www.capmf.cdt.ca.gov/
 https://www.captain.ca.gov/
 https://www.cash4college.csac.ca.gov/
 https://www.ccap.ca.gov/
@@ -339,6 +337,7 @@ https://www.cdii.ca.gov/
 https://www.cdph.ca.gov/
 https://www.cdpr.ca.gov/
 https://www.cdss.ca.gov/
+https://www.cdt.ca.gov/
 https://www.cfb.ca.gov/
 https://www.cfcc.ca.gov/
 https://www.chhs.ca.gov/
@@ -395,6 +394,7 @@ https://www.dublin.ca.gov/
 https://www.earthquake.ca.gov/
 https://www.ebtproject.ca.gov/
 https://www.eldoradocounty.ca.gov/Home
+https://www.emsa.ca.gov/caemsa
 https://www.energy.ca.gov/
 https://www.fairfield.ca.gov/
 https://www.fiduciary.ca.gov/
@@ -424,6 +424,7 @@ https://www.lao.ca.gov/
 https://www.lassen.courts.ca.gov/
 https://www.latc.ca.gov/
 https://www.lci.ca.gov/
+https://www.leginfo.ca.gov/
 https://www.lemongrove.ca.gov/
 https://www.library.ca.gov/
 https://www.losaltoshills.ca.gov/
