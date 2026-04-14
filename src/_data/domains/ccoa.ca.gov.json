@@ -16,6 +16,7 @@
     "x-content-type-options": "nosniff",
     "x-frame-options": "sameorigin",
     "x-permitted-cross-domain-policies": "none",
+    "x-server": "cda-appprodaz",
     "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,
@@ -38,5 +39,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

@@ -7,7 +7,7 @@
   "title": "BEACON | Beach Erosion Authority for Clean Oceans and Nourishment",
   "lastStatus": 200,
   "finalUrl": "",
-  "metaGenerator": "Divi v.4.27.5",
+  "metaGenerator": "Divi v.4.27.6",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400, h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
     "connection": "keep-alive",
@@ -33,5 +33,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

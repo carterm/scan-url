@@ -29,12 +29,12 @@
     "https://www.linkedin.com/company/governor-s-office-of-business-and-economic-development",
     "https://www.linkedin.com/company/helixopportunity/",
     "https://www.linkedin.com/in/davidpfazio",
-    "https://www.youtube.com/channel/UChQxUhvsGGlibuQuJ86FPkg",
-    "https://youtube.com/playlist?list=PLsvjTM5aE6uKML0Ts5GviU-OKLzFly2oN&si=yY-zlqqRSB6-G-84"
+    "https://www.youtube.com/channel/UChQxUhvsGGlibuQuJ86FPkg"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

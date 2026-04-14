@@ -16,7 +16,7 @@
     "content-type": "text/html; charset=UTF-8",
     "server": "cloudflare",
     "x-cache-group": "normal",
-    "x-nitro-rev": "6e08d8c",
+    "x-nitro-rev": "3a435c2",
     "x-powered-by": "WP Engine"
   },
   "cloudflare": false,
@@ -40,5 +40,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

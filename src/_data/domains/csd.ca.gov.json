@@ -12,7 +12,7 @@
     "connection": "keep-alive",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "microsoftsharepointteamservices": "16.0.0.19127",
+    "microsoftsharepointteamservices": "16.0.0.19725",
     "server": "Microsoft-IIS/10.0",
     "x-aspnet-version": "4.0.30319",
     "x-content-type-options": "nosniff",

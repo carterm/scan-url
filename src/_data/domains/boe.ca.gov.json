@@ -25,7 +25,8 @@
   "hasJQuery": true,
   "googleAnalytics": [
     "G-69TD0KNT0F",
-    "G-XH0RG68L1S"
+    "G-XH0RG68L1S",
+    "GTM-5Q36MCK"
   ],
   "socialLinks": [
     "https://twitter.com/CA_BOE_News",
@@ -38,5 +39,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": true,
+  "goodScan": true
 }

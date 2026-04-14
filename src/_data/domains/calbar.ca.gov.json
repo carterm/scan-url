@@ -27,7 +27,8 @@
   "usesStateTemplate": false,
   "hasJQuery": true,
   "googleAnalytics": [
-    "G-CT3SHXYGSG"
+    "G-CT3SHXYGSG",
+    "GTM-K64ZG27"
   ],
   "socialLinks": [
     "https://www.facebook.com/StateBarofCA",
@@ -40,5 +41,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

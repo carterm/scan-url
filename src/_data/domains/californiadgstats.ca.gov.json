@@ -18,12 +18,15 @@
   "usesStateTemplate": false,
   "hasJQuery": true,
   "googleAnalytics": [
-    "G-PT0KK6BNM3"
+    "G-1Z3D4EMH7X",
+    "G-PT0KK6BNM3",
+    "GTM-KK8LBS3"
   ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

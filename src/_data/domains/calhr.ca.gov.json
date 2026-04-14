@@ -7,7 +7,7 @@
   "title": "CalHR Website - The CALHR site",
   "lastStatus": 200,
   "finalUrl": "",
-  "metaGenerator": "CAWeb v.1.13.3",
+  "metaGenerator": "CAWeb v.1.13.4",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
     "connection": "keep-alive",
@@ -43,5 +43,6 @@
   "nocache": true,
   "DOMErrors": [
     "Could not parse CSS stylesheet"
-  ]
+  ],
+  "goodScan": true
 }

@@ -12,7 +12,6 @@
     "connection": "keep-alive",
     "content-type": "text/html; charset=utf-8",
     "x-aspnet-version": "4.0.30319",
-    "x-fd-int-roxy-purgeid": "0",
     "x-powered-by": "ASP.NET"
   },
   "cloudflare": false,
@@ -36,5 +35,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

@@ -27,7 +27,6 @@
     "http://instagram.com/thecaliforniacoast",
     "http://www.facebook.com/californiacoast",
     "https://www.youtube.com/@Coast4uOrg",
-    "https://www.youtube.com/playlist?list=PLhOALIlMeKQ44wljwJMoekuR3WqaXfY8X",
     "https://www.youtube.com/playlist?list=PLhOALIlMeKQ51x8PXbD1Wk6rpzhYdWHmG",
     "https://www.youtube.com/watch?v=hoVn22IXuKE"
   ],
@@ -35,5 +34,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

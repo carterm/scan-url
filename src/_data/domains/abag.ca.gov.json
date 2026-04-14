@@ -7,7 +7,7 @@
   "title": "Home | Association of Bay Area Governments",
   "lastStatus": 200,
   "finalUrl": "",
-  "metaGenerator": "Drupal 10 (https://www.drupal.org)",
+  "metaGenerator": "Drupal 11 (https://www.drupal.org)",
   "responseHeaders": {
     "accept-ranges": "bytes",
     "connection": "keep-alive",
@@ -19,14 +19,14 @@
     "server": "nginx",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
-    "x-generator": "Drupal 10 (https://www.drupal.org)",
+    "x-generator": "Drupal 11 (https://www.drupal.org)",
     "x-xss-protection": "1"
   },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [
     "G-FE9WWP5YXX"
   ],
@@ -35,5 +35,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

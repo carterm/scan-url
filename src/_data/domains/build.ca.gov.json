@@ -14,10 +14,15 @@
     "access-control-allow-origin": "*",
     "content-encoding": "br",
     "content-type": "text/html; charset=utf-8",
+    "cross-origin-embedder-policy": "unsafe-none",
+    "cross-origin-opener-policy": "same-origin-allow-popups",
+    "cross-origin-resource-policy": "cross-origin",
+    "permissions-policy": "camera=(), microphone=(), geolocation=()",
     "referrer-policy": "no-referrer",
     "server": "Vercel",
     "x-content-type-options": "nosniff",
     "x-dns-prefetch-control": "on",
+    "x-frame-options": "SAMEORIGIN",
     "x-matched-path": "/en-US",
     "x-vercel-cache": "MISS",
     "x-xss-protection": "1; mode=block"
@@ -33,5 +38,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": true,
+  "goodScan": true
 }

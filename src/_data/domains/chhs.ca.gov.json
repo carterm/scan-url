@@ -7,7 +7,7 @@
   "title": "California Health and Human Services - California Health & Human Services",
   "lastStatus": 200,
   "finalUrl": "",
-  "metaGenerator": "WordPress 6.9.1",
+  "metaGenerator": "WordPress 6.9.4",
   "responseHeaders": {
     "connection": "keep-alive",
     "content-encoding": "br",
@@ -17,7 +17,7 @@
     "server": "nginx",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
-    "x-powered-by": "PHP/8.3.26",
+    "x-powered-by": "PHP/8.3.29",
     "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,
@@ -43,8 +43,8 @@
   "errorMessage": null,
   "notes": null,
   "nocache": false,
+  "goodScan": true,
   "DOMErrors": [
     "Could not parse CSS stylesheet"
-  ],
-  "goodScan": true
+  ]
 }

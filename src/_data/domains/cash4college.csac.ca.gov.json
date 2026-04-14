@@ -16,9 +16,7 @@
     "x-aspnetmvc-version": "5.2",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
-    "x-oneagent-js-injection": "true",
     "x-powered-by": "ASP.NET",
-    "x-ruxit-js-agent": "true",
     "x-ua-compatible": "IE=Edge,Chrome=1",
     "x-xss-protection": "1;mode=block"
   },
@@ -42,5 +40,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": true,
+  "goodScan": true
 }
