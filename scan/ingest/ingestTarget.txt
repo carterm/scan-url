@@ -270,13 +270,11 @@ https://water.ca.gov/
 https://waterchallenge.data.ca.gov/
 https://wcb.ca.gov/
 https://wcchd.ca.gov/
-https://webservices.caloes.ca.gov/
 https://webstandards.ca.gov/
 https://wedrawthelines.ca.gov/
 https://westnile.ca.gov/
 https://wildlife.ca.gov/
 https://women.ca.gov/
-https://wpso.dmhc.ca.gov/
 https://wpwma.ca.gov/
 https://ww2.arb.ca.gov/
 https://wwd.ca.gov/

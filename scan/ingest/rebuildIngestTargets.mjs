@@ -28,7 +28,9 @@ async function buildIngestTargets() {
 
   // write all the target URLs to a file for ingestion
   const targetURLs = items
+    .filter(({ record }) => record.includeInScan)
     .map(({ record }) => record.targetURL)
+
     .filter(Boolean);
 
   targetURLs.sort();
