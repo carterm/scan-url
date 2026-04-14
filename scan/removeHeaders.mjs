@@ -92,5 +92,6 @@ export default [
   "x-gateway-cache-status",
   "sg-f-cache",
   "x-reference-error",
-  "x-kinsta-cache"
-]
+  "x-kinsta-cache",
+  "granicusserver"
+];
