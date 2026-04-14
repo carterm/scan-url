@@ -7,7 +7,7 @@
   "title": "Safer At Work | California for All",
   "lastStatus": 200,
   "finalUrl": "",
-  "metaGenerator": "CAWeb v.1.13.3",
+  "metaGenerator": "CAWeb v.1.13.4",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
     "connection": "keep-alive",
@@ -44,5 +44,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": true,
+  "goodScan": true
 }

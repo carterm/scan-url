@@ -23,14 +23,14 @@
     "GTM-K73C5PS"
   ],
   "socialLinks": [
-    "https://twitter.com/cityofojai",
     "https://www.facebook.com/cityofojai",
-    "https://www.instagram.com/city_of_ojai/",
+    "https://www.instagram.com/cityofojai/",
     "https://www.youtube.com/channel/UC3DhCB5Z1DynNC7n8qcNeDQ"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

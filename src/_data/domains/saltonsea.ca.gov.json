@@ -4,10 +4,10 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "Salton Sea Management Program",
+  "title": "Salton Sea Program",
   "lastStatus": 200,
   "finalUrl": "",
-  "metaGenerator": "Site Kit by Google 1.171.0",
+  "metaGenerator": "Site Kit by Google 1.176.0",
   "responseHeaders": {
     "connection": "keep-alive",
     "content-type": "text/html; charset=UTF-8",

@@ -17,9 +17,9 @@
   },
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": true,
-  "usesStateTemplate": true,
-  "hasJQuery": true,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
   "googleAnalytics": [
     "G-77921BS1SZ",
     "UA-21431721-9",
@@ -30,5 +30,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

@@ -8,8 +8,9 @@
   "lastStatus": 200,
   "finalUrl": "",
   "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
     "content-type": "text/html; charset=utf-8",
-    "server": "",
     "x-frame-options": "SAMEORIGIN",
     "x-ua-compatible": "IE=edge"
   },
@@ -31,5 +32,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

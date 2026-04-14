@@ -12,9 +12,9 @@
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-type": "text/html;charset=utf-8",
-    "server": "DPS/2.0.0+sha-57bdacc",
+    "server": "DPS/2.0.0+sha-9148cf3",
     "x-siteid": "us-west-2",
-    "x-version": "57bdacc"
+    "x-version": "9148cf3"
   },
   "cloudflare": false,
   "slow": false,
@@ -27,5 +27,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

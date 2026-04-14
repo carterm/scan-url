@@ -31,7 +31,8 @@
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,
-  "errorMessage": null,
+  "errorMessage": "Fetch error: fetch failed write EPIPE",
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": false
 }
