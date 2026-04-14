@@ -19,27 +19,29 @@
   },
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": true,
-  "hasJQuery": true,
+  "hasJQuery": false,
   "googleAnalytics": [
     "G-69TD0KNT0F",
     "G-F2FZM7Q8TN",
     "GTM-M683DJB",
     "GTM-NBQCVZC",
+    "GTM-NJ6Q4MV",
     "UA-21974567-32",
     "UA-3419582-2"
   ],
   "socialLinks": [
-    "https://twitter.com/CaliforniaDCA",
     "https://www.facebook.com/CaliforniaDCA",
     "https://www.instagram.com/californiadca/",
     "https://www.linkedin.com/company/CaliforniaDCA",
-    "https://www.youtube.com/user/CaliforniaDCA"
+    "https://www.youtube.com/user/CaliforniaDCA",
+    "https://x.com/CaliforniaDCA"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

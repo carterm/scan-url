@@ -4,14 +4,15 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "IIS Windows Server",
-  "lastStatus": 200,
+  "title": "Not Found",
+  "lastStatus": 404,
   "finalUrl": "",
   "responseHeaders": {
     "accept-ranges": "bytes",
+    "connection": "close",
     "content-encoding": "gzip",
-    "content-type": "text/html",
-    "pragma": "no-cache",
+    "content-type": "text/html; charset=us-ascii",
+    "server": "Microsoft-HTTPAPI/2.0",
     "x-cdn": "Imperva",
     "x-content-type-options": "nosniff"
   },
@@ -24,7 +25,8 @@
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
-  "errorMessage": null,
+  "errorMessage": "HTTP 404",
   "notes": null,
-  "nocache": true
+  "nocache": true,
+  "goodScan": false
 }

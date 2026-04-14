@@ -13,8 +13,9 @@
     "content-type": "text/html; charset=utf-8",
     "pragma": "no-cache",
     "x-aspnet-version": "4.0.30319",
-    "x-fd-int-roxy-purgeid": "0",
-    "x-powered-by": "ASP.NET"
+    "x-oneagent-js-injection": "true",
+    "x-powered-by": "ASP.NET",
+    "x-ruxit-js-agent": "true"
   },
   "cloudflare": false,
   "slow": false,
@@ -27,5 +28,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": true,
+  "goodScan": true
 }

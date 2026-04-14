@@ -26,9 +26,12 @@
     "G-701BF8BBC0",
     "G-902FAAFCE0",
     "G-ALTERNATIN",
+    "G-B1BA7891C2",
+    "G-B685267B79",
     "G-C63BF8989A",
     "G-COLLECTION",
     "G-D22EABECA1",
+    "G-DBE066AE53",
     "G-F9093F2D52"
   ],
   "socialLinks": [],
@@ -37,8 +40,8 @@
   "errorMessage": null,
   "notes": null,
   "nocache": false,
+  "goodScan": true,
   "DOMErrors": [
     "Could not parse CSS stylesheet"
-  ],
-  "goodScan": true
+  ]
 }

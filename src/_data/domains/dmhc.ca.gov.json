@@ -4,26 +4,36 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "Access Denied",
-  "lastStatus": 403,
+  "title": "California Department of Managed Health Care",
+  "lastStatus": 200,
   "finalUrl": "",
   "responseHeaders": {
-    "connection": "close",
-    "content-type": "text/html",
-    "mime-version": "1.0",
-    "pragma": "no-cache"
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "x-aspnet-version": "4.0.30319",
+    "x-frame-options": "SAMEORIGIN",
+    "x-ua-compatible": "IE=edge"
   },
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-ZGVNWLCQD3"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/CaliforniaDMHC",
+    "https://www.linkedin.com/company/cadmhc/",
+    "https://www.youtube.com/user/CaliforniaDMHC",
+    "https://x.com/CADMHC"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
-  "errorMessage": "HTTP 403",
+  "errorMessage": "",
   "notes": null,
   "nocache": true,
-  "goodScan": false
+  "goodScan": true
 }

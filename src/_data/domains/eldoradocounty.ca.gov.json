@@ -4,26 +4,37 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "Access Denied",
-  "lastStatus": 403,
+  "title": "Home - El Dorado County",
+  "lastStatus": 200,
   "finalUrl": "",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=93600",
-    "connection": "close",
-    "content-type": "text/html",
-    "mime-version": "1.0"
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-language": "en-US",
+    "content-type": "text/html; charset=utf-8",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-mobile-client": "false"
   },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-4QFQNQ89RW"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CountyElDorado",
+    "https://www.facebook.com/ElDoradoCountyNews/"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
-  "errorMessage": "HTTP 403",
+  "errorMessage": "",
   "notes": null,
-  "nocache": true,
-  "goodScan": false
+  "nocache": false,
+  "goodScan": true,
+  "metaGenerator": "OpenCities - https://granicus.com/product/opencities"
 }

@@ -31,11 +31,13 @@
     "UA-64276560-8"
   ],
   "socialLinks": [
-    "https://twitter.com/CaDentalBoard"
+    "https://twitter.com/CaDentalBoard",
+    "https://www.facebook.com/profile.php?id=61582183964015"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

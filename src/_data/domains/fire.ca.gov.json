@@ -4,15 +4,16 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "Access Denied",
-  "lastStatus": 403,
+  "title": "California Department of Forestry and Fire Protection | CAL FIRE",
+  "lastStatus": 200,
   "finalUrl": "",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=93600",
-    "connection": "close",
-    "content-type": "text/html",
-    "mime-version": "1.0",
-    "server": "AkamaiGHost",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "request-context": "appId=cid-v1:7d94dcb4-168e-416c-851f-685e11191e72",
+    "server": "Microsoft-IIS/10.0",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN"
   },
@@ -20,12 +21,22 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-DJY7D8Z6M7",
+    "UA-12131957-10",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CAL_FIRE",
+    "https://www.facebook.com/CALFIRE/",
+    "https://www.instagram.com/calfire/?hl=en",
+    "https://www.youtube.com/user/CALFIRETV"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
-  "errorMessage": "HTTP 403",
+  "errorMessage": "",
   "notes": null,
-  "goodScan": false
+  "goodScan": true,
+  "nocache": false
 }

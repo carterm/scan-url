@@ -17,7 +17,7 @@
     "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
     "server": "cloudflare",
     "x-cache-group": "normal",
-    "x-nitro-rev": "fc4ba61",
+    "x-nitro-rev": "8cd43b6",
     "x-powered-by": "WP Engine"
   },
   "cloudflare": false,
@@ -35,6 +35,7 @@
     "G-BEC020F63C",
     "G-DEAE874833",
     "G-F43B551B74",
+    "G-F6029C9491",
     "G-LDV6PXRQJZ",
     "GTM-PLCHW6B",
     "UA-1915322-1"

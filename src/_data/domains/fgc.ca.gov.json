@@ -10,17 +10,18 @@
   "responseHeaders": {
     "content-encoding": "br",
     "content-type": "text/html; charset=utf-8",
-    "permissions-policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
     "pragma": "no-cache",
     "referrer-policy": "strict-origin-when-cross-origin",
     "x-content-type-options": "nosniff",
-    "x-ua-compatible": "IE=edge"
+    "x-frame-options": "SAMEORIGIN",
+    "x-ua-compatible": "IE=edge",
+    "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": true,
+  "hasStatewideAlerts": false,
   "usesStateTemplate": true,
-  "hasJQuery": true,
+  "hasJQuery": false,
   "googleAnalytics": [
     "G-QHR5ZZWW7J"
   ],

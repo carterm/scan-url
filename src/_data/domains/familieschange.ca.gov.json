@@ -24,6 +24,7 @@
   "usesStateTemplate": false,
   "hasJQuery": true,
   "googleAnalytics": [
+    "GTM-KHQRW8K",
     "UA-42225500-1"
   ],
   "socialLinks": [],
@@ -31,5 +32,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": true,
+  "goodScan": true
 }

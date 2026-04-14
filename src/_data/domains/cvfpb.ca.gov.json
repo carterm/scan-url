@@ -7,7 +7,7 @@
   "title": "Central Valley Flood Protection Board – State of California",
   "lastStatus": 200,
   "finalUrl": "",
-  "metaGenerator": "Site Kit by Google 1.171.0",
+  "metaGenerator": "Site Kit by Google 1.176.0",
   "responseHeaders": {
     "connection": "keep-alive",
     "content-type": "text/html; charset=UTF-8",
@@ -25,8 +25,7 @@
   "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [
-    "https://www.youtube.com/@centralvalleyfloodprotecti1800",
-    "https://www.youtube.com/channel/UCDREhiLpWtyPJqWWJBEHrEw/featured"
+    "https://www.youtube.com/@centralvalleyfloodprotecti1800"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,

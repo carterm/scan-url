@@ -26,11 +26,13 @@
   "socialLinks": [
     "https://twitter.com/danvillecagov",
     "https://www.facebook.com/DanvilleCAgov/",
-    "https://www.instagram.com/danvillecagov/"
+    "https://www.instagram.com/danvillecagov/",
+    "https://youtu.be/oznAenVtIyk"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

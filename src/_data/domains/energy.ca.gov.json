@@ -7,15 +7,16 @@
   "title": "Home Page-California Energy Commission",
   "lastStatus": 200,
   "finalUrl": "",
-  "metaGenerator": "Drupal 10 (https://www.drupal.org)",
+  "metaGenerator": "Drupal 11 (https://www.drupal.org)",
   "responseHeaders": {
+    "connection": "Keep-Alive",
     "content-language": "en",
     "content-type": "text/html; charset=UTF-8",
-    "server": "Microsoft-IIS/10.0",
+    "server": "Apache/2.4.62 (Red Hat Enterprise Linux) OpenSSL/3.5.1",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
-    "x-generator": "Drupal 10 (https://www.drupal.org)",
-    "x-powered-by": "PHP/8.2.17, ASP.NET"
+    "x-generator": "Drupal 11 (https://www.drupal.org)",
+    "x-powered-by": "PHP/8.3.26"
   },
   "cloudflare": false,
   "slow": false,
@@ -30,11 +31,13 @@
     "https://www.facebook.com/CAEnergy",
     "https://www.instagram.com/calenergy",
     "https://www.linkedin.com/company/california-energy-commission",
+    "https://www.tiktok.com/@calenergy",
     "https://www.youtube.com/calenergycommission"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": true,
+  "goodScan": true
 }
