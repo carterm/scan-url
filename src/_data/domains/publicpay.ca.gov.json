@@ -2,8 +2,8 @@
   "domain": "publicpay.ca.gov",
   "targetURL": "https://www.publicpay.ca.gov/",
   "www": true,
-  "active": true,
-  "includeInScan": true,
+  "active": false,
+  "includeInScan": false,
   "title": "GCC",
   "lastStatus": 200,
   "finalUrl": "",
@@ -22,15 +22,13 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": true,
-  "googleAnalytics": [
-    "GTM-KX7MF5M"
-  ],
+  "googleAnalytics": ["GTM-KX7MF5M"],
   "socialLinks": [
     "https://www.facebook.com/CAController",
     "https://x.com/CAController"
   ],
   "linksToCaGov": false,
-  "cosmeticTargetURL": null,
+  "cosmeticTargetURL": "https://gcc.sco.ca.gov/",
   "errorMessage": "Cloudflare challenge detected",
   "notes": null,
   "nocache": false,
