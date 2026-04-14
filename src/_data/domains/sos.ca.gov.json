@@ -27,7 +27,6 @@
     "GTM-TC7VGHV"
   ],
   "socialLinks": [
-    "https://twitter.com/CASOSVote",
     "https://www.facebook.com/CaliforniaSOS/",
     "https://www.instagram.com/CaliforniaSOS_/",
     "https://www.youtube.com/user/CaliforniaSOS/",
@@ -37,5 +36,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

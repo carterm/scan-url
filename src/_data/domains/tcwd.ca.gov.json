@@ -4,14 +4,21 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "Access Denied",
-  "lastStatus": 403,
+  "title": "Trabuco Canyon Water District | Home",
+  "lastStatus": 200,
   "finalUrl": "",
   "responseHeaders": {
-    "connection": "close",
-    "content-type": "text/html",
-    "mime-version": "1.0",
-    "server": "AkamaiGHost"
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "edge-cache-tag": "043A17CA.G,043A17CA.P11,043A17CA.CMENU,043A17CA.CL2,043A17CA.CL4,043A17CA.CL6,043A17CA.CL5",
+    "expect-ct": "max-age=31536000",
+    "granicusserver": "gasap-viscmsf3",
+    "last-published": "Mon, 19 May 2025 15:56:47 GMT",
+    "server": "AkamaiGHost",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,
   "slow": false,
@@ -19,11 +26,15 @@
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://twitter.com/TCWDWater",
+    "https://www.facebook.com/TrabucoCanyonWaterDistrict",
+    "https://www.linkedin.com/company/trabuco-canyon-water-district"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
-  "errorMessage": "HTTP 403",
+  "errorMessage": "",
   "notes": null,
   "nocache": true,
-  "goodScan": false
+  "goodScan": true
 }

@@ -7,13 +7,13 @@
   "title": "Home - Western Placer Waste Management Authority",
   "lastStatus": 200,
   "finalUrl": "",
-  "metaGenerator": "WordPress 6.9.1",
+  "metaGenerator": "WordPress 6.9.4",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "ki-edge": "v=27.0.0;mv=99.9.9",
+    "ki-edge": "v=27.0.5;mv=99.9.9",
     "ki-origin": "g1p",
     "nel": "{\"success_fraction\":0.01,\"report_to\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",
@@ -24,7 +24,7 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [
     "G-L673EFZY1V"
   ],
@@ -34,6 +34,7 @@
     "https://www.facebook.com/WPWMA/events",
     "https://www.instagram.com/wpwma/?hl=en",
     "https://www.linkedin.com/company/wpwma/",
+    "https://www.tiktok.com/@wpwma",
     "https://www.youtube.com/channel/UCS2ctDTkh52BdD4zKQpopTg",
     "https://www.youtube.com/watch?v=KQQdftQrcjs&list=PLnUskxTUjkSIRdgeQ3x_Pmm2DsMbzKDB2"
   ],

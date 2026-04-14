@@ -7,7 +7,7 @@
   "title": "California Strategic Growth Council - Strategic Growth Council",
   "lastStatus": 200,
   "finalUrl": "",
-  "metaGenerator": "WordPress 6.9.1",
+  "metaGenerator": "WordPress 6.9.4",
   "responseHeaders": {
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
@@ -39,8 +39,8 @@
   "errorMessage": null,
   "notes": null,
   "nocache": false,
+  "goodScan": true,
   "DOMErrors": [
     "Could not parse CSS stylesheet"
-  ],
-  "goodScan": true
+  ]
 }

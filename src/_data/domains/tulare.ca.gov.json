@@ -4,26 +4,35 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "Access Denied",
-  "lastStatus": 403,
+  "title": "City of Tulare | Home",
+  "lastStatus": 200,
   "finalUrl": "",
   "responseHeaders": {
-    "connection": "close",
-    "content-type": "text/html",
-    "mime-version": "1.0",
-    "server": "AkamaiGHost"
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "edge-cache-tag": "619C5668.G,619C5668.P11,619C5668.CMENU,619C5668.CL5,619C5668.CL2,619C5668.CL6,619C5668.CL4",
+    "expect-ct": "max-age=31536000",
+    "granicusserver": "gasap-viscmsb1",
+    "last-published": "Thu, 12 Feb 2026 21:21:58 GMT",
+    "server": "AkamaiGHost",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-3C4EEVW8L1"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
-  "errorMessage": "HTTP 403",
+  "errorMessage": "",
   "notes": null,
   "nocache": true,
-  "goodScan": false
+  "goodScan": true
 }

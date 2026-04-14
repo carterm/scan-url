@@ -4,26 +4,42 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "Access Denied",
-  "lastStatus": 403,
+  "title": "Sunnyvale, CA | Home",
+  "lastStatus": 200,
   "finalUrl": "",
   "responseHeaders": {
-    "connection": "close",
-    "content-type": "text/html",
-    "mime-version": "1.0",
-    "server": "AkamaiGHost"
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "edge-cache-tag": "B8867511.G,B8867511.P11,B8867511.CMENU,B8867511.CL2,B8867511.CL5,B8867511.CL4",
+    "expect-ct": "max-age=31536000",
+    "granicusserver": "mse2p-viscmsha5",
+    "last-published": "Thu, 19 Dec 2024 15:10:23 GMT",
+    "server": "AkamaiGHost",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "googleAnalytics": [
+    "G-T4KDVQ1M42",
+    "G-WVHV5Y34FM"
+  ],
+  "socialLinks": [
+    "http://instagram.com/CityofSunnyvale",
+    "https://twitter.com/CityofSunnyvale",
+    "https://www.facebook.com/CityofSunnyvale",
+    "https://www.linkedin.com/company/city-of-sunnyvale",
+    "https://www.youtube.com/cityofsunnyvale"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
-  "errorMessage": "HTTP 403",
+  "errorMessage": "",
   "notes": null,
   "nocache": true,
-  "goodScan": false
+  "goodScan": true
 }

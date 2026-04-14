@@ -18,13 +18,11 @@
   "usesStateTemplate": false,
   "hasJQuery": true,
   "googleAnalytics": [],
-  "socialLinks": [
-    "http://facebook.com/westnile.ca.gov",
-    "https://www.facebook.com/westnile.ca.gov/"
-  ],
+  "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

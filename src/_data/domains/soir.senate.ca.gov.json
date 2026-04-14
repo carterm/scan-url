@@ -8,7 +8,7 @@
   "lastStatus": 200,
   "finalUrl": "",
   "responseHeaders": {
-    "accept-ranges": "none",
+    "accept-ranges": "bytes",
     "connection": "Keep-Alive",
     "content-encoding": "gzip",
     "content-language": "en",
@@ -39,5 +39,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }
