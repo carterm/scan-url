@@ -4,28 +4,39 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "Access Denied",
-  "lastStatus": 403,
+  "title": "Online Forms and Publications",
+  "lastStatus": 200,
   "finalUrl": "",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=93600",
-    "connection": "close",
-    "content-type": "text/html",
-    "mime-version": "1.0",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
     "pragma": "no-cache",
-    "server": "Apache"
+    "server": "Apache",
+    "x-aspnet-version": "4.0.30319",
+    "x-aspnetmvc-version": "5.2",
+    "x-frame-options": "SAMEORIGIN"
   },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-N8KVMBR",
+    "UA-3419582-2",
+    "UA-3419582-31"
+  ],
+  "socialLinks": [
+    "http://twitter.com/CA_EDD",
+    "http://www.facebook.com/californiaedd",
+    "http://www.youtube.com/user/CaliforniaEDD"
+  ],
+  "linksToCaGov": true,
   "cosmeticTargetURL": null,
-  "errorMessage": "HTTP 403",
+  "errorMessage": "",
   "notes": null,
   "nocache": true,
-  "goodScan": false
+  "goodScan": true
 }

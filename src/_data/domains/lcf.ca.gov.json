@@ -7,7 +7,7 @@
   "title": "City of La Cañada Flintridge",
   "lastStatus": 200,
   "finalUrl": "",
-  "metaGenerator": "All in One SEO (AIOSEO) 4.9.3",
+  "metaGenerator": "All in One SEO (AIOSEO) 4.9.5.1",
   "responseHeaders": {
     "connection": "keep-alive",
     "content-encoding": "br",
@@ -36,5 +36,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

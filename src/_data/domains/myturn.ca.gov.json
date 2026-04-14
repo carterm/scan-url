@@ -9,7 +9,7 @@
   "finalUrl": "",
   "responseHeaders": {
     "accept-ranges": "bytes",
-    "content-md5": "yRMK3NMjFOp8nloQU2CQ3w==",
+    "content-md5": "HwKtZyQRPiWN/ewlpoC1WA==",
     "content-type": "text/html",
     "server": "volt-adc",
     "x-ms-version": "2018-03-28"
@@ -29,5 +29,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

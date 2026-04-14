@@ -26,12 +26,13 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

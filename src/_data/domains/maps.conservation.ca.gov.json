@@ -12,7 +12,7 @@
     "access-control-allow-origin": "*",
     "connection": "keep-alive",
     "content-type": "text/html",
-    "x-fd-int-roxy-purgeid": "0",
+    "x-fd-int-roxy-purgeid": "14",
     "x-powered-by": "ASP.NET"
   },
   "cloudflare": false,
@@ -31,5 +31,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

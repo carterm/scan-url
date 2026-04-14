@@ -15,9 +15,10 @@
     "permissions-policy": "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)",
     "referrer-policy": "strict-origin",
     "server": "nginx",
+    "wpo-cache-status": "cached",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
-    "x-powered-by": "PHP/8.3.26",
+    "x-powered-by": "PHP/8.3.29",
     "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,
@@ -42,5 +43,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": true,
+  "goodScan": true
 }

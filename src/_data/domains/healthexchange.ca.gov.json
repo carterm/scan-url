@@ -23,11 +23,13 @@
     "https://twitter.com/CoveredCA",
     "https://www.facebook.com/CoveredCA/",
     "https://www.instagram.com/coveredca/?hl=en",
-    "https://www.youtube.com/user/CoveredCA"
+    "https://www.youtube.com/user/CoveredCA",
+    "https://www.youtube.com/watch?v=8--TJjJLF6Y&list=TLGG7IKR8OAM8ncyMTAyMjAyNg"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

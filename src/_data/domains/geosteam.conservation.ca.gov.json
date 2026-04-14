@@ -11,14 +11,12 @@
     "connection": "keep-alive",
     "content-type": "text/html; charset=utf-8",
     "server": "Microsoft-IIS/10.0",
-    "x-aspnet-version": "4.0.30319",
-    "x-aspnetmvc-version": "5.2",
     "x-frame-options": "SAMEORIGIN"
   },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
+  "usesStateTemplate": true,
   "hasJQuery": true,
   "googleAnalytics": [
     "G-69TD0KNT0F",
@@ -29,5 +27,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

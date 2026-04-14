@@ -19,7 +19,7 @@
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 10 (https://www.drupal.org)",
-    "x-powered-by": "PHP/8.3.26"
+    "x-powered-by": "PHP/8.3.29"
   },
   "cloudflare": false,
   "slow": false,
@@ -36,11 +36,13 @@
     "https://www.facebook.com/CaliforniaHCD",
     "https://www.instagram.com/california_hcd/",
     "https://www.linkedin.com/company/californiahcd",
-    "https://www.youtube.com/channel/UC7ciVAlNzF0vHlJ9kkMm1HA"
+    "https://www.youtube.com/channel/UC7ciVAlNzF0vHlJ9kkMm1HA",
+    "https://www.youtube.com/watch?v=IRZ2SLidco0&t=8s"
   ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": true,
+  "goodScan": true
 }

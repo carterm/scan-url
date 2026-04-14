@@ -13,7 +13,7 @@
     "content-location": "www.ftb.ca.gov",
     "content-type": "text/html",
     "p3p": "policyref=\"/w3c/p3p.xml\",CP=\"ALL DSP COR MON LAW CURa ADMa DEVa PSAa PSDa OUR SAMa IND NAV INT CNT STA\"",
-    "pragma": "public",
+    "pragma": "no-cache",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
     "x-xss-protection": "1; mode=block"
@@ -38,8 +38,9 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false,
+  "nocache": true,
   "DOMErrors": [
     "Could not parse CSS stylesheet"
-  ]
+  ],
+  "goodScan": true
 }

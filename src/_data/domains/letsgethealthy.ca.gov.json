@@ -7,7 +7,7 @@
   "title": "Let's Get Healthy California",
   "lastStatus": 200,
   "finalUrl": "",
-  "metaGenerator": "Powered by Slider Revolution 6.7.39 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.",
+  "metaGenerator": "Powered by Slider Revolution 6.7.41 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
     "connection": "keep-alive",
@@ -42,5 +42,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

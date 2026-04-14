@@ -7,7 +7,7 @@
   "title": "Governor of California",
   "lastStatus": 200,
   "finalUrl": "",
-  "metaGenerator": "CAWeb v.1.13.3",
+  "metaGenerator": "CAWeb v.1.13.4",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
     "connection": "keep-alive",
@@ -37,20 +37,17 @@
     "http://youtube.com/cagovernor",
     "https://twitter.com/cagovernor",
     "https://www.facebook.com/CAgovernor/",
+    "https://www.facebook.com/watch/?v=2150551522413257&extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C&ref=sharing&mibextid=wwXIfr&share_url=https%3A%2F%2Ffb.watch%2FGphf8ttxwh%2F%3Fmibextid%3DwwXIfr",
     "https://www.instagram.com/cagovernor/",
-    "https://www.instagram.com/p/DTnqTWGlBgA/?igsh=NTc4MTIwNjQ2YQ%3D%3D",
     "https://www.instagram.com/p/DUR7YnOEcRO/",
-    "https://www.instagram.com/p/DUq7GjUEjjI/?igsh=NTc4MTIwNjQ2YQ%3D%3D",
     "https://www.tiktok.com/@cagovernor",
-    "https://www.tiktok.com/@cagovernor/video/7605378259118837022?lang=en"
+    "https://www.tiktok.com/@cagovernor/video/7613190720039505182?is_from_webapp=1",
+    "https://x.com/CAgovernor/status/2041011454388863359?s=20"
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
   "nocache": false,
-  "DOMErrors": [
-    "Could not parse CSS stylesheet"
-  ],
   "goodScan": true
 }

@@ -4,26 +4,40 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "Access Denied",
-  "lastStatus": 403,
+  "title": "Mojave Desert Air Quality Management District | Home",
+  "lastStatus": 200,
   "finalUrl": "",
   "responseHeaders": {
-    "connection": "close",
-    "content-type": "text/html",
-    "mime-version": "1.0",
-    "server": "AkamaiGHost"
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "edge-cache-tag": "0F38E011.G,0F38E011.P9,0F38E011.CMENU,0F38E011.CL2,0F38E011.CL5",
+    "expect-ct": "max-age=31536000",
+    "granicusserver": "gasap-viscmsb3",
+    "last-published": "Tue, 20 Jan 2026 22:51:25 GMT",
+    "server": "AkamaiGHost",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "googleAnalytics": [
+    "G-MWLPGMCV36",
+    "G-SPG9PZFWE9"
+  ],
+  "socialLinks": [
+    "https://twitter.com/MDAQMD",
+    "https://www.facebook.com/mdaqmd/",
+    "https://www.linkedin.com/company/mdaqmd"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
-  "errorMessage": "HTTP 403",
+  "errorMessage": "",
   "notes": null,
   "nocache": true,
-  "goodScan": false
+  "goodScan": true
 }

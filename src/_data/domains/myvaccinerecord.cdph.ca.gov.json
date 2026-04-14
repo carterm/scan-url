@@ -10,7 +10,7 @@
   "responseHeaders": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "referrer-policy": "strict-origin-when-cross-origin",
+    "referrer-policy": "no-referrer-when-downgrade",
     "request-context": "appId=cid-v1:",
     "server": "volt-adc",
     "x-frame-options": "SAMEORIGIN"
@@ -28,5 +28,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": true,
+  "goodScan": true
 }
