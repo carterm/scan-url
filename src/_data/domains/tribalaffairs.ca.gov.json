@@ -20,7 +20,7 @@
     "x-powered-by": "WP Engine"
   },
   "cloudflare": false,
-  "slow": true,
+  "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": true,
   "hasJQuery": true,

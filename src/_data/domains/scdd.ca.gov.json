@@ -23,7 +23,7 @@
     "x-tec-api-version": "v1"
   },
   "cloudflare": false,
-  "slow": true,
+  "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": true,
   "hasJQuery": true,

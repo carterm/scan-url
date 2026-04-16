@@ -45,9 +45,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false,
-  "goodScan": true,
-  "DOMErrors": [
-    "Could not parse CSS stylesheet"
-  ]
+  "nocache": true,
+  "goodScan": true
 }
