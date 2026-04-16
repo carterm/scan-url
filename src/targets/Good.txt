@@ -169,7 +169,7 @@ https://mobile.cdpr.ca.gov/
 https://mrca.ca.gov/
 https://mtc.ca.gov/
 https://myedd.edd.ca.gov/s/login/?language=en_US
-https://myturn.ca.gov/
+https://myturn.cdph.ca.gov/
 https://myvaccinerecord.cdph.ca.gov/
 https://nahc.ca.gov/
 https://natureworks.resources.ca.gov/
