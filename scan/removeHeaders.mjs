@@ -93,5 +93,6 @@ export default [
   "sg-f-cache",
   "x-reference-error",
   "x-kinsta-cache",
-  "granicusserver"
+  "granicusserver",
+  "x-nitro-rev"
 ];

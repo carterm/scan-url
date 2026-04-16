@@ -9,7 +9,12 @@
   "finalUrl": "",
   "responseHeaders": {
     "connection": "keep-alive",
-    "content-type": "text/html; charset=iso-8859-1"
+    "content-type": "text/html; charset=iso-8859-1",
+    "permissions-policy": "camera=(), microphone=(), geolocation=()",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,
   "slow": false,
