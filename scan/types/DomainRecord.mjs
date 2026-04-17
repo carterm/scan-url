@@ -26,7 +26,7 @@
  * @property {number | null} lastStatus
  *   HTTP status code from the last scan.
  * @property {boolean} goodScan
- *   Whether the last scan was considered successful.
+ *   Whether the last scan was considered successful and shouldn't be overwritten by negative results.
  * @property {string | null} finalUrl
  *   The final resolved URL after redirects, or null if none occurred.
  * @property {boolean} [ignoreFinalUrl]
