@@ -21,7 +21,8 @@
   "socialLinks": [],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
-  "errorMessage": null,
+  "errorMessage": "Fetch error: fetch failed Connect Timeout Error (attempted address: www.dmac.ca.gov:443, timeout: 15000ms)",
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": false
 }

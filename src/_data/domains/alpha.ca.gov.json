@@ -9,7 +9,7 @@
   "finalUrl": "",
   "responseHeaders": {
     "connection": "keep-alive",
-    "content-encoding": "gzip",
+    "content-encoding": "br",
     "content-type": "text/html",
     "server": "AmazonS3"
   },
@@ -27,5 +27,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

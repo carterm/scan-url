@@ -4,21 +4,29 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "403 Forbidden",
-  "lastStatus": 403,
+  "title": "Home - CalABLE",
+  "lastStatus": 200,
   "finalUrl": "",
   "responseHeaders": {
     "connection": "keep-alive",
-    "content-type": "text/html",
-    "server": "awselb/2.0"
+    "content-type": "text/html; charset=utf-8",
+    "server": "awselb/2.0",
+    "x-powered-by": "Express"
   },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "googleAnalytics": [
+    "G-BH9XWR79GY",
+    "GTM-K7STLL5"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/CalABLE/",
+    "https://www.instagram.com/wearecalable/",
+    "https://www.linkedin.com/company/calable/"
+  ],
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": "HTTP 403",

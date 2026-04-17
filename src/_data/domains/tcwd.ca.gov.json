@@ -24,7 +24,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-RHRBZBNCJV"
+  ],
   "socialLinks": [
     "https://twitter.com/TCWDWater",
     "https://www.facebook.com/TrabucoCanyonWaterDistrict",
