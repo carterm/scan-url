@@ -19,7 +19,7 @@
     "ingest_urls": "node scan/ingest/ingestUrls.mjs",
     "rebuild_ingest_targets": "node scan/ingest/rebuildIngestTargets.mjs",
     "scan_all": "node scan/scanAll.mjs",
-    "csv": "node src/csv.cjs",
+    "csv": "node scan/csv.mjs",
     "GIT cleanup": "git clean -fd"
   },
   "private": true,
