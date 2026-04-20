@@ -32,7 +32,7 @@ function booleanToYesNo(value) {
 (() => {
   const resultData = domainRecords
     .map(row => ({
-      domain: row.domain,
+      domain: (row.domain.match(/\W*([\w-]*\.ca\.gov)/) || [])[1] || ".ca.gov",
       target: row.targetURL,
       status: row.lastStatus || "",
       redirectURL: preview50(row.finalUrl),
@@ -44,8 +44,8 @@ function booleanToYesNo(value) {
       statewideAlerts: booleanToYesNo(row.hasStatewideAlerts),
       stateTemplate: booleanToYesNo(row.usesStateTemplate),
       JQuery: booleanToYesNo(row.hasJQuery),
-      GoogleAnalytics: row.googleAnalytics.join(","),
-      errormessage: row.errorMessage || ""
+      errormessage: row.errorMessage || "",
+      GoogleAnalytics: row.googleAnalytics.join(",")
     }))
     .sort((a, b) => {
       if (a.domain > b.domain) return 1;
