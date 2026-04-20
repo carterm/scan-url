@@ -60,8 +60,9 @@ function booleanToYesNo(value) {
   /** @type {*} */
   const headerRow = {};
   for (const key of Object.keys(resultData[0])) {
-    // @ts-ignore
-    headerRow[key] = new Set(resultData.map(row => row[key])).size;
+    headerRow[key] = resultData
+      // @ts-ignore
+      .filter(row => row[key].length > 0).length;
   }
 
   resultData.unshift(headerRow);
