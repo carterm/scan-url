@@ -22,6 +22,13 @@ function preview50(value) {
   return value.length > 50 ? `${value.slice(0, 50)}...` : value;
 }
 
+/**
+ * @param {boolean} value
+ */
+function booleanToYesNo(value) {
+  return value ? "X" : "";
+}
+
 (() => {
   const resultData = domainRecords
     .map(row => ({
@@ -33,10 +40,10 @@ function preview50(value) {
       generator: preview50(row.metaGenerator) || "",
       "x-powered-by": row.responseHeaders["x-powered-by"] || "",
       server: row.responseHeaders["server"] || "",
-      slowResponse: row.slow,
-      statewideAlerts: row.hasStatewideAlerts,
-      stateTemplate: row.usesStateTemplate,
-      JQuery: row.hasJQuery,
+      slowResponse: booleanToYesNo(row.slow),
+      statewideAlerts: booleanToYesNo(row.hasStatewideAlerts),
+      stateTemplate: booleanToYesNo(row.usesStateTemplate),
+      JQuery: booleanToYesNo(row.hasJQuery),
       GoogleAnalytics: row.googleAnalytics.join(","),
       errormessage: row.errorMessage || ""
     }))
@@ -50,11 +57,18 @@ function preview50(value) {
       return 0;
     });
 
-  /*
+  /** @type {*} */
+  const headerRow = {};
+  for (const key of Object.keys(resultData[0])) {
+    // @ts-ignore
+    headerRow[key] = new Set(resultData.map(row => row[key])).size;
+  }
+
+  resultData.unshift(headerRow);
+
   resultData[0].domain = new Set(
     resultData.slice(1).map(row => row.domain)
-  ).size;
-  */
+  ).size.toString();
 
   const csv = converter.json2csv(resultData);
 
