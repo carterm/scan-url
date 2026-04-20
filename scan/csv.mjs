@@ -6,7 +6,7 @@ import converter from "json-2-csv";
 const publish_location = "publish/scan-results.csv";
 
 const items = loadAllDomainRecords();
-const domainRecords = items.map(i => i.record);
+const domainRecords = items.map(i => i.record).filter(r => r.includeInScan);
 
 /**
  * Returns a safe 50‑character preview of a string.

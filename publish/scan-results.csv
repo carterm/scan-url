@@ -1,5 +1,5 @@
 domain,target,status,redirectURL,title,generator,x-powered-by,server,slowResponse,statewideAlerts,stateTemplate,JQuery,errormessage,GoogleAnalytics
-389,516,0,2,500,170,177,365,0,122,229,354,24,384
+388,513,0,2,500,170,176,363,0,122,229,353,22,382
 .ca.gov,https://www.ca.gov/,200,,California State Portal | CA.gov,,ASP.NET,,,X,,,,GTM-PZGPNNV
 abag.ca.gov,https://abag.ca.gov/,200,,Home | Association of Bay Area Governments,Drupal 11 (https://www.drupal.org),,nginx,,,,X,,G-FE9WWP5YXX
 abc.ca.gov,https://www.abc.ca.gov/,200,,Alcoholic Beverage Control | Trust - Innovation - ...,CAWeb v.1.1.4b,WP Engine,cloudflare,,,,,,"G-69TD0KNT0F,G-DCG7L67NBP,UA-24087628-11,UA-3419582-2"
@@ -67,7 +67,6 @@ californiadgstats.ca.gov,https://www.californiadgstats.ca.gov/,200,,CaliforniaDG
 californianature.ca.gov,https://www.californianature.ca.gov/,200,,30x30 California,,,,,,,,,"G-Y6CYCFDK0H,UA-59627195-16"
 californiavolunteers.ca.gov,https://www.californiavolunteers.ca.gov/,200,,California Volunteers | California Volunteers,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-T935JFYNE2,G-Y7T2KCM7P1,GTM-P2BGJP8,UA-23110710-36,UA-3419582-2,UA-3419582-47"
 caljobs.ca.gov,https://www.caljobs.ca.gov/vosnet/default.aspx,200,,,,,,,,,,,
-caloes.ca.gov,https://webservices.caloes.ca.gov/,,,,,,,,,,,"Fetch error: fetch failed Connect Timeout Error (attempted address: webservices.caloes.ca.gov:443, timeout: 15000ms)",
 caloes.ca.gov,https://www.caloes.ca.gov/,200,,California Governor's Office of Emergency Services...,CAWeb v.1.13.0,,,,X,X,X,,"G-69TD0KNT0F,G-MDLYGZX10N,GTM-5JTZCJC,UA-3419582-2,UA-54732306-2"
 caloes.ca.gov,https://www.news.caloes.ca.gov/,200,,Cal OES News | NEWSROOM | Multimedia | California ...,CAWeb v.1.13.0,,,,X,X,X,,"G-69TD0KNT0F,GTM-PDD4LL4,UA-3419582-2"
 caloes.ca.gov,https://www.wildfirerecovery.caloes.ca.gov/,200,,California Statewide Wildfire Recovery Resources |,CAWeb v.1.13.0,,,,X,X,X,,"G-69TD0KNT0F,G-TS7HJEYWFP,UA-3419582-2"
@@ -92,7 +91,7 @@ cchcs.ca.gov,https://cchcs.ca.gov/,200,,CCHCS - California Correctional Health C
 ccoa.ca.gov,https://tacc.ccoa.ca.gov/,200,,Home Page | Triple-A Council of California - State...,,,,,X,X,X,,"UA-20973992-12,UA-21431721-20,UA-3419582-2"
 ccoa.ca.gov,https://www.ccoa.ca.gov/,200,,California Commission on Aging - State of Californ...,,,,,X,X,X,,"G-69TD0KNT0F,G-M8T749HDDC,UA-21431721-20"
 ccusl.ca.gov,https://ccusl.ca.gov/,200,,Welcome to the California Commission on Uniform St...,,,cloudflare,,,,X,,
-cdcr.ca.gov,https://pass.cdcr.ca.gov/Home/ChooseApplication,200,,Choose Application - CDCR Peace Officer Applicatio...,,ASP.NET,Microsoft-IIS/10.0,,,,X,Fetch error: fetch failed read ECONNRESET,GTM-WWJWHL4
+cdcr.ca.gov,https://pass.cdcr.ca.gov/Home/ChooseApplication,200,,Choose Application - CDCR Peace Officer Applicatio...,,ASP.NET,Microsoft-IIS/10.0,,,,X,Fetch error: fetch failed write EPIPE,GTM-WWJWHL4
 cdcr.ca.gov,https://www.cdcr.ca.gov/,200,,California Department of Corrections and Rehabilit...,,,nginx,,,,,,GTM-WWJWHL4
 cde.ca.gov,https://cnips.cde.ca.gov/Splash.aspx,200,https://validate.perfdrive.com/?ssa=5d37affb-b670-...,Child Nutrition Information and Payment System,,,,,,,X,,
 cde.ca.gov,https://www.cde.ca.gov/,200,,California Department of Education,,,,,X,,X,,G-FXBTGX69YQ
@@ -209,7 +208,6 @@ dhcs.ca.gov,https://www.dental.dhcs.ca.gov/,200,,Welcome to the Medi-Cal Dental 
 dhcs.ca.gov,https://www.dhcs.ca.gov/,200,,,,,,,,,,,
 dir.ca.gov,https://www.dir.ca.gov/,200,,California Department of Industrial Relations - Ho...,,ASP.NET,Microsoft-IIS/10.0,,X,X,X,,"G-69TD0KNT0F,G-75V2BNQ3DR,G-9C30LB4KFJ,UA-3419582-2,UA-3419582-30,UA-5092920-1"
 dmac.ca.gov,https://www.dmac.ca.gov/,200,,Disaster Management Area C,,,Apache,,,,X,"Fetch error: fetch failed Connect Timeout Error (attempted address: www.dmac.ca.gov:443, timeout: 15000ms)",
-dmhc.ca.gov,https://wpso.dmhc.ca.gov/,,,,,,,,,,,,
 dmhc.ca.gov,https://www.dmhc.ca.gov/,200,,California Department of Managed Health Care,,,,,X,X,X,,"G-69TD0KNT0F,G-ZGVNWLCQD3"
 dmv.ca.gov,https://www.dmv.ca.gov/portal/,200,,California DMV,,,volt-adc,,,,,,GTM-KHCVGH4
 dof.ca.gov,https://dof.ca.gov/,200,,California Department of Finance,,,volt-adc,,X,X,,,"G-2LNG7V2TGM,GTM-NJ6Q4MV"
@@ -245,6 +243,7 @@ dtsc.ca.gov,https://tqr.dtsc.ca.gov/,200,,Transporter Quarterly Report,,ASP.NET,
 dublin.ca.gov,https://www.dublin.ca.gov/,200,,"Dublin, CA - Official Website | Official Website",,,,,,,X,,"G-6REM15SLX9,G-J43R5LMW0E,GTM-K73C5PS"
 eaap.ca.gov,https://eaap.ca.gov/,200,,Education Audit Appeals Panel |,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-V284CPG2YF,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
 earthquake.ca.gov,https://www.earthquake.ca.gov/,200,,California Earthquake Early Warning – California E...,CAWeb v.1.13.0,,,,X,X,X,,"G-4NK0NC7W6K,G-69TD0KNT0F,UA-3419582-2"
+ebt.ca.gov,https://www.ebt.ca.gov/cardholder/,200,,CardHolder Portal,,,,,,,,,
 ebtproject.ca.gov,https://www.ebtproject.ca.gov/,200,,EBT Project,,ASP.NET,Microsoft-IIS/10.0,,,X,X,,
 ebudget.ca.gov,https://ebudget.ca.gov/,200,,California Budget,,,volt-adc,,,,X,,G-4W7GTR6KWV
 ecos.ca.gov,https://ecos.ca.gov/Login.aspx,200,,Exam and Cert Online System - Admin,,ASP.NET,,,,,X,,
@@ -345,7 +344,6 @@ morganhill.ca.gov,https://www.morganhill.ca.gov/,200,,"City of Morgan Hill, CA -
 mrca.ca.gov,https://mrca.ca.gov/,200,,MRCA,WordPress 6.9.4,,Apache,,X,,X,,UA-1633733-24
 mrcapublicsafety.ca.gov,http://www.mrcapublicsafety.ca.gov/,200,,MRCA Public Safety,,ASP.NET,Microsoft-IIS/6.0,,,,,,
 mtc.ca.gov,https://mtc.ca.gov/,200,,Metropolitan Transportation Commission | MTC is th...,Drupal 11 (https://www.drupal.org),,nginx,,,,X,,"G-875ZLGCEXJ,G-JA30TM2_8L,GTM-55J6L25"
-myturn.ca.gov,https://myturn.ca.gov/,200,,,,,volt-adc,,,,,,"G-RJPGSHNVCG,GTM-5THG92K,GTM-WC8N8KN"
 mywaterquality.ca.gov,https://www.mywaterquality.ca.gov/,200,,Home | MyWaterQuality,,,Apache,,,X,X,,G-V9VPD8TNV4
 nahc.ca.gov,https://nahc.ca.gov/,200,,California Native American Heritage Commission,Site Kit by Google 1.176.0,,nginx,,X,X,X,,"UA-3419582-2,UA-59627195-7"
 naturopathic.ca.gov,https://www.naturopathic.ca.gov/,200,,Department of Consumer Affairs - California Board ...,,,,,,X,X,,"G-3CN4M8F95X,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-13"
@@ -398,7 +396,6 @@ post.ca.gov,https://post.ca.gov/,200,,Home,,,,,,,X,,G-K1FLBGKCQ9
 privacy.ca.gov,https://privacy.ca.gov/,200,,privacy.ca.gov - A website brought to you by the C...,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-CS4089W2ZV,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
 psychology.ca.gov,https://www.psychology.ca.gov/,200,,California Board of Psychology,,,,,,,X,,"G-69TD0KNT0F,G-G17MN7HXHK,UA-64276560-22"
 ptbc.ca.gov,https://www.ptbc.ca.gov/,200,,Physical Therapy Board of California,,,,,,X,X,,"G-69TD0KNT0F,G-V6KF16YJFK,GTM-M683DJB,GTM-NBQCVZC,UA-21974567-31,UA-3419582-2"
-publicpay.ca.gov,https://www.publicpay.ca.gov/,200,,GCC,,ASP.NET,cloudflare,,,,X,Cloudflare challenge detected,GTM-KX7MF5M
 qfd.ca.gov,https://qfd.ca.gov/,200,,Homepage Quincy Fire Protection District,,,nginx,,,,,,
 rbra.ca.gov,https://www.rbra.ca.gov/,200,,Homepage Richardson Bay Regional Agency,,,nginx,,,,,,
 rcb.ca.gov,https://www.rcb.ca.gov/,200,,Respiratory Care Board of California,,,,,,X,X,,"G-05Q6QKZSH6,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-24"
