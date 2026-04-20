@@ -95,5 +95,6 @@ export default [
   "x-kinsta-cache",
   "granicusserver",
   "x-nitro-rev",
-  "x-fd-int-roxy-purgeid"
+  "x-fd-int-roxy-purgeid",
+  "x-sucuri-id"
 ];

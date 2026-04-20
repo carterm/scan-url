@@ -12,7 +12,7 @@
     "connection": "keep-alive",
     "content-type": "text/html",
     "server": "Sucuri/Cloudproxy",
-    "x-sucuri-id": "11012"
+    "x-sucuri-id": "12012"
   },
   "cloudflare": false,
   "slow": false,
@@ -25,5 +25,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

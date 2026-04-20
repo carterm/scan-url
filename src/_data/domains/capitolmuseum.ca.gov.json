@@ -19,7 +19,7 @@
     "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,
-  "slow": false,
+  "slow": true,
   "hasStatewideAlerts": false,
   "usesStateTemplate": true,
   "hasJQuery": true,
@@ -35,5 +35,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }
