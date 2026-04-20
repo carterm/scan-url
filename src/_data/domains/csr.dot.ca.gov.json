@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "csr.dot.ca.gov",
   "targetURL": "https://csr.dot.ca.gov/",
   "www": false,
@@ -28,5 +29,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": true,
+  "goodScan": true
 }

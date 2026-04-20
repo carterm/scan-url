@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "ccusl.ca.gov",
   "targetURL": "https://ccusl.ca.gov/",
   "www": false,

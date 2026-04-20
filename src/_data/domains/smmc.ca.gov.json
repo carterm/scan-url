@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "smmc.ca.gov",
   "targetURL": "https://smmc.ca.gov/",
   "www": false,
@@ -30,5 +31,6 @@
   "nocache": true,
   "DOMErrors": [
     "Could not parse CSS stylesheet"
-  ]
+  ],
+  "goodScan": true
 }

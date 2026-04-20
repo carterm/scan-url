@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "tulare.ca.gov",
   "targetURL": "https://www.tulare.ca.gov/",
   "www": true,

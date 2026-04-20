@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "danville.ca.gov",
   "targetURL": "https://www.danville.ca.gov/",
   "www": true,

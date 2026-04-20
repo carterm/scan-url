@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "calsilc.ca.gov",
   "targetURL": "https://calsilc.ca.gov/",
   "www": false,

@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "caljobs.ca.gov",
   "targetURL": "https://www.caljobs.ca.gov/vosnet/default.aspx",
   "www": true,
@@ -22,5 +23,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": true,
+  "goodScan": true
 }

@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "www2.courtinfo.ca.gov",
   "targetURL": "https://www2.courtinfo.ca.gov/ccn/",
   "www": false,
@@ -25,5 +26,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

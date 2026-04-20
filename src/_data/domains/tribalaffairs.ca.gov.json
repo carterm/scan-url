@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "tribalaffairs.ca.gov",
   "targetURL": "https://tribalaffairs.ca.gov/",
   "www": false,

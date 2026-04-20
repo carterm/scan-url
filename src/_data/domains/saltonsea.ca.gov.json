@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "saltonsea.ca.gov",
   "targetURL": "https://saltonsea.ca.gov/",
   "www": false,

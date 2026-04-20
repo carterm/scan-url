@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "ccoa.ca.gov",
   "targetURL": "https://www.ccoa.ca.gov/",
   "www": true,

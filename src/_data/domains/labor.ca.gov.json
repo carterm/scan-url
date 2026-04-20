@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "labor.ca.gov",
   "targetURL": "https://www.labor.ca.gov/",
   "www": true,

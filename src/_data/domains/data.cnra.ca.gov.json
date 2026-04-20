@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "data.cnra.ca.gov",
   "targetURL": "https://data.cnra.ca.gov/",
   "www": false,

@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "energy.ca.gov",
   "targetURL": "https://www.energy.ca.gov/",
   "www": true,

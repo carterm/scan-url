@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "penrynfire.ca.gov",
   "targetURL": "https://penrynfire.ca.gov/",
   "www": false,

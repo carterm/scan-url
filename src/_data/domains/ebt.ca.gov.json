@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "ebt.ca.gov",
   "targetURL": "https://www.ebt.ca.gov/cardholder/",
   "www": true,

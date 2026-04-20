@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "scdd.ca.gov",
   "targetURL": "https://scdd.ca.gov/",
   "www": false,

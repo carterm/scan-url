@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "caclimateinvestments.ca.gov",
   "targetURL": "https://www.caclimateinvestments.ca.gov/",
   "www": true,

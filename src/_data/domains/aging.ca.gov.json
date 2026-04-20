@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "aging.ca.gov",
   "targetURL": "https://www.aging.ca.gov/",
   "www": true,

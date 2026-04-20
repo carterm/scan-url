@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "fosteryouthhelp.ca.gov",
   "targetURL": "https://fosteryouthhelp.ca.gov/",
   "www": false,

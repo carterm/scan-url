@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "holtville.ca.gov",
   "targetURL": "https://www.holtville.ca.gov/",
   "www": true,

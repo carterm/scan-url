@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "askedd.edd.ca.gov",
   "targetURL": "https://askedd.edd.ca.gov/s/",
   "www": false,
@@ -31,5 +32,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": true,
+  "goodScan": true
 }

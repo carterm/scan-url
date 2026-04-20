@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "ojai.ca.gov",
   "targetURL": "https://www.ojai.ca.gov/",
   "www": true,

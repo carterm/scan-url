@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "heliplates.dot.ca.gov",
   "targetURL": "https://heliplates.dot.ca.gov/",
   "www": false,
@@ -24,5 +25,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "bcdc.ca.gov",
   "targetURL": "https://www.bcdc.ca.gov/",
   "www": true,

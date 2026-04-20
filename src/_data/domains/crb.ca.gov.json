@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "crb.ca.gov",
   "targetURL": "https://crb.ca.gov/",
   "www": false,

@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "cleancalifornia.dot.ca.gov",
   "targetURL": "https://cleancalifornia.dot.ca.gov/",
   "www": false,

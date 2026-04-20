@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "delta.ca.gov",
   "targetURL": "https://delta.ca.gov/",
   "www": false,

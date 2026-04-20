@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "militarycouncil.ca.gov",
   "targetURL": "https://militarycouncil.ca.gov/",
   "www": false,

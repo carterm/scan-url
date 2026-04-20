@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "mlfd.ca.gov",
   "targetURL": "https://mlfd.ca.gov/",
   "www": false,

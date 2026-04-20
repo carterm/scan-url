@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "dcs-cde.ca.gov",
   "targetURL": "https://www.dcs-cde.ca.gov/",
   "www": true,
@@ -25,5 +26,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

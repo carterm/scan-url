@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "futureofwork.cnra.ca.gov",
   "targetURL": "https://futureofwork.cnra.ca.gov/",
   "www": false,

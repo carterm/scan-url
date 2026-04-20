@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "dbc.ca.gov",
   "targetURL": "https://www.dbc.ca.gov/",
   "www": true,

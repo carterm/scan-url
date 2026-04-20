@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "leginfo.legislature.ca.gov",
   "targetURL": "https://leginfo.legislature.ca.gov/",
   "www": false,

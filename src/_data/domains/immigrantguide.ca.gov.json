@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "immigrantguide.ca.gov",
   "targetURL": "https://www.immigrantguide.ca.gov/",
   "www": true,

@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "news.caloes.ca.gov",
   "targetURL": "https://www.news.caloes.ca.gov/",
   "www": true,

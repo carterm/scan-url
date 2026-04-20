@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "sunnyvale.ca.gov",
   "targetURL": "https://www.sunnyvale.ca.gov/",
   "www": true,

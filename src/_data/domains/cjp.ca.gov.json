@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "cjp.ca.gov",
   "targetURL": "https://cjp.ca.gov/",
   "www": false,

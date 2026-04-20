@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "sbac.ca.gov",
   "targetURL": "https://www.sbac.ca.gov/",
   "www": true,

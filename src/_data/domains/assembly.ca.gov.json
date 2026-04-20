@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "assembly.ca.gov",
   "targetURL": "https://www.assembly.ca.gov/",
   "www": true,
@@ -42,5 +43,6 @@
   "nocache": false,
   "DOMErrors": [
     "Could not parse CSS stylesheet"
-  ]
+  ],
+  "goodScan": true
 }

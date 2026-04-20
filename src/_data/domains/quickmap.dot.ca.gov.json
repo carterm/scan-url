@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "quickmap.dot.ca.gov",
   "targetURL": "https://quickmap.dot.ca.gov/",
   "www": false,

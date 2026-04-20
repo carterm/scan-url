@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "osfm.fire.ca.gov",
   "targetURL": "https://osfm.fire.ca.gov/",
   "www": false,

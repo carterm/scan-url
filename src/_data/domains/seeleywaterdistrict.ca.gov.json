@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "seeleywaterdistrict.ca.gov",
   "targetURL": "https://seeleywaterdistrict.ca.gov/",
   "www": false,

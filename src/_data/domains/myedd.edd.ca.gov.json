@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "myedd.edd.ca.gov",
   "targetURL": "https://myedd.edd.ca.gov/s/login/?language=en_US",
   "www": false,

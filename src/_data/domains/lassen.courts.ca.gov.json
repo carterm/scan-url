@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "lassen.courts.ca.gov",
   "targetURL": "https://www.lassen.courts.ca.gov/",
   "www": true,

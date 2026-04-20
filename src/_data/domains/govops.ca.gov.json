@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "govops.ca.gov",
   "targetURL": "https://www.govops.ca.gov/",
   "www": true,

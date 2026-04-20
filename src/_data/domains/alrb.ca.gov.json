@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "alrb.ca.gov",
   "targetURL": "https://www.alrb.ca.gov/",
   "www": true,

@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "childsupport.ca.gov",
   "targetURL": "https://childsupport.ca.gov/",
   "www": false,

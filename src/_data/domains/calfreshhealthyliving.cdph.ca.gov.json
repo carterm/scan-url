@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "calfreshhealthyliving.cdph.ca.gov",
   "targetURL": "https://calfreshhealthyliving.cdph.ca.gov/en/Pages/default.aspx",
   "www": false,

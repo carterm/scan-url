@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "bawa.ca.gov",
   "targetURL": "https://bawa.ca.gov/",
   "www": false,

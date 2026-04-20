@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "bopc.ca.gov",
   "targetURL": "https://bopc.ca.gov/",
   "www": false,

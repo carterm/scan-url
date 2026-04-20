@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "reducetherisk.ca.gov",
   "targetURL": "https://www.reducetherisk.ca.gov/",
   "www": true,

@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "recycledelnorte.ca.gov",
   "targetURL": "https://recycledelnorte.ca.gov/",
   "www": false,

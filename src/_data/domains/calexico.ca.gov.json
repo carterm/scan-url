@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "calexico.ca.gov",
   "targetURL": "https://www.calexico.ca.gov/",
   "www": true,

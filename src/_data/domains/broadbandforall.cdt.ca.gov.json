@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "broadbandforall.cdt.ca.gov",
   "targetURL": "https://broadbandforall.cdt.ca.gov/",
   "www": false,

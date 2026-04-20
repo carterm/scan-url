@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "privacy.ca.gov",
   "targetURL": "https://privacy.ca.gov/",
   "www": false,

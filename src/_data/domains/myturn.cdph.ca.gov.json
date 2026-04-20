@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "myturn.cdph.ca.gov",
   "targetURL": "https://myturn.cdph.ca.gov/",
   "www": false,

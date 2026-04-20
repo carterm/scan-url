@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "wildlife.ca.gov",
   "targetURL": "https://wildlife.ca.gov/",
   "www": false,

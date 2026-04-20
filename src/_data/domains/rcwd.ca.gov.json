@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "rcwd.ca.gov",
   "targetURL": "https://rcwd.ca.gov/",
   "www": false,

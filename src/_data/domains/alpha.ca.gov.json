@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "alpha.ca.gov",
   "targetURL": "https://www.alpha.ca.gov/",
   "www": true,

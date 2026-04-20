@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "spot.cdph.ca.gov",
   "targetURL": "https://spot.cdph.ca.gov/s/?language=en_US",
   "www": false,
@@ -27,5 +28,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": true,
+  "goodScan": true
 }

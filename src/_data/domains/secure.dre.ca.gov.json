@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "secure.dre.ca.gov",
   "targetURL": "https://secure.dre.ca.gov/",
   "www": false,
@@ -27,5 +28,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": true,
+  "goodScan": true
 }

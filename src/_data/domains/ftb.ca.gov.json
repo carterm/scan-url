@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "ftb.ca.gov",
   "targetURL": "https://www.ftb.ca.gov/",
   "www": true,

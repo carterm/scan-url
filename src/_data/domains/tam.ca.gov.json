@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "tam.ca.gov",
   "targetURL": "https://www.tam.ca.gov/",
   "www": true,

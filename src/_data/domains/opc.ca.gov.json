@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "opc.ca.gov",
   "targetURL": "https://www.opc.ca.gov/",
   "www": true,

@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "fiscal.ca.gov",
   "targetURL": "https://fiscal.ca.gov/",
   "www": false,

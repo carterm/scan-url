@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "prod.sites.ca.gov",
   "targetURL": "https://prod.sites.ca.gov/",
   "www": false,

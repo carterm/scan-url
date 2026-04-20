@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "caweb.cdt.ca.gov",
   "targetURL": "https://caweb.cdt.ca.gov/",
   "www": false,

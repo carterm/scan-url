@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "hcd.ca.gov",
   "targetURL": "https://www.hcd.ca.gov/",
   "www": true,

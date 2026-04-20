@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "montezumafiredistrictsolano.ca.gov",
   "targetURL": "https://www.montezumafiredistrictsolano.ca.gov/",
   "www": true,

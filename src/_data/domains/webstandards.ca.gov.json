@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "webstandards.ca.gov",
   "targetURL": "https://webstandards.ca.gov/",
   "www": false,

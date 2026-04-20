@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "iep.ca.gov",
   "targetURL": "https://iep.ca.gov/",
   "www": false,

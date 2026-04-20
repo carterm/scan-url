@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "loomis.ca.gov",
   "targetURL": "https://loomis.ca.gov/",
   "www": false,

@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "escog.ca.gov",
   "targetURL": "https://escog.ca.gov/",
   "www": false,

@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "geosteam.conservation.ca.gov",
   "targetURL": "https://geosteam.conservation.ca.gov/",
   "www": false,

@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "cvmc.ca.gov",
   "targetURL": "https://cvmc.ca.gov/",
   "www": false,

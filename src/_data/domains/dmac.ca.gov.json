@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "dmac.ca.gov",
   "targetURL": "https://www.dmac.ca.gov/",
   "www": true,

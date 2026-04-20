@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "rmc.ca.gov",
   "targetURL": "https://rmc.ca.gov/",
   "www": false,

@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "cloud.calhfa.ca.gov",
   "targetURL": "https://cloud.calhfa.ca.gov/",
   "www": false,

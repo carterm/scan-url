@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "oal.ca.gov",
   "targetURL": "https://oal.ca.gov/",
   "www": false,

@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "careereducation.gov.ca.gov",
   "targetURL": "https://careereducation.gov.ca.gov/",
   "www": false,

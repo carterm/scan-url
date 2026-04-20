@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "publicadvocates.cpuc.ca.gov",
   "targetURL": "https://www.publicadvocates.cpuc.ca.gov/",
   "www": true,
@@ -35,5 +36,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": true,
+  "goodScan": true
 }

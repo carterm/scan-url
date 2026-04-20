@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "legislativecounsel.ca.gov",
   "targetURL": "https://legislativecounsel.ca.gov/",
   "www": false,

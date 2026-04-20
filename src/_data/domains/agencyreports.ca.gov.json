@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "agencyreports.ca.gov",
   "targetURL": "https://agencyreports.ca.gov/",
   "www": false,

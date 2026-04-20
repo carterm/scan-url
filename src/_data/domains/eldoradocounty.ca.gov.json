@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "eldoradocounty.ca.gov",
   "targetURL": "https://www.eldoradocounty.ca.gov/Home",
   "www": true,

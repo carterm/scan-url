@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "chhs.ca.gov",
   "targetURL": "https://www.chhs.ca.gov/",
   "www": true,

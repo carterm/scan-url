@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "butte.courts.ca.gov",
   "targetURL": "https://www.butte.courts.ca.gov/",
   "www": true,

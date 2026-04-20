@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "reedley.ca.gov",
   "targetURL": "https://reedley.ca.gov/",
   "www": false,

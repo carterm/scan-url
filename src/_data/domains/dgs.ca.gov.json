@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "dgs.ca.gov",
   "targetURL": "https://www.dgs.ca.gov/",
   "www": true,

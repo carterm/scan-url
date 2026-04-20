@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "healthexchange.ca.gov",
   "targetURL": "https://healthexchange.ca.gov/",
   "www": false,

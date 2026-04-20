@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "mdaqmd.ca.gov",
   "targetURL": "https://www.mdaqmd.ca.gov/",
   "www": true,

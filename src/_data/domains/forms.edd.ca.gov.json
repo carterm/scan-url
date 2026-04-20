@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "forms.edd.ca.gov",
   "targetURL": "https://forms.edd.ca.gov/Forms",
   "www": false,

@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "cwds.ca.gov",
   "targetURL": "https://cwds.ca.gov/",
   "www": false,

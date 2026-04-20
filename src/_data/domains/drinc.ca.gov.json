@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "drinc.ca.gov",
   "targetURL": "https://www.drinc.ca.gov/",
   "www": true,

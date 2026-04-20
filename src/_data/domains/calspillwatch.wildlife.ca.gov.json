@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "calspillwatch.wildlife.ca.gov",
   "targetURL": "https://calspillwatch.wildlife.ca.gov/",
   "www": false,
@@ -35,5 +36,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": true
+  "nocache": true,
+  "goodScan": true
 }

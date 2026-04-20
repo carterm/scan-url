@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "tcpw.ca.gov",
   "targetURL": "https://tcpw.ca.gov/",
   "www": false,

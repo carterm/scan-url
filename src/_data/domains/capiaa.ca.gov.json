@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "capiaa.ca.gov",
   "targetURL": "https://capiaa.ca.gov/",
   "www": false,

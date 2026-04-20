@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "earthquake.ca.gov",
   "targetURL": "https://www.earthquake.ca.gov/",
   "www": true,

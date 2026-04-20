@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "onlineservices.cdtfa.ca.gov",
   "targetURL": "https://onlineservices.cdtfa.ca.gov/",
   "www": false,
@@ -19,5 +20,6 @@
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": "Fetch error: fetch failed redirect count exceeded",
-  "notes": null
+  "notes": null,
+  "goodScan": false
 }

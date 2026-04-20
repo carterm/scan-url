@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "parentage.dcss.ca.gov",
   "targetURL": "https://parentage.dcss.ca.gov/",
   "www": false,

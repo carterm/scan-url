@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "women.ca.gov",
   "targetURL": "https://women.ca.gov/",
   "www": false,

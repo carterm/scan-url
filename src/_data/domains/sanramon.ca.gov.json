@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "sanramon.ca.gov",
   "targetURL": "https://www.sanramon.ca.gov/",
   "www": true,

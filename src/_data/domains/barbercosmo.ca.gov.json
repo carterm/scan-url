@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "barbercosmo.ca.gov",
   "targetURL": "https://www.barbercosmo.ca.gov/",
   "www": true,
@@ -41,5 +42,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

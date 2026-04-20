@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "leginfo.ca.gov",
   "targetURL": "https://www.leginfo.ca.gov/",
   "www": true,

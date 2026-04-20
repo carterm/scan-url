@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "unionsanitary.ca.gov",
   "targetURL": "https://unionsanitary.ca.gov/",
   "www": false,

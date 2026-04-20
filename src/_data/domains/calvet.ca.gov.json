@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "calvet.ca.gov",
   "targetURL": "https://www.calvet.ca.gov/",
   "www": true,
@@ -19,5 +20,6 @@
   "linksToCaGov": false,
   "cosmeticTargetURL": null,
   "errorMessage": "Fetch error: fetch failed read ECONNRESET",
-  "notes": null
+  "notes": null,
+  "goodScan": false
 }

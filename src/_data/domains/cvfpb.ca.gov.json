@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "cvfpb.ca.gov",
   "targetURL": "https://cvfpb.ca.gov/",
   "www": false,

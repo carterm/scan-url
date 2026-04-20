@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "fairfield.ca.gov",
   "targetURL": "https://www.fairfield.ca.gov/",
   "www": true,

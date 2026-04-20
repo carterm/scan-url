@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "californiavolunteers.ca.gov",
   "targetURL": "https://www.californiavolunteers.ca.gov/",
   "www": true,

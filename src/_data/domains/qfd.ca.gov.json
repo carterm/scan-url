@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "qfd.ca.gov",
   "targetURL": "https://qfd.ca.gov/",
   "www": false,

@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "liob.cpuc.ca.gov",
   "targetURL": "https://liob.cpuc.ca.gov/",
   "www": false,

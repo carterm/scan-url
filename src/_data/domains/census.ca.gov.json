@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "census.ca.gov",
   "targetURL": "https://census.ca.gov/",
   "www": false,

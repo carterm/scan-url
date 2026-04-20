@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "uma.technology.ca.gov",
   "targetURL": "https://uma.technology.ca.gov/Account/Login",
   "www": false,
@@ -30,5 +31,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }

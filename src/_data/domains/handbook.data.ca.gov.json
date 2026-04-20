@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "handbook.data.ca.gov",
   "targetURL": "https://handbook.data.ca.gov/",
   "www": false,

@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "tahoe.ca.gov",
   "targetURL": "https://tahoe.ca.gov/",
   "www": false,

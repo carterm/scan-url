@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "domainnamerequest.cdt.ca.gov",
   "targetURL": "https://www.domainnamerequest.cdt.ca.gov/",
   "www": true,
@@ -29,5 +30,6 @@
   "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
-  "nocache": false
+  "nocache": false,
+  "goodScan": true
 }
