@@ -68,7 +68,7 @@ function booleanToYesNo(value) {
   resultData.unshift(headerRow);
 
   resultData[0].domain = new Set(
-    resultData.slice(1).map(row => row.domain)
+    resultData.slice(2).map(row => row.domain)
   ).size.toString();
 
   const csv = converter.json2csv(resultData);
