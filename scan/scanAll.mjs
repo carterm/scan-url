@@ -19,12 +19,14 @@ async function scanAll() {
       }
 
       let scan = await fetchAndAnalyze(record);
-      // Ensure $schema is the first property in the scan object
+
+      /* Code to add one new thing
       scan = {
         //@ts-ignore
         $schema: "./../../schemas/domain-scan.schema.json",
         ...scan
       };
+      */
 
       if (JSON.stringify(record) !== JSON.stringify(scan)) {
         scan.goodScan = !scan.errorMessage;
