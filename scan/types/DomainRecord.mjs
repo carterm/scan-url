@@ -63,6 +63,10 @@
  *  Any DOM parsing errors captured during analysis.
  * @property {boolean} nocache
  *  Whether the page included cache-busting headers.
+ * @property {boolean} [manualEntry]
+ *  Whether the record was updated manually.
+ * @property {boolean} [authenticationRequired]
+ *  Whether the page requires authentication to access, and can't be scanned.
  */
 
 /**
