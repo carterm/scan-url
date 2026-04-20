@@ -1,0 +1,124 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+
+  "title": "CA.gov Domain Scan Record",
+  "type": "object",
+  "additionalProperties": false,
+
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "const": "./../../schemas/domain-scan.schema.json",
+      "description": "Path to the JSON schema for editor validation."
+    },
+
+    "domain": {
+      "type": "string",
+      "pattern": "^[a-z0-9.-]+\\.ca\\.gov$",
+      "description": "Primary domain being scanned."
+    },
+
+    "targetURL": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL used as the preferred scan target."
+    },
+
+    "www": { "type": "boolean" },
+    "active": { "type": "boolean" },
+    "includeInScan": { "type": "boolean" },
+
+    "title": {
+      "type": "string",
+      "nullable": true,
+      "description": "HTML <title> extracted from the page."
+    },
+
+    "lastStatus": {
+      "type": "integer",
+      "minimum": 100,
+      "maximum": 599,
+      "description": "HTTP status code returned by the scan."
+    },
+
+    "finalUrl": {
+      "type": "string",
+      "format": "uri",
+      "nullable": true,
+      "description": "Final resolved URL after redirects."
+    },
+
+    "metaGenerator": {
+      "type": "string",
+      "nullable": true,
+      "description": "Value of <meta name='generator'> if present."
+    },
+
+    "responseHeaders": {
+      "type": "object",
+      "additionalProperties": { "type": "string" },
+      "description": "All captured response headers as key/value strings."
+    },
+
+    "cloudflare": { "type": "boolean" },
+    "slow": { "type": "boolean" },
+    "hasStatewideAlerts": { "type": "boolean" },
+    "usesStateTemplate": { "type": "boolean" },
+    "hasJQuery": { "type": "boolean" },
+
+    "googleAnalytics": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "GA4 or GTM IDs detected on the page."
+    },
+
+    "socialLinks": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uri"
+      }
+    },
+
+    "linksToCaGov": { "type": "boolean" },
+
+    "cosmeticTargetURL": {
+      "type": ["string", "null"],
+      "format": "uri",
+      "description": "If domain is cosmetic, this is the real target."
+    },
+
+    "errorMessage": {
+      "type": ["string", "null"],
+      "description": "Error message if scan failed."
+    },
+
+    "notes": {
+      "type": ["string", "null"],
+      "description": "Optional human notes."
+    },
+
+    "nocache": { "type": "boolean" },
+    "goodScan": { "type": "boolean" }
+  },
+
+  "required": [
+    "domain",
+    "targetURL",
+    "www",
+    "active",
+    "includeInScan",
+    "lastStatus",
+    "responseHeaders",
+    "cloudflare",
+    "slow",
+    "hasStatewideAlerts",
+    "usesStateTemplate",
+    "hasJQuery",
+    "googleAnalytics",
+    "socialLinks",
+    "linksToCaGov",
+    "nocache",
+    "goodScan"
+  ]
+}

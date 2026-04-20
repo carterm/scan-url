@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "abcab.ca.gov",
   "targetURL": "https://abcab.ca.gov/",
   "www": false,
