@@ -5,6 +5,9 @@
 /**
  * @typedef {Object} DomainRecord
  *
+ * @property {string} $schema
+ *  The URL of the JSON schema that this record adheres to. "./../../schemas/domain-scan.schema.json"
+ *
  * @property {string} domain
  *   The bare domain name (e.g., "dmv.ca.gov").
  *
@@ -75,6 +78,7 @@
  */
 export function createDomainRecord() {
   return {
+    $schema: "./../../schemas/domain-scan.schema.json",
     domain: "",
     targetURL: "",
     www: true,
