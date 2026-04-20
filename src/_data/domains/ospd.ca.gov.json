@@ -11,14 +11,14 @@
   "responseHeaders": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "permissions-policy": "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)",
+    "permissions-policy": "accelerometer=(self), autoplay=(self), camera=(self), encrypted-media=(self), fullscreen=(self), geolocation=(self), gyroscope=(self), magnetometer=(self), microphone=(self), midi=(self), payment=(self), usb=(self), geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)",
     "pragma": "public",
-    "referrer-policy": "strict-origin",
+    "referrer-policy": "strict-origin-when-cross-origin, strict-origin",
     "server": "nginx",
-    "x-content-type-options": "nosniff",
-    "x-frame-options": "SAMEORIGIN",
+    "x-content-type-options": "nosniff, nosniff",
+    "x-frame-options": "sameorigin, SAMEORIGIN",
     "x-powered-by": "PHP/8.3.29",
-    "x-xss-protection": "1; mode=block"
+    "x-xss-protection": "1, 1; mode=block"
   },
   "cloudflare": false,
   "slow": false,

@@ -31,7 +31,7 @@
   ],
   "linksToCaGov": true,
   "cosmeticTargetURL": null,
-  "errorMessage": "Fetch error: fetch failed read ECONNRESET",
+  "errorMessage": "Fetch error: fetch failed write EPIPE",
   "notes": null,
   "nocache": false,
   "goodScan": false
