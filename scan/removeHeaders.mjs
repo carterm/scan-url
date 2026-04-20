@@ -94,5 +94,6 @@ export default [
   "x-reference-error",
   "x-kinsta-cache",
   "granicusserver",
-  "x-nitro-rev"
+  "x-nitro-rev",
+  "x-fd-int-roxy-purgeid"
 ];
