@@ -15,7 +15,6 @@
     "server": "Sucuri/Cloudproxy",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
-    "x-sucuri-id": "12035",
     "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,

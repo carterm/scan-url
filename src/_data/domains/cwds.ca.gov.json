@@ -11,8 +11,7 @@
     "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
     "connection": "keep-alive",
     "content-type": "text/html",
-    "server": "Sucuri/Cloudproxy",
-    "x-sucuri-id": "12012"
+    "server": "Sucuri/Cloudproxy"
   },
   "cloudflare": false,
   "slow": false,
