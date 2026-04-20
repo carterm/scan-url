@@ -5,7 +5,7 @@
 
 import { fetch, Agent } from "undici";
 import { performance } from "node:perf_hooks";
-import { JSDOM, VirtualConsole, ResourceLoader } from "jsdom";
+import { JSDOM, VirtualConsole } from "jsdom";
 
 import removeHeaders from "./removeHeaders.mjs";
 
@@ -38,22 +38,6 @@ const insecureAgent = new Agent({
   bodyTimeout: fetchTimeout, // time allowed for the body to be received
   headersTimeout: fetchTimeout // time allowed for headers
 });
-
-class CustomResourceLoader extends ResourceLoader {
-  /**
-   *
-   * @param {string} url
-   * @param {import("jsdom").FetchOptions} options
-   */
-  fetch(url, options) {
-    if (options.referrer) {
-      // Ignore externals
-      // console.log(`skipping - ${url}`);
-      return null;
-    }
-    return super.fetch(url, options);
-  }
-}
 
 /**
  * @param {DomainRecord} original
@@ -148,7 +132,6 @@ export async function fetchAndAnalyze(original) {
   // Parse HTML
   const dom = new JSDOM(body, {
     url: res.url,
-    resources: new CustomResourceLoader(),
     virtualConsole
   });
 
@@ -214,7 +197,7 @@ export async function fetchAndAnalyze(original) {
     ])
   ].sort();
 
-  domainRecord.slow = duration >= 8;
+  //domainRecord.slow = duration >= 8;
 
   // Social links
   const SOCIAL_DOMAINS = [
