@@ -8,10 +8,7 @@ const items = loadAllDomainRecords();
 for (const item of items) {
   const record = item.record;
 
-  if (record.cosmeticTargetURL) {
-    record.finalUrl = record.cosmeticTargetURL;
-    delete record.cosmeticTargetURL;
+  delete record.cosmeticTargetURL;
 
-    saveRecord(item.filePath, record);
-  }
+  saveRecord(item.filePath, record);
 }

@@ -33,7 +33,6 @@
     "https://www.youtube.com/user/CIRMTV"
   ],
   "linksToCaGov": true,
-  "cosmeticTargetURL": null,
   "errorMessage": "Fetch error: fetch failed Headers Timeout Error",
   "notes": null,
   "nocache": false,

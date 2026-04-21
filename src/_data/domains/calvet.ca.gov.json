@@ -18,7 +18,6 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "cosmeticTargetURL": null,
   "errorMessage": "Fetch error: fetch failed read ECONNRESET",
   "notes": null,
   "goodScan": false

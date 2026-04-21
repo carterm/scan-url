@@ -28,10 +28,11 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": true,
-  "googleAnalytics": ["G-FE9WWP5YXX"],
+  "googleAnalytics": [
+    "G-FE9WWP5YXX"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
-  "cosmeticTargetURL": null,
   "errorMessage": null,
   "notes": null,
   "nocache": false,
