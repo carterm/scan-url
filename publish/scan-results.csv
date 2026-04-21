@@ -54,7 +54,7 @@ calcareers.ca.gov,https://calcareers.ca.gov/,200,,CalCareers,,ASP.NET,,,X,X,,,"G
 calcivilrights.ca.gov,https://calcivilrights.ca.gov/,200,,CRD | Civil Rights Department,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-DMYWEFRNDX,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
 calcompetes.ca.gov,https://www.calcompetes.ca.gov/Login.aspx,200,,Login,,ASP.NET,Microsoft-IIS/10.0,,,,X,,
 calctra.ca.gov,https://www.calctra.ca.gov/,200,,CALCTRA Website » Career Training | Quality Produc...,WordPress 6.9.4,,Microsoft-IIS/10.0,,,,X,,"G-KEC04T63TW,GTM-M833TJP"
-calepa.ca.gov,https://calepa.ca.gov/,403,,,,,,,,,,HTTP 403,
+calepa.ca.gov,https://calepa.ca.gov/,403,,,,,,,,,,Fetch error: fetch failed redirect count exceeded,
 calepa.ca.gov,https://cers.calepa.ca.gov/,403,,CERS | California Environmental Reporting System,,,,,,X,,HTTP 403,"G-69TD0KNT0F,G-VKFSF099FL"
 calepa.ca.gov,https://intranet.calepa.ca.gov/,200,,Intranet - CalEPA | Our internal website for emplo...,CAWeb v.1.12.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-DQ3VBC4CR1,UA-3419582-2"
 caleprocure.ca.gov,https://caleprocure.ca.gov/pages/index.aspx,200,,Cal eProcure,,,nginx,,,,X,,"GTM-WTBNSTN,UA-3419582-2"
@@ -385,7 +385,7 @@ pent.ca.gov,https://www.pent.ca.gov/,200,,"Positive Environments, Network of Tra
 perb.ca.gov,https://perb.ca.gov/,200,,Home - California Public Employment Relations Boar...,CAWeb v.1.13.2a,"PHP/8.2.29, PleskLin",nginx,,,X,X,,"G-69TD0KNT0F,G-R38HHXY4X2,UA-21970760-41,UA-3419582-2"
 pestboard.ca.gov,https://www.pestboard.ca.gov/,200,,Department of Consumer Affairs Structural Pest Con...,,,,,,X,X,,"G-13SQD8E90R,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-27"
 pharmacy.ca.gov,https://www.pharmacy.ca.gov/,200,,California State Board of Pharmacy,,,,,,X,X,,"G-69TD0KNT0F,G-QVJEFJJNBX,UA-3419582-2,UA-64276560-17"
-piedmont.ca.gov,https://www.piedmont.ca.gov/,403,,Just a moment...,,,cloudflare,,,,,Cloudflare challenge detected,"G-1770054987,G-1771009931,G-1776374467"
+piedmont.ca.gov,https://www.piedmont.ca.gov/,403,,Just a moment...,,,cloudflare,,,,,Cloudflare challenge detected,"G-1770054987,G-1771009931,G-1776374467,G-1776727720"
 pinyonpinescwd.ca.gov,https://www.pinyonpinescwd.ca.gov/,200,,Pinyon Pines County Water District,Serif WebPlus Starter Edition   (3.0.0.005),,Apache,,,,,,
 placer.ca.gov,https://www.placer.ca.gov/,200,,"Placer County, CA | Official Website",,,cloudflare,,,,X,,"G-5CJ5XHZRX6,GTM-K73C5PS,UA-1464228-1"
 pmbc.ca.gov,https://www.pmbc.ca.gov/,200,,Podiatric Medical Board of California,,,,,,X,X,,"G-69TD0KNT0F,G-RDB9KYCDHS,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-19"
