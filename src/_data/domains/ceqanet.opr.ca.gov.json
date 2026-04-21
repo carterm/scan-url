@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "ceqanet.opr.ca.gov",
   "targetURL": "https://ceqanet.opr.ca.gov/",
   "www": false,

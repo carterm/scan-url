@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "publicpay.ca.gov",
   "targetURL": "https://www.publicpay.ca.gov/",
   "www": true,

@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "cdlaconline.treasurer.ca.gov",
   "targetURL": "https://cdlaconline.treasurer.ca.gov/Account/Login.aspx",
   "www": false,

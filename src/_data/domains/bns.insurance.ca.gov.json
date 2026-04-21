@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "bns.insurance.ca.gov",
   "targetURL": "https://bns.insurance.ca.gov/",
   "www": false,

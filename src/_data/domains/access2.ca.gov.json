@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "access2.ca.gov",
   "targetURL": "https://access2.ca.gov/",
   "www": false,

@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "search-bppe.dca.ca.gov",
   "targetURL": "https://search-bppe.dca.ca.gov/",
   "www": false,

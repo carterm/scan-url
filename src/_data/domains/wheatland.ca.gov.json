@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "wheatland.ca.gov",
   "targetURL": "https://www.wheatland.ca.gov/",
   "www": true,

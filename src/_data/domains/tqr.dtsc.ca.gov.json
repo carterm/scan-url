@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "tqr.dtsc.ca.gov",
   "targetURL": "https://tqr.dtsc.ca.gov/",
   "www": false,

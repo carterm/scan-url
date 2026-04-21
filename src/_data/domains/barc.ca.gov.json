@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "barc.ca.gov",
   "targetURL": "https://barc.ca.gov/",
   "www": false,

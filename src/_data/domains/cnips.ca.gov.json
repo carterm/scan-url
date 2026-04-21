@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "cnips.ca.gov",
   "targetURL": "https://www.cnips.ca.gov/",
   "www": true,

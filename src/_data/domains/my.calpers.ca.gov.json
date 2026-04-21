@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "my.calpers.ca.gov",
   "targetURL": "https://my.calpers.ca.gov/",
   "www": false,

@@ -18,15 +18,7 @@ async function scanAll() {
         return;
       }
 
-      let scan = await fetchAndAnalyze(record);
-
-      /* Code to add one new thing
-      scan = {
-        //@ts-ignore
-        $schema: "./../../schemas/domain-scan.schema.json",
-        ...scan
-      };
-      */
+      const scan = await fetchAndAnalyze(record);
 
       if (JSON.stringify(record) !== JSON.stringify(scan)) {
         scan.goodScan = !scan.errorMessage;

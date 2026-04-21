@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "myturn.ca.gov",
   "targetURL": "https://myturn.ca.gov/",
   "www": false,

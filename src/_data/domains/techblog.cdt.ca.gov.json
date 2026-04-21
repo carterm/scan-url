@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "techblog.cdt.ca.gov",
   "targetURL": "https://techblog.cdt.ca.gov/",
   "www": false,

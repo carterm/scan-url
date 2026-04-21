@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "gcc.sco.ca.gov",
   "targetURL": "https://gcc.sco.ca.gov/",
   "www": false,

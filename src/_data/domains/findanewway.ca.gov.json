@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "findanewway.ca.gov",
   "targetURL": "https://findanewway.ca.gov/wp-login.php",
   "www": false,

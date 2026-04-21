@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "sonomacounty.ca.gov",
   "targetURL": "https://sonomacounty.ca.gov/",
   "www": false,

@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "cers.calepa.ca.gov",
   "targetURL": "https://cers.calepa.ca.gov/",
   "www": false,

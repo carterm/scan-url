@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "wdtip.ca.gov",
   "targetURL": "https://www.wdtip.ca.gov/",
   "www": true,

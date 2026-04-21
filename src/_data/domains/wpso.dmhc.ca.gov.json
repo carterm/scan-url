@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "wpso.dmhc.ca.gov",
   "targetURL": "https://wpso.dmhc.ca.gov/",
   "www": false,

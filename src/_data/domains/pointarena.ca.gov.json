@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "pointarena.ca.gov",
   "targetURL": "https://pointarena.ca.gov/",
   "www": false,

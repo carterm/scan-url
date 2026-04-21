@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "wcc.insurance.ca.gov",
   "targetURL": "https://wcc.insurance.ca.gov/",
   "www": false,

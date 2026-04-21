@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "intranet.calepa.ca.gov",
   "targetURL": "https://intranet.calepa.ca.gov/",
   "www": false,

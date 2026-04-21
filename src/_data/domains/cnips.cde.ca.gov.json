@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "cnips.cde.ca.gov",
   "targetURL": "https://cnips.cde.ca.gov/Splash.aspx",
   "www": false,

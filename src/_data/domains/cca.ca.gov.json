@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "cca.ca.gov",
   "targetURL": "https://cca.ca.gov/",
   "www": false,

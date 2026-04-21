@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "sanbag.ca.gov",
   "targetURL": "http://www.sanbag.ca.gov/",
   "www": true,

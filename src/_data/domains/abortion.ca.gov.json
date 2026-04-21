@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "abortion.ca.gov",
   "targetURL": "https://abortion.ca.gov/",
   "www": false,

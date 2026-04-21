@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "courtinfo.ca.gov",
   "targetURL": "https://www.courtinfo.ca.gov/",
   "www": true,

@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "tularecounty.ca.gov",
   "targetURL": "https://tularecounty.ca.gov/",
   "www": false,

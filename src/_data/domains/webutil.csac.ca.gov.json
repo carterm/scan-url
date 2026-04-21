@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "webutil.csac.ca.gov",
   "targetURL": "https://webutil.csac.ca.gov/",
   "www": false,

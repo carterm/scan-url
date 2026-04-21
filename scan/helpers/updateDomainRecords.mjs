@@ -6,10 +6,19 @@ const items = loadAllDomainRecords();
 
 // rebuild the JSON files with the new schema
 for (const item of items) {
-  const record = item.record;
+  let record = item.record;
 
+  /*
   if (record.finalUrl?.length === 0) {
     delete record.finalUrl;
     saveRecord(item.filePath, record);
   }
+*/
+
+  record = {
+    //@ts-ignore
+    $schema: "./../../schemas/domain-scan.schema.json",
+    ...record
+  };
+  saveRecord(item.filePath, record);
 }

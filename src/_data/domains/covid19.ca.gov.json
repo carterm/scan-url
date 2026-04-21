@@ -1,4 +1,5 @@
 {
+  "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "covid19.ca.gov",
   "targetURL": "https://covid19.ca.gov/",
   "www": false,
