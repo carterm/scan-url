@@ -30,7 +30,7 @@
  *   HTTP status code from the last scan.
  * @property {boolean} goodScan
  *   Whether the last scan was considered successful and shouldn't be overwritten by negative results.
- * @property {string | null} finalUrl
+ * @property {string} [finalUrl]
  *   The final resolved URL after redirects, or null if none occurred.
  * @property {boolean} [ignoreFinalUrl]
  *   Whether to ignore the final resolved URL after redirects.
@@ -54,7 +54,7 @@
  * @property {boolean} linksToCaGov
  *   Whether the page links back to https://ca.gov or https://www.ca.gov.
  *
- * @property {string | null} cosmeticTargetURL
+ * @property {string} [cosmeticTargetURL]
  *   If this domain is cosmetic, the URL it forwards to; otherwise null.
  *
  * @property {string | null} errorMessage
@@ -90,7 +90,6 @@ export function createDomainRecord() {
 
     title: "",
     lastStatus: null,
-    finalUrl: null,
 
     metaGenerator: null,
 

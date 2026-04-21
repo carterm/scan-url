@@ -6,7 +6,7 @@
   "includeInScan": false,
   "title": "",
   "lastStatus": 200,
-  "finalUrl": "",
+  "finalUrl": "https://myturn.cdph.ca.gov/",
   "responseHeaders": {
     "accept-ranges": "bytes",
     "content-md5": "HwKtZyQRPiWN/ewlpoC1WA==",
@@ -19,10 +19,13 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": ["G-RJPGSHNVCG", "GTM-5THG92K", "GTM-WC8N8KN"],
+  "googleAnalytics": [
+    "G-RJPGSHNVCG",
+    "GTM-5THG92K",
+    "GTM-WC8N8KN"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
-  "cosmeticTargetURL": "https://myturn.cdph.ca.gov/",
   "errorMessage": null,
   "notes": null,
   "nocache": false,

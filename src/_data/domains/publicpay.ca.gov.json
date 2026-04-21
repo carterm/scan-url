@@ -6,7 +6,7 @@
   "includeInScan": false,
   "title": "GCC",
   "lastStatus": 200,
-  "finalUrl": "",
+  "finalUrl": "https://gcc.sco.ca.gov/",
   "responseHeaders": {
     "connection": "keep-alive",
     "content-encoding": "gzip",
@@ -22,13 +22,14 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": true,
-  "googleAnalytics": ["GTM-KX7MF5M"],
+  "googleAnalytics": [
+    "GTM-KX7MF5M"
+  ],
   "socialLinks": [
     "https://www.facebook.com/CAController",
     "https://x.com/CAController"
   ],
   "linksToCaGov": false,
-  "cosmeticTargetURL": "https://gcc.sco.ca.gov/",
   "errorMessage": "Cloudflare challenge detected",
   "notes": null,
   "nocache": false,

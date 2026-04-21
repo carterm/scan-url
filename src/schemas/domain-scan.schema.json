@@ -82,12 +82,6 @@
 
     "linksToCaGov": { "type": "boolean" },
 
-    "cosmeticTargetURL": {
-      "type": ["string", "null"],
-      "format": "uri",
-      "description": "If domain is cosmetic, this is the real target."
-    },
-
     "errorMessage": {
       "type": ["string", "null"],
       "description": "Error message if scan failed."

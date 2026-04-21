@@ -20,6 +20,7 @@
     "rebuild_ingest_targets": "node scan/ingest/rebuildIngestTargets.mjs",
     "scan_all": "node scan/scanAll.mjs",
     "csv": "node scan/csv.mjs",
+    "update_domains": "node scan/helpers/updateDomainRecords.mjs",
     "GIT cleanup": "git clean -fd"
   },
   "private": true,
