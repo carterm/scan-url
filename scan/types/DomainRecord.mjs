@@ -104,8 +104,6 @@ export function createDomainRecord() {
 
     linksToCaGov: false,
 
-    cosmeticTargetURL: null,
-
     errorMessage: null,
     nocache: false,
 
