@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Department of Cannabis Control",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "access-control-allow-origin": "*",
     "content-disposition": "inline",

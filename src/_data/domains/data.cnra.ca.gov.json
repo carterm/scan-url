@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Welcome - California Natural Resources Agency Open Data",
   "lastStatus": 200,
-  "finalUrl": "",
   "metaGenerator": "ckan 2.9.11",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",

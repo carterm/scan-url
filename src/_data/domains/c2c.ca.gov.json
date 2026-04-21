@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "California Cradle-to-Career Data System | C2C",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
     "connection": "keep-alive",

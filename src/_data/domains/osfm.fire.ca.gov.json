@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Office of the State Fire Marshal | OSFM",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=93600",
     "connection": "keep-alive",

@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Find a Sales and Use Tax Rate",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "blazor-enhanced-nav": "allow",
     "content-encoding": "gzip",

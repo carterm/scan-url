@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Watershed Conservation Authority",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "access-control-request-method": "GET, POST, PUT, DELETE",
     "alt-svc": "h3=\":443\"; ma=86400",

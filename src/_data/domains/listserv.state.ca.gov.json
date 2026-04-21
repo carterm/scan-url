@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "LISTSERV - LISTSERV Archives - LISTSERV.STATE.CA.GOV",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "connection": "close",
     "content-encoding": "gzip",

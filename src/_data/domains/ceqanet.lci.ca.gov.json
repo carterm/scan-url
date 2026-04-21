@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "CEQAnet",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "access-control-allow-headers": "accept, authorization, Content-Type",
     "access-control-allow-methods": "GET, POST, OPTIONS, PUT, PATCH, DELETE",

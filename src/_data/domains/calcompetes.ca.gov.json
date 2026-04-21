@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Login",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "connection": "keep-alive",
     "content-type": "text/html; charset=utf-8",

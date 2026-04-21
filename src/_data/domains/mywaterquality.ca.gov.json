@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Home | MyWaterQuality",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "accept-ranges": "bytes",
     "connection": "Keep-Alive",

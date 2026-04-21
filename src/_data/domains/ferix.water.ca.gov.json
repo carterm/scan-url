@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "FERIX Home",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "connection": "Keep-Alive",
     "content-type": "text/html;charset=ISO-8859-1",

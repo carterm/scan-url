@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Franchise Tax Board Homepage | FTB.ca.gov",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "connection": "keep-alive",
     "content-encoding": "gzip",

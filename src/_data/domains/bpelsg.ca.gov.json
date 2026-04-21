@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Board for Professional Engineers, Land Surveyors, and Geologists",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "accept-ranges": "bytes",
     "access-control-allow-private-network": "true",

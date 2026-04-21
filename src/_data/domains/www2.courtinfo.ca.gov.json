@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "California Court News",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "accept-ranges": "bytes",
     "content-type": "text/html; charset=UTF-8",

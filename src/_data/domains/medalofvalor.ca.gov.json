@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Medal of Valor Awards - Home",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "content-type": "text/html; charset=utf-8",
     "server": "Microsoft-IIS/10.0",

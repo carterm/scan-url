@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "CA.GOV State Entity Profile - CA.GOV State Entity Profile",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "accept-ranges": "bytes",
     "access-control-allow-origin": "*",

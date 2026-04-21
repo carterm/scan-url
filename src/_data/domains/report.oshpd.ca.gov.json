@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Report Center - HCAI",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "access-control-allow-origin": "*",
     "connection": "keep-alive",

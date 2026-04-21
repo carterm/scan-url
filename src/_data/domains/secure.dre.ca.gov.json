@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Welcome to the California Department of Real Estate eLicensing System - DRE",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "content-type": "text/html",
     "server": "Microsoft-IIS/10.0",

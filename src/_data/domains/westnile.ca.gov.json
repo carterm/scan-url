@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Westnile.ca.gov | California West Nile Virus Website",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "connection": "keep-alive",
     "content-type": "text/html",

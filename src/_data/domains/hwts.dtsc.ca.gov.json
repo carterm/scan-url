@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Hazardous Waste Tracking System",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "connection": "keep-alive",
     "content-encoding": "gzip",

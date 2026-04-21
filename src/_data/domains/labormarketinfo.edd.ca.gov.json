@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "EDD Labor Market Information Division - Home Page",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "content-encoding": "gzip",
     "content-type": "text/html",

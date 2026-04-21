@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Bear Valley Water District",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "content-encoding": "gzip",
     "content-script-type": "text/javascript",

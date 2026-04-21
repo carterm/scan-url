@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Escrow Activity Reporting System - DRE",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "content-type": "text/html; charset=utf-8",
     "x-aspnet-version": "4.0.30319",

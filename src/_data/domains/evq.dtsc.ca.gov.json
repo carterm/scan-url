@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Electronic Verification Questionnaire (eVQ) System",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "access-control-expose-headers": "Request-Context",
     "connection": "keep-alive",

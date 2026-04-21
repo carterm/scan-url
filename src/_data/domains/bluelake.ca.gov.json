@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "City of Blue Lake, CA - Blue Lake, California",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
     "connection": "keep-alive",

@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "California State Board of Equalization Homepage",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "connection": "keep-alive",
     "content-type": "text/html",

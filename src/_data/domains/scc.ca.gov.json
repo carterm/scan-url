@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "California State Coastal Conservancy – The Coastal Conservancy acts with others to preserve, protect and restore the resources of the California Coast. Our vision is of a beautiful, restored and accessible coastline.",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
     "connection": "keep-alive",

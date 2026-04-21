@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "CA Department of Insurance",
   "lastStatus": 200,
-  "finalUrl": "",
   "metaGenerator": "CommonSpot Build 10.9.1.579",
   "responseHeaders": {
     "content-encoding": "gzip",

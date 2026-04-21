@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Commission on State Mandates",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "accept-ranges": "bytes",
     "connection": "keep-alive",

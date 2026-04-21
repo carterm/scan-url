@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Board of Forestry & Fire Protection | BOF",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=93600",
     "connection": "keep-alive",

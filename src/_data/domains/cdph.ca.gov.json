@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "CDPH Home",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "access-control-expose-headers": "Request-Context",
     "content-encoding": "gzip",

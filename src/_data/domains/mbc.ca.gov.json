@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Home | Medical Board of California",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
     "access-control-allow-methods": "GET",

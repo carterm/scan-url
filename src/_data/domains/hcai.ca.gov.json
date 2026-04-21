@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "HCAI - Department of Health Care Access and Information",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "connection": "keep-alive",
     "content-type": "text/html; charset=UTF-8",

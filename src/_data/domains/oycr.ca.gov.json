@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "OYCR - Office of Youth and Community Restoration",
   "lastStatus": 200,
-  "finalUrl": "",
   "metaGenerator": "CAWeb v.1.13.4",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",

@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Access Denied",
   "lastStatus": 403,
-  "finalUrl": "",
   "responseHeaders": {
     "accept-ranges": "bytes",
     "connection": "keep-alive",

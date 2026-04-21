@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Pocket Travel Guide",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "connection": "Keep-Alive",
     "content-encoding": "gzip",

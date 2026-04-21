@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Home | California Dept. of Social Services",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "content-type": "text/html; charset=utf-8",
     "pragma": "no-cache",

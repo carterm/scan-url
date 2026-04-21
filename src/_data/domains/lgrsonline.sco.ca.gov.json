@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Log in - LGRS Online",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "content-type": "text/html; charset=utf-8",
     "pragma": "no-cache",

@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "California Coastal Commission",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "access-control-allow-origin": "*",
     "content-encoding": "gzip",

@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Home - California State Parks & Recreation Online Store",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
     "connection": "keep-alive",

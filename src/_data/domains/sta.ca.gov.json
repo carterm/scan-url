@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Solano Transportation Authority",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "accept-ranges": "bytes",
     "connection": "keep-alive",

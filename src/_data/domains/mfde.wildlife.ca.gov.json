@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Marine Fisheries Data Explorer",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "accept-ranges": "bytes",
     "content-encoding": "gzip",

@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "California Department of Pesticide Regulation Electronic Transfer System",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "connection": "Keep-Alive",
     "content-encoding": "gzip",

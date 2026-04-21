@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Bay Area Census: We've Moved",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "content-type": "text/html",
     "server": "AmazonS3",

@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Homepage | California State Senate",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "accept-ranges": "bytes",
     "access-control-allow-origin": "https://senatetv.calegis.net",

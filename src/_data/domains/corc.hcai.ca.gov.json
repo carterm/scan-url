@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "CORC",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "access-control-allow-origin": "*",
     "connection": "keep-alive",

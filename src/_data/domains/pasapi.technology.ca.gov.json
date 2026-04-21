@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Personnel Authorization System (PAS)",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "connection": "keep-alive",
     "content-encoding": "gzip",

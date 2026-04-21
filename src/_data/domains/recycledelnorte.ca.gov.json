@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Del Norte Solid Waste Managment Authority",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=2592000",
     "content-encoding": "gzip",

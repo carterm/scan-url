@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Official California Legislative Information",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "accept-ranges": "none",
     "connection": "keep-alive",

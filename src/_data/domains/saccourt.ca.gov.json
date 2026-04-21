@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Superior Court of California - County of Sacramento",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "content-type": "text/html; charset=utf-8",
     "server": "Microsoft-IIS/10.0",

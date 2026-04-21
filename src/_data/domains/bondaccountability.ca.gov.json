@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Home | CA.GOV Bond Accountability",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "content-encoding": "gzip",
     "content-type": "text/html",

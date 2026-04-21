@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "SCO: Home",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "content-type": "text/html",
     "server": "",

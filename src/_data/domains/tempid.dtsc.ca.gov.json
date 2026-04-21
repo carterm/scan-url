@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "Temporary State ID Number Issuance",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "access-control-expose-headers": "Request-Context",
     "connection": "keep-alive",

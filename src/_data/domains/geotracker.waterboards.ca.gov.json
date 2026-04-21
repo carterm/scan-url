@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "GeoTracker",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "cf-apo-via": "origin,host",
     "connection": "keep-alive",

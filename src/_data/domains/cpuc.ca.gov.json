@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "California Public Utilities Commission",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "accept-ch": "Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version,Sec-CH-UA-Arch,Sec-CH-UA-Model,Sec-CH-UA-Bitness",
     "content-encoding": "gzip",

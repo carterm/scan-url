@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Not Found",
   "lastStatus": 404,
-  "finalUrl": "",
   "responseHeaders": {
     "accept-ranges": "bytes",
     "connection": "close",

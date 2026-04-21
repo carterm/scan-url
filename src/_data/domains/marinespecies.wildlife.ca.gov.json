@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "CA Marine Species Portal",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "accept-ranges": "bytes",
     "content-encoding": "gzip",

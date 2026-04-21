@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Work for California",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "blazor-enhanced-nav": "allow",
     "connection": "keep-alive",

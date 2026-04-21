@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "California Horse Racing Board",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "content-type": "text/html",
     "server": "Microsoft-IIS/10.0",

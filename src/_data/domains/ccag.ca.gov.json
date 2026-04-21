@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "C/CAG",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "accept-ranges": "bytes",
     "connection": "keep-alive",

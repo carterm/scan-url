@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Online Voter Registration | California Secretary of State :: California Secretary of State",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",

@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "You are being redirected...",
   "lastStatus": 307,
-  "finalUrl": "",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
     "connection": "keep-alive",

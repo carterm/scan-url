@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "State of California - Department of Justice - Office of the Attorney General",
   "lastStatus": 200,
-  "finalUrl": "",
   "metaGenerator": "Drupal 7 (http://drupal.org)",
   "responseHeaders": {
     "connection": "Keep-Alive",

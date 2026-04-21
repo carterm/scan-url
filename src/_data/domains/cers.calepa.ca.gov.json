@@ -6,7 +6,6 @@
   "includeInScan": true,
   "title": "CERS | California Environmental Reporting System",
   "lastStatus": 403,
-  "finalUrl": "",
   "responseHeaders": {
     "connection": "close",
     "content-type": "text/html"

@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "connection": "close",
     "content-type": "text/html"

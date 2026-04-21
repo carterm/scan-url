@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "MRCA Public Safety",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "accept-ranges": "bytes",
     "content-location": "http://www.mrcapublicsafety.ca.gov/index.html",

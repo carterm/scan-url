@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Welcome to the California Veterinary Medical Board (VMB)",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "accept-ranges": "bytes",
     "access-control-allow-private-network": "true",

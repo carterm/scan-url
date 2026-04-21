@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Cal Spill Watch Home",
   "lastStatus": 200,
-  "finalUrl": "",
   "responseHeaders": {
     "content-encoding": "br",
     "content-type": "text/html; charset=utf-8",
