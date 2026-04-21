@@ -9,16 +9,19 @@ for (const item of items) {
   let record = item.record;
 
   /*
+  
   if (record.finalUrl?.length === 0) {
     delete record.finalUrl;
     saveRecord(item.filePath, record);
   }
-*/
-
+  
   record = {
     //@ts-ignore
     $schema: "./../../schemas/domain-scan.schema.json",
     ...record
   };
+
+*/
+
   saveRecord(item.filePath, record);
 }
