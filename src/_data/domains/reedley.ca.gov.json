@@ -5,7 +5,7 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "Just a moment...",
+  "title": "Home - City of Reedley",
   "lastStatus": 403,
   "responseHeaders": {
     "accept-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
@@ -42,7 +42,7 @@
   "socialLinks": [],
   "linksToCaGov": false,
   "errorMessage": "Cloudflare challenge detected",
-  "notes": null,
+  "notes": "403 since 2026-04-23",
   "nocache": true,
   "goodScan": false
 }

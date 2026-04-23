@@ -25,5 +25,5 @@
   "errorMessage": "HTTP 403",
   "notes": "Entered manually 2026-04-17",
   "nocache": true,
-  "goodScan": true
+  "goodScan": false
 }

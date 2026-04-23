@@ -5,7 +5,7 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
+  "title": "CalEPA | California Environmental Protection Agency",
   "lastStatus": 403,
   "responseHeaders": {
     "connection": "close",
@@ -20,7 +20,7 @@
   "socialLinks": [],
   "linksToCaGov": false,
   "errorMessage": "Fetch error: fetch failed redirect count exceeded",
-  "notes": null,
+  "notes": "403 since 2026-04-23",
   "nocache": true,
   "goodScan": false
 }

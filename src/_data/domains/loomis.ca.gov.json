@@ -5,7 +5,7 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "403 Forbidden",
+  "title": "Home - Loomis, CA",
   "lastStatus": 403,
   "responseHeaders": {
     "connection": "keep-alive",
@@ -25,6 +25,6 @@
   "socialLinks": [],
   "linksToCaGov": false,
   "errorMessage": "HTTP 403",
-  "notes": null,
+  "notes": "403 since 2026-04-23",
   "goodScan": false
 }
