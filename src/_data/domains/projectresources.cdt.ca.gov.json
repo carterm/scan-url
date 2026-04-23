@@ -37,5 +37,8 @@
   "errorMessage": null,
   "notes": null,
   "nocache": false,
-  "goodScan": true
+  "goodScan": true,
+  "DOMErrors": [
+    "Could not parse CSS stylesheet"
+  ]
 }

@@ -24,7 +24,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-K8QM6XJZDN"
+  ],
   "socialLinks": [
     "https://twitter.com/CalCourts",
     "https://www.youtube.com/user/CaliforniaCourts"

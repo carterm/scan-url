@@ -27,9 +27,9 @@
   "errorMessage": null,
   "nocache": false,
   "responseHeaders": {
-    "connection": "keep-alive; keep-alive",
-    "content-encoding": "gzip; gzip",
-    "content-type": "text/html; charset=UTF-8; text/html; charset=UTF-8"
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8"
   },
   "notes": null
 }

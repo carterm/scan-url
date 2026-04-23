@@ -13,7 +13,7 @@
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "ki-edge": "v=27.0.6;mv=99.9.9",
+    "ki-edge": "v=27.1.0;mv=99.9.9",
     "ki-origin": "g1p",
     "nel": "{\"success_fraction\":0.01,\"report_to\":\"cf-nel\",\"max_age\":604800}",
     "server": "cloudflare",

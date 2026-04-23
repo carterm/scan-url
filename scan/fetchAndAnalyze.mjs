@@ -252,6 +252,7 @@ export async function fetchAndAnalyze(original) {
   if (domainRecord.ignoreFinalUrl) {
     domainRecord.finalUrl = original.finalUrl;
   }
+  if (domainRecord.finalUrl?.length === 0) delete domainRecord.finalUrl;
 
   // Mark it a bad scan if failure words are in the title
   if (

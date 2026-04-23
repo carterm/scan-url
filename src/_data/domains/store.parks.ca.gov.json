@@ -21,6 +21,7 @@
     "x-download-options": "noopen",
     "x-frame-options": "DENY",
     "x-permitted-cross-domain-policies": "none",
+    "x-shopify-perf-experiments": "f_sfr_precompute_checkout_schema/v1",
     "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,
