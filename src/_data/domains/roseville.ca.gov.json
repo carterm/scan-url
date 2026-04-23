@@ -1,0 +1,35 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "roseville.ca.gov",
+  "targetURL": "https://www.roseville.ca.gov/",
+  "www": true,
+  "goodScan": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "City of Roseville",
+  "lastStatus": 200,
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-0FJZJD9X4V"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/cityofroseville/",
+    "https://www.instagram.com/cityofroseville/",
+    "https://www.linkedin.com/company/city-of-roseville",
+    "https://www.youtube.com/user/CityofRosevilleCa?feature=watch",
+    "https://x.com/CityofRoseville"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "nocache": false,
+  "responseHeaders": {
+    "connection": "keep-alive; keep-alive",
+    "content-encoding": "gzip; gzip",
+    "content-type": "text/html; charset=UTF-8; text/html; charset=UTF-8"
+  },
+  "notes": null
+}
