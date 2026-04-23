@@ -4,7 +4,7 @@
   "targetURL": "https://intranet.calepa.ca.gov/",
   "www": false,
   "active": true,
-  "includeInScan": true,
+  "includeInScan": false,
   "title": "Intranet - CalEPA | Our internal website for employees!",
   "lastStatus": 200,
   "responseHeaders": {

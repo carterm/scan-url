@@ -4,7 +4,7 @@
   "targetURL": "https://findanewway.ca.gov/wp-login.php",
   "www": false,
   "active": true,
-  "includeInScan": true,
+  "includeInScan": false,
   "title": "Log In ‹ Find a new way — WordPress",
   "lastStatus": 200,
   "responseHeaders": {

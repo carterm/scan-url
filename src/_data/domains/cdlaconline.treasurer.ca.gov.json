@@ -4,7 +4,7 @@
   "targetURL": "https://cdlaconline.treasurer.ca.gov/Account/Login.aspx",
   "www": false,
   "active": true,
-  "includeInScan": true,
+  "includeInScan": false,
   "title": "Log In",
   "lastStatus": 200,
   "responseHeaders": {
@@ -27,7 +27,7 @@
   "socialLinks": [],
   "linksToCaGov": false,
   "errorMessage": null,
-  "notes": null,
+  "notes": "Login page for California Debt Limit Allocation Committee (CDLA) online system.",
   "nocache": false,
   "goodScan": true
 }
