@@ -5,7 +5,7 @@
   "www": false,
   "active": false,
   "includeInScan": false,
-  "title": "",
+  "title": "My Turn - California Vaccine Scheduling & Information Site",
   "lastStatus": 200,
   "finalUrl": "https://myturn.cdph.ca.gov/",
   "responseHeaders": {

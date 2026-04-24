@@ -5,7 +5,7 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
+  "title": "HSR Service Portal",
   "lastStatus": 200,
   "responseHeaders": {
     "connection": "close",
