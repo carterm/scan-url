@@ -18,7 +18,7 @@
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-ms-invokeapp": "1; RequireReadOnly",
-    "x-sharepointhealthscore": "3"
+    "x-sharepointhealthscore": "0"
   },
   "cloudflare": false,
   "slow": false,

@@ -12,9 +12,9 @@
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-type": "text/html;charset=utf-8",
-    "server": "DPS/2.0.0+sha-83c2ae1",
+    "server": "DPS/2.0.0+sha-8ba0b43",
     "x-siteid": "us-west-2",
-    "x-version": "83c2ae1"
+    "x-version": "8ba0b43"
   },
   "cloudflare": false,
   "slow": false,

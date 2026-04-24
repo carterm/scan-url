@@ -3,22 +3,36 @@
   "domain": "calhfa.ca.gov",
   "targetURL": "https://www.calhfa.ca.gov/",
   "www": true,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
-  "metaGenerator": null,
+  "title": "California Housing Finance Agency | CalHFA",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-DJ1JHKZF8R",
+    "UA-19266071-3"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/calhfa",
+    "https://www.instagram.com/calhfa",
+    "https://www.linkedin.com/company/california-housing-finance-agency",
+    "https://www.twitter.com/calhfa",
+    "https://www.youtube.com/calhfa",
+    "https://www.youtube.com/embed/QNlaHYVqoRc?enablejsapi=1&wmode=opaque"
+  ],
+  "linksToCaGov": true,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "server": "Microsoft-IIS/10.0",
+    "x-ua-compatible": "IE=edge"
+  },
   "notes": null
 }
