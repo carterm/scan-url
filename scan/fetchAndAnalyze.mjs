@@ -158,7 +158,9 @@ export async function fetchAndAnalyze(original) {
     .map(x => x.href)
     .map(x => new URL(x, res.url).href);
 
-  domainRecord.title =
+ 
+
+  const newTitle = 
     (doc.title?.trim().length
       ? doc.title.trim()
       : /** @type {HTMLMetaElement} */ (
@@ -171,7 +173,11 @@ export async function fetchAndAnalyze(original) {
             ) ||
             doc.head.querySelector('meta[name="author" i]') ||
             doc.head.querySelector('meta[name="description" i]')
-        )?.content) || "";
+      )?.content) || "";
+  
+  if (newTitle.length > 0) {
+    domainRecord.title = newTitle;
+  }
 
   domainRecord.metaGenerator = /** @type {HTMLMetaElement} */ (
     doc.head.querySelector("meta[name=generator i]")
