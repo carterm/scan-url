@@ -5,7 +5,7 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
+  "title": "DHCS Homepage",
   "lastStatus": 200,
   "responseHeaders": {
     "connection": "close",
