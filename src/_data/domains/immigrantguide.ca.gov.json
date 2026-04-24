@@ -22,5 +22,5 @@
   "errorMessage": "HTTP 403",
   "notes": "403 since 2026-04-23",
   "nocache": true,
-  "goodScan": false
+  "goodScan": true
 }

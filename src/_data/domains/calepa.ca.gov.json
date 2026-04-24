@@ -22,5 +22,5 @@
   "errorMessage": "Fetch error: fetch failed redirect count exceeded",
   "notes": "403 since 2026-04-23",
   "nocache": true,
-  "goodScan": false
+  "goodScan": true
 }

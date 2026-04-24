@@ -43,5 +43,5 @@
   "errorMessage": "Cloudflare challenge detected",
   "notes": "403 since 2026-04-23",
   "nocache": true,
-  "goodScan": false
+  "goodScan": true
 }
