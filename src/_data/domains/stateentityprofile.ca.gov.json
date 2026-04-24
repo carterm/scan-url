@@ -10,11 +10,9 @@
   "responseHeaders": {
     "accept-ranges": "bytes",
     "access-control-allow-origin": "*",
-    "access-control-expose-headers": "Request-Context",
     "connection": "keep-alive",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "request-context": "appId=cid-v1:7f74e662-cac4-4e9f-aa50-d7a817cade88",
     "x-aspnet-version": "4.0.30319",
     "x-aspnetmvc-version": "5.2",
     "x-powered-by": "ASP.NET"
