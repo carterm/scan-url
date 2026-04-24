@@ -17,8 +17,7 @@
     "server": "volt-adc",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
-    "x-ms-invokeapp": "1; RequireReadOnly",
-    "x-sharepointhealthscore": "0"
+    "x-ms-invokeapp": "1; RequireReadOnly"
   },
   "cloudflare": false,
   "slow": false,

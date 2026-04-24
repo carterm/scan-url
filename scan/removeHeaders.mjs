@@ -96,5 +96,6 @@ export default [
   "granicusserver",
   "x-nitro-rev",
   "x-fd-int-roxy-purgeid",
-  "x-sucuri-id"
+  "x-sucuri-id",
+  "x-sharepointhealthscore"
 ];
