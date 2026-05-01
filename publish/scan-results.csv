@@ -1,5 +1,5 @@
 domain,target,status,redirectURL,title,generator,x-powered-by,server,slowResponse,statewideAlerts,stateTemplate,JQuery,errormessage,GoogleAnalytics
-388,512,0,2,512,170,171,361,0,124,228,352,22,385
+388,515,0,2,515,170,173,361,0,127,230,352,22,388
 .ca.gov,https://www.ca.gov/,200,,California State Portal | CA.gov,,ASP.NET,,,X,,,,GTM-PZGPNNV
 abag.ca.gov,https://abag.ca.gov/,200,,Home | Association of Bay Area Governments,Drupal 11 (https://www.drupal.org),,nginx,,,,X,,G-FE9WWP5YXX
 abc.ca.gov,https://www.abc.ca.gov/,200,,Alcoholic Beverage Control | Trust - Innovation - ...,CAWeb v.1.1.4b,WP Engine,cloudflare,,,,,,"G-69TD0KNT0F,G-DCG7L67NBP,UA-24087628-11,UA-3419582-2"
@@ -114,10 +114,13 @@ cdpr.ca.gov,https://www.cdpr.ca.gov/,200,,Home Page - Department of Pesticide Re
 cdss.ca.gov,https://www.cdss.ca.gov/,200,,Home | California Dept. of Social Services,,,,,,X,X,,"G-6Y5ZSHSWZE,UA-77698819-4"
 cdt.ca.gov,https://broadbandforall.cdt.ca.gov/,200,,Homepage | Broadband for All,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-TL905X6EDW,G-Y7T2KCM7P1,GTM-NH6JP3T,UA-20973992-22,UA-3419582-2,UA-3419582-47"
 cdt.ca.gov,https://caweb.cdt.ca.gov/,200,,CAWeb | The CAWeb Publishing Support site,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-JM9XN48M0M,G-Y7T2KCM7P1,UA-31125811-32,UA-3419582-2,UA-3419582-47"
+cdt.ca.gov,https://digitalidstrategy.cdt.ca.gov/,200,,California State Digital ID Strategy | CA.gov,,ASP.NET,,,X,,,,"G-CLMC17ZTJT,GTM-NJ6Q4MV"
+cdt.ca.gov,https://digitalstrategy.cdt.ca.gov/,200,,California State Digital Strategy,,,,,X,X,,,"G-CLMC17ZTJT,G-DDK6LP4W3T,GTM-NJ6Q4MV"
 cdt.ca.gov,https://projectresources.cdt.ca.gov/,200,,Project Resources | CA-PMO,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-NSV16ZKHM9,G-Y7T2KCM7P1,UA-20973992-26,UA-3419582-2,UA-3419582-47"
 cdt.ca.gov,https://www.capmf.cdt.ca.gov/,200,,CDT - CA-PMF - Project Management Framework,,ASP.NET,,,,X,X,HTTP 403,"G-WFDWPPLS2Q,GTM-NJ6Q4MV"
 cdt.ca.gov,https://www.cdt.ca.gov/,200,,CDT - California Department of Technology,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-LPLGX1HR9S,G-Y7T2KCM7P1,UA-20973992-22,UA-3419582-2,UA-3419582-47"
 cdt.ca.gov,https://www.domainnamerequest.cdt.ca.gov/,200,,Getting Started,,ASP.NET,,,,X,,,"G-69TD0KNT0F,G-X7DZT8P5JD"
+cdt.ca.gov,https://www.envision2026.cdt.ca.gov/,200,,Envision 2026 - California’s Technology Future,,ASP.NET,,,X,X,,,"G-N45YGR3WEW,GTM-NJ6Q4MV"
 cdtfa.ca.gov,https://cdtfa.ca.gov/,200,,California Department of Tax and Fee Administratio...,,,,,X,X,X,,GTM-W42NR96
 cdtfa.ca.gov,https://maps.cdtfa.ca.gov/,200,,Find a Sales and Use Tax Rate,,ASP.NET,Microsoft-IIS/10.0,,,,,,"GTM-W42NR96,UA-3419582-2,UA-64276560-39"
 cdtfa.ca.gov,https://onlineservices.cdtfa.ca.gov/,,,CDTFA Online Services,,,,,,,,Fetch error: fetch failed redirect count exceeded,
@@ -457,7 +460,7 @@ state.ca.gov,https://listserv.state.ca.gov/wa.exe?INDEX,200,,LISTSERV - LISTSERV
 statebarcourt.ca.gov,https://www.statebarcourt.ca.gov/,200,,Home | The State Bar of California,Drupal 11 (https://www.drupal.org),,,,,,X,,G-E3V3RY8CPC
 stateentityprofile.ca.gov,https://www.stateentityprofile.ca.gov/,200,,CA.GOV State Entity Profile - CA.GOV State Entity ...,,ASP.NET,,,,X,X,,
 sucorte.ca.gov,https://www.sucorte.ca.gov/,200,,Self-Help Guide to the California Courts | Califor...,Drupal 9 (https://www.drupal.org),,nginx,,,,,,G-K8QM6XJZDN
-sunnyvale.ca.gov,https://www.sunnyvale.ca.gov/,200,,"Sunnyvale, CA | Home",,,AkamaiGHost,,,,,,"G-JBUHY_LMRH,G-T4KDVQ1M42,G-WVHV5Y34FM"
+sunnyvale.ca.gov,https://www.sunnyvale.ca.gov/,200,,"Sunnyvale, CA | Home",,,AkamaiGHost,,,,,,"G-JBUHY_LMRH,G-R8HYT6ITBJ,G-T4KDVQ1M42,G-WVHV5Y34FM,G-ZRY5RPGC6K"
 tahoe.ca.gov,https://tahoe.ca.gov/,200,,Tahoe Conservancy |,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-7BTW7KMW8E,G-Y7T2KCM7P1,UA-21970760-38,UA-3419582-2,UA-3419582-47"
 tam.ca.gov,https://www.tam.ca.gov/,200,,Transportation Authority of Marin,Powered by WPBakery Page Builder - drag and drop p...,WP Engine,cloudflare,,,,X,,"G-4YBXR627CN,G-9DDJ0T3LZS"
 taxes.ca.gov,https://taxes.ca.gov/,200,,Taxes | California Tax Service Center,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-N8DVBV2ZB1,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
