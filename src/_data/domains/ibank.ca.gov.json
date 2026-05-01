@@ -15,9 +15,7 @@
     "referrer-policy": "no-referrer-when-downgrade",
     "server": "Apache",
     "x-content-type-options": "nosniff",
-    "x-frame-options": "SAMEORIGIN",
-    "x-powered-by": "PHP/7.4.7",
-    "x-xss-protection": "1; mode=block"
+    "x-frame-options": "SAMEORIGIN"
   },
   "cloudflare": false,
   "slow": false,

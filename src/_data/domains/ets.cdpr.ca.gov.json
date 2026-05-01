@@ -17,12 +17,20 @@
   },
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
   "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "googleAnalytics": [
+    "G-75V2BNQ3DR",
+    "GTM-NJ6Q4MV"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/CaPesticideRegulation",
+    "https://www.linkedin.com/company/california-pesticide-regulation/",
+    "https://www.youtube.com/CaliforniaPesticides",
+    "https://x.com/CA_PesticideReg"
+  ],
+  "linksToCaGov": true,
   "errorMessage": null,
   "notes": null,
   "nocache": false,

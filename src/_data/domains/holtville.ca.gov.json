@@ -15,11 +15,9 @@
     "permissions-policy": "accelerometer=(),camera=(),display-capture=(),document-domain=(),gyroscope=(),magnetometer=(),microphone=(),midi=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),usb=(),xr-spatial-tracking=()",
     "referrer-policy": "strict-origin-when-cross-origin",
     "server": "nginx",
+    "wpo-cache-status": "cached",
     "x-content-type-options": "nosniff",
-    "x-frame-options": "SAMEORIGIN",
-    "x-tec-api-origin": "https://www.holtville.ca.gov",
-    "x-tec-api-root": "https://www.holtville.ca.gov/wp-json/tribe/events/v1/",
-    "x-tec-api-version": "v1"
+    "x-frame-options": "SAMEORIGIN"
   },
   "cloudflare": false,
   "slow": false,

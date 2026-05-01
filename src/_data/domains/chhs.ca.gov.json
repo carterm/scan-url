@@ -17,7 +17,7 @@
     "server": "nginx",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
-    "x-powered-by": "PHP/8.3.29",
+    "x-powered-by": "PHP/8.4.16",
     "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,

@@ -13,7 +13,7 @@
     "content-type": "text/html;charset=utf-8",
     "server": "Squarespace",
     "x-content-type-options": "nosniff",
-    "x-frame-options": "SAMEORIGIN"
+    "x-frame-options": "SAMEORIGIN, SAMEORIGIN"
   },
   "cloudflare": false,
   "slow": false,
@@ -23,10 +23,12 @@
   "googleAnalytics": [
     "G-013F66E7C6",
     "G-2F49DC7692",
+    "G-43AF232B5B",
     "G-5CGC3ET1CB",
     "G-701BF8BBC0",
     "G-86AACD645D",
     "G-902FAAFCE0",
+    "G-920708D91C",
     "G-ALTERNATIN",
     "G-B1BA7891C2",
     "G-B685267B79",

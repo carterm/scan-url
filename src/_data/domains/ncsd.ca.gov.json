@@ -13,9 +13,7 @@
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "server": "cloudflare",
-    "x-cache-group": "normal",
-    "x-powered-by": "WP Engine",
+    "server": "nginx",
     "x-tec-api-origin": "https://ncsd.ca.gov",
     "x-tec-api-root": "https://ncsd.ca.gov/wp-json/tribe/events/v1/",
     "x-tec-api-version": "v1"
@@ -28,8 +26,7 @@
   "googleAnalytics": [],
   "socialLinks": [
     "https://twitter.com/NipomoCSD",
-    "https://www.facebook.com/NipomoCSD",
-    "https://youtu.be/HTFAAXVaAUs"
+    "https://www.facebook.com/NipomoCSD"
   ],
   "linksToCaGov": false,
   "errorMessage": null,

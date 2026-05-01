@@ -11,7 +11,7 @@
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
     "expect-ct": "enforce, max-age=7776000",
-    "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), fullscreen=(self)",
+    "permissions-policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=(), fullscreen=(self 'https://www.youtube.com')",
     "referrer-policy": "strict-origin-when-cross-origin",
     "x-content-type-options": "nosniff",
     "x-frame-options": "sameorigin",

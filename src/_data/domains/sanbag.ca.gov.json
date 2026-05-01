@@ -3,23 +3,29 @@
   "domain": "sanbag.ca.gov",
   "targetURL": "http://www.sanbag.ca.gov/",
   "www": true,
-  "goodScan": false,
+  "goodScan": true,
   "active": false,
   "includeInScan": false,
-  "title": "",
-  "lastStatus": null,
+  "title": "SANBAG",
+  "lastStatus": 200,
   "finalUrl": "https://www.gosbcta.com/",
-  "metaGenerator": null,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "UA-1477278-30"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "Keep-Alive",
+    "content-type": "text/html",
+    "server": "Apache/2.4.43 (Unix) OpenSSL/1.0.1j-freebsd PHP/5.6.40"
+  },
   "notes": null
 }

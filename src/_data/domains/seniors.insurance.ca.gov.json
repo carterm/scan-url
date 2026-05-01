@@ -11,6 +11,7 @@
   "responseHeaders": {
     "content-encoding": "gzip",
     "content-type": "text/html;charset=UTF-8",
+    "pragma": "no-cache",
     "server": "Microsoft-IIS/10.0",
     "x-frame-options": "SAMEORIGIN",
     "x-powered-by": "ASP.NET"
