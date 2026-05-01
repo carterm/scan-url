@@ -1,0 +1,33 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "digitalstrategy.cdt.ca.gov",
+  "targetURL": "https://digitalstrategy.cdt.ca.gov/",
+  "www": false,
+  "goodScan": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "California State Digital Strategy",
+  "lastStatus": 200,
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-CLMC17ZTJT",
+    "G-DDK6LP4W3T",
+    "GTM-NJ6Q4MV"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "nocache": false,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-md5": "Kl5dB4PFgt0IwBY8NocKYw==",
+    "content-type": "text/html",
+    "x-ms-version": "2018-03-28"
+  },
+  "notes": null
+}
