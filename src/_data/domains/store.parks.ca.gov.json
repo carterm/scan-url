@@ -16,7 +16,7 @@
     "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}",
     "powered-by": "Shopify",
     "server": "cloudflare",
-    "shopify-complexity-score-v2": "31",
+    "shopify-complexity-score-v2": "32",
     "x-content-type-options": "nosniff",
     "x-dc": "gcp-us-west1,gcp-us-west1,gcp-us-west1",
     "x-download-options": "noopen",
