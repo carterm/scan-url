@@ -1,0 +1,43 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "ceqanet.lci.ca.gov",
+  "targetURL": "https://ceqanet.lci.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "CEQAnet",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "access-control-allow-headers": "accept, authorization, Content-Type",
+    "access-control-allow-methods": "GET, POST, OPTIONS, PUT, PATCH, DELETE",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "WWW-Authenticate",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-oneagent-js-injection": "true",
+    "x-ruxit-js-agent": "true",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-4BWDLL1JK4"
+  ],
+  "socialLinks": [
+    "https://twitter.com/cagovernment",
+    "https://www.pinterest.com/cagovernment/",
+    "https://www.youtube.com/user/californiagovernment"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

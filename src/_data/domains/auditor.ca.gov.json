@@ -1,0 +1,35 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "auditor.ca.gov",
+  "targetURL": "https://www.auditor.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "California State Auditor",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "WordPress VIP <https://wpvip.com>",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-70N4V9ZKFQ"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

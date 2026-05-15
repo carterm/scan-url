@@ -1,0 +1,26 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "dhcs.ca.gov",
+  "targetURL": "https://www.dhcs.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "DHCS Homepage",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "close",
+    "content-type": "text/html"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

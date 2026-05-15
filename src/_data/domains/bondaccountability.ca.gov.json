@@ -1,0 +1,30 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "bondaccountability.ca.gov",
+  "targetURL": "https://bondaccountability.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Home | CA.GOV Bond Accountability",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "server": "volt-adc"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-WJP820TQVY",
+    "GTM-NJ6Q4MV"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "cdec.water.ca.gov",
+  "targetURL": "https://cdec.water.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "California Data Exchange Center",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "close",
+    "content-encoding": "gzip",
+    "content-type": "text/html"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-QMSMYVM1J1",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [
+    "http://www.youtube.com/watch?v=LSWStigJv_8=youtu.be",
+    "https://twitter.com/CA_DWR",
+    "https://www.facebook.com/CADWR",
+    "https://www.facebook.com/events/237760683008593/",
+    "https://www.instagram.com/cadepartmentofwaterresources",
+    "https://www.youtube.com/user/calwater"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

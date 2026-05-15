@@ -1,0 +1,32 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "sierracounty.ca.gov",
+  "targetURL": "https://www.sierracounty.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Sierra County, CA - Official Website | Official Website",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "p3p": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"",
+    "server": "Microsoft-IIS/10.0",
+    "x-content-type-options": "nosniff"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-N28VLH4GMZ",
+    "GTM-K73C5PS"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

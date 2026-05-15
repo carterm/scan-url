@@ -1,0 +1,39 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "cdpr.ca.gov",
+  "targetURL": "https://www.cdpr.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Home Page - Department of Pesticide Regulation",
+  "lastStatus": 200,
+  "metaGenerator": "WordPress 6.9.4",
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "x-cdn": "Imperva",
+    "x-pingback": "https://www.cdpr.ca.gov/xmlrpc.php"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "GTM-PG47TPC"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/CaPesticideRegulation",
+    "https://www.linkedin.com/company/california-pesticide-regulation/",
+    "https://www.youtube.com/CaliforniaPesticides",
+    "https://x.com/CA_PesticideReg"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

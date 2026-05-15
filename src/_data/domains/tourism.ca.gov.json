@@ -1,0 +1,32 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "tourism.ca.gov",
+  "targetURL": "https://tourism.ca.gov/s/login/?language=en_US",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Login Template Title",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html;charset=UTF-8",
+    "reporting-endpoints": "sfdc-csp-ep=\"https://visitcalifornia.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Df4000002a9aF&networkId=0DM2T000000TNfN&type=communities\"",
+    "server": "nginx",
+    "timing-allow-origin": "*",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "ALLOWALL"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

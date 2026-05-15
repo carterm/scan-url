@@ -1,0 +1,33 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "crob.ca.gov",
+  "targetURL": "https://crob.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "C-ROB – California Rehabilitation Oversight Board",
+  "lastStatus": 200,
+  "metaGenerator": "WordPress 6.9.4",
+  "responseHeaders": {
+    "connection": "Keep-Alive",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "Apache",
+    "x-tec-api-origin": "https://crob.ca.gov",
+    "x-tec-api-root": "https://crob.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-QLV9BHLEDN"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

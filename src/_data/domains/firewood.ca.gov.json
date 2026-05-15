@@ -1,0 +1,27 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "firewood.ca.gov",
+  "targetURL": "https://www.firewood.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "California Firewood Task Force | Home",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-type": "text/html"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

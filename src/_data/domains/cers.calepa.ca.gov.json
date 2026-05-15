@@ -1,0 +1,29 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "cers.calepa.ca.gov",
+  "targetURL": "https://cers.calepa.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "CERS | California Environmental Reporting System",
+  "lastStatus": 403,
+  "responseHeaders": {
+    "connection": "close",
+    "content-type": "text/html"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-VKFSF099FL"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": "HTTP 403",
+  "notes": "Entered manually 2026-04-17",
+  "nocache": true,
+  "goodScan": true
+}

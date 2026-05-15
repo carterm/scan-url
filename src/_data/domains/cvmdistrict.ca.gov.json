@@ -1,0 +1,46 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "cvmdistrict.ca.gov",
+  "targetURL": "https://cvmdistrict.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Clovis Veterans Memorial District | Clovis, CA",
+  "lastStatus": 200,
+  "metaGenerator": "Wix.com Website Builder",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-language": "en-US",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "Pepyaka",
+    "x-content-type-options": "nosniff",
+    "x-meta-site-id": "6b6797b3-72a4-4237-9aee-88c100fc530d"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-BACKGROUND",
+    "G-PROVISIONI",
+    "G-TRANSLATIO",
+    "G-VXSQEMU7U9"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CVMDistrict",
+    "https://www.facebook.com/cvmdistrict",
+    "https://www.facebook.com/cvmdistrict/?ref=aymt_homepage_panel&eid=ARAyBoj7SBbQlMRIuAYcjr0Ei8J6oR5RNb2jZgT8YVKumM5BLqLYJEZaxTFuXOYLmXZAXzlEz_ztgg2l",
+    "https://www.instagram.com/cvmdistrict",
+    "https://www.instagram.com/cvmdistrict/",
+    "https://www.linkedin.com/company/6576722",
+    "https://www.twitter.com/cvmdistrict",
+    "https://www.youtube.com/@CVMDistrict"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

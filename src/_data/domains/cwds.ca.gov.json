@@ -1,0 +1,28 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "cwds.ca.gov",
+  "targetURL": "https://cwds.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "You are being redirected...",
+  "lastStatus": 307,
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "connection": "keep-alive",
+    "content-type": "text/html",
+    "server": "Sucuri/Cloudproxy"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

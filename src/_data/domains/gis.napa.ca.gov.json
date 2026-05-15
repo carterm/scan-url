@@ -1,0 +1,28 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "gis.napa.ca.gov",
+  "targetURL": "https://gis.napa.ca.gov/rcu/roadclosures.pdf",
+  "www": false,
+  "goodScan": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "",
+  "lastStatus": 200,
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "nocache": false,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "content-type": "application/pdf",
+    "server": "Microsoft-IIS/10.0",
+    "x-powered-by": "ASP.NET"
+  },
+  "notes": null
+}

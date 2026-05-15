@@ -1,0 +1,35 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "innovation.ca.gov",
+  "targetURL": "https://innovation.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Office of Data and Innovation",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "server": "AmazonS3"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "GTM-PQRTS7Z"
+  ],
+  "socialLinks": [
+    "https://www.instagram.com/california_odi/",
+    "https://www.linkedin.com/company/california-office-of-data-and-innovation/",
+    "https://www.youtube.com/@California_ODI",
+    "https://x.com/CaliforniaODI"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

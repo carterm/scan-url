@@ -1,0 +1,35 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "lp.post.ca.gov",
+  "targetURL": "https://lp.post.ca.gov/PublicWelcome.aspx",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "POST Learning Portal",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=utf-8",
+    "server": "cloudflare",
+    "x-frame-options": "sameorigin"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [],
+  "socialLinks": [
+    "https://www.facebook.com/CaliforniaPOST",
+    "https://www.instagram.com/commissiononpost/",
+    "https://www.linkedin.com/company/california-post/",
+    "https://www.youtube.com/user/CaliforniaPOST/"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

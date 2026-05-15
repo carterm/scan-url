@@ -1,0 +1,39 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "calspillwatch.wildlife.ca.gov",
+  "targetURL": "https://calspillwatch.wildlife.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Cal Spill Watch Home",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-encoding": "br",
+    "content-type": "text/html; charset=utf-8",
+    "permissions-policy": "geolocation=(), microphone=(), camera=(), usb=(), fullscreen=(self), payment=()",
+    "pragma": "no-cache",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-ua-compatible": "IE=edge",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-3TD3C8P5WP"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CalSpillWatch",
+    "https://www.facebook.com/CalSpillWatch/",
+    "https://www.instagram.com/calspillwatch/",
+    "https://www.youtube.com/user/OSPRNEWS"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

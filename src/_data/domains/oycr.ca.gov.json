@@ -1,0 +1,49 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "oycr.ca.gov",
+  "targetURL": "https://oycr.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "OYCR - Office of Youth and Community Restoration",
+  "lastStatus": 200,
+  "metaGenerator": "CAWeb v.1.13.4",
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
+    "server": "cloudflare",
+    "x-cache-group": "normal",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "WP Engine",
+    "x-tec-api-origin": "https://oycr.ca.gov",
+    "x-tec-api-root": "https://oycr.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-7ND7ZHXVPG",
+    "G-Y7T2KCM7P1",
+    "GTM-WWXFNGG",
+    "UA-3419582-2",
+    "UA-3419582-47"
+  ],
+  "socialLinks": [
+    "https://twitter.com/cal_oycr",
+    "https://www.facebook.com/caloycr",
+    "https://www.instagram.com/cal_oycr/",
+    "https://www.linkedin.com/company/office-of-youth-and-community-restoration/"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

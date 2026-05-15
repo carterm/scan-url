@@ -1,0 +1,31 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "geosteam.conservation.ca.gov",
+  "targetURL": "https://geosteam.conservation.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Geothermal Well Search",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=utf-8",
+    "server": "Microsoft-IIS/10.0",
+    "x-frame-options": "SAMEORIGIN"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-N4MB98DBXY"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

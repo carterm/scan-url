@@ -1,0 +1,38 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "cfb.ca.gov",
+  "targetURL": "https://www.cfb.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Home – Cemetery and Funeral Bureau",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "access-control-allow-private-network": "true",
+    "connection": "Keep-Alive",
+    "content-type": "text/html",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-G28V3EMKNN",
+    "UA-64276560-5"
+  ],
+  "socialLinks": [
+    "https://youtu.be/E4kn_00M80E"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

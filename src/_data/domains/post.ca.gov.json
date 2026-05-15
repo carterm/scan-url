@@ -1,0 +1,40 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "post.ca.gov",
+  "targetURL": "https://post.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Home",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-encoding": "br",
+    "content-type": "text/html; charset=utf-8",
+    "cross-origin-opener-policy": "same-origin",
+    "pragma": "no-cache",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-ua-compatible": "IE=edge",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-K1FLBGKCQ9"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/CaliforniaPOST",
+    "https://www.instagram.com/commissiononpost/",
+    "https://www.linkedin.com/company/california-post/",
+    "https://www.youtube.com/user/CaliforniaPOST/"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

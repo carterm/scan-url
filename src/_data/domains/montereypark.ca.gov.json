@@ -1,0 +1,39 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "montereypark.ca.gov",
+  "targetURL": "https://www.montereypark.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Monterey Park, CA - Official Website | Official Website",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "p3p": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"",
+    "server": "Microsoft-IIS/10.0",
+    "x-content-type-options": "nosniff"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-4YGXQ16LXK",
+    "GTM-K73C5PS",
+    "UA-83428977-1"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CityofMPK",
+    "https://www.facebook.com/CityofMontereyPark",
+    "https://www.instagram.com/cityofmontereypark/",
+    "https://www.youtube.com/user/MontParkTV",
+    "https://x.com/CityofMPK"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

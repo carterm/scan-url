@@ -1,0 +1,35 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "reducetherisk.ca.gov",
+  "targetURL": "https://www.reducetherisk.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Reduce the Risk |",
+  "lastStatus": 200,
+  "metaGenerator": "CAWeb v.1.13.0",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "GTM-P3ZTL3M",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

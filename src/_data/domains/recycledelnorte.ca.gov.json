@@ -1,0 +1,33 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "recycledelnorte.ca.gov",
+  "targetURL": "https://recycledelnorte.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Del Norte Solid Waste Managment Authority",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=2592000",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "pragma": "no-cache",
+    "server": "nginx/1.18.0",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "Fat-Free Framework",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": "Fetch error: fetch failed Headers Timeout Error",
+  "notes": null,
+  "nocache": true,
+  "goodScan": false
+}

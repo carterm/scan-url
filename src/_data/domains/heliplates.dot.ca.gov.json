@@ -1,0 +1,28 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "heliplates.dot.ca.gov",
+  "targetURL": "https://heliplates.dot.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Division of Aeronautics",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "Keep-Alive",
+    "content-type": "text/html; charset=UTF-8",
+    "x-oneagent-js-injection": "true",
+    "x-ruxit-js-agent": "true"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

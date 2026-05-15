@@ -1,0 +1,45 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "ftb.ca.gov",
+  "targetURL": "https://www.ftb.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Franchise Tax Board Homepage | FTB.ca.gov",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-location": "www.ftb.ca.gov",
+    "content-type": "text/html",
+    "p3p": "policyref=\"/w3c/p3p.xml\",CP=\"ALL DSP COR MON LAW CURa ADMa DEVa PSAa PSDa OUR SAMa IND NAV INT CNT STA\"",
+    "pragma": "no-cache",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "DENY",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-EQVZX0SCVD",
+    "GTM-NJ6Q4MV"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/franchisetaxboard/",
+    "https://www.instagram.com/calftb/",
+    "https://www.linkedin.com/company/franchise-tax-board",
+    "https://www.youtube.com/user/FranchiseTaxBoard",
+    "https://x.com/calftb"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true,
+  "DOMErrors": [
+    "Could not parse CSS stylesheet"
+  ]
+}

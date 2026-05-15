@@ -1,0 +1,42 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "cleancalifornia.dot.ca.gov",
+  "targetURL": "https://cleancalifornia.dot.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "CleanCalifornia | Caltrans",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ch": "Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version,Sec-CH-UA-Arch,Sec-CH-UA-Model,Sec-CH-UA-Bitness",
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "server": "Microsoft-IIS/10.0",
+    "x-oneagent-js-injection": "true",
+    "x-ruxit-js-agent": "true"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-KSEZWYWEFM",
+    "UA-21431721-46"
+  ],
+  "socialLinks": [
+    "http://www.facebook.com/CaltransHQ",
+    "https://t.co/okCrLf4P82",
+    "https://twitter.com/CaltransHQ/status/1806726511153852502?ref_src=twsrc%5Etfw",
+    "https://twitter.com/CaltransHQ?ref_src=twsrc%5Etfw",
+    "https://twitter.com/hashtag/CleanWaterCA?src=hash&ref_src=twsrc%5Etfw",
+    "https://www.facebook.com/events/1686293022573719",
+    "https://www.facebook.com/rivercitywaterwayalliance/events"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

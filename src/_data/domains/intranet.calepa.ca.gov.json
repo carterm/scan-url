@@ -1,0 +1,46 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "intranet.calepa.ca.gov",
+  "targetURL": "https://intranet.calepa.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": false,
+  "title": "Intranet - CalEPA | Our internal website for employees!",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "pragma": "no-cache",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "cloudflare",
+    "x-cache-group": "normal",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "WP Engine"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-DQ3VBC4CR1",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CaliforniaEPA",
+    "https://www.facebook.com/CaliforniaEPA",
+    "https://www.instagram.com/californiaepa",
+    "https://www.linkedin.com/company/3668037/admin/",
+    "https://www.youtube.com/playlist?list=PLb43SK8iAJX64xVOpRHyZUlusspOMV1br"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "metaGenerator": "CAWeb v.1.12.4",
+  "goodScan": true
+}

@@ -1,0 +1,28 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "gis.eldoradocounty.ca.gov",
+  "targetURL": "https://gis.eldoradocounty.ca.gov/portal/home/",
+  "www": false,
+  "goodScan": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "",
+  "lastStatus": 200,
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "nocache": false,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "content-type": "text/html",
+    "server": "Microsoft-IIS/10.0",
+    "x-content-type-options": "nosniff"
+  },
+  "notes": null
+}

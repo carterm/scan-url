@@ -1,0 +1,37 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "nvta.ca.gov",
+  "targetURL": "https://nvta.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Home - NVTA",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
+    "server": "nginx",
+    "x-cache-nxaccel": "BYPASS"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [],
+  "socialLinks": [
+    "https://twitter.com/NVTA_NapaValley",
+    "https://www.facebook.com/nvta.ca/",
+    "https://www.instagram.com/nvta.ca/",
+    "https://www.youtube.com/@nvta7191",
+    "https://www.youtube.com/channel/UCrpjLcW9uRmA0EE6w-eKZyw",
+    "https://www.youtube.com/watch?v=zFCI5czbs9U"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "cwc.ca.gov",
+  "targetURL": "https://cwc.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "California Water Commission",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ch": "Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version,Sec-CH-UA-Arch,Sec-CH-UA-Model,Sec-CH-UA-Bitness",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff ",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-KZVRVN6"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CA_WaterCom",
+    "https://www.facebook.com/profile.php?id=61567162603983",
+    "https://www.instagram.com/cawatercommission/",
+    "https://www.linkedin.com/company/california-water-commission"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

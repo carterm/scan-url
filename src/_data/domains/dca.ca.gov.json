@@ -1,0 +1,46 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "dca.ca.gov",
+  "targetURL": "https://www.dca.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Department of Consumer Affairs (DCA)",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "access-control-allow-private-network": "true",
+    "connection": "Keep-Alive",
+    "content-type": "text/html",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-F2FZM7Q8TN",
+    "GTM-M683DJB",
+    "GTM-NBQCVZC",
+    "GTM-NJ6Q4MV",
+    "UA-21974567-32",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/CaliforniaDCA",
+    "https://www.instagram.com/californiadca/",
+    "https://www.linkedin.com/company/CaliforniaDCA",
+    "https://www.youtube.com/user/CaliforniaDCA",
+    "https://x.com/CaliforniaDCA"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

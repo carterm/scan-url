@@ -1,0 +1,29 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "mrcapublicsafety.ca.gov",
+  "targetURL": "http://www.mrcapublicsafety.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "MRCA Public Safety",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "content-location": "http://www.mrcapublicsafety.ca.gov/index.html",
+    "content-type": "text/html",
+    "server": "Microsoft-IIS/6.0",
+    "x-powered-by": "ASP.NET"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

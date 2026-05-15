@@ -1,0 +1,46 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "bbs.ca.gov",
+  "targetURL": "https://www.bbs.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Board of Behavioral Sciences (BBS)",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "access-control-allow-private-network": "true",
+    "connection": "Keep-Alive",
+    "content-type": "text/html",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-DF674HWF28",
+    "GTM-M447QB9",
+    "GTM-M683DJB",
+    "GTM-NBQCVZC",
+    "UA-3419582-2",
+    "UA-64276560-4"
+  ],
+  "socialLinks": [
+    "https://twitter.com/BBS_California",
+    "https://www.facebook.com/BehavioralSciencesBoardCA/",
+    "https://www.facebook.com/Board-of-Behavioral-Sciences-California-218510451542562/",
+    "https://www.youtube.com/user/CaliforniaDCA",
+    "https://www.youtube.com/watch?v=tE9DsszK3t4&list=PLAGnBcgB9ibtHg9U43wusNJ38CJUfHJiQ&index=11&pp=iAQB"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

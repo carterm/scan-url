@@ -1,0 +1,37 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "data.ca.gov",
+  "targetURL": "https://data.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Welcome - California Open Data",
+  "lastStatus": 200,
+  "metaGenerator": "ckan 2.9.11",
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "server": "cloudflare",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-1VQT1C4PTE",
+    "G-YZK8JCN4R2",
+    "G-ZG8VBX1CS3",
+    "GTM-TKCM6M7"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "perb.ca.gov",
+  "targetURL": "https://perb.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Home - California Public Employment Relations Board",
+  "lastStatus": 200,
+  "metaGenerator": "CAWeb v.1.13.2a",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "PHP/8.2.29, PleskLin"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-R38HHXY4X2",
+    "UA-21970760-41",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

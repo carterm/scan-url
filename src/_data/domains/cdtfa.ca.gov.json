@@ -1,0 +1,40 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "cdtfa.ca.gov",
+  "targetURL": "https://cdtfa.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "California Department of Tax and Fee Administration (CDTFA)",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html",
+    "permissions-policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+    "pragma": "no-cache",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "0"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-W42NR96"
+  ],
+  "socialLinks": [
+    "https://twitter.com/cdtfa",
+    "https://www.facebook.com/CDTFA",
+    "https://www.instagram.com/CDTFA/",
+    "https://www.linkedin.com/company/cdtfa?trk=top_nav_home",
+    "https://www.youtube.com/channel/UChhR8089KCKrv2p4bbipu8w"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

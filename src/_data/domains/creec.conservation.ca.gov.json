@@ -1,0 +1,29 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "creec.conservation.ca.gov",
+  "targetURL": "https://creec.conservation.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Carbon Sequestration | CREEC",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=utf-8"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-TB4GXTE2XM"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

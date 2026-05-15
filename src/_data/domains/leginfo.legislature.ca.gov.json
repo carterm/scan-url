@@ -1,0 +1,29 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "leginfo.legislature.ca.gov",
+  "targetURL": "https://leginfo.legislature.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "California Legislative Information",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "Keep-Alive",
+    "content-type": "text/html; charset=UTF-8",
+    "pragma": "no-cache",
+    "server": "Apache",
+    "x-content-type-options": "nosniff"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

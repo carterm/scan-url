@@ -1,0 +1,37 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "calgold.ca.gov",
+  "targetURL": "https://www.calgold.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "CalGold | CalGold v2 - Permit Assistance Tool",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=utf-8",
+    "x-aspnetmvc-version": "5.2",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN, DENY",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-ZZ3YHMBCMQ"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CAGoBiz?ref_src=twsrc%5Etfw",
+    "https://www.facebook.com/CAGOBiz/",
+    "https://www.linkedin.com/company/governor-s-office-of-business-and-economic-development",
+    "https://www.youtube.com/channel/UCregW8KZRE4k1sXVZs2bPxw"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

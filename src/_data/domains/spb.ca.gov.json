@@ -1,0 +1,37 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "spb.ca.gov",
+  "targetURL": "https://www.spb.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "State Personnel Board",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=utf-8",
+    "server": "Microsoft-IIS/10.0",
+    "x-aspnet-version": "4.0.30319",
+    "x-powered-by": "ASP.NET"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-7PSLJD4L8Y",
+    "UA-21431721-16",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [
+    "https://twitter.com/californiaspb",
+    "https://www.facebook.com/pages/California-State-Personnel-Board/128278377197549",
+    "https://www.youtube.com/user/californiagovernment#p/a"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

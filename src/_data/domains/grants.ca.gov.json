@@ -1,0 +1,36 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "grants.ca.gov",
+  "targetURL": "https://www.grants.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Home - California Grants Portal",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "x-btcache-served": "Yes",
+    "x-elasticpress-query": "true",
+    "x-frame-options": "SAMEORIGIN"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-WFDBH54"
+  ],
+  "socialLinks": [
+    "https://www.linkedin.com/company/ca-grants-portal/",
+    "https://www.youtube.com/user/CSLmultimedia",
+    "https://x.com/CAGrantsPortal"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

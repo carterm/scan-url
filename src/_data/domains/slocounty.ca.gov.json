@@ -1,0 +1,35 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "slocounty.ca.gov",
+  "targetURL": "https://www.slocounty.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Home - County of San Luis Obispo",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "server": "cloudflare",
+    "x-powered-by": "ASP.NET"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "GTM-PT92XTQ"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/SLOCountyGov",
+    "https://www.instagram.com/countyofslo/",
+    "https://www.youtube.com/user/slocountygov"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

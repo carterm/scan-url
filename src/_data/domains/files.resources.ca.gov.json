@@ -1,0 +1,28 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "files.resources.ca.gov",
+  "targetURL": "https://files.resources.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "files.resources.ca.gov — Domain welcome page for",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-type": "text/html",
+    "server": "nginx"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

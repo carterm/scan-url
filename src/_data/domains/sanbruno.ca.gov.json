@@ -1,0 +1,36 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "sanbruno.ca.gov",
+  "targetURL": "https://www.sanbruno.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "San Bruno, CA | Official Website",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "p3p": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"",
+    "x-content-type-options": "nosniff"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-FVWSYTCK31",
+    "GTM-K73C5PS"
+  ],
+  "socialLinks": [
+    "https://twitter.com/cityofsanbruno",
+    "https://www.facebook.com/thecityofsanbruno/",
+    "https://www.instagram.com/cityofsanbruno/",
+    "https://www.youtube.com/channel/UC27qOw-HC10jUkZuOVJb3vA"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

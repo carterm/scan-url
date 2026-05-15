@@ -1,0 +1,276 @@
+//@ts-check
+/**
+ * @typedef {import("./types/DomainRecord.mjs").DomainRecord} DomainRecord
+ */
+
+import { fetch, Agent } from "undici";
+import { performance } from "node:perf_hooks";
+import { JSDOM, VirtualConsole } from "jsdom";
+
+import removeHeaders from "./removeHeaders.mjs";
+
+const keepHeaders = [
+  "server",
+  "content-encoding",
+  "x-content-type-options",
+  "connection",
+  "x-frame-options",
+  "referrer-policy",
+  "accept-ranges",
+  "transfer-encoding",
+  "vary"
+];
+
+const failTitleWords = [
+  "403 Forbidden",
+  "404 Not Found",
+  "400 Bad Request",
+  "Error",
+  "Bad Gateway",
+  "Captcha",
+  "Log In"
+];
+
+const fetchTimeout = 15000; //15 seconds
+
+const insecureAgent = new Agent({
+  connect: { rejectUnauthorized: false, timeout: fetchTimeout },
+  bodyTimeout: fetchTimeout, // time allowed for the body to be received
+  headersTimeout: fetchTimeout // time allowed for headers
+});
+
+/**
+ * @param {DomainRecord} original
+ * @returns {Promise<DomainRecord>}
+ */
+export async function fetchAndAnalyze(original) {
+  const domainRecord = { ...original };
+  domainRecord.domain = original.domain;
+
+  const url = domainRecord.targetURL;
+  const start = performance.now();
+  let duration = 0;
+  // Let fetch handle redirects automatically
+  /** @type {import("undici").Response} */
+  let res;
+  try {
+    res = await fetch(url, {
+      dispatcher: insecureAgent,
+      redirect: "follow"
+    });
+  } catch (e) {
+    //@ts-ignore
+    domainRecord.errorMessage = `Fetch error: ${e.message} ${e.cause?.message || ""}`;
+
+    return domainRecord;
+  } finally {
+    const end = performance.now();
+    duration = Math.round((end - start) / 1000);
+    //console.log(`Fetching ${url} took ${duration} S`);
+  }
+
+  domainRecord.lastStatus = res.status;
+  domainRecord.finalUrl = res.url;
+
+  domainRecord.responseHeaders = {};
+
+  res.headers.forEach((value, name) => {
+    if (!removeHeaders.includes(name.toLowerCase())) {
+      domainRecord.responseHeaders[name] = domainRecord.responseHeaders[name]
+        ? domainRecord.responseHeaders[name] + "; " + value
+        : value;
+    }
+  });
+
+  // add back any removed headers from the original that match keepHeaders
+  keepHeaders.forEach(header => {
+    const value = original.responseHeaders[header];
+    if (value && !domainRecord.responseHeaders[header]) {
+      domainRecord.responseHeaders[header] = value;
+    }
+  });
+
+  // Sort the responseHeaders object
+  domainRecord.responseHeaders = Object.fromEntries(
+    Object.entries(domainRecord.responseHeaders).sort()
+  );
+
+  const cacheControl = res.headers.get("cache-control")?.toLowerCase();
+  if (cacheControl) {
+    domainRecord.nocache =
+      cacheControl.includes("no-store") ||
+      cacheControl.includes("no-cache") ||
+      cacheControl.includes("max-age=0");
+  }
+
+  const body = await res.text();
+  //const contentSize = Buffer.byteLength(body);
+
+  // Basic Cloudflare detection (non-bypass)
+  domainRecord.cloudflare =
+    (domainRecord.lastStatus === 200 &&
+      body.includes("cf-browser-verification")) ||
+    body.includes("Just a moment");
+
+  // If Cloudflare challenge or 4xx/5xx → return minimal result
+  if (domainRecord.lastStatus >= 400 || domainRecord.cloudflare) {
+    domainRecord.errorMessage = domainRecord.cloudflare
+      ? "Cloudflare challenge detected"
+      : `HTTP ${domainRecord.lastStatus}`;
+  }
+
+  delete domainRecord.DOMErrors;
+  const virtualConsole = new VirtualConsole();
+  virtualConsole.on("jsdomError", e => {
+    //console.log(`⚠️ JSDOM error for ${url}: ${e.message}`);
+
+    domainRecord.DOMErrors = domainRecord.DOMErrors || [];
+    if (!domainRecord.DOMErrors.includes(e.message))
+      domainRecord.DOMErrors.push(e.message);
+  });
+
+  // Parse HTML
+  const dom = new JSDOM(body, {
+    url: res.url,
+    virtualConsole
+  });
+
+  const doc = dom.window.document;
+
+  let redirectURL = doc.URL !== url ? doc.URL : undefined;
+  if (redirectURL?.startsWith("https://login.microsoftonline.com")) {
+    redirectURL = "[login.microsoftonline.com]";
+  }
+  if (redirectURL?.startsWith(url)) {
+    //remove the host in redirect if it matches target
+    redirectURL = redirectURL.replace(url, "/");
+  }
+  domainRecord.finalUrl = redirectURL ?? "";
+
+  const scripts = [...doc.scripts]
+    .map(x => x.src)
+    .filter(x => x)
+    .map(x => new URL(x, res.url).href);
+
+  const stylesheets = /** @type {HTMLLinkElement[]} */ ([
+    ...doc.querySelectorAll("link[rel=stylesheet]")
+  ])
+    .map(x => x.href)
+    .map(x => new URL(x, res.url).href);
+
+ 
+
+  const newTitle = 
+    (doc.title?.trim().length
+      ? doc.title.trim()
+      : /** @type {HTMLMetaElement} */ (
+          doc.head.querySelector("meta[name=title i]") ||
+            doc.head.querySelector(
+              'meta[name="og:title" i], meta[property="og:title" i]'
+            ) ||
+            doc.head.querySelector(
+              'meta[name="twitter:title" i], meta[property="twitter:title" i]'
+            ) ||
+            doc.head.querySelector('meta[name="author" i]') ||
+            doc.head.querySelector('meta[name="description" i]')
+      )?.content) || "";
+  
+  if (newTitle.length > 0) {
+    domainRecord.title = newTitle;
+  }
+
+  domainRecord.metaGenerator = /** @type {HTMLMetaElement} */ (
+    doc.head.querySelector("meta[name=generator i]")
+  )?.content;
+
+  domainRecord.hasStatewideAlerts = scripts.some(x =>
+    x.includes("alert.cdt.ca.gov")
+  );
+
+  domainRecord.usesStateTemplate =
+    scripts.some(x => x.includes("cagov.core") || x.includes("caweb-")) ||
+    stylesheets.some(x => x.includes("cagov.core") || x.includes("caweb-"));
+
+  domainRecord.hasJQuery = scripts.some(x => x.includes("jquery"));
+
+  const code = [...doc.scripts].map(x => `${x.text};${x.src}`).join(";");
+  const GA = /GTM-\w{7}|G-\w{10}|UA-\d{7,8}-\d{1,2}/gim;
+
+  domainRecord.googleAnalytics = [
+    ...new Set([
+      ...domainRecord.googleAnalytics,
+      ...(code.toUpperCase().match(GA) || [])
+    ])
+  ].sort();
+
+  //domainRecord.slow = duration >= 8;
+
+  // Social links
+  const SOCIAL_DOMAINS = [
+    "facebook.com",
+    "fb.com",
+    "twitter.com",
+    "x.com",
+    "t.co",
+    "instagram.com",
+    "instagr.am",
+    "linkedin.com",
+    "lnkd.in",
+    "pinterest.com",
+    "pin.it",
+    "reddit.com",
+    "rd.it",
+    "youtube.com",
+    "youtu.be",
+    "tiktok.com"
+  ];
+
+  // add www, m variants
+  SOCIAL_DOMAINS.push(
+    ...SOCIAL_DOMAINS.map(d => "www." + d),
+    ...SOCIAL_DOMAINS.map(d => "m." + d),
+    ...SOCIAL_DOMAINS.map(d => "l." + d)
+  );
+
+  const anchorLinks = /** @type {HTMLAnchorElement[]} */ ([
+    ...doc.querySelectorAll("a[href]")
+  ]);
+
+  domainRecord.socialLinks = [
+    ...new Set(
+      anchorLinks
+        .map(a => a.href)
+        .filter(href => SOCIAL_DOMAINS.some(d => href.includes("://" + d)))
+    )
+  ].sort();
+
+  // CA.gov link detection
+  domainRecord.linksToCaGov = anchorLinks.some(a => {
+    try {
+      const u = new URL(a.href);
+      const host = u.hostname.toLowerCase();
+      return host === "ca.gov" || host === "www.ca.gov";
+    } catch {
+      return false;
+    }
+  });
+
+  if (domainRecord.ignoreFinalUrl) {
+    domainRecord.finalUrl = original.finalUrl;
+  }
+  if (domainRecord.finalUrl?.length === 0) delete domainRecord.finalUrl;
+
+  // Mark it a bad scan if failure words are in the title
+  if (
+    !domainRecord.errorMessage &&
+    failTitleWords.some(word => domainRecord.title.includes(word))
+  ) {
+    domainRecord.errorMessage = `Failure title word detected in title: "${domainRecord.title}"`;
+  }
+
+  if (domainRecord.errorMessage) {
+    domainRecord.goodScan = false;
+  }
+
+  return domainRecord;
+}

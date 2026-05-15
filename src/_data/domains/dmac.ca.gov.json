@@ -1,0 +1,28 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "dmac.ca.gov",
+  "targetURL": "https://www.dmac.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Disaster Management Area C",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "Keep-Alive",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "Apache",
+    "x-powered-by": "PHP/8.2.30"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": "Fetch error: fetch failed Connect Timeout Error (attempted address: www.dmac.ca.gov:443, timeout: 15000ms)",
+  "notes": null,
+  "nocache": false,
+  "goodScan": false
+}

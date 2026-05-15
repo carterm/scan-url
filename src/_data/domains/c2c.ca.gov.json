@@ -1,0 +1,38 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "c2c.ca.gov",
+  "targetURL": "https://c2c.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "California Cradle-to-Career Data System | C2C",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "cloudflare",
+    "x-cache-group": "normal",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "WP Engine"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "GTM-P7T6C5S"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/CaliforniaC2C",
+    "https://www.linkedin.com/company/ca-cradle-to-career/",
+    "https://www.youtube.com/@CA-Cradle-to-Career"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

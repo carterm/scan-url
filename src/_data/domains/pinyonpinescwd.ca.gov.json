@@ -1,0 +1,31 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "pinyonpinescwd.ca.gov",
+  "targetURL": "https://www.pinyonpinescwd.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Pinyon Pines County Water District",
+  "lastStatus": 200,
+  "metaGenerator": "Serif WebPlus Starter Edition   (3.0.0.005)",
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "Upgrade, Keep-Alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "server": "Apache",
+    "upgrade": "h2,h2c"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

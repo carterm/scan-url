@@ -1,0 +1,29 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "csm.ca.gov",
+  "targetURL": "https://www.csm.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Commission on State Mandates",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-type": "text/html",
+    "pragma": "no-cache",
+    "server": "nginx"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

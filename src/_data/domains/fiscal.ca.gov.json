@@ -1,0 +1,47 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "fiscal.ca.gov",
+  "targetURL": "https://fiscal.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "FI$Cal - State of California|",
+  "lastStatus": 200,
+  "metaGenerator": "Divi Child v.3.11.1.1533591462",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "permissions-policy": "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)",
+    "referrer-policy": "strict-origin",
+    "server": "nginx",
+    "wpo-cache-status": "cached",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "PHP/8.3.29",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-5TVLDSK",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [
+    "https://instagram.com/calfiscal",
+    "https://twitter.com/calfiscal",
+    "https://www.facebook.com/CalFiscal",
+    "https://www.facebook.com/calfiscal",
+    "https://www.linkedin.com/company/fi-cal-project",
+    "https://www.youtube.com/channel/UCw6Dnnb_djBG4fRTqKobQ5w",
+    "https://www.youtube.com/watch?v=dxznM9Yv2nQ"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

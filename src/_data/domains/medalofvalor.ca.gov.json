@@ -1,0 +1,30 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "medalofvalor.ca.gov",
+  "targetURL": "https://medalofvalor.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Medal of Valor Awards - Home",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-type": "text/html; charset=utf-8",
+    "server": "Microsoft-IIS/10.0",
+    "x-aspnet-version": "4.0.30319",
+    "x-powered-by": "ASP.NET"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-3419582-2"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

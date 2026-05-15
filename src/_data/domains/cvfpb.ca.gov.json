@@ -1,0 +1,36 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "cvfpb.ca.gov",
+  "targetURL": "https://cvfpb.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Central Valley Flood Protection Board – State of California",
+  "lastStatus": 200,
+  "metaGenerator": "Site Kit by Google 1.178.0",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-tec-api-origin": "https://cvfpb.ca.gov",
+    "x-tec-api-root": "https://cvfpb.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [],
+  "socialLinks": [
+    "https://www.linkedin.com/company/central-valley-flood-protection-board",
+    "https://www.youtube.com/@centralvalleyfloodprotecti1800"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

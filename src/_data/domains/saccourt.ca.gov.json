@@ -1,0 +1,36 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "saccourt.ca.gov",
+  "targetURL": "https://www.saccourt.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Superior Court of California - County of Sacramento",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-type": "text/html; charset=utf-8",
+    "server": "Microsoft-IIS/10.0",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "Deny",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-4132807-14"
+  ],
+  "socialLinks": [
+    "https://twitter.com/SacramentoCourt",
+    "https://www.facebook.com/SacramentoCountyCourt",
+    "https://www.linkedin.com/company/sacramento-superior-court",
+    "https://www.youtube.com/user/SacCountyCourts"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

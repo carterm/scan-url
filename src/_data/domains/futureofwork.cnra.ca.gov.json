@@ -1,0 +1,32 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "futureofwork.cnra.ca.gov",
+  "targetURL": "https://futureofwork.cnra.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Certified Regulatory Programs – Notices of Determination – CEQA requires agencies with Certified Regulatory Programs to file Notices of Decision (NOD) with the California Natural Resources Agency.",
+  "lastStatus": 200,
+  "metaGenerator": "Site Kit by Google 1.178.0",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "x-frame-options": "SAMEORIGIN"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-3419582-2",
+    "UA-59627195-7"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

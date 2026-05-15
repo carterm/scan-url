@@ -1,0 +1,45 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "bot.ca.gov",
+  "targetURL": "https://www.bot.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Board of Occupational Therapy",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "access-control-allow-private-network": "true",
+    "connection": "Keep-Alive",
+    "content-type": "text/html",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-VWTHLSTC7N",
+    "GTM-M683DJB",
+    "GTM-NBQCVZC",
+    "UA-3419582-2",
+    "UA-64276560-14"
+  ],
+  "socialLinks": [
+    "https://twitter.com/California_BOT",
+    "https://www.facebook.com/Occupationaltherapy.board",
+    "https://www.facebook.com/occupationaltherapy.board",
+    "https://www.instagram.com/California_bot",
+    "https://www.twitter.com/California_bot"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

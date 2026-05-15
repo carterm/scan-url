@@ -1,0 +1,42 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "resources.ca.gov",
+  "targetURL": "https://resources.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "California Natural Resources Agency",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ch": "Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version,Sec-CH-UA-Arch,Sec-CH-UA-Model,Sec-CH-UA-Bitness",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff ",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-L1ZSB6EXE0",
+    "UA-3419582-2",
+    "UA-59627195-1"
+  ],
+  "socialLinks": [
+    "https://twitter.com/calnatresources?lang=en",
+    "https://www.instagram.com/canaturalresourcesagency/?hl=en/",
+    "https://www.linkedin.com/company/california-natural-resources-agency/",
+    "https://www.youtube.com/channel/UCG9xOAcs8UP2WlBc3K2rftg/",
+    "https://x.com/CalNatResources"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

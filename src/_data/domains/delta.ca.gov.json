@@ -1,0 +1,45 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "delta.ca.gov",
+  "targetURL": "https://delta.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Delta Protection Commission – Committed to the Protection and Health of the Delta",
+  "lastStatus": 200,
+  "metaGenerator": "Site Kit by Google 1.178.0",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "x-content-type-options": "nosniff",
+    "x-tec-api-origin": "https://delta.ca.gov",
+    "x-tec-api-root": "https://delta.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-YB8LP09907",
+    "UA-20973992-19",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [
+    "http://twitter.com/CA_DPC",
+    "https://twitter.com/CA_DPC",
+    "https://www.facebook.com/DeltaProtectionCommission",
+    "https://www.facebook.com/DeltaProtectionCommission/",
+    "https://www.instagram.com/deltaprotectioncommission",
+    "https://www.linkedin.com/company/delta-protection-commission",
+    "https://www.linkedin.com/company/delta-protection-commission/",
+    "https://www.youtube.com/channel/UCvN9eic9BP1ad38micqMl6w/videos?view_as=subscriber"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

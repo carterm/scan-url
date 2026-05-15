@@ -1,0 +1,33 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "nctc.ca.gov",
+  "targetURL": "https://www.nctc.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Nevada County Transportation Commission - Home",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "server": "Microsoft-IIS/10.0",
+    "x-powered-by": "ASP.NET"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-507R801X2W"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/Nevada-County-Transportation-Commission-1598091307119278/timeline/"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

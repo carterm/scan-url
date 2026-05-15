@@ -1,0 +1,42 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "abcab.ca.gov",
+  "targetURL": "https://abcab.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Alcoholic Beverage Control Appeals Board",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "access-control-allow-private-network": "true",
+    "connection": "Keep-Alive",
+    "content-encoding": "br",
+    "content-type": "text/html",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "cloudflare",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-XYBVW071M5",
+    "G-Y7T2KCM7P1",
+    "GTM-NJ6Q4MV",
+    "UA-20973992-10",
+    "UA-3419582-2",
+    "UA-3419582-47"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

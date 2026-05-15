@@ -1,0 +1,30 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "postmile.dot.ca.gov",
+  "targetURL": "https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Postmile Services",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "Keep-Alive",
+    "content-type": "text/html; charset=UTF-8"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-21431721-9",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

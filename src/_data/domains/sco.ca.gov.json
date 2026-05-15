@@ -1,0 +1,35 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "sco.ca.gov",
+  "targetURL": "https://www.sco.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "SCO: Home",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-type": "text/html",
+    "server": "",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "ASP.NET"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "GTM-5D5F2SV"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CAController",
+    "https://www.facebook.com/CAController",
+    "https://www.instagram.com/californiacontroller/",
+    "https://www.linkedin.com/company/california-state-controllers"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

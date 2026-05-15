@@ -1,0 +1,29 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "sdrc.ca.gov",
+  "targetURL": "https://sdrc.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "San Diego River Conservancy",
+  "lastStatus": 200,
+  "metaGenerator": "Site Kit by Google 1.178.0",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "x-content-type-options": "nosniff"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

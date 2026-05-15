@@ -1,0 +1,30 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "aquaculturematters.ca.gov",
+  "targetURL": "https://aquaculturematters.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Aquaculture Matters – Why aquaculture in California matters",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "x-hacker": "Want root?  Visit join.a8c.com and mention this header."
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

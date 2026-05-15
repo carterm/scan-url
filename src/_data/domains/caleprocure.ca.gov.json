@@ -1,0 +1,31 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "caleprocure.ca.gov",
+  "targetURL": "https://caleprocure.ca.gov/pages/index.aspx",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Cal eProcure",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "server": "nginx"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-WTBNSTN",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

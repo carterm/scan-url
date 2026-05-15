@@ -1,0 +1,30 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "colma.ca.gov",
+  "targetURL": "https://www.colma.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Home - Town of Colma",
+  "lastStatus": 403,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=iso-8859-1",
+    "permissions-policy": "camera=(), microphone=(), geolocation=()",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": "HTTP 403",
+  "notes": "403 since 2026-04-23",
+  "goodScan": true
+}

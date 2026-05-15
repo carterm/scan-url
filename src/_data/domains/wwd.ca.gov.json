@@ -1,0 +1,41 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "wwd.ca.gov",
+  "targetURL": "https://wwd.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Home - Westlands Water District",
+  "lastStatus": 200,
+  "metaGenerator": "WordPress 6.9.4",
+  "responseHeaders": {
+    "cf-edge-cache": "cache,platform=wordpress",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "x-tec-api-origin": "https://wwd.ca.gov",
+    "x-tec-api-root": "https://wwd.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-40603001-1"
+  ],
+  "socialLinks": [
+    "https://twitter.com/Westlands_Water",
+    "https://www.facebook.com/WestlandsWaterDistrict/",
+    "https://www.instagram.com/accounts/login/?next=/westlands_water/",
+    "https://www.linkedin.com/company/westlands-water-district/",
+    "https://www.youtube.com/channel/UC94BCOwXZ4zN1Utem5H98sQ"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

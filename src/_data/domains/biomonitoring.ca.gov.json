@@ -1,0 +1,26 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "biomonitoring.ca.gov",
+  "targetURL": "https://www.biomonitoring.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Biomonitoring California | Measuring Chemicals in Californians",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "close",
+    "content-type": "text/html"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

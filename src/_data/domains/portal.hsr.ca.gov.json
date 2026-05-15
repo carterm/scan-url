@@ -1,0 +1,26 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "portal.hsr.ca.gov",
+  "targetURL": "https://portal.hsr.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "HSR Service Portal",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "close",
+    "content-type": "text/html"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

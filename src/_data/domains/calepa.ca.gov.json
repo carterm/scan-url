@@ -1,0 +1,26 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "calepa.ca.gov",
+  "targetURL": "https://calepa.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "CalEPA | California Environmental Protection Agency",
+  "lastStatus": 403,
+  "responseHeaders": {
+    "connection": "close",
+    "content-type": "text/html"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": "Fetch error: fetch failed redirect count exceeded",
+  "notes": "403 since 2026-04-23",
+  "nocache": true,
+  "goodScan": true
+}

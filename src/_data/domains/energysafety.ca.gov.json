@@ -1,0 +1,39 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "energysafety.ca.gov",
+  "targetURL": "https://energysafety.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Office of Energy Infrastructure Safety | Driving utility-related wildfire risk reduction for the State of California.",
+  "lastStatus": 200,
+  "metaGenerator": "CAWeb v.1.9.0",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-DCP197HRSL"
+  ],
+  "socialLinks": [
+    "https://instagram.com/caenergysafety",
+    "https://twitter.com/CaEnergySafety",
+    "https://www.facebook.com/caenergysafety",
+    "https://www.linkedin.com/company/energysafety/",
+    "https://www.youtube.com/@caenergysafety"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

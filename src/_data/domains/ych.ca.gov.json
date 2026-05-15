@@ -1,0 +1,36 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "ych.ca.gov",
+  "targetURL": "https://www.ych.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Yolo County Housing Authority",
+  "lastStatus": 200,
+  "metaGenerator": "Powered by LayerSlider 7.1.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress.",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "x-cache-group": "normal",
+    "x-powered-by": "WP Engine",
+    "x-tec-api-origin": "https://www.ych.ca.gov",
+    "x-tec-api-root": "https://www.ych.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-CY5VGQ3JWN"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

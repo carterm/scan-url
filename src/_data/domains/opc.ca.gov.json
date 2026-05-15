@@ -1,0 +1,42 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "opc.ca.gov",
+  "targetURL": "https://www.opc.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "- California Ocean Protection Council",
+  "lastStatus": 200,
+  "metaGenerator": "Site Kit by Google 1.178.0",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "x-frame-options": "SAMEORIGIN"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-M2BQ3XS",
+    "UA-3419582-2",
+    "UA-59627195-2"
+  ],
+  "socialLinks": [
+    "http://www.facebook.com/OceanProtectionCouncil",
+    "https://twitter.com/OPC_California",
+    "https://www.instagram.com/OPC_California/",
+    "https://www.linkedin.com/company/california-ocean-protection-council",
+    "https://www.youtube.com/channel/UC0IYJ5NiT17CS-FlJy--5YA"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true,
+  "DOMErrors": [
+    "Could not parse CSS stylesheet"
+  ]
+}

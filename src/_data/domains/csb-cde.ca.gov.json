@@ -1,0 +1,36 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "csb-cde.ca.gov",
+  "targetURL": "https://www.csb-cde.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "California School for the Blind, Fremont",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-CZVXSCW7Y7"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/CaliforniaSchoolForTheBlind",
+    "https://www.instagram.com/californiaschoolfortheblind",
+    "https://www.tiktok.com/@csbfremont",
+    "https://www.youtube.com/@CSBfremont",
+    "https://www.youtube.com/channel/UCrrZcLxRWmKKnOR98m6SeqQ",
+    "https://x.com/CSBFremont"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

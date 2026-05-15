@@ -1,0 +1,37 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "ppmoe.dot.ca.gov",
+  "targetURL": "https://ppmoe.dot.ca.gov/cc",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Home - Contractors Corner | Caltrans",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html;charset=UTF-8",
+    "pragma": "no-store,no-cache",
+    "referrer-policy": "same-origin",
+    "server": "snow_adc",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-is-logged-in": "false"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-MULTISELEC",
+    "G-RESPONSIVE",
+    "G-TRANSCLUDE"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "statebarcourt.ca.gov",
+  "targetURL": "https://www.statebarcourt.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Home | The State Bar of California",
+  "lastStatus": 200,
+  "metaGenerator": "Drupal 11 (https://www.drupal.org)",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-language": "en",
+    "content-type": "text/html; charset=UTF-8",
+    "feature-policy": "geolocation 'none'; camera 'none'; microphone 'none'",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-generator": "Drupal 11 (https://www.drupal.org)",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-E3V3RY8CPC"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/StateBarofCA",
+    "https://www.linkedin.com/company/state-bar-of-california",
+    "https://x.com/statebarca"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

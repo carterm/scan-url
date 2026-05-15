@@ -1,0 +1,46 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "sunnyvale.ca.gov",
+  "targetURL": "https://www.sunnyvale.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Sunnyvale, CA | Home",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "edge-cache-tag": "B8867511.G,B8867511.P11,B8867511.CMENU,B8867511.CL2,B8867511.CL5,B8867511.CL4",
+    "expect-ct": "max-age=31536000",
+    "last-published": "Mon, 04 May 2026 16:17:20 GMT",
+    "server": "AkamaiGHost",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-JBUHY_LMRH",
+    "G-R8HYT6ITBJ",
+    "G-T4KDVQ1M42",
+    "G-WVHV5Y34FM",
+    "G-ZRY5RPGC6K"
+  ],
+  "socialLinks": [
+    "http://instagram.com/CityofSunnyvale",
+    "https://twitter.com/CityofSunnyvale",
+    "https://www.facebook.com/CityofSunnyvale",
+    "https://www.linkedin.com/company/city-of-sunnyvale",
+    "https://www.youtube.com/cityofsunnyvale"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": "",
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "mlfd.ca.gov",
+  "targetURL": "https://mlfd.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Mammoth Lakes Fire Department | Mammoth Lakes California",
+  "lastStatus": 200,
+  "metaGenerator": "WordPress 6.9.4",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
+    "pragma": "no-cache",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "server": "nginx",
+    "x-httpd": "1"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [],
+  "socialLinks": [
+    "https://www.facebook.com/mammothlakesfire/",
+    "https://www.instagram.com/mammothlakesfiredept/"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

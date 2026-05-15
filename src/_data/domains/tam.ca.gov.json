@@ -1,0 +1,38 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "tam.ca.gov",
+  "targetURL": "https://www.tam.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Transportation Authority of Marin",
+  "lastStatus": 200,
+  "metaGenerator": "Powered by WPBakery Page Builder - drag and drop page builder for WordPress.",
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "cloudflare",
+    "x-cache-group": "normal",
+    "x-powered-by": "WP Engine",
+    "x-tec-api-origin": "https://www.tam.ca.gov",
+    "x-tec-api-root": "https://www.tam.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-4YBXR627CN",
+    "G-9DDJ0T3LZS"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

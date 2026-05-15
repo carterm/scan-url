@@ -1,0 +1,46 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "fppc.ca.gov",
+  "targetURL": "https://www.fppc.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "California Fair Political Practices Commission (FPPC)",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "request-context": "appId=cid-v1:8b509924-8049-44b3-96ad-3a32b8db56b8",
+    "server": "cloudflare",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-1V1D6GRFKL",
+    "G-75V2BNQ3DR",
+    "GTM-NJ6Q4MV",
+    "UA-22860881-1",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CA_FPPC",
+    "https://www.facebook.com/CAFPPC/",
+    "https://www.instagram.com/cafppc/",
+    "https://www.youtube.com/@CAFPPC/featured",
+    "https://www.youtube.com/@CAFPPC/streams",
+    "https://www.youtube.com/user/CAFPPC/videos"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

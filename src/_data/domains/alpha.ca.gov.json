@@ -1,0 +1,31 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "alpha.ca.gov",
+  "targetURL": "https://www.alpha.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Welcome to Alpha.CA.gov",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "server": "AmazonS3"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-5GGV1QPJD4",
+    "G-69TD0KNT0F"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

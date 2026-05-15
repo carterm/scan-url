@@ -1,0 +1,37 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "bar.ca.gov",
+  "targetURL": "https://www.bar.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Home page - Bureau of Automotive Repair",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "access-control-allow-private-network": "true",
+    "content-type": "text/html; charset=utf-8",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-2RE0XT2L0F"
+  ],
+  "socialLinks": [
+    "https://urldefense.com/v3/__https://www.facebook.com/BureauofAutomotiveRepair__;!!Em4Sr2I!LFgrumblSJefpOpbs64p_9cuvViY1vBImiioAvVkf3ZsuQl-Z1DbWbVJw02fW650Tx8tAl7F0b9oP_59uZpK$",
+    "https://www.facebook.com/BureauofAutomotiveRepair",
+    "https://www.youtube.com/user/CaliforniaDCA",
+    "https://x.com/BARinfo"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

@@ -1,0 +1,30 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "cpads.sco.ca.gov",
+  "targetURL": "https://cpads.sco.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "State Controller's Office CPA Directory Service (CPADS)",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-type": "text/html; charset=utf-8",
+    "server": "",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "ASP.NET"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "GTM-MWCXZTZ"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

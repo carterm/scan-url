@@ -1,0 +1,28 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "dc-cde.ca.gov",
+  "targetURL": "https://www.dc-cde.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Diagnostic Centers - Special Education (CA Dept of Education)",
+  "lastStatus": 200,
+  "metaGenerator": "Jekyll v3.8.5",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

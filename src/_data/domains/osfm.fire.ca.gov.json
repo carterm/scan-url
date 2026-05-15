@@ -1,0 +1,43 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "osfm.fire.ca.gov",
+  "targetURL": "https://osfm.fire.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Office of the State Fire Marshal | OSFM",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=93600",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "request-context": "appId=cid-v1:7d94dcb4-168e-416c-851f-685e11191e72",
+    "server": "Microsoft-IIS/10.0",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-HN6DJN3Q1W",
+    "UA-12131957-10",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CAL_OFFICE",
+    "https://twitter.com/cal_office?lang=en",
+    "https://www.facebook.com/CALFIREOSFM/",
+    "https://www.instagram.com/calfireosfm/",
+    "https://www.instagram.com/calfireosfm/?hl=en",
+    "https://www.youtube.com/@CALFIREOSFM"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": "",
+  "notes": null,
+  "goodScan": true,
+  "nocache": false
+}

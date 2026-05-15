@@ -1,0 +1,40 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "chp.ca.gov",
+  "targetURL": "https://www.chp.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "California Highway Patrol",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "request-context": "appId=cid-v1:21534320-bb29-41ca-aef3-2d002fe6c966",
+    "server": "cloudflare"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-75V2BNQ3DR",
+    "GTM-5J36M86",
+    "GTM-NJ6Q4MV",
+    "UA-1915322-1"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CHP_HQ",
+    "https://www.facebook.com/CHP",
+    "https://www.youtube.com/@CaliforniaHighwayPatrolTV",
+    "https://www.youtube.com/user/TheCHPChannel"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "heber.ca.gov",
+  "targetURL": "https://www.heber.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Home | The Heber Public Utility District",
+  "lastStatus": 200,
+  "metaGenerator": "Drupal 8 (https://www.drupal.org)",
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-language": "en",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx/1.25.5",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-generator": "Drupal 8 (https://www.drupal.org)",
+    "x-server-cache": "true",
+    "x-ua-compatible": "IE=edge"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [
+    "https://www.facebook.com/heberpublicutilitydistrict",
+    "https://www.facebook.com/tonysandovalforheber",
+    "https://www.instagram.com/heberpud/",
+    "https://www.linkedin.com/in/tony-sandoval-1142243",
+    "https://www.twitter.com/HeberTonySandov"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

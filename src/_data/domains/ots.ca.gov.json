@@ -1,0 +1,62 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "ots.ca.gov",
+  "targetURL": "https://www.ots.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Office of Traffic Safety | The California Office of Traffic Safety’s mission is to administer traffic safety grant funds to reduce traffic deaths, injuries, and economic losses.",
+  "lastStatus": 200,
+  "metaGenerator": "CAWeb v.1.13.4",
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
+    "server": "cloudflare",
+    "x-cache-group": "normal",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "WP Engine"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-1PS9L6E2RE",
+    "G-69TD0KNT0F",
+    "G-Y7T2KCM7P1",
+    "UA-20973992-23",
+    "UA-3419582-2",
+    "UA-3419582-47"
+  ],
+  "socialLinks": [
+    "https://instagram.com/ots_CA/",
+    "https://twitter.com/OTS_CA",
+    "https://www.facebook.com/CaliforniaOTS",
+    "https://www.instagram.com/ots_ca/",
+    "https://www.instagram.com/p/DVgjy65CvbT/",
+    "https://www.instagram.com/p/DVjk8k4lDVL/",
+    "https://www.instagram.com/p/DVuG0n6FJYP/",
+    "https://www.instagram.com/p/DW6dy9HGgRQ/",
+    "https://www.instagram.com/p/DW6u1wjjWrZ/",
+    "https://www.instagram.com/p/DWCWiidFOrj/",
+    "https://www.instagram.com/p/DWCkz5GFuow/",
+    "https://www.instagram.com/p/DWEf6_8jDE8/",
+    "https://www.instagram.com/p/DWHgIZ1F7zC/",
+    "https://www.instagram.com/p/DWoi-LEFHzZ/",
+    "https://www.instagram.com/reel/DV8-l-0EVok/",
+    "https://www.instagram.com/reel/DWrioXMiQPB/",
+    "https://www.youtube.com/user/CaliforniaOTS"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true,
+  "DOMErrors": [
+    "Could not parse CSS stylesheet"
+  ]
+}

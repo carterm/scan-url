@@ -1,0 +1,31 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "mcweb.apps.prd.cammis.medi-cal.ca.gov",
+  "targetURL": "https://mcweb.apps.prd.cammis.medi-cal.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "State of California",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "DENY",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-8G032ZWHBJ"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

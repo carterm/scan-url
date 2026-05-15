@@ -1,0 +1,37 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "rcpa.ca.gov",
+  "targetURL": "https://rcpa.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Regional Climate Protection Authority",
+  "lastStatus": 200,
+  "metaGenerator": "WordPress 6.9.4",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "x-httpd-modphp": "1"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-B3Z6BJFM4T",
+    "G-CACHEPRESS"
+  ],
+  "socialLinks": [
+    "https://twitter.com/SonomaRCPA",
+    "https://www.facebook.com/SonomaRCPA/",
+    "https://www.youtube.com/@sctarcpa7902"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

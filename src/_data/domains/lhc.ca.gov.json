@@ -1,0 +1,41 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "lhc.ca.gov",
+  "targetURL": "https://lhc.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Home - Little Hoover Commission",
+  "lastStatus": 200,
+  "metaGenerator": "WordPress 6.9.1",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "sitedistrict-nginx",
+    "x-cache-hit-level": "1",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-sd-served-by": "proxy-9",
+    "x-server": "sitedistrict",
+    "x-ua-compatible": "IE=edge",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [],
+  "socialLinks": [
+    "http://www.youtube.com/channel/UCfcgKvOmTnuqmZZ7fN9I04w",
+    "https://twitter.com/CALittleHoover",
+    "https://www.facebook.com/CALittleHoover",
+    "https://www.linkedin.com/company/little-hoover-commission"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

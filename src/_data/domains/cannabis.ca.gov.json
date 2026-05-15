@@ -1,0 +1,44 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "cannabis.ca.gov",
+  "targetURL": "https://www.cannabis.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Department of Cannabis Control",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "access-control-allow-origin": "*",
+    "content-disposition": "inline",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=utf-8",
+    "permissions-policy": "camera=(), microphone=(), geolocation=(), interest-cohort=()",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "Vercel",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "DENY",
+    "x-matched-path": "/",
+    "x-vercel-cache": "HIT",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-LABORATORI"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CACannabisDept",
+    "https://www.facebook.com/CACannabisDept",
+    "https://www.instagram.com/cacannabisdept/",
+    "https://www.linkedin.com/company/cacannabisdept/",
+    "https://www.youtube.com/c/CADepartmentofCannabisControl"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

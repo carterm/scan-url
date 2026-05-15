@@ -1,0 +1,29 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "bawa.ca.gov",
+  "targetURL": "https://bawa.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "BISHOP AREA WASTEWATER AUTHORITY",
+  "lastStatus": 200,
+  "metaGenerator": "WordPress 6.9.4",
+  "responseHeaders": {
+    "connection": "Upgrade, Keep-Alive",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "Apache",
+    "upgrade": "h2,h2c"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

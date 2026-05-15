@@ -1,0 +1,36 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "rmc.ca.gov",
+  "targetURL": "https://rmc.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "San Gabriel and Lower Los Angeles Rivers and Mountains Conservancy",
+  "lastStatus": 200,
+  "metaGenerator": "Site Kit by Google 1.178.0",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "wpo-cache-status": "cached",
+    "x-content-type-options": "nosniff"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [
+    "https://twitter.com/RMConservancy",
+    "https://www.facebook.com/RiversMountainsConservancy",
+    "https://www.instagram.com/riversandmountainsconservancy/",
+    "https://www.youtube.com/user/californiagovernment"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

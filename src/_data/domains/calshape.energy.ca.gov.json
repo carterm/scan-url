@@ -1,0 +1,34 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "calshape.energy.ca.gov",
+  "targetURL": "https://calshape.energy.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Home Page - California Energy Commission",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-type": "text/html; charset=utf-8",
+    "server": "Microsoft-IIS/10.0",
+    "x-aspnet-version": "4.0.30319",
+    "x-powered-by": "ASP.NET"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [],
+  "socialLinks": [
+    "http://www.facebook.com/CAEnergy/",
+    "http://www.youtube.com/calenergycommission/",
+    "https://twitter.com/calenergy/",
+    "https://www.instagram.com/calenergy/",
+    "https://www.linkedin.com/company/california-energy-commission"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

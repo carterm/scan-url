@@ -1,0 +1,39 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "brea.ca.gov",
+  "targetURL": "https://www.brea.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "California Bureau of Real Estate Appraisers",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "access-control-allow-private-network": "true",
+    "connection": "Keep-Alive",
+    "content-type": "text/html",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "UA-22544255-17",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CaliforniaBREA/",
+    "https://www.facebook.com/Bureau-of-Real-Estate-Appraisers-1788727484694167/",
+    "https://youtu.be/XGFX_TDjlC8"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "cirm.ca.gov",
+  "targetURL": "https://www.cirm.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "CIRM – California's Stem Cell and Gene Therapy Agency",
+  "lastStatus": 200,
+  "metaGenerator": "WordPress 6.9.4",
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "x-ua-compatible": "IE=edge"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-LGEK77YV1P"
+  ],
+  "socialLinks": [
+    "https://twitter.com/cirmnews",
+    "https://www.facebook.com/CaliforniaInstituteForRegenerativeMedicine",
+    "https://www.instagram.com/cirmnews/",
+    "https://www.linkedin.com/company/california-institute-for-regenerative-medicine/",
+    "https://www.youtube.com/user/CIRMTV"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": "Fetch error: fetch failed Headers Timeout Error",
+  "notes": null,
+  "nocache": false,
+  "goodScan": false
+}

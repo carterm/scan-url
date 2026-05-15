@@ -1,0 +1,37 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "csssa.ca.gov",
+  "targetURL": "https://www.csssa.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "California State Summer School for the Arts",
+  "lastStatus": 200,
+  "metaGenerator": "Site Kit by Google 1.178.0",
+  "responseHeaders": {
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "Microsoft-IIS/10.0",
+    "x-powered-by": "ASP.NET",
+    "x-powered-by-plesk": "PleskWin"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-ANNOUNCEME"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/csssa",
+    "https://www.instagram.com/csssa_schoolforthearts/",
+    "https://www.tiktok.com/@csssa_schoolforthearts",
+    "https://www.youtube.com/c/csssacsssafoundation"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

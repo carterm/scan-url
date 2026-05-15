@@ -1,0 +1,36 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "familieschange.ca.gov",
+  "targetURL": "https://familieschange.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Home | Familieschange California",
+  "lastStatus": 200,
+  "metaGenerator": "Drupal 7 (http://drupal.org)",
+  "responseHeaders": {
+    "connection": "Keep-Alive",
+    "content-encoding": "gzip",
+    "content-language": "en",
+    "content-type": "text/html; charset=utf-8",
+    "server": "Apache/2.4.52 (Ubuntu)",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-generator": "Drupal 7 (http://drupal.org)"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-KHQRW8K",
+    "UA-42225500-1"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

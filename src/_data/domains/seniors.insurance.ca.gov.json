@@ -1,0 +1,35 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "seniors.insurance.ca.gov",
+  "targetURL": "https://seniors.insurance.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "California Seniors",
+  "lastStatus": 200,
+  "metaGenerator": "CommonSpot Build 10.9.1.579",
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html;charset=UTF-8",
+    "pragma": "no-cache",
+    "server": "Microsoft-IIS/10.0",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "ASP.NET"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-7KBM6NS4N5",
+    "UA-3419582-2",
+    "UA-35348113-1"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

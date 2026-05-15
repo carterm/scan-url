@@ -1,0 +1,31 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "californiadgstats.ca.gov",
+  "targetURL": "https://www.californiadgstats.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "CaliforniaDGStats",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=utf-8",
+    "x-frame-options": "DENY"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-1Z3D4EMH7X",
+    "G-PT0KK6BNM3",
+    "GTM-KK8LBS3"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

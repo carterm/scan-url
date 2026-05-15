@@ -1,0 +1,51 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "escog.ca.gov",
+  "targetURL": "https://escog.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "EASTERN SIERRA COUNCIL OF GOVERNMENTS JOINT POWERS AUTHORITY",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "content-encoding": "gzip",
+    "content-type": "text/html;charset=utf-8",
+    "server": "Squarespace",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-013F66E7C6",
+    "G-2F49DC7692",
+    "G-43AF232B5B",
+    "G-5CGC3ET1CB",
+    "G-701BF8BBC0",
+    "G-86AACD645D",
+    "G-902FAAFCE0",
+    "G-920708D91C",
+    "G-ALTERNATIN",
+    "G-B1BA7891C2",
+    "G-B685267B79",
+    "G-C63BF8989A",
+    "G-COLLECTION",
+    "G-D22EABECA1",
+    "G-DB8F466935",
+    "G-DBE066AE53",
+    "G-F9093F2D52"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true,
+  "DOMErrors": [
+    "Could not parse CSS stylesheet"
+  ]
+}

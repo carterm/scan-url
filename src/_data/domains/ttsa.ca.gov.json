@@ -1,0 +1,36 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "ttsa.ca.gov",
+  "targetURL": "https://www.ttsa.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Tahoe-Truckee SanitationAgency, CA | Official Website",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "p3p": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"",
+    "server": "cloudflare",
+    "x-content-type-options": "nosniff"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-BT3F8NYDVX",
+    "GTM-K73C5PS"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/p/Tahoe-Truckee-Sanitation-Agency-100065674712024/?locale=fr_CA",
+    "https://www.linkedin.com/company/tahoe-truckee-sanitation-agency"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

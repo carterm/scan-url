@@ -1,0 +1,34 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "geotracker.waterboards.ca.gov",
+  "targetURL": "https://geotracker.waterboards.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "GeoTracker",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "cf-apo-via": "origin,host",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "cloudflare",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-NP6RZTM"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

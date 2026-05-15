@@ -1,0 +1,47 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "calpers.ca.gov",
+  "targetURL": "https://www.calpers.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "California Public Employees' Retirement System",
+  "lastStatus": 200,
+  "metaGenerator": "Drupal 10 (https://www.drupal.org)",
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-language": "en",
+    "content-type": "text/html; charset=UTF-8",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "nginx",
+    "x-ah-environment": "prod",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "ALLOW-FROM calpers.ddev.site",
+    "x-generator": "Drupal 10 (https://www.drupal.org)"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-EGNB9Q40R8",
+    "G-NVPAH5KF7T",
+    "GTM-TVMFZD9"
+  ],
+  "socialLinks": [
+    "https://instagram.com/calpers/",
+    "https://twitter.com/CalPERS",
+    "https://www.facebook.com/mycalpers",
+    "https://www.linkedin.com/company/calpers",
+    "https://www.youtube.com/CalPERS",
+    "https://www.youtube.com/calpers"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

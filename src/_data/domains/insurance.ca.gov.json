@@ -1,0 +1,41 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "insurance.ca.gov",
+  "targetURL": "https://www.insurance.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "CA Department of Insurance",
+  "lastStatus": 200,
+  "metaGenerator": "CommonSpot Build 10.9.1.579",
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html;charset=UTF-8",
+    "pragma": "no-cache",
+    "server": "Microsoft-IIS/10.0",
+    "x-frame-options": "SAMEORIGIN, SAMEORIGIN",
+    "x-powered-by": "ASP.NET"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-6MLHRYZYQV",
+    "UA-23180855-1",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [
+    "http://www.facebook.com/insurancecagov",
+    "http://www.linkedin.com/company/california-department-of-insurance",
+    "https://twitter.com/CDINews",
+    "https://www.instagram.com/cadeptofinsurance/",
+    "https://www.youtube.com/user/CaDeptOfInsurance"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

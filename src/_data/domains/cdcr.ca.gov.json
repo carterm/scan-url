@@ -1,0 +1,38 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "cdcr.ca.gov",
+  "targetURL": "https://www.cdcr.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "California Department of Corrections and Rehabilitation - CDCR",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "x-distributor": "yes",
+    "x-frame-options": "SAMEORIGIN"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "GTM-WWJWHL4"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CACorrections",
+    "https://www.facebook.com/cacorrections/",
+    "https://www.instagram.com/cacorrections/",
+    "https://www.youtube.com/user/CACorrections"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

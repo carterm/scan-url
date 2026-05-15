@@ -1,0 +1,37 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "expositionpark.ca.gov",
+  "targetURL": "https://expositionpark.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Exposition Park – Welcome",
+  "lastStatus": 200,
+  "metaGenerator": "Site Kit by Google 1.178.0",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "wpo-cache-status": "cached",
+    "x-content-type-options": "nosniff"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-3419582-2",
+    "UA-59627195-10"
+  ],
+  "socialLinks": [
+    "https://www.instagram.com/ExpositionParkLA/",
+    "https://www.tiktok.com/@expositionparkla?_t=8oQukM6KVXa&_r=1"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

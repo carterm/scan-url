@@ -1,0 +1,27 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "bayareacensus.ca.gov",
+  "targetURL": "http://www.bayareacensus.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Bay Area Census: We've Moved",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-type": "text/html",
+    "server": "AmazonS3",
+    "x-amz-version-id": "c52hFsQV9LmuQpfDKTfXFBOjG76ZGq4S"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

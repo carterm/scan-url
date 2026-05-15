@@ -1,0 +1,49 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "privacy.ca.gov",
+  "targetURL": "https://privacy.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "privacy.ca.gov - A website brought to you by the California Privacy Protection Agency",
+  "lastStatus": 200,
+  "metaGenerator": "CAWeb v.1.13.4",
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
+    "server": "cloudflare",
+    "x-cache-group": "normal",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "WP Engine",
+    "x-tec-api-origin": "https://privacy.ca.gov",
+    "x-tec-api-root": "https://privacy.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-CS4089W2ZV",
+    "G-Y7T2KCM7P1",
+    "UA-3419582-2",
+    "UA-3419582-47"
+  ],
+  "socialLinks": [
+    "https://instagram.com/calprivacy",
+    "https://twitter.com/CalPrivacy",
+    "https://www.facebook.com/61574944561128",
+    "https://www.linkedin.com/company/calprivacy",
+    "https://www.youtube.com/channel/UCZ810x7GMV_PC_d_i8TWWuQ"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

@@ -1,0 +1,55 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "gov.ca.gov",
+  "targetURL": "https://www.gov.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Governor of California",
+  "lastStatus": 200,
+  "metaGenerator": "CAWeb v.1.13.4",
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
+    "server": "cloudflare",
+    "x-cache-group": "normal",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "WP Engine"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-2G5GML7PQ6",
+    "G-69TD0KNT0F",
+    "G-Y7T2KCM7P1",
+    "GTM-TP25MN7",
+    "UA-3419582-2",
+    "UA-3419582-28",
+    "UA-3419582-47"
+  ],
+  "socialLinks": [
+    "http://youtube.com/cagovernor",
+    "https://twitter.com/cagovernor",
+    "https://www.facebook.com/CAgovernor/",
+    "https://www.facebook.com/watch/?v=2150551522413257&extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C&ref=sharing&mibextid=wwXIfr&share_url=https%3A%2F%2Ffb.watch%2FGphf8ttxwh%2F%3Fmibextid%3DwwXIfr",
+    "https://www.instagram.com/cagovernor/",
+    "https://www.instagram.com/p/DUR7YnOEcRO/",
+    "https://www.tiktok.com/@cagovernor",
+    "https://www.tiktok.com/@cagovernor/video/7613190720039505182?is_from_webapp=1",
+    "https://x.com/CAgovernor/status/2041011454388863359?s=20"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true,
+  "DOMErrors": [
+    "Could not parse CSS stylesheet"
+  ]
+}

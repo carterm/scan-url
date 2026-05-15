@@ -1,0 +1,36 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "data.cnra.ca.gov",
+  "targetURL": "https://data.cnra.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Welcome - California Natural Resources Agency Open Data",
+  "lastStatus": 200,
+  "metaGenerator": "ckan 2.9.11",
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "server": "cloudflare",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-L05EYD0Q7Q",
+    "G-Q09GQ8WSZJ",
+    "G-ZG8VBX1CS3"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

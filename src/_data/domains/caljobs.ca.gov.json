@@ -1,0 +1,26 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "caljobs.ca.gov",
+  "targetURL": "https://www.caljobs.ca.gov/vosnet/default.aspx",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "CalJOBS",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "close",
+    "content-type": "text/html"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

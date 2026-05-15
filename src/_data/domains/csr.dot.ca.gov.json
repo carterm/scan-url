@@ -1,0 +1,34 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "csr.dot.ca.gov",
+  "targetURL": "https://csr.dot.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Submit Customer Service Request",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "Keep-Alive",
+    "content-type": "text/html; charset=UTF-8",
+    "pragma": "no-cache",
+    "x-oneagent-js-injection": "true",
+    "x-ruxit-js-agent": "true"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-21431721-9",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [
+    "https://t.co/bzqHbsEuzU"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

@@ -1,0 +1,26 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "sprls.dre.ca.gov",
+  "targetURL": "https://sprls.dre.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Subdivision Public Reports Lookup System",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-type": "text/html; charset=utf-8",
+    "x-powered-by": "DRE"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

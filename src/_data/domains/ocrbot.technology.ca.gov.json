@@ -1,0 +1,32 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "ocrbot.technology.ca.gov",
+  "targetURL": "https://www.ocrbot.technology.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "OCRBot",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-md5": "ynznfmWf7QvOL548SUM3Iw==",
+    "content-type": "text/html",
+    "x-ms-version": "2018-03-28"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "UA-21970760-42",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

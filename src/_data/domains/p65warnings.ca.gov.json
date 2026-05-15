@@ -1,0 +1,26 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "p65warnings.ca.gov",
+  "targetURL": "https://www.p65warnings.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Proposition 65 Warnings Website - Your right to know",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "close",
+    "content-type": "text/html"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

@@ -1,0 +1,31 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "penrynfire.ca.gov",
+  "targetURL": "https://penrynfire.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Penryn Fire Protection District",
+  "lastStatus": 200,
+  "metaGenerator": "Starfield Technologies; Go Daddy Website Builder 8.0.0000",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html;charset=utf-8",
+    "server": "DPS/2.0.0+sha-78da108",
+    "x-siteid": "us-west-2",
+    "x-version": "78da108"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

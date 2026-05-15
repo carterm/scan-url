@@ -1,0 +1,38 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "iep.ca.gov",
+  "targetURL": "https://iep.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Interagency Ecological Program > Home",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-encoding": "br",
+    "content-type": "text/html; charset=utf-8",
+    "permissions-policy": "geolocation=(), microphone=(), camera=(), usb=(), fullscreen=(self), payment=()",
+    "pragma": "no-cache",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-ua-compatible": "IE=edge",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-YSTKZ5TE6T"
+  ],
+  "socialLinks": [
+    "https://www.youtube.com/playlist?list=PL-PEXRYYBP1TfHYR2o4tupieGQphEPhDa",
+    "https://www.youtube.com/watch?v=Ok5hJOQ6fcc&list=PL-PEXRYYBP1T-W4eh8dFRU1-3ANPYLIgk"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

@@ -1,0 +1,34 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "calable.ca.gov",
+  "targetURL": "https://calable.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Home - CalABLE",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=utf-8",
+    "server": "awselb/2.0",
+    "x-powered-by": "Express"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-BH9XWR79GY",
+    "GTM-K7STLL5"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/CalABLE/",
+    "https://www.instagram.com/wearecalable/",
+    "https://www.linkedin.com/company/calable/"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "goodScan": true
+}

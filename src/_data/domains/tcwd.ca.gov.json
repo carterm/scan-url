@@ -1,0 +1,43 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "tcwd.ca.gov",
+  "targetURL": "https://www.tcwd.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Trabuco Canyon Water District | Home",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "edge-cache-tag": "043A17CA.G,043A17CA.P11,043A17CA.CMENU,043A17CA.CL2,043A17CA.CL4,043A17CA.CL6,043A17CA.CL5",
+    "expect-ct": "max-age=31536000",
+    "last-published": "Mon, 19 May 2025 15:56:47 GMT",
+    "server": "AkamaiGHost",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-EJTHB4NRYW",
+    "G-FH9YUK9SSJ",
+    "G-RHRBZBNCJV",
+    "G-TGNUS61NMI"
+  ],
+  "socialLinks": [
+    "https://twitter.com/TCWDWater",
+    "https://www.facebook.com/TrabucoCanyonWaterDistrict",
+    "https://www.linkedin.com/company/trabuco-canyon-water-district"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": "",
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

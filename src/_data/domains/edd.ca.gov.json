@@ -1,0 +1,41 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "edd.ca.gov",
+  "targetURL": "https://edd.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Employment Development Department | California",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=utf-8",
+    "server": "Microsoft-IIS/10.0",
+    "x-aspnet-version": "4.0.30319",
+    "x-aspnetmvc-version": "5.2",
+    "x-powered-by": "ASP.NET"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-KF25MR5YHK",
+    "GTM-N8KVMBR",
+    "UA-3419582-31"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CA_EDD",
+    "https://www.facebook.com/californiaedd/",
+    "https://www.instagram.com/ca_edd/",
+    "https://www.linkedin.com/company/californiaedd/",
+    "https://youtube.com/user/CaliforniaEDD"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

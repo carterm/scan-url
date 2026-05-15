@@ -1,0 +1,39 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "arts.ca.gov",
+  "targetURL": "https://arts.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Home Page - California Arts Council",
+  "lastStatus": 200,
+  "metaGenerator": "WordPress 6.8.2",
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "x-tec-api-origin": "https://arts.ca.gov",
+    "x-tec-api-root": "https://arts.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-YMHBQ8PVF6"
+  ],
+  "socialLinks": [
+    "https://twitter.com/calartscouncil",
+    "https://www.facebook.com/californiaartscouncil?ref=ts",
+    "https://www.instagram.com/calartscouncil/"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

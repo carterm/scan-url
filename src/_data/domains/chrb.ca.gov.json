@@ -1,0 +1,43 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "chrb.ca.gov",
+  "targetURL": "https://www.chrb.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "California Horse Racing Board",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-type": "text/html",
+    "server": "Microsoft-IIS/10.0",
+    "x-powered-by": "ASP.NET"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-5Z5BS440DZ"
+  ],
+  "socialLinks": [
+    "http://twitter.com/cachrb",
+    "http://www.youtube.com/user/calchrb",
+    "https://www.facebook.com/cachrb",
+    "https://www.youtube.com/user/calchrb",
+    "https://www.youtube.com/watch?v=C0N5a4sk8qI",
+    "https://www.youtube.com/watch?v=K60duTIe13s",
+    "https://www.youtube.com/watch?v=Lv675UvYZeM",
+    "https://www.youtube.com/watch?v=MqwmtP8HGFc",
+    "https://www.youtube.com/watch?v=S59QWLGGVUU",
+    "https://www.youtube.com/watch?v=WyKSSrMzavU",
+    "https://www.youtube.com/watch?v=ZvjTxUkEHfs",
+    "https://www.youtube.com/watch?v=tPnbgznw0wI",
+    "https://www.youtube.com/watch?v=ybn-mRWykm8"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

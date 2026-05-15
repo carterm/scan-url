@@ -1,0 +1,32 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "lgrsonline.sco.ca.gov",
+  "targetURL": "https://lgrsonline.sco.ca.gov/account/login",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Log in - LGRS Online",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "server": "",
+    "x-aspnetmvc-version": "5.2",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "ASP.NET"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-K5ZRSNK"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

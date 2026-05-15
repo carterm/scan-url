@@ -1,0 +1,42 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "scta.ca.gov",
+  "targetURL": "https://scta.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Sonoma County Transportation Authority | SCTA",
+  "lastStatus": 200,
+  "metaGenerator": "WordPress 6.9.4",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "x-cdn-c": "all",
+    "x-httpd": "1",
+    "x-tec-api-origin": "https://scta.ca.gov",
+    "x-tec-api-root": "https://scta.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-15R30J43DJ",
+    "G-CACHEPRESS",
+    "G-TEMPLATEBU"
+  ],
+  "socialLinks": [
+    "http://twitter.com/goscta",
+    "http://www.facebook.com/GoSCTA/",
+    "https://www.youtube.com/@sctarcpa7902"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

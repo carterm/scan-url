@@ -1,0 +1,35 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "wca.ca.gov",
+  "targetURL": "https://www.wca.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Watershed Conservation Authority",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "access-control-request-method": "GET, POST, PUT, DELETE",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=utf-8",
+    "server": "cloudflare",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-nb-cached-page": "yes"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [
+    "https://www.facebook.com/watershedconservation/"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

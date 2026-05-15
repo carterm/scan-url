@@ -1,0 +1,35 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "townofmammothlakes.ca.gov",
+  "targetURL": "https://www.townofmammothlakes.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Mammoth Lakes, CA - Official Website | Official Website",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "p3p": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"",
+    "x-content-type-options": "nosniff"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-N89HWPCW7V",
+    "G-T785Y3D56V",
+    "GTM-K73C5PS"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/townofmammothlakes/",
+    "https://www.instagram.com/townofmammothlakes/"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

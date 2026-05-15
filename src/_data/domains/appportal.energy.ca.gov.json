@@ -1,0 +1,36 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "appportal.energy.ca.gov",
+  "targetURL": "https://appportal.energy.ca.gov/Account/Login",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Log in - California Energy Commission",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "server": "Microsoft-IIS/10.0",
+    "x-aspnet-version": "4.0.30319",
+    "x-powered-by": "ASP.NET"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [],
+  "socialLinks": [
+    "http://www.facebook.com/CAEnergy/",
+    "http://www.youtube.com/calenergycommission/",
+    "https://twitter.com/calenergy/",
+    "https://www.instagram.com/calenergy/",
+    "https://www.linkedin.com/company/california-energy-commission"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "cfcc.ca.gov",
+  "targetURL": "https://www.cfcc.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "California Financing Coordinating Committee (CFCC)",
+  "lastStatus": 200,
+  "metaGenerator": "CAWeb v.1.5.2a",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "server": "Apache",
+    "wpo-cache-status": "cached",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-LRBSJ7NJPS"
+  ],
+  "socialLinks": [
+    "https://www.youtube.com/watch?v=EL-S6caMDdg&feature=youtu.be",
+    "https://www.youtube.com/watch?v=hPrORmB9XTU&feature=youtu.be"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

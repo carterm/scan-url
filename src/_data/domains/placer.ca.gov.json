@@ -1,0 +1,40 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "placer.ca.gov",
+  "targetURL": "https://www.placer.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Placer County, CA | Official Website",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "p3p": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"",
+    "server": "cloudflare",
+    "x-content-type-options": "nosniff"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-5CJ5XHZRX6",
+    "GTM-K73C5PS",
+    "UA-1464228-1"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/pages/Placer-County-California/348887075624",
+    "https://www.instagram.com/placercounty",
+    "https://www.linkedin.com/company/placercounty",
+    "https://www.youtube.com/placercountygov",
+    "https://x.com/PlacerCA"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

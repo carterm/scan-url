@@ -1,0 +1,43 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "boe.ca.gov",
+  "targetURL": "https://boe.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "California State Board of Equalization Homepage",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html",
+    "permissions-policy": "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()",
+    "pragma": "no-cache",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "Microsoft-IIS/10.0",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "0"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-XH0RG68L1S",
+    "GTM-5Q36MCK"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CA_BOE_News",
+    "https://www.facebook.com/CABoardOfEqualization",
+    "https://www.instagram.com/boardofequalization/",
+    "https://www.linkedin.com/company/california-state-board-of-equalization/",
+    "https://www.youtube.com/user/BoardOfEqualization"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

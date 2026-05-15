@@ -1,0 +1,46 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "oag.ca.gov",
+  "targetURL": "https://www.oag.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "State of California - Department of Justice - Office of the Attorney General",
+  "lastStatus": 200,
+  "metaGenerator": "Drupal 7 (http://drupal.org)",
+  "responseHeaders": {
+    "connection": "Keep-Alive",
+    "content-encoding": "gzip",
+    "content-language": "en",
+    "content-type": "text/html; charset=utf-8",
+    "server": "Apache",
+    "x-content-type-options": "nosniff, nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-generator": "Drupal 7 (http://drupal.org)",
+    "x-ua-compatible": "IE=Edge"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-6SNZMLLM7F",
+    "G-DXZX4ZWKS8"
+  ],
+  "socialLinks": [
+    "https://twitter.com/AGRobBonta",
+    "https://www.facebook.com/AGRobBonta",
+    "https://www.instagram.com/AGRobBonta",
+    "https://www.instagram.com/AGRobBonta/",
+    "https://www.linkedin.com/company/california-department-of-justice/",
+    "https://www.tiktok.com/@agrobbonta",
+    "https://www.youtube.com/user/caoag",
+    "https://x.com/AGRobBonta"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

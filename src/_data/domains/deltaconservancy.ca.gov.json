@@ -1,0 +1,39 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "deltaconservancy.ca.gov",
+  "targetURL": "https://deltaconservancy.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Delta Conservancy – Welcome",
+  "lastStatus": 200,
+  "metaGenerator": "Site Kit by Google 1.178.0",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-34GCW1F9KH"
+  ],
+  "socialLinks": [
+    "http://www.facebook.com/pages/Sacramento-San-Joaquin-Delta-Conservancy/110824705668619",
+    "https://twitter.com/DeltaConservncy",
+    "https://www.facebook.com/deltaconservancy/",
+    "https://www.instagram.com/deltaconservancy/",
+    "https://www.youtube.com/channel/UCaOu3enYckyNnGQo0OrPhfw",
+    "https://www.youtube.com/watch?v=5lZK8sNWZCQ"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

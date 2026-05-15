@@ -1,0 +1,39 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "calcareers.ca.gov",
+  "targetURL": "https://calcareers.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "CalCareers",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=utf-8",
+    "x-aspnet-version": "4.0.30319",
+    "x-powered-by": "ASP.NET"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-1ZWR8CFVKV",
+    "G-69TD0KNT0F",
+    "G-B3UPD2PRSI",
+    "G-GVMXP4J73D"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CalHR_gov",
+    "https://www.facebook.com/jobscagov-1397099267001434/?view_public_for=1397099267001434",
+    "https://www.linkedin.com/company/california-department-of-human-resources",
+    "https://www.youtube.com/channel/UCSNFW92Q4q-4enuqwdytIKw"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

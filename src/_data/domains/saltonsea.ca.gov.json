@@ -1,0 +1,42 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "saltonsea.ca.gov",
+  "targetURL": "https://saltonsea.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Salton Sea Program",
+  "lastStatus": 200,
+  "metaGenerator": "Site Kit by Google 1.178.0",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "x-et-api-origin": "https://saltonsea.ca.gov",
+    "x-et-api-root": "https://saltonsea.ca.gov/wp-json/tribe/tickets/v1/",
+    "x-et-api-version": "v1",
+    "x-frame-options": "SAMEORIGIN",
+    "x-tec-api-origin": "https://saltonsea.ca.gov",
+    "x-tec-api-root": "https://saltonsea.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-3419582-2",
+    "UA-59627195-7"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CalNatResources",
+    "https://www.instagram.com/thesaltonsea/",
+    "https://www.youtube.com/@ResourcesAgency"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

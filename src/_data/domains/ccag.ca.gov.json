@@ -1,0 +1,33 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "ccag.ca.gov",
+  "targetURL": "https://ccag.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "C/CAG",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "server": "nginx",
+    "x-content-type-options": "nosniff"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-0KSE6F1TNL"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

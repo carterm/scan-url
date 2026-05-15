@@ -1,0 +1,33 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "domainnamerequest.cdt.ca.gov",
+  "targetURL": "https://www.domainnamerequest.cdt.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Getting Started",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "request-context": "appId=cid-v1:ad1ef73b-ef42-4479-a7a0-6daa77238679",
+    "x-frame-options": "DENY",
+    "x-powered-by": "ASP.NET"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-X7DZT8P5JD"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

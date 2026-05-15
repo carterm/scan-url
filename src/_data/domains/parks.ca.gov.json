@@ -1,0 +1,36 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "parks.ca.gov",
+  "targetURL": "https://www.parks.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "California State Parks",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "server": "Microsoft-IIS/10.0",
+    "x-powered-by": "ASP.NET"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-NQRMQVQ7T5",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CAStateParks",
+    "https://www.facebook.com/CaliforniaStateParks",
+    "https://www.instagram.com/castateparks/?hl=en",
+    "https://www.youtube.com/user/CaliforniaStateParks"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

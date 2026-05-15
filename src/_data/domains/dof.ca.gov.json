@@ -1,0 +1,34 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "dof.ca.gov",
+  "targetURL": "https://dof.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "California Department of Finance",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "server": "volt-adc"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-2LNG7V2TGM",
+    "GTM-NJ6Q4MV"
+  ],
+  "socialLinks": [
+    "https://twitter.com/HDatFinance",
+    "https://www.linkedin.com/company/california-department-of-finance/",
+    "https://www.youtube.com/@californiadepartmentoffina6442"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

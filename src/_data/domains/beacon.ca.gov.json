@@ -1,0 +1,36 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "beacon.ca.gov",
+  "targetURL": "https://beacon.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "BEACON | Beach Erosion Authority for Clean Oceans and Nourishment",
+  "lastStatus": 200,
+  "metaGenerator": "Divi v.4.27.6",
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400, h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "Sucuri/Cloudproxy",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-gateway-skip-cache": "0",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [],
+  "socialLinks": [
+    "https://www.facebook.com/BEACON.ca.gov"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

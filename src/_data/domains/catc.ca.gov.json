@@ -1,0 +1,38 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "catc.ca.gov",
+  "targetURL": "https://catc.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "California Transportation Commission | CTC",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ch": "Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version,Sec-CH-UA-Arch,Sec-CH-UA-Model,Sec-CH-UA-Bitness",
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "server": "Microsoft-IIS/10.0",
+    "x-oneagent-js-injection": "true",
+    "x-ruxit-js-agent": "true"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-37E6VKG1R5",
+    "G-69TD0KNT0F",
+    "UA-21970760-33"
+  ],
+  "socialLinks": [
+    "https://twitter.com/California_CTC",
+    "https://www.facebook.com/CATransportationCommission/",
+    "https://www.youtube.com/channel/UCASI3gyTEuhZffC13RbG4xQ"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

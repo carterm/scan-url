@@ -1,0 +1,34 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "healthexchange.ca.gov",
+  "targetURL": "https://healthexchange.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "California's Health Benefit Exchange",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "server": "Microsoft-IIS/10.0",
+    "x-powered-by": "ASP.NET"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [],
+  "socialLinks": [
+    "https://twitter.com/CoveredCA",
+    "https://www.facebook.com/CoveredCA/",
+    "https://www.instagram.com/coveredca/?hl=en",
+    "https://www.youtube.com/user/CoveredCA",
+    "https://www.youtube.com/watch?v=8--TJjJLF6Y&list=TLGG7IKR8OAM8ncyMTAyMjAyNg"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

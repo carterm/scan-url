@@ -1,0 +1,50 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "sbac.ca.gov",
+  "targetURL": "https://www.sbac.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Santa Barbara County Office of Arts & Culture",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "content-encoding": "gzip",
+    "content-type": "text/html;charset=utf-8",
+    "server": "Squarespace",
+    "x-content-type-options": "nosniff"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-013F66E7C6",
+    "G-2F49DC7692",
+    "G-43AF232B5B",
+    "G-6456696220",
+    "G-701BF8BBC0",
+    "G-77DA62461F",
+    "G-86AACD645D",
+    "G-920708D91C",
+    "G-975CECE8DE",
+    "G-B1BA7891C2",
+    "G-B685267B79",
+    "G-C63BF8989A",
+    "G-COLLECTION",
+    "G-D22EABECA1",
+    "G-DBE066AE53",
+    "G-F9093F2D52"
+  ],
+  "socialLinks": [
+    "http://www.facebook.com/sbac.ca.gov/",
+    "https://www.instagram.com/sbcoac/",
+    "https://www.youtube.com/channel/UCOSKvNvTCYHC77wkKWn0tIw"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

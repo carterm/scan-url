@@ -1,0 +1,41 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "cslb.ca.gov",
+  "targetURL": "https://www.cslb.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "CSLB-Home -CSLB",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "access-control-allow-private-network": "true",
+    "content-type": "text/html; charset=utf-8",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-ua-compatible": "IE=Edge,chrome=1",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-1W465E5H9H",
+    "UA-3419582-2",
+    "UA-8901380-1"
+  ],
+  "socialLinks": [
+    "http://www.youtube.com/user/ContractorsBoard/",
+    "https://twitter.com/CSLB",
+    "https://www.facebook.com/CSLB.CA?ref=ts",
+    "https://www.instagram.com/CaContractorsBoard",
+    "https://www.linkedin.com/company/contractors-state-license-board"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

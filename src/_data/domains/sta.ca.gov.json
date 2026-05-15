@@ -1,0 +1,40 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "sta.ca.gov",
+  "targetURL": "https://sta.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Solano Transportation Authority",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-L9SWKSSW0V"
+  ],
+  "socialLinks": [
+    "https://twitter.com/STA_Solano",
+    "https://www.facebook.com/SolanoTransportationAuthority/",
+    "https://www.linkedin.com/company/solano-transportation-authority"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

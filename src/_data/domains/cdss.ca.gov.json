@@ -1,0 +1,45 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "cdss.ca.gov",
+  "targetURL": "https://www.cdss.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Home | California Dept. of Social Services",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "x-frame-options": "SAMEORIGIN",
+    "x-ua-compatible": "IE=edge",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-6Y5ZSHSWZE",
+    "UA-77698819-4"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CaliforniaDSS",
+    "https://www.facebook.com/people/California-Department-of-Social-Services/100063625101416/",
+    "https://www.instagram.com/californiadss/",
+    "https://www.linkedin.com/company/california-department-of-social-services",
+    "https://www.youtube.com/user/CaSocialService",
+    "https://www.youtube.com/watch?feature=shared&v=7G8xcrStK-w",
+    "https://www.youtube.com/watch?feature=shared&v=O7j7ut0_FKI",
+    "https://www.youtube.com/watch?feature=shared&v=nmsRaYeV98Q",
+    "https://www.youtube.com/watch?feature=shared&v=opg52FxKoSo",
+    "https://www.youtube.com/watch?v=wRa5Uvwh9Gg&feature=youtu.be",
+    "https://youtu.be/5XSFKBa8L2k?feature=shared",
+    "https://youtu.be/k4Pqs7vMbP8?feature=shared"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

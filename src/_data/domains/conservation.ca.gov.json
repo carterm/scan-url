@@ -1,0 +1,45 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "conservation.ca.gov",
+  "targetURL": "https://www.conservation.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "California Department of Conservation",
+  "lastStatus": 200,
+  "metaGenerator": "Microsoft SharePoint",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "microsoftsharepointteamservices": "16.0.0.10417",
+    "server": "Microsoft-IIS/10.0",
+    "x-aspnet-version": "4.0.30319",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-ms-invokeapp": "1; RequireReadOnly",
+    "x-powered-by": "ASP.NET"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-N4MB98DBXY",
+    "UA-34494709-1"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CalConservation",
+    "https://www.facebook.com/calconservation",
+    "https://www.instagram.com/calconservation/",
+    "https://www.linkedin.com/company/calconservation/",
+    "https://www.youtube.com/user/calconservation"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

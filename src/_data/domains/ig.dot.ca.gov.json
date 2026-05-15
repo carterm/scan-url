@@ -1,0 +1,33 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "ig.dot.ca.gov",
+  "targetURL": "https://ig.dot.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Inspector General - California Department of Transportation | IOAI",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ch": "Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version,Sec-CH-UA-Arch,Sec-CH-UA-Model,Sec-CH-UA-Bitness",
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "server": "Microsoft-IIS/10.0",
+    "x-oneagent-js-injection": "true",
+    "x-ruxit-js-agent": "true"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-2E0Z1X4NN2",
+    "G-69TD0KNT0F"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

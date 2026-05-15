@@ -1,0 +1,43 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "cdph.ca.gov",
+  "targetURL": "https://www.cdph.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "CDPH Home",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "access-control-expose-headers": "Request-Context",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "microsoftsharepointteamservices": "16.0.0.10417",
+    "request-context": "appId=cid-v1:2ea2d672-f063-4e9e-a9d3-aa9e0eae9faa",
+    "server": "volt-adc",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-ms-invokeapp": "1; RequireReadOnly"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-RESPONSIVE",
+    "GTM-KVN6ZCB"
+  ],
+  "socialLinks": [
+    "https://instagram.com/capublichealth/",
+    "https://twitter.com/CAPublicHealth",
+    "https://www.facebook.com/CAPublicHealth",
+    "https://www.linkedin.com/company/california-department-of-public-health",
+    "https://www.tiktok.com/@capublichealth",
+    "https://www.youtube.com/user/CAPublicHealth"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

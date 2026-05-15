@@ -1,0 +1,29 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "www2.courtinfo.ca.gov",
+  "targetURL": "https://www2.courtinfo.ca.gov/ccn/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "California Court News",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "content-type": "text/html; charset=UTF-8",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "server": "volt-adc",
+    "x-content-type-options": "nosniff"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

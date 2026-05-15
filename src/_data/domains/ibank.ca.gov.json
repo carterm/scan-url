@@ -1,0 +1,40 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "ibank.ca.gov",
+  "targetURL": "https://ibank.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "California Infrastructure and Economic Development Bank (IBank)",
+  "lastStatus": 200,
+  "metaGenerator": "CAWeb v.1.5.2a",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "server": "Apache",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-SMHZVBEWVK"
+  ],
+  "socialLinks": [
+    "https://twitter.com/IBankCA",
+    "https://www.facebook.com/IBankCA/",
+    "https://www.instagram.com/ibankca/",
+    "https://www.linkedin.com/company/ibankca/",
+    "https://www.youtube.com/channel/UCMw85Tyn0zwUSo6JJg3YklQ"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

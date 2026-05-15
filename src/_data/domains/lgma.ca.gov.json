@@ -1,0 +1,43 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "lgma.ca.gov",
+  "targetURL": "https://lgma.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "California Leafy Greens Marketing Agreement | Home Page",
+  "lastStatus": 200,
+  "metaGenerator": "SEOmatic",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "server": "nginx",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "Craft CMS, SEOmatic",
+    "x-robots-tag": "all",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-1545484-20"
+  ],
+  "socialLinks": [
+    "https://twitter.com/LGMAnews",
+    "https://www.facebook.com/calgma",
+    "https://www.instagram.com/californialgma/",
+    "https://www.linkedin.com/company/california-leafy-greens-marketing-agreement",
+    "https://www.youtube.com/channel/UCB9RsslTu_uK_9pqtYLcyqw"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

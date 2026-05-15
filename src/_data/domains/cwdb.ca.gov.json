@@ -1,0 +1,46 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "cwdb.ca.gov",
+  "targetURL": "https://cwdb.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "CWDB | California Workforce Development Board",
+  "lastStatus": 200,
+  "metaGenerator": "CAWeb v.1.13.4",
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
+    "server": "cloudflare",
+    "x-cache-group": "normal",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "WP Engine"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-TQ5Q6K3P3K",
+    "G-Y7T2KCM7P1",
+    "UA-3419582-2",
+    "UA-3419582-47"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CA_WorkforceDev",
+    "https://www.facebook.com/California-Workforce-Development-Board",
+    "https://www.instagram.com/ca_workforcedev/",
+    "https://www.linkedin.com/company/california-workforce-development-board/",
+    "https://www.youtube.com/channel/UC8j2IMLyol-6ifdLHGTXLiQ"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

@@ -1,0 +1,34 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "filerequest.conservation.ca.gov",
+  "targetURL": "https://filerequest.conservation.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "File Request - California Department of Conservation",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=utf-8",
+    "server": "Microsoft-IIS/10.0"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-TB4GXTE2XM"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CalConservation",
+    "https://www.facebook.com/calconservation",
+    "https://www.instagram.com/calconservation/"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

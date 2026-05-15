@@ -1,0 +1,35 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "digitalidstrategy.cdt.ca.gov",
+  "targetURL": "https://digitalidstrategy.cdt.ca.gov/",
+  "www": false,
+  "goodScan": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "California State Digital ID Strategy | CA.gov",
+  "lastStatus": 200,
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-CLMC17ZTJT",
+    "GTM-NJ6Q4MV"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "nocache": false,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "x-powered-by": "ASP.NET"
+  },
+  "notes": null,
+  "DOMErrors": [
+    "Could not parse CSS stylesheet"
+  ]
+}

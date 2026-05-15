@@ -1,0 +1,45 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "barbercosmo.ca.gov",
+  "targetURL": "https://www.barbercosmo.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "California Board of Barbering and Cosmetology",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "access-control-allow-private-network": "true",
+    "connection": "Keep-Alive",
+    "content-type": "text/html",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-8SW7CC7X25",
+    "GTM-M683DJB",
+    "GTM-NBQCVZC",
+    "UA-3419582-2",
+    "UA-64276560-3"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/people/California-State-Board-of-Barbering-and-Cosmetology/100068869178078/",
+    "https://www.instagram.com/cabarbercosmo/",
+    "https://www.pinterest.com/cagovernment/",
+    "https://www.youtube.com/playlist?list=PL8A525BE338F5CD37",
+    "https://x.com/CA_BBC"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "fgc.ca.gov",
+  "targetURL": "https://fgc.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "California Fish and Game Commission Home Page",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-encoding": "br",
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-ua-compatible": "IE=edge",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-QHR5ZZWW7J"
+  ],
+  "socialLinks": [
+    "https://www.youtube.com/channel/UCTrLyrErKM3UNqI-3gBWLSg"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

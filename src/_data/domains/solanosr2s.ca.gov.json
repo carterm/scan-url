@@ -1,0 +1,40 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "solanosr2s.ca.gov",
+  "targetURL": "https://solanosr2s.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Solano Transportation Authority | Safe Routes to School",
+  "lastStatus": 200,
+  "metaGenerator": "Powered by WPBakery Page Builder - drag and drop page builder for WordPress.",
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-7Q0YPT74S7"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/SolanoSR2S/",
+    "https://www.instagram.com/solanosr2s/"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

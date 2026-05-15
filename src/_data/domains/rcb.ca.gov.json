@@ -1,0 +1,44 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "rcb.ca.gov",
+  "targetURL": "https://www.rcb.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Respiratory Care Board of California",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "access-control-allow-private-network": "true",
+    "connection": "Keep-Alive",
+    "content-type": "text/html",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-05Q6QKZSH6",
+    "G-69TD0KNT0F",
+    "GTM-M683DJB",
+    "GTM-NBQCVZC",
+    "UA-3419582-2",
+    "UA-64276560-24"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/profile.php?id=61572759632137",
+    "https://www.instagram.com/rcbofca",
+    "https://www.linkedin.com/company/respiratory-care-board-of-california",
+    "https://x.com/RCBofCA"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "letsgethealthy.ca.gov",
+  "targetURL": "https://letsgethealthy.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Let's Get Healthy California",
+  "lastStatus": 200,
+  "metaGenerator": "Powered by Slider Revolution 6.7.41 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.",
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "permissions-policy": "accelerometer=(self), autoplay=(self), camera=(self), encrypted-media=(self), fullscreen=(self), geolocation=(self), gyroscope=(self), magnetometer=(self), microphone=(self), midi=(self), payment=(self), usb=(self)",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "cloudflare",
+    "x-cache-group": "normal",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "sameorigin",
+    "x-powered-by": "WP Engine",
+    "x-tec-api-origin": "https://letsgethealthy.ca.gov",
+    "x-tec-api-root": "https://letsgethealthy.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1",
+    "x-xss-protection": "1"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-583MD7K"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CAGetsHEALTHY",
+    "https://twitter.com/intent/user?user_id=3254699628",
+    "https://www.facebook.com/CAgetsHEALTHY/"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

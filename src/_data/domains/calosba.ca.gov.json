@@ -1,0 +1,39 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "calosba.ca.gov",
+  "targetURL": "https://www.calosba.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "California Office of the Small Business Advocate (CalOSBA)",
+  "lastStatus": 200,
+  "metaGenerator": "CAWeb v.1.5.2a",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "Apache"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-2KMN5NQW5J"
+  ],
+  "socialLinks": [
+    "https://twitter.com/californiaosba",
+    "https://www.facebook.com/CaliforniaOSBA/",
+    "https://www.instagram.com/californiaosba/",
+    "https://www.linkedin.com/company/governor-s-office-of-business-and-economic-development",
+    "https://www.linkedin.com/company/helixopportunity/",
+    "https://www.linkedin.com/in/davidpfazio",
+    "https://www.youtube.com/channel/UChQxUhvsGGlibuQuJ86FPkg"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "dental.dhcs.ca.gov",
+  "targetURL": "https://www.dental.dhcs.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Welcome to the Medi-Cal Dental Program",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=utf-8",
+    "referrer-policy": "no-referrer",
+    "server": "Microsoft-IIS/10.0",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "DENY",
+    "x-oneagent-js-injection": "true",
+    "x-powered-by": "ASP.NET",
+    "x-ruxit-js-agent": "true",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-1CEWEWFPWS",
+    "GTM-KVM7FWB"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

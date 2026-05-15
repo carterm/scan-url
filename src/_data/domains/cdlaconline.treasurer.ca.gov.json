@@ -1,0 +1,33 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "cdlaconline.treasurer.ca.gov",
+  "targetURL": "https://cdlaconline.treasurer.ca.gov/Account/Login.aspx",
+  "www": false,
+  "active": true,
+  "includeInScan": false,
+  "title": "Log In",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "server": "Microsoft-IIS/10.0",
+    "x-aspnet-version": "4.0.30319",
+    "x-cdn": "Imperva",
+    "x-powered-by": "ASP.NET"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "UA-1867705-10",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": "Login page for California Debt Limit Allocation Committee (CDLA) online system.",
+  "nocache": false,
+  "goodScan": true
+}

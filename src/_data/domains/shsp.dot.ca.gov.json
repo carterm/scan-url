@@ -1,0 +1,38 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "shsp.dot.ca.gov",
+  "targetURL": "https://shsp.dot.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Caltrans | SHSP - Home",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "Keep-Alive",
+    "content-language": "und",
+    "content-type": "text/html;charset=UTF-8",
+    "pragma": "no-cache",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "DENY",
+    "x-oneagent-js-injection": "true",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-WLDEF7NZZ2",
+    "GTM-NJ6Q4MV"
+  ],
+  "socialLinks": [
+    "http://www.facebook.com/CaltransHQ",
+    "https://twitter.com/CaltransHQ?ref_src=twsrc%5Etfw"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

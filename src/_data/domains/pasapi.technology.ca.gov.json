@@ -1,0 +1,30 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "pasapi.technology.ca.gov",
+  "targetURL": "https://pasapi.technology.ca.gov/index.html",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Personnel Authorization System (PAS)",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html;charset=utf-8",
+    "request-context": "appId=cid-v1:c9b44974-d454-44ee-8af9-468a2d9f65f7",
+    "x-powered-by": "ASP.NET",
+    "x-swagger-ui-version": "5.32.1"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "metrofire.ca.gov",
+  "targetURL": "https://metrofire.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Homepage Sacramento Metropolitan Fire District",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "nginx",
+    "x-content-type-options": "nosniff",
+    "x-download-options": "noopen",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [
+    "https://www.facebook.com/MetroFireOfSacramento",
+    "https://www.instagram.com/metrofireofsacramento/",
+    "https://www.youtube.com/channel/UC3Yb3btGVX-neeHfapGOOSQ/featured",
+    "https://x.com/metrofirepio"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

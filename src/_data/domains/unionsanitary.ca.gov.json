@@ -1,0 +1,39 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "unionsanitary.ca.gov",
+  "targetURL": "https://unionsanitary.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Home - Union Sanitary District | Serving Fremont, Newark and Union City, California.",
+  "lastStatus": 200,
+  "metaGenerator": "WordPress 6.9.4",
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000, h3-Q050=\":443\"; ma=2592000, h3-Q046=\":443\"; ma=2592000, h3-Q043=\":443\"; ma=2592000, quic=\":443\"; ma=2592000; v=\"43,46\", h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=UTF-8",
+    "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
+    "server": "Sucuri/Cloudproxy",
+    "x-litespeed-cache": "hit",
+    "x-turbo-charged-by": "LiteSpeed"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-0Z2KMBBLH5"
+  ],
+  "socialLinks": [
+    "https://twitter.com/usdtweets",
+    "https://www.facebook.com/Union-Sanitary-District-186695014698611/",
+    "https://www.facebook.com/unionsanitarydistrict",
+    "https://www.linkedin.com/company/union-sanitary-district"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

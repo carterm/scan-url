@@ -1,0 +1,39 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "bhc.ca.gov",
+  "targetURL": "https://bhc.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Baldwin Hills Conservancy",
+  "lastStatus": 200,
+  "metaGenerator": "Site Kit by Google 1.178.0",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "wpo-cache-status": "cached",
+    "x-content-type-options": "nosniff"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-3419582-2",
+    "UA-59627195-3"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/Baldwin-Hills-Greenhouse-Program-91567654454/",
+    "https://www.facebook.com/baldwinhillsconservancy/",
+    "https://www.instagram.com/baldwinhillsconservancy/",
+    "https://www.instagram.com/urban_watersheds_conservancy/"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

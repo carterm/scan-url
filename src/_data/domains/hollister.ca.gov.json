@@ -1,0 +1,43 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "hollister.ca.gov",
+  "targetURL": "https://hollister.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Hollister, CA",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-958N9729GE"
+  ],
+  "socialLinks": [
+    "http://www.twitter.com/",
+    "https://www.facebook.com/cityofhollister",
+    "https://www.facebook.com/sharer/sharer.php?u=http://hollister.ca.gov/",
+    "https://www.instagram.com/cityofhollister/",
+    "https://www.linkedin.com/company/city-of-hollister-ca",
+    "https://www.reddit.com/submit?url=http://hollister.ca.gov/",
+    "https://www.twitter.com/intent/tweet?url=http://hollister.ca.gov/",
+    "https://www.youtube.com/@cityofhollistercalifornia1489"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

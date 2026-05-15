@@ -1,0 +1,39 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "deltacouncil.ca.gov",
+  "targetURL": "https://www.deltacouncil.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Delta Stewardship Council",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-type": "text/html",
+    "server": "Microsoft-IIS/10.0",
+    "x-powered-by": "ASP.NET"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-J0HKBXFMWX"
+  ],
+  "socialLinks": [
+    "https://twitter.com/DeltaCouncil?ref_src=twsrc%5Etfw",
+    "https://twitter.com/deltacouncil",
+    "https://www.facebook.com/Delta-Stewardship-Council-137873226259597/",
+    "https://www.facebook.com/deltastewardshipcouncil/",
+    "https://www.instagram.com/deltastewardshipcouncil/",
+    "https://www.instagram.com/deltastewardshipcouncil/?utm_source=ig_embed",
+    "https://www.instagram.com/explore/locations/360649385/sacramentosan-joaquin-river-delta/?utm_source=ig_embed",
+    "https://www.linkedin.com/company/delta-stewardship-council-a-california-state-agency",
+    "https://www.youtube.com/user/DeltaCouncil/playlists?spfreload=10"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

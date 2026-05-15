@@ -1,0 +1,38 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "publicpay.ca.gov",
+  "targetURL": "https://www.publicpay.ca.gov/",
+  "www": true,
+  "active": false,
+  "includeInScan": false,
+  "title": "GCC",
+  "lastStatus": 200,
+  "finalUrl": "https://gcc.sco.ca.gov/",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "referrer-policy": "same-origin",
+    "server": "cloudflare",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "ASP.NET"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-KX7MF5M"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/CAController",
+    "https://x.com/CAController"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": "Cloudflare challenge detected",
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

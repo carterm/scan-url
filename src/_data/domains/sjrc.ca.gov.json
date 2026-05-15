@@ -1,0 +1,33 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "sjrc.ca.gov",
+  "targetURL": "https://sjrc.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "San Joaquin River Conservancy – The San Joaquin River Conservancy is a regionally governed agency created to develop and manage the San Joaquin River Parkway",
+  "lastStatus": 200,
+  "metaGenerator": "Site Kit by Google 1.178.0",
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [],
+  "socialLinks": [
+    "https://www.facebook.com/CA.SJRC",
+    "https://www.instagram.com/sanjoaquinriverconservancy_ca/"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

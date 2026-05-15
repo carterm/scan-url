@@ -1,0 +1,49 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "theacademy.ca.gov",
+  "targetURL": "https://theacademy.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Home - The Academy",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "fastly-restarts": "1",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "server": "Flywheel/5.1.0",
+    "x-content-type-options": "nosniff",
+    "x-fw-dynamic": "TRUE",
+    "x-fw-hash": "7oehxoyt6n",
+    "x-fw-serve": "TRUE",
+    "x-fw-server": "Flywheel/5.1.0",
+    "x-fw-static": "NO",
+    "x-fw-type": "FLYWHEEL_BOT",
+    "x-fw-version": "5.0.0",
+    "x-tec-api-origin": "https://theacademy.ca.gov",
+    "x-tec-api-root": "https://theacademy.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1",
+    "x-xss-protection": "1"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-TC6WLH8"
+  ],
+  "socialLinks": [
+    "http://www.facebook.com/SBRPSTC",
+    "http://www.instagram.com/SBRPSTC",
+    "http://www.twitter.com/SBRPSTC"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

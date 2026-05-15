@@ -1,0 +1,42 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "cdfa.ca.gov",
+  "targetURL": "https://www.cdfa.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "California Department of Food and Agriculture - CDFA",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-type": "text/html; charset=utf-8",
+    "x-aspnet-version": "4.0.30319",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "ASP.NET",
+    "x-ua-compatible": "IE=edge"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-W4BKPB7",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CDFANews",
+    "https://twitter.com/CDFAnoticias",
+    "https://www.facebook.com/California-Department-of-Food-and-Agriculture-83888787230/",
+    "https://www.instagram.com/cafoodandag/",
+    "https://www.instagram.com/cdfanoticias/",
+    "https://www.linkedin.com/company/californiadepartmentoffoodandagriculture",
+    "https://www.youtube.com/user/CDFAtoday"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

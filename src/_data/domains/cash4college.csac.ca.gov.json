@@ -1,0 +1,44 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "cash4college.csac.ca.gov",
+  "targetURL": "https://www.cash4college.csac.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Home Page - California Student Aid Commission",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "server": "Microsoft-IIS/10.0",
+    "x-aspnet-version": "4.0.30319",
+    "x-aspnetmvc-version": "5.2",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "ASP.NET",
+    "x-ua-compatible": "IE=Edge,Chrome=1",
+    "x-xss-protection": "1;mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-20973992-20",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [
+    "https://facebook.com/CSAC.StudentAidCommission",
+    "https://instagram.com/castudentaid/",
+    "https://twitter.com/CAStudentAid",
+    "https://www.youtube.com/user/CaStudentAid",
+    "https://www.youtube.com/watch?v=z1-g-dfZX30"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}

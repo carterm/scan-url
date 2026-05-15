@@ -1,0 +1,47 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "osar.bppe.ca.gov",
+  "targetURL": "https://www.osar.bppe.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Office of Student Assistance and Relief",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "access-control-allow-private-network": "true",
+    "connection": "Keep-Alive",
+    "content-type": "text/html",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-D0ME26CM0R",
+    "GTM-M683DJB",
+    "GTM-NBQCVZC",
+    "UA-3419582-2",
+    "UA-64276560-41"
+  ],
+  "socialLinks": [
+    "https://instagram.com/TheCalOSAR",
+    "https://twitter.com/TheCalOSAR",
+    "https://www.facebook.com/TheCalOSAR",
+    "https://www.linkedin.com/company/TheCalOSAR",
+    "https://www.tiktok.com/@thecalosar",
+    "https://www.youtube.com/watch?v=EGP9ND9d8rE",
+    "https://www.youtube.com/watch?v=OkKH5nCqd3k"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

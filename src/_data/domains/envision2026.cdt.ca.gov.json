@@ -1,0 +1,32 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "envision2026.cdt.ca.gov",
+  "targetURL": "https://www.envision2026.cdt.ca.gov/",
+  "www": true,
+  "goodScan": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Envision 2026 - California’s Technology Future",
+  "lastStatus": 200,
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-N45YGR3WEW",
+    "GTM-NJ6Q4MV"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "nocache": false,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "x-powered-by": "ASP.NET"
+  },
+  "notes": null
+}

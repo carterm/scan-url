@@ -1,0 +1,27 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "westnile.ca.gov",
+  "targetURL": "https://westnile.ca.gov/",
+  "www": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Westnile.ca.gov | California West Nile Virus Website",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html",
+    "x-frame-options": "SAMEORIGIN"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": false,
+  "goodScan": true
+}

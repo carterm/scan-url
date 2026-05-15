@@ -1,0 +1,30 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "calexico.ca.gov",
+  "targetURL": "https://www.calexico.ca.gov/",
+  "www": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Calexico, CA",
+  "lastStatus": 200,
+  "responseHeaders": {
+    "content-type": "text/html",
+    "pragma": "no-cache",
+    "w": "5a"
+  },
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [],
+  "socialLinks": [
+    "https://www.facebook.com/CityofCalexicoCA/",
+    "https://www.youtube.com/@CalexicoCityHall/videos"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "notes": null,
+  "nocache": true,
+  "goodScan": true
+}
