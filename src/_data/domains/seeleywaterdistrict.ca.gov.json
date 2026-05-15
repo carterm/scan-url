@@ -1,8 +1,8 @@
 {
   "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "seeleywaterdistrict.ca.gov",
-  "targetURL": "https://seeleywaterdistrict.ca.gov/",
-  "www": false,
+  "targetURL": "https://www.seeleywaterdistrict.ca.gov/",
+  "www": true,
   "active": true,
   "includeInScan": true,
   "title": "Homepage Seeley County Water District",

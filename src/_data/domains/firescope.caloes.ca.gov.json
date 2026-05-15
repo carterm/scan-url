@@ -1,0 +1,42 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "firescope.caloes.ca.gov",
+  "targetURL": "https://firescope.caloes.ca.gov/",
+  "www": false,
+  "goodScan": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Firescope Home",
+  "lastStatus": 200,
+  "metaGenerator": "Microsoft SharePoint",
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [],
+  "socialLinks": [
+    "https://twitter.com/FIRESCOPE_CA?ref_src=twsrc%5Etfw",
+    "https://twitter.com/firescope_ca",
+    "https://www.facebook.com/FIRESCOPECalifornia",
+    "https://www.facebook.com/firescopecalifornia/",
+    "https://www.instagram.com/firescope_ca/?hl=en",
+    "https://www.instagram.com/firescope_ca/?utm_source=ig_embed&utm_campaign=loading"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "nocache": true,
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "microsoftsharepointteamservices": "16.0.0.19725",
+    "server": "Microsoft-IIS/10.0",
+    "x-aspnet-version": "4.0.30319",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-ms-invokeapp": "1; RequireReadOnly",
+    "x-powered-by": "ASP.NET",
+    "x-xss-protection": "0, 0, 0, 0, 0, 0, 0"
+  },
+  "notes": null
+}

@@ -1,0 +1,30 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "gis.cdph.ca.gov",
+  "targetURL": "https://gis.cdph.ca.gov/gisadmin/rest/info?f=pjson",
+  "www": false,
+  "goodScan": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "",
+  "lastStatus": 200,
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "nocache": true,
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/plain; charset=UTF-8",
+    "server": "Microsoft-IIS/10.0",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "ASP.NET",
+    "x-xss-protection": "1; mode=block"
+  },
+  "notes": null
+}

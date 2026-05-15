@@ -1,0 +1,36 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "gis.cdtfa.ca.gov",
+  "targetURL": "https://gis.cdtfa.ca.gov/",
+  "www": false,
+  "goodScan": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Find a Sales and Use Tax Rate",
+  "lastStatus": 200,
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "GTM-W42NR96",
+    "UA-3419582-2",
+    "UA-64276560-39"
+  ],
+  "socialLinks": [],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "nocache": true,
+  "responseHeaders": {
+    "blazor-enhanced-nav": "allow",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "request-context": "appId=cid-v1:c0911a60-0021-414b-8337-35e7ae2c49f7",
+    "server": "Microsoft-IIS/10.0",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "ASP.NET"
+  },
+  "notes": null
+}

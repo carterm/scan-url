@@ -1,18 +1,13 @@
 {
   "$schema": "./../../schemas/domain-scan.schema.json",
-  "domain": "portal.dhcs.ca.gov",
-  "targetURL": "https://portal.dhcs.ca.gov/",
+  "domain": "gis.parks.ca.gov",
+  "targetURL": "https://gis.parks.ca.gov/",
   "www": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "Login for DHCS Application Portal",
+  "title": "",
   "lastStatus": 200,
-  "responseHeaders": {
-    "accept-ranges": "bytes",
-    "connection": "close",
-    "content-type": "text/html",
-    "server": "AmazonS3"
-  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -22,7 +17,12 @@
   "socialLinks": [],
   "linksToCaGov": false,
   "errorMessage": null,
-  "notes": null,
-  "nocache": true,
-  "goodScan": true
+  "nocache": false,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "content-type": "text/html",
+    "server": "Microsoft-IIS/10.0",
+    "x-powered-by": "ASP.NET"
+  },
+  "notes": null
 }

@@ -9,10 +9,10 @@
   "lastStatus": 200,
   "metaGenerator": "CAWeb v.1.4.21",
   "responseHeaders": {
-    "connection": "Keep-Alive",
+    "connection": "keep-alive",
     "content-type": "text/html; charset=UTF-8",
     "pragma": "no-cache",
-    "server": "Apache"
+    "server": "nginx"
   },
   "cloudflare": false,
   "slow": false,

@@ -28,7 +28,7 @@
     "https://www.linkedin.com/company/calable/"
   ],
   "linksToCaGov": false,
-  "errorMessage": "HTTP 403",
+  "errorMessage": null,
   "notes": null,
-  "goodScan": false
+  "goodScan": true
 }

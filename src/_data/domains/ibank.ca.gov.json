@@ -1,8 +1,8 @@
 {
   "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "ibank.ca.gov",
-  "targetURL": "https://www.ibank.ca.gov/",
-  "www": true,
+  "targetURL": "https://ibank.ca.gov/",
+  "www": false,
   "active": true,
   "includeInScan": true,
   "title": "California Infrastructure and Economic Development Bank (IBank)",

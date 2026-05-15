@@ -10,7 +10,8 @@
   "responseHeaders": {
     "connection": "Keep-Alive",
     "content-type": "text/html; charset=UTF-8",
-    "server": "Apache"
+    "server": "Apache",
+    "x-powered-by": "PHP/8.2.30"
   },
   "cloudflare": false,
   "slow": false,

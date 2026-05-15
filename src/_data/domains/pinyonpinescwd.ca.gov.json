@@ -11,7 +11,7 @@
   "responseHeaders": {
     "accept-ranges": "bytes",
     "connection": "Upgrade, Keep-Alive",
-    "content-encoding": "br",
+    "content-encoding": "gzip",
     "content-type": "text/html",
     "server": "Apache",
     "upgrade": "h2,h2c"

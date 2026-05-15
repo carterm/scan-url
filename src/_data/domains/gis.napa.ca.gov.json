@@ -1,18 +1,13 @@
 {
   "$schema": "./../../schemas/domain-scan.schema.json",
-  "domain": "portal.dhcs.ca.gov",
-  "targetURL": "https://portal.dhcs.ca.gov/",
+  "domain": "gis.napa.ca.gov",
+  "targetURL": "https://gis.napa.ca.gov/rcu/roadclosures.pdf",
   "www": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "Login for DHCS Application Portal",
+  "title": "",
   "lastStatus": 200,
-  "responseHeaders": {
-    "accept-ranges": "bytes",
-    "connection": "close",
-    "content-type": "text/html",
-    "server": "AmazonS3"
-  },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -22,7 +17,12 @@
   "socialLinks": [],
   "linksToCaGov": false,
   "errorMessage": null,
-  "notes": null,
-  "nocache": true,
-  "goodScan": true
+  "nocache": false,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "content-type": "application/pdf",
+    "server": "Microsoft-IIS/10.0",
+    "x-powered-by": "ASP.NET"
+  },
+  "notes": null
 }
