@@ -8,7 +8,7 @@
   "title": "Aquaculture Matters – Why aquaculture in California matters",
   "lastStatus": 200,
   "responseHeaders": {
-    "alt-svc": "h3=\":443\"; ma=86400",
+    "alt-svc": "clear",
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",

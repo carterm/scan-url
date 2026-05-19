@@ -24,7 +24,7 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [
     "G-L673EFZY1V"
   ],

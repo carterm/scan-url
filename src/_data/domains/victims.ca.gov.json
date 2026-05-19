@@ -11,7 +11,7 @@
   "responseHeaders": {
     "connection": "keep-alive",
     "content-type": "text/html; charset=UTF-8",
-    "server": "nginx",
+    "server": "nginx/1.24.0 (Ubuntu)",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN"
   },

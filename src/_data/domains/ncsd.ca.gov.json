@@ -9,7 +9,7 @@
   "lastStatus": 200,
   "metaGenerator": "Powered by WPBakery Page Builder - drag and drop page builder for WordPress.",
   "responseHeaders": {
-    "alt-svc": "h3=\":443\"; ma=86400",
+    "alt-svc": "clear",
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",

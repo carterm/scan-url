@@ -5,13 +5,18 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "Office of Land Use and Climate Innovation",
+  "title": "Governor's Office of Land Use and Climate Innovation",
   "lastStatus": 200,
   "responseHeaders": {
-    "content-encoding": "gzip",
-    "content-type": "text/html",
-    "server": "Microsoft-IIS/10.0",
-    "x-ua-compatible": "IE=edge"
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "permissions-policy": "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)",
+    "referrer-policy": "strict-origin",
+    "server": "nginx",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "PHP/8.3.29",
+    "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,
   "slow": false,
@@ -32,5 +37,9 @@
   "errorMessage": null,
   "notes": null,
   "nocache": false,
-  "goodScan": true
+  "goodScan": true,
+  "DOMErrors": [
+    "Could not parse CSS stylesheet"
+  ],
+  "metaGenerator": "WordPress 6.9.4"
 }

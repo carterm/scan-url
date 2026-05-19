@@ -13,7 +13,11 @@
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "server": "nginx",
-    "x-httpd-modphp": "1"
+    "x-httpd-modphp": "1",
+    "x-pingback": "https://rcpa.ca.gov/xmlrpc.php",
+    "x-tec-api-origin": "https://rcpa.ca.gov",
+    "x-tec-api-root": "https://rcpa.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1"
   },
   "cloudflare": false,
   "slow": false,

@@ -18,7 +18,7 @@
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
     "x-matched-path": "/",
-    "x-vercel-cache": "HIT",
+    "x-vercel-cache": "PRERENDER",
     "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,
