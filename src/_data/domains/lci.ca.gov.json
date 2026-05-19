@@ -38,8 +38,8 @@
   "notes": null,
   "nocache": false,
   "goodScan": true,
+  "metaGenerator": "WordPress 6.9.4",
   "DOMErrors": [
     "Could not parse CSS stylesheet"
-  ],
-  "metaGenerator": "WordPress 6.9.4"
+  ]
 }
