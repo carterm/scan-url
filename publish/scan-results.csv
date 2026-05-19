@@ -1,5 +1,5 @@
 domain,target,status,redirectURL,title,generator,x-powered-by,server,slowResponse,statewideAlerts,stateTemplate,JQuery,errormessage,GoogleAnalytics
-393,533,0,2,526,172,188,377,0,128,229,352,22,390
+393,533,0,2,527,172,188,377,0,128,229,352,22,390
 .ca.gov,https://www.ca.gov/,200,,California State Portal | CA.gov,,ASP.NET,,,X,,,,GTM-PZGPNNV
 abag.ca.gov,https://abag.ca.gov/,200,,Home | Association of Bay Area Governments,Drupal 11 (https://www.drupal.org),,nginx,,,,X,,G-FE9WWP5YXX
 abc.ca.gov,https://www.abc.ca.gov/,200,,Alcoholic Beverage Control | Trust - Innovation - ...,CAWeb v.1.1.4b,WP Engine,cloudflare,,,,,,"G-69TD0KNT0F,G-DCG7L67NBP,UA-24087628-11,UA-3419582-2"
@@ -101,7 +101,7 @@ cdfa.ca.gov,https://piercesdisease.cdfa.ca.gov/,200,,CDFA - Pierce's Disease Res
 cdfa.ca.gov,https://www.cdfa.ca.gov/,200,,California Department of Food and Agriculture - CD...,,ASP.NET,,,X,X,X,,"GTM-W4BKPB7,UA-3419582-2"
 cdii.ca.gov,https://www.cdii.ca.gov/,200,,Homepage - CDII,All in One SEO (AIOSEO) 4.9.5.1,PHP/8.4.16,nginx,,,,X,,"G-G7F3RDGPHQ,GTM-MSW2ZV4,UA-1915322-1"
 cdph.ca.gov,https://calfreshhealthyliving.cdph.ca.gov/en/Pages/default.aspx,200,,Home,Microsoft SharePoint,,volt-adc,,,,,,GTM-KVN6ZCB
-cdph.ca.gov,https://gis.cdph.ca.gov/gisadmin/rest/info?f=pjson,200,,,,ASP.NET,Microsoft-IIS/10.0,,,,,,
+cdph.ca.gov,https://gis.cdph.ca.gov/gisadmin/rest/services,200,,Folder: /,,ASP.NET,Microsoft-IIS/10.0,,,,,,
 cdph.ca.gov,https://healthcareportal.cdph.ca.gov/,200,,CalHEART - Home,,,Microsoft-IIS/10.0,,,X,X,,
 cdph.ca.gov,https://medassist.cdph.ca.gov/,200,,CDPH,,,volt-adc,,,,,,
 cdph.ca.gov,https://medassistportal.cdph.ca.gov/,200,,CDPH,,,volt-adc,,,,,,
@@ -343,7 +343,7 @@ losaltoshills.ca.gov,https://www.losaltoshills.ca.gov/,200,,"Los Altos Hills, CA
 ltg.ca.gov,https://ltg.ca.gov/,200,,Lieutenant Governor - Office of the Lt. Governor o...,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-T47RW7TGKE,G-Y7T2KCM7P1,UA-21431721-7,UA-3419582-2,UA-3419582-47"
 madeincalifornia.ca.gov,https://www.madeincalifornia.ca.gov/,200,,Made in California,CAWeb v.1.5.2a,,Apache,,,X,X,,G-SEYPRR85FP
 mbc.ca.gov,https://www.mbc.ca.gov/,200,,Home | Medical Board of California,,Medical Board of California,Microsoft-IIS/10.0,,,,,,"G-VZEZFBT2Z2,GTM-NJ6Q4MV"
-mdaqmd.ca.gov,https://www.mdaqmd.ca.gov/,200,,Mojave Desert Air Quality Management District | Ho...,,,AkamaiGHost,,,,,,"G-4QOHCHA0IA,G-MWLPGMCV36,G-SPG9PZFWE9"
+mdaqmd.ca.gov,https://www.mdaqmd.ca.gov/,200,,Mojave Desert Air Quality Management District | Ho...,,,AkamaiGHost,,,,,,"G-4QOHCHA0IA,G-MWLPGMCV36,G-SPG9PZFWE9,G-TQXR61GSG_"
 medalofvalor.ca.gov,https://medalofvalor.ca.gov/,200,,Medal of Valor Awards - Home,,ASP.NET,Microsoft-IIS/10.0,,X,X,X,,UA-3419582-2
 medi-cal.ca.gov,https://mcweb.apps.prd.cammis.medi-cal.ca.gov/,200,,State of California,,,,,,X,,,G-8G032ZWHBJ
 meganslaw.ca.gov,https://www.meganslaw.ca.gov/Disclaimer,200,,Disclaimer - Megan's Law Website,,,,,,,X,,
