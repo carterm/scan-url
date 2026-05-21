@@ -30,5 +30,6 @@
   "goodScan": true,
   "DOMErrors": [
     "Could not parse CSS stylesheet"
-  ]
+  ],
+  "metaAuthor": "State of California"
 }

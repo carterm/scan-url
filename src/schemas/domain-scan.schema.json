@@ -54,6 +54,12 @@
       "description": "Value of <meta name='generator'> if present."
     },
 
+    "metaAuthor": {
+      "type": "string",
+      "nullable": true,
+      "description": "Value of <meta name='author'> if present."
+    },
+
     "responseHeaders": {
       "type": "object",
       "additionalProperties": { "type": "string" },
@@ -85,6 +91,12 @@
     "errorMessage": {
       "type": ["string", "null"],
       "description": "Error message if scan failed."
+    },
+
+    "DOMErrors": {
+      "type": ["array"],
+      "items": { "type": "string" },
+      "description": "Any DOM errors captured during page analysis."
     },
 
     "notes": {
