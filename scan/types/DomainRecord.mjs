@@ -35,7 +35,8 @@
  * @property {boolean} [ignoreFinalUrl]
  *   Whether to ignore the final resolved URL after redirects.
  *
- * @property {string | null} metaGenerator
+ * @property {string} [metaGenerator]
+ * @property {string} [metaAuthor]
  * @property {{[key: string]: string}} responseHeaders
  *   Raw response headers, preserving order and duplicates.
  *
@@ -90,8 +91,6 @@ export function createDomainRecord() {
 
     title: "",
     lastStatus: null,
-
-    metaGenerator: null,
 
     cloudflare: false,
     slow: false,

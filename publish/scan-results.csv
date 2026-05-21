@@ -1,535 +1,535 @@
-domain,target,status,redirectURL,title,generator,x-powered-by,server,slowResponse,statewideAlerts,stateTemplate,JQuery,errormessage,GoogleAnalytics
-393,533,0,2,527,172,188,377,0,128,229,351,22,390
-.ca.gov,https://www.ca.gov/,200,,California State Portal | CA.gov,,ASP.NET,,,X,,,,GTM-PZGPNNV
-abag.ca.gov,https://abag.ca.gov/,200,,Home | Association of Bay Area Governments,Drupal 11 (https://www.drupal.org),,nginx,,,,X,,G-FE9WWP5YXX
-abc.ca.gov,https://www.abc.ca.gov/,200,,Alcoholic Beverage Control | Trust - Innovation - ...,CAWeb v.1.1.4b,WP Engine,cloudflare,,,,,,"G-69TD0KNT0F,G-DCG7L67NBP,UA-24087628-11,UA-3419582-2"
-abcab.ca.gov,https://abcab.ca.gov/,200,,Alcoholic Beverage Control Appeals Board,,,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-XYBVW071M5,G-Y7T2KCM7P1,GTM-NJ6Q4MV,UA-20973992-10,UA-3419582-2,UA-3419582-47"
-acupuncture.ca.gov,https://www.acupuncture.ca.gov/,200,,Welcome - California Acupuncture Board,,,,,,,X,,"G-69TD0KNT0F,G-CGS7Z07GXJ,GTM-NBQCVZC,UA-64276560-1"
-agencyreports.ca.gov,https://agencyreports.ca.gov/,200,,Search for Agency Reports | California Agency Repo...,,,Apache,,,,X,,
-aging.ca.gov,https://www.aging.ca.gov/,200,,Home Page | California Department of Aging - State...,,,,,X,X,X,,"G-69TD0KNT0F,G-WSL365RZCF,UA-21431721-20"
-alpha.ca.gov,https://www.alpha.ca.gov/,200,,Welcome to Alpha.CA.gov,,,AmazonS3,,,,,,"G-5GGV1QPJD4,G-69TD0KNT0F"
-alrb.ca.gov,https://www.alrb.ca.gov/,200,,ALRB | The California Agricultural Labor Relations...,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-3GVNPSC58B,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47,UA-58832707-1"
-aquaculturematters.ca.gov,https://aquaculturematters.ca.gov/,200,,Aquaculture Matters – Why aquaculture in Californi...,,,nginx,,,,,,
-arb.ca.gov,https://gis.carb.arb.ca.gov/hosting/rest/services,200,,Folder: /,,,Microsoft-IIS/10.0,,,,,,
-arb.ca.gov,https://ww2.arb.ca.gov/,200,,Homepage | California Air Resources Board,Drupal 9 (https://www.drupal.org),,nginx,,,,,,"G-7M1ZZPXDBL,UA-19803621-1"
-arts.ca.gov,https://arts.ca.gov/,200,,Home Page - California Arts Council,WordPress 6.8.2,,nginx,,,,X,,G-YMHBQ8PVF6
-assembly.ca.gov,https://www.assembly.ca.gov/,200,,Welcome to the California State Assembly | Califor...,,,Apache,,,,,,G-4D0PPGX2BH
-auburn.ca.gov,https://www.auburn.ca.gov/,200,,"Auburn, CA | Official Website",,,Microsoft-IIS/10.0,,,,X,,"G-1PL09BWVXS,GTM-K73C5PS"
-auditor.ca.gov,https://www.auditor.ca.gov/,200,,California State Auditor,,WordPress VIP <https://wpvip.com>,nginx,,,,,,G-70N4V9ZKFQ
-avaqmd.ca.gov,https://www.avaqmd.ca.gov/,200,,Homepage Antelope Valley Air Quality Management Di...,,,nginx,,,,,,
-bar.ca.gov,https://www.bar.ca.gov/,200,,Home page - Bureau of Automotive Repair,,,,,,X,X,,G-2RE0XT2L0F
-barbercosmo.ca.gov,https://www.barbercosmo.ca.gov/,200,,California Board of Barbering and Cosmetology,,,,,,X,X,,"G-69TD0KNT0F,G-8SW7CC7X25,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-3"
-bawa.ca.gov,https://bawa.ca.gov/,200,,BISHOP AREA WASTEWATER AUTHORITY,WordPress 7.0,,Apache,,,,X,,
-bayareacensus.ca.gov,http://www.bayareacensus.ca.gov/,200,,Bay Area Census: We've Moved,,,AmazonS3,,,,,,
-bbs.ca.gov,https://www.bbs.ca.gov/,200,,Board of Behavioral Sciences (BBS),,,,,,X,X,,"G-69TD0KNT0F,G-DF674HWF28,GTM-M447QB9,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-4"
-bcdc.ca.gov,https://www.bcdc.ca.gov/,200,,SF Bay Conservation & Development |,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-659EB2TT61,G-69TD0KNT0F,G-CONDITIONS,G-ESSENTIALS,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
-bcsh.ca.gov,https://www.bcsh.ca.gov/,200,,"California Business, Consumer Services and Housing...",,,,,X,X,X,,"G-69TD0KNT0F,G-E4Q2NW6P5W,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-31"
-beacon.ca.gov,https://beacon.ca.gov/,200,,BEACON | Beach Erosion Authority for Clean Oceans ...,Divi v.4.27.6,,Sucuri/Cloudproxy,,,,X,,
-bhc.ca.gov,https://bhc.ca.gov/,200,,Baldwin Hills Conservancy,Site Kit by Google 1.178.0,,nginx,,X,X,X,,"UA-3419582-2,UA-59627195-3"
-bhsoac.ca.gov,https://bhsoac.ca.gov/,200,,Behavioral Health Services Oversight & Accountabil...,CAWeb v.1.5.1,"PHP/8.1.34, PleskLin",nginx,,,X,X,,"G-2S4WQ2SDZ6,G-5L308BQ8BW,UA-12799586-1"
-biomonitoring.ca.gov,https://www.biomonitoring.ca.gov/,200,,Biomonitoring California | Measuring Chemicals in ...,,,,,,,,,
-bluelake.ca.gov,https://bluelake.ca.gov/,200,,"City of Blue Lake, CA - Blue Lake, California",,WP Engine,cloudflare,,,,X,,
-boe.ca.gov,https://boe.ca.gov/,200,,California State Board of Equalization Homepage,,,Microsoft-IIS/10.0,,X,X,X,,"G-69TD0KNT0F,G-XH0RG68L1S,GTM-5Q36MCK"
-bondaccountability.ca.gov,https://bondaccountability.ca.gov/,200,,Home | CA.GOV Bond Accountability,,,volt-adc,,X,X,,,"G-WJP820TQVY,GTM-NJ6Q4MV"
-boomerang.ca.gov,https://www.boomerang.ca.gov/,200,,Boomerang: State of California Retirees Job Connec...,,ASP.NET,Microsoft-IIS/10.0,,,X,X,,"UA-3419582-2,UA-5276088-3"
-bopc.ca.gov,https://bopc.ca.gov/,200,,BOPC - Board of Pilot Commissioners,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-FBMZL6F4H8,G-Y7T2KCM7P1,UA-20973992-11,UA-3419582-2,UA-3419582-47"
-bot.ca.gov,https://www.bot.ca.gov/,200,,Board of Occupational Therapy,,,,,,X,X,,"G-69TD0KNT0F,G-VWTHLSTC7N,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-14"
-bpelsg.ca.gov,https://www.bpelsg.ca.gov/,200,,"Board for Professional Engineers, Land Surveyors, ...",,,,,,X,X,,"G-00QVLPGF36,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-64276560-10"
-bppe.ca.gov,https://www.bppe.ca.gov/,200,,Bureau for Private and Post-Secondary Education - ...,,,,,,X,X,,"G-3V1YPEGZCC,G-69TD0KNT0F,GTM-NBQCVZC,UA-3419582-2,UA-64276560-20"
-bppe.ca.gov,https://www.osar.bppe.ca.gov/,200,,Office of Student Assistance and Relief,,,,,,X,X,,"G-69TD0KNT0F,G-D0ME26CM0R,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-41"
-brea.ca.gov,https://www.brea.ca.gov/,200,,California Bureau of Real Estate Appraisers,,,,,,,,,"UA-22544255-17,UA-3419582-2"
-broadbandcouncil.ca.gov,https://broadbandcouncil.ca.gov/,200,,California Broadband Council | The California Broa...,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-BM545KDPMZ,G-Y7T2KCM7P1,UA-21970760-37,UA-3419582-2,UA-3419582-47"
-broadbandmap.ca.gov,https://www.broadbandmap.ca.gov/,200,,California Interactive Broadband Map,,ASP.NET,Microsoft-IIS/10.0,,,,,,
-bscc.ca.gov,https://www.bscc.ca.gov/,200,,BSCC – Board of State and Community Corrections,CAWeb v.1.6.4,,Apache/2.4.41 (Ubuntu),,,X,X,,"G-K3Z99JBWHR,UA-67888913-1"
-bsis.ca.gov,https://www.bsis.ca.gov/,200,,Welcome to the Bureau of Security and Investigativ...,,,,,,X,X,,"G-69TD0KNT0F,G-84YD2E7420,UA-3419582-2,UA-64276560-25"
-build.ca.gov,https://www.build.ca.gov/,200,,Building California: Transforming Infrastructure f...,,,Vercel,,,,,,
-business.ca.gov,https://business.ca.gov/,200,,California Governor’s Office of Business and Econo...,CAWeb v.1.5.3,,Apache,,,X,X,,"G-ZYTZPSRY9P,GTM-NNRL3QT"
-bvnpt.ca.gov,https://www.bvnpt.ca.gov/,200,,Board of Vocational Nursing & Psychiatric Technici...,,,,,,X,X,,"G-69TD0KNT0F,G-HTB5XLD158,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-29"
-bvwd.ca.gov,https://bvwd.ca.gov/,200,,Bear Valley Water District,,,Microsoft-IIS/10.0,,,,X,,G-LLAB4IT68L
-c2c.ca.gov,https://c2c.ca.gov/,200,,California Cradle-to-Career Data System | C2C,,WP Engine,cloudflare,,,,,,GTM-P7T6C5S
-cab.ca.gov,https://www.cab.ca.gov/,200,,California Architects Board,,,,,,X,X,,"G-69TD0KNT0F,G-R5WKN67L3M"
-caclimateinvestments.ca.gov,https://www.caclimateinvestments.ca.gov/,200,,California Climate Investments,,,Squarespace,,,,X,,"G-013F66E7C6,G-0F4A4CDA7D,G-22C0FA1665,G-43AF232B5B,G-44AECC9B91,G-701BF8BBC0,G-86AACD645D,G-902FAAFCE0,G-920708D91C,G-96ACF835CC,G-975CECE8DE,G-9DE6E9C562,G-B1BA7891C2,G-B685267B79,G-BCBAEBAB68,G-C63BF8989A,G-CFFDAD8C31,G-COLLECTION,G-D22EABECA1,G-DB8F466935,G-F9093F2D52,G-FBFF02EA9B,G-SQTTDXLFMY,G-ZCFAH2ENT5"
-calable.ca.gov,https://calable.ca.gov/,200,,Home - CalABLE,,Express,awselb/2.0,,,,,,"G-BH9XWR79GY,GTM-K7STLL5"
-calbar.ca.gov,https://www.calbar.ca.gov/,200,,Home | The State Bar of California,Drupal 11 (https://www.drupal.org),,wsm,,,,X,,"G-CT3SHXYGSG,G-HKWIEG4KBI,GTM-K64ZG27"
-calcareers.ca.gov,https://calcareers.ca.gov/,200,,CalCareers,,ASP.NET,,,X,X,,,"G-1ZWR8CFVKV,G-69TD0KNT0F,G-B3UPD2PRSI,G-GVMXP4J73D"
-calcivilrights.ca.gov,https://calcivilrights.ca.gov/,200,,CRD | Civil Rights Department,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-DMYWEFRNDX,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
-calcompetes.ca.gov,https://www.calcompetes.ca.gov/Login.aspx,200,,Login,,ASP.NET,Microsoft-IIS/10.0,,,,X,,
-calctra.ca.gov,https://www.calctra.ca.gov/,200,,CALCTRA Website » Career Training | Quality Produc...,WordPress 6.9.4,,Microsoft-IIS/10.0,,,,X,,"G-KEC04T63TW,GTM-M833TJP"
-calepa.ca.gov,https://calepa.ca.gov/,403,,CalEPA | California Environmental Protection Agenc...,,,,,,,,Fetch error: fetch failed redirect count exceeded,
-calepa.ca.gov,https://cers.calepa.ca.gov/,403,,CERS | California Environmental Reporting System,,,,,,X,,HTTP 403,"G-69TD0KNT0F,G-VKFSF099FL"
-caleprocure.ca.gov,https://caleprocure.ca.gov/pages/index.aspx,200,,Cal eProcure,,,nginx,,,,X,,"GTM-WTBNSTN,UA-3419582-2"
-calexico.ca.gov,https://www.calexico.ca.gov/,200,,"Calexico, CA",,,,,,,X,,
-calgold.ca.gov,https://www.calgold.ca.gov/,200,,CalGold | CalGold v2 - Permit Assistance Tool,,,,,,X,X,,G-ZZ3YHMBCMQ
-calguard.ca.gov,https://calguard.ca.gov/,200,,Cal Guard | Cal Guard,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-568M73XK08,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-21974567-37,UA-3419582-2,UA-3419582-47"
-calhfa.ca.gov,https://cloud.calhfa.ca.gov/,200,,California Housing Finance Agency | CalHFA,,,Microsoft-IIS/10.0,,X,,X,,"G-DJ1JHKZF8R,UA-19266071-3"
-calhfa.ca.gov,https://www.calhfa.ca.gov/,200,,California Housing Finance Agency | CalHFA,,,Microsoft-IIS/10.0,,X,,X,,"G-DJ1JHKZF8R,UA-19266071-3"
-calhr.ca.gov,https://www.calhr.ca.gov/,200,,CalHR Website - The CALHR site,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-Y7T2KCM7P1,GTM-PNDFX4J,UA-3419582-2,UA-3419582-47"
-californiadgstats.ca.gov,https://www.californiadgstats.ca.gov/,200,,CaliforniaDGStats,,,,,,,X,,"G-1Z3D4EMH7X,G-PT0KK6BNM3,GTM-KK8LBS3"
-californianature.ca.gov,https://www.californianature.ca.gov/,200,,30x30 California,,,,,,,,,"G-Y6CYCFDK0H,UA-59627195-16"
-californiavolunteers.ca.gov,https://www.californiavolunteers.ca.gov/,200,,California Volunteers | California Volunteers,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-T935JFYNE2,G-Y7T2KCM7P1,GTM-P2BGJP8,UA-23110710-36,UA-3419582-2,UA-3419582-47"
-caljobs.ca.gov,https://www.caljobs.ca.gov/vosnet/default.aspx,200,,CalJOBS,,,,,,,,,
-caloes.ca.gov,https://firescope.caloes.ca.gov/,200,,Firescope Home,Microsoft SharePoint,ASP.NET,Microsoft-IIS/10.0,,,,X,,
-caloes.ca.gov,https://www.caloes.ca.gov/,200,,California Governor's Office of Emergency Services...,CAWeb v.1.13.0,,,,X,X,X,,"G-69TD0KNT0F,G-MDLYGZX10N,GTM-5JTZCJC,UA-3419582-2,UA-54732306-2"
-caloes.ca.gov,https://www.news.caloes.ca.gov/,200,,Cal OES News | NEWSROOM | Multimedia | California ...,CAWeb v.1.13.0,,,,X,X,X,,"G-69TD0KNT0F,GTM-PDD4LL4,UA-3419582-2"
-caloes.ca.gov,https://www.wildfirerecovery.caloes.ca.gov/,200,,California Statewide Wildfire Recovery Resources |,CAWeb v.1.13.0,,,,X,X,X,,"G-69TD0KNT0F,G-TS7HJEYWFP,UA-3419582-2"
-calosba.ca.gov,https://www.calosba.ca.gov/,200,,California Office of the Small Business Advocate (...,CAWeb v.1.5.2a,,Apache,,,X,X,,G-2KMN5NQW5J
-calpers.ca.gov,https://www.calpers.ca.gov/,200,,California Public Employees' Retirement System,Drupal 10 (https://www.drupal.org),,nginx,,,,,,"G-EGNB9Q40R8,G-NVPAH5KF7T,GTM-TVMFZD9"
-calrecycle.ca.gov,https://calrecycle.ca.gov/,200,,CalRecycle Home Page,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-Y7T2KCM7P1,GTM-WWF6GW5,UA-12131600-15,UA-3419582-2,UA-3419582-47"
-calrx.ca.gov,https://calrx.ca.gov/,200,,CalRx - Making prescription drugs more affordable ...,WordPress 6.9.4,,,,,,,,"G-69TD0KNT0F,G-B15ZM3C3NN"
-calsilc.ca.gov,https://calsilc.ca.gov/,200,,California State Independent Living Council | To c...,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-9RWNEXS0MN,G-Y7T2KCM7P1,UA-21970760-45,UA-3419582-2,UA-3419582-47"
-calsta.ca.gov,https://calsta.ca.gov/,200,,California State Transportation Agency | CalSTA,,,Microsoft-IIS/10.0,,X,X,X,,"G-69TD0KNT0F,G-8PZ3KQXET8"
-calvet.ca.gov,https://www.calvet.ca.gov/,,,CalVet - California Department of Veterans Affairs,,,,,,,,Fetch error: fetch failed read ECONNRESET,
-cannabis.ca.gov,https://www.cannabis.ca.gov/,200,,Department of Cannabis Control,,,Vercel,,,,,,G-LABORATORI
-capiaa.ca.gov,https://capiaa.ca.gov/,200,,California Commission on APIA Affairs | Empowering...,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-FZL67QR94L,G-Y7T2KCM7P1,UA-24087628-35,UA-3419582-2,UA-3419582-47"
-capitolmuseum.ca.gov,https://capitolmuseum.ca.gov/,200,,Homepage - California State Capitol Museum,CAWeb v.1.12.4,PleskLin,nginx,,,X,X,,"G-69TD0KNT0F,G-ZSV0Z9SPB3,UA-21974567-45,UA-3419582-2,UA-64245307-1"
-captain.ca.gov,https://www.captain.ca.gov/,200,,CA Autism Professional Training and Information Ne...,,,Microsoft-IIS/10.0,,,,X,,G-7P4J8DKTKV
-catc.ca.gov,https://catc.ca.gov/,200,,California Transportation Commission | CTC,,,Microsoft-IIS/10.0,,X,X,X,,"G-37E6VKG1R5,G-69TD0KNT0F,UA-21970760-33"
-cca.ca.gov,https://cca.ca.gov/,200,,California Cannabis Authority,,,cloudflare,,,,X,,
-ccag.ca.gov,https://ccag.ca.gov/,200,,C/CAG,,,nginx,,,,X,,G-0KSE6F1TNL
-ccap.ca.gov,https://www.ccap.ca.gov/,200,,Cannabis Control Appeals Panel,,,,,X,X,X,,"G-69TD0KNT0F,G-HCFGD3JTY2,GTM-M683DJB,GTM-NBQCVZC,UA-21974567-34,UA-3419582-2"
-ccc.ca.gov,https://ccc.ca.gov/,200,,California Conservation Corps,CCC Divi Child Theme v.1.0.1,,,,,,X,,"G-9B8C5EW31B,UA-1915322-1"
-ccfc.ca.gov,https://www.ccfc.ca.gov/,200,,First 5 California - Improving Lives of California...,,ASP.NET,Microsoft-IIS/10.0,,X,,X,,G-ZPMNSRN8SN
-cchcs.ca.gov,https://cchcs.ca.gov/,200,,CCHCS - California Correctional Health Care Servic...,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-Q9Y67HPNNY,G-Y7T2KCM7P1,GTM-T7W8RZ8,UA-3419582-2,UA-3419582-47"
-ccoa.ca.gov,https://tacc.ccoa.ca.gov/,200,,Home Page | Triple-A Council of California - State...,,,,,X,X,X,,"UA-20973992-12,UA-21431721-20,UA-3419582-2"
-ccoa.ca.gov,https://www.ccoa.ca.gov/,200,,California Commission on Aging - State of Californ...,,,,,X,X,X,,"G-69TD0KNT0F,G-M8T749HDDC,UA-21431721-20"
-ccusl.ca.gov,https://ccusl.ca.gov/,200,,Welcome to the California Commission on Uniform St...,,,cloudflare,,,,X,,
-cdcr.ca.gov,https://pass.cdcr.ca.gov/Home/ChooseApplication,200,,Choose Application - CDCR Peace Officer Applicatio...,,ASP.NET,Microsoft-IIS/10.0,,,,X,Fetch error: fetch failed write EPIPE,GTM-WWJWHL4
-cdcr.ca.gov,https://www.cdcr.ca.gov/,200,,California Department of Corrections and Rehabilit...,,,nginx,,,,,,GTM-WWJWHL4
-cde.ca.gov,https://cnips.cde.ca.gov/Splash.aspx,200,https://validate.perfdrive.com/?ssa=5d37affb-b670-...,Child Nutrition Information and Payment System,,,,,,,X,,
-cde.ca.gov,https://www.cde.ca.gov/,200,,California Department of Education,,,,,X,,X,,G-FXBTGX69YQ
-cdfa.ca.gov,https://piercesdisease.cdfa.ca.gov/,200,,CDFA - Pierce's Disease Research Updates,,,,,,X,X,,GTM-W4BKPB7
-cdfa.ca.gov,https://www.cdfa.ca.gov/,200,,California Department of Food and Agriculture - CD...,,ASP.NET,,,X,X,X,,"GTM-W4BKPB7,UA-3419582-2"
-cdii.ca.gov,https://www.cdii.ca.gov/,200,,Homepage - CDII,All in One SEO (AIOSEO) 4.9.5.1,PHP/8.4.16,nginx,,,,X,,"G-G7F3RDGPHQ,GTM-MSW2ZV4,UA-1915322-1"
-cdph.ca.gov,https://calfreshhealthyliving.cdph.ca.gov/en/Pages/default.aspx,200,,Home,Microsoft SharePoint,,volt-adc,,,,,,GTM-KVN6ZCB
-cdph.ca.gov,https://gis.cdph.ca.gov/gisadmin/rest/services,200,,Folder: /,,ASP.NET,Microsoft-IIS/10.0,,,,,,
-cdph.ca.gov,https://healthcareportal.cdph.ca.gov/,200,,CalHEART - Home,,,Microsoft-IIS/10.0,,,X,X,,
-cdph.ca.gov,https://medassist.cdph.ca.gov/,200,,CDPH,,,volt-adc,,,,,,
-cdph.ca.gov,https://medassistportal.cdph.ca.gov/,200,,CDPH,,,volt-adc,,,,,,
-cdph.ca.gov,https://myturn.cdph.ca.gov/,200,,My Turn - California Vaccine Scheduling & Informat...,,,volt-adc,,,,,,"G-RJPGSHNVCG,GTM-5THG92K,GTM-WC8N8KN"
-cdph.ca.gov,https://myvaccinerecord.cdph.ca.gov/,200,,Digital Vaccine Record,,,volt-adc,,,,,,GTM-5L4RSCS
-cdph.ca.gov,https://spot.cdph.ca.gov/s/?language=en_US,200,,SPOT,,,volt-adc,,,,,,
-cdph.ca.gov,https://www.cdph.ca.gov/,200,,CDPH Home,,,volt-adc,,X,,X,,"G-RESPONSIVE,GTM-KVN6ZCB"
-cdph.ca.gov,https://www.communityhealthstudies.cdph.ca.gov/,200,,Community Health Studies,,ASP.NET,Microsoft-IIS/10.0,,,,,,"GTM-KVN6ZCB,UA-42142214-1"
-cdpr.ca.gov,https://calpip.cdpr.ca.gov/main.cfm,200,,CalPIP Home - California Pesticide Information Por...,,,Apache,,X,X,X,,GTM-PG47TPC
-cdpr.ca.gov,https://ets.cdpr.ca.gov/,200,,California Department of Pesticide Regulation Elec...,,,Apache,,X,X,,,"G-75V2BNQ3DR,GTM-NJ6Q4MV"
-cdpr.ca.gov,https://mobile.cdpr.ca.gov/,200,,Department of Pesticide Regulation Mobile Gallery,,ASP.NET,Microsoft-IIS/10.0,,,,,,"UA-3419582-2,UA-5300495-1"
-cdpr.ca.gov,https://www.cdpr.ca.gov/,200,,Home Page - Department of Pesticide Regulation,WordPress 6.9.4,,nginx,,,X,,,GTM-PG47TPC
-cdss.ca.gov,https://www.cdss.ca.gov/,200,,Home | California Dept. of Social Services,,,,,,X,X,,"G-6Y5ZSHSWZE,UA-77698819-4"
-cdt.ca.gov,https://broadbandforall.cdt.ca.gov/,200,,Homepage | Broadband for All,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-TL905X6EDW,G-Y7T2KCM7P1,GTM-NH6JP3T,UA-20973992-22,UA-3419582-2,UA-3419582-47"
-cdt.ca.gov,https://caweb.cdt.ca.gov/,200,,CAWeb | The CAWeb Publishing Support site,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-JM9XN48M0M,G-Y7T2KCM7P1,UA-31125811-32,UA-3419582-2,UA-3419582-47"
-cdt.ca.gov,https://digitalidstrategy.cdt.ca.gov/,200,,California State Digital ID Strategy | CA.gov,,ASP.NET,,,X,,,,"G-CLMC17ZTJT,GTM-NJ6Q4MV"
-cdt.ca.gov,https://digitalstrategy.cdt.ca.gov/,200,,California State Digital Strategy,,,,,X,X,,,"G-CLMC17ZTJT,G-DDK6LP4W3T,GTM-NJ6Q4MV"
-cdt.ca.gov,https://projectresources.cdt.ca.gov/,200,,Project Resources | CA-PMO,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-NSV16ZKHM9,G-Y7T2KCM7P1,UA-20973992-26,UA-3419582-2,UA-3419582-47"
-cdt.ca.gov,https://www.capmf.cdt.ca.gov/,200,,CDT - CA-PMF - Project Management Framework,,ASP.NET,,,,X,X,HTTP 403,"G-WFDWPPLS2Q,GTM-NJ6Q4MV"
-cdt.ca.gov,https://www.cdt.ca.gov/,200,,CDT - California Department of Technology,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-LPLGX1HR9S,G-Y7T2KCM7P1,UA-20973992-22,UA-3419582-2,UA-3419582-47"
-cdt.ca.gov,https://www.domainnamerequest.cdt.ca.gov/,200,,Getting Started,,ASP.NET,,,,X,,,"G-69TD0KNT0F,G-X7DZT8P5JD"
-cdt.ca.gov,https://www.envision2026.cdt.ca.gov/,200,,Envision 2026 - California’s Technology Future,,ASP.NET,,,X,X,,,"G-N45YGR3WEW,GTM-NJ6Q4MV"
-cdtfa.ca.gov,https://cdtfa.ca.gov/,200,,California Department of Tax and Fee Administratio...,,,,,X,X,X,,GTM-W42NR96
-cdtfa.ca.gov,https://gis.cdtfa.ca.gov/,200,,Find a Sales and Use Tax Rate,,ASP.NET,Microsoft-IIS/10.0,,,,,,"GTM-W42NR96,UA-3419582-2,UA-64276560-39"
-cdtfa.ca.gov,https://maps.cdtfa.ca.gov/,200,,Find a Sales and Use Tax Rate,,ASP.NET,Microsoft-IIS/10.0,,,,,,"GTM-W42NR96,UA-3419582-2,UA-64276560-39"
-cdtfa.ca.gov,https://onlineservices.cdtfa.ca.gov/,,,CDTFA Online Services,,,,,,,,Fetch error: fetch failed redirect count exceeded,
-census.ca.gov,https://census.ca.gov/,200,,"CA Census | Be Counted, California!",CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-TZTNZMGXJE,G-Y7T2KCM7P1,UA-21431721-42,UA-3419582-2,UA-3419582-47"
-cfb.ca.gov,https://www.cfb.ca.gov/,200,,Home – Cemetery and Funeral Bureau,,,,,,,X,,"G-69TD0KNT0F,G-G28V3EMKNN,UA-64276560-5"
-cfcc.ca.gov,https://www.cfcc.ca.gov/,200,,California Financing Coordinating Committee (CFCC),CAWeb v.1.5.2a,,Apache,,,X,X,,G-LRBSJ7NJPS
-chhs.ca.gov,https://www.chhs.ca.gov/,200,,California Health and Human Services - California ...,WordPress 6.9.4,PHP/8.4.16,nginx,,,,X,,"G-C326YCQ2HL,GTM-5R9P4F7,UA-3419582-2"
-childsupport.ca.gov,https://childsupport.ca.gov/,200,,CA Child Support Services,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-V0P67RG6BT,G-Y7T2KCM7P1,GTM-WGNN9NP,UA-21970760-39,UA-3419582-2,UA-3419582-47"
-chiro.ca.gov,https://www.chiro.ca.gov/,200,,"Board of Chiropractic Examiners, California Depart...",,,,,,,,,"G-69TD0KNT0F,G-K09KJQJEEF,UA-20973992-13"
-chp.ca.gov,https://www.chp.ca.gov/,200,,California Highway Patrol,,,cloudflare,,X,X,X,,"G-75V2BNQ3DR,GTM-5J36M86,GTM-NJ6Q4MV,UA-1915322-1"
-chrb.ca.gov,https://www.chrb.ca.gov/,200,,California Horse Racing Board,,ASP.NET,Microsoft-IIS/10.0,,,X,X,,G-5Z5BS440DZ
-cirm.ca.gov,https://www.cirm.ca.gov/,200,,CIRM – California's Stem Cell and Gene Therapy Age...,WordPress 6.9.4,,nginx,,X,,X,Fetch error: fetch failed Headers Timeout Error,G-LGEK77YV1P
-cityofblythe.ca.gov,https://www.cityofblythe.ca.gov/,200,,"The Official Site of Blythe, CA! | Official Websit...",,,Microsoft-IIS/10.0,,,,X,,"G-PXD95BNVLQ,GTM-K73C5PS"
-cityofcorcoran.ca.gov,https://cityofcorcoran.ca.gov/,200,,"Corcoran, Ca",,,,,,,X,,
-cityofriodell.ca.gov,https://www.cityofriodell.ca.gov/,200,,"Rio Dell, CA | Official Website",,,cloudflare,,,,X,,"G-G175W7V1CX,GTM-K73C5PS"
-cityofventura.ca.gov,https://www.cityofventura.ca.gov/,200,,"Ventura, CA | Official Website",,,cloudflare,,,,X,,"G-XWL3SB66NK,GTM-K73C5PS"
-cjp.ca.gov,https://cjp.ca.gov/,200,,CJP | Commission on Judicial Performance,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-N3F46379HC,G-Y7T2KCM7P1,UA-22544255-8,UA-3419582-2,UA-3419582-47"
-climateassessment.ca.gov,https://www.climateassessment.ca.gov/,200,,California Climate Change Assessment,,,Microsoft-IIS/10.0,,,X,X,,
-climateresilience.ca.gov,https://www.climateresilience.ca.gov/,200,,California Climate Adaptation Strategy 2024,,ASP.NET,Microsoft-IIS/10.0,,,X,X,,"G-69TD0KNT0F,G-HTRZSKEXJ7"
-clrc.ca.gov,https://www.clrc.ca.gov/,200,,California Law Revision Commission Home,,,Apache,,,,,,"UA-24087628-17,UA-3419582-2"
-clsd.ca.gov,https://clsd.ca.gov/,200,,Coast Life Support District – Ambulance & collabor...,WordPress 6.9.4,,nginx,,,,X,,G-BACKGROUND
-cnra.ca.gov,https://data.cnra.ca.gov/,200,,Welcome - California Natural Resources Agency Open...,ckan 2.9.11,,cloudflare,,X,,X,,"G-L05EYD0Q7Q,G-Q09GQ8WSZJ,G-ZG8VBX1CS3"
-cnra.ca.gov,https://futureofwork.cnra.ca.gov/,200,,Certified Regulatory Programs – Notices of Determi...,Site Kit by Google 1.178.0,,nginx,,X,X,X,,"UA-3419582-2,UA-59627195-7"
-cnra.ca.gov,https://gis.cnra.ca.gov/arcgis/rest/services/,200,,Folder: /,,ASP.NET,"Microsoft-IIS/10.0, ",,,,,,
-cnra.ca.gov,https://thrive.cnra.ca.gov/,200,,Thrive @ Resources – Supporting the People Who Pow...,Site Kit by Google 1.178.0,,nginx,,X,X,X,,G-DC4ZM50NEC
-coastal.ca.gov,https://www.coastal.ca.gov/,200,,California Coastal Commission,,ASP.NET,Microsoft-IIS/7.5,,X,,,,"G-38DMPFK630,G-69TD0KNT0F"
-code.ca.gov,https://code.ca.gov/,200,,California Open Source Portal,,ASP.NET,,,X,X,,,"G-69TD0KNT0F,G-V48N03F5V0"
-colma.ca.gov,https://www.colma.ca.gov/,403,,Home - Town of Colma,,,,,,,,HTTP 403,
-conservation.ca.gov,https://creec.conservation.ca.gov/,200,,Carbon Sequestration | CREEC,,,,,,,X,,"G-69TD0KNT0F,G-TB4GXTE2XM"
-conservation.ca.gov,https://filerequest.conservation.ca.gov/,200,,File Request - California Department of Conservati...,,,Microsoft-IIS/10.0,,,X,X,,"G-69TD0KNT0F,G-TB4GXTE2XM"
-conservation.ca.gov,https://geosteam.conservation.ca.gov/,200,,Geothermal Well Search,,,Microsoft-IIS/10.0,,,X,X,,"G-69TD0KNT0F,G-N4MB98DBXY"
-conservation.ca.gov,https://maps.conservation.ca.gov/,200,,Department of Conservation Map Server,,ASP.NET,,,,X,X,,"G-69TD0KNT0F,G-XL3D15KXV3,UA-3419582-2,UA-34494709-3"
-conservation.ca.gov,https://www.conservation.ca.gov/,200,,California Department of Conservation,Microsoft SharePoint,ASP.NET,Microsoft-IIS/10.0,,,X,X,,"G-69TD0KNT0F,G-N4MB98DBXY,UA-34494709-1"
-contracosta.ca.gov,https://www.contracosta.ca.gov/,200,,"Contra Costa County, CA Official Website | Officia...",,,cloudflare,,,,X,,"G-PC37G0VFEW,GTM-K73C5PS"
-courtinfo.ca.gov,https://www2.courtinfo.ca.gov/ccn/,200,,California Court News,,,volt-adc,,,,X,,
-courtreportersboard.ca.gov,https://www.courtreportersboard.ca.gov/,200,,Court Reporters Board of California,,,,,,X,X,,"G-512WQC0YJW,G-69TD0KNT0F,GTM-NBQCVZC,UA-3419582-2,UA-64276560-6"
-courts.ca.gov,https://courts.ca.gov/,200,,California Courts - Home | Judicial Branch of Cali...,Drupal 9 (https://www.drupal.org),,nginx,,,,,,
-courts.ca.gov,https://newsroom.courts.ca.gov/,200,,Front Page | California Courts Newsroom,Drupal 9 (https://www.drupal.org),,nginx,,,,,,G-97ALDYA3VI
-courts.ca.gov,https://www.butte.courts.ca.gov/,200,,Home | Superior Court of California | County of Bu...,Drupal 9 (https://www.drupal.org),,nginx,,,,,,
-courts.ca.gov,https://www.inyo.courts.ca.gov/,200,,Home | Superior Court of California | County of In...,Drupal 9 (https://www.drupal.org),,nginx,,,,,,
-courts.ca.gov,https://www.lassen.courts.ca.gov/,200,,Home | Superior Court of California | County of La...,Drupal 9 (https://www.drupal.org),,nginx,,,,,,
-courts.ca.gov,https://www.selfhelp.courts.ca.gov/,200,,Self-Help Guide to the California Courts | Califor...,Drupal 9 (https://www.drupal.org),,nginx,,,,,,G-K8QM6XJZDN
-courts.ca.gov,https://www.tehama.courts.ca.gov/,200,,"Home | Superior Court of California, County of Teh...",Drupal 9 (https://www.drupal.org),,nginx,,,,,,
-cpost.ca.gov,https://cpost.ca.gov/,200,,My WordPress Site,,,nginx,,,,,,
-cppa.ca.gov,https://www.cppa.ca.gov/,200,,California Privacy Protection Agency (CPPA),,,,,X,X,X,,"G-69TD0KNT0F,G-WFY9PWDBY2,UA-31125811-47,UA-3419582-2"
-cpuc.ca.gov,https://calphoneinfo.cpuc.ca.gov/,200,,"State of California, California Public Utilities C...",,ASP.NET,Microsoft-IIS/10.0,,,,,,"G-G77XY5RQCC,UA-1915322-3,UA-3419582-2"
-cpuc.ca.gov,https://liob.cpuc.ca.gov/,200,,LIOB | Low Income Oversight Board,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-DZDGMK1BF8,G-Y7T2KCM7P1,UA-1915322-16,UA-3419582-2,UA-3419582-47"
-cpuc.ca.gov,https://www.cpuc.ca.gov/,200,,California Public Utilities Commission,,,Microsoft-IIS/10.0,,,,X,,"G-LM6T7RGC27,UA-1915322-1"
-cpuc.ca.gov,https://www.publicadvocates.cpuc.ca.gov/,200,,California Public Advocates Office,,,Microsoft-IIS/10.0,,,,,,"G-SXHD1QGZTZ,UA-1915322-1"
-crb.ca.gov,https://crb.ca.gov/,200,,Home - Colorado River Board,Site Kit by Google 1.178.0,,nginx,,X,X,,,
-crob.ca.gov,https://crob.ca.gov/,200,,C-ROB – California Rehabilitation Oversight Board,WordPress 6.9.4,,Apache,,,,X,,G-QLV9BHLEDN
-csac.ca.gov,https://www.cash4college.csac.ca.gov/,200,,Home Page - California Student Aid Commission,,ASP.NET,Microsoft-IIS/10.0,,,X,X,,"UA-20973992-20,UA-3419582-2"
-csac.ca.gov,https://www.csac.ca.gov/,403,,Home | California Student Aid Commission,,,awselb/2.0,,,,,HTTP 403,
-csb-cde.ca.gov,https://www.csb-cde.ca.gov/,200,,"California School for the Blind, Fremont",,,,,,,X,,G-CZVXSCW7Y7
-csd.ca.gov,https://www.csd.ca.gov/,200,,Home,Microsoft SharePoint,ASP.NET,Microsoft-IIS/10.0,,X,X,X,,"G-69TD0KNT0F,G-HK7CWSQCBM,G-YHZMO9H5F1"
-csdr-cde.ca.gov,https://www.csdr-cde.ca.gov/,200,,CSD Riverside,,,,,,,X,,G-KM0EBRSG3J
-cslb.ca.gov,https://www.cslb.ca.gov/,200,,CSLB-Home -CSLB,,,,,X,X,X,,"G-1W465E5H9H,UA-3419582-2,UA-8901380-1"
-csm.ca.gov,https://www.csm.ca.gov/,200,,Commission on State Mandates,,,nginx,,,X,X,,
-csssa.ca.gov,https://www.csssa.ca.gov/,200,,California State Summer School for the Arts,Site Kit by Google 1.179.0,ASP.NET,Microsoft-IIS/10.0,,,,X,,G-ANNOUNCEME
-ctc.ca.gov,https://www.ctc.ca.gov/,200,,Commission | Commission on Teacher Credentialing,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-8L1GC3E1C3,G-T1XQR9G39D,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47,UA-3695757-1"
-cuiab.ca.gov,https://cuiab.ca.gov/,200,,California Unemployment Insurance Appeals Board | ...,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-Y7T2KCM7P1,GTM-W6WGLB2,UA-3419582-2,UA-3419582-47"
-cvfpb.ca.gov,https://cvfpb.ca.gov/,200,,Central Valley Flood Protection Board – State of C...,Site Kit by Google 1.178.0,,nginx,,X,X,X,,
-cvmc.ca.gov,https://cvmc.ca.gov/,200,,Coachella Valley Mountain Conservancy – Our missio...,Site Kit by Google 1.178.0,,nginx,,X,X,,,
-cvmdistrict.ca.gov,https://cvmdistrict.ca.gov/,200,,"Clovis Veterans Memorial District | Clovis, CA",Wix.com Website Builder,,Pepyaka,,,,,,"G-BACKGROUND,G-PROVISIONI,G-TRANSLATIO,G-VXSQEMU7U9"
-cwc.ca.gov,https://cwc.ca.gov/,200,,California Water Commission,,,,,X,,X,,GTM-KZVRVN6
-cwdb.ca.gov,https://cwdb.ca.gov/,200,,CWDB | California Workforce Development Board,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-TQ5Q6K3P3K,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
-cwds.ca.gov,https://cwds.ca.gov/,307,,You are being redirected...,,,Sucuri/Cloudproxy,,,,,,
-danville.ca.gov,https://www.danville.ca.gov/,200,,"Danville, CA | Official Website",,,Microsoft-IIS/10.0,,,,X,,"G-K6CCK2JPQ9,GTM-K73C5PS"
-data.ca.gov,https://data.ca.gov/,200,,Welcome - California Open Data,ckan 2.9.11,,cloudflare,,X,,X,,"G-1VQT1C4PTE,G-YZK8JCN4R2,G-ZG8VBX1CS3,GTM-TKCM6M7"
-data.ca.gov,https://gis.data.ca.gov/,200,,California State Geoportal,,,,,,,,,G-YFDZVCCSGC
-data.ca.gov,https://handbook.data.ca.gov/,200,,Open Data Handbook | CAWeb,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-S7KNWXCGXE,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
-data.ca.gov,https://waterchallenge.data.ca.gov/,200,,CA Water Data Challenge |,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-Y5H6H10KWM,G-Y7T2KCM7P1,UA-23110710-31,UA-3419582-2,UA-3419582-47"
-dbc.ca.gov,https://www.dbc.ca.gov/,200,,Dental Board of California,,,,,,X,X,,"G-08SZZ6P9LW,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-8"
-dc-cde.ca.gov,https://www.dc-cde.ca.gov/,200,,Diagnostic Centers - Special Education (CA Dept of...,Jekyll v3.8.5,,,,,,X,,
-dca.ca.gov,https://www.dca.ca.gov/,200,,Department of Consumer Affairs (DCA),,,,,X,X,,,"G-69TD0KNT0F,G-F2FZM7Q8TN,GTM-M683DJB,GTM-NBQCVZC,GTM-NJ6Q4MV,UA-21974567-32,UA-3419582-2"
-dcc-cde.ca.gov,https://www.dcc-cde.ca.gov/,200,,"Diagnostic Center, Central California (DCC)",,,,,,,X,,G-DMB73EY1PT
-dcn-cde.ca.gov,https://www.dcn-cde.ca.gov/,200,,"Diagnostic Center, Northern California (DCN)",,,,,,,X,,"G-OLDSACRAME,G-WBWQR22BJZ"
-dcs-cde.ca.gov,https://www.dcs-cde.ca.gov/,200,,"Diagnostic Center, Southern California",,,,,,,X,,G-Z7339LS5S2
-dcss.ca.gov,https://dcss.ca.gov/,200,,Dept. Child Support Services - Information about C...,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-5433YW1BYG,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
-dcss.ca.gov,https://parentage.dcss.ca.gov/,200,,Parentage |,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-MBVQ9WT0E1,G-Y7T2KCM7P1,UA-21974567-48,UA-3419582-2,UA-3419582-47"
-dds.ca.gov,https://www.dds.ca.gov/,200,,Home : CA Department of Developmental Services,,,Apache/2.4.66 (Ubuntu),,X,X,X,,GTM-N97XDWN
-delta.ca.gov,https://delta.ca.gov/,200,,Delta Protection Commission – Committed to the Pro...,Site Kit by Google 1.178.0,,nginx,,X,X,X,,"G-YB8LP09907,UA-20973992-19,UA-3419582-2"
-deltaconservancy.ca.gov,https://deltaconservancy.ca.gov/,200,,Delta Conservancy – Welcome,Site Kit by Google 1.178.0,,nginx,,X,X,X,,G-34GCW1F9KH
-deltacouncil.ca.gov,https://www.deltacouncil.ca.gov/,200,,Delta Stewardship Council,,ASP.NET,Microsoft-IIS/10.0,,,X,X,,G-J0HKBXFMWX
-dfpi.ca.gov,https://dfpi.ca.gov/,200,,DFPI - The Department of Financial Protection and ...,DFPI Divi Child Theme v.1.0.0,WP Engine,cloudflare,,,,X,,"G-0B3643799C,G-32D447E14B,G-558973C0FD,G-64F21F7C3F,G-8A5471F88C,G-951D1725BE,G-BEC020F63C,G-DEAE874833,G-EE9A158A7B,G-F43B551B74,G-F6029C9491,G-LDV6PXRQJZ,GTM-PLCHW6B,UA-1915322-1"
-dgs.ca.gov,https://www.dgs.ca.gov/,200,,DGS,,,Microsoft-IIS/10.0,,X,,X,,"GTM-5D4N99T,UA-19802602-2"
-dhbc.ca.gov,https://www.dhbc.ca.gov/,200,,Dental Hygiene Board of California,,,,,,X,X,,"G-69TD0KNT0F,G-K5HC50T3RN,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-7"
-dhcs.ca.gov,https://portal.dhcs.ca.gov/,200,,Login for DHCS Application Portal,,,AmazonS3,,,,,,
-dhcs.ca.gov,https://www.dental.dhcs.ca.gov/,200,,Welcome to the Medi-Cal Dental Program,,ASP.NET,Microsoft-IIS/10.0,,,X,X,,"G-1CEWEWFPWS,GTM-KVM7FWB"
-dhcs.ca.gov,https://www.dhcs.ca.gov/,200,,DHCS Homepage,,,,,,,,,
-dir.ca.gov,https://www.dir.ca.gov/,200,,California Department of Industrial Relations - Ho...,,ASP.NET,Microsoft-IIS/10.0,,X,X,X,,"G-69TD0KNT0F,G-75V2BNQ3DR,G-9C30LB4KFJ,UA-3419582-2,UA-3419582-30,UA-5092920-1"
-dmac.ca.gov,https://www.dmac.ca.gov/,200,,Disaster Management Area C,,PHP/8.2.30,Apache,,,,X,"Fetch error: fetch failed Connect Timeout Error (attempted address: www.dmac.ca.gov:443, timeout: 15000ms)",
-dmhc.ca.gov,https://www.dmhc.ca.gov/,200,,California Department of Managed Health Care,,,,,X,X,X,,"G-69TD0KNT0F,G-ZGVNWLCQD3"
-dmv.ca.gov,https://www.dmv.ca.gov/portal/,200,,California DMV,,,volt-adc,,,,,,GTM-KHCVGH4
-dof.ca.gov,https://dof.ca.gov/,200,,California Department of Finance,,,volt-adc,,X,X,,,"G-2LNG7V2TGM,GTM-NJ6Q4MV"
-dor.ca.gov,https://www.dor.ca.gov/,200,,Home Page - CA Department of Rehabilitation,,ASP.NET,Microsoft-IIS/10.0,,X,X,,,"G-69TD0KNT0F,G-74S7YNBTH1,UA-21431721-18,UA-3419582-2"
-dot.ca.gov,https://caltrans-gis.dot.ca.gov/portal/home/,200,,,,ASP.NET,Microsoft-IIS/10.0,,,,,,
-dot.ca.gov,https://cleancalifornia.dot.ca.gov/,200,,CleanCalifornia | Caltrans,,,Microsoft-IIS/10.0,,X,X,X,,"G-69TD0KNT0F,G-KSEZWYWEFM,UA-21431721-46"
-dot.ca.gov,https://csr.dot.ca.gov/,200,,Submit Customer Service Request,,,,,,X,X,,"UA-21431721-9,UA-3419582-2"
-dot.ca.gov,https://dot.ca.gov/,200,,California Department of Transportation | Caltrans,,,Microsoft-IIS/10.0,,X,X,X,,"G-69TD0KNT0F,G-PXR8P55JR4,G-WLDEF7NZZ2,GTM-573PLG9"
-dot.ca.gov,https://heliplates.dot.ca.gov/,200,,Division of Aeronautics,,,,,,X,X,,
-dot.ca.gov,https://ig.dot.ca.gov/,200,,Inspector General - California Department of Trans...,,,Microsoft-IIS/10.0,,X,X,X,,"G-2E0Z1X4NN2,G-69TD0KNT0F"
-dot.ca.gov,https://nhts.dot.ca.gov/,200,,National Household Travel Survey,,,,,,X,X,,"UA-21431721-9,UA-3419582-2"
-dot.ca.gov,https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html,200,,Postmile Services,,,,,,X,X,,"UA-21431721-9,UA-3419582-2"
-dot.ca.gov,https://ppmoe.dot.ca.gov/cc,200,,Home - Contractors Corner | Caltrans,,,snow_adc,,,,,,"G-MULTISELEC,G-RESPONSIVE,G-TRANSCLUDE"
-dot.ca.gov,https://quickmap.dot.ca.gov/,200,,QuickMap,,,Apache,,,,,,"G-77921BS1SZ,UA-21431721-9,UA-3419582-2"
-dot.ca.gov,https://roadmaptoresearch.dot.ca.gov/,200,,Roadmap to Research,,,Apache,,,X,X,,UA-3419582-2
-dot.ca.gov,https://roads.dot.ca.gov/,200,,Division of Traffic Operations - Road Information ...,,,,,,X,X,,
-dot.ca.gov,https://shsp.dot.ca.gov/,200,,Caltrans | SHSP - Home,,,,,,X,X,,"G-WLDEF7NZZ2,GTM-NJ6Q4MV"
-dot.ca.gov,https://travelpocketguide.dot.ca.gov/public/,200,,Pocket Travel Guide,,,,,,X,X,,"UA-21431721-9,UA-3419582-2"
-dot.ca.gov,https://utilitypocketguide.dot.ca.gov/public/,200,,Pocket Utility Guide,,,,,,X,X,,"UA-21431721-9,UA-3419582-2"
-dre.ca.gov,https://bars.dre.ca.gov/,200,,Business Activity Reporting System - DRE,,ASP.NET,Microsoft-IIS/10.0,,,X,X,,
-dre.ca.gov,https://ears.dre.ca.gov/,200,,Escrow Activity Reporting System - DRE,,DRE,,,,X,X,,
-dre.ca.gov,https://eocs.dre.ca.gov/,200,,Enforcement Online Complaints,,DRE,,,,,X,,
-dre.ca.gov,https://secure.dre.ca.gov/,200,,Welcome to the California Department of Real Estat...,,ASP.NET,Microsoft-IIS/10.0,,,,X,,"G-5GPR0BKX57,UA-19741714-1,UA-3419582-2"
-dre.ca.gov,https://sprls.dre.ca.gov/,200,,Subdivision Public Reports Lookup System,,DRE,,,,X,X,,
-dre.ca.gov,https://www.dre.ca.gov/,200,,California Department of Real Estate,,ASP.NET,Microsoft-IIS/10.0,,X,,X,,G-N2491HJ7H9
-drinc.ca.gov,https://www.drinc.ca.gov/,404,,Not Found,,,Microsoft-HTTPAPI/2.0,,,,,HTTP 404,
-driveclean.ca.gov,https://driveclean.ca.gov/,200,,DriveClean | Clean Car Buying Guide,Drupal 10 (https://www.drupal.org),,nginx,,,,,,G-K1QKLZJMS0
-dsh.ca.gov,https://www.dsh.ca.gov/,200,,California Department of State Hospitals,,ASP.NET,Microsoft-IIS/10.0,,X,X,X,,GTM-P37W8DW
-dtsc.ca.gov,https://dtsc.ca.gov/,200,,Department of Toxic Substances Control | DTSC,CAWeb v.1.13.3,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-BX3ZL33DPB,G-Y7T2KCM7P1,GTM-P9NCLJT,UA-19066778-1,UA-3419582-2,UA-3419582-47"
-dtsc.ca.gov,https://evq.dtsc.ca.gov/Home.aspx,200,,Electronic Verification Questionnaire (eVQ) System,,,cloudflare,,,X,X,,"G-69TD0KNT0F,G-6GHG284R8P,UA-19066778-5,UA-3419582-14,UA-3419582-2"
-dtsc.ca.gov,https://hwts.dtsc.ca.gov/,200,,Hazardous Waste Tracking System,,ASP.NET,cloudflare,,,X,X,,"G-69TD0KNT0F,G-J9LBN7HTWJ"
-dtsc.ca.gov,https://tempid.dtsc.ca.gov/,200,,Temporary State ID Number Issuance,,ASP.NET,cloudflare,,,X,X,,"UA-19066778-9,UA-3419582-14,UA-3419582-2"
-dtsc.ca.gov,https://tqr.dtsc.ca.gov/,200,,Transporter Quarterly Report,,ASP.NET,cloudflare,,,X,X,,"G-1M36NQSZBV,G-69TD0KNT0F,UA-19066778-1,UA-19066778-11,UA-3419582-2"
-dublin.ca.gov,https://gis.dublin.ca.gov/arcgis/rest/,200,,Folder: /,,ASP.NET,"Microsoft-IIS/8.5, ",,,,,,
-dublin.ca.gov,https://www.dublin.ca.gov/,200,,"Dublin, CA - Official Website | Official Website",,,,,,,X,,"G-6REM15SLX9,G-J43R5LMW0E,GTM-K73C5PS"
-eaap.ca.gov,https://eaap.ca.gov/,200,,Education Audit Appeals Panel |,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-V284CPG2YF,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
-earthquake.ca.gov,https://www.earthquake.ca.gov/,200,,California Earthquake Early Warning – California E...,CAWeb v.1.13.0,,,,X,X,X,,"G-4NK0NC7W6K,G-69TD0KNT0F,UA-3419582-2"
-ebt.ca.gov,https://www.ebt.ca.gov/cardholder/,200,,CardHolder Portal,,,,,,,,,
-ebtproject.ca.gov,https://www.ebtproject.ca.gov/,200,,EBT Project,,ASP.NET,Microsoft-IIS/10.0,,,X,X,,
-ebudget.ca.gov,https://ebudget.ca.gov/,200,,California Budget,,,volt-adc,,,,X,,G-4W7GTR6KWV
-ecos.ca.gov,https://ecos.ca.gov/Login.aspx,200,,Exam and Cert Online System - Admin,,ASP.NET,,,,,X,,
-edd.ca.gov,https://askedd.edd.ca.gov/s/,200,,AskEDD,,,,,,,,,"G-P1RJ1L0W4D,GTM-MCW7ZGX"
-edd.ca.gov,https://edd.ca.gov/,200,,Employment Development Department | California,,ASP.NET,Microsoft-IIS/10.0,,,X,X,,"G-69TD0KNT0F,G-KF25MR5YHK,GTM-N8KVMBR,UA-3419582-31"
-edd.ca.gov,https://eddservices.edd.ca.gov/,200,,Employer Services Online,,,,,,,,,
-edd.ca.gov,https://forms.edd.ca.gov/Forms,200,,Online Forms and Publications,,,Apache,,,,X,,"GTM-N8KVMBR,UA-3419582-2,UA-3419582-31"
-edd.ca.gov,https://labormarketinfo.edd.ca.gov/,200,,EDD Labor Market Information Division - Home Page,,ASP.NET,,,,X,X,,"G-ZQ9HCV9HTL,GTM-KKXR5S9,UA-3419582-31"
-edd.ca.gov,https://myedd.edd.ca.gov/s/login/?language=en_US,200,,Login Template Title,,,,,,X,,,"G-FQKRWT9FKB,GTM-NHCC9Q8"
-eldoradocounty.ca.gov,https://gis.eldoradocounty.ca.gov/portal/home/,200,,,,,Microsoft-IIS/10.0,,,,,,
-eldoradocounty.ca.gov,https://www.eldoradocounty.ca.gov/Home,200,,Home - El Dorado County,OpenCities - https://granicus.com/product/openciti...,,,,,,X,,G-4QFQNQ89RW
-emsa.ca.gov,https://www.emsa.ca.gov/caemsa,200,,Home - EMSA,,,cloudflare,,,,,,"G-36CV9LSWNK,G-69TD0KNT0F,G-MULTISELEC,G-RESPONSIVE,G-TRANSCLUDE,G-Y7T2KCM7P1,UA-23110710-29,UA-3419582-2,UA-3419582-47"
-energy.ca.gov,https://appportal.energy.ca.gov/Account/Login,200,,Log in - California Energy Commission,,ASP.NET,Microsoft-IIS/10.0,,,X,X,,
-energy.ca.gov,https://calshape.energy.ca.gov/,200,,Home Page - California Energy Commission,,ASP.NET,Microsoft-IIS/10.0,,,X,X,,
-energy.ca.gov,https://seeds.energy.ca.gov/,200,,Home Page - California Energy Commission,,ASP.NET,Microsoft-IIS/10.0,,,X,X,,
-energy.ca.gov,https://www.energy.ca.gov/,200,,Home Page-California Energy Commission,Drupal 11 (https://www.drupal.org),PHP/8.3.26,Apache/2.4.62 (Red Hat Enterprise Linux) OpenSSL/3.5.1,,X,,,,G-B5BLHWHE7P
-energysafety.ca.gov,https://energysafety.ca.gov/,200,,Office of Energy Infrastructure Safety | Driving u...,CAWeb v.1.9.0,,nginx,,X,X,X,,"G-69TD0KNT0F,G-DCP197HRSL"
-escog.ca.gov,https://escog.ca.gov/,200,,EASTERN SIERRA COUNCIL OF GOVERNMENTS JOINT POWERS...,,,Squarespace,,,,,,"G-013F66E7C6,G-2F49DC7692,G-43AF232B5B,G-48793B863E,G-5CGC3ET1CB,G-701BF8BBC0,G-86AACD645D,G-902FAAFCE0,G-920708D91C,G-975CECE8DE,G-ALTERNATIN,G-B1BA7891C2,G-B685267B79,G-C63BF8989A,G-COLLECTION,G-D22EABECA1,G-DB8F466935,G-DBE066AE53,G-F9093F2D52"
-etp.ca.gov,https://etp.ca.gov/,200,,Employment Training Panel | Employment Training Pa...,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-CTKM4GM02H,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47,UA-64276560-40"
-eureka.ca.gov,https://arcgis.ci.eureka.ca.gov/portal/home/,200,,,,ASP.NET,"Microsoft-IIS/10.0, ",,,,,,
-expositionpark.ca.gov,https://expositionpark.ca.gov/,200,,Exposition Park – Welcome,Site Kit by Google 1.178.0,,nginx,,X,X,X,,"UA-3419582-2,UA-59627195-10"
-fairfield.ca.gov,https://www.fairfield.ca.gov/,403,,"Fairfield, CA | Home",,,cloudflare,,,,,HTTP 403,
-familieschange.ca.gov,https://familieschange.ca.gov/,200,,Home | Familieschange California,Drupal 7 (http://drupal.org),,Apache/2.4.52 (Ubuntu),,,,X,,"GTM-KHQRW8K,UA-42225500-1"
-fgc.ca.gov,https://fgc.ca.gov/,200,,California Fish and Game Commission Home Page,,,,,,X,,,G-QHR5ZZWW7J
-fiduciary.ca.gov,https://www.fiduciary.ca.gov/,200,,Department of Consumer Affairs Professional Fiduci...,,,,,,X,X,,"GTM-M683DJB,GTM-NBQCVZC"
-film.ca.gov,https://film.ca.gov/,200,,California Film Commission | State of California,CAWeb v.1.5.2a,PHP/7.4.8,Apache,,,X,X,,G-JDMK21MWQ4
-fire.ca.gov,https://bof.fire.ca.gov/,200,,Board of Forestry & Fire Protection | BOF,,,Microsoft-IIS/10.0,,X,,X,HTTP 403,"G-D4LDDPK7X7,UA-12131957-10,UA-3419582-2"
-fire.ca.gov,https://burnpermit.fire.ca.gov/,200,,Home | CAL FIRE Burn Permits,,,Microsoft-IIS/10.0,,X,,X,HTTP 403,"G-TCY9FCQZSL,UA-12131957-10,UA-3419582-2"
-fire.ca.gov,https://osfm.fire.ca.gov/,200,,Office of the State Fire Marshal | OSFM,,,Microsoft-IIS/10.0,,,,X,,"G-HN6DJN3Q1W,UA-12131957-10,UA-3419582-2"
-fire.ca.gov,https://www.fire.ca.gov/,200,,California Department of Forestry and Fire Protect...,,,Microsoft-IIS/10.0,,,,X,,"G-DJY7D8Z6M7,UA-12131957-10,UA-3419582-2"
-firewood.ca.gov,https://www.firewood.ca.gov/,200,,California Firewood Task Force | Home,,,,,,,X,,
-first5.ca.gov,https://www.first5.ca.gov/,200,,First 5 California - Improving Lives of California...,,ASP.NET,Microsoft-IIS/10.0,,X,,X,,G-ZPMNSRN8SN
-fiscal.ca.gov,https://fiscal.ca.gov/,200,,FI$Cal - State of California|,Divi Child v.3.11.1.1533591462,PHP/8.3.29,nginx,,X,,X,,"GTM-5TVLDSK,UA-3419582-2"
-fosteryouthhelp.ca.gov,https://fosteryouthhelp.ca.gov/,200,,FYH | Foster Youth Help,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-4RW3WH91Z0,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-31125811-40,UA-3419582-2,UA-3419582-47"
-fppc.ca.gov,https://www.fppc.ca.gov/,200,,California Fair Political Practices Commission (FP...,,,cloudflare,,,,,,"G-1V1D6GRFKL,G-75V2BNQ3DR,GTM-NJ6Q4MV,UA-22860881-1,UA-3419582-2"
-ftb.ca.gov,https://www.ftb.ca.gov/,200,,Franchise Tax Board Homepage | FTB.ca.gov,,,,,X,X,,,"G-EQVZX0SCVD,GTM-NJ6Q4MV"
-genai.ca.gov,https://www.genai.ca.gov/,200,,GenAI | Generative Artificial Intelligence,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-1C09FYTTJ3,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
-gov.ca.gov,https://careereducation.gov.ca.gov/,200,,California Governor's Council for Career Education...,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-Q122BB7YXT,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
-gov.ca.gov,https://www.gov.ca.gov/,200,,Governor of California,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-2G5GML7PQ6,G-69TD0KNT0F,G-Y7T2KCM7P1,GTM-TP25MN7,UA-3419582-2,UA-3419582-28,UA-3419582-47"
-govops.ca.gov,https://www.govops.ca.gov/,200,,GovOps | Government Operations,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-Y7T2KCM7P1,UA-20973992-24,UA-3419582-2,UA-3419582-47"
-granada.ca.gov,https://granada.ca.gov/,200,,Homepage Granada Community Services District,,,nginx,,,,,,
-grants.ca.gov,https://www.grants.ca.gov/,200,,Home - California Grants Portal,,,nginx,,,,X,,GTM-WFDBH54
-green.ca.gov,https://www.green.ca.gov/,200,,Green CA Application,,ASP.NET,Microsoft-IIS/10.0,,X,X,X,,"UA-24087628-30,UA-3419582-2"
-hcai.ca.gov,https://corc.hcai.ca.gov/,200,,CORC,,ASP.NET,Microsoft-IIS/10.0,,,,,,
-hcai.ca.gov,https://hcai.ca.gov/,200,,HCAI - Department of Health Care Access and Inform...,,,nginx,,X,,X,,
-hcai.ca.gov,https://report.hcai.ca.gov/,200,,Report Center - HCAI,,ASP.NET,Microsoft-IIS/10.0,,,,X,,
-hcd.ca.gov,https://www.hcd.ca.gov/,200,,California Department of Housing and Community Dev...,Drupal 10 (https://www.drupal.org),PHP/8.3.29,,,X,,X,,"GTM-5SNF3QP,GTM-NKB5FR7"
-hcrc.ca.gov,https://www.hcrc.ca.gov/,200,,Habeas Corpus Resource Center (HCRC),,,,,,X,,,UA-20973992-30
-healthcarevolunteers.ca.gov,https://healthcarevolunteers.ca.gov/,200,,RMS,,,envoy,,,,,,
-healthexchange.ca.gov,https://healthexchange.ca.gov/,200,,California's Health Benefit Exchange,,ASP.NET,Microsoft-IIS/10.0,,,X,X,,
-heber.ca.gov,https://www.heber.ca.gov/,200,,Home | The Heber Public Utility District,Drupal 8 (https://www.drupal.org),,nginx/1.25.5,,,,,,
-hellosavings.ca.gov,https://hellosavings.ca.gov/,200,,Hello Savings!,,ASP.NET,Microsoft-IIS/10.0,,,,X,,"G-HTYPNEVXNL,UA-15934248-11,UA-1915322-13,UA-23611081-1"
-heritageranchcsd.ca.gov,https://www.heritageranchcsd.ca.gov/,200,,Homepage Heritage Ranch Community Services Distric...,,,nginx,,,,,,UA-40786643-1
-highlandsrec.ca.gov,https://highlandsrec.ca.gov/,200,,Homepage Highlands Recreation District,,,nginx,,,,,,
-hollister.ca.gov,https://hollister.ca.gov/,200,,"Hollister, CA",,,,,,,X,,G-958N9729GE
-holtville.ca.gov,https://www.holtville.ca.gov/,200,,City of Holtville,WordPress 7.0,,nginx,,,,X,,G-2113MM4S7R
-hsr.ca.gov,https://hsr.ca.gov/,200,,California High Speed Rail,,,,,,,,,
-hsr.ca.gov,https://portal.hsr.ca.gov/,200,,HSR Service Portal,,,,,,,,,
-ibank.ca.gov,https://ibank.ca.gov/,200,,California Infrastructure and Economic Development...,CAWeb v.1.5.2a,,Apache,,,X,X,,G-SMHZVBEWVK
-iep.ca.gov,https://iep.ca.gov/,200,,Interagency Ecological Program > Home,,,,,,X,X,,G-YSTKZ5TE6T
-immigrantguide.ca.gov,https://www.immigrantguide.ca.gov/,403,,California Immigrant Guide : Home,,,,,,,,HTTP 403,
-imperial.ca.gov,https://gis.imperial.ca.gov/portal/home/,200,,,,,Microsoft-IIS/10.0,,,,,,
-innovation.ca.gov,https://innovation.ca.gov/,200,,Office of Data and Innovation,,,AmazonS3,,X,,,,GTM-PQRTS7Z
-insurance.ca.gov,https://seniors.insurance.ca.gov/,200,,California Seniors,CommonSpot Build 10.9.1.579,ASP.NET,Microsoft-IIS/10.0,,,,X,,"G-7KBM6NS4N5,UA-3419582-2,UA-35348113-1"
-insurance.ca.gov,https://www.insurance.ca.gov/,200,,CA Department of Insurance,CommonSpot Build 10.9.1.579,ASP.NET,Microsoft-IIS/10.0,,X,,X,,"G-6MLHRYZYQV,UA-23180855-1,UA-3419582-2"
-judicialethicsopinions.ca.gov,https://www.judicialethicsopinions.ca.gov/,200,,California Supreme Court Committee on Judicial Eth...,All in One SEO (AIOSEO) 4.4.8,,nginx,,,,X,,
-labor.ca.gov,https://saferatwork.labor.ca.gov/,200,,Safer At Work | California for All,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-WN09725CCD,G-Y7T2KCM7P1,GTM-5LKL585,UA-21974567-38,UA-3419582-2,UA-3419582-47"
-labor.ca.gov,https://www.labor.ca.gov/,200,,LWDA | Labor & Workforce Development Agency,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-Y7T2KCM7P1,G-YSQBHYZ0HH,UA-24087628-9,UA-3419582-2,UA-3419582-47"
-lao.ca.gov,https://www.lao.ca.gov/,200,,Legislative Analyst’s Office,,ASP.NET,cloudflare,,,,X,,G-V20H6V9DXQ
-latc.ca.gov,https://www.latc.ca.gov/,200,,California Landscape Architects Technical Committe...,,,,,,X,X,,"G-69TD0KNT0F,G-PG8SJMY8J6,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-12"
-lcf.ca.gov,https://gis.lcf.ca.gov/arcgis/rest/services/,200,,Folder: /,,ASP.NET,Microsoft-IIS/10.0,,,,,,
-lcf.ca.gov,https://lcf.ca.gov/,200,,City of La Cañada Flintridge,All in One SEO (AIOSEO) 4.9.7.2,WP Engine,nginx,,,,X,,"G-4WZC2R9V15,G-COMMISSION"
-lci.ca.gov,https://ceqanet.lci.ca.gov/,200,,CEQAnet,,,,,,X,X,,G-4BWDLL1JK4
-lci.ca.gov,https://www.lci.ca.gov/,200,,Governor's Office of Land Use and Climate Innovati...,WordPress 6.9.4,PHP/8.3.29,nginx,,X,X,X,,"G-69TD0KNT0F,G-K9SCBG6G33"
-leginfo.ca.gov,https://www.leginfo.ca.gov/,200,,Official California Legislative Information,,,cloudflare,,,,,,
-legislativecounsel.ca.gov,https://legislativecounsel.ca.gov/,200,,Welcome to the Legislative Counsel of California |...,,,cloudflare,,,,X,,
-legislature.ca.gov,https://leginfo.legislature.ca.gov/,200,,California Legislative Information,,,Apache,,,,,,
-lemongrove.ca.gov,https://www.lemongrove.ca.gov/,200,,Home | Lemon Grove,,,,,,,X,,G-STQ0986EH9
-letsgethealthy.ca.gov,https://letsgethealthy.ca.gov/,200,,Let's Get Healthy California,"Powered by Slider Revolution 6.7.41 - responsive, ...",WP Engine,cloudflare,,,,X,,GTM-583MD7K
-lgma.ca.gov,https://lgma.ca.gov/,200,,California Leafy Greens Marketing Agreement | Home...,SEOmatic,"Craft CMS, SEOmatic",nginx,,,,X,,UA-1545484-20
-lhc.ca.gov,https://lhc.ca.gov/,200,,Home - Little Hoover Commission,WordPress 6.9.1,,sitedistrict-nginx,,,,X,,
-library.ca.gov,https://www.governors.library.ca.gov/,200,,Governors of California,,,Microsoft-IIS/10.0,,,,X,,"G-P6576W6TR3,UA-15543597-5,UA-3419582-2"
-library.ca.gov,https://www.library.ca.gov/,403,,Home - California State Library,,,CloudFront,,,,,HTTP 403,
-loomis.ca.gov,https://loomis.ca.gov/,403,,"Home - Loomis, CA",,,,,,,,HTTP 403,
-losaltoshills.ca.gov,https://www.losaltoshills.ca.gov/,200,,"Los Altos Hills, CA | Official Website",,,Microsoft-IIS/10.0,,,,X,,"G-B31D08W17S,GTM-K73C5PS"
-ltg.ca.gov,https://ltg.ca.gov/,200,,Lieutenant Governor - Office of the Lt. Governor o...,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-T47RW7TGKE,G-Y7T2KCM7P1,UA-21431721-7,UA-3419582-2,UA-3419582-47"
-madeincalifornia.ca.gov,https://www.madeincalifornia.ca.gov/,200,,Made in California,CAWeb v.1.5.2a,,Apache,,,X,X,,G-SEYPRR85FP
-mbc.ca.gov,https://www.mbc.ca.gov/,200,,Home | Medical Board of California,,Medical Board of California,Microsoft-IIS/10.0,,,,,,"G-VZEZFBT2Z2,GTM-NJ6Q4MV"
-mdaqmd.ca.gov,https://www.mdaqmd.ca.gov/,200,,Mojave Desert Air Quality Management District | Ho...,,,AkamaiGHost,,,,,,"G-4QOHCHA0IA,G-AKAUD7QYWY,G-MWLPGMCV36,G-SPG9PZFWE9,G-TQXR61GSG_"
-medalofvalor.ca.gov,https://medalofvalor.ca.gov/,200,,Medal of Valor Awards - Home,,ASP.NET,Microsoft-IIS/10.0,,X,X,X,,UA-3419582-2
-medi-cal.ca.gov,https://mcweb.apps.prd.cammis.medi-cal.ca.gov/,200,,State of California,,,,,,X,,,G-8G032ZWHBJ
-meganslaw.ca.gov,https://www.meganslaw.ca.gov/Disclaimer,200,,Disclaimer - Megan's Law Website,,,,,,,X,,
-mentalhealth.ca.gov,https://www.mentalhealth.ca.gov/,200,,Mental health for all,,ASP.NET,,,X,X,,,"G-P7T6SMN0LM,GTM-NJ6Q4MV"
-metrofire.ca.gov,https://metrofire.ca.gov/,200,,Homepage Sacramento Metropolitan Fire District,,,nginx,,,,,,
-militarycouncil.ca.gov,https://militarycouncil.ca.gov/,200,,Military Council | State of CA Governor's Military...,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-9V2RHGT1EJ,G-Y7T2KCM7P1,UA-21970760-36,UA-3419582-2,UA-3419582-47"
-mlfd.ca.gov,https://mlfd.ca.gov/,200,,Mammoth Lakes Fire Department | Mammoth Lakes Cali...,WordPress 6.9.4,,nginx,,,,X,,
-monocounty.ca.gov,https://www.monocounty.ca.gov/,200,,Home Page | Mono County California,,PHP/5.6.25,cloudflare,,,,,,"G-WUC71WTDBE,UA-22821328-1"
-montereypark.ca.gov,https://www.montereypark.ca.gov/,200,,"Monterey Park, CA - Official Website | Official We...",,,Microsoft-IIS/10.0,,,,X,,"G-4YGXQ16LXK,GTM-K73C5PS,UA-83428977-1"
-montezumafiredistrictsolano.ca.gov,https://www.montezumafiredistrictsolano.ca.gov/,200,,Montezuma Fire Protection District – Official webs...,WordPress 6.9.4,,nginx,,,,X,,
-morganhill.ca.gov,https://www.morganhill.ca.gov/,200,,"City of Morgan Hill, CA - Official Website | Offic...",,,Microsoft-IIS/10.0,,,,X,,"G-PMD5WBK6KL,GTM-K73C5PS"
-mrca.ca.gov,https://mrca.ca.gov/,200,,MRCA,WordPress 6.9.4,,nginx,,X,,X,,UA-1633733-24
-mrcapublicsafety.ca.gov,http://www.mrcapublicsafety.ca.gov/,200,,MRCA Public Safety,,ASP.NET,Microsoft-IIS/6.0,,,,,,
-mtc.ca.gov,https://mtc.ca.gov/,200,,Metropolitan Transportation Commission | MTC is th...,Drupal 11 (https://www.drupal.org),,nginx,,,,X,,"G-875ZLGCEXJ,G-JA30TM2_8L,GTM-55J6L25"
-mywaterquality.ca.gov,https://www.mywaterquality.ca.gov/,200,,Home | MyWaterQuality,,,Apache,,,X,X,,G-V9VPD8TNV4
-nahc.ca.gov,https://nahc.ca.gov/,200,,California Native American Heritage Commission,Site Kit by Google 1.178.0,,nginx,,X,X,X,,"UA-3419582-2,UA-59627195-7"
-napa.ca.gov,https://gis.napa.ca.gov/rcu/roadclosures.pdf,200,,,,ASP.NET,Microsoft-IIS/10.0,,,,,,
-naturopathic.ca.gov,https://www.naturopathic.ca.gov/,200,,Department of Consumer Affairs - California Board ...,,,,,,X,X,,"G-3CN4M8F95X,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-13"
-ncric.ca.gov,https://ncric.ca.gov/,200,,Public Awareness and Safety Programs |San Francisc...,WordPress 6.9.4,,cloudflare,,,,X,,
-ncsd.ca.gov,https://ncsd.ca.gov/,200,,"Nipomo Community Services District | NSCD Nipomo, ...",Powered by WPBakery Page Builder - drag and drop p...,,nginx,,,,X,,
-nctc.ca.gov,https://www.nctc.ca.gov/,200,,Nevada County Transportation Commission - Home,,ASP.NET,Microsoft-IIS/10.0,,,,X,,G-507R801X2W
-nmvb.ca.gov,https://www.nmvb.ca.gov/,200,,NMVB Home Page,,ASP.NET,Microsoft-IIS/10.0,,,X,X,,"G-2DWD3387QF,GTM-NFWKKCR,UA-24087628-12"
-nvta.ca.gov,https://nvta.ca.gov/,200,,Home - NVTA,,,nginx,,,,X,,
-oag.ca.gov,https://www.oag.ca.gov/,200,,State of California - Department of Justice - Offi...,Drupal 7 (http://drupal.org),,Apache,,,,X,,"G-6SNZMLLM7F,G-DXZX4ZWKS8"
-oal.ca.gov,https://oal.ca.gov/,200,,OAL | Office of Administrative Law,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-3LCY3X8048,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-20973992-16,UA-3419582-2,UA-3419582-47"
-ociac.ca.gov,https://ociac.ca.gov/,200,/(X(1)S(4dmu5rawipek2esefacu5xbs))/default.aspx?As...,Orange County Intelligence Assessment Center - Hom...,,,,,,,,,UA-47341125-1
-oehha.ca.gov,https://oehha.ca.gov/,200,,OEHHA - Office of Environmental Health Hazard Asse...,,,,,,,,,
-oig.ca.gov,https://www.oig.ca.gov/,200,,Home - Office of the Inspector General,WordPress 7.0,,,,,,X,,GTM-KRLFFB4
-ojai.ca.gov,https://www.ojai.ca.gov/,200,,"Ojai, CA | Official Website",,,,,,,X,,"G-2WPLDT68FY,GTM-K73C5PS"
-oles.ca.gov,https://www.oles.ca.gov/,200,,Office of Law Enforcement Support - State of Calif...,Microsoft SharePoint,PHP/8.4.16,nginx,,X,X,X,,UA-83937323-1
-ombc.ca.gov,https://www.ombc.ca.gov/,200,,Welcome To Our Web Site - Osteopathic Medical Boar...,,,,,,X,X,,"G-69TD0KNT0F,G-QYQQC0C406,GTM-NBQCVZC,UA-3419582-2,UA-64276560-16"
-opc.ca.gov,https://www.opc.ca.gov/,200,,- California Ocean Protection Council,Site Kit by Google 1.178.0,,nginx,,X,X,X,,"GTM-M2BQ3XS,UA-3419582-2,UA-59627195-2"
-optometry.ca.gov,https://www.optometry.ca.gov/,200,,Welcome to the Board of Optometry Web Site - State...,,,,,,,X,,"G-4178EX5G7R,G-69TD0KNT0F,UA-64276560-15"
-osg.ca.gov,https://osg.ca.gov/,200,,OSG | Office of the Surgeon General,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-F3V5NTDY19,G-Y7T2KCM7P1,UA-24087628-32,UA-3419582-2,UA-3419582-47"
-oshpd.ca.gov,https://corc.oshpd.ca.gov/,200,,CORC,,ASP.NET,Microsoft-IIS/10.0,,,,,,
-oshpd.ca.gov,https://report.oshpd.ca.gov/,200,,Report Center - HCAI,,ASP.NET,Microsoft-IIS/10.0,,,,X,,
-osi.ca.gov,https://osi.ca.gov/,200,,Office of Technology and Solutions Integration | H...,,ASP.NET,Microsoft-IIS/10.0,,,X,X,,
-osi.ca.gov,https://www.cmips.osi.ca.gov/,200,,CMIPS Home page,,ASP.NET,Microsoft-IIS/10.0,,,X,X,,
-ospd.ca.gov,https://www.ospd.ca.gov/,200,,Home - Office of the State Public Defender,WordPress 6.8.5,PHP/8.3.29,nginx,,,X,X,,
-ota.ca.gov,https://ota.ca.gov/,200,,OTA | Office of Tax Appeals,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-QP0XXEMY9P,G-Y7T2KCM7P1,UA-21970760-34,UA-3419582-2,UA-3419582-47"
-ots.ca.gov,https://www.ots.ca.gov/,200,,Office of Traffic Safety | The California Office o...,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-1PS9L6E2RE,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-20973992-23,UA-3419582-2,UA-3419582-47"
-otsi.ca.gov,https://toa.otsi.ca.gov/,200,,TOA Website,,ASP.NET,Microsoft-IIS/10.0,,X,X,,,"G-75V2BNQ3DR,GTM-NJ6Q4MV"
-oycr.ca.gov,https://oycr.ca.gov/,200,,OYCR - Office of Youth and Community Restoration,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-7ND7ZHXVPG,G-Y7T2KCM7P1,GTM-WWXFNGG,UA-3419582-2,UA-3419582-47"
-p65warnings.ca.gov,https://www.p65warnings.ca.gov/,200,,Proposition 65 Warnings Website - Your right to kn...,,,,,,,,,
-pab.ca.gov,https://www.pab.ca.gov/,200,,Physician Assistant Board,,,,,,X,X,,"G-69TD0KNT0F,G-K9B788PFCW,GTM-NBQCVZC,UA-3419582-2,UA-64276560-18"
-parks.ca.gov,https://dbw.parks.ca.gov/,200,,Division of Boating and Waterways,,ASP.NET,Microsoft-IIS/10.0,,,,X,,"G-NQRMQVQ7T5,UA-3419582-2"
-parks.ca.gov,https://gis.parks.ca.gov/,200,,,,ASP.NET,Microsoft-IIS/10.0,,,,,,
-parks.ca.gov,https://kids.parks.ca.gov/,200,,Kids in Parks,,ASP.NET,Microsoft-IIS/10.0,,,,X,,"G-NQRMQVQ7T5,UA-3419582-2"
-parks.ca.gov,https://ohp.parks.ca.gov/,200,,OHP Division,,ASP.NET,Microsoft-IIS/10.0,,,,X,,"G-NQRMQVQ7T5,UA-3419582-2"
-parks.ca.gov,https://store.parks.ca.gov/,200,,Home - California State Parks & Recreation Online ...,,,cloudflare,,,,,,"G-SZPK2KCZDY,GTM-KJWTBZ2"
-parks.ca.gov,https://www.parks.ca.gov/,200,,California State Parks,,ASP.NET,Microsoft-IIS/10.0,,,,,,"G-NQRMQVQ7T5,UA-3419582-2"
-paumavalleycsd.ca.gov,https://paumavalleycsd.ca.gov/,200,,Homepage Pauma Valley Community Services District,,,nginx,,,,,,
-penrynfire.ca.gov,https://penrynfire.ca.gov/,200,,Penryn Fire Protection District,Starfield Technologies; Go Daddy Website Builder 8...,,DPS/2.0.0+sha-e329202,,,,,,
-pent.ca.gov,https://www.pent.ca.gov/,200,,"Positive Environments, Network of Trainers (PENT)",,,,,,,X,,G-4CWKEGPHKC
-perb.ca.gov,https://perb.ca.gov/,200,,Home - California Public Employment Relations Boar...,CAWeb v.1.13.2a,"PHP/8.2.31, PleskLin",nginx,,,X,X,,"G-69TD0KNT0F,G-R38HHXY4X2,UA-21970760-41,UA-3419582-2"
-pestboard.ca.gov,https://www.pestboard.ca.gov/,200,,Department of Consumer Affairs Structural Pest Con...,,,,,,X,X,,"G-13SQD8E90R,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-27"
-pharmacy.ca.gov,https://www.pharmacy.ca.gov/,200,,California State Board of Pharmacy,,,,,,X,X,,"G-69TD0KNT0F,G-QVJEFJJNBX,UA-3419582-2,UA-64276560-17"
-piedmont.ca.gov,https://www.piedmont.ca.gov/,403,,Home - City of Piedmont,,,cloudflare,,,,,Cloudflare challenge detected,"G-1770054987,G-1771009931,G-1776374467,G-1776727720"
-pinyonpinescwd.ca.gov,https://www.pinyonpinescwd.ca.gov/,200,,Pinyon Pines County Water District,Serif WebPlus Starter Edition   (3.0.0.005),,Apache,,,,,,
-placer.ca.gov,https://www.placer.ca.gov/,200,,"Placer County, CA | Official Website",,,cloudflare,,,,X,,"G-5CJ5XHZRX6,GTM-K73C5PS,UA-1464228-1"
-pmbc.ca.gov,https://www.pmbc.ca.gov/,200,,Podiatric Medical Board of California,,,,,X,X,,,"G-69TD0KNT0F,G-RDB9KYCDHS,GTM-M683DJB,GTM-NBQCVZC,GTM-NJ6Q4MV,UA-3419582-2,UA-64276560-19"
-pointarena.ca.gov,https://pointarena.ca.gov/,200,,City of Point Arena,WordPress 7.0,,nginx/1.27.2,,,,X,,
-post.ca.gov,https://lp.post.ca.gov/PublicWelcome.aspx,200,,POST Learning Portal,,,cloudflare,,,,X,,
-post.ca.gov,https://pass.post.ca.gov/login,200,,PASS Login,,,,,,,X,,
-post.ca.gov,https://post.ca.gov/,200,,Home,,,,,,,X,,G-K1FLBGKCQ9
-privacy.ca.gov,https://privacy.ca.gov/,200,,privacy.ca.gov - A website brought to you by the C...,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-CS4089W2ZV,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
-psychology.ca.gov,https://www.psychology.ca.gov/,200,,California Board of Psychology,,,,,,,X,,"G-69TD0KNT0F,G-G17MN7HXHK,UA-64276560-22"
-ptbc.ca.gov,https://www.ptbc.ca.gov/,200,,Physical Therapy Board of California,,,,,,X,X,,"G-69TD0KNT0F,G-V6KF16YJFK,GTM-M683DJB,GTM-NBQCVZC,UA-21974567-31,UA-3419582-2"
-qfd.ca.gov,https://qfd.ca.gov/,200,,Homepage Quincy Fire Protection District,,,nginx,,,,,,
-rbra.ca.gov,https://www.rbra.ca.gov/,200,,Homepage Richardson Bay Regional Agency,,,nginx,,,,,,
-rcb.ca.gov,https://www.rcb.ca.gov/,200,,Respiratory Care Board of California,,,,,,X,X,,"G-05Q6QKZSH6,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-24"
-rcpa.ca.gov,https://rcpa.ca.gov/,200,,Regional Climate Protection Authority,WordPress 7.0,,nginx,,,,X,,"G-B3Z6BJFM4T,G-CACHEPRESS"
-rcwd.ca.gov,https://rcwd.ca.gov/,200,,Raisin City Water District,Starfield Technologies; Go Daddy Website Builder 8...,,DPS/2.0.0+sha-e329202,,,,,,
-recycledelnorte.ca.gov,https://recycledelnorte.ca.gov/,200,,Del Norte Solid Waste Managment Authority,,Fat-Free Framework,nginx/1.18.0,,,,,Fetch error: fetch failed Headers Timeout Error,
-reducetherisk.ca.gov,https://www.reducetherisk.ca.gov/,200,,Reduce the Risk |,CAWeb v.1.13.0,,,,X,X,X,,"G-69TD0KNT0F,GTM-P3ZTL3M,UA-3419582-2"
-reedley.ca.gov,https://reedley.ca.gov/,403,,Home - City of Reedley,,,cloudflare,,,,,Cloudflare challenge detected,"G-1770054988,G-1770056173,G-1770057565,G-1770057822,G-1776197269,G-1776375311,G-1776448375"
-registertovote.ca.gov,https://registertovote.ca.gov/,200,,Online Voter Registration | California Secretary o...,,ASP.NET,Microsoft-IIS/10.0,,,,,,
-resources.ca.gov,https://files.resources.ca.gov/,200,,files.resources.ca.gov — Domain welcome page for,,,nginx,,,,,,
-resources.ca.gov,https://natureworks.resources.ca.gov/,200,,natureworks.resources.ca.gov — Domain welcome page...,,,nginx,,,,,,
-resources.ca.gov,https://resources.ca.gov/,200,,California Natural Resources Agency,,,,,X,,X,,"G-L1ZSB6EXE0,UA-3419582-2,UA-59627195-1"
-resources.ca.gov,https://secretary.resources.ca.gov/,200,,secretary.resources.ca.gov — Domain welcome page f...,,,nginx,,,,,,
-rmc.ca.gov,https://rmc.ca.gov/,200,,San Gabriel and Lower Los Angeles Rivers and Mount...,Site Kit by Google 1.178.0,,nginx,,X,X,,,
-rn.ca.gov,https://www.rn.ca.gov/,200,,California Board of Registered Nursing,,,,,,X,X,,"G-69TD0KNT0F,G-FBDG3R1ZL6,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-23"
-roseville.ca.gov,https://www.roseville.ca.gov/,200,,City of Roseville,,,,,,,X,,G-0FJZJD9X4V
-saccourt.ca.gov,https://www.saccourt.ca.gov/,200,,Superior Court of California - County of Sacrament...,,,Microsoft-IIS/10.0,,,,X,,UA-4132807-14
-saltoncsd.ca.gov,https://saltoncsd.ca.gov/,200,,Homepage Salton Community Services District,,,nginx,,,,,,
-saltonsea.ca.gov,https://saltonsea.ca.gov/,200,,Salton Sea Program,Site Kit by Google 1.178.0,,nginx,,X,X,X,,"UA-3419582-2,UA-59627195-7"
-sanbag.ca.gov,https://sbcta-gis.sanbag.ca.gov/arcgis/rest/services,200,,Folder: /,,ASP.NET,"Microsoft-IIS/10.0, ",,,,,,
-sanbruno.ca.gov,https://www.sanbruno.ca.gov/,200,,"San Bruno, CA | Official Website",,,,,,,X,,"G-FVWSYTCK31,GTM-K73C5PS"
-sanramon.ca.gov,https://gis.sanramon.ca.gov/server/rest/services,200,,Folder: /,,ASP.NET,"Microsoft-IIS/10.0, ",,,,,,
-sanramon.ca.gov,https://www.sanramon.ca.gov/,403,,Home - City of San Ramon,,,cloudflare,,,,,Cloudflare challenge detected,"G-1770054989,G-1770057361,G-1776375313,G-1776448674,G-1776708024,G-1776717424,G-1776987132"
-savewater.ca.gov,https://www.savewater.ca.gov/,200,,Save Water Report - State of California,,ASP.NET,,,,X,X,,
-sbac.ca.gov,https://www.sbac.ca.gov/,200,,Santa Barbara County Office of Arts & Culture,,,Squarespace,,,,,,"G-013F66E7C6,G-044A86CF3F,G-1DFEEAF94E,G-2F49DC7692,G-43AF232B5B,G-6456696220,G-701BF8BBC0,G-77DA62461F,G-86AACD645D,G-920708D91C,G-975CECE8DE,G-B1BA7891C2,G-B685267B79,G-C63BF8989A,G-COLLECTION,G-D22EABECA1,G-DBE066AE53,G-F9093F2D52,G-FBFF02EA9B"
-scac.ca.gov,https://scac.ca.gov/,200,,SCAC -- Homepage,,,AmazonS3,,,,,,
-scag.ca.gov,https://scag.ca.gov/,200,,Home | Southern California Association of Governme...,Drupal 10 (https://www.drupal.org),,nginx,,,,X,,"G-HOMEPAGEPO,GTM-PCMC9BT"
-scc.ca.gov,https://scc.ca.gov/,200,,California State Coastal Conservancy – The Coastal...,,,Sucuri/Cloudproxy,,X,X,,,"G-MNKEMF21JK,GTM-NJ6Q4MV"
-scdd.ca.gov,https://scdd.ca.gov/,200,,SCDD | State Council on Developmental Disabilities,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-6SR9BDZWHX,G-Y7T2KCM7P1,UA-23110710-3,UA-3419582-2,UA-3419582-47"
-sco.ca.gov,https://cpads.sco.ca.gov/,200,,State Controller's Office CPA Directory Service (C...,,ASP.NET,,,,,,,GTM-MWCXZTZ
-sco.ca.gov,https://gcc.sco.ca.gov/,200,,GCC,,,cloudflare,,,,X,,GTM-KX7MF5M
-sco.ca.gov,https://laif.sco.ca.gov/,200,,State Controller's Office - Local Agency Investmen...,,ASP.NET,Microsoft-IIS/10.0,,X,X,X,,GTM-PQHTQRV
-sco.ca.gov,https://lgrsonline.sco.ca.gov/account/login,200,,Log in - LGRS Online,,ASP.NET,,,,,X,,GTM-K5ZRSNK
-sco.ca.gov,https://trackprop55.sco.ca.gov/,200,,Track Prop 30/Prop 55,,ASP.NET,,,,,X,,GTM-T2X7CVX
-sco.ca.gov,https://www.sco.ca.gov/,200,,SCO: Home,,ASP.NET,,,X,X,,,GTM-5D5F2SV
-scta.ca.gov,https://scta.ca.gov/,200,,Sonoma County Transportation Authority | SCTA,WordPress 7.0,,nginx,,,,X,,"G-15R30J43DJ,G-CACHEPRESS,G-TEMPLATEBU"
-sdcourt.ca.gov,https://www.sdcourt.ca.gov/,200,,Home | Superior Court of California - County of Sa...,Drupal 10 (https://www.drupal.org),,cloudflare,,,,X,,G-9TV7LRTJDG
-sdrc.ca.gov,https://sdrc.ca.gov/,200,,San Diego River Conservancy,Site Kit by Google 1.178.0,,nginx,,X,X,,,
-seeleywaterdistrict.ca.gov,https://www.seeleywaterdistrict.ca.gov/,200,,Homepage Seeley County Water District,,,nginx,,,,,,
-senate.ca.gov,https://soir.senate.ca.gov/committeehome,200,,Welcome to the Senate Office of International Rela...,,,Apache,,,,,,G-CRN4TZH1YT
-senate.ca.gov,https://www.senate.ca.gov/,200,,Homepage | California State Senate,,,Apache,,,,,,G-CRN4TZH1YT
-sgc.ca.gov,https://sgc.ca.gov/,200,,California Strategic Growth Council - Strategic Gr...,WordPress 7.0,PHP/8.3.29,nginx,,X,X,X,,"G-69TD0KNT0F,G-GN1F20H06C"
-sierracounty.ca.gov,https://www.sierracounty.ca.gov/,200,,"Sierra County, CA - Official Website | Official We...",,,Microsoft-IIS/10.0,,,,X,,"G-N28VLH4GMZ,GTM-K73C5PS"
-sierranevada.ca.gov,https://sierranevada.ca.gov/,200,,Sierra Nevada Conservancy | Building resilience,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-Y7T2KCM7P1,GTM-TMGLRHM,UA-3419582-2,UA-3419582-47"
-sites.ca.gov,https://calepa.sites.ca.gov/,200,,calepa.sites.ca.gov |,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
-sites.ca.gov,https://prod.sites.ca.gov/,200,,prod.sites.ca.gov | for CAWeb publishing,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
-sjrc.ca.gov,https://sjrc.ca.gov/,200,,San Joaquin River Conservancy – The San Joaquin Ri...,Site Kit by Google 1.178.0,,nginx,,X,X,X,,
-slc.ca.gov,https://www.slc.ca.gov/,200,,CA State Lands Commission | California State lands...,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-35QSDZJPYH,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
-slocounty.ca.gov,https://www.slocounty.ca.gov/,200,,Home - County of San Luis Obispo,,ASP.NET,cloudflare,,,,,,GTM-PT92XTQ
-smmc.ca.gov,https://smmc.ca.gov/,200,,Santa Monica Mountains Conservancy – Welcome to Ca...,CAWeb v.1.4.21,,nginx,,X,X,X,,G-3Z04Z00WN3
-solanosr2s.ca.gov,https://solanosr2s.ca.gov/,200,,Solano Transportation Authority | Safe Routes to S...,Powered by WPBakery Page Builder - drag and drop p...,,,,,,X,,G-7Q0YPT74S7
-sonomacounty.ca.gov,https://socogis.sonomacounty.ca.gov/map/services/,400,,ArcGIS Server Error,,,,,,,,HTTP 400,
-sos.ca.gov,https://www.sos.ca.gov/,200,,Home :: California Secretary of State,,,nginx,,,,X,,GTM-TC7VGHV
-spb.ca.gov,https://www.spb.ca.gov/,200,,State Personnel Board,,ASP.NET,Microsoft-IIS/10.0,,X,X,X,,"G-7PSLJD4L8Y,UA-21431721-16,UA-3419582-2"
-speechandhearing.ca.gov,https://www.speechandhearing.ca.gov/,200,,Speech-Language Pathology and Audiology and Hearin...,,,,,,,X,,"G-69TD0KNT0F,G-KZHR8TYRFF,UA-64276560-26"
-spmud.ca.gov,https://spmud.ca.gov/,200,,Homepage South Placer Municipal Utility District,,,nginx,,,,,,
-spwb.ca.gov,https://spwb.ca.gov/,200,,Home | State Public Works Board,,,volt-adc,,X,X,,,"G-JX3SYHBE8G,GTM-NJ6Q4MV"
-srfecc.ca.gov,https://srfecc.ca.gov/,200,,Homepage Sacramento Regional Fire/Ems Communicatio...,,,nginx,,,,,,
-srta.ca.gov,https://www.srta.ca.gov/,200,,"Shasta Regional Transportation Agency, CA | Offici...",,,Microsoft-IIS/10.0,,,,X,,"G-C30T9L4XG7,GTM-K73C5PS"
-ssc.ca.gov,https://www.ssc.ca.gov/,200,,Seismic Safety Commission |,CAWeb v.1.13.0,,,,X,X,X,,"G-69TD0KNT0F,G-TSWFKMRXC5,UA-3419582-2"
-sta.ca.gov,https://sta.ca.gov/,200,,Solano Transportation Authority,,,,,,,X,,G-L9SWKSSW0V
-state.ca.gov,https://listserv.state.ca.gov/wa.exe?INDEX,200,,LISTSERV - LISTSERV Archives - LISTSERV.STATE.CA.G...,,ASP.NET,Microsoft-IIS/10.0,,,,X,,
-statebarcourt.ca.gov,https://www.statebarcourt.ca.gov/,200,,Home | The State Bar of California,Drupal 11 (https://www.drupal.org),,,,,,X,,G-E3V3RY8CPC
-stateentityprofile.ca.gov,https://www.stateentityprofile.ca.gov/,200,,CA.GOV State Entity Profile - CA.GOV State Entity ...,,ASP.NET,,,,X,X,,
-sucorte.ca.gov,https://www.sucorte.ca.gov/,200,,Self-Help Guide to the California Courts | Califor...,Drupal 9 (https://www.drupal.org),,nginx,,,,,,G-K8QM6XJZDN
-sunnyvale.ca.gov,https://www.sunnyvale.ca.gov/,200,,"Sunnyvale, CA | Home",,,AkamaiGHost,,,,,,"G-JBUHY_LMRH,G-R8HYT6ITBJ,G-T4KDVQ1M42,G-WVHV5Y34FM,G-ZRY5RPGC6K"
-tahoe.ca.gov,https://tahoe.ca.gov/,200,,Tahoe Conservancy |,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-7BTW7KMW8E,G-Y7T2KCM7P1,UA-21970760-38,UA-3419582-2,UA-3419582-47"
-tam.ca.gov,https://www.tam.ca.gov/,200,,Transportation Authority of Marin,Powered by WPBakery Page Builder - drag and drop p...,WP Engine,cloudflare,,,,X,,"G-4YBXR627CN,G-9DDJ0T3LZS"
-taxes.ca.gov,https://taxes.ca.gov/,200,,Taxes | California Tax Service Center,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-N8DVBV2ZB1,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
-tcpw.ca.gov,https://tcpw.ca.gov/,200,,Tehama County Public Works,WordPress 7.0,,nginx,,,,,,G-XYLMZ67JYC
-tcwd.ca.gov,https://www.tcwd.ca.gov/,200,,Trabuco Canyon Water District | Home,,,AkamaiGHost,,,,,,"G-EJTHB4NRYW,G-FH9YUK9SSJ,G-RHRBZBNCJV,G-TGNUS61NMI"
-technology.ca.gov,https://bars.technology.ca.gov/,200,,BARS,,ASP.NET,,,,,,,
-technology.ca.gov,https://billing.technology.ca.gov/login.aspx,200,,Login,,ASP.NET,Microsoft-IIS/10.0,,,,,,UA-3419582-2
-technology.ca.gov,https://pasapi.technology.ca.gov/index.html,200,,Personnel Authorization System (PAS),,ASP.NET,,,,,,,
-technology.ca.gov,https://uma.technology.ca.gov/Account/Login,200,,Multisite Authentication Management Tool,,ASP.NET,,,,X,X,,
-technology.ca.gov,https://www.ocrbot.technology.ca.gov/,200,,OCRBot,,,,,,,,,"UA-21970760-42,UA-3419582-2"
-technology.ca.gov,https://www.projecttracking.technology.ca.gov/,200,,IT Project Tracking - California Department of Tec...,,ASP.NET,,,,X,X,,UA-20973992-32
-tehamajuryservices.ca.gov,https://tehamajuryservices.ca.gov/login,200,,"Jury+ Web Solution by Jury Systems, Inc. - Login",,,Apache,,,,X,,
-theacademy.ca.gov,https://theacademy.ca.gov/,200,,Home - The Academy,,,Flywheel/5.1.0,,,,X,,GTM-TC6WLH8
-todb.ca.gov,https://todb.ca.gov/,200,,Homepage The Town of Discovery Bay,,,nginx,,,,,,G-TYLERSV4HT
-tomalescsd.ca.gov,https://www.tomalescsd.ca.gov/,200,,Tomales Village CSD,,,Squarespace,,,,,,"G-013F66E7C6,G-2F49DC7692,G-43AF232B5B,G-48793B863E,G-701BF8BBC0,G-86AACD645D,G-902FAAFCE0,G-920708D91C,G-975CECE8DE,G-B1BA7891C2,G-B685267B79,G-C63BF8989A,G-COLLECTION,G-D22EABECA1,G-DB8F466935,G-DBE066AE53,G-F9093F2D52"
-tourism.ca.gov,https://tourism.ca.gov/s/login/?language=en_US,200,,Login Template Title,,,nginx,,,,X,,
-townofmammothlakes.ca.gov,https://www.townofmammothlakes.ca.gov/,200,,"Mammoth Lakes, CA - Official Website | Official We...",,,,,,,X,,"G-N89HWPCW7V,G-T785Y3D56V,GTM-K73C5PS"
-treasurer.ca.gov,https://laifonline.treasurer.ca.gov/,200,,Log in - LAIF Application,,ASP.NET,Microsoft-IIS/10.0,,,,X,,"UA-1867705-11,UA-3419582-2"
-treasurer.ca.gov,https://www.treasurer.ca.gov/,200,,Home | State of California Office of the State Tre...,Drupal 10 (https://www.drupal.org),PHP/8.4.16,nginx/1.28.0,,X,,,,"G-N5Y60EJBHF,UA-1867705-1,UA-3419582-2"
-tribalaffairs.ca.gov,https://tribalaffairs.ca.gov/,200,,The Governor's Office of Tribal Affairs |,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-BZRKW432Z0,G-Y7T2KCM7P1,UA-31125811-10,UA-3419582-2,UA-3419582-47"
-trinidad.ca.gov,https://www.trinidad.ca.gov/,200,,Home Page | Trinidad CA,Drupal 10 (https://www.drupal.org),,cloudflare,,,,,,G-1F2ZXJ4JW4
-ttsa.ca.gov,https://www.ttsa.ca.gov/,200,,"Tahoe-Truckee SanitationAgency, CA | Official Webs...",,,cloudflare,,,,X,,"G-BT3F8NYDVX,GTM-K73C5PS"
-tulare.ca.gov,https://www.tulare.ca.gov/,200,,City of Tulare | Home,,,AkamaiGHost,,,,,,"G-3C4EEVW8L1,G-WKUWTSIIYD"
-tularecounty.ca.gov,https://tularecounty.ca.gov/,200,,County Main | Tulare,Drupal 10 (https://www.drupal.org),,cloudflare,,,,X,,"G-GYFYZ4RT4Q,G-LEIT9I_ETO"
-tuolumnecounty.ca.gov,https://www.tuolumnecounty.ca.gov/,200,,"Tuolumne County, CA - Official Website | Official ...",,,cloudflare,,,,X,,"G-HHGEB3R8ZN,GTM-K73C5PS"
-unionsanitary.ca.gov,https://unionsanitary.ca.gov/,200,,"Home - Union Sanitary District | Serving Fremont, ...",WordPress 7.0,,Sucuri/Cloudproxy,,,,X,,G-0Z2KMBBLH5
-victims.ca.gov,https://victims.ca.gov/,200,,CalVCB - CA Victim Compensation Board,WordPress 6.8.3,,nginx/1.24.0 (Ubuntu),,X,,,,"G-1P41D0CKTV,GTM-MZBJ9DW"
-vmb.ca.gov,https://www.vmb.ca.gov/,200,,Welcome to the California Veterinary Medical Board...,,,,,,X,X,,"G-69TD0KNT0F,G-DB8SK5JY7K,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-28"
-water.ca.gov,https://cdec.water.ca.gov/,200,,California Data Exchange Center,,,,,X,X,X,,"G-QMSMYVM1J1,UA-3419582-2"
-water.ca.gov,https://cww.water.ca.gov/,200,,California Water Watch,,,Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k mod_jk/1.2.48,,X,X,X,,G-G9NNQTSS8V
-water.ca.gov,https://ferix.water.ca.gov/webapp/home.jsp,200,,FERIX Home,,,Apache/2.4.10 (Unix) mod_jk/1.2.40,,,,X,,"UA-21779576-1,UA-3419582-2"
-water.ca.gov,https://gis.water.ca.gov/arcgis/rest/services/,200,,Folder: /,,ASP.NET,Microsoft-IIS/10.0,,,,,,
-water.ca.gov,https://water.ca.gov/,200,,Department Of Water Resources,,,,,X,,X,,GTM-KK6DT3F
-waterboards.ca.gov,https://gamagroundwater.waterboards.ca.gov/gama/gamamap/public/,200,,GAMA Groundwater,,,cloudflare,,,,X,,
-waterboards.ca.gov,https://geotracker.waterboards.ca.gov/,200,,GeoTracker,,,cloudflare,,,X,X,,GTM-NP6RZTM
-waterboards.ca.gov,https://www.waterboards.ca.gov/,200,,Home Page | California State Water Resources Contr...,,,Apache,,X,X,X,,"G-C2B09DREVM,GTM-5PXRWRP,UA-3419582-2,UA-5950478-1"
-waterresilience.ca.gov,https://www.waterresilience.ca.gov/,200,,waterresilience.ca.gov — Domain welcome page for,,,nginx,,,,,,
-wca.ca.gov,https://www.wca.ca.gov/,200,,Watershed Conservation Authority,,,cloudflare,,,,,,
-wcb.ca.gov,https://wcb.ca.gov/,200,,California Wildlife Conservation Board Home Page,,,,,,X,,,G-K4YTKJ2W16
-wcchd.ca.gov,https://wcchd.ca.gov/,200,,West Contra Costa Healthcare District,,,nginx,,,,,,
-webstandards.ca.gov,https://webstandards.ca.gov/,200,,Webstandards - The online resource for California ...,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-8LTHCDW8ZL,G-Y7T2KCM7P1,UA-20973992-20,UA-3419582-2,UA-3419582-47"
-webstandards.ca.gov,https://www.template.webstandards.ca.gov/,200,,California State Web Template,,ASP.NET,,,X,X,,,GTM-PWPX7KD
-wedrawthelines.ca.gov,https://wedrawthelines.ca.gov/,200,,"California Citizens Redistricting Commission | ""Fa...",CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,,"G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47,UA-44798820-1"
-westnile.ca.gov,https://westnile.ca.gov/,200,,Westnile.ca.gov | California West Nile Virus Websi...,,,,,,,X,,
-wheatland.ca.gov,https://www.wheatland.ca.gov/,200,,"Home Page | City of Wheatland, CA",Drupal 10 (https://www.drupal.org),,cloudflare,,,,,,G-XJYXIFEK8N
-wildlife.ca.gov,https://apps.wildlife.ca.gov/,200,,Apps - California Department of Fish and Wildlife,,,,,,X,,,"G-2N4E4MK3J8,GTM-NJ6Q4MV"
-wildlife.ca.gov,https://calspillwatch.wildlife.ca.gov/,200,,Cal Spill Watch Home,,,,,,X,X,,G-3TD3C8P5WP
-wildlife.ca.gov,https://marinespecies.wildlife.ca.gov/,200,,CA Marine Species Portal,,ASP.NET,Microsoft-IIS/10.0,,,X,X,,G-SGQRQW0TRJ
-wildlife.ca.gov,https://mfde.wildlife.ca.gov/,200,,Marine Fisheries Data Explorer,,ASP.NET,Microsoft-IIS/10.0,,,X,X,,G-MZGV0EZPY2
-wildlife.ca.gov,https://wildlife.ca.gov/,200,,California Department of Fish and Wildlife Home Pa...,,,,,X,X,X,,"G-00TTOCYLYL,G-CMRV390FF9"
-women.ca.gov,https://women.ca.gov/,200,,CCSWG | California Commission on Status of Women a...,CAWeb v.1.13.4,WP Engine,cloudflare,,X,X,X,,"G-69TD0KNT0F,G-7YZTFH0G4L,G-Y7T2KCM7P1,UA-20973992-29,UA-3419582-2,UA-3419582-47"
-workforcalifornia.ca.gov,https://www.workforcalifornia.ca.gov/,200,,Work for California,,ASP.NET,Microsoft-IIS/10.0,,X,X,,,G-H7MX86HSXW
-wpwma.ca.gov,https://wpwma.ca.gov/,200,,Home - Western Placer Waste Management Authority,WordPress 7.0,,cloudflare,,,,,,G-L673EFZY1V
-wwd.ca.gov,https://wwd.ca.gov/,200,,Home - Westlands Water District,WordPress 6.9.4,,nginx,,,,X,,UA-40603001-1
-ych.ca.gov,https://www.ych.ca.gov/,200,,Yolo County Housing Authority,"Powered by LayerSlider 7.1.1 - Multi-Purpose, Resp...",WP Engine,nginx,,,,X,,G-CY5VGQ3JWN
+domain,target,status,redirectURL,title,generator,x-powered-by,server,author,slowResponse,statewideAlerts,stateTemplate,JQuery,errormessage,GoogleAnalytics
+393,533,0,2,527,172,188,377,220,0,128,229,350,22,391
+.ca.gov,https://www.ca.gov/,200,,California State Portal | CA.gov,,ASP.NET,,State of California,,X,,,,GTM-PZGPNNV
+abag.ca.gov,https://abag.ca.gov/,200,,Home | Association of Bay Area Governments,Drupal 11 (https://www.drupal.org),,nginx,,,,,X,,G-FE9WWP5YXX
+abc.ca.gov,https://www.abc.ca.gov/,200,,Alcoholic Beverage Control | Trust - Innovation - ...,CAWeb v.1.1.4b,WP Engine,cloudflare,State of California,,,,,,"G-69TD0KNT0F,G-DCG7L67NBP,UA-24087628-11,UA-3419582-2"
+abcab.ca.gov,https://abcab.ca.gov/,200,,Alcoholic Beverage Control Appeals Board,,,cloudflare,Alcoholic Beverage Control Appeals Board,,X,X,X,,"G-69TD0KNT0F,G-XYBVW071M5,G-Y7T2KCM7P1,GTM-NJ6Q4MV,UA-20973992-10,UA-3419582-2,UA-3419582-47"
+acupuncture.ca.gov,https://www.acupuncture.ca.gov/,200,,Welcome - California Acupuncture Board,,,,"State of California Acupuncture Board, Department ...",,,,X,,"G-69TD0KNT0F,G-CGS7Z07GXJ,GTM-NBQCVZC,UA-64276560-1"
+agencyreports.ca.gov,https://agencyreports.ca.gov/,200,,Search for Agency Reports | California Agency Repo...,,,Apache,,,,,X,,
+aging.ca.gov,https://www.aging.ca.gov/,200,,Home Page | California Department of Aging - State...,,,,State of California,,X,X,X,,"G-69TD0KNT0F,G-WSL365RZCF,UA-21431721-20"
+alpha.ca.gov,https://www.alpha.ca.gov/,200,,Welcome to Alpha.CA.gov,,,AmazonS3,Alpha.CA.gov - State of California,,,,,,"G-5GGV1QPJD4,G-69TD0KNT0F"
+alrb.ca.gov,https://www.alrb.ca.gov/,200,,ALRB | The California Agricultural Labor Relations...,CAWeb v.1.13.4,WP Engine,cloudflare,,,X,X,X,,"G-3GVNPSC58B,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47,UA-58832707-1"
+aquaculturematters.ca.gov,https://aquaculturematters.ca.gov/,200,,Aquaculture Matters – Why aquaculture in Californi...,,,nginx,,,,,,,
+arb.ca.gov,https://gis.carb.arb.ca.gov/hosting/rest/services,200,,Folder: /,,,Microsoft-IIS/10.0,,,,,,,
+arb.ca.gov,https://ww2.arb.ca.gov/,200,,Homepage | California Air Resources Board,Drupal 9 (https://www.drupal.org),,nginx,,,,,,,"G-7M1ZZPXDBL,UA-19803621-1"
+arts.ca.gov,https://arts.ca.gov/,200,,Home Page - California Arts Council,WordPress 6.8.2,,nginx,,,,,X,,G-YMHBQ8PVF6
+assembly.ca.gov,https://www.assembly.ca.gov/,200,,Welcome to the California State Assembly | Califor...,,,Apache,,,,,,,G-4D0PPGX2BH
+auburn.ca.gov,https://www.auburn.ca.gov/,200,,"Auburn, CA | Official Website",,,Microsoft-IIS/10.0,,,,,X,,"G-1PL09BWVXS,GTM-K73C5PS"
+auditor.ca.gov,https://www.auditor.ca.gov/,200,,California State Auditor,,WordPress VIP <https://wpvip.com>,nginx,,,,,,,G-70N4V9ZKFQ
+avaqmd.ca.gov,https://www.avaqmd.ca.gov/,200,,Homepage Antelope Valley Air Quality Management Di...,,,nginx,,,,,,,
+bar.ca.gov,https://www.bar.ca.gov/,200,,Home page - Bureau of Automotive Repair,,,,State of California,,,X,X,,G-2RE0XT2L0F
+barbercosmo.ca.gov,https://www.barbercosmo.ca.gov/,200,,California Board of Barbering and Cosmetology,,,,State of California,,,X,X,,"G-69TD0KNT0F,G-8SW7CC7X25,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-3"
+bawa.ca.gov,https://bawa.ca.gov/,200,,BISHOP AREA WASTEWATER AUTHORITY,WordPress 7.0,,Apache,,,,,X,,
+bayareacensus.ca.gov,http://www.bayareacensus.ca.gov/,200,,Bay Area Census: We've Moved,,,AmazonS3,,,,,,,
+bbs.ca.gov,https://www.bbs.ca.gov/,200,,Board of Behavioral Sciences (BBS),,,,State of California,,,X,X,,"G-69TD0KNT0F,G-DF674HWF28,GTM-M447QB9,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-4"
+bcdc.ca.gov,https://www.bcdc.ca.gov/,200,,SF Bay Conservation & Development |,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-659EB2TT61,G-69TD0KNT0F,G-CONDITIONS,G-ESSENTIALS,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
+bcsh.ca.gov,https://www.bcsh.ca.gov/,200,,"California Business, Consumer Services and Housing...",,,,"Business, Consumer Services and Housing Agency",,X,X,X,,"G-69TD0KNT0F,G-E4Q2NW6P5W,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-31"
+beacon.ca.gov,https://beacon.ca.gov/,200,,BEACON | Beach Erosion Authority for Clean Oceans ...,Divi v.4.27.6,,Sucuri/Cloudproxy,,,,,X,,
+bhc.ca.gov,https://bhc.ca.gov/,200,,Baldwin Hills Conservancy,Site Kit by Google 1.178.0,,nginx,State of California,,X,X,X,,"UA-3419582-2,UA-59627195-3"
+bhsoac.ca.gov,https://bhsoac.ca.gov/,200,,Behavioral Health Services Oversight & Accountabil...,CAWeb v.1.5.1,"PHP/8.1.34, PleskLin",nginx,State of California,,,X,X,,"G-2S4WQ2SDZ6,G-5L308BQ8BW,UA-12799586-1"
+biomonitoring.ca.gov,https://www.biomonitoring.ca.gov/,200,,Biomonitoring California | Measuring Chemicals in ...,,,,,,,,,,
+bluelake.ca.gov,https://bluelake.ca.gov/,200,,"City of Blue Lake, CA - Blue Lake, California",,WP Engine,cloudflare,,,,,X,,
+boe.ca.gov,https://boe.ca.gov/,200,,California State Board of Equalization Homepage,,,Microsoft-IIS/10.0,California State Board of Equalization,,X,X,X,,"G-69TD0KNT0F,G-XH0RG68L1S,GTM-5Q36MCK"
+bondaccountability.ca.gov,https://bondaccountability.ca.gov/,200,,Home | CA.GOV Bond Accountability,,,volt-adc,,,X,X,,,"G-WJP820TQVY,GTM-NJ6Q4MV"
+boomerang.ca.gov,https://www.boomerang.ca.gov/,200,,Boomerang: State of California Retirees Job Connec...,,ASP.NET,Microsoft-IIS/10.0,CalHR,,,X,X,,"UA-3419582-2,UA-5276088-3"
+bopc.ca.gov,https://bopc.ca.gov/,200,,BOPC - Board of Pilot Commissioners,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-69TD0KNT0F,G-FBMZL6F4H8,G-Y7T2KCM7P1,UA-20973992-11,UA-3419582-2,UA-3419582-47"
+bot.ca.gov,https://www.bot.ca.gov/,200,,Board of Occupational Therapy,,,,State of California,,,X,X,,"G-69TD0KNT0F,G-VWTHLSTC7N,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-14"
+bpelsg.ca.gov,https://www.bpelsg.ca.gov/,200,,"Board for Professional Engineers, Land Surveyors, ...",,,,State of California - Board for Professional Engin...,,,X,X,,"G-00QVLPGF36,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-64276560-10"
+bppe.ca.gov,https://www.bppe.ca.gov/,200,,Bureau for Private and Post-Secondary Education - ...,,,,State of California,,,X,X,,"G-3V1YPEGZCC,G-69TD0KNT0F,GTM-NBQCVZC,UA-3419582-2,UA-64276560-20"
+bppe.ca.gov,https://www.osar.bppe.ca.gov/,200,,Office of Student Assistance and Relief,,,,State of California,,,X,X,,"G-69TD0KNT0F,G-D0ME26CM0R,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-41"
+brea.ca.gov,https://www.brea.ca.gov/,200,,California Bureau of Real Estate Appraisers,,,,State of California,,,,,,"UA-22544255-17,UA-3419582-2"
+broadbandcouncil.ca.gov,https://broadbandcouncil.ca.gov/,200,,California Broadband Council | The California Broa...,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-BM545KDPMZ,G-Y7T2KCM7P1,UA-21970760-37,UA-3419582-2,UA-3419582-47"
+broadbandmap.ca.gov,https://www.broadbandmap.ca.gov/,200,,California Interactive Broadband Map,,ASP.NET,Microsoft-IIS/10.0,,,,,,,
+bscc.ca.gov,https://www.bscc.ca.gov/,200,,BSCC – Board of State and Community Corrections,CAWeb v.1.6.4,,Apache/2.4.41 (Ubuntu),State of California,,,X,X,,"G-K3Z99JBWHR,UA-67888913-1"
+bsis.ca.gov,https://www.bsis.ca.gov/,200,,Welcome to the Bureau of Security and Investigativ...,,,,State of California,,,X,X,,"G-69TD0KNT0F,G-84YD2E7420,UA-3419582-2,UA-64276560-25"
+build.ca.gov,https://www.build.ca.gov/,200,,Building California: Transforming Infrastructure f...,,,Vercel,,,,,,,
+business.ca.gov,https://business.ca.gov/,200,,California Governor’s Office of Business and Econo...,CAWeb v.1.5.3,,Apache,State of California,,,X,X,,"G-ZYTZPSRY9P,GTM-NNRL3QT"
+bvnpt.ca.gov,https://www.bvnpt.ca.gov/,200,,Board of Vocational Nursing & Psychiatric Technici...,,,,State of California,,,X,X,,"G-69TD0KNT0F,G-HTB5XLD158,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-29"
+bvwd.ca.gov,https://bvwd.ca.gov/,200,,Bear Valley Water District,,,Microsoft-IIS/10.0,Enkode LLC,,,,X,,G-LLAB4IT68L
+c2c.ca.gov,https://c2c.ca.gov/,200,,California Cradle-to-Career Data System | C2C,,WP Engine,cloudflare,,,,,,,GTM-P7T6C5S
+cab.ca.gov,https://www.cab.ca.gov/,200,,California Architects Board,,,,California Architects Board,,,X,X,,"G-69TD0KNT0F,G-R5WKN67L3M"
+caclimateinvestments.ca.gov,https://www.caclimateinvestments.ca.gov/,200,,California Climate Investments,,,Squarespace,,,,,X,,"G-013F66E7C6,G-0F4A4CDA7D,G-22C0FA1665,G-43AF232B5B,G-44AECC9B91,G-701BF8BBC0,G-86AACD645D,G-902FAAFCE0,G-920708D91C,G-96ACF835CC,G-975CECE8DE,G-9DE6E9C562,G-B1BA7891C2,G-B685267B79,G-BCBAEBAB68,G-C63BF8989A,G-CFFDAD8C31,G-COLLECTION,G-D22EABECA1,G-DB8F466935,G-F9093F2D52,G-FBFF02EA9B,G-SQTTDXLFMY,G-ZCFAH2ENT5"
+calable.ca.gov,https://calable.ca.gov/,200,,Home - CalABLE,,Express,awselb/2.0,,,,,,,"G-BH9XWR79GY,GTM-K7STLL5"
+calbar.ca.gov,https://www.calbar.ca.gov/,200,,Home | The State Bar of California,Drupal 11 (https://www.drupal.org),,wsm,,,,,X,,"G-CT3SHXYGSG,G-HKWIEG4KBI,GTM-K64ZG27"
+calcareers.ca.gov,https://calcareers.ca.gov/,200,,CalCareers,,ASP.NET,,,,X,X,,,"G-1ZWR8CFVKV,G-69TD0KNT0F,G-B3UPD2PRSI,G-GVMXP4J73D"
+calcivilrights.ca.gov,https://calcivilrights.ca.gov/,200,,CRD | Civil Rights Department,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-69TD0KNT0F,G-DMYWEFRNDX,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
+calcompetes.ca.gov,https://www.calcompetes.ca.gov/Login.aspx,200,,Login,,ASP.NET,Microsoft-IIS/10.0,,,,,X,,
+calctra.ca.gov,https://www.calctra.ca.gov/,200,,CALCTRA Website » Career Training | Quality Produc...,WordPress 6.9.4,,Microsoft-IIS/10.0,,,,,X,,"G-KEC04T63TW,GTM-M833TJP"
+calepa.ca.gov,https://calepa.ca.gov/,403,,CalEPA | California Environmental Protection Agenc...,,,,,,,,,Fetch error: fetch failed redirect count exceeded,
+calepa.ca.gov,https://cers.calepa.ca.gov/,403,,CERS | California Environmental Reporting System,,,,,,,X,,HTTP 403,"G-69TD0KNT0F,G-VKFSF099FL"
+caleprocure.ca.gov,https://caleprocure.ca.gov/pages/index.aspx,200,,Cal eProcure,,,nginx,,,,,X,,"GTM-WTBNSTN,UA-3419582-2"
+calexico.ca.gov,https://www.calexico.ca.gov/,200,,"Calexico, CA",,,,,,,,X,,
+calgold.ca.gov,https://www.calgold.ca.gov/,200,,CalGold | CalGold v2 - Permit Assistance Tool,,,,State of California,,,X,X,,G-ZZ3YHMBCMQ
+calguard.ca.gov,https://calguard.ca.gov/,200,,Cal Guard | Cal Guard,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-568M73XK08,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-21974567-37,UA-3419582-2,UA-3419582-47"
+calhfa.ca.gov,https://cloud.calhfa.ca.gov/,200,,California Housing Finance Agency | CalHFA,,,Microsoft-IIS/10.0,California Housing Finance Agency,,X,,X,,"G-DJ1JHKZF8R,UA-19266071-3"
+calhfa.ca.gov,https://www.calhfa.ca.gov/,200,,California Housing Finance Agency | CalHFA,,,Microsoft-IIS/10.0,California Housing Finance Agency,,X,,X,,"G-DJ1JHKZF8R,UA-19266071-3"
+calhr.ca.gov,https://www.calhr.ca.gov/,200,,CalHR Website - The CALHR site,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-Y7T2KCM7P1,GTM-PNDFX4J,UA-3419582-2,UA-3419582-47"
+californiadgstats.ca.gov,https://www.californiadgstats.ca.gov/,200,,CaliforniaDGStats,,,,"Energy Solutions, Oakland CA USA",,,,X,,"G-1Z3D4EMH7X,G-PT0KK6BNM3,GTM-KK8LBS3"
+californianature.ca.gov,https://www.californianature.ca.gov/,200,,30x30 California,,,,,,,,,,"G-Y6CYCFDK0H,UA-59627195-16"
+californiavolunteers.ca.gov,https://www.californiavolunteers.ca.gov/,200,,California Volunteers | California Volunteers,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-T935JFYNE2,G-Y7T2KCM7P1,GTM-P2BGJP8,UA-23110710-36,UA-3419582-2,UA-3419582-47"
+caljobs.ca.gov,https://www.caljobs.ca.gov/vosnet/default.aspx,200,,CalJOBS,,,,,,,,,,
+caloes.ca.gov,https://firescope.caloes.ca.gov/,200,,Firescope Home,Microsoft SharePoint,ASP.NET,Microsoft-IIS/10.0,,,,,X,,
+caloes.ca.gov,https://www.caloes.ca.gov/,200,,California Governor's Office of Emergency Services...,CAWeb v.1.13.0,,,State of California,,X,X,X,,"G-69TD0KNT0F,G-MDLYGZX10N,GTM-5JTZCJC,UA-3419582-2,UA-54732306-2"
+caloes.ca.gov,https://www.news.caloes.ca.gov/,200,,Cal OES News | NEWSROOM | Multimedia | California ...,CAWeb v.1.13.0,,,State of California,,X,X,X,,"G-69TD0KNT0F,GTM-PDD4LL4,UA-3419582-2"
+caloes.ca.gov,https://www.wildfirerecovery.caloes.ca.gov/,200,,California Statewide Wildfire Recovery Resources |,CAWeb v.1.13.0,,,State of California,,X,X,X,,"G-69TD0KNT0F,G-TS7HJEYWFP,UA-3419582-2"
+calosba.ca.gov,https://www.calosba.ca.gov/,200,,California Office of the Small Business Advocate (...,CAWeb v.1.5.2a,,Apache,State of California,,,X,X,,G-2KMN5NQW5J
+calpers.ca.gov,https://www.calpers.ca.gov/,200,,California Public Employees' Retirement System,Drupal 10 (https://www.drupal.org),,nginx,,,,,,,"G-EGNB9Q40R8,G-NVPAH5KF7T,GTM-TVMFZD9"
+calrecycle.ca.gov,https://calrecycle.ca.gov/,200,,CalRecycle Home Page,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-69TD0KNT0F,G-Y7T2KCM7P1,GTM-WWF6GW5,UA-12131600-15,UA-3419582-2,UA-3419582-47"
+calrx.ca.gov,https://calrx.ca.gov/,200,,CalRx - Making prescription drugs more affordable ...,WordPress 6.9.4,,,,,,,,,"G-69TD0KNT0F,G-B15ZM3C3NN"
+calsilc.ca.gov,https://calsilc.ca.gov/,200,,California State Independent Living Council | To c...,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-9RWNEXS0MN,G-Y7T2KCM7P1,UA-21970760-45,UA-3419582-2,UA-3419582-47"
+calsta.ca.gov,https://calsta.ca.gov/,200,,California State Transportation Agency | CalSTA,,,Microsoft-IIS/10.0,State of California,,X,X,X,,"G-69TD0KNT0F,G-8PZ3KQXET8"
+calvet.ca.gov,https://www.calvet.ca.gov/,,,CalVet - California Department of Veterans Affairs,,,,,,,,,Fetch error: fetch failed read ECONNRESET,
+cannabis.ca.gov,https://www.cannabis.ca.gov/,200,,Department of Cannabis Control,,,Vercel,,,,,,,G-LABORATORI
+capiaa.ca.gov,https://capiaa.ca.gov/,200,,California Commission on APIA Affairs | Empowering...,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-FZL67QR94L,G-Y7T2KCM7P1,UA-24087628-35,UA-3419582-2,UA-3419582-47"
+capitolmuseum.ca.gov,https://capitolmuseum.ca.gov/,200,,Homepage - California State Capitol Museum,CAWeb v.1.12.4,PleskLin,nginx,State of California,,,X,X,,"G-69TD0KNT0F,G-ZSV0Z9SPB3,UA-21974567-45,UA-3419582-2,UA-64245307-1"
+captain.ca.gov,https://www.captain.ca.gov/,200,,CA Autism Professional Training and Information Ne...,,,Microsoft-IIS/10.0,,,,,X,,G-7P4J8DKTKV
+catc.ca.gov,https://catc.ca.gov/,200,,California Transportation Commission | CTC,,,Microsoft-IIS/10.0,State of California,,X,X,X,,"G-37E6VKG1R5,G-69TD0KNT0F,UA-21970760-33"
+cca.ca.gov,https://cca.ca.gov/,200,,Alan Gordon Studio,,,Apache,,,,,,,UA-53240265-1
+ccag.ca.gov,https://ccag.ca.gov/,200,,C/CAG,,,nginx,,,,,X,,G-0KSE6F1TNL
+ccap.ca.gov,https://www.ccap.ca.gov/,200,,Cannabis Control Appeals Panel,,,,State of California,,X,X,X,,"G-69TD0KNT0F,G-HCFGD3JTY2,GTM-M683DJB,GTM-NBQCVZC,UA-21974567-34,UA-3419582-2"
+ccc.ca.gov,https://ccc.ca.gov/,200,,California Conservation Corps,CCC Divi Child Theme v.1.0.1,,,,,,,X,,"G-9B8C5EW31B,UA-1915322-1"
+ccfc.ca.gov,https://www.ccfc.ca.gov/,200,,First 5 California - Improving Lives of California...,,ASP.NET,Microsoft-IIS/10.0,,,X,,X,,G-ZPMNSRN8SN
+cchcs.ca.gov,https://cchcs.ca.gov/,200,,CCHCS - California Correctional Health Care Servic...,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-69TD0KNT0F,G-Q9Y67HPNNY,G-Y7T2KCM7P1,GTM-T7W8RZ8,UA-3419582-2,UA-3419582-47"
+ccoa.ca.gov,https://tacc.ccoa.ca.gov/,200,,Home Page | Triple-A Council of California - State...,,,,,,X,X,X,,"UA-20973992-12,UA-21431721-20,UA-3419582-2"
+ccoa.ca.gov,https://www.ccoa.ca.gov/,200,,California Commission on Aging - State of Californ...,,,,State of California,,X,X,X,,"G-69TD0KNT0F,G-M8T749HDDC,UA-21431721-20"
+ccusl.ca.gov,https://ccusl.ca.gov/,200,,Welcome to the California Commission on Uniform St...,,,cloudflare,,,,,X,,
+cdcr.ca.gov,https://pass.cdcr.ca.gov/Home/ChooseApplication,200,,Choose Application - CDCR Peace Officer Applicatio...,,ASP.NET,Microsoft-IIS/10.0,,,,,X,Fetch error: fetch failed write EPIPE,GTM-WWJWHL4
+cdcr.ca.gov,https://www.cdcr.ca.gov/,200,,California Department of Corrections and Rehabilit...,,,nginx,,,,,,,GTM-WWJWHL4
+cde.ca.gov,https://cnips.cde.ca.gov/Splash.aspx,200,https://validate.perfdrive.com/?ssa=5d37affb-b670-...,Child Nutrition Information and Payment System,,,,,,,,X,,
+cde.ca.gov,https://www.cde.ca.gov/,200,,California Department of Education,,,,,,X,,X,,G-FXBTGX69YQ
+cdfa.ca.gov,https://piercesdisease.cdfa.ca.gov/,200,,CDFA - Pierce's Disease Research Updates,,,,California Department of Food and Agriculture,,,X,X,,GTM-W4BKPB7
+cdfa.ca.gov,https://www.cdfa.ca.gov/,200,,California Department of Food and Agriculture - CD...,,ASP.NET,,California Department of Food and Agriculture,,X,X,X,,"GTM-W4BKPB7,UA-3419582-2"
+cdii.ca.gov,https://www.cdii.ca.gov/,200,,Homepage - CDII,All in One SEO (AIOSEO) 4.9.5.1,PHP/8.4.16,nginx,,,,,X,,"G-G7F3RDGPHQ,GTM-MSW2ZV4,UA-1915322-1"
+cdph.ca.gov,https://calfreshhealthyliving.cdph.ca.gov/en/Pages/default.aspx,200,,Home,Microsoft SharePoint,,volt-adc,,,,,,,GTM-KVN6ZCB
+cdph.ca.gov,https://gis.cdph.ca.gov/gisadmin/rest/services,200,,Folder: /,,ASP.NET,Microsoft-IIS/10.0,,,,,,,
+cdph.ca.gov,https://healthcareportal.cdph.ca.gov/,200,,CalHEART - Home,,,Microsoft-IIS/10.0,,,,X,X,,
+cdph.ca.gov,https://medassist.cdph.ca.gov/,200,,CDPH,,,volt-adc,,,,,,,
+cdph.ca.gov,https://medassistportal.cdph.ca.gov/,200,,CDPH,,,volt-adc,,,,,,,
+cdph.ca.gov,https://myturn.cdph.ca.gov/,200,,My Turn - California Vaccine Scheduling & Informat...,,,volt-adc,,,,,,,"G-RJPGSHNVCG,GTM-5THG92K,GTM-WC8N8KN"
+cdph.ca.gov,https://myvaccinerecord.cdph.ca.gov/,200,,Digital Vaccine Record,,,volt-adc,,,,,,,GTM-5L4RSCS
+cdph.ca.gov,https://spot.cdph.ca.gov/s/?language=en_US,200,,SPOT,,,volt-adc,,,,,,,
+cdph.ca.gov,https://www.cdph.ca.gov/,200,,CDPH Home,,,volt-adc,Department of Public Health,,X,,X,,"G-RESPONSIVE,GTM-KVN6ZCB"
+cdph.ca.gov,https://www.communityhealthstudies.cdph.ca.gov/,200,,Community Health Studies,,ASP.NET,Microsoft-IIS/10.0,,,,,,,"GTM-KVN6ZCB,UA-42142214-1"
+cdpr.ca.gov,https://calpip.cdpr.ca.gov/main.cfm,200,,CalPIP Home - California Pesticide Information Por...,,,Apache,,,X,X,X,,GTM-PG47TPC
+cdpr.ca.gov,https://ets.cdpr.ca.gov/,200,,California Department of Pesticide Regulation Elec...,,,Apache,,,X,X,,,"G-75V2BNQ3DR,GTM-NJ6Q4MV"
+cdpr.ca.gov,https://mobile.cdpr.ca.gov/,200,,Department of Pesticide Regulation Mobile Gallery,,ASP.NET,Microsoft-IIS/10.0,California Department of Pesticide Regulation,,,,,,"UA-3419582-2,UA-5300495-1"
+cdpr.ca.gov,https://www.cdpr.ca.gov/,200,,Home Page - Department of Pesticide Regulation,WordPress 6.9.4,,nginx,,,,X,,,GTM-PG47TPC
+cdss.ca.gov,https://www.cdss.ca.gov/,200,,Home | California Dept. of Social Services,,,,,,,X,X,,"G-6Y5ZSHSWZE,UA-77698819-4"
+cdt.ca.gov,https://broadbandforall.cdt.ca.gov/,200,,Homepage | Broadband for All,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-69TD0KNT0F,G-TL905X6EDW,G-Y7T2KCM7P1,GTM-NH6JP3T,UA-20973992-22,UA-3419582-2,UA-3419582-47"
+cdt.ca.gov,https://caweb.cdt.ca.gov/,200,,CAWeb | The CAWeb Publishing Support site,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-69TD0KNT0F,G-JM9XN48M0M,G-Y7T2KCM7P1,UA-31125811-32,UA-3419582-2,UA-3419582-47"
+cdt.ca.gov,https://digitalidstrategy.cdt.ca.gov/,200,,California State Digital ID Strategy | CA.gov,,ASP.NET,,State of California,,X,,,,"G-CLMC17ZTJT,GTM-NJ6Q4MV"
+cdt.ca.gov,https://digitalstrategy.cdt.ca.gov/,200,,California State Digital Strategy,,,,State of California,,X,X,,,"G-CLMC17ZTJT,G-DDK6LP4W3T,GTM-NJ6Q4MV"
+cdt.ca.gov,https://projectresources.cdt.ca.gov/,200,,Project Resources | CA-PMO,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-69TD0KNT0F,G-NSV16ZKHM9,G-Y7T2KCM7P1,UA-20973992-26,UA-3419582-2,UA-3419582-47"
+cdt.ca.gov,https://www.capmf.cdt.ca.gov/,200,,CDT - CA-PMF - Project Management Framework,,ASP.NET,,,,,X,X,HTTP 403,"G-WFDWPPLS2Q,GTM-NJ6Q4MV"
+cdt.ca.gov,https://www.cdt.ca.gov/,200,,CDT - California Department of Technology,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-69TD0KNT0F,G-LPLGX1HR9S,G-Y7T2KCM7P1,UA-20973992-22,UA-3419582-2,UA-3419582-47"
+cdt.ca.gov,https://www.domainnamerequest.cdt.ca.gov/,200,,Getting Started,,ASP.NET,,,,,X,,,"G-69TD0KNT0F,G-X7DZT8P5JD"
+cdt.ca.gov,https://www.envision2026.cdt.ca.gov/,200,,Envision 2026 - California’s Technology Future,,ASP.NET,,State of California,,X,X,,,"G-N45YGR3WEW,GTM-NJ6Q4MV"
+cdtfa.ca.gov,https://cdtfa.ca.gov/,200,,California Department of Tax and Fee Administratio...,,,,California Department of Tax and Fee Administratio...,,X,X,X,,GTM-W42NR96
+cdtfa.ca.gov,https://gis.cdtfa.ca.gov/,200,,Find a Sales and Use Tax Rate,,ASP.NET,Microsoft-IIS/10.0,,,,,,,"GTM-W42NR96,UA-3419582-2,UA-64276560-39"
+cdtfa.ca.gov,https://maps.cdtfa.ca.gov/,200,,Find a Sales and Use Tax Rate,,ASP.NET,Microsoft-IIS/10.0,,,,,,,"GTM-W42NR96,UA-3419582-2,UA-64276560-39"
+cdtfa.ca.gov,https://onlineservices.cdtfa.ca.gov/,,,CDTFA Online Services,,,,,,,,,Fetch error: fetch failed redirect count exceeded,
+census.ca.gov,https://census.ca.gov/,200,,"CA Census | Be Counted, California!",CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-TZTNZMGXJE,G-Y7T2KCM7P1,UA-21431721-42,UA-3419582-2,UA-3419582-47"
+cfb.ca.gov,https://www.cfb.ca.gov/,200,,Home – Cemetery and Funeral Bureau,,,,State of California,,,,X,,"G-69TD0KNT0F,G-G28V3EMKNN,UA-64276560-5"
+cfcc.ca.gov,https://www.cfcc.ca.gov/,200,,California Financing Coordinating Committee (CFCC),CAWeb v.1.5.2a,,Apache,State of California,,,X,X,,G-LRBSJ7NJPS
+chhs.ca.gov,https://www.chhs.ca.gov/,200,,California Health and Human Services - California ...,WordPress 6.9.4,PHP/8.4.16,nginx,,,,,X,,"G-C326YCQ2HL,GTM-5R9P4F7,UA-3419582-2"
+childsupport.ca.gov,https://childsupport.ca.gov/,200,,CA Child Support Services,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-69TD0KNT0F,G-V0P67RG6BT,G-Y7T2KCM7P1,GTM-WGNN9NP,UA-21970760-39,UA-3419582-2,UA-3419582-47"
+chiro.ca.gov,https://www.chiro.ca.gov/,200,,"Board of Chiropractic Examiners, California Depart...",,,,State of California,,,,,,"G-69TD0KNT0F,G-K09KJQJEEF,UA-20973992-13"
+chp.ca.gov,https://www.chp.ca.gov/,200,,California Highway Patrol,,,cloudflare,California Highway Patrol,,X,X,X,,"G-75V2BNQ3DR,GTM-5J36M86,GTM-NJ6Q4MV,UA-1915322-1"
+chrb.ca.gov,https://www.chrb.ca.gov/,200,,California Horse Racing Board,,ASP.NET,Microsoft-IIS/10.0,State of California,,,X,X,,G-5Z5BS440DZ
+cirm.ca.gov,https://www.cirm.ca.gov/,200,,CIRM – California's Stem Cell and Gene Therapy Age...,WordPress 6.9.4,,nginx,,,X,,X,Fetch error: fetch failed Headers Timeout Error,G-LGEK77YV1P
+cityofblythe.ca.gov,https://www.cityofblythe.ca.gov/,200,,"The Official Site of Blythe, CA! | Official Websit...",,,Microsoft-IIS/10.0,,,,,X,,"G-PXD95BNVLQ,GTM-K73C5PS"
+cityofcorcoran.ca.gov,https://cityofcorcoran.ca.gov/,200,,"Corcoran, Ca",,,,,,,,X,,
+cityofriodell.ca.gov,https://www.cityofriodell.ca.gov/,200,,"Rio Dell, CA | Official Website",,,cloudflare,,,,,X,,"G-G175W7V1CX,GTM-K73C5PS"
+cityofventura.ca.gov,https://www.cityofventura.ca.gov/,200,,"Ventura, CA | Official Website",,,cloudflare,,,,,X,,"G-XWL3SB66NK,GTM-K73C5PS"
+cjp.ca.gov,https://cjp.ca.gov/,200,,CJP | Commission on Judicial Performance,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-N3F46379HC,G-Y7T2KCM7P1,UA-22544255-8,UA-3419582-2,UA-3419582-47"
+climateassessment.ca.gov,https://www.climateassessment.ca.gov/,200,,California Climate Change Assessment,,,Microsoft-IIS/10.0,State of California,,,X,X,,
+climateresilience.ca.gov,https://www.climateresilience.ca.gov/,200,,California Climate Adaptation Strategy 2024,,ASP.NET,Microsoft-IIS/10.0,State of California,,,X,X,,"G-69TD0KNT0F,G-HTRZSKEXJ7"
+clrc.ca.gov,https://www.clrc.ca.gov/,200,,California Law Revision Commission Home,,,Apache,State of California,,,,,,"UA-24087628-17,UA-3419582-2"
+clsd.ca.gov,https://clsd.ca.gov/,200,,Coast Life Support District – Ambulance & collabor...,WordPress 6.9.4,,nginx,,,,,X,,G-BACKGROUND
+cnra.ca.gov,https://data.cnra.ca.gov/,200,,Welcome - California Natural Resources Agency Open...,ckan 2.9.11,,cloudflare,,,X,,X,,"G-L05EYD0Q7Q,G-Q09GQ8WSZJ,G-ZG8VBX1CS3"
+cnra.ca.gov,https://futureofwork.cnra.ca.gov/,200,,Certified Regulatory Programs – Notices of Determi...,Site Kit by Google 1.178.0,,nginx,State of California,,X,X,X,,"UA-3419582-2,UA-59627195-7"
+cnra.ca.gov,https://gis.cnra.ca.gov/arcgis/rest/services/,200,,Folder: /,,ASP.NET,"Microsoft-IIS/10.0, ",,,,,,,
+cnra.ca.gov,https://thrive.cnra.ca.gov/,200,,Thrive @ Resources – Supporting the People Who Pow...,Site Kit by Google 1.178.0,,nginx,,,X,X,X,,G-DC4ZM50NEC
+coastal.ca.gov,https://www.coastal.ca.gov/,200,,California Coastal Commission,,ASP.NET,Microsoft-IIS/7.5,State of California - Ca. Coastal Commission,,X,,,,"G-38DMPFK630,G-69TD0KNT0F"
+code.ca.gov,https://code.ca.gov/,200,,California Open Source Portal,,ASP.NET,,State of California,,X,X,,,"G-69TD0KNT0F,G-V48N03F5V0"
+colma.ca.gov,https://www.colma.ca.gov/,403,,Home - Town of Colma,,,,,,,,,HTTP 403,
+conservation.ca.gov,https://creec.conservation.ca.gov/,200,,Carbon Sequestration | CREEC,,,,,,,,X,,"G-69TD0KNT0F,G-TB4GXTE2XM"
+conservation.ca.gov,https://filerequest.conservation.ca.gov/,200,,File Request - California Department of Conservati...,,,Microsoft-IIS/10.0,"State of California, Department of Conservation",,,X,X,,"G-69TD0KNT0F,G-TB4GXTE2XM"
+conservation.ca.gov,https://geosteam.conservation.ca.gov/,200,,Geothermal Well Search,,,Microsoft-IIS/10.0,,,,X,X,,"G-69TD0KNT0F,G-N4MB98DBXY"
+conservation.ca.gov,https://maps.conservation.ca.gov/,200,,Department of Conservation Map Server,,ASP.NET,,State of California,,,X,X,,"G-69TD0KNT0F,G-XL3D15KXV3,UA-3419582-2,UA-34494709-3"
+conservation.ca.gov,https://www.conservation.ca.gov/,200,,California Department of Conservation,Microsoft SharePoint,ASP.NET,Microsoft-IIS/10.0,,,,X,X,,"G-69TD0KNT0F,G-N4MB98DBXY,UA-34494709-1"
+contracosta.ca.gov,https://www.contracosta.ca.gov/,200,,"Contra Costa County, CA Official Website | Officia...",,,cloudflare,,,,,X,,"G-PC37G0VFEW,GTM-K73C5PS"
+courtinfo.ca.gov,https://www2.courtinfo.ca.gov/ccn/,200,,California Court News,,,volt-adc,,,,,X,,
+courtreportersboard.ca.gov,https://www.courtreportersboard.ca.gov/,200,,Court Reporters Board of California,,,,State of California,,,X,X,,"G-512WQC0YJW,G-69TD0KNT0F,GTM-NBQCVZC,UA-3419582-2,UA-64276560-6"
+courts.ca.gov,https://courts.ca.gov/,200,,California Courts - Home | Judicial Branch of Cali...,Drupal 9 (https://www.drupal.org),,nginx,,,,,,,
+courts.ca.gov,https://newsroom.courts.ca.gov/,200,,Front Page | California Courts Newsroom,Drupal 9 (https://www.drupal.org),,nginx,,,,,,,G-97ALDYA3VI
+courts.ca.gov,https://www.butte.courts.ca.gov/,200,,Home | Superior Court of California | County of Bu...,Drupal 9 (https://www.drupal.org),,nginx,,,,,,,
+courts.ca.gov,https://www.inyo.courts.ca.gov/,200,,Home | Superior Court of California | County of In...,Drupal 9 (https://www.drupal.org),,nginx,,,,,,,
+courts.ca.gov,https://www.lassen.courts.ca.gov/,200,,Home | Superior Court of California | County of La...,Drupal 9 (https://www.drupal.org),,nginx,,,,,,,
+courts.ca.gov,https://www.selfhelp.courts.ca.gov/,200,,Self-Help Guide to the California Courts | Califor...,Drupal 9 (https://www.drupal.org),,nginx,,,,,,,G-K8QM6XJZDN
+courts.ca.gov,https://www.tehama.courts.ca.gov/,200,,"Home | Superior Court of California, County of Teh...",Drupal 9 (https://www.drupal.org),,nginx,,,,,,,
+cpost.ca.gov,https://cpost.ca.gov/,200,,My WordPress Site,,,nginx,,,,,,,
+cppa.ca.gov,https://www.cppa.ca.gov/,200,,California Privacy Protection Agency (CPPA),,,,State of California,,X,X,X,,"G-69TD0KNT0F,G-WFY9PWDBY2,UA-31125811-47,UA-3419582-2"
+cpuc.ca.gov,https://calphoneinfo.cpuc.ca.gov/,200,,"State of California, California Public Utilities C...",,ASP.NET,Microsoft-IIS/10.0,"State of California, California Public Utilities C...",,,,,,"G-G77XY5RQCC,UA-1915322-3,UA-3419582-2"
+cpuc.ca.gov,https://liob.cpuc.ca.gov/,200,,LIOB | Low Income Oversight Board,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-DZDGMK1BF8,G-Y7T2KCM7P1,UA-1915322-16,UA-3419582-2,UA-3419582-47"
+cpuc.ca.gov,https://www.cpuc.ca.gov/,200,,California Public Utilities Commission,,,Microsoft-IIS/10.0,Test Auth,,,,X,,"G-LM6T7RGC27,UA-1915322-1"
+cpuc.ca.gov,https://www.publicadvocates.cpuc.ca.gov/,200,,California Public Advocates Office,,,Microsoft-IIS/10.0,Test Auth,,,,,,"G-SXHD1QGZTZ,UA-1915322-1"
+crb.ca.gov,https://crb.ca.gov/,200,,Home - Colorado River Board,Site Kit by Google 1.178.0,,nginx,,,X,X,,,
+crob.ca.gov,https://crob.ca.gov/,200,,C-ROB – California Rehabilitation Oversight Board,WordPress 6.9.4,,Apache,,,,,X,,G-QLV9BHLEDN
+csac.ca.gov,https://www.cash4college.csac.ca.gov/,200,,Home Page - California Student Aid Commission,,ASP.NET,Microsoft-IIS/10.0,,,,X,X,,"UA-20973992-20,UA-3419582-2"
+csac.ca.gov,https://www.csac.ca.gov/,403,,Home | California Student Aid Commission,,,awselb/2.0,,,,,,HTTP 403,
+csb-cde.ca.gov,https://www.csb-cde.ca.gov/,200,,"California School for the Blind, Fremont",,,,,,,,X,,G-CZVXSCW7Y7
+csd.ca.gov,https://www.csd.ca.gov/,200,,Home,Microsoft SharePoint,ASP.NET,Microsoft-IIS/10.0,State of California,,X,X,X,,"G-69TD0KNT0F,G-HK7CWSQCBM,G-YHZMO9H5F1"
+csdr-cde.ca.gov,https://www.csdr-cde.ca.gov/,200,,CSD Riverside,,,,,,,,X,,G-KM0EBRSG3J
+cslb.ca.gov,https://www.cslb.ca.gov/,200,,CSLB-Home -CSLB,,,,State of California,,X,X,X,,"G-1W465E5H9H,UA-3419582-2,UA-8901380-1"
+csm.ca.gov,https://www.csm.ca.gov/,200,,Commission on State Mandates,,,nginx,State of California,,,X,X,,
+csssa.ca.gov,https://www.csssa.ca.gov/,200,,California State Summer School for the Arts,Site Kit by Google 1.179.0,ASP.NET,Microsoft-IIS/10.0,,,,,X,,G-ANNOUNCEME
+ctc.ca.gov,https://www.ctc.ca.gov/,200,,Commission | Commission on Teacher Credentialing,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-69TD0KNT0F,G-8L1GC3E1C3,G-T1XQR9G39D,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47,UA-3695757-1"
+cuiab.ca.gov,https://cuiab.ca.gov/,200,,California Unemployment Insurance Appeals Board | ...,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-Y7T2KCM7P1,GTM-W6WGLB2,UA-3419582-2,UA-3419582-47"
+cvfpb.ca.gov,https://cvfpb.ca.gov/,200,,Central Valley Flood Protection Board – State of C...,Site Kit by Google 1.178.0,,nginx,,,X,X,X,,
+cvmc.ca.gov,https://cvmc.ca.gov/,200,,Coachella Valley Mountain Conservancy – Our missio...,Site Kit by Google 1.178.0,,nginx,,,X,X,,,
+cvmdistrict.ca.gov,https://cvmdistrict.ca.gov/,200,,"Clovis Veterans Memorial District | Clovis, CA",Wix.com Website Builder,,Pepyaka,,,,,,,"G-BACKGROUND,G-PROVISIONI,G-TRANSLATIO,G-VXSQEMU7U9"
+cwc.ca.gov,https://cwc.ca.gov/,200,,California Water Commission,,,,State of California,,X,,X,,GTM-KZVRVN6
+cwdb.ca.gov,https://cwdb.ca.gov/,200,,CWDB | California Workforce Development Board,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-69TD0KNT0F,G-TQ5Q6K3P3K,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
+cwds.ca.gov,https://cwds.ca.gov/,307,,You are being redirected...,,,Sucuri/Cloudproxy,,,,,,,
+danville.ca.gov,https://www.danville.ca.gov/,200,,"Danville, CA | Official Website",,,Microsoft-IIS/10.0,,,,,X,,"G-K6CCK2JPQ9,GTM-K73C5PS"
+data.ca.gov,https://data.ca.gov/,200,,Welcome - California Open Data,ckan 2.9.11,,cloudflare,,,X,,X,,"G-1VQT1C4PTE,G-YZK8JCN4R2,G-ZG8VBX1CS3,GTM-TKCM6M7"
+data.ca.gov,https://gis.data.ca.gov/,200,,California State Geoportal,,,,,,,,,,G-YFDZVCCSGC
+data.ca.gov,https://handbook.data.ca.gov/,200,,Open Data Handbook | CAWeb,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-S7KNWXCGXE,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
+data.ca.gov,https://waterchallenge.data.ca.gov/,200,,CA Water Data Challenge |,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-Y5H6H10KWM,G-Y7T2KCM7P1,UA-23110710-31,UA-3419582-2,UA-3419582-47"
+dbc.ca.gov,https://www.dbc.ca.gov/,200,,Dental Board of California,,,,State of California,,,X,X,,"G-08SZZ6P9LW,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-8"
+dc-cde.ca.gov,https://www.dc-cde.ca.gov/,200,,Diagnostic Centers - Special Education (CA Dept of...,Jekyll v3.8.5,,,,,,,X,,
+dca.ca.gov,https://www.dca.ca.gov/,200,,Department of Consumer Affairs (DCA),,,,"Department of Consumer Affairs, State of Californi...",,X,X,,,"G-69TD0KNT0F,G-F2FZM7Q8TN,GTM-M683DJB,GTM-NBQCVZC,GTM-NJ6Q4MV,UA-21974567-32,UA-3419582-2"
+dcc-cde.ca.gov,https://www.dcc-cde.ca.gov/,200,,"Diagnostic Center, Central California (DCC)",,,,,,,,X,,G-DMB73EY1PT
+dcn-cde.ca.gov,https://www.dcn-cde.ca.gov/,200,,"Diagnostic Center, Northern California (DCN)",,,,,,,,X,,"G-OLDSACRAME,G-WBWQR22BJZ"
+dcs-cde.ca.gov,https://www.dcs-cde.ca.gov/,200,,"Diagnostic Center, Southern California",,,,,,,,X,,G-Z7339LS5S2
+dcss.ca.gov,https://dcss.ca.gov/,200,,Dept. Child Support Services - Information about C...,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-5433YW1BYG,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
+dcss.ca.gov,https://parentage.dcss.ca.gov/,200,,Parentage |,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-69TD0KNT0F,G-MBVQ9WT0E1,G-Y7T2KCM7P1,UA-21974567-48,UA-3419582-2,UA-3419582-47"
+dds.ca.gov,https://www.dds.ca.gov/,200,,Home : CA Department of Developmental Services,,,Apache/2.4.66 (Ubuntu),California Department of Developmental Services,,X,X,X,,GTM-N97XDWN
+delta.ca.gov,https://delta.ca.gov/,200,,Delta Protection Commission – Committed to the Pro...,Site Kit by Google 1.178.0,,nginx,,,X,X,X,,"G-YB8LP09907,UA-20973992-19,UA-3419582-2"
+deltaconservancy.ca.gov,https://deltaconservancy.ca.gov/,200,,Delta Conservancy – Welcome,Site Kit by Google 1.178.0,,nginx,State of California,,X,X,X,,G-34GCW1F9KH
+deltacouncil.ca.gov,https://www.deltacouncil.ca.gov/,200,,Delta Stewardship Council,,ASP.NET,Microsoft-IIS/10.0,State of California,,,X,X,,G-J0HKBXFMWX
+dfpi.ca.gov,https://dfpi.ca.gov/,200,,DFPI - The Department of Financial Protection and ...,DFPI Divi Child Theme v.1.0.0,WP Engine,cloudflare,,,,,X,,"G-0B3643799C,G-32D447E14B,G-558973C0FD,G-64F21F7C3F,G-8A5471F88C,G-951D1725BE,G-BEC020F63C,G-DEAE874833,G-EE9A158A7B,G-F43B551B74,G-F6029C9491,G-LDV6PXRQJZ,GTM-PLCHW6B,UA-1915322-1"
+dgs.ca.gov,https://www.dgs.ca.gov/,200,,DGS,,,Microsoft-IIS/10.0,,,X,,X,,"GTM-5D4N99T,UA-19802602-2"
+dhbc.ca.gov,https://www.dhbc.ca.gov/,200,,Dental Hygiene Board of California,,,,California Department of Consumer Affairs,,,X,X,,"G-69TD0KNT0F,G-K5HC50T3RN,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-7"
+dhcs.ca.gov,https://portal.dhcs.ca.gov/,200,,Login for DHCS Application Portal,,,AmazonS3,,,,,,,
+dhcs.ca.gov,https://www.dental.dhcs.ca.gov/,200,,Welcome to the Medi-Cal Dental Program,,ASP.NET,Microsoft-IIS/10.0,,,,X,X,,"G-1CEWEWFPWS,GTM-KVM7FWB"
+dhcs.ca.gov,https://www.dhcs.ca.gov/,200,,DHCS Homepage,,,,,,,,,,
+dir.ca.gov,https://www.dir.ca.gov/,200,,California Department of Industrial Relations - Ho...,,ASP.NET,Microsoft-IIS/10.0,Department of Industrial Relations - Home Page,,X,X,X,,"G-69TD0KNT0F,G-75V2BNQ3DR,G-9C30LB4KFJ,UA-3419582-2,UA-3419582-30,UA-5092920-1"
+dmac.ca.gov,https://www.dmac.ca.gov/,200,,Disaster Management Area C,,PHP/8.2.30,Apache,,,,,X,"Fetch error: fetch failed Connect Timeout Error (attempted address: www.dmac.ca.gov:443, timeout: 15000ms)",
+dmhc.ca.gov,https://www.dmhc.ca.gov/,200,,California Department of Managed Health Care,,,,,,X,X,X,,"G-69TD0KNT0F,G-ZGVNWLCQD3"
+dmv.ca.gov,https://www.dmv.ca.gov/portal/,200,,California DMV,,,volt-adc,,,,,,,GTM-KHCVGH4
+dof.ca.gov,https://dof.ca.gov/,200,,California Department of Finance,,,volt-adc,,,X,X,,,"G-2LNG7V2TGM,GTM-NJ6Q4MV"
+dor.ca.gov,https://www.dor.ca.gov/,200,,Home Page - CA Department of Rehabilitation,,ASP.NET,Microsoft-IIS/10.0,webmaster@dor.ca.gov,,X,X,,,"G-69TD0KNT0F,G-74S7YNBTH1,UA-21431721-18,UA-3419582-2"
+dot.ca.gov,https://caltrans-gis.dot.ca.gov/portal/home/,200,,,,ASP.NET,Microsoft-IIS/10.0,,,,,,,
+dot.ca.gov,https://cleancalifornia.dot.ca.gov/,200,,CleanCalifornia | Caltrans,,,Microsoft-IIS/10.0,State of California,,X,X,X,,"G-69TD0KNT0F,G-KSEZWYWEFM,UA-21431721-46"
+dot.ca.gov,https://csr.dot.ca.gov/,200,,Submit Customer Service Request,,,,"State of California, Caltrans",,,X,X,,"UA-21431721-9,UA-3419582-2"
+dot.ca.gov,https://dot.ca.gov/,200,,California Department of Transportation | Caltrans,,,Microsoft-IIS/10.0,State of California,,X,X,X,,"G-69TD0KNT0F,G-PXR8P55JR4,G-WLDEF7NZZ2,GTM-573PLG9"
+dot.ca.gov,https://heliplates.dot.ca.gov/,200,,Division of Aeronautics,,,,"State of California, Caltrans",,,X,X,,
+dot.ca.gov,https://ig.dot.ca.gov/,200,,Inspector General - California Department of Trans...,,,Microsoft-IIS/10.0,State of California,,X,X,X,,"G-2E0Z1X4NN2,G-69TD0KNT0F"
+dot.ca.gov,https://nhts.dot.ca.gov/,200,,National Household Travel Survey,,,,"State of California, Caltrans",,,X,X,,"UA-21431721-9,UA-3419582-2"
+dot.ca.gov,https://postmile.dot.ca.gov/PMQT/PostmileQueryTool.html,200,,Postmile Services,,,,"State of California, Caltrans",,,X,X,,"UA-21431721-9,UA-3419582-2"
+dot.ca.gov,https://ppmoe.dot.ca.gov/cc,200,,Home - Contractors Corner | Caltrans,,,snow_adc,,,,,,,"G-MULTISELEC,G-RESPONSIVE,G-TRANSCLUDE"
+dot.ca.gov,https://quickmap.dot.ca.gov/,200,,QuickMap,,,Apache,,,,,,,"G-77921BS1SZ,UA-21431721-9,UA-3419582-2"
+dot.ca.gov,https://roadmaptoresearch.dot.ca.gov/,200,,Roadmap to Research,,,Apache,California Department of Transportaion - Cultural ...,,,X,X,,UA-3419582-2
+dot.ca.gov,https://roads.dot.ca.gov/,200,,Division of Traffic Operations - Road Information ...,,,,"State of California, Caltrans",,,X,X,,
+dot.ca.gov,https://shsp.dot.ca.gov/,200,,Caltrans | SHSP - Home,,,,State of California,,,X,X,,"G-WLDEF7NZZ2,GTM-NJ6Q4MV"
+dot.ca.gov,https://travelpocketguide.dot.ca.gov/public/,200,,Pocket Travel Guide,,,,"State of California, Caltrans",,,X,X,,"UA-21431721-9,UA-3419582-2"
+dot.ca.gov,https://utilitypocketguide.dot.ca.gov/public/,200,,Pocket Utility Guide,,,,"State of California, Caltrans",,,X,X,,"UA-21431721-9,UA-3419582-2"
+dre.ca.gov,https://bars.dre.ca.gov/,200,,Business Activity Reporting System - DRE,,ASP.NET,Microsoft-IIS/10.0,State of California,,,X,X,,
+dre.ca.gov,https://ears.dre.ca.gov/,200,,Escrow Activity Reporting System - DRE,,DRE,,State of California,,,X,X,,
+dre.ca.gov,https://eocs.dre.ca.gov/,200,,Enforcement Online Complaints,,DRE,,State of California Department of Real Estate,,,,X,,
+dre.ca.gov,https://secure.dre.ca.gov/,200,,Welcome to the California Department of Real Estat...,,ASP.NET,Microsoft-IIS/10.0,,,,,X,,"G-5GPR0BKX57,UA-19741714-1,UA-3419582-2"
+dre.ca.gov,https://sprls.dre.ca.gov/,200,,Subdivision Public Reports Lookup System,,DRE,,State of California,,,X,X,,
+dre.ca.gov,https://www.dre.ca.gov/,200,,California Department of Real Estate,,ASP.NET,Microsoft-IIS/10.0,California Department of Real Estate,,X,,X,,G-N2491HJ7H9
+drinc.ca.gov,https://www.drinc.ca.gov/,404,,Not Found,,,Microsoft-HTTPAPI/2.0,,,,,,HTTP 404,
+driveclean.ca.gov,https://driveclean.ca.gov/,200,,DriveClean | Clean Car Buying Guide,Drupal 10 (https://www.drupal.org),,nginx,,,,,,,G-K1QKLZJMS0
+dsh.ca.gov,https://www.dsh.ca.gov/,200,,California Department of State Hospitals,,ASP.NET,Microsoft-IIS/10.0,State of California,,X,X,X,,GTM-P37W8DW
+dtsc.ca.gov,https://dtsc.ca.gov/,200,,Department of Toxic Substances Control | DTSC,CAWeb v.1.13.3,WP Engine,cloudflare,,,X,X,X,,"G-69TD0KNT0F,G-BX3ZL33DPB,G-Y7T2KCM7P1,GTM-P9NCLJT,UA-19066778-1,UA-3419582-2,UA-3419582-47"
+dtsc.ca.gov,https://evq.dtsc.ca.gov/Home.aspx,200,,Electronic Verification Questionnaire (eVQ) System,,,cloudflare,,,,X,X,,"G-69TD0KNT0F,G-6GHG284R8P,UA-19066778-5,UA-3419582-14,UA-3419582-2"
+dtsc.ca.gov,https://hwts.dtsc.ca.gov/,200,,Hazardous Waste Tracking System,,ASP.NET,cloudflare,,,,X,X,,"G-69TD0KNT0F,G-J9LBN7HTWJ"
+dtsc.ca.gov,https://tempid.dtsc.ca.gov/,200,,Temporary State ID Number Issuance,,ASP.NET,cloudflare,,,,X,X,,"UA-19066778-9,UA-3419582-14,UA-3419582-2"
+dtsc.ca.gov,https://tqr.dtsc.ca.gov/,200,,Transporter Quarterly Report,,ASP.NET,cloudflare,,,,X,X,,"G-1M36NQSZBV,G-69TD0KNT0F,UA-19066778-1,UA-19066778-11,UA-3419582-2"
+dublin.ca.gov,https://gis.dublin.ca.gov/arcgis/rest/,200,,Folder: /,,ASP.NET,"Microsoft-IIS/8.5, ",,,,,,,
+dublin.ca.gov,https://www.dublin.ca.gov/,200,,"Dublin, CA - Official Website | Official Website",,,,,,,,X,,"G-6REM15SLX9,G-J43R5LMW0E,GTM-K73C5PS"
+eaap.ca.gov,https://eaap.ca.gov/,200,,Education Audit Appeals Panel |,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-V284CPG2YF,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
+earthquake.ca.gov,https://www.earthquake.ca.gov/,200,,California Earthquake Early Warning – California E...,CAWeb v.1.13.0,,,State of California,,X,X,X,,"G-4NK0NC7W6K,G-69TD0KNT0F,UA-3419582-2"
+ebt.ca.gov,https://www.ebt.ca.gov/cardholder/,200,,CardHolder Portal,,,,,,,,,,
+ebtproject.ca.gov,https://www.ebtproject.ca.gov/,200,,EBT Project,,ASP.NET,Microsoft-IIS/10.0,State of California,,,X,X,,
+ebudget.ca.gov,https://ebudget.ca.gov/,200,,California Budget,,,volt-adc,,,,,X,,G-4W7GTR6KWV
+ecos.ca.gov,https://ecos.ca.gov/Login.aspx,200,,Exam and Cert Online System - Admin,,ASP.NET,,State of California,,,,X,,
+edd.ca.gov,https://askedd.edd.ca.gov/s/,200,,AskEDD,,,,,,,,,,"G-P1RJ1L0W4D,GTM-MCW7ZGX"
+edd.ca.gov,https://edd.ca.gov/,200,,Employment Development Department | California,,ASP.NET,Microsoft-IIS/10.0,Employment Development Department,,,X,X,,"G-69TD0KNT0F,G-KF25MR5YHK,GTM-N8KVMBR,UA-3419582-31"
+edd.ca.gov,https://eddservices.edd.ca.gov/,200,,Employer Services Online,,,,,,,,,,
+edd.ca.gov,https://forms.edd.ca.gov/Forms,200,,Online Forms and Publications,,,Apache,Employment Development Department,,,,X,,"GTM-N8KVMBR,UA-3419582-2,UA-3419582-31"
+edd.ca.gov,https://labormarketinfo.edd.ca.gov/,200,,EDD Labor Market Information Division - Home Page,,ASP.NET,,Employment Development Department,,,X,X,,"G-ZQ9HCV9HTL,GTM-KKXR5S9,UA-3419582-31"
+edd.ca.gov,https://myedd.edd.ca.gov/s/login/?language=en_US,200,,Login Template Title,,,,,,,X,,,"G-FQKRWT9FKB,GTM-NHCC9Q8"
+eldoradocounty.ca.gov,https://gis.eldoradocounty.ca.gov/portal/home/,200,,,,,Microsoft-IIS/10.0,,,,,,,
+eldoradocounty.ca.gov,https://www.eldoradocounty.ca.gov/Home,200,,Home - El Dorado County,OpenCities - https://granicus.com/product/openciti...,,,,,,,X,,G-4QFQNQ89RW
+emsa.ca.gov,https://www.emsa.ca.gov/caemsa,200,,Home - EMSA,,,cloudflare,,,,,,,"G-36CV9LSWNK,G-69TD0KNT0F,G-MULTISELEC,G-RESPONSIVE,G-TRANSCLUDE,G-Y7T2KCM7P1,UA-23110710-29,UA-3419582-2,UA-3419582-47"
+energy.ca.gov,https://appportal.energy.ca.gov/Account/Login,200,,Log in - California Energy Commission,,ASP.NET,Microsoft-IIS/10.0,,,,X,X,,
+energy.ca.gov,https://calshape.energy.ca.gov/,200,,Home Page - California Energy Commission,,ASP.NET,Microsoft-IIS/10.0,State of California,,,X,X,,
+energy.ca.gov,https://seeds.energy.ca.gov/,200,,Home Page - California Energy Commission,,ASP.NET,Microsoft-IIS/10.0,,,,X,X,,
+energy.ca.gov,https://www.energy.ca.gov/,200,,Home Page-California Energy Commission,Drupal 11 (https://www.drupal.org),PHP/8.3.26,Apache/2.4.62 (Red Hat Enterprise Linux) OpenSSL/3.5.1,,,X,,,,G-B5BLHWHE7P
+energysafety.ca.gov,https://energysafety.ca.gov/,200,,Office of Energy Infrastructure Safety | Driving u...,CAWeb v.1.9.0,,nginx,State of California,,X,X,X,,"G-69TD0KNT0F,G-DCP197HRSL"
+escog.ca.gov,https://escog.ca.gov/,200,,EASTERN SIERRA COUNCIL OF GOVERNMENTS JOINT POWERS...,,,Squarespace,,,,,,,"G-013F66E7C6,G-2F49DC7692,G-43AF232B5B,G-48793B863E,G-5CGC3ET1CB,G-701BF8BBC0,G-86AACD645D,G-902FAAFCE0,G-920708D91C,G-975CECE8DE,G-ALTERNATIN,G-B1BA7891C2,G-B685267B79,G-C63BF8989A,G-COLLECTION,G-D22EABECA1,G-DB8F466935,G-DBE066AE53,G-F9093F2D52"
+etp.ca.gov,https://etp.ca.gov/,200,,Employment Training Panel | Employment Training Pa...,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-69TD0KNT0F,G-CTKM4GM02H,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47,UA-64276560-40"
+eureka.ca.gov,https://arcgis.ci.eureka.ca.gov/portal/home/,200,,,,ASP.NET,"Microsoft-IIS/10.0, ",,,,,,,
+expositionpark.ca.gov,https://expositionpark.ca.gov/,200,,Exposition Park – Welcome,Site Kit by Google 1.178.0,,nginx,State of California,,X,X,X,,"UA-3419582-2,UA-59627195-10"
+fairfield.ca.gov,https://www.fairfield.ca.gov/,403,,"Fairfield, CA | Home",,,cloudflare,,,,,,HTTP 403,
+familieschange.ca.gov,https://familieschange.ca.gov/,200,,Home | Familieschange California,Drupal 7 (http://drupal.org),,Apache/2.4.52 (Ubuntu),,,,,X,,"GTM-KHQRW8K,UA-42225500-1"
+fgc.ca.gov,https://fgc.ca.gov/,200,,California Fish and Game Commission Home Page,,,,,,,X,,,G-QHR5ZZWW7J
+fiduciary.ca.gov,https://www.fiduciary.ca.gov/,200,,Department of Consumer Affairs Professional Fiduci...,,,,State of California,,,X,X,,"GTM-M683DJB,GTM-NBQCVZC"
+film.ca.gov,https://film.ca.gov/,200,,California Film Commission | State of California,CAWeb v.1.5.2a,PHP/7.4.8,Apache,State of California,,,X,X,,G-JDMK21MWQ4
+fire.ca.gov,https://bof.fire.ca.gov/,200,,Board of Forestry & Fire Protection | BOF,,,Microsoft-IIS/10.0,Author,,X,,X,HTTP 403,"G-D4LDDPK7X7,UA-12131957-10,UA-3419582-2"
+fire.ca.gov,https://burnpermit.fire.ca.gov/,200,,Home | CAL FIRE Burn Permits,,,Microsoft-IIS/10.0,Author,,X,,X,HTTP 403,"G-TCY9FCQZSL,UA-12131957-10,UA-3419582-2"
+fire.ca.gov,https://osfm.fire.ca.gov/,200,,Office of the State Fire Marshal | OSFM,,,Microsoft-IIS/10.0,Author,,,,X,,"G-HN6DJN3Q1W,UA-12131957-10,UA-3419582-2"
+fire.ca.gov,https://www.fire.ca.gov/,200,,California Department of Forestry and Fire Protect...,,,Microsoft-IIS/10.0,Author,,,,X,,"G-DJY7D8Z6M7,UA-12131957-10,UA-3419582-2"
+firewood.ca.gov,https://www.firewood.ca.gov/,200,,California Firewood Task Force | Home,,,,,,,,X,,
+first5.ca.gov,https://www.first5.ca.gov/,200,,First 5 California - Improving Lives of California...,,ASP.NET,Microsoft-IIS/10.0,,,X,,X,,G-ZPMNSRN8SN
+fiscal.ca.gov,https://fiscal.ca.gov/,200,,FI$Cal - State of California|,Divi Child v.3.11.1.1533591462,PHP/8.3.29,nginx,,,X,,X,,"GTM-5TVLDSK,UA-3419582-2"
+fosteryouthhelp.ca.gov,https://fosteryouthhelp.ca.gov/,200,,FYH | Foster Youth Help,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-4RW3WH91Z0,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-31125811-40,UA-3419582-2,UA-3419582-47"
+fppc.ca.gov,https://www.fppc.ca.gov/,200,,California Fair Political Practices Commission (FP...,,,cloudflare,Fair Political Practices Commission,,,,,,"G-1V1D6GRFKL,G-75V2BNQ3DR,GTM-NJ6Q4MV,UA-22860881-1,UA-3419582-2"
+ftb.ca.gov,https://www.ftb.ca.gov/,200,,Franchise Tax Board Homepage | FTB.ca.gov,,,,Franchise Tax Board,,X,X,,,"G-EQVZX0SCVD,GTM-NJ6Q4MV"
+genai.ca.gov,https://www.genai.ca.gov/,200,,GenAI | Generative Artificial Intelligence,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-1C09FYTTJ3,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
+gov.ca.gov,https://careereducation.gov.ca.gov/,200,,California Governor's Council for Career Education...,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-Q122BB7YXT,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
+gov.ca.gov,https://www.gov.ca.gov/,200,,Governor of California,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-2G5GML7PQ6,G-69TD0KNT0F,G-Y7T2KCM7P1,GTM-TP25MN7,UA-3419582-2,UA-3419582-28,UA-3419582-47"
+govops.ca.gov,https://www.govops.ca.gov/,200,,GovOps | Government Operations,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-69TD0KNT0F,G-Y7T2KCM7P1,UA-20973992-24,UA-3419582-2,UA-3419582-47"
+granada.ca.gov,https://granada.ca.gov/,200,,Homepage Granada Community Services District,,,nginx,,,,,,,
+grants.ca.gov,https://www.grants.ca.gov/,200,,Home - California Grants Portal,,,nginx,,,,,X,,GTM-WFDBH54
+green.ca.gov,https://www.green.ca.gov/,200,,Green CA Application,,ASP.NET,Microsoft-IIS/10.0,"State of California, Green California",,X,X,X,,"UA-24087628-30,UA-3419582-2"
+hcai.ca.gov,https://corc.hcai.ca.gov/,200,,CORC,,ASP.NET,Microsoft-IIS/10.0,State of California,,,,,,
+hcai.ca.gov,https://hcai.ca.gov/,200,,HCAI - Department of Health Care Access and Inform...,,,nginx,,,X,,X,,
+hcai.ca.gov,https://report.hcai.ca.gov/,200,,Report Center - HCAI,,ASP.NET,Microsoft-IIS/10.0,,,,,X,,
+hcd.ca.gov,https://www.hcd.ca.gov/,200,,California Department of Housing and Community Dev...,Drupal 10 (https://www.drupal.org),PHP/8.3.29,,,,X,,X,,"GTM-5SNF3QP,GTM-NKB5FR7"
+hcrc.ca.gov,https://www.hcrc.ca.gov/,200,,Habeas Corpus Resource Center (HCRC),,,,Habeas Corpus Resource Center (HCRC),,,X,,,UA-20973992-30
+healthcarevolunteers.ca.gov,https://healthcarevolunteers.ca.gov/,200,,RMS,,,envoy,,,,,,,
+healthexchange.ca.gov,https://healthexchange.ca.gov/,200,,California's Health Benefit Exchange,,ASP.NET,Microsoft-IIS/10.0,,,,X,X,,
+heber.ca.gov,https://www.heber.ca.gov/,200,,Home | The Heber Public Utility District,Drupal 8 (https://www.drupal.org),,nginx/1.25.5,,,,,,,
+hellosavings.ca.gov,https://hellosavings.ca.gov/,200,,Hello Savings!,,ASP.NET,Microsoft-IIS/10.0,California Public Utilities Commission,,,,X,,"G-HTYPNEVXNL,UA-15934248-11,UA-1915322-13,UA-23611081-1"
+heritageranchcsd.ca.gov,https://www.heritageranchcsd.ca.gov/,200,,Homepage Heritage Ranch Community Services Distric...,,,nginx,,,,,,,UA-40786643-1
+highlandsrec.ca.gov,https://highlandsrec.ca.gov/,200,,Homepage Highlands Recreation District,,,nginx,,,,,,,
+hollister.ca.gov,https://hollister.ca.gov/,200,,"Hollister, CA",,,,,,,,X,,G-958N9729GE
+holtville.ca.gov,https://www.holtville.ca.gov/,200,,City of Holtville,WordPress 7.0,,nginx,,,,,X,,G-2113MM4S7R
+hsr.ca.gov,https://hsr.ca.gov/,200,,California High Speed Rail,,,,,,,,,,
+hsr.ca.gov,https://portal.hsr.ca.gov/,200,,HSR Service Portal,,,,,,,,,,
+ibank.ca.gov,https://ibank.ca.gov/,200,,California Infrastructure and Economic Development...,CAWeb v.1.5.2a,,Apache,State of California,,,X,X,,G-SMHZVBEWVK
+iep.ca.gov,https://iep.ca.gov/,200,,Interagency Ecological Program > Home,,,,,,,X,X,,G-YSTKZ5TE6T
+immigrantguide.ca.gov,https://www.immigrantguide.ca.gov/,403,,California Immigrant Guide : Home,,,,,,,,,HTTP 403,
+imperial.ca.gov,https://gis.imperial.ca.gov/portal/home/,200,,,,,Microsoft-IIS/10.0,,,,,,,
+innovation.ca.gov,https://innovation.ca.gov/,200,,Office of Data and Innovation,,,AmazonS3,Office of Innovation - State of California,,X,,,,GTM-PQRTS7Z
+insurance.ca.gov,https://seniors.insurance.ca.gov/,200,,California Seniors,CommonSpot Build 10.9.1.579,ASP.NET,Microsoft-IIS/10.0,,,,,X,,"G-7KBM6NS4N5,UA-3419582-2,UA-35348113-1"
+insurance.ca.gov,https://www.insurance.ca.gov/,200,,CA Department of Insurance,CommonSpot Build 10.9.1.579,ASP.NET,Microsoft-IIS/10.0,State of California,,X,,X,,"G-6MLHRYZYQV,UA-23180855-1,UA-3419582-2"
+judicialethicsopinions.ca.gov,https://www.judicialethicsopinions.ca.gov/,200,,California Supreme Court Committee on Judicial Eth...,All in One SEO (AIOSEO) 4.4.8,,nginx,,,,,X,,
+labor.ca.gov,https://saferatwork.labor.ca.gov/,200,,Safer At Work | California for All,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-WN09725CCD,G-Y7T2KCM7P1,GTM-5LKL585,UA-21974567-38,UA-3419582-2,UA-3419582-47"
+labor.ca.gov,https://www.labor.ca.gov/,200,,LWDA | Labor & Workforce Development Agency,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-Y7T2KCM7P1,G-YSQBHYZ0HH,UA-24087628-9,UA-3419582-2,UA-3419582-47"
+lao.ca.gov,https://www.lao.ca.gov/,200,,Legislative Analyst’s Office,,ASP.NET,cloudflare,,,,,X,,G-V20H6V9DXQ
+latc.ca.gov,https://www.latc.ca.gov/,200,,California Landscape Architects Technical Committe...,,,,California Landscape Architects Technical Committe...,,,X,X,,"G-69TD0KNT0F,G-PG8SJMY8J6,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-12"
+lcf.ca.gov,https://gis.lcf.ca.gov/arcgis/rest/services/,200,,Folder: /,,ASP.NET,Microsoft-IIS/10.0,,,,,,,
+lcf.ca.gov,https://lcf.ca.gov/,200,,City of La Cañada Flintridge,All in One SEO (AIOSEO) 4.9.7.2,WP Engine,nginx,,,,,X,,"G-4WZC2R9V15,G-COMMISSION"
+lci.ca.gov,https://ceqanet.lci.ca.gov/,200,,CEQAnet,,,,The Governor's Office of Land Use and Climate Inno...,,,X,X,,G-4BWDLL1JK4
+lci.ca.gov,https://www.lci.ca.gov/,200,,Governor's Office of Land Use and Climate Innovati...,WordPress 6.9.4,PHP/8.3.29,nginx,,,X,X,X,,"G-69TD0KNT0F,G-K9SCBG6G33"
+leginfo.ca.gov,https://www.leginfo.ca.gov/,200,,Official California Legislative Information,,,cloudflare,,,,,,,
+legislativecounsel.ca.gov,https://legislativecounsel.ca.gov/,200,,Welcome to the Legislative Counsel of California |...,,,cloudflare,,,,,X,,
+legislature.ca.gov,https://leginfo.legislature.ca.gov/,200,,California Legislative Information,,,Apache,,,,,,,
+lemongrove.ca.gov,https://www.lemongrove.ca.gov/,200,,Home | Lemon Grove,,,,,,,,X,,G-STQ0986EH9
+letsgethealthy.ca.gov,https://letsgethealthy.ca.gov/,200,,Let's Get Healthy California,"Powered by Slider Revolution 6.7.41 - responsive, ...",WP Engine,cloudflare,,,,,X,,GTM-583MD7K
+lgma.ca.gov,https://lgma.ca.gov/,200,,California Leafy Greens Marketing Agreement | Home...,SEOmatic,"Craft CMS, SEOmatic",nginx,,,,,X,,UA-1545484-20
+lhc.ca.gov,https://lhc.ca.gov/,200,,Home - Little Hoover Commission,WordPress 6.9.1,,sitedistrict-nginx,,,,,X,,
+library.ca.gov,https://www.governors.library.ca.gov/,200,,Governors of California,,,Microsoft-IIS/10.0,California State Library,,,,X,,"G-P6576W6TR3,UA-15543597-5,UA-3419582-2"
+library.ca.gov,https://www.library.ca.gov/,403,,Home - California State Library,,,CloudFront,,,,,,HTTP 403,
+loomis.ca.gov,https://loomis.ca.gov/,403,,"Home - Loomis, CA",,,,,,,,,HTTP 403,
+losaltoshills.ca.gov,https://www.losaltoshills.ca.gov/,200,,"Los Altos Hills, CA | Official Website",,,Microsoft-IIS/10.0,,,,,X,,"G-B31D08W17S,GTM-K73C5PS"
+ltg.ca.gov,https://ltg.ca.gov/,200,,Lieutenant Governor - Office of the Lt. Governor o...,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-69TD0KNT0F,G-T47RW7TGKE,G-Y7T2KCM7P1,UA-21431721-7,UA-3419582-2,UA-3419582-47"
+madeincalifornia.ca.gov,https://www.madeincalifornia.ca.gov/,200,,Made in California,CAWeb v.1.5.2a,,Apache,State of California,,,X,X,,G-SEYPRR85FP
+mbc.ca.gov,https://www.mbc.ca.gov/,200,,Home | Medical Board of California,,Medical Board of California,Microsoft-IIS/10.0,,,,,,,"G-VZEZFBT2Z2,GTM-NJ6Q4MV"
+mdaqmd.ca.gov,https://www.mdaqmd.ca.gov/,200,,Mojave Desert Air Quality Management District | Ho...,,,AkamaiGHost,,,,,,,"G-4QOHCHA0IA,G-AKAUD7QYWY,G-MWLPGMCV36,G-SPG9PZFWE9,G-TQXR61GSG_"
+medalofvalor.ca.gov,https://medalofvalor.ca.gov/,200,,Medal of Valor Awards - Home,,ASP.NET,Microsoft-IIS/10.0,State of California,,X,X,X,,UA-3419582-2
+medi-cal.ca.gov,https://mcweb.apps.prd.cammis.medi-cal.ca.gov/,200,,State of California,,,,State of California,,,X,,,G-8G032ZWHBJ
+meganslaw.ca.gov,https://www.meganslaw.ca.gov/Disclaimer,200,,Disclaimer - Megan's Law Website,,,,,,,,X,,
+mentalhealth.ca.gov,https://www.mentalhealth.ca.gov/,200,,Mental health for all,,ASP.NET,,State of California,,X,X,,,"G-P7T6SMN0LM,GTM-NJ6Q4MV"
+metrofire.ca.gov,https://metrofire.ca.gov/,200,,Homepage Sacramento Metropolitan Fire District,,,nginx,,,,,,,
+militarycouncil.ca.gov,https://militarycouncil.ca.gov/,200,,Military Council | State of CA Governor's Military...,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-9V2RHGT1EJ,G-Y7T2KCM7P1,UA-21970760-36,UA-3419582-2,UA-3419582-47"
+mlfd.ca.gov,https://mlfd.ca.gov/,200,,Mammoth Lakes Fire Department | Mammoth Lakes Cali...,WordPress 6.9.4,,nginx,,,,,X,,
+monocounty.ca.gov,https://www.monocounty.ca.gov/,200,,Home Page | Mono County California,,PHP/5.6.25,cloudflare,,,,,,,"G-WUC71WTDBE,UA-22821328-1"
+montereypark.ca.gov,https://www.montereypark.ca.gov/,200,,"Monterey Park, CA - Official Website | Official We...",,,Microsoft-IIS/10.0,,,,,X,,"G-4YGXQ16LXK,GTM-K73C5PS,UA-83428977-1"
+montezumafiredistrictsolano.ca.gov,https://www.montezumafiredistrictsolano.ca.gov/,200,,Montezuma Fire Protection District – Official webs...,WordPress 6.9.4,,nginx,,,,,X,,
+morganhill.ca.gov,https://www.morganhill.ca.gov/,200,,"City of Morgan Hill, CA - Official Website | Offic...",,,Microsoft-IIS/10.0,,,,,X,,"G-PMD5WBK6KL,GTM-K73C5PS"
+mrca.ca.gov,https://mrca.ca.gov/,200,,MRCA,WordPress 6.9.4,,nginx,,,X,,X,,UA-1633733-24
+mrcapublicsafety.ca.gov,http://www.mrcapublicsafety.ca.gov/,200,,MRCA Public Safety,,ASP.NET,Microsoft-IIS/6.0,,,,,,,
+mtc.ca.gov,https://mtc.ca.gov/,200,,Metropolitan Transportation Commission | MTC is th...,Drupal 11 (https://www.drupal.org),,nginx,,,,,X,,"G-875ZLGCEXJ,G-JA30TM2_8L,GTM-55J6L25"
+mywaterquality.ca.gov,https://www.mywaterquality.ca.gov/,200,,Home | MyWaterQuality,,,Apache,State of California,,,X,X,,G-V9VPD8TNV4
+nahc.ca.gov,https://nahc.ca.gov/,200,,California Native American Heritage Commission,Site Kit by Google 1.178.0,,nginx,,,X,X,X,,"UA-3419582-2,UA-59627195-7"
+napa.ca.gov,https://gis.napa.ca.gov/rcu/roadclosures.pdf,200,,,,ASP.NET,Microsoft-IIS/10.0,,,,,,,
+naturopathic.ca.gov,https://www.naturopathic.ca.gov/,200,,Department of Consumer Affairs - California Board ...,,,,State of California,,,X,X,,"G-3CN4M8F95X,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-13"
+ncric.ca.gov,https://ncric.ca.gov/,200,,Public Awareness and Safety Programs |San Francisc...,WordPress 6.9.4,,cloudflare,,,,,X,,
+ncsd.ca.gov,https://ncsd.ca.gov/,200,,"Nipomo Community Services District | NSCD Nipomo, ...",Powered by WPBakery Page Builder - drag and drop p...,,nginx,,,,,X,,
+nctc.ca.gov,https://www.nctc.ca.gov/,200,,Nevada County Transportation Commission - Home,,ASP.NET,Microsoft-IIS/10.0,,,,,X,,G-507R801X2W
+nmvb.ca.gov,https://www.nmvb.ca.gov/,200,,NMVB Home Page,,ASP.NET,Microsoft-IIS/10.0,State of California,,,X,X,,"G-2DWD3387QF,GTM-NFWKKCR,UA-24087628-12"
+nvta.ca.gov,https://nvta.ca.gov/,200,,Home - NVTA,,,nginx,,,,,X,,
+oag.ca.gov,https://www.oag.ca.gov/,200,,State of California - Department of Justice - Offi...,Drupal 7 (http://drupal.org),,Apache,,,,,X,,"G-6SNZMLLM7F,G-DXZX4ZWKS8"
+oal.ca.gov,https://oal.ca.gov/,200,,OAL | Office of Administrative Law,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-3LCY3X8048,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-20973992-16,UA-3419582-2,UA-3419582-47"
+ociac.ca.gov,https://ociac.ca.gov/,200,/(X(1)S(4dmu5rawipek2esefacu5xbs))/default.aspx?As...,Orange County Intelligence Assessment Center - Hom...,,,,,,,,,,UA-47341125-1
+oehha.ca.gov,https://oehha.ca.gov/,200,,OEHHA - Office of Environmental Health Hazard Asse...,,,,,,,,,,
+oig.ca.gov,https://www.oig.ca.gov/,200,,Home - Office of the Inspector General,WordPress 7.0,,,,,,,X,,GTM-KRLFFB4
+ojai.ca.gov,https://www.ojai.ca.gov/,200,,"Ojai, CA | Official Website",,,,,,,,X,,"G-2WPLDT68FY,GTM-K73C5PS"
+oles.ca.gov,https://www.oles.ca.gov/,200,,Office of Law Enforcement Support - State of Calif...,Microsoft SharePoint,PHP/8.4.16,nginx,State of California,,X,X,X,,UA-83937323-1
+ombc.ca.gov,https://www.ombc.ca.gov/,200,,Welcome To Our Web Site - Osteopathic Medical Boar...,,,,Osteopathic Medical Board of California,,,X,X,,"G-69TD0KNT0F,G-QYQQC0C406,GTM-NBQCVZC,UA-3419582-2,UA-64276560-16"
+opc.ca.gov,https://www.opc.ca.gov/,200,,- California Ocean Protection Council,Site Kit by Google 1.178.0,,nginx,State of California,,X,X,X,,"GTM-M2BQ3XS,UA-3419582-2,UA-59627195-2"
+optometry.ca.gov,https://www.optometry.ca.gov/,200,,Welcome to the Board of Optometry Web Site - State...,,,,State of California,,,,X,,"G-4178EX5G7R,G-69TD0KNT0F,UA-64276560-15"
+osg.ca.gov,https://osg.ca.gov/,200,,OSG | Office of the Surgeon General,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-F3V5NTDY19,G-Y7T2KCM7P1,UA-24087628-32,UA-3419582-2,UA-3419582-47"
+oshpd.ca.gov,https://corc.oshpd.ca.gov/,200,,CORC,,ASP.NET,Microsoft-IIS/10.0,State of California,,,,,,
+oshpd.ca.gov,https://report.oshpd.ca.gov/,200,,Report Center - HCAI,,ASP.NET,Microsoft-IIS/10.0,,,,,X,,
+osi.ca.gov,https://osi.ca.gov/,200,,Office of Technology and Solutions Integration | H...,,ASP.NET,Microsoft-IIS/10.0,,,,X,X,,
+osi.ca.gov,https://www.cmips.osi.ca.gov/,200,,CMIPS Home page,,ASP.NET,Microsoft-IIS/10.0,,,,X,X,,
+ospd.ca.gov,https://www.ospd.ca.gov/,200,,Home - Office of the State Public Defender,WordPress 6.8.5,PHP/8.3.29,nginx,,,,X,X,,
+ota.ca.gov,https://ota.ca.gov/,200,,OTA | Office of Tax Appeals,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-QP0XXEMY9P,G-Y7T2KCM7P1,UA-21970760-34,UA-3419582-2,UA-3419582-47"
+ots.ca.gov,https://www.ots.ca.gov/,200,,Office of Traffic Safety | The California Office o...,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-1PS9L6E2RE,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-20973992-23,UA-3419582-2,UA-3419582-47"
+otsi.ca.gov,https://toa.otsi.ca.gov/,200,,TOA Website,,ASP.NET,Microsoft-IIS/10.0,,,X,X,,,"G-75V2BNQ3DR,GTM-NJ6Q4MV"
+oycr.ca.gov,https://oycr.ca.gov/,200,,OYCR - Office of Youth and Community Restoration,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-7ND7ZHXVPG,G-Y7T2KCM7P1,GTM-WWXFNGG,UA-3419582-2,UA-3419582-47"
+p65warnings.ca.gov,https://www.p65warnings.ca.gov/,200,,Proposition 65 Warnings Website - Your right to kn...,,,,,,,,,,
+pab.ca.gov,https://www.pab.ca.gov/,200,,Physician Assistant Board,,,,State of California,,,X,X,,"G-69TD0KNT0F,G-K9B788PFCW,GTM-NBQCVZC,UA-3419582-2,UA-64276560-18"
+parks.ca.gov,https://dbw.parks.ca.gov/,200,,Division of Boating and Waterways,,ASP.NET,Microsoft-IIS/10.0,California State Parks,,,,X,,"G-NQRMQVQ7T5,UA-3419582-2"
+parks.ca.gov,https://gis.parks.ca.gov/,200,,,,ASP.NET,Microsoft-IIS/10.0,,,,,,,
+parks.ca.gov,https://kids.parks.ca.gov/,200,,Kids in Parks,,ASP.NET,Microsoft-IIS/10.0,California State Parks,,,,X,,"G-NQRMQVQ7T5,UA-3419582-2"
+parks.ca.gov,https://ohp.parks.ca.gov/,200,,OHP Division,,ASP.NET,Microsoft-IIS/10.0,California State Parks,,,,X,,"G-NQRMQVQ7T5,UA-3419582-2"
+parks.ca.gov,https://store.parks.ca.gov/,200,,Home - California State Parks & Recreation Online ...,,,cloudflare,,,,,,,"G-SZPK2KCZDY,GTM-KJWTBZ2"
+parks.ca.gov,https://www.parks.ca.gov/,200,,California State Parks,,ASP.NET,Microsoft-IIS/10.0,California State Parks,,,,,,"G-NQRMQVQ7T5,UA-3419582-2"
+paumavalleycsd.ca.gov,https://paumavalleycsd.ca.gov/,200,,Homepage Pauma Valley Community Services District,,,nginx,,,,,,,
+penrynfire.ca.gov,https://penrynfire.ca.gov/,200,,Penryn Fire Protection District,Starfield Technologies; Go Daddy Website Builder 8...,,DPS/2.0.0+sha-e329202,Penryn Fire Protection District,,,,,,
+pent.ca.gov,https://www.pent.ca.gov/,200,,"Positive Environments, Network of Trainers (PENT)",,,,,,,,X,,G-4CWKEGPHKC
+perb.ca.gov,https://perb.ca.gov/,200,,Home - California Public Employment Relations Boar...,CAWeb v.1.13.2a,"PHP/8.2.31, PleskLin",nginx,State of California,,,X,X,,"G-69TD0KNT0F,G-R38HHXY4X2,UA-21970760-41,UA-3419582-2"
+pestboard.ca.gov,https://www.pestboard.ca.gov/,200,,Department of Consumer Affairs Structural Pest Con...,,,,State of California,,,X,X,,"G-13SQD8E90R,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-27"
+pharmacy.ca.gov,https://www.pharmacy.ca.gov/,200,,California State Board of Pharmacy,,,,California State Board of Pharmacy,,,X,X,,"G-69TD0KNT0F,G-QVJEFJJNBX,UA-3419582-2,UA-64276560-17"
+piedmont.ca.gov,https://www.piedmont.ca.gov/,403,,Home - City of Piedmont,,,cloudflare,,,,,,Cloudflare challenge detected,"G-1770054987,G-1771009931,G-1776374467,G-1776727720"
+pinyonpinescwd.ca.gov,https://www.pinyonpinescwd.ca.gov/,200,,Pinyon Pines County Water District,Serif WebPlus Starter Edition   (3.0.0.005),,Apache,,,,,,,
+placer.ca.gov,https://www.placer.ca.gov/,200,,"Placer County, CA | Official Website",,,cloudflare,,,,,X,,"G-5CJ5XHZRX6,GTM-K73C5PS,UA-1464228-1"
+pmbc.ca.gov,https://www.pmbc.ca.gov/,200,,Podiatric Medical Board of California,,,,California Board of Podiatric Medicine,,X,X,,,"G-69TD0KNT0F,G-RDB9KYCDHS,GTM-M683DJB,GTM-NBQCVZC,GTM-NJ6Q4MV,UA-3419582-2,UA-64276560-19"
+pointarena.ca.gov,https://pointarena.ca.gov/,200,,City of Point Arena,WordPress 7.0,,nginx/1.27.2,,,,,X,,
+post.ca.gov,https://lp.post.ca.gov/PublicWelcome.aspx,200,,POST Learning Portal,,,cloudflare,,,,,X,,
+post.ca.gov,https://pass.post.ca.gov/login,200,,PASS Login,,,,,,,,X,,
+post.ca.gov,https://post.ca.gov/,200,,Home,,,,,,,,X,,G-K1FLBGKCQ9
+privacy.ca.gov,https://privacy.ca.gov/,200,,privacy.ca.gov - A website brought to you by the C...,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-69TD0KNT0F,G-CS4089W2ZV,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
+psychology.ca.gov,https://www.psychology.ca.gov/,200,,California Board of Psychology,,,,State of California,,,,X,,"G-69TD0KNT0F,G-G17MN7HXHK,UA-64276560-22"
+ptbc.ca.gov,https://www.ptbc.ca.gov/,200,,Physical Therapy Board of California,,,,"Physical Therapy Board of California, Department o...",,,X,X,,"G-69TD0KNT0F,G-V6KF16YJFK,GTM-M683DJB,GTM-NBQCVZC,UA-21974567-31,UA-3419582-2"
+qfd.ca.gov,https://qfd.ca.gov/,200,,Homepage Quincy Fire Protection District,,,nginx,,,,,,,
+rbra.ca.gov,https://www.rbra.ca.gov/,200,,Homepage Richardson Bay Regional Agency,,,nginx,,,,,,,
+rcb.ca.gov,https://www.rcb.ca.gov/,200,,Respiratory Care Board of California,,,,Respiratory Care Board of California,,,X,X,,"G-05Q6QKZSH6,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-24"
+rcpa.ca.gov,https://rcpa.ca.gov/,200,,Regional Climate Protection Authority,WordPress 7.0,,nginx,,,,,X,,"G-B3Z6BJFM4T,G-CACHEPRESS"
+rcwd.ca.gov,https://rcwd.ca.gov/,200,,Raisin City Water District,Starfield Technologies; Go Daddy Website Builder 8...,,DPS/2.0.0+sha-e329202,Raisin City Water District,,,,,,
+recycledelnorte.ca.gov,https://recycledelnorte.ca.gov/,200,,Del Norte Solid Waste Managment Authority,,Fat-Free Framework,nginx/1.18.0,,,,,,Fetch error: fetch failed Headers Timeout Error,
+reducetherisk.ca.gov,https://www.reducetherisk.ca.gov/,200,,Reduce the Risk |,CAWeb v.1.13.0,,,State of California,,X,X,X,,"G-69TD0KNT0F,GTM-P3ZTL3M,UA-3419582-2"
+reedley.ca.gov,https://reedley.ca.gov/,403,,Home - City of Reedley,,,cloudflare,,,,,,Cloudflare challenge detected,"G-1770054988,G-1770056173,G-1770057565,G-1770057822,G-1776197269,G-1776375311,G-1776448375"
+registertovote.ca.gov,https://registertovote.ca.gov/,200,,Online Voter Registration | California Secretary o...,,ASP.NET,Microsoft-IIS/10.0,,,,,,,
+resources.ca.gov,https://files.resources.ca.gov/,200,,files.resources.ca.gov — Domain welcome page for,,,nginx,,,,,,,
+resources.ca.gov,https://natureworks.resources.ca.gov/,200,,natureworks.resources.ca.gov — Domain welcome page...,,,nginx,,,,,,,
+resources.ca.gov,https://resources.ca.gov/,200,,California Natural Resources Agency,,,,,,X,,X,,"G-L1ZSB6EXE0,UA-3419582-2,UA-59627195-1"
+resources.ca.gov,https://secretary.resources.ca.gov/,200,,secretary.resources.ca.gov — Domain welcome page f...,,,nginx,,,,,,,
+rmc.ca.gov,https://rmc.ca.gov/,200,,San Gabriel and Lower Los Angeles Rivers and Mount...,Site Kit by Google 1.178.0,,nginx,,,X,X,,,
+rn.ca.gov,https://www.rn.ca.gov/,200,,California Board of Registered Nursing,,,,California Board of Registered Nursing,,,X,X,,"G-69TD0KNT0F,G-FBDG3R1ZL6,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-23"
+roseville.ca.gov,https://www.roseville.ca.gov/,200,,City of Roseville,,,,,,,,X,,G-0FJZJD9X4V
+saccourt.ca.gov,https://www.saccourt.ca.gov/,200,,Superior Court of California - County of Sacrament...,,,Microsoft-IIS/10.0,,,,,X,,UA-4132807-14
+saltoncsd.ca.gov,https://saltoncsd.ca.gov/,200,,Homepage Salton Community Services District,,,nginx,,,,,,,
+saltonsea.ca.gov,https://saltonsea.ca.gov/,200,,Salton Sea Program,Site Kit by Google 1.178.0,,nginx,State of California,,X,X,X,,"UA-3419582-2,UA-59627195-7"
+sanbag.ca.gov,https://sbcta-gis.sanbag.ca.gov/arcgis/rest/services,200,,Folder: /,,ASP.NET,"Microsoft-IIS/10.0, ",,,,,,,
+sanbruno.ca.gov,https://www.sanbruno.ca.gov/,200,,"San Bruno, CA | Official Website",,,,,,,,X,,"G-FVWSYTCK31,GTM-K73C5PS"
+sanramon.ca.gov,https://gis.sanramon.ca.gov/server/rest/services,200,,Folder: /,,ASP.NET,"Microsoft-IIS/10.0, ",,,,,,,
+sanramon.ca.gov,https://www.sanramon.ca.gov/,403,,Home - City of San Ramon,,,cloudflare,,,,,,Cloudflare challenge detected,"G-1770054989,G-1770057361,G-1776375313,G-1776448674,G-1776708024,G-1776717424,G-1776987132"
+savewater.ca.gov,https://www.savewater.ca.gov/,200,,Save Water Report - State of California,,ASP.NET,,,,,X,X,,
+sbac.ca.gov,https://www.sbac.ca.gov/,200,,Santa Barbara County Office of Arts & Culture,,,Squarespace,,,,,,,"G-013F66E7C6,G-044A86CF3F,G-1DFEEAF94E,G-2F49DC7692,G-43AF232B5B,G-6456696220,G-701BF8BBC0,G-77DA62461F,G-86AACD645D,G-920708D91C,G-975CECE8DE,G-B1BA7891C2,G-B685267B79,G-C63BF8989A,G-COLLECTION,G-D22EABECA1,G-DBE066AE53,G-F9093F2D52,G-FBFF02EA9B"
+scac.ca.gov,https://scac.ca.gov/,200,,SCAC -- Homepage,,,AmazonS3,,,,,,,
+scag.ca.gov,https://scag.ca.gov/,200,,Home | Southern California Association of Governme...,Drupal 10 (https://www.drupal.org),,nginx,,,,,X,,"G-HOMEPAGEPO,GTM-PCMC9BT"
+scc.ca.gov,https://scc.ca.gov/,200,,California State Coastal Conservancy – The Coastal...,,,Sucuri/Cloudproxy,State of California,,X,X,,,"G-MNKEMF21JK,GTM-NJ6Q4MV"
+scdd.ca.gov,https://scdd.ca.gov/,200,,SCDD | State Council on Developmental Disabilities,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-6SR9BDZWHX,G-Y7T2KCM7P1,UA-23110710-3,UA-3419582-2,UA-3419582-47"
+sco.ca.gov,https://cpads.sco.ca.gov/,200,,State Controller's Office CPA Directory Service (C...,,ASP.NET,,,,,,,,GTM-MWCXZTZ
+sco.ca.gov,https://gcc.sco.ca.gov/,200,,GCC,,,cloudflare,,,,,X,,GTM-KX7MF5M
+sco.ca.gov,https://laif.sco.ca.gov/,200,,State Controller's Office - Local Agency Investmen...,,ASP.NET,Microsoft-IIS/10.0,,,X,X,X,,GTM-PQHTQRV
+sco.ca.gov,https://lgrsonline.sco.ca.gov/account/login,200,,Log in - LGRS Online,,ASP.NET,,,,,,X,,GTM-K5ZRSNK
+sco.ca.gov,https://trackprop55.sco.ca.gov/,200,,Track Prop 30/Prop 55,,ASP.NET,,,,,,X,,GTM-T2X7CVX
+sco.ca.gov,https://www.sco.ca.gov/,200,,SCO: Home,,ASP.NET,,State of California : State Controller's Office,,X,X,,,GTM-5D5F2SV
+scta.ca.gov,https://scta.ca.gov/,200,,Sonoma County Transportation Authority | SCTA,WordPress 7.0,,nginx,,,,,X,,"G-15R30J43DJ,G-CACHEPRESS,G-TEMPLATEBU"
+sdcourt.ca.gov,https://www.sdcourt.ca.gov/,200,,Home | Superior Court of California - County of Sa...,Drupal 10 (https://www.drupal.org),,cloudflare,,,,,X,,G-9TV7LRTJDG
+sdrc.ca.gov,https://sdrc.ca.gov/,200,,San Diego River Conservancy,Site Kit by Google 1.178.0,,nginx,,,X,X,,,
+seeleywaterdistrict.ca.gov,https://www.seeleywaterdistrict.ca.gov/,200,,Homepage Seeley County Water District,,,nginx,,,,,,,
+senate.ca.gov,https://soir.senate.ca.gov/committeehome,200,,Welcome to the Senate Office of International Rela...,,,Apache,,,,,,,G-CRN4TZH1YT
+senate.ca.gov,https://www.senate.ca.gov/,200,,Homepage | California State Senate,,,Apache,,,,,,,G-CRN4TZH1YT
+sgc.ca.gov,https://sgc.ca.gov/,200,,California Strategic Growth Council - Strategic Gr...,WordPress 7.0,PHP/8.3.29,nginx,,,X,X,X,,"G-69TD0KNT0F,G-GN1F20H06C"
+sierracounty.ca.gov,https://www.sierracounty.ca.gov/,200,,"Sierra County, CA - Official Website | Official We...",,,Microsoft-IIS/10.0,,,,,X,,"G-N28VLH4GMZ,GTM-K73C5PS"
+sierranevada.ca.gov,https://sierranevada.ca.gov/,200,,Sierra Nevada Conservancy | Building resilience,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-Y7T2KCM7P1,GTM-TMGLRHM,UA-3419582-2,UA-3419582-47"
+sites.ca.gov,https://calepa.sites.ca.gov/,200,,calepa.sites.ca.gov |,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
+sites.ca.gov,https://prod.sites.ca.gov/,200,,prod.sites.ca.gov | for CAWeb publishing,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
+sjrc.ca.gov,https://sjrc.ca.gov/,200,,San Joaquin River Conservancy – The San Joaquin Ri...,Site Kit by Google 1.178.0,,nginx,,,X,X,X,,
+slc.ca.gov,https://www.slc.ca.gov/,200,,CA State Lands Commission | California State lands...,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-35QSDZJPYH,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
+slocounty.ca.gov,https://www.slocounty.ca.gov/,200,,Home - County of San Luis Obispo,,ASP.NET,cloudflare,,,,,,,GTM-PT92XTQ
+smmc.ca.gov,https://smmc.ca.gov/,200,,Santa Monica Mountains Conservancy – Welcome to Ca...,CAWeb v.1.4.21,,nginx,State of California,,X,X,X,,G-3Z04Z00WN3
+solanosr2s.ca.gov,https://solanosr2s.ca.gov/,200,,Solano Transportation Authority | Safe Routes to S...,Powered by WPBakery Page Builder - drag and drop p...,,,,,,,X,,G-7Q0YPT74S7
+sonomacounty.ca.gov,https://socogis.sonomacounty.ca.gov/map/services/,400,,ArcGIS Server Error,,,,,,,,,HTTP 400,
+sos.ca.gov,https://www.sos.ca.gov/,200,,Home :: California Secretary of State,,,nginx,,,,,X,,GTM-TC7VGHV
+spb.ca.gov,https://www.spb.ca.gov/,200,,State Personnel Board,,ASP.NET,Microsoft-IIS/10.0,,,X,X,X,,"G-7PSLJD4L8Y,UA-21431721-16,UA-3419582-2"
+speechandhearing.ca.gov,https://www.speechandhearing.ca.gov/,200,,Speech-Language Pathology and Audiology and Hearin...,,,,"Department of Consumer Affairs, State of Californi...",,,,X,,"G-69TD0KNT0F,G-KZHR8TYRFF,UA-64276560-26"
+spmud.ca.gov,https://spmud.ca.gov/,200,,Homepage South Placer Municipal Utility District,,,nginx,,,,,,,
+spwb.ca.gov,https://spwb.ca.gov/,200,,Home | State Public Works Board,,,volt-adc,,,X,X,,,"G-JX3SYHBE8G,GTM-NJ6Q4MV"
+srfecc.ca.gov,https://srfecc.ca.gov/,200,,Homepage Sacramento Regional Fire/Ems Communicatio...,,,nginx,,,,,,,
+srta.ca.gov,https://www.srta.ca.gov/,200,,"Shasta Regional Transportation Agency, CA | Offici...",,,Microsoft-IIS/10.0,,,,,X,,"G-C30T9L4XG7,GTM-K73C5PS"
+ssc.ca.gov,https://www.ssc.ca.gov/,200,,Seismic Safety Commission |,CAWeb v.1.13.0,,,State of California,,X,X,X,,"G-69TD0KNT0F,G-TSWFKMRXC5,UA-3419582-2"
+sta.ca.gov,https://sta.ca.gov/,200,,Solano Transportation Authority,,,,,,,,X,,G-L9SWKSSW0V
+state.ca.gov,https://listserv.state.ca.gov/wa.exe?INDEX,200,,LISTSERV - LISTSERV Archives - LISTSERV.STATE.CA.G...,,ASP.NET,Microsoft-IIS/10.0,,,,,X,,
+statebarcourt.ca.gov,https://www.statebarcourt.ca.gov/,200,,Home | The State Bar of California,Drupal 11 (https://www.drupal.org),,,,,,,X,,G-E3V3RY8CPC
+stateentityprofile.ca.gov,https://www.stateentityprofile.ca.gov/,200,,CA.GOV State Entity Profile - CA.GOV State Entity ...,,ASP.NET,,State of California,,,X,X,,
+sucorte.ca.gov,https://www.sucorte.ca.gov/,200,,Self-Help Guide to the California Courts | Califor...,Drupal 9 (https://www.drupal.org),,nginx,,,,,,,G-K8QM6XJZDN
+sunnyvale.ca.gov,https://www.sunnyvale.ca.gov/,200,,"Sunnyvale, CA | Home",,,AkamaiGHost,,,,,,,"G-JBUHY_LMRH,G-R8HYT6ITBJ,G-T4KDVQ1M42,G-WVHV5Y34FM,G-ZRY5RPGC6K"
+tahoe.ca.gov,https://tahoe.ca.gov/,200,,Tahoe Conservancy |,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-7BTW7KMW8E,G-Y7T2KCM7P1,UA-21970760-38,UA-3419582-2,UA-3419582-47"
+tam.ca.gov,https://www.tam.ca.gov/,200,,Transportation Authority of Marin,Powered by WPBakery Page Builder - drag and drop p...,WP Engine,cloudflare,,,,,X,,"G-4YBXR627CN,G-9DDJ0T3LZS"
+taxes.ca.gov,https://taxes.ca.gov/,200,,Taxes | California Tax Service Center,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-69TD0KNT0F,G-N8DVBV2ZB1,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
+tcpw.ca.gov,https://tcpw.ca.gov/,200,,Tehama County Public Works,WordPress 7.0,,nginx,,,,,,,G-XYLMZ67JYC
+tcwd.ca.gov,https://www.tcwd.ca.gov/,200,,Trabuco Canyon Water District | Home,,,AkamaiGHost,,,,,,,"G-EJTHB4NRYW,G-FH9YUK9SSJ,G-RHRBZBNCJV,G-TGNUS61NMI"
+technology.ca.gov,https://bars.technology.ca.gov/,200,,BARS,,ASP.NET,,,,,,,,
+technology.ca.gov,https://billing.technology.ca.gov/login.aspx,200,,Login,,ASP.NET,Microsoft-IIS/10.0,State of California,,,,,,UA-3419582-2
+technology.ca.gov,https://pasapi.technology.ca.gov/index.html,200,,Personnel Authorization System (PAS),,ASP.NET,,,,,,,,
+technology.ca.gov,https://uma.technology.ca.gov/Account/Login,200,,Multisite Authentication Management Tool,,ASP.NET,,State of California,,,X,X,,
+technology.ca.gov,https://www.ocrbot.technology.ca.gov/,200,,OCRBot,,,,,,,,,,"UA-21970760-42,UA-3419582-2"
+technology.ca.gov,https://www.projecttracking.technology.ca.gov/,200,,IT Project Tracking - California Department of Tec...,,ASP.NET,,,,,X,X,,UA-20973992-32
+tehamajuryservices.ca.gov,https://tehamajuryservices.ca.gov/login,200,,"Jury+ Web Solution by Jury Systems, Inc. - Login",,,Apache,"Sicomtech Systems, LLC - http://www.sicomtech.com",,,,X,,
+theacademy.ca.gov,https://theacademy.ca.gov/,200,,Home - The Academy,,,Flywheel/5.1.0,,,,,X,,GTM-TC6WLH8
+todb.ca.gov,https://todb.ca.gov/,200,,Homepage The Town of Discovery Bay,,,nginx,,,,,,,G-TYLERSV4HT
+tomalescsd.ca.gov,https://www.tomalescsd.ca.gov/,200,,Tomales Village CSD,,,Squarespace,,,,,,,"G-013F66E7C6,G-2F49DC7692,G-43AF232B5B,G-48793B863E,G-701BF8BBC0,G-86AACD645D,G-902FAAFCE0,G-920708D91C,G-975CECE8DE,G-B1BA7891C2,G-B685267B79,G-C63BF8989A,G-COLLECTION,G-D22EABECA1,G-DB8F466935,G-DBE066AE53,G-F9093F2D52"
+tourism.ca.gov,https://tourism.ca.gov/s/login/?language=en_US,200,,Login Template Title,,,nginx,,,,,X,,
+townofmammothlakes.ca.gov,https://www.townofmammothlakes.ca.gov/,200,,"Mammoth Lakes, CA - Official Website | Official We...",,,,,,,,X,,"G-N89HWPCW7V,G-T785Y3D56V,GTM-K73C5PS"
+treasurer.ca.gov,https://laifonline.treasurer.ca.gov/,200,,Log in - LAIF Application,,ASP.NET,Microsoft-IIS/10.0,,,,,X,,"UA-1867705-11,UA-3419582-2"
+treasurer.ca.gov,https://www.treasurer.ca.gov/,200,,Home | State of California Office of the State Tre...,Drupal 10 (https://www.drupal.org),PHP/8.4.16,nginx/1.28.0,,,X,,,,"G-N5Y60EJBHF,UA-1867705-1,UA-3419582-2"
+tribalaffairs.ca.gov,https://tribalaffairs.ca.gov/,200,,The Governor's Office of Tribal Affairs |,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-BZRKW432Z0,G-Y7T2KCM7P1,UA-31125811-10,UA-3419582-2,UA-3419582-47"
+trinidad.ca.gov,https://www.trinidad.ca.gov/,200,,Home Page | Trinidad CA,Drupal 10 (https://www.drupal.org),,cloudflare,,,,,,,G-1F2ZXJ4JW4
+ttsa.ca.gov,https://www.ttsa.ca.gov/,200,,"Tahoe-Truckee SanitationAgency, CA | Official Webs...",,,cloudflare,,,,,X,,"G-BT3F8NYDVX,GTM-K73C5PS"
+tulare.ca.gov,https://www.tulare.ca.gov/,200,,City of Tulare | Home,,,AkamaiGHost,,,,,,,"G-3C4EEVW8L1,G-WKUWTSIIYD"
+tularecounty.ca.gov,https://tularecounty.ca.gov/,200,,County Main | Tulare,Drupal 10 (https://www.drupal.org),,cloudflare,,,,,X,,"G-GYFYZ4RT4Q,G-LEIT9I_ETO"
+tuolumnecounty.ca.gov,https://www.tuolumnecounty.ca.gov/,200,,"Tuolumne County, CA - Official Website | Official ...",,,cloudflare,,,,,X,,"G-HHGEB3R8ZN,GTM-K73C5PS"
+unionsanitary.ca.gov,https://unionsanitary.ca.gov/,200,,"Home - Union Sanitary District | Serving Fremont, ...",WordPress 7.0,,Sucuri/Cloudproxy,,,,,X,,G-0Z2KMBBLH5
+victims.ca.gov,https://victims.ca.gov/,200,,CalVCB - CA Victim Compensation Board,WordPress 6.8.3,,nginx/1.24.0 (Ubuntu),,,X,,,,"G-1P41D0CKTV,GTM-MZBJ9DW"
+vmb.ca.gov,https://www.vmb.ca.gov/,200,,Welcome to the California Veterinary Medical Board...,,,,,,,X,X,,"G-69TD0KNT0F,G-DB8SK5JY7K,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-28"
+water.ca.gov,https://cdec.water.ca.gov/,200,,California Data Exchange Center,,,,State of California,,X,X,X,,"G-QMSMYVM1J1,UA-3419582-2"
+water.ca.gov,https://cww.water.ca.gov/,200,,California Water Watch,,,Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k mod_jk/1.2.48,"State of California, Department of Water Resources...",,X,X,X,,G-G9NNQTSS8V
+water.ca.gov,https://ferix.water.ca.gov/webapp/home.jsp,200,,FERIX Home,,,Apache/2.4.10 (Unix) mod_jk/1.2.40,State of California,,,,X,,"UA-21779576-1,UA-3419582-2"
+water.ca.gov,https://gis.water.ca.gov/arcgis/rest/services/,200,,Folder: /,,ASP.NET,Microsoft-IIS/10.0,,,,,,,
+water.ca.gov,https://water.ca.gov/,200,,Department Of Water Resources,,,,State of California,,X,,X,,GTM-KK6DT3F
+waterboards.ca.gov,https://gamagroundwater.waterboards.ca.gov/gama/gamamap/public/,200,,GAMA Groundwater,,,cloudflare,,,,,X,,
+waterboards.ca.gov,https://geotracker.waterboards.ca.gov/,200,,GeoTracker,,,cloudflare,,,,X,X,,GTM-NP6RZTM
+waterboards.ca.gov,https://www.waterboards.ca.gov/,200,,Home Page | California State Water Resources Contr...,,,Apache,California State Water Resources Control Board,,X,X,X,,"G-C2B09DREVM,GTM-5PXRWRP,UA-3419582-2,UA-5950478-1"
+waterresilience.ca.gov,https://www.waterresilience.ca.gov/,200,,waterresilience.ca.gov — Domain welcome page for,,,nginx,,,,,,,
+wca.ca.gov,https://www.wca.ca.gov/,200,,Watershed Conservation Authority,,,cloudflare,,,,,,,
+wcb.ca.gov,https://wcb.ca.gov/,200,,California Wildlife Conservation Board Home Page,,,,,,,X,,,G-K4YTKJ2W16
+wcchd.ca.gov,https://wcchd.ca.gov/,200,,West Contra Costa Healthcare District,,,nginx,,,,,,,
+webstandards.ca.gov,https://webstandards.ca.gov/,200,,Webstandards - The online resource for California ...,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-8LTHCDW8ZL,G-Y7T2KCM7P1,UA-20973992-20,UA-3419582-2,UA-3419582-47"
+webstandards.ca.gov,https://www.template.webstandards.ca.gov/,200,,California State Web Template,,ASP.NET,,State of California,,X,X,,,GTM-PWPX7KD
+wedrawthelines.ca.gov,https://wedrawthelines.ca.gov/,200,,"California Citizens Redistricting Commission | ""Fa...",CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47,UA-44798820-1"
+westnile.ca.gov,https://westnile.ca.gov/,200,,Westnile.ca.gov | California West Nile Virus Websi...,,,,,,,,X,,
+wheatland.ca.gov,https://www.wheatland.ca.gov/,200,,"Home Page | City of Wheatland, CA",Drupal 10 (https://www.drupal.org),,cloudflare,,,,,,,G-XJYXIFEK8N
+wildlife.ca.gov,https://apps.wildlife.ca.gov/,200,,Apps - California Department of Fish and Wildlife,,,,"State of California, Department of Fish and Wildli...",,,X,,,"G-2N4E4MK3J8,GTM-NJ6Q4MV"
+wildlife.ca.gov,https://calspillwatch.wildlife.ca.gov/,200,,Cal Spill Watch Home,,,,,,,X,X,,G-3TD3C8P5WP
+wildlife.ca.gov,https://marinespecies.wildlife.ca.gov/,200,,CA Marine Species Portal,,ASP.NET,Microsoft-IIS/10.0,,,,X,X,,G-SGQRQW0TRJ
+wildlife.ca.gov,https://mfde.wildlife.ca.gov/,200,,Marine Fisheries Data Explorer,,ASP.NET,Microsoft-IIS/10.0,,,,X,X,,G-MZGV0EZPY2
+wildlife.ca.gov,https://wildlife.ca.gov/,200,,California Department of Fish and Wildlife Home Pa...,,,,,,X,X,X,,"G-00TTOCYLYL,G-CMRV390FF9"
+women.ca.gov,https://women.ca.gov/,200,,CCSWG | California Commission on Status of Women a...,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-69TD0KNT0F,G-7YZTFH0G4L,G-Y7T2KCM7P1,UA-20973992-29,UA-3419582-2,UA-3419582-47"
+workforcalifornia.ca.gov,https://www.workforcalifornia.ca.gov/,200,,Work for California,,ASP.NET,Microsoft-IIS/10.0,,,X,X,,,G-H7MX86HSXW
+wpwma.ca.gov,https://wpwma.ca.gov/,200,,Home - Western Placer Waste Management Authority,WordPress 7.0,,cloudflare,,,,,,,G-L673EFZY1V
+wwd.ca.gov,https://wwd.ca.gov/,200,,Home - Westlands Water District,WordPress 6.9.4,,nginx,,,,,X,,UA-40603001-1
+ych.ca.gov,https://www.ych.ca.gov/,200,,Yolo County Housing Authority,"Powered by LayerSlider 7.1.1 - Multi-Purpose, Resp...",WP Engine,nginx,,,,,X,,G-CY5VGQ3JWN

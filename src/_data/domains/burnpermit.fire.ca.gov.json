@@ -38,5 +38,6 @@
   "errorMessage": "HTTP 403",
   "notes": null,
   "goodScan": false,
-  "nocache": false
+  "nocache": false,
+  "metaAuthor": "Author"
 }

@@ -40,6 +40,7 @@ function booleanToYesNo(value) {
       generator: preview50(row.metaGenerator) || "",
       "x-powered-by": row.responseHeaders["x-powered-by"] || "",
       server: row.responseHeaders["server"] || "",
+      author: preview50(row.metaAuthor) || "",
       slowResponse: booleanToYesNo(row.slow),
       statewideAlerts: booleanToYesNo(row.hasStatewideAlerts),
       stateTemplate: booleanToYesNo(row.usesStateTemplate),
