@@ -41,5 +41,6 @@
   "goodScan": true,
   "DOMErrors": [
     "Could not parse CSS stylesheet"
-  ]
+  ],
+  "metaAuthor": "Franchise Tax Board"
 }
