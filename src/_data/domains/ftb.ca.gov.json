@@ -39,8 +39,8 @@
   "notes": null,
   "nocache": true,
   "goodScan": true,
+  "metaAuthor": "Franchise Tax Board",
   "DOMErrors": [
     "Could not parse CSS stylesheet"
-  ],
-  "metaAuthor": "Franchise Tax Board"
+  ]
 }

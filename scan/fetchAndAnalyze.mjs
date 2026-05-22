@@ -102,8 +102,17 @@ export async function fetchAndAnalyze(original) {
       cacheControl.includes("no-cache") ||
       cacheControl.includes("max-age=0");
   }
+  let body = "";
 
-  const body = await res.text();
+  try {
+    body = await res.text();
+  } catch (e) {
+    //@ts-ignore
+    domainRecord.errorMessage = `Stream error: ${e.message} ${e.cause?.toString() || ""}`;
+
+    return domainRecord;
+  }
+
   //const contentSize = Buffer.byteLength(body);
 
   // Basic Cloudflare detection (non-bypass)

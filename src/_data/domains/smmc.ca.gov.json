@@ -28,8 +28,8 @@
   "notes": null,
   "nocache": true,
   "goodScan": true,
+  "metaAuthor": "State of California",
   "DOMErrors": [
     "Could not parse CSS stylesheet"
-  ],
-  "metaAuthor": "State of California"
+  ]
 }

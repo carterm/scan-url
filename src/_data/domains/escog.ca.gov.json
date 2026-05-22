@@ -13,7 +13,7 @@
     "content-type": "text/html;charset=utf-8",
     "server": "Squarespace",
     "x-content-type-options": "nosniff",
-    "x-frame-options": "SAMEORIGIN, SAMEORIGIN"
+    "x-frame-options": "SAMEORIGIN"
   },
   "cloudflare": false,
   "slow": false,
@@ -27,6 +27,7 @@
     "G-48793B863E",
     "G-5CGC3ET1CB",
     "G-701BF8BBC0",
+    "G-7BE836A90F",
     "G-86AACD645D",
     "G-902FAAFCE0",
     "G-920708D91C",
@@ -39,7 +40,8 @@
     "G-D22EABECA1",
     "G-DB8F466935",
     "G-DBE066AE53",
-    "G-F9093F2D52"
+    "G-F9093F2D52",
+    "G-FBFF02EA9B"
   ],
   "socialLinks": [],
   "linksToCaGov": false,
