@@ -3,11 +3,11 @@
   "domain": "join.engaged.ca.gov",
   "targetURL": "https://join.engaged.ca.gov/en/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Citizen engagement platform",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -17,7 +17,16 @@
   "socialLinks": [],
   "linksToCaGov": false,
   "errorMessage": null,
-  "nocache": false,
-  "responseHeaders": {},
+  "nocache": true,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-type": "text/html",
+    "referrer-policy": "no-referrer",
+    "server": "nginx",
+    "x-amz-server-side-encryption": "AES256",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN"
+  },
   "notes": null
 }
