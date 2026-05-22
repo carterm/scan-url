@@ -1,0 +1,40 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "engaged.ca.gov",
+  "targetURL": "https://www.engaged.ca.gov/",
+  "www": true,
+  "goodScan": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Engaged California",
+  "lastStatus": 200,
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "GTM-MDRRLC9"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/EngagedCalifornia",
+    "https://www.instagram.com/california_odi/",
+    "https://www.youtube.com/@California_ODI"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
+  "nocache": false,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "AmazonS3",
+    "x-amz-version-id": "M3ao8jG6X7VWAeqBxMfzZKGOK_pxyEqd",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
+  },
+  "notes": null,
+  "metaAuthor": "Office of Data and Innovation - State of California"
+}

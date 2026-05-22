@@ -29,8 +29,8 @@
     "x-powered-by": "ASP.NET"
   },
   "notes": null,
+  "metaAuthor": "State of California",
   "DOMErrors": [
     "Could not parse CSS stylesheet"
-  ],
-  "metaAuthor": "State of California"
+  ]
 }
