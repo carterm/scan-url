@@ -12,7 +12,8 @@
     "connection": "keep-alive",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "server": "Apache"
+    "server": "Apache",
+    "wpo-cache-status": "cached"
   },
   "cloudflare": false,
   "slow": false,
@@ -31,7 +32,7 @@
   "linksToCaGov": true,
   "errorMessage": null,
   "notes": null,
-  "nocache": false,
+  "nocache": true,
   "goodScan": true,
   "metaAuthor": "State of California"
 }

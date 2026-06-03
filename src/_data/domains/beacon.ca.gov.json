@@ -11,7 +11,7 @@
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400, h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
     "connection": "keep-alive",
-    "content-encoding": "gzip",
+    "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "server": "Sucuri/Cloudproxy",
     "x-content-type-options": "nosniff",

@@ -7,7 +7,6 @@
   "includeInScan": true,
   "title": "Delta Protection Commission – Committed to the Protection and Health of the Delta",
   "lastStatus": 200,
-  "metaGenerator": "Site Kit by Google 1.178.0",
   "responseHeaders": {
     "connection": "keep-alive",
     "content-type": "text/html; charset=UTF-8",
@@ -21,7 +20,7 @@
   "slow": false,
   "hasStatewideAlerts": true,
   "usesStateTemplate": true,
-  "hasJQuery": true,
+  "hasJQuery": false,
   "googleAnalytics": [
     "G-YB8LP09907",
     "UA-20973992-19",

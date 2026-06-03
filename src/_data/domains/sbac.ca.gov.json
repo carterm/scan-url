@@ -5,20 +5,24 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "Santa Barbara County Office of Arts & Culture",
+  "title": "Home - Santa Barbara County Office of Arts & Culture",
   "lastStatus": 200,
   "responseHeaders": {
     "accept-ranges": "bytes",
-    "content-encoding": "gzip",
-    "content-type": "text/html;charset=utf-8",
-    "server": "Squarespace",
-    "x-content-type-options": "nosniff"
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
+    "server": "nginx",
+    "x-content-type-options": "nosniff",
+    "x-httpd-modphp": "1",
+    "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [
     "G-013F66E7C6",
     "G-044A86CF3F",
@@ -42,13 +46,14 @@
     "G-FBFF02EA9B"
   ],
   "socialLinks": [
-    "http://www.facebook.com/sbac.ca.gov/",
-    "https://www.instagram.com/sbcoac/",
-    "https://www.youtube.com/channel/UCOSKvNvTCYHC77wkKWn0tIw"
+    "https://www.facebook.com/sbac.ca.gov/",
+    "https://www.instagram.com/sbcoac/"
   ],
   "linksToCaGov": false,
   "errorMessage": null,
   "notes": null,
   "nocache": false,
-  "goodScan": true
+  "goodScan": true,
+  "finalUrl": "https://sbac.ca.gov/",
+  "metaGenerator": "Site Kit by Google 1.180.0"
 }

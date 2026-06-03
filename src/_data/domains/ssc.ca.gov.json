@@ -7,7 +7,7 @@
   "includeInScan": true,
   "title": "Seismic Safety Commission |",
   "lastStatus": 200,
-  "metaGenerator": "CAWeb v.1.13.0",
+  "metaGenerator": "CAWeb v.1.13.0a",
   "responseHeaders": {
     "connection": "keep-alive",
     "content-encoding": "gzip",
@@ -26,12 +26,8 @@
     "UA-3419582-2"
   ],
   "socialLinks": [
-    "http://www.youtube.com/watch?feature=player_embedded&v=V8D0jR0EaW8",
-    "http://youtu.be/fNCGTuPxRyE",
     "https://twitter.com/CAseismic",
-    "https://www.linkedin.com/posts/mnwdwater_resilienttogether-femagrant-mnwd-activity-7165866553400385537-estl?utm_source=share&utm_medium=member_desktop",
-    "https://www.youtube.com/user/CSSCommission",
-    "https://www.youtube.com/watch?v=qhDdzHae4Rc"
+    "https://www.youtube.com/user/CSSCommission"
   ],
   "linksToCaGov": true,
   "errorMessage": null,

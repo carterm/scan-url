@@ -26,7 +26,11 @@
     "GTM-P3ZTL3M",
     "UA-3419582-2"
   ],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.facebook.com/CaliforniaOES/",
+    "https://www.instagram.com/cal_oes/",
+    "https://x.com/Cal_OES/"
+  ],
   "linksToCaGov": true,
   "errorMessage": null,
   "notes": null,
