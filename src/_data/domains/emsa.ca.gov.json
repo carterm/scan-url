@@ -13,7 +13,7 @@
     "content-type": "text/html;charset=UTF-8",
     "pragma": "no-store,no-cache",
     "referrer-policy": "same-origin",
-    "server": "cloudflare",
+    "server": "snow_adc",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-is-logged-in": "false"

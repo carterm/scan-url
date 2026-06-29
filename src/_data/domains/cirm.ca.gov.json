@@ -7,7 +7,7 @@
   "includeInScan": true,
   "title": "CIRM – California's Stem Cell and Gene Therapy Agency",
   "lastStatus": 200,
-  "metaGenerator": "WordPress 6.9.4",
+  "metaGenerator": "WordPress 7.0",
   "responseHeaders": {
     "accept-ranges": "bytes",
     "connection": "keep-alive",
@@ -18,7 +18,7 @@
   },
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": true,
+  "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": true,
   "googleAnalytics": [

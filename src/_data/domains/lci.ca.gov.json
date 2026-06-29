@@ -1,8 +1,8 @@
 {
   "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "lci.ca.gov",
-  "targetURL": "https://www.lci.ca.gov/",
-  "www": true,
+  "targetURL": "https://lci.ca.gov/",
+  "www": false,
   "active": true,
   "includeInScan": true,
   "title": "Governor's Office of Land Use and Climate Innovation",

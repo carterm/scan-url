@@ -12,11 +12,11 @@
     "connection": "Keep-Alive",
     "content-language": "en",
     "content-type": "text/html; charset=UTF-8",
-    "server": "Apache/2.4.62 (Red Hat Enterprise Linux) OpenSSL/3.5.1",
+    "server": "Apache/2.4.62 (Red Hat Enterprise Linux) OpenSSL/3.5.5",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 11 (https://www.drupal.org)",
-    "x-powered-by": "PHP/8.3.26"
+    "x-powered-by": "PHP/8.3.31"
   },
   "cloudflare": false,
   "slow": false,

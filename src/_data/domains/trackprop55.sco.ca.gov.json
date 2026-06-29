@@ -8,10 +8,15 @@
   "title": "Track Prop 30/Prop 55",
   "lastStatus": 200,
   "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
-    "server": "",
+    "expect-ct": "max-age=86400, enforce",
+    "referrer-policy": "same-origin",
+    "server": "cloudflare",
+    "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
-    "x-powered-by": "ASP.NET"
+    "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,
   "slow": false,

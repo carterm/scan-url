@@ -9,9 +9,10 @@
   "lastStatus": 200,
   "metaGenerator": "WordPress 7.0",
   "responseHeaders": {
-    "connection": "Keep-Alive",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "server": ""
+    "server": "cloudflare"
   },
   "cloudflare": false,
   "slow": false,

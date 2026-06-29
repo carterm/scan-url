@@ -13,7 +13,7 @@
     "content-location": "www.ftb.ca.gov",
     "content-type": "text/html",
     "p3p": "policyref=\"/w3c/p3p.xml\",CP=\"ALL DSP COR MON LAW CURa ADMa DEVa PSAa PSDa OUR SAMa IND NAV INT CNT STA\"",
-    "pragma": "no-cache",
+    "pragma": "public",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY",
     "x-xss-protection": "1; mode=block"
@@ -37,7 +37,7 @@
   "linksToCaGov": true,
   "errorMessage": null,
   "notes": null,
-  "nocache": true,
+  "nocache": false,
   "goodScan": true,
   "metaAuthor": "Franchise Tax Board",
   "DOMErrors": [

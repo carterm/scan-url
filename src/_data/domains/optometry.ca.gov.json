@@ -5,7 +5,7 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "Welcome to the Board of Optometry Web Site - State of California",
+  "title": "California State Board of Optometry",
   "lastStatus": 200,
   "responseHeaders": {
     "accept-ranges": "bytes",
@@ -19,17 +19,16 @@
   },
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": true,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": false,
   "googleAnalytics": [
     "G-4178EX5G7R",
     "G-69TD0KNT0F",
+    "GTM-NJ6Q4MV",
     "UA-64276560-15"
   ],
   "socialLinks": [
-    "https://twitter.com/CAOptometry",
-    "https://www.facebook.com/CAOptometry",
     "https://www.facebook.com/pages/CA-State-Board-of-Optometry/166179506807589",
     "https://x.com/CAOptometry",
     "https://youtu.be/MZU71oyxTcU"
@@ -39,5 +38,5 @@
   "notes": null,
   "nocache": false,
   "goodScan": true,
-  "metaAuthor": "State of California"
+  "metaAuthor": "Department of Consumer Affairs, State of California"
 }

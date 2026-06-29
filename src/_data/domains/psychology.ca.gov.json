@@ -19,23 +19,24 @@
   },
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": true,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": false,
   "googleAnalytics": [
     "G-69TD0KNT0F",
     "G-G17MN7HXHK",
+    "GTM-NJ6Q4MV",
     "UA-64276560-22"
   ],
   "socialLinks": [
-    "https://twitter.com/CABDofPsych",
     "https://www.facebook.com/BoardofPsychology",
-    "https://www.linkedin.com/company/dca-california-board-of-psychology/"
+    "https://www.linkedin.com/company/dca-california-board-of-psychology/",
+    "https://x.com/CABDofPsych"
   ],
   "linksToCaGov": true,
   "errorMessage": null,
   "notes": null,
   "nocache": false,
   "goodScan": true,
-  "metaAuthor": "State of California"
+  "metaAuthor": "California Board of Psychology"
 }
