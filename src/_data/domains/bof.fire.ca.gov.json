@@ -34,9 +34,8 @@
     "https://www.youtube.com/user/CALFIRETV"
   ],
   "linksToCaGov": true,
-  "errorMessage": "HTTP 403",
   "notes": null,
-  "goodScan": false,
+  "goodScan": true,
   "nocache": false,
   "metaAuthor": "Author"
 }
