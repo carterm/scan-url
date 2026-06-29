@@ -33,8 +33,13 @@
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "socialLinks": [
+    "https://twitter.com/CaltransHQ?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "https://www.facebook.com/CaltransHQ/",
+    "https://www.linkedin.com/company/caltrans/",
+    "https://www.youtube.com/@CaltransVideo"
+  ],
+  "linksToCaGov": true,
   "errorMessage": null,
   "notes": null,
   "nocache": true,
