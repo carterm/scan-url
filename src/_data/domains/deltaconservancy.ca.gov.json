@@ -19,9 +19,7 @@
   "hasStatewideAlerts": true,
   "usesStateTemplate": true,
   "hasJQuery": false,
-  "googleAnalytics": [
-    "G-34GCW1F9KH"
-  ],
+  "googleAnalytics": [],
   "socialLinks": [
     "https://twitter.com/DeltaConservncy",
     "https://www.facebook.com/deltaconservancy/",

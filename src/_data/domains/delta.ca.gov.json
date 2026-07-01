@@ -21,11 +21,7 @@
   "hasStatewideAlerts": true,
   "usesStateTemplate": true,
   "hasJQuery": false,
-  "googleAnalytics": [
-    "G-YB8LP09907",
-    "UA-20973992-19",
-    "UA-3419582-2"
-  ],
+  "googleAnalytics": [],
   "socialLinks": [
     "http://twitter.com/CA_DPC",
     "https://twitter.com/CA_DPC",

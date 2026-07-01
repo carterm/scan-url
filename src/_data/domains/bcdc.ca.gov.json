@@ -30,8 +30,6 @@
   "googleAnalytics": [
     "G-659EB2TT61",
     "G-69TD0KNT0F",
-    "G-CONDITIONS",
-    "G-ESSENTIALS",
     "G-Y7T2KCM7P1",
     "UA-3419582-2",
     "UA-3419582-47"
@@ -44,7 +42,7 @@
   "linksToCaGov": true,
   "errorMessage": null,
   "notes": null,
-  "nocache": false,
+  "nocache": true,
   "goodScan": true,
   "metaAuthor": "State of California"
 }

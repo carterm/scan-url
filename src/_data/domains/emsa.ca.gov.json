@@ -24,15 +24,9 @@
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [
-    "G-36CV9LSWNK",
-    "G-69TD0KNT0F",
     "G-MULTISELEC",
     "G-RESPONSIVE",
-    "G-TRANSCLUDE",
-    "G-Y7T2KCM7P1",
-    "UA-23110710-29",
-    "UA-3419582-2",
-    "UA-3419582-47"
+    "G-TRANSCLUDE"
   ],
   "socialLinks": [],
   "linksToCaGov": false,

@@ -210,7 +210,6 @@ export async function fetchAndAnalyze(original) {
 
   domainRecord.googleAnalytics = [
     ...new Set([
-      ...domainRecord.googleAnalytics,
       ...(code.toUpperCase().match(GA) || [])
     ])
   ].sort();
