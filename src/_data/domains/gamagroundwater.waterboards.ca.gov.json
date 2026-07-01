@@ -15,7 +15,7 @@
     "referrer-policy": "strict-origin-when-cross-origin",
     "server": "cloudflare",
     "x-content-type-options": "nosniff",
-    "x-xss-protection": "1; mode=block"
+    "x-powered-by": "ASP.NET"
   },
   "cloudflare": false,
   "slow": false,

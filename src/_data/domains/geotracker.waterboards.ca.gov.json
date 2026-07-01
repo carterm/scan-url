@@ -30,5 +30,6 @@
   "errorMessage": null,
   "notes": null,
   "nocache": true,
-  "goodScan": true
+  "goodScan": true,
+  "metaAuthor": "State of California"
 }

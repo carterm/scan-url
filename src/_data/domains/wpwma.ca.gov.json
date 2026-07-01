@@ -13,9 +13,9 @@
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "ki-edge": "v=27.1.2;mv=99.9.9",
+    "ki-edge": "v=28.4.3;mv=99.9.9",
     "ki-origin": "g1p",
-    "nel": "{\"success_fraction\":0.01,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}",
     "server": "cloudflare",
     "x-content-type-options": "nosniff",
     "x-edge-location-klb": "1"

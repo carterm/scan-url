@@ -13,7 +13,7 @@
     "content-type": "text/html;charset=utf-8",
     "server": "Squarespace",
     "x-content-type-options": "nosniff",
-    "x-frame-options": "SAMEORIGIN"
+    "x-frame-options": "SAMEORIGIN, SAMEORIGIN"
   },
   "cloudflare": false,
   "slow": false,
@@ -28,8 +28,10 @@
     "G-59B16CDF99",
     "G-5CGC3ET1CB",
     "G-701BF8BBC0",
+    "G-707F4A331B",
     "G-7BE836A90F",
     "G-86AACD645D",
+    "G-89C5ED2A62",
     "G-902FAAFCE0",
     "G-920708D91C",
     "G-975CECE8DE",

@@ -14,6 +14,7 @@
     "content-type": "text/html; charset=UTF-8",
     "server": "nginx",
     "x-content-type-options": "nosniff",
+    "x-perb-skip": "0",
     "x-powered-by": "PHP/8.2.31, PleskLin"
   },
   "cloudflare": false,

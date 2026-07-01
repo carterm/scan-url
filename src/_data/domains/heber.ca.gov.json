@@ -12,7 +12,7 @@
     "content-encoding": "gzip",
     "content-language": "en",
     "content-type": "text/html; charset=UTF-8",
-    "server": "nginx/1.25.5",
+    "server": "nginx/1.29.8",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 8 (https://www.drupal.org)",

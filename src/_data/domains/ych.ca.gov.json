@@ -10,7 +10,7 @@
   "metaGenerator": "Powered by LayerSlider 7.1.1 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress.",
   "responseHeaders": {
     "connection": "keep-alive",
-    "content-encoding": "br",
+    "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "server": "nginx",
     "x-cache-group": "normal",

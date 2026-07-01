@@ -9,7 +9,7 @@
   "lastStatus": 200,
   "metaGenerator": "WordPress 7.0",
   "responseHeaders": {
-    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000, h3-Q050=\":443\"; ma=2592000, h3-Q046=\":443\"; ma=2592000, h3-Q043=\":443\"; ma=2592000, quic=\":443\"; ma=2592000; v=\"43,46\", h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "alt-svc": "h3=\":443\"; ma=86400",
     "connection": "keep-alive",
     "content-type": "text/html; charset=UTF-8",
     "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",

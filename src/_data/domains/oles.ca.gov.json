@@ -13,10 +13,10 @@
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "permissions-policy": "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)",
-    "referrer-policy": "strict-origin",
+    "referrer-policy": "strict-origin-when-cross-origin, strict-origin",
     "server": "nginx",
-    "x-content-type-options": "nosniff",
-    "x-frame-options": "SAMEORIGIN",
+    "x-content-type-options": "nosniff, nosniff",
+    "x-frame-options": "SAMEORIGIN, SAMEORIGIN",
     "x-powered-by": "PHP/8.4.16",
     "x-xss-protection": "1; mode=block"
   },
@@ -32,7 +32,7 @@
   "linksToCaGov": true,
   "errorMessage": null,
   "notes": null,
-  "nocache": false,
+  "nocache": true,
   "goodScan": true,
   "metaAuthor": "State of California"
 }
