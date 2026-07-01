@@ -19,10 +19,7 @@
   "hasStatewideAlerts": true,
   "usesStateTemplate": true,
   "hasJQuery": true,
-  "googleAnalytics": [
-    "UA-3419582-2",
-    "UA-59627195-7"
-  ],
+  "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": true,
   "errorMessage": null,

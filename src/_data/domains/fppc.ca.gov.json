@@ -24,11 +24,7 @@
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [
-    "G-1V1D6GRFKL",
-    "G-75V2BNQ3DR",
-    "GTM-NJ6Q4MV",
-    "UA-22860881-1",
-    "UA-3419582-2"
+    "G-1V1D6GRFKL"
   ],
   "socialLinks": [
     "https://twitter.com/CA_FPPC",

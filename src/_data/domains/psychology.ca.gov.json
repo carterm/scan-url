@@ -23,10 +23,8 @@
   "usesStateTemplate": true,
   "hasJQuery": false,
   "googleAnalytics": [
-    "G-69TD0KNT0F",
     "G-G17MN7HXHK",
-    "GTM-NJ6Q4MV",
-    "UA-64276560-22"
+    "GTM-NJ6Q4MV"
   ],
   "socialLinks": [
     "https://www.facebook.com/BoardofPsychology",
