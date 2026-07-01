@@ -25,6 +25,7 @@ const failTitleWords = [
   "403 Forbidden",
   "404 Not Found",
   "400 Bad Request",
+  "Access Denied",
   "Error",
   "Bad Gateway",
   "Captcha",

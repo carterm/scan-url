@@ -13,9 +13,7 @@
     "content-type": "text/html; charset=utf-8",
     "pragma": "no-cache",
     "x-aspnet-version": "4.0.30319",
-    "x-oneagent-js-injection": "true",
-    "x-powered-by": "ASP.NET",
-    "x-ruxit-js-agent": "true"
+    "x-powered-by": "ASP.NET"
   },
   "cloudflare": false,
   "slow": false,

@@ -17,7 +17,10 @@
     "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
     "server": "cloudflare",
     "x-cache-group": "normal",
-    "x-powered-by": "WP Engine"
+    "x-powered-by": "WP Engine",
+    "x-tec-api-origin": "https://dfpi.ca.gov",
+    "x-tec-api-root": "https://dfpi.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1"
   },
   "cloudflare": false,
   "slow": false,

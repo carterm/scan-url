@@ -8,7 +8,7 @@
   "title": "You are being redirected...",
   "lastStatus": 307,
   "responseHeaders": {
-    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "alt-svc": "h3=\":443\"; ma=86400",
     "connection": "keep-alive",
     "content-type": "text/html",
     "server": "Sucuri/Cloudproxy"

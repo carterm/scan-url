@@ -21,9 +21,7 @@
   "usesStateTemplate": true,
   "hasJQuery": true,
   "googleAnalytics": [
-    "G-4NK0NC7W6K",
-    "G-69TD0KNT0F",
-    "UA-3419582-2"
+    "GTM-PPGRG6D"
   ],
   "socialLinks": [],
   "linksToCaGov": true,
