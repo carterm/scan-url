@@ -30,7 +30,7 @@
     "https://www.youtube.com/CAcorrections"
   ],
   "linksToCaGov": true,
-  "errorMessage": "Fetch error: fetch failed write EPIPE",
+  "errorMessage": "Fetch error: fetch failed read ECONNRESET",
   "notes": null,
   "nocache": false,
   "goodScan": false

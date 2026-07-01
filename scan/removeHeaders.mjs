@@ -97,5 +97,6 @@ export default [
   "x-nitro-rev",
   "x-fd-int-roxy-purgeid",
   "x-sucuri-id",
-  "x-sharepointhealthscore"
+  "x-sharepointhealthscore",
+  "shopify-complexity-score-v2"
 ];
