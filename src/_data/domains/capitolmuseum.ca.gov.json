@@ -10,7 +10,7 @@
   "metaGenerator": "CAWeb v.1.12.4",
   "responseHeaders": {
     "connection": "keep-alive",
-    "content-encoding": "gzip",
+    "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "referrer-policy": "no-referrer-when-downgrade",
     "server": "nginx",

@@ -7,7 +7,7 @@
   "includeInScan": true,
   "title": "Department of Toxic Substances Control | DTSC",
   "lastStatus": 200,
-  "metaGenerator": "CAWeb v.1.13.3",
+  "metaGenerator": "CAWeb v.1.13.4",
   "responseHeaders": {
     "connection": "keep-alive",
     "content-encoding": "gzip",
@@ -47,5 +47,6 @@
   "errorMessage": null,
   "notes": null,
   "goodScan": true,
-  "nocache": false
+  "nocache": false,
+  "metaAuthor": "State of California"
 }
