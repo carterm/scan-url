@@ -19,9 +19,7 @@
   "hasStatewideAlerts": true,
   "usesStateTemplate": true,
   "hasJQuery": true,
-  "googleAnalytics": [
-    "G-DC4ZM50NEC"
-  ],
+  "googleAnalytics": [],
   "socialLinks": [
     "https://twitter.com/CalNatResources/",
     "https://twitter.com/CalNatResources/status/2066658184178119015",

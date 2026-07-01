@@ -22,9 +22,7 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": true,
   "hasJQuery": false,
-  "googleAnalytics": [
-    "G-K4YTKJ2W16"
-  ],
+  "googleAnalytics": [],
   "socialLinks": [
     "https://www.facebook.com/WildlifeConservationBoard/",
     "https://www.instagram.com/wildlifeconservationboard/",
