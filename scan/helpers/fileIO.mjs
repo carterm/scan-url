@@ -31,9 +31,7 @@ export function loadAllDomainRecords() {
   for (const file of files) {
     const filePath = path.join(DOMAIN_DIR, file);
     const record = loadRecord(filePath);
-    if (record) {
-      items.push({ filePath, record });
-    }
+    if (record) items.push({ filePath, record });
   }
   return items;
 }

@@ -39,7 +39,6 @@ function createStarterRecord(domain, targetURL, www) {
 /**
  * Update an existing DomainRecord with new ingestion info.
  * Only updates fields that ingestion is responsible for.
- *
  * @param {DomainRecord} record
  * @param {string} targetURL
  * @param {boolean} www
@@ -47,14 +46,11 @@ function createStarterRecord(domain, targetURL, www) {
 function updateRecordFromIngest(record, targetURL, www) {
   // Update targetURL only if the new one is "better"
   // Rule: shortest URL wins (e.g., https://example.com/ beats https://example.com/about)
-  if (!record.targetURL || targetURL.length < record.targetURL.length) {
+  if (!record.targetURL || targetURL.length < record.targetURL.length)
     record.targetURL = targetURL;
-  }
 
   // Update www flag if new info indicates it should be true
-  if (www && !record.www) {
-    record.www = true;
-  }
+  if (www && !record.www) record.www = true;
 
   // Ingestion does NOT touch:
   // - active
@@ -80,9 +76,7 @@ export function ingestUrls() {
     return;
   }
 
-  if (!fs.existsSync(DOMAIN_DIR)) {
-    fs.mkdirSync(DOMAIN_DIR, { recursive: true });
-  }
+  if (!fs.existsSync(DOMAIN_DIR)) fs.mkdirSync(DOMAIN_DIR, { recursive: true });
 
   const urls = fs
     .readFileSync(INGEST_FILE, "utf8")

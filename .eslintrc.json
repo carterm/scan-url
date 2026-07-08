@@ -2,20 +2,21 @@
   "$schema": "https://json.schemastore.org/eslintrc",
   "env": {
     "browser": true,
-    "commonjs": true,
-    "module": true,
+    "commonjs": false,
     "es2021": true,
     "node": true
   },
   "extends": ["eslint:recommended", "plugin:jsdoc/recommended"],
   "parserOptions": {
     "ecmaVersion": "latest",
-    "sourceType": "commonjs"
+    "sourceType": "module"
   },
+  "ignorePatterns": ["_site"],
   "rules": {
     "arrow-parens": ["warn", "as-needed"],
     "block-scoped-var": "warn",
     "class-methods-use-this": "warn",
+    "curly": ["warn", "multi"],
     "no-extra-bind": "warn",
     "no-extra-parens": "off",
     "no-lonely-if": "warn",
@@ -32,15 +33,15 @@
     "no-var": "warn",
     "operator-assignment": "warn",
     "prefer-arrow-callback": "warn",
-    "prefer-const": "warn",
     "prefer-template": "warn",
     "semi": "warn",
     "yoda": "warn",
+    "jsdoc/require-jsdoc": "off",
     "jsdoc/require-returns": "off",
     "jsdoc/require-returns-type": "off",
     "jsdoc/require-property-description": "off",
     "jsdoc/require-param-description": "off",
     "jsdoc/require-returns-description": "off",
-    "jsdoc/require-jsdoc": "off"
+    "jsdoc/no-undefined-types": "off"
   }
 }

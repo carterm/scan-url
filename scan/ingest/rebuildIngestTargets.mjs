@@ -5,7 +5,7 @@
  */
 import fs from "node:fs";
 import path from "node:path";
-import { loadRecord, saveRecord } from "../helpers/fileIO.mjs";
+import { loadRecord } from "../helpers/fileIO.mjs";
 
 const DOMAIN_DIR = path.join(process.cwd(), "src/_data/domains");
 const ingestFile = path.join(process.cwd(), "scan/ingest/ingestTarget.txt");
@@ -16,9 +16,7 @@ function loadAllDomainRecords() {
   for (const file of files) {
     const filePath = path.join(DOMAIN_DIR, file);
     const record = loadRecord(filePath);
-    if (record) {
-      items.push({ filePath, record });
-    }
+    if (record) items.push({ filePath, record });
   }
   return items;
 }

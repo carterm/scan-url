@@ -1,7 +1,7 @@
 // @ts-check
 
 /**
- * @typedef {Object} NormalizedUrl
+ * @typedef {object} NormalizedUrl
  * @property {string} domain
  * @property {string} targetURL
  * @property {boolean} www
