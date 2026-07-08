@@ -10,8 +10,7 @@
   "metaGenerator": "WordPress 6.9.4",
   "responseHeaders": {
     "content-type": "text/html; charset=UTF-8",
-    "server": "Microsoft-IIS/10.0",
-    "x-litespeed-tag": "87d_PGSRP"
+    "server": "Microsoft-IIS/10.0"
   },
   "cloudflare": false,
   "slow": false,
