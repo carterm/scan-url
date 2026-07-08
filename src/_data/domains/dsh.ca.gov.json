@@ -8,6 +8,7 @@
   "title": "California Department of State Hospitals",
   "lastStatus": 200,
   "responseHeaders": {
+    "connection": "keep-alive",
     "content-encoding": "gzip",
     "content-type": "text/html",
     "server": "Microsoft-IIS/10.0",
@@ -22,8 +23,6 @@
     "GTM-P37W8DW"
   ],
   "socialLinks": [
-    "https://twitter.com/DSHRecruit",
-    "https://twitter.com/dshrecruit",
     "https://www.facebook.com/pages/California-Department-of-State-Hospitals/308247659303315",
     "https://www.linkedin.com/company/ca-department-of-state-hospitals",
     "https://www.youtube.com/channel/UCgOPURule9MVA731cgtbMcg",

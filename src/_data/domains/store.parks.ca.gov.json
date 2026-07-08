@@ -17,7 +17,7 @@
     "powered-by": "Shopify",
     "server": "cloudflare",
     "x-content-type-options": "nosniff",
-    "x-dc": "gcp-us-west1,gcp-us-central1,gcp-us-central1",
+    "x-dc": "gcp-us-west1,gcp-us-west1,gcp-us-west1",
     "x-download-options": "noopen",
     "x-frame-options": "DENY",
     "x-permitted-cross-domain-policies": "none",

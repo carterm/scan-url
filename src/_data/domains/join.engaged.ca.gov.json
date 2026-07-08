@@ -22,6 +22,7 @@
     "accept-ranges": "bytes",
     "connection": "keep-alive",
     "content-type": "text/html",
+    "permissions-policy": "accelerometer=(), autoplay=(self), camera=(), display-capture=(), encrypted-media=(self), fullscreen=*, geolocation=(self), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), usb=()",
     "referrer-policy": "no-referrer",
     "server": "nginx",
     "x-amz-server-side-encryption": "AES256",

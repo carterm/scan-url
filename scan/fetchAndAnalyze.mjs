@@ -4,7 +4,7 @@
  */
 
 import { fetch, Agent } from "undici";
-import { performance } from "node:perf_hooks";
+//import { performance } from "node:perf_hooks";
 import { JSDOM, VirtualConsole } from "jsdom";
 
 import removeHeaders from "./removeHeaders.mjs";
@@ -49,8 +49,8 @@ export async function fetchAndAnalyze(original) {
   domainRecord.domain = original.domain;
 
   const url = domainRecord.targetURL;
-  const start = performance.now();
-  let duration = 0;
+  //const start = performance.now();
+  //let duration = 0;
   // Let fetch handle redirects automatically
   /** @type {import("undici").Response} */
   let res;
@@ -65,8 +65,8 @@ export async function fetchAndAnalyze(original) {
 
     return domainRecord;
   } finally {
-    const end = performance.now();
-    duration = Math.round((end - start) / 1000);
+    //const end = performance.now();
+    //duration = Math.round((end - start) / 1000);
     //console.log(`Fetching ${url} took ${duration} S`);
   }
 
@@ -76,19 +76,17 @@ export async function fetchAndAnalyze(original) {
   domainRecord.responseHeaders = {};
 
   res.headers.forEach((value, name) => {
-    if (!removeHeaders.includes(name.toLowerCase())) {
+    if (!removeHeaders.includes(name.toLowerCase()))
       domainRecord.responseHeaders[name] = domainRecord.responseHeaders[name]
-        ? domainRecord.responseHeaders[name] + "; " + value
+        ? `${domainRecord.responseHeaders[name]}; ${value}`
         : value;
-    }
   });
 
   // add back any removed headers from the original that match keepHeaders
   keepHeaders.forEach(header => {
     const value = original.responseHeaders[header];
-    if (value && !domainRecord.responseHeaders[header]) {
+    if (value && !domainRecord.responseHeaders[header])
       domainRecord.responseHeaders[header] = value;
-    }
   });
 
   // Sort the responseHeaders object
@@ -97,12 +95,12 @@ export async function fetchAndAnalyze(original) {
   );
 
   const cacheControl = res.headers.get("cache-control")?.toLowerCase();
-  if (cacheControl) {
+  if (cacheControl)
     domainRecord.nocache =
       cacheControl.includes("no-store") ||
       cacheControl.includes("no-cache") ||
       cacheControl.includes("max-age=0");
-  }
+
   let body = "";
 
   try {
@@ -123,11 +121,10 @@ export async function fetchAndAnalyze(original) {
     body.includes("Just a moment");
 
   // If Cloudflare challenge or 4xx/5xx → return minimal result
-  if (domainRecord.lastStatus >= 400 || domainRecord.cloudflare) {
+  if (domainRecord.lastStatus >= 400 || domainRecord.cloudflare)
     domainRecord.errorMessage = domainRecord.cloudflare
       ? "Cloudflare challenge detected"
       : `HTTP ${domainRecord.lastStatus}`;
-  }
 
   delete domainRecord.DOMErrors;
   const virtualConsole = new VirtualConsole();
@@ -148,13 +145,13 @@ export async function fetchAndAnalyze(original) {
   const doc = dom.window.document;
 
   let redirectURL = doc.URL !== url ? doc.URL : undefined;
-  if (redirectURL?.startsWith("https://login.microsoftonline.com")) {
+  if (redirectURL?.startsWith("https://login.microsoftonline.com"))
     redirectURL = "[login.microsoftonline.com]";
-  }
-  if (redirectURL?.startsWith(url)) {
+
+  if (redirectURL?.startsWith(url))
     //remove the host in redirect if it matches target
     redirectURL = redirectURL.replace(url, "/");
-  }
+
   domainRecord.finalUrl = redirectURL ?? "";
 
   const scripts = [...doc.scripts]
@@ -183,9 +180,7 @@ export async function fetchAndAnalyze(original) {
             doc.head.querySelector('meta[name="description" i]')
         )?.content) || "";
 
-  if (newTitle.length > 0) {
-    domainRecord.title = newTitle;
-  }
+  if (newTitle.length > 0) domainRecord.title = newTitle;
 
   domainRecord.metaGenerator = /** @type {HTMLMetaElement} */ (
     doc.head.querySelector("meta[name=generator i]")
@@ -209,9 +204,7 @@ export async function fetchAndAnalyze(original) {
   const GA = /GTM-\w{7}|G-\w{10}|UA-\d{7,8}-\d{1,2}/gim;
 
   domainRecord.googleAnalytics = [
-    ...new Set([
-      ...(code.toUpperCase().match(GA) || [])
-    ])
+    ...new Set([...(code.toUpperCase().match(GA) || [])])
   ].sort();
 
   //domainRecord.slow = duration >= 8;
@@ -238,9 +231,9 @@ export async function fetchAndAnalyze(original) {
 
   // add www, m variants
   SOCIAL_DOMAINS.push(
-    ...SOCIAL_DOMAINS.map(d => "www." + d),
-    ...SOCIAL_DOMAINS.map(d => "m." + d),
-    ...SOCIAL_DOMAINS.map(d => "l." + d)
+    ...SOCIAL_DOMAINS.map(d => `www.${d}`),
+    ...SOCIAL_DOMAINS.map(d => `m.${d}`),
+    ...SOCIAL_DOMAINS.map(d => `l.${d}`)
   );
 
   const anchorLinks = /** @type {HTMLAnchorElement[]} */ ([
@@ -251,7 +244,7 @@ export async function fetchAndAnalyze(original) {
     ...new Set(
       anchorLinks
         .map(a => a.href)
-        .filter(href => SOCIAL_DOMAINS.some(d => href.includes("://" + d)))
+        .filter(href => SOCIAL_DOMAINS.some(d => href.includes(`://${d}`)))
     )
   ].sort();
 
@@ -266,22 +259,18 @@ export async function fetchAndAnalyze(original) {
     }
   });
 
-  if (domainRecord.ignoreFinalUrl) {
-    domainRecord.finalUrl = original.finalUrl;
-  }
+  if (domainRecord.ignoreFinalUrl) domainRecord.finalUrl = original.finalUrl;
+
   if (domainRecord.finalUrl?.length === 0) delete domainRecord.finalUrl;
 
   // Mark it a bad scan if failure words are in the title
   if (
     !domainRecord.errorMessage &&
     failTitleWords.some(word => domainRecord.title.includes(word))
-  ) {
+  )
     domainRecord.errorMessage = `Failure title word detected in title: "${domainRecord.title}"`;
-  }
 
-  if (domainRecord.errorMessage) {
-    domainRecord.goodScan = false;
-  }
+  if (domainRecord.errorMessage) domainRecord.goodScan = false;
 
   return domainRecord;
 }

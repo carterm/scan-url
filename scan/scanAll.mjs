@@ -25,12 +25,8 @@ async function scanAll() {
         if (!record.goodScan || scan.goodScan) {
           saveRecord(filePath, scan);
           console.log(`📝 Updated save ${record.domain}`);
-        } else {
-          console.log(`❌ Error ${record.domain} (${scan.errorMessage})`);
-        }
-      } else {
-        console.log(`✅ Scanned ${record.domain}`);
-      }
+        } else console.log(`❌ Error ${record.domain} (${scan.errorMessage})`);
+      } else console.log(`✅ Scanned ${record.domain}`);
     })
   );
 
