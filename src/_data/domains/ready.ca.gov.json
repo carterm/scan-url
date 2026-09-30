@@ -1,0 +1,40 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "ready.ca.gov",
+  "targetURL": "https://ready.ca.gov/",
+  "www": false,
+  "goodScan": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "Be Disaster Ready, California – Listos California",
+  "lastStatus": 200,
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-PQ99MFH",
+    "UA-15552036-37"
+  ],
+  "socialLinks": [
+    "https://twitter.com/ListosCA",
+    "https://www.facebook.com/ListosCalifornia/",
+    "https://www.instagram.com/ListosCalifornia/",
+    "https://www.youtube.com/channel/UCeMUMUqdFOX23op5bcPXyig"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": "Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: ready.ca.gov. is not in the cert's altnames: DNS:caloes.ca.gov, DNS:earthquake.ca.gov, DNS:news.caloes.ca.gov, DNS:reducetherisk.ca.gov, DNS:ssc.ca.gov, DNS:wftiic.ca.gov, DNS:wildfirerecovery.caloes.ca.gov, DNS:www.caloes.ca.gov, DNS:www.earthquake.ca.gov, DNS:www.news.caloes.ca.gov, DNS:www.reducetherisk.ca.gov, DNS:www.ssc.ca.gov, DNS:www.wftiic.ca.gov, DNS:www.wildfirerecovery.caloes.ca.gov",
+  "nocache": false,
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "cloudflare",
+    "x-cache-group": "normal",
+    "x-powered-by": "WP Engine"
+  },
+  "notes": null,
+  "finalUrl": "https://www.listoscalifornia.org/disaster-readiness/"
+}

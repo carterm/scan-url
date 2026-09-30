@@ -27,9 +27,9 @@
   ],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": null,
+  "errorMessage": "Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: hellosavings.ca.gov. is not in the cert's altnames: DNS:ia.cpuc.ca.gov, DNS:calphoneinfo.cpuc.ca.gov, DNS:cpuc.ca.gov, DNS:hellosavings.cpuc.ca.gov, DNS:www.cpuc.ca.gov, DNS:www.ia.cpuc.ca.gov",
   "notes": null,
   "nocache": false,
-  "goodScan": true,
+  "goodScan": false,
   "metaAuthor": "California Public Utilities Commission"
 }

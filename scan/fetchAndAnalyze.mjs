@@ -34,6 +34,14 @@ const failTitleWords = [
 
 const fetchTimeout = 15000; //15 seconds
 
+// default secure agent for HTTPS requests
+const secureAgent = new Agent({
+  connect: { rejectUnauthorized: true, timeout: fetchTimeout },
+  bodyTimeout: fetchTimeout, // time allowed for the body to be received
+  headersTimeout: fetchTimeout // time allowed for headers
+});
+
+// fallback insecure agent for HTTPS requests
 const insecureAgent = new Agent({
   connect: { rejectUnauthorized: false, timeout: fetchTimeout },
   bodyTimeout: fetchTimeout, // time allowed for the body to be received
@@ -56,7 +64,7 @@ export async function fetchAndAnalyze(original) {
   let res;
   try {
     res = await fetch(url, {
-      dispatcher: insecureAgent,
+      dispatcher: secureAgent,
       redirect: "follow"
     });
   } catch (e) {

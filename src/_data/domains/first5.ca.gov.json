@@ -29,8 +29,8 @@
     "https://www.youtube.com/First5CA"
   ],
   "linksToCaGov": false,
-  "errorMessage": null,
+  "errorMessage": "Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: www.first5.ca.gov. is not in the cert's altnames: DNS:ccfc.ca.gov",
   "notes": null,
   "nocache": false,
-  "goodScan": true
+  "goodScan": false
 }

@@ -31,8 +31,8 @@
   ],
   "socialLinks": [],
   "linksToCaGov": true,
-  "errorMessage": null,
+  "errorMessage": "Fetch error: fetch failed unable to verify the first certificate",
   "notes": null,
   "nocache": false,
-  "goodScan": true
+  "goodScan": false
 }

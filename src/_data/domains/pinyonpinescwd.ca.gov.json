@@ -24,8 +24,8 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": null,
+  "errorMessage": "Fetch error: fetch failed certificate has expired",
   "notes": null,
   "nocache": false,
-  "goodScan": true
+  "goodScan": false
 }

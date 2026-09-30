@@ -8,10 +8,12 @@
   "title": "Coachella Valley Mountain Conservancy – Our mission is to protect the natural and cultural resources of the Coachella Valley",
   "lastStatus": 200,
   "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
     "connection": "keep-alive",
-    "content-encoding": "gzip",
+    "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "server": "nginx",
+    "permissions-policy": "accelerometer=(), ambient-light-sensor=(), autoplay=(), battery=(), camera=(), display-capture=(), document-domain=(), encrypted-media=(), fullscreen=(self), geolocation=(), gyroscope=(), keyboard-map=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), sync-xhr=(), usb=(), web-share=(), xr-spatial-tracking=(), interest-cohort=()",
+    "server": "cloudflare",
     "wpo-cache-status": "cached",
     "x-content-type-options": "nosniff"
   },
@@ -20,7 +22,9 @@
   "hasStatewideAlerts": true,
   "usesStateTemplate": true,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-XX909HQNRY"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "errorMessage": null,

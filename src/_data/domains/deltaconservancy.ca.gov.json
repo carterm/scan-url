@@ -8,9 +8,12 @@
   "title": "Delta Conservancy – Welcome",
   "lastStatus": 200,
   "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
     "connection": "keep-alive",
+    "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "server": "nginx",
+    "permissions-policy": "accelerometer=(), ambient-light-sensor=(), autoplay=(), battery=(), camera=(), display-capture=(), document-domain=(), encrypted-media=(), fullscreen=(self), geolocation=(), gyroscope=(), keyboard-map=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), sync-xhr=(), usb=(), web-share=(), xr-spatial-tracking=(), interest-cohort=()",
+    "server": "cloudflare",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN"
   },
@@ -19,7 +22,9 @@
   "hasStatewideAlerts": true,
   "usesStateTemplate": true,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-34GCW1F9KH"
+  ],
   "socialLinks": [
     "https://twitter.com/DeltaConservncy",
     "https://www.facebook.com/deltaconservancy/",
