@@ -9,16 +9,16 @@
   "lastStatus": 200,
   "metaGenerator": "Microsoft SharePoint",
   "responseHeaders": {
+    "accept-ranges": "bytes",
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "permissions-policy": "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)",
     "referrer-policy": "strict-origin-when-cross-origin, strict-origin",
     "server": "nginx",
     "x-content-type-options": "nosniff, nosniff",
     "x-frame-options": "SAMEORIGIN, SAMEORIGIN",
-    "x-powered-by": "PHP/8.4.16",
-    "x-xss-protection": "1; mode=block"
+    "x-hacker": "If you're reading this, you should visit https://join.a8c.com/viphacker and apply to join the fun, mention this header.",
+    "x-powered-by": "WordPress VIP <https://wpvip.com>"
   },
   "cloudflare": false,
   "slow": false,
@@ -32,7 +32,7 @@
   "linksToCaGov": true,
   "errorMessage": null,
   "notes": null,
-  "nocache": true,
+  "nocache": false,
   "goodScan": true,
   "metaAuthor": "State of California"
 }

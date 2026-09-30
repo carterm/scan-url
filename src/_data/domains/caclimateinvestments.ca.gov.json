@@ -20,16 +20,19 @@
   "usesStateTemplate": false,
   "hasJQuery": true,
   "googleAnalytics": [
-    "G-1D5B489673",
+    "G-1357CF8621",
     "G-701BF8BBC0",
+    "G-75B6582783",
     "G-86AACD645D",
-    "G-CC56EDB82C",
     "G-COLLECTION",
     "G-SQTTDXLFMY",
     "G-ZCFAH2ENT5"
   ],
   "socialLinks": [
     "https://www.facebook.com/CAClimateInvest/",
+    "https://www.instagram.com/caclimateinvest/",
+    "https://www.linkedin.com/company/caclimateinvest",
+    "https://www.youtube.com/@californiaclimateinvestments",
     "https://x.com/CAClimateInvest"
   ],
   "linksToCaGov": false,

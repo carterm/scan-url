@@ -7,13 +7,13 @@
   "includeInScan": true,
   "title": "Home - Western Placer Waste Management Authority",
   "lastStatus": 200,
-  "metaGenerator": "WordPress 7.0",
+  "metaGenerator": "WordPress 7.1.2",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "ki-edge": "v=28.4.3;mv=99.9.9",
+    "ki-edge": "v=28.5.0;mv=99.9.9",
     "ki-origin": "g1p",
     "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}",
     "server": "cloudflare",
@@ -24,7 +24,7 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [
     "G-L673EFZY1V"
   ],

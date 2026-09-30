@@ -8,9 +8,9 @@
   "title": "Home page - Bureau of Automotive Repair",
   "lastStatus": 200,
   "responseHeaders": {
-    "access-control-allow-private-network": "true",
     "content-type": "text/html; charset=utf-8",
     "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "volt-adc",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-xss-protection": "1; mode=block"

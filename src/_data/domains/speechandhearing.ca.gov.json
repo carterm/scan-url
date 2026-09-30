@@ -9,23 +9,23 @@
   "lastStatus": 200,
   "responseHeaders": {
     "accept-ranges": "bytes",
-    "access-control-allow-private-network": "true",
     "connection": "Keep-Alive",
     "content-type": "text/html",
     "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "volt-adc",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": true,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": false,
   "googleAnalytics": [
-    "G-69TD0KNT0F",
     "G-KZHR8TYRFF",
-    "UA-64276560-26"
+    "G-Y7T2KCM7P1",
+    "GTM-NJ6Q4MV"
   ],
   "socialLinks": [],
   "linksToCaGov": true,
@@ -33,5 +33,5 @@
   "notes": null,
   "nocache": false,
   "goodScan": true,
-  "metaAuthor": "Department of Consumer Affairs, State of California"
+  "metaAuthor": "Speech-Language Pathology and Audiology and Hearing Aid Dispensers Board"
 }

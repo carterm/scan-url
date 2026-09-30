@@ -10,11 +10,10 @@
   "responseHeaders": {
     "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
     "access-control-allow-methods": "GET",
-    "access-control-allow-private-network": "true",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "server": "Microsoft-IIS/10.0",
+    "server": "volt-adc",
     "x-aspnet-version": "4.0.30319",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",

@@ -30,7 +30,7 @@
     "https://www.youtube.com/CAcorrections"
   ],
   "linksToCaGov": true,
-  "errorMessage": "Fetch error: fetch failed write EPIPE",
+  "errorMessage": "Fetch error: fetch failed connect ECONNREFUSED 67.157.34.197:443",
   "notes": null,
   "nocache": false,
   "goodScan": false

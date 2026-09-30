@@ -13,7 +13,8 @@
     "content-type": "text/html; charset=utf-8",
     "p3p": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"",
     "server": "cloudflare",
-    "x-content-type-options": "nosniff"
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN"
   },
   "cloudflare": false,
   "slow": false,

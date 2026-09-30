@@ -7,7 +7,7 @@
   "includeInScan": true,
   "title": "BEACON | Beach Erosion Authority for Clean Oceans and Nourishment",
   "lastStatus": 200,
-  "metaGenerator": "Divi v.4.27.6",
+  "metaGenerator": "Divi v.4.27.9",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
     "connection": "keep-alive",
@@ -26,7 +26,8 @@
   "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [
-    "https://www.facebook.com/BEACON.ca.gov"
+    "https://www.facebook.com/BEACON.ca.gov",
+    "https://www.youtube.com/watch?v=Iko0pGoxTgo"
   ],
   "linksToCaGov": false,
   "errorMessage": null,

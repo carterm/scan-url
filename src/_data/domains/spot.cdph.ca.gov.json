@@ -10,6 +10,7 @@
   "responseHeaders": {
     "content-encoding": "gzip",
     "content-type": "text/html;charset=UTF-8",
+    "permissions-policy": "unload=*",
     "reporting-endpoints": "sfdc-csp-ep=\"https://cdphct.lightning.force.com/_/ContentDomainCSPNoAuth?tenantId=00Dt00000004XQC&networkId=0DMt0000000PBdO&type=communities\"",
     "server": "volt-adc",
     "timing-allow-origin": "*",

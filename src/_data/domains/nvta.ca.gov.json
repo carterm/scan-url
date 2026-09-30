@@ -33,5 +33,6 @@
   "errorMessage": null,
   "notes": null,
   "nocache": false,
-  "goodScan": true
+  "goodScan": true,
+  "metaGenerator": "Site Kit by Google 1.188.0"
 }

@@ -5,9 +5,8 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "Home",
+  "title": "Nutrition and Physical Activity Branch",
   "lastStatus": 200,
-  "metaGenerator": "Microsoft SharePoint",
   "responseHeaders": {
     "access-control-expose-headers": "Request-Context",
     "content-encoding": "gzip",
@@ -21,21 +20,27 @@
   },
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [
+    "G-LXNJ35D8MM",
+    "G-RESPONSIVE",
     "GTM-KVN6ZCB"
   ],
   "socialLinks": [
-    "https://www.facebook.com/CalFreshHealthyLiving",
-    "https://www.instagram.com/calfreshhealthyliving",
-    "https://www.pinterest.com/calfreshhealthyliving",
-    "https://www.youtube.com/channel/UCSYdToBHmNbjGLQCzKsA_hQ/featured"
+    "https://instagram.com/capublichealth/",
+    "https://twitter.com/CAPublicHealth",
+    "https://www.facebook.com/CAPublicHealth",
+    "https://www.linkedin.com/company/california-department-of-public-health",
+    "https://www.tiktok.com/@capublichealth",
+    "https://www.youtube.com/user/CAPublicHealth"
   ],
-  "linksToCaGov": false,
+  "linksToCaGov": true,
   "errorMessage": null,
   "notes": null,
-  "nocache": true,
-  "goodScan": true
+  "nocache": false,
+  "goodScan": true,
+  "finalUrl": "https://www.cdph.ca.gov/Programs/CCDPHP/DCDIC/NEOPB/Pages/Nutrition_Physical_Activity_Branch.aspx",
+  "metaAuthor": "Department of Public Health"
 }

@@ -8,12 +8,16 @@
   "title": "State Controller's Office - Local Agency Investment Fund - Home",
   "lastStatus": 200,
   "responseHeaders": {
+    "connection": "keep-alive",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
+    "expect-ct": "max-age=86400, enforce",
     "pragma": "no-cache",
-    "server": "Microsoft-IIS/10.0",
+    "referrer-policy": "same-origin",
+    "server": "cloudflare",
+    "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
-    "x-powered-by": "ASP.NET"
+    "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,
   "slow": false,

@@ -9,13 +9,14 @@
   "lastStatus": 200,
   "metaGenerator": "CAWeb v.1.12.4",
   "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "referrer-policy": "no-referrer-when-downgrade",
-    "server": "nginx",
+    "server": "cloudflare",
+    "x-cache-group": "normal",
     "x-content-type-options": "nosniff",
-    "x-powered-by": "PleskLin",
     "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,

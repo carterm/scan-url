@@ -16,7 +16,8 @@
     "server": "snow_adc",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
-    "x-is-logged-in": "false"
+    "x-is-logged-in": "false",
+    "x-is-visitor": "false"
   },
   "cloudflare": false,
   "slow": false,
@@ -24,6 +25,7 @@
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [
+    "G-DIRECTIONA",
     "G-MULTISELEC",
     "G-RESPONSIVE",
     "G-TRANSCLUDE"

@@ -19,7 +19,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-4TW7278PVB"
+  ],
   "socialLinks": [
     "https://twitter.com/CASOSvote/",
     "https://www.facebook.com/CaliforniaSOS/",

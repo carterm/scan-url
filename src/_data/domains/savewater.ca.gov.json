@@ -12,7 +12,7 @@
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
     "pragma": "no-cache",
-    "request-context": "appId=cid-v1:7ff4aea4-19b3-4663-8197-2ecb27243eaf",
+    "request-context": "appId=cid-v1:41747ed0-85ce-45b8-9b22-aed1666d1df6",
     "x-frame-options": "SAMEORIGIN",
     "x-powered-by": "ASP.NET"
   },
@@ -21,7 +21,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": true,
   "hasJQuery": true,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-A3JZULJE5A"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "errorMessage": null,

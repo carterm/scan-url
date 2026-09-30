@@ -7,7 +7,7 @@
   "includeInScan": true,
   "title": "Coast Life Support District – Ambulance & collaborative healthcare services for southern Mendocino and northern Sonoma County coastal communities",
   "lastStatus": 200,
-  "metaGenerator": "WordPress 7.0",
+  "metaGenerator": "WordPress 7.1.2",
   "responseHeaders": {
     "connection": "keep-alive",
     "content-encoding": "gzip",
@@ -25,7 +25,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": true,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-BACKGROUND"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "errorMessage": null,

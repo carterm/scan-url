@@ -19,11 +19,10 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": true,
-  "googleAnalytics": [
-    "G-507R801X2W"
-  ],
+  "googleAnalytics": [],
   "socialLinks": [
-    "https://www.facebook.com/Nevada-County-Transportation-Commission-1598091307119278/timeline/"
+    "https://www.facebook.com/p/Nevada-County-Transportation-Commission-100064945740029/",
+    "https://x.com/NevCoTransComm"
   ],
   "linksToCaGov": false,
   "errorMessage": null,

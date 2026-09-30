@@ -1,8 +1,8 @@
 {
   "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "sbac.ca.gov",
-  "targetURL": "https://www.sbac.ca.gov/",
-  "www": true,
+  "targetURL": "https://sbac.ca.gov/",
+  "www": false,
   "active": true,
   "includeInScan": true,
   "title": "Home - Santa Barbara County Office of Arts & Culture",
@@ -34,5 +34,5 @@
   "nocache": false,
   "goodScan": true,
   "finalUrl": "https://sbac.ca.gov/",
-  "metaGenerator": "Site Kit by Google 1.180.0"
+  "metaGenerator": "Site Kit by Google 1.188.0"
 }

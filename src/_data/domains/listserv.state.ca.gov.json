@@ -5,7 +5,7 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "LISTSERV - LISTSERV Archives - LISTSERV.STATE.CA.GOV",
+  "title": "LISTSERV - LISTSERV Archives - LISTSERV.CA.GOV",
   "lastStatus": 200,
   "responseHeaders": {
     "connection": "close",
@@ -26,5 +26,6 @@
   "errorMessage": null,
   "notes": null,
   "nocache": false,
-  "goodScan": true
+  "goodScan": true,
+  "finalUrl": "https://listserv.ca.gov/wa.exe?INDEX"
 }

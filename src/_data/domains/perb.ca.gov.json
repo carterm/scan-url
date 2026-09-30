@@ -9,13 +9,14 @@
   "lastStatus": 200,
   "metaGenerator": "CAWeb v.1.13.2a",
   "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "server": "nginx",
+    "server": "cloudflare",
+    "x-cache-group": "normal",
     "x-content-type-options": "nosniff",
-    "x-perb-skip": "0",
-    "x-powered-by": "PHP/8.2.31, PleskLin"
+    "x-powered-by": "WP Engine"
   },
   "cloudflare": false,
   "slow": false,

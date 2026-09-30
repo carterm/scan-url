@@ -7,13 +7,16 @@
   "includeInScan": true,
   "title": "Home Page - California Arts Council",
   "lastStatus": 200,
-  "metaGenerator": "WordPress 6.8.2",
+  "metaGenerator": "WordPress 7.0.2",
   "responseHeaders": {
     "accept-ranges": "bytes",
     "connection": "keep-alive",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "server": "nginx",
+    "x-et-api-origin": "https://arts.ca.gov",
+    "x-et-api-root": "https://arts.ca.gov/wp-json/tribe/tickets/v1/",
+    "x-et-api-version": "v1",
     "x-tec-api-origin": "https://arts.ca.gov",
     "x-tec-api-root": "https://arts.ca.gov/wp-json/tribe/events/v1/",
     "x-tec-api-version": "v1"

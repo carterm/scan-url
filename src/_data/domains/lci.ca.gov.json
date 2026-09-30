@@ -29,7 +29,7 @@
   ],
   "socialLinks": [
     "https://www.facebook.com/profile.php?id=61568449778077&mibextid=LQQJ4",
-    "https://www.instagram.com/cal.lci/profilecard/?igsh=NTc4MTIwNjQ2YQ%3D%3D",
+    "https://www.instagram.com/cal.lci/",
     "https://www.youtube.com/channel/UCTBmAaS7WDxOcyjo85dcXtA",
     "https://x.com/Cal_LCI"
   ],
@@ -38,7 +38,7 @@
   "notes": null,
   "nocache": false,
   "goodScan": true,
-  "metaGenerator": "WordPress 6.9.4",
+  "metaGenerator": "WordPress 7.0.6",
   "DOMErrors": [
     "Could not parse CSS stylesheet"
   ]

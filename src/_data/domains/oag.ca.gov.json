@@ -40,6 +40,6 @@
   "linksToCaGov": false,
   "errorMessage": null,
   "notes": null,
-  "nocache": true,
+  "nocache": false,
   "goodScan": true
 }

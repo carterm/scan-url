@@ -8,7 +8,9 @@
   "title": "Home - California State Parks & Recreation Online Store",
   "lastStatus": 200,
   "responseHeaders": {
+    "accept-ch": "Sec-CH-Viewport-Width",
     "alt-svc": "h3=\":443\"; ma=86400",
+    "cdn-cache-control": "no-cache, no-store",
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-language": "en-US",
@@ -40,6 +42,6 @@
   "linksToCaGov": true,
   "errorMessage": null,
   "notes": null,
-  "nocache": false,
+  "nocache": true,
   "goodScan": true
 }

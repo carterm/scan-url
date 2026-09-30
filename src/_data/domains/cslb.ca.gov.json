@@ -8,9 +8,9 @@
   "title": "CSLB-Home -CSLB",
   "lastStatus": 200,
   "responseHeaders": {
-    "access-control-allow-private-network": "true",
     "content-type": "text/html; charset=utf-8",
     "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "volt-adc",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-ua-compatible": "IE=Edge,chrome=1",

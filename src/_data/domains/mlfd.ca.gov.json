@@ -7,7 +7,7 @@
   "includeInScan": true,
   "title": "Mammoth Lakes Fire Department | Mammoth Lakes California",
   "lastStatus": 200,
-  "metaGenerator": "WordPress 7.0",
+  "metaGenerator": "WordPress 7.1.2",
   "responseHeaders": {
     "connection": "keep-alive",
     "content-encoding": "br",
@@ -23,7 +23,9 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": true,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-VALIDATION"
+  ],
   "socialLinks": [
     "https://www.facebook.com/mammothlakesfire/",
     "https://www.instagram.com/mammothlakesfiredept/"

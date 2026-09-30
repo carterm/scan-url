@@ -15,10 +15,8 @@
     "content-type": "text/html; charset=UTF-8",
     "server": "cloudflare",
     "x-cache-group": "normal",
-    "x-powered-by": "WP Engine",
-    "x-tec-api-origin": "https://www.tam.ca.gov",
-    "x-tec-api-root": "https://www.tam.ca.gov/wp-json/tribe/events/v1/",
-    "x-tec-api-version": "v1"
+    "x-cache-handler": "cache-enabler-engine",
+    "x-powered-by": "WP Engine"
   },
   "cloudflare": false,
   "slow": false,

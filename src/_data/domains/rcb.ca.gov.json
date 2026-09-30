@@ -9,10 +9,10 @@
   "lastStatus": 200,
   "responseHeaders": {
     "accept-ranges": "bytes",
-    "access-control-allow-private-network": "true",
     "connection": "Keep-Alive",
     "content-type": "text/html",
     "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "volt-adc",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-xss-protection": "1; mode=block"

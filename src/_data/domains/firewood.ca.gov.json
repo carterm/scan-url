@@ -10,7 +10,8 @@
   "responseHeaders": {
     "accept-ranges": "bytes",
     "connection": "keep-alive",
-    "content-type": "text/html"
+    "content-type": "text/html",
+    "x-powered-by": "ASP.NET"
   },
   "cloudflare": false,
   "slow": false,
@@ -23,5 +24,6 @@
   "errorMessage": null,
   "notes": null,
   "nocache": false,
-  "goodScan": true
+  "goodScan": true,
+  "finalUrl": "https://firewood.cdfa.ca.gov/"
 }

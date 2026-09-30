@@ -20,9 +20,9 @@
   },
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
   "googleAnalytics": [
     "G-69TD0KNT0F",
     "G-DCG7L67NBP",
@@ -40,5 +40,8 @@
   "notes": null,
   "nocache": false,
   "goodScan": true,
-  "metaAuthor": "State of California"
+  "metaAuthor": "State of California",
+  "DOMErrors": [
+    "Could not parse CSS stylesheet"
+  ]
 }

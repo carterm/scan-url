@@ -5,13 +5,17 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "files.resources.ca.gov — Domain welcome page for",
+  "title": "Request Rejected",
   "lastStatus": 200,
   "responseHeaders": {
     "accept-ranges": "bytes",
-    "connection": "keep-alive",
+    "connection": "close",
     "content-type": "text/html",
-    "server": "nginx"
+    "pragma": "no-cache",
+    "server": "nginx",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,
   "slow": false,
@@ -23,6 +27,6 @@
   "linksToCaGov": false,
   "errorMessage": null,
   "notes": null,
-  "nocache": false,
+  "nocache": true,
   "goodScan": true
 }

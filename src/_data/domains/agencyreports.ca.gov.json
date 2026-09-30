@@ -11,7 +11,7 @@
     "connection": "Keep-Alive",
     "content-encoding": "gzip",
     "content-language": "en",
-    "content-type": "text/html; charset=UTF-8",
+    "content-type": "text/html; charset=utf-8",
     "from-origin": "https://acc-was.calegis.net",
     "referrer-policy": "no-referrer-when-downgrade",
     "server": "Apache",

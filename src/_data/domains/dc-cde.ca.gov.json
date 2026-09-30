@@ -24,5 +24,6 @@
   "errorMessage": null,
   "notes": null,
   "nocache": false,
-  "goodScan": true
+  "goodScan": true,
+  "metaAuthor": "Mark Otto, Jacob Thornton, and Bootstrap contributors"
 }

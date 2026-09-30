@@ -8,7 +8,7 @@
   "title": "FERIX Home",
   "lastStatus": 200,
   "responseHeaders": {
-    "connection": "Keep-Alive",
+    "connection": "keep-alive",
     "content-type": "text/html;charset=ISO-8859-1",
     "server": "Apache/2.4.10 (Unix) mod_jk/1.2.40"
   },

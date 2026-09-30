@@ -22,7 +22,6 @@
   ],
   "socialLinks": [
     "http://www.facebook.com/CSDRiverside",
-    "http://www.twitter.com/CSDRiverside",
     "https://www.instagram.com/CSDRiverside/",
     "https://www.youtube.com/@csdriverside"
   ],
@@ -30,5 +29,6 @@
   "errorMessage": null,
   "notes": null,
   "nocache": false,
-  "goodScan": true
+  "goodScan": true,
+  "metaAuthor": "CSD Riverside"
 }
