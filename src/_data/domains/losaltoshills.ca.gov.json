@@ -11,6 +11,8 @@
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
     "p3p": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"",
+    "permissions-policy": "camera=(), microphone=()",
+    "referrer-policy": "strict-origin-when-cross-origin",
     "server": "Microsoft-IIS/10.0",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN"
@@ -25,7 +27,8 @@
     "GTM-K73C5PS"
   ],
   "socialLinks": [
-    "https://www.linkedin.com/company/town-of-los-altos-hills/posts/?feedView=all"
+    "https://www.linkedin.com/company/town-of-los-altos-hills/posts/?feedView=all",
+    "https://youtube.com/@townoflosaltoshillsca?si=EgklB5sW9LbPOHiH"
   ],
   "linksToCaGov": false,
   "errorMessage": null,

@@ -15,6 +15,7 @@
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-permitted-cross-domain-policies": "none",
+    "x-revize-base": "https://hollister.ca.gov/",
     "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,

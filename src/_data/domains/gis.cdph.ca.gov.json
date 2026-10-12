@@ -24,7 +24,6 @@
     "server": "Microsoft-IIS/10.0",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
-    "x-powered-by": "ASP.NET",
     "x-xss-protection": "1; mode=block"
   },
   "notes": null
