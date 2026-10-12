@@ -40,8 +40,8 @@
   "notes": null,
   "finalUrl": "https://lci.ca.gov/",
   "cosmeticTargetURL": "https://lci.ca.gov/",
+  "metaGenerator": "WordPress 7.0.7",
   "DOMErrors": [
     "Could not parse CSS stylesheet"
-  ],
-  "metaGenerator": "WordPress 7.0.7"
+  ]
 }

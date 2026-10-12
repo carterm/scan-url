@@ -5,9 +5,10 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "EBT Project",
+  "title": "California EBT Project Office",
   "lastStatus": 200,
   "responseHeaders": {
+    "accept-ranges": "bytes",
     "connection": "keep-alive",
     "content-encoding": "gzip",
     "content-type": "text/html",
@@ -16,15 +17,17 @@
   },
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": true,
-  "hasJQuery": true,
-  "googleAnalytics": [],
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-75V2BNQ3DR",
+    "GTM-NJ6Q4MV"
+  ],
   "socialLinks": [],
   "linksToCaGov": true,
   "errorMessage": "Fetch error: fetch failed unable to verify the first certificate",
   "notes": null,
   "nocache": false,
-  "goodScan": false,
-  "metaAuthor": "State of California"
+  "goodScan": false
 }

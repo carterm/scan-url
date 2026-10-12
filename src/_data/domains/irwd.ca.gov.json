@@ -6,18 +6,35 @@
   "goodScan": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Irvine Ranch Water District | Drinking Water, Recycled Water, Sewer Collections",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-GRID__ITEM",
+    "G-GRID__SLID"
+  ],
+  "socialLinks": [
+    "https://twitter.com/IRWDnews?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Eprofile%3AIRWDnews&ref_url=https%3A%2F%2Fwww.irwd.com%2F",
+    "https://www.facebook.com/IrvineRanchWaterDistrict",
+    "https://www.instagram.com/irwdnews/",
+    "https://www.linkedin.com/company/irvine-ranch-water-district/",
+    "https://www.youtube.com/user/IrvineRanchWD"
+  ],
   "linksToCaGov": false,
   "errorMessage": "Fetch error: fetch failed unable to verify the first certificate",
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "server": "nginx/1.24.0 (Ubuntu)"
+  },
+  "notes": null,
+  "finalUrl": "https://www.irwd.com/",
+  "cosmeticTargetURL": "https://www.irwd.com/",
+  "metaGenerator": "Site Kit by Google 1.183.0"
 }

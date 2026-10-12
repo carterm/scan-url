@@ -6,18 +6,41 @@
   "goodScan": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Homepage - California Cancer Registry",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-WKQEQQTTVM"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "errorMessage": "Fetch error: fetch failed certificate has expired",
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "no-vary-search": "params=(\"PageSpeed\")",
+    "permissions-policy": "fullscreen=(self)",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "server": "cloudflare",
+    "x-cache-group": "normal",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "sameorigin",
+    "x-permitted-cross-domain-policies": "master-only",
+    "x-powered-by": "WP Engine",
+    "x-xss-protection": "1; mode=block"
+  },
+  "notes": null,
+  "finalUrl": "https://ccrcal.org/",
+  "cosmeticTargetURL": "https://ccrcal.org/",
+  "DOMErrors": [
+    "Could not parse CSS stylesheet"
+  ],
+  "metaGenerator": "Divi v.5.9.0"
 }

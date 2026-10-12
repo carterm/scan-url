@@ -15,7 +15,8 @@
     "server": "volt-adc",
     "timing-allow-origin": "*",
     "x-content-type-options": "nosniff",
-    "x-frame-options": "SAMEORIGIN"
+    "x-frame-options": "SAMEORIGIN",
+    "x-sfdc-trace-flags": "01"
   },
   "cloudflare": false,
   "slow": false,

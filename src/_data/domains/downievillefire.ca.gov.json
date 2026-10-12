@@ -6,18 +6,32 @@
   "goodScan": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Homepage Downieville Fire Protection District",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.facebook.com/DownievilleVFD/"
+  ],
   "linksToCaGov": false,
   "errorMessage": "Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: downievillefire.ca.gov. is not in the cert's altnames: DNS:bigrivercsd.org, DNS:www.bigrivercsd.org",
-  "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "nocache": true,
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "nginx",
+    "x-content-type-options": "nosniff",
+    "x-download-options": "noopen",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "1; mode=block"
+  },
+  "notes": null,
+  "finalUrl": "https://www.downievillefiredistrictca.gov/",
+  "cosmeticTargetURL": "https://www.downievillefiredistrictca.gov/"
 }

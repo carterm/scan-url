@@ -6,18 +6,32 @@
   "goodScan": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "California Seniors",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-7KBM6NS4N5",
+    "UA-3419582-2",
+    "UA-35348113-1"
+  ],
   "socialLinks": [],
-  "linksToCaGov": false,
+  "linksToCaGov": true,
   "errorMessage": "Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: seniors.ca.gov. is not in the cert's altnames: DNS:*.insurance.ca.gov, DNS:insurance.ca.gov, DNS:interactive.web.insurance.ca.gov, DNS:legaldocs.insurance.ca.gov, DNS:www.insurance.ca.gov, DNS:cdiapps.insurance.ca.gov, DNS:cdiappstest.insurance.ca.gov",
-  "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "nocache": true,
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html;charset=UTF-8",
+    "pragma": "no-cache",
+    "server": "Microsoft-IIS/10.0",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "ASP.NET"
+  },
+  "notes": null,
+  "finalUrl": "https://seniors.insurance.ca.gov/",
+  "cosmeticTargetURL": "https://seniors.insurance.ca.gov/",
+  "metaGenerator": "CommonSpot Build 10.9.1.579"
 }

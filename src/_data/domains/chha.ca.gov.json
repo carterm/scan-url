@@ -38,8 +38,8 @@
   "notes": null,
   "finalUrl": "https://www.housing.ca.gov/",
   "cosmeticTargetURL": "https://www.housing.ca.gov/",
+  "metaGenerator": "WordPress 7.1.3",
   "DOMErrors": [
     "Could not parse CSS stylesheet"
-  ],
-  "metaGenerator": "WordPress 7.1.3"
+  ]
 }

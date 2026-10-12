@@ -6,18 +6,30 @@
   "goodScan": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Ask A Specialist - Professional Development (Diagnostic Center, Northern CA)",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-WBWQR22BJZ"
+  ],
+  "socialLinks": [
+    "https://twitter.com/home?status=https%3A//dcn-cde.ca.gov/professionaldev/askaspecialist/index.aspx",
+    "https://www.facebook.com/sharer/sharer.php?u=https%3A//dcn-cde.ca.gov/professionaldev/askaspecialist/index.aspx",
+    "https://www.linkedin.com/shareArticle?mini=true&url=https%3A//dcn-cde.ca.gov/professionaldev/askaspecialist/index.aspx/&title=DCN%20Website&summary=Visit%20this%20page%20on%20the%20DCN%20website"
+  ],
   "linksToCaGov": false,
   "errorMessage": "Fetch error: fetch failed read ECONNRESET",
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8"
+  },
+  "notes": null,
+  "finalUrl": "https://dcn-cde.ca.gov/professionaldev/askaspecialist/index.aspx",
+  "cosmeticTargetURL": "https://dcn-cde.ca.gov/professionaldev/askaspecialist/index.aspx"
 }

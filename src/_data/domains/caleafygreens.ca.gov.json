@@ -6,18 +6,37 @@
   "goodScan": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Lettuce Information | Learn About the Different Types of Lettuce",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-NJM6PQB",
+    "UA-1545484-89"
+  ],
+  "socialLinks": [
+    "https://twitter.com/lettuce_info",
+    "https://www.facebook.com/lettuceinfo",
+    "https://www.instagram.com/lettuceinfo/",
+    "https://www.youtube.com/channel/UCB9RsslTu_uK_9pqtYLcyqw"
+  ],
   "linksToCaGov": false,
   "errorMessage": "Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: caleafygreens.ca.gov. is not in the cert's altnames: DNS:lettuceinfo.org, DNS:www.lettuceinfo.org",
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
+  },
+  "notes": null,
+  "finalUrl": "https://lettuceinfo.org/",
+  "cosmeticTargetURL": "https://lettuceinfo.org/",
+  "metaGenerator": "WordPress 5.5.1"
 }

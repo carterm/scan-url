@@ -32,8 +32,8 @@
     "served-by": "engage6-cms-6995bd8fd4-4wtst",
     "server": "cloudflare",
     "x-authenticated": "false",
+    "x-cache-404-status": "MISS",
     "x-content-type-options": "nosniff",
-    "x-edge": "1",
     "x-frame-options": "SAMEORIGIN"
   },
   "notes": null,

@@ -26,7 +26,7 @@
     "permissions-policy": "camera=(self),microphone=(self),geolocation=(),payment=(),usb=()",
     "server": "",
     "x-frame-options": "DENY",
-    "x-process-time": "0.002972"
+    "x-process-time": "0.003182"
   },
   "notes": null
 }
