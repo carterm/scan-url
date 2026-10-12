@@ -23,9 +23,10 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": true,
+  "hasJQuery": false,
   "googleAnalytics": [
     "G-HOMEPAGEPO",
+    "G-WG7EBS4503",
     "GTM-PCMC9BT"
   ],
   "socialLinks": [

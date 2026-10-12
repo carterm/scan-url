@@ -13,6 +13,8 @@
     "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
     "p3p": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"",
+    "permissions-policy": "camera=(), microphone=()",
+    "referrer-policy": "strict-origin-when-cross-origin",
     "server": "cloudflare",
     "vary": "Accept-Encoding",
     "x-content-type-options": "nosniff",
@@ -27,9 +29,7 @@
     "G-XEBZLE7ZM0",
     "GTM-K73C5PS"
   ],
-  "socialLinks": [
-    "https://www.facebook.com/cityofwheatland/"
-  ],
+  "socialLinks": [],
   "linksToCaGov": false,
   "errorMessage": null,
   "notes": null,

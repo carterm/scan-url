@@ -14,8 +14,7 @@
     "content-type": "text/html; charset=UTF-8",
     "server": "Sucuri/Cloudproxy",
     "x-content-type-options": "nosniff",
-    "x-frame-options": "SAMEORIGIN",
-    "x-xss-protection": "1; mode=block"
+    "x-frame-options": "SAMEORIGIN"
   },
   "cloudflare": false,
   "slow": false,

@@ -21,9 +21,7 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": true,
   "hasJQuery": true,
-  "googleAnalytics": [
-    "G-UMKUUV6NHG"
-  ],
+  "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
   "errorMessage": null,

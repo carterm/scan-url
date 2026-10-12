@@ -5,9 +5,10 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "Office of Technology and Solutions Integration | Home page",
+  "title": "Office of Technology and Solutions Integration",
   "lastStatus": 200,
   "responseHeaders": {
+    "accept-ranges": "bytes",
     "connection": "keep-alive",
     "content-encoding": "gzip",
     "content-type": "text/html",
@@ -16,10 +17,13 @@
   },
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": true,
-  "hasJQuery": true,
-  "googleAnalytics": [],
+  "hasJQuery": false,
+  "googleAnalytics": [
+    "G-75V2BNQ3DR",
+    "GTM-NJ6Q4MV"
+  ],
   "socialLinks": [
     "https://www.linkedin.com/company/office-of-systems-integration",
     "https://www.youtube.com/watch?time_continue=54&v=nvu2eoDfxk8"

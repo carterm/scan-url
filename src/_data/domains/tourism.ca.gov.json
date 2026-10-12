@@ -16,7 +16,8 @@
     "server": "nginx",
     "timing-allow-origin": "*",
     "x-content-type-options": "nosniff",
-    "x-frame-options": "ALLOWALL"
+    "x-frame-options": "ALLOWALL",
+    "x-sfdc-trace-flags": "01"
   },
   "cloudflare": false,
   "slow": false,

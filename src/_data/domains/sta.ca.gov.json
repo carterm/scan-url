@@ -36,5 +36,6 @@
   "errorMessage": null,
   "notes": null,
   "nocache": false,
-  "goodScan": true
+  "goodScan": true,
+  "finalUrl": "https://www.sta.ca.gov/"
 }
