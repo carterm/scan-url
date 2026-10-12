@@ -9,10 +9,10 @@
   "lastStatus": 200,
   "responseHeaders": {
     "accept-ranges": "bytes",
-    "access-control-allow-private-network": "true",
     "connection": "Keep-Alive",
     "content-type": "text/html",
     "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "volt-adc",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-xss-protection": "1; mode=block"
@@ -33,7 +33,8 @@
   "socialLinks": [
     "https://facebook.com/CABVNPT",
     "https://twitter.com/CABVNPT",
-    "https://www.youtube.com/watch?v=8q-6Cw9ukGk&t=1s"
+    "https://www.youtube.com/watch?v=8q-6Cw9ukGk&t=1s",
+    "https://youtu.be/JuZA5FSPcqQ"
   ],
   "linksToCaGov": true,
   "errorMessage": null,

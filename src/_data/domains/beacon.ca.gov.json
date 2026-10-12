@@ -11,13 +11,12 @@
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
     "connection": "keep-alive",
-    "content-encoding": "br",
+    "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "server": "Sucuri/Cloudproxy",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
-    "x-gateway-skip-cache": "0",
-    "x-xss-protection": "1; mode=block"
+    "x-gateway-skip-cache": "0"
   },
   "cloudflare": false,
   "slow": false,
@@ -26,8 +25,7 @@
   "hasJQuery": true,
   "googleAnalytics": [],
   "socialLinks": [
-    "https://www.facebook.com/BEACON.ca.gov",
-    "https://www.youtube.com/watch?v=Iko0pGoxTgo"
+    "https://www.facebook.com/BEACON.ca.gov"
   ],
   "linksToCaGov": false,
   "errorMessage": null,
