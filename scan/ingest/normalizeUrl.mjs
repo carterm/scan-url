@@ -15,20 +15,19 @@ import { URL } from "node:url";
  * @returns {NormalizedUrl | null}
  */
 export function normalizeUrl(raw) {
-  try {
-    const url = new URL(raw.trim());
+  if (!raw.startsWith("http://") && !raw.startsWith("https://"))
+    raw = `https://${raw}`;
 
-    const rawHostname = url.hostname;
-    const hasWww = rawHostname.startsWith("www.");
+  const url = new URL(raw);
 
-    const hostname = rawHostname.replace(/^www\./, "");
+  const rawHostname = url.hostname;
+  const hasWww = rawHostname.startsWith("www.");
 
-    return {
-      domain: hostname,
-      targetURL: raw.trim(),
-      www: hasWww
-    };
-  } catch {
-    return null;
-  }
+  const hostname = rawHostname.replace(/^www\./, "");
+
+  return {
+    domain: hostname,
+    targetURL: url.href,
+    www: hasWww
+  };
 }

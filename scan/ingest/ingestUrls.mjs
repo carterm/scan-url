@@ -83,6 +83,7 @@ export function ingestUrls() {
     .split(/\r?\n/)
     .map(u => u.trim());
 
+  let ingestedCount = 0;
   for (const raw of urls) {
     const normalized = normalizeUrl(raw);
     if (!normalized) continue;
@@ -90,15 +91,14 @@ export function ingestUrls() {
     const { domain, targetURL, www } = normalized;
     const filePath = path.join(DOMAIN_DIR, `${domain}.json`);
 
-    const record =
-      loadRecord(filePath) ?? createStarterRecord(domain, targetURL, www);
-
-    updateRecordFromIngest(record, targetURL, www);
-
-    saveRecord(filePath, record);
+    if (!fs.existsSync(filePath)) {
+      saveRecord(filePath, createStarterRecord(domain, targetURL, www));
+      ingestedCount++;
+      continue;
+    }
   }
 
-  console.log(`✅ Ingested ${urls.length} URL(s).`);
+  console.log(`✅ Ingested ${ingestedCount} URL(s).`);
 }
 
 ingestUrls();
