@@ -7,18 +7,17 @@
   "includeInScan": true,
   "title": "Coast Life Support District – Ambulance & collaborative healthcare services for southern Mendocino and northern Sonoma County coastal communities",
   "lastStatus": 200,
-  "metaGenerator": "WordPress 7.1.2",
+  "metaGenerator": "WordPress 7.1.3",
   "responseHeaders": {
-    "connection": "keep-alive",
+    "connection": "Upgrade, Keep-Alive",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
     "referrer-policy": "no-referrer-when-downgrade",
-    "server": "nginx",
+    "server": "Apache",
+    "upgrade": "h2",
     "x-content-type-options": "nosniff",
-    "x-frame-options": "SAMEORIGIN",
-    "x-page-speed": "1.13.35.2-0",
-    "x-xss-protection": "1; mode=block"
+    "x-frame-options": "SAMEORIGIN"
   },
   "cloudflare": false,
   "slow": false,

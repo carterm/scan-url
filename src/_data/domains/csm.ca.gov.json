@@ -10,9 +10,10 @@
   "responseHeaders": {
     "accept-ranges": "bytes",
     "connection": "keep-alive",
+    "content-encoding": "gzip",
     "content-type": "text/html",
     "pragma": "no-cache",
-    "server": "nginx"
+    "server": "cloudflare"
   },
   "cloudflare": false,
   "slow": false,

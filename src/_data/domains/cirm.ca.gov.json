@@ -35,5 +35,8 @@
   "errorMessage": "Fetch error: fetch failed Headers Timeout Error",
   "notes": null,
   "nocache": false,
-  "goodScan": false
+  "goodScan": false,
+  "DOMErrors": [
+    "Could not parse CSS stylesheet"
+  ]
 }
