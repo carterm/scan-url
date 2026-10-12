@@ -1,7 +1,7 @@
 {
   "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "poppy.ca.gov",
-  "targetURL": "https://poppy.ca.gov/",
+  "targetURL": "https://poppy.ca.gov/auth",
   "www": false,
   "goodScan": false,
   "active": true,
