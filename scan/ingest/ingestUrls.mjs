@@ -62,7 +62,7 @@ function updateRecordFromIngest(record, targetURL, www) {
   // - contentSize
   // - cloudflare, slow, template flags
   // - analytics, social links
-  // - cosmeticTargetURL
+  // - cosmeticTargetDomain
   // - errorMessage
   // - notes
 }

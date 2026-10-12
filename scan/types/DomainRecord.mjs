@@ -41,8 +41,6 @@
  *   All outbound social media URLs found on the page.
  * @property {boolean} linksToCaGov
  *   Whether the page links back to https://ca.gov or https://www.ca.gov.
- * @property {string} [cosmeticTargetURL]
- *   If this domain is cosmetic, the URL it forwards to; otherwise null.
  * @property {string} [cosmeticTargetDomain]
  *   If this domain is cosmetic, the domain it forwards to; otherwise null.
  * @property {string | null} errorMessage

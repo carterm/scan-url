@@ -38,7 +38,6 @@
   },
   "notes": null,
   "finalUrl": "https://www.countyofsb.org/",
-  "cosmeticTargetURL": "https://www.countyofsb.org/",
   "cosmeticTargetDomain": "countyofsb.org",
   "DOMErrors": [
     "Could not parse CSS stylesheet"

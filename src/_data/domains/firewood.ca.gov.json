@@ -26,6 +26,5 @@
   "nocache": false,
   "goodScan": true,
   "finalUrl": "https://firewood.cdfa.ca.gov/",
-  "cosmeticTargetURL": "https://firewood.cdfa.ca.gov/",
   "cosmeticTargetDomain": "firewood.cdfa.ca.gov"
 }

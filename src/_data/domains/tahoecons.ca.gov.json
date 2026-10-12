@@ -32,6 +32,5 @@
   },
   "notes": null,
   "finalUrl": "https://smartforms.water.ca.gov/Produce/Account/SamlLogin?BusinessUnitGuid=a1f68056-4b95-4e98-aacd-05d65c354e00&ReturnURL=https%3a%2f%2fsmartforms.water.ca.gov%2fProduce%2fForm%2fForms%2fMyVax%2f",
-  "cosmeticTargetURL": "https://smartforms.water.ca.gov/Produce/Account/SamlLogin?BusinessUnitGuid=a1f68056-4b95-4e98-aacd-05d65c354e00&ReturnURL=https%3a%2f%2fsmartforms.water.ca.gov%2fProduce%2fForm%2fForms%2fMyVax%2f",
   "cosmeticTargetDomain": "smartforms.water.ca.gov"
 }

@@ -28,6 +28,5 @@
   "nocache": false,
   "goodScan": true,
   "finalUrl": "https://listserv.ca.gov/wa.exe?INDEX",
-  "cosmeticTargetURL": "https://listserv.ca.gov/wa.exe?INDEX",
   "cosmeticTargetDomain": "listserv.ca.gov"
 }

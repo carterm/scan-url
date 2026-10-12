@@ -41,7 +41,6 @@
   },
   "notes": null,
   "finalUrl": "https://www.assembly.ca.gov/",
-  "cosmeticTargetURL": "https://www.assembly.ca.gov/",
   "cosmeticTargetDomain": "assembly.ca.gov",
   "DOMErrors": [
     "Could not parse CSS stylesheet"
