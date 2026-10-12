@@ -3,21 +3,42 @@
   "domain": "trinitycounty.ca.gov",
   "targetURL": "https://trinitycounty.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Trinity County, CA | Official Website",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-VEQQKBR9Y8",
+    "GTM-K73C5PS"
+  ],
+  "socialLinks": [
+    "https://twitter.com/TrinityCounty?ref_src=twsrc%5Etfw",
+    "https://www.facebook.com/TrinityCountyCalifornia/",
+    "https://www.instagram.com/trinitycountycalifornia/#",
+    "https://www.instagram.com/trinitycountycalifornia/?utm_source=ig_embed&utm_campaign=loading",
+    "https://x.com/i/flow/login?redirect_after_login=%2FTrinityCounty"
+  ],
   "linksToCaGov": false,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "p3p": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"",
+    "permissions-policy": "camera=(), microphone=()",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "cloudflare",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN"
+  },
+  "notes": null,
+  "finalUrl": "https://www.trinitycounty.org/",
+  "cosmeticTargetURL": "https://www.trinitycounty.org/"
 }

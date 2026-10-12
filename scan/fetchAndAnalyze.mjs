@@ -81,6 +81,14 @@ export async function fetchAndAnalyze(original) {
   domainRecord.lastStatus = res.status;
   domainRecord.finalUrl = res.url;
 
+  if (res.url !== url) {
+    // if the domains have changed, set cosmeticTargetURL
+    const originalDomain = new URL(url).hostname;
+    const finalDomain = new URL(res.url).hostname;
+    if (originalDomain !== finalDomain)
+      domainRecord.cosmeticTargetURL = res.url;
+  }
+
   domainRecord.responseHeaders = {};
 
   res.headers.forEach((value, name) => {

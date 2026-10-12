@@ -3,21 +3,43 @@
   "domain": "santabarbaracounty.ca.gov",
   "targetURL": "https://santabarbaracounty.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Santa Barbara County, CA - Official Website | Official Website",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "G-R0X5RM0PC9",
+    "GTM-TBF9ZQ8",
+    "UA-3412749-1"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "permissions-policy": "camera=(), geolocation=(), microphone=(), usb=(), fullscreen=(self)",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "request-context": "appId=cid-v1:cd12a649-6132-4c93-8c7b-649841af9773",
+    "served-by": "engage6-cms-6995bd8fd4-4wtst",
+    "server": "cloudflare",
+    "x-authenticated": "false",
+    "x-content-type-options": "nosniff",
+    "x-edge": "1",
+    "x-frame-options": "SAMEORIGIN"
+  },
+  "notes": null,
+  "finalUrl": "https://www.countyofsb.org/",
+  "cosmeticTargetURL": "https://www.countyofsb.org/",
+  "DOMErrors": [
+    "Could not parse CSS stylesheet"
+  ]
 }

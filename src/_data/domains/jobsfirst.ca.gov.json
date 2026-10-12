@@ -3,21 +3,34 @@
   "domain": "jobsfirst.ca.gov",
   "targetURL": "https://jobsfirst.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Jobs First |",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-J07G2ZP47D"
+  ],
+  "socialLinks": [
+    "https://www.linkedin.com/company/california-jobs-first",
+    "https://www.youtube.com/channel/UCregW8KZRE4k1sXVZs2bPxw",
+    "https://x.com/CAJobsFirst"
+  ],
+  "linksToCaGov": true,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "Apache"
+  },
+  "notes": null,
+  "metaGenerator": "CAWeb v.1.5.2a",
+  "metaAuthor": "State of California"
 }

@@ -3,21 +3,35 @@
   "domain": "sdcounty.ca.gov",
   "targetURL": "https://sdcounty.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Welcome to the County of San Diego - County of San Diego",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "http://www.youtube.com/countysandiego",
+    "https://www.facebook.com/sandiegocounty",
+    "https://www.instagram.com/countyofsandiego/",
+    "https://x.com/SanDiegoCounty"
+  ],
   "linksToCaGov": false,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "connection": "keep-alive, Transfer-Encoding",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
+    "server": "nginx"
+  },
+  "notes": null,
+  "finalUrl": "https://www.sandiegocounty.gov/",
+  "cosmeticTargetURL": "https://www.sandiegocounty.gov/",
+  "metaGenerator": "WordPress 7.1.3"
 }

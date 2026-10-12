@@ -3,21 +3,41 @@
   "domain": "ccda.ca.gov",
   "targetURL": "https://ccda.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "California Commission on Disability Access",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-5D4N99T",
+    "UA-19802602-2"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/CalDGS/",
+    "https://www.facebook.com/CalDGS/?ref=settings",
+    "https://www.instagram.com/dgscalif/?hl=en",
+    "https://www.linkedin.com/company/cadgs",
+    "https://www.youtube.com/user/CalifDGS",
+    "https://x.com/califdgs?lang=en"
+  ],
+  "linksToCaGov": true,
   "errorMessage": null,
-  "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "nocache": true,
+  "responseHeaders": {
+    "accept-ch": "Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version,Sec-CH-UA-Arch,Sec-CH-UA-Model,Sec-CH-UA-Bitness",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "server": "Microsoft-IIS/10.0",
+    "x-frame-options": "SAMEORIGIN"
+  },
+  "notes": null,
+  "finalUrl": "https://www.dgs.ca.gov/ccda",
+  "cosmeticTargetURL": "https://www.dgs.ca.gov/ccda"
 }

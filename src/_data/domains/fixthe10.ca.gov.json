@@ -3,21 +3,41 @@
   "domain": "fixthe10.ca.gov",
   "targetURL": "https://fixthe10.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Fix the 10 | Caltrans",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-PXR8P55JR4",
+    "G-WLDEF7NZZ2",
+    "GTM-573PLG9"
+  ],
+  "socialLinks": [
+    "http://www.facebook.com/CaltransHQ",
+    "https://twitter.com/CaltransHQ?ref_src=twsrc%5Etfw",
+    "https://x.com/CAL_FIRE?s=20",
+    "https://x.com/CHP_HQ?s=20",
+    "https://x.com/CaltransDist7?s=20"
+  ],
+  "linksToCaGov": true,
   "errorMessage": null,
-  "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "nocache": true,
+  "responseHeaders": {
+    "accept-ch": "Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version,Sec-CH-UA-Arch,Sec-CH-UA-Model,Sec-CH-UA-Bitness",
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "x-oneagent-js-injection": "true",
+    "x-ruxit-js-agent": "true"
+  },
+  "notes": null,
+  "finalUrl": "https://dot.ca.gov/fix-10",
+  "cosmeticTargetURL": "https://dot.ca.gov/fix-10",
+  "metaAuthor": "State of California"
 }

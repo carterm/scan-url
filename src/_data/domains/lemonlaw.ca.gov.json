@@ -3,21 +3,41 @@
   "domain": "lemonlaw.ca.gov",
   "targetURL": "https://lemonlaw.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Arbitration Certification Program - CA Department of Consumer Affairs",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-F2FZM7Q8TN",
+    "UA-21974567-32",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [
+    "https://twitter.com/ACPLemonLaw",
+    "https://www.facebook.com/ACPLemonLaw",
+    "https://www.youtube.com/@CaliforniaDCA/search?query=Arbitration%20Certification%20Program"
+  ],
+  "linksToCaGov": true,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "content-type": "text/html",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "volt-adc",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
+  },
+  "notes": null,
+  "finalUrl": "https://www.dca.ca.gov/acp/",
+  "cosmeticTargetURL": "https://www.dca.ca.gov/acp/",
+  "metaAuthor": "Arbitration Certification Program"
 }

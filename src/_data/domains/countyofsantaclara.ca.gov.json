@@ -6,8 +6,8 @@
   "goodScan": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Attention Required! | Cloudflare",
+  "lastStatus": 403,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -16,8 +16,19 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": null,
-  "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "errorMessage": "HTTP 403",
+  "nocache": true,
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "referrer-policy": "same-origin",
+    "server": "cloudflare",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN"
+  },
+  "notes": null,
+  "finalUrl": "https://www.sccgov.org/",
+  "cosmeticTargetURL": "https://www.sccgov.org/"
 }

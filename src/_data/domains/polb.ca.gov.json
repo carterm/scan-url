@@ -6,8 +6,8 @@
   "goodScan": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Access Denied",
+  "lastStatus": 403,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -16,8 +16,13 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": null,
-  "nocache": false,
-  "responseHeaders": {},
+  "errorMessage": "HTTP 403",
+  "nocache": true,
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=93600",
+    "connection": "close",
+    "content-type": "text/html",
+    "mime-version": "1.0"
+  },
   "notes": null
 }

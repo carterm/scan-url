@@ -3,21 +3,45 @@
   "domain": "opr.ca.gov",
   "targetURL": "https://opr.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Governor's Office of Land Use and Climate Innovation",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-K9SCBG6G33"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/profile.php?id=61568449778077&mibextid=LQQJ4",
+    "https://www.instagram.com/cal.lci/",
+    "https://www.youtube.com/channel/UCTBmAaS7WDxOcyjo85dcXtA",
+    "https://x.com/Cal_LCI"
+  ],
+  "linksToCaGov": true,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "permissions-policy": "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)",
+    "referrer-policy": "strict-origin",
+    "server": "nginx",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "PHP/8.3.29",
+    "x-xss-protection": "1; mode=block"
+  },
+  "notes": null,
+  "finalUrl": "https://lci.ca.gov/",
+  "cosmeticTargetURL": "https://lci.ca.gov/",
+  "DOMErrors": [
+    "Could not parse CSS stylesheet"
+  ],
+  "metaGenerator": "WordPress 7.0.7"
 }

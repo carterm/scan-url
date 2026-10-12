@@ -3,21 +3,29 @@
   "domain": "cgcc.ca.gov",
   "targetURL": "https://www.cgcc.ca.gov/",
   "www": true,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "California Gambling Control Commission",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-3419582-2"
+  ],
   "socialLinks": [],
-  "linksToCaGov": false,
+  "linksToCaGov": true,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "content-type": "text/html; charset=utf-8",
+    "server": "Microsoft-IIS/8.0",
+    "x-aspnet-version": "4.0.30319",
+    "x-powered-by": "ASP.NET"
+  },
+  "notes": null,
+  "metaAuthor": "State of California :: California Gambling Control Commission"
 }

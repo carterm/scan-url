@@ -3,21 +3,36 @@
   "domain": "dbw.ca.gov",
   "targetURL": "https://dbw.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Division of Boating and Waterways | California State Parks",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-NQRMQVQ7T5",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [
+    "https://twitter.com/boat_california",
+    "https://www.facebook.com/BoatCA",
+    "https://www.instagram.com/boat_california/",
+    "https://www.youtube.com/user/CaliforniaDBW/"
+  ],
+  "linksToCaGov": true,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "content-type": "text/html; charset=utf-8",
+    "server": "Microsoft-IIS/10.0",
+    "x-powered-by": "ASP.NET"
+  },
+  "notes": null,
+  "finalUrl": "https://dbw.parks.ca.gov/",
+  "cosmeticTargetURL": "https://dbw.parks.ca.gov/",
+  "metaAuthor": "California State Parks"
 }

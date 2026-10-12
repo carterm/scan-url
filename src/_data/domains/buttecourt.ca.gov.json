@@ -3,11 +3,11 @@
   "domain": "buttecourt.ca.gov",
   "targetURL": "https://www.buttecourt.ca.gov/",
   "www": true,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Home | Superior Court of California | County of Butte",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -18,6 +18,20 @@
   "linksToCaGov": false,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-language": "en",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-generator": "Drupal 9 (https://www.drupal.org)",
+    "x-ua-compatible": "IE=edge"
+  },
+  "notes": null,
+  "finalUrl": "https://www.butte.courts.ca.gov/",
+  "cosmeticTargetURL": "https://www.butte.courts.ca.gov/",
+  "metaGenerator": "Drupal 9 (https://www.drupal.org)"
 }

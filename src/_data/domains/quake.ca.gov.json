@@ -6,8 +6,8 @@
   "goodScan": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Azure WAF",
+  "lastStatus": 403,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -16,8 +16,11 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": null,
+  "errorMessage": "HTTP 403",
   "nocache": false,
-  "responseHeaders": {},
+  "responseHeaders": {
+    "connection": "close",
+    "content-type": "text/html"
+  },
   "notes": null
 }

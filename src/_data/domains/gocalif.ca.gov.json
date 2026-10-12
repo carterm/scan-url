@@ -3,21 +3,42 @@
   "domain": "gocalif.ca.gov",
   "targetURL": "https://gocalif.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Visit California - Official Travel & Tourism Website",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "googleAnalytics": [
+    "GTM-KZZ2CXG"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/VisitCalifornia",
+    "https://www.instagram.com/visitcalifornia",
+    "https://www.pinterest.com/visitcalifornia",
+    "https://www.tiktok.com/@visitcalifornia",
+    "https://www.youtube.com/user/VisitCA",
+    "https://x.com/VisitCA"
+  ],
   "linksToCaGov": false,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "server": "cloudflare"
+  },
+  "notes": null,
+  "finalUrl": "https://www.visitcalifornia.com/",
+  "cosmeticTargetURL": "https://www.visitcalifornia.com/",
+  "DOMErrors": [
+    "Could not parse CSS stylesheet"
+  ],
+  "metaGenerator": "Gatsby 5.16.1"
 }

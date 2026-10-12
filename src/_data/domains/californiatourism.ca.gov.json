@@ -3,11 +3,11 @@
   "domain": "californiatourism.ca.gov",
   "targetURL": "https://californiatourism.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
   "title": "",
-  "lastStatus": null,
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -17,7 +17,17 @@
   "socialLinks": [],
   "linksToCaGov": false,
   "errorMessage": null,
-  "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "nocache": true,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "permissions-policy": "unload=*",
+    "server": "nginx",
+    "x-content-type-options": "nosniff",
+    "x-sfdc-trace-flags": "01"
+  },
+  "notes": null,
+  "finalUrl": "https://tourism.ca.gov/s/",
+  "cosmeticTargetURL": "https://tourism.ca.gov/s/"
 }

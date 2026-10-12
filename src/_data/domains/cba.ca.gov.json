@@ -3,21 +3,40 @@
   "domain": "cba.ca.gov",
   "targetURL": "https://cba.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "California Board of Accountancy",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-F2FZM7Q8TN"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CBAnews",
+    "https://www.facebook.com/CBAnews",
+    "https://www.instagram.com/_cbanews/",
+    "https://www.linkedin.com/company/cbanews/",
+    "https://www.youtube.com/channel/UCNYT1I4XUFE5CXGFIDSqR3A"
+  ],
+  "linksToCaGov": true,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "content-type": "text/html",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "volt-adc",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
+  },
+  "notes": null,
+  "finalUrl": "https://www.dca.ca.gov/cba/",
+  "cosmeticTargetURL": "https://www.dca.ca.gov/cba/"
 }

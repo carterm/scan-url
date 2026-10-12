@@ -16,7 +16,7 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": null,
+  "errorMessage": "Fetch error: fetch failed read ECONNRESET",
   "nocache": false,
   "responseHeaders": {},
   "notes": null

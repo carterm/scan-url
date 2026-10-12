@@ -6,8 +6,8 @@
   "goodScan": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Access Denied",
+  "lastStatus": 403,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -16,8 +16,15 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": null,
-  "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "errorMessage": "HTTP 403",
+  "nocache": true,
+  "responseHeaders": {
+    "connection": "close",
+    "content-type": "text/html",
+    "mime-version": "1.0",
+    "server": "AkamaiGHost"
+  },
+  "notes": null,
+  "finalUrl": "https://www.simivalley.org/",
+  "cosmeticTargetURL": "https://www.simivalley.org/"
 }

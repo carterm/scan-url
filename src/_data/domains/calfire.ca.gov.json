@@ -6,8 +6,8 @@
   "goodScan": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Access Denied",
+  "lastStatus": 403,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -16,8 +16,18 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": null,
+  "errorMessage": "HTTP 403",
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=93600",
+    "connection": "close",
+    "content-type": "text/html",
+    "mime-version": "1.0",
+    "server": "AkamaiGHost",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN"
+  },
+  "notes": null,
+  "finalUrl": "https://www.fire.ca.gov/",
+  "cosmeticTargetURL": "https://www.fire.ca.gov/"
 }

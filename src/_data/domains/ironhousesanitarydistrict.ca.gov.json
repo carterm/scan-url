@@ -3,21 +3,39 @@
   "domain": "ironhousesanitarydistrict.ca.gov",
   "targetURL": "https://ironhousesanitarydistrict.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Homepage Ironhouse Sanitary District",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "googleAnalytics": [
+    "G-K2R3W23HWM"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/IronhouseSanitaryDistrict",
+    "https://www.instagram.com/ironhousesd/"
+  ],
   "linksToCaGov": false,
   "errorMessage": null,
-  "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "nocache": true,
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "nginx",
+    "x-content-type-options": "nosniff",
+    "x-download-options": "noopen",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "1; mode=block"
+  },
+  "notes": null,
+  "DOMErrors": [
+    "Could not parse CSS stylesheet"
+  ]
 }

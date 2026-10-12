@@ -38,6 +38,7 @@
   "goodScan": true,
   "finalUrl": "https://www.chhs.ca.gov/mental-health-for-all/",
   "metaGenerator": "WordPress 7.0.7",
+  "cosmeticTargetURL": "https://www.chhs.ca.gov/mental-health-for-all/",
   "DOMErrors": [
     "Could not parse CSS stylesheet"
   ]

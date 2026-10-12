@@ -16,7 +16,7 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": null,
+  "errorMessage": "Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: seniors.ca.gov. is not in the cert's altnames: DNS:*.insurance.ca.gov, DNS:insurance.ca.gov, DNS:interactive.web.insurance.ca.gov, DNS:legaldocs.insurance.ca.gov, DNS:www.insurance.ca.gov, DNS:cdiapps.insurance.ca.gov, DNS:cdiappstest.insurance.ca.gov",
   "nocache": false,
   "responseHeaders": {},
   "notes": null

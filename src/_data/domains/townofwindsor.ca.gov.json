@@ -3,21 +3,38 @@
   "domain": "townofwindsor.ca.gov",
   "targetURL": "https://www.townofwindsor.ca.gov/",
   "www": true,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Windsor, CA - Official Website | Official Website",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-DHP7S2M73G",
+    "GTM-K73C5PS",
+    "UA-54516992-1"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/townofwindsorca",
+    "https://www.instagram.com/townofwindsor_ca/",
+    "https://www.linkedin.com/company/260742?trk=vsrp_companies_cluster_name&trkInfo=VSRPsearchId%3A1383431721473979445236%2CVSRPtargetId%3A260742%2CVSRPcmpt%3Acompanies_cluster",
+    "https://x.com/TownWindsorCA"
+  ],
   "linksToCaGov": false,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "p3p": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"",
+    "permissions-policy": "camera=(), microphone=()",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN"
+  },
   "notes": null
 }

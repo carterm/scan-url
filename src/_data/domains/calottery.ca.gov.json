@@ -3,21 +3,41 @@
   "domain": "calottery.ca.gov",
   "targetURL": "https://calottery.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Home | California State Lottery",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-NVGNCNH"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/calottery",
+    "https://www.instagram.com/calottery/",
+    "https://www.linkedin.com/company/california-state-lottery",
+    "https://www.youtube.com/user/CaliforniaLottery",
+    "https://www.youtube.com/watch?v=yhUEw9zx6eQ"
+  ],
+  "linksToCaGov": true,
   "errorMessage": null,
-  "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "nocache": true,
+  "responseHeaders": {
+    "accept-ch": "Sec-CH-UA-Full-Version-List,Sec-CH-UA-Platform-Version,Sec-CH-UA-Arch,Sec-CH-UA-Model,Sec-CH-UA-Bitness",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-origin": "*",
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "server": "volt-adc",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN"
+  },
+  "notes": null,
+  "finalUrl": "https://www.calottery.com/en/",
+  "cosmeticTargetURL": "https://www.calottery.com/en/"
 }

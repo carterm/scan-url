@@ -16,7 +16,7 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": null,
+  "errorMessage": "Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: nchidta.ca.gov. is not in the cert's altnames: DNS:acc.ncric.net, DNS:leep.ncric.ca.gov, DNS:leep.ncric.org, DNS:nchidta.com, DNS:nchidta.net, DNS:nchidta.org, DNS:ncric.net, DNS:ncric.org, DNS:new.ncric.org, DNS:northerncaliforniamostwanted.com, DNS:northerncaliforniamostwanted.org, DNS:www.nchidta.com, DNS:www.nchidta.net, DNS:www.nchidta.org, DNS:www.ncric.net, DNS:www.ncric.org, DNS:www.northerncaliforniamostwanted.com, DNS:www.northerncaliforniamostwanted.org",
   "nocache": false,
   "responseHeaders": {},
   "notes": null

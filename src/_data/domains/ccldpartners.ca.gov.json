@@ -3,21 +3,31 @@
   "domain": "ccldpartners.ca.gov",
   "targetURL": "https://ccldpartners.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Community Care Licensing",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "UA-77698819-4"
+  ],
   "socialLinks": [],
-  "linksToCaGov": false,
+  "linksToCaGov": true,
   "errorMessage": null,
-  "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "nocache": true,
+  "responseHeaders": {
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "x-frame-options": "SAMEORIGIN",
+    "x-ua-compatible": "IE=edge",
+    "x-xss-protection": "1; mode=block"
+  },
+  "notes": null,
+  "finalUrl": "https://cdss.ca.gov/inforesources/community-care-licensing",
+  "cosmeticTargetURL": "https://cdss.ca.gov/inforesources/community-care-licensing"
 }

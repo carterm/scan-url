@@ -3,21 +3,36 @@
   "domain": "ccta.ca.gov",
   "targetURL": "https://ccta.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Homepage - Contra Costa Transportation Authority",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-LJXENR14HN",
+    "GTM-5PWQQKQ"
+  ],
+  "socialLinks": [
+    "https://twitter.com/ccta",
+    "https://www.facebook.com/ContraCostaTransportationAuthority/",
+    "https://www.linkedin.com/company/contra-costa-transportation-authority/",
+    "https://www.youtube.com/channel/UC2ivVmK_Wco3qrj8Nzcpl_A"
+  ],
   "linksToCaGov": false,
   "errorMessage": null,
-  "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "nocache": true,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx"
+  },
+  "notes": null,
+  "metaGenerator": "WordPress 7.1.3"
 }

@@ -3,21 +3,32 @@
   "domain": "disasterrecovery.ca.gov",
   "targetURL": "https://disasterrecovery.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "2025 Los Angeles Fires | CA.gov",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
+  "usesStateTemplate": true,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "GTM-PZGPNNV"
+  ],
   "socialLinks": [],
-  "linksToCaGov": false,
+  "linksToCaGov": true,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "x-powered-by": "ASP.NET"
+  },
+  "notes": null,
+  "finalUrl": "https://www.ca.gov/LAfires/",
+  "cosmeticTargetURL": "https://www.ca.gov/LAfires/",
+  "metaAuthor": "State of California"
 }

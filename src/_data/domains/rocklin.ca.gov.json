@@ -6,8 +6,8 @@
   "goodScan": false,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Attention Required! | Cloudflare",
+  "lastStatus": 403,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -16,8 +16,15 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": null,
-  "nocache": false,
-  "responseHeaders": {},
+  "errorMessage": "HTTP 403",
+  "nocache": true,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "referrer-policy": "same-origin",
+    "server": "cloudflare",
+    "x-frame-options": "SAMEORIGIN"
+  },
   "notes": null
 }

@@ -16,7 +16,7 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": null,
+  "errorMessage": "Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: www.fireandrescuetraining.ca.gov. is not in the cert's altnames: DNS:bigrivercsd.org, DNS:www.bigrivercsd.org",
   "nocache": false,
   "responseHeaders": {},
   "notes": null

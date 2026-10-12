@@ -10,7 +10,7 @@
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
     "connection": "keep-alive",
-    "content-encoding": "br",
+    "content-encoding": "gzip",
     "content-type": "text/html",
     "server": "AmazonS3",
     "x-amz-server-side-encryption": "AES256"

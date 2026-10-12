@@ -3,21 +3,44 @@
   "domain": "hopeaccount.ca.gov",
   "targetURL": "https://hopeaccount.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Support for CA Youth Impacted by COVID & Foster Care | HOPE",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-P75JGSM"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/profile.php?id=61585075709970",
+    "https://www.instagram.com/hopeaccounts/",
+    "https://www.linkedin.com/company/hope-for-children-trust-account-program/",
+    "https://x.com/cahopeaccounts"
+  ],
   "linksToCaGov": false,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "access-control-allow-origin": "*",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "permissions-policy": "geolocation=*, camera=(), microphone=(), payment=()",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "server": "cloudflare",
+    "x-cache-group": "normal",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "WP Engine"
+  },
+  "notes": null,
+  "DOMErrors": [
+    "Could not parse CSS stylesheet"
+  ]
 }

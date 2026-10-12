@@ -3,21 +3,38 @@
   "domain": "rgs.ca.gov",
   "targetURL": "https://rgs.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Regional Government Services Authority",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-746Y7WGWEY",
+    "G-DEVELOPMEN"
+  ],
+  "socialLinks": [
+    "https://www.linkedin.com/company/regional-government-services-authority/"
+  ],
   "linksToCaGov": false,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "cloudflare",
+    "x-cache-group": "normal",
+    "x-pingback": "https://rgsjpa.org/xmlrpc.php",
+    "x-powered-by": "WP Engine"
+  },
+  "notes": null,
+  "finalUrl": "https://rgsjpa.org/",
+  "cosmeticTargetURL": "https://rgsjpa.org/",
+  "metaGenerator": "All in One SEO (AIOSEO) 5.0.3"
 }

@@ -3,21 +3,30 @@
   "domain": "meinersoakswaterdistrict.ca.gov",
   "targetURL": "https://meinersoakswaterdistrict.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Meiners Oaks Water District – Water is Precious",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.youtube.com/watch?v=9xzSZ0ImI-s&t=2s"
+  ],
   "linksToCaGov": false,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "connection": "Keep-Alive",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "Apache",
+    "x-pingback": "https://meinersoakswaterdistrict.ca.gov/xmlrpc.php",
+    "x-powered-by": "PHP/8.1.11, PleskLin"
+  },
+  "notes": null,
+  "metaGenerator": "WordPress 7.1.3"
 }

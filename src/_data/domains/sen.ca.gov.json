@@ -16,7 +16,7 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": null,
+  "errorMessage": "Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: sen.ca.gov. is not in the cert's altnames: DNS:*.senate.ca.gov, DNS:senate.ca.gov, DNS:www.senate.ca.gov",
   "nocache": false,
   "responseHeaders": {},
   "notes": null

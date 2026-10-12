@@ -16,7 +16,7 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": null,
+  "errorMessage": "Fetch error: fetch failed unable to verify the first certificate",
   "nocache": false,
   "responseHeaders": {},
   "notes": null

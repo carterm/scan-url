@@ -3,21 +3,33 @@
   "domain": "basintransit.ca.gov",
   "targetURL": "https://basintransit.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Basin Transit – Transit Serving the Communities of the Morongo Basin for over 20 years",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.facebook.com/Morongo-Basin-Transit-Authority-Official-544739445556448/",
+    "https://www.instagram.com/basin_transit/"
+  ],
   "linksToCaGov": false,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "cloudflare",
+    "x-cache-group": "normal",
+    "x-powered-by": "WP Engine"
+  },
+  "notes": null,
+  "metaGenerator": "Site Kit by Google 1.189.0"
 }

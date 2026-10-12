@@ -3,21 +3,34 @@
   "domain": "celebrate.ca.gov",
   "targetURL": "https://www.celebrate.ca.gov/",
   "www": true,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "175 years of California Dreaming | CA.gov",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "googleAnalytics": [
+    "G-FX7Y4P6B7Y",
+    "GTM-NJ6Q4MV"
+  ],
+  "socialLinks": [
+    "https://www.instagram.com/america250/?hl=en",
+    "https://www.instagram.com/cagovernor/?hl=en"
+  ],
+  "linksToCaGov": true,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html",
+    "x-powered-by": "ASP.NET"
+  },
+  "notes": null,
+  "metaAuthor": "State of California"
 }

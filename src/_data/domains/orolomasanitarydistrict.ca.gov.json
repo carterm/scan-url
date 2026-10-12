@@ -3,21 +3,45 @@
   "domain": "orolomasanitarydistrict.ca.gov",
   "targetURL": "https://orolomasanitarydistrict.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Homepage Oro Loma Sanitary District",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "googleAnalytics": [
+    "G-M1XXTJEKZE"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/OroLomaSD",
+    "https://www.instagram.com/orolomasd/",
+    "https://www.tiktok.com/@orolomasd",
+    "https://www.youtube.com/channel/UChyyCNsAn110PfXTT-wMGag",
+    "https://youtu.be/5pOPGWVm-vs",
+    "https://youtu.be/BiI0v17PBLY",
+    "https://youtu.be/bcRNkxTAmt0",
+    "https://youtu.be/v6dK6Fe4UvM"
+  ],
   "linksToCaGov": false,
   "errorMessage": null,
-  "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "nocache": true,
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "nginx",
+    "x-content-type-options": "nosniff",
+    "x-download-options": "noopen",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "1; mode=block"
+  },
+  "notes": null,
+  "DOMErrors": [
+    "Could not parse CSS stylesheet"
+  ]
 }

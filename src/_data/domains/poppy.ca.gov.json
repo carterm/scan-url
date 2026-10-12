@@ -3,11 +3,11 @@
   "domain": "poppy.ca.gov",
   "targetURL": "https://poppy.ca.gov/auth",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Open WebUI",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -17,7 +17,16 @@
   "socialLinks": [],
   "linksToCaGov": false,
   "errorMessage": null,
-  "nocache": false,
-  "responseHeaders": {},
+  "nocache": true,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "alt-svc": "h3=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=utf-8",
+    "permissions-policy": "camera=(self),microphone=(self),geolocation=(),payment=(),usb=()",
+    "server": "",
+    "x-frame-options": "DENY",
+    "x-process-time": "0.002972"
+  },
   "notes": null
 }

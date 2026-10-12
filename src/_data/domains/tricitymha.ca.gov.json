@@ -3,11 +3,11 @@
   "domain": "tricitymha.ca.gov",
   "targetURL": "https://tricitymha.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
   "title": "",
-  "lastStatus": null,
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -17,7 +17,12 @@
   "socialLinks": [],
   "linksToCaGov": false,
   "errorMessage": null,
-  "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "nocache": true,
+  "responseHeaders": {
+    "connection": "close",
+    "content-type": "text/html"
+  },
+  "notes": null,
+  "finalUrl": "https://tricitymhs.org/",
+  "cosmeticTargetURL": "https://tricitymhs.org/"
 }

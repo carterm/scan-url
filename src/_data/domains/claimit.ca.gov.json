@@ -3,21 +3,32 @@
   "domain": "claimit.ca.gov",
   "targetURL": "https://claimit.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "California Unclaimed Property",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
+  "googleAnalytics": [
+    "GTM-TMWH9FJ"
+  ],
   "socialLinks": [],
   "linksToCaGov": false,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-type": "text/html",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "reporting-endpoints": "csp-endpoint=\"https://claimit.ca.gov/SWS/csp-report\"",
+    "server": "AmazonS3",
+    "x-amz-version-id": "O8EX76U.YoEHXqAlj_gwnBk_wiKq7vLL",
+    "x-content-type-options": "NOSNIFF",
+    "x-frame-options": "DENY"
+  },
   "notes": null
 }

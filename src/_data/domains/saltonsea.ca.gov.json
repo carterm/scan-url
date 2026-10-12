@@ -8,9 +8,13 @@
   "title": "Salton Sea Program",
   "lastStatus": 200,
   "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
     "connection": "keep-alive",
+    "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "server": "nginx",
+    "permissions-policy": "accelerometer=(), ambient-light-sensor=(), autoplay=(), battery=(), camera=(), display-capture=(), document-domain=(), encrypted-media=(), fullscreen=(self), geolocation=(), gyroscope=(), keyboard-map=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), sync-xhr=(), usb=(), web-share=(), xr-spatial-tracking=(), interest-cohort=()",
+    "server": "cloudflare",
+    "x-content-type-options": "nosniff",
     "x-et-api-origin": "https://saltonsea.ca.gov",
     "x-et-api-root": "https://saltonsea.ca.gov/wp-json/tribe/tickets/v1/",
     "x-et-api-version": "v1",
@@ -25,6 +29,7 @@
   "usesStateTemplate": true,
   "hasJQuery": true,
   "googleAnalytics": [
+    "G-7FQC9T5XLF",
     "UA-3419582-2",
     "UA-59627195-7"
   ],

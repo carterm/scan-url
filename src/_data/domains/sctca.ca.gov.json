@@ -3,21 +3,34 @@
   "domain": "sctca.ca.gov",
   "targetURL": "https://sctca.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "SCTCA - Sonoma County Transportation and Climate Authorities",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-1DWNFDZKDZ",
+    "G-TEMPLATEBU"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/GoSCTCA",
+    "https://www.instagram.com/gosctca/",
+    "https://www.linkedin.com/company/sonoma-county-transportation-authority/"
+  ],
   "linksToCaGov": false,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "nginx",
+    "x-httpd-modphp": "1"
+  },
   "notes": null
 }

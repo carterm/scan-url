@@ -1,8 +1,8 @@
 {
   "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "srta.ca.gov",
-  "targetURL": "https://www.srta.ca.gov/",
-  "www": true,
+  "targetURL": "https://srta.ca.gov/",
+  "www": false,
   "active": true,
   "includeInScan": true,
   "title": "Shasta Regional Transportation Agency, CA",
@@ -32,6 +32,5 @@
   "notes": null,
   "nocache": false,
   "goodScan": true,
-  "finalUrl": "https://srta.ca.gov/",
   "metaGenerator": "WordPress 7.1.3"
 }

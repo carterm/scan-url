@@ -3,21 +3,40 @@
   "domain": "climateaction.ca.gov",
   "targetURL": "https://climateaction.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "CA Climate Action - Home",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-BVTYZZTQY5",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [
+    "http://twitter.com/CaliforniaEPA",
+    "http://www.linkedin.com/company/california-environmental-protection-agency",
+    "https://www.facebook.com/CaliforniaEPA/"
+  ],
+  "linksToCaGov": true,
   "errorMessage": null,
-  "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "nocache": true,
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "cloudflare",
+    "x-cache-group": "normal",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "WP Engine"
+  },
+  "notes": null,
+  "metaGenerator": "CAWeb v.1.12.1",
+  "metaAuthor": "State of California"
 }

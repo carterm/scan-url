@@ -3,21 +3,43 @@
   "domain": "chha.ca.gov",
   "targetURL": "https://chha.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "California Housing and Homelessness Agency – Stronger Communities Through Stable Homes",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
+  "usesStateTemplate": true,
   "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "googleAnalytics": [
+    "G-4FQMWEEB0X"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/people/California-Housing-and-Homelessness-Agency/61587527218590/",
+    "https://www.linkedin.com/company/california-housing-and-homelessness-agency/about/",
+    "https://x.com/CaliforniaHHA"
+  ],
+  "linksToCaGov": true,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=UTF-8",
+    "permissions-policy": "geolocation=(), camera=(), microphone=()",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "nginx",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "PHP/8.5.6"
+  },
+  "notes": null,
+  "finalUrl": "https://www.housing.ca.gov/",
+  "cosmeticTargetURL": "https://www.housing.ca.gov/",
+  "DOMErrors": [
+    "Could not parse CSS stylesheet"
+  ],
+  "metaGenerator": "WordPress 7.1.3"
 }

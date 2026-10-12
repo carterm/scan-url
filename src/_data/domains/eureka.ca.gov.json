@@ -3,21 +3,39 @@
   "domain": "eureka.ca.gov",
   "targetURL": "https://eureka.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Eureka, CA | Official Website",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-J8PQRHX26Z",
+    "GTM-K73C5PS",
+    "GTM-WXZ62BZ"
+  ],
+  "socialLinks": [
+    "https://twitter.com/cityofeureka",
+    "https://www.facebook.com/CityofEureka",
+    "https://www.instagram.com/cityofeureka/?hl=en"
+  ],
   "linksToCaGov": false,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "p3p": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"",
+    "permissions-policy": "camera=(), microphone=()",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN"
+  },
+  "notes": null,
+  "finalUrl": "https://www.eurekaca.gov/",
+  "cosmeticTargetURL": "https://www.eurekaca.gov/"
 }

@@ -3,11 +3,11 @@
   "domain": "healthcorps.ca.gov",
   "targetURL": "https://healthcorps.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "ServiceNow",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -17,7 +17,20 @@
   "socialLinks": [],
   "linksToCaGov": false,
   "errorMessage": null,
-  "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "nocache": true,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html;charset=UTF-8",
+    "pragma": "no-store,no-cache",
+    "referrer-policy": "same-origin",
+    "server": "snow_adc",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-is-logged-in": "false",
+    "x-is-visitor": "false"
+  },
+  "notes": null,
+  "finalUrl": "https://www.emsa.ca.gov/session_timeout.do",
+  "cosmeticTargetURL": "https://www.emsa.ca.gov/session_timeout.do"
 }

@@ -3,21 +3,38 @@
   "domain": "calich.ca.gov",
   "targetURL": "https://www.calich.ca.gov/",
   "www": true,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "California Interagency Council on Homelessness (Cal ICH)",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-WDV1M99H28",
+    "GTM-M683DJB",
+    "GTM-NBQCVZC",
+    "UA-3419582-2",
+    "UA-64276560-31"
+  ],
+  "socialLinks": [
+    "https://twitter.com/Cal_ICH",
+    "https://www.facebook.com/CaliforniaICH/",
+    "https://www.youtube.com/watch?v=ELqNexxPEJY",
+    "https://youtu.be/ICteSs1dZt4"
+  ],
+  "linksToCaGov": true,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "content-type": "text/html",
+    "server": "volt-adc"
+  },
+  "notes": null,
+  "metaAuthor": "Business, Consumer Services and Housing Agency"
 }

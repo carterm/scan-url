@@ -3,21 +3,45 @@
   "domain": "mce.ca.gov",
   "targetURL": "https://mce.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "MCE Community Choice Energy",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "GTM-NDP8M82"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/mceCleanEnergy/",
+    "https://www.instagram.com/mcecleanenergy/",
+    "https://www.linkedin.com/company/mcecleanenergy/",
+    "https://www.youtube.com/channel/UCIHS9Y0uM2lJOCgOHnadyEQ"
+  ],
   "linksToCaGov": false,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html; charset=UTF-8",
+    "ki-edge": "v=28.5.1;mv=99.9.9",
+    "ki-origin": "g1p",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}",
+    "server": "cloudflare",
+    "x-content-type-options": "nosniff",
+    "x-edge-location-klb": "1",
+    "x-tec-api-origin": "https://mcecleanenergy.org",
+    "x-tec-api-root": "https://mcecleanenergy.org/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1"
+  },
+  "notes": null,
+  "finalUrl": "https://mcecleanenergy.org/",
+  "cosmeticTargetURL": "https://mcecleanenergy.org/",
+  "metaGenerator": "WordPress 7.1.3"
 }

@@ -3,21 +3,43 @@
   "domain": "calstrs.ca.gov",
   "targetURL": "https://calstrs.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Homepage CalSTRS",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "googleAnalytics": [
+    "G-8N7X1ZE5C9",
+    "GTM-NVHDX8X",
+    "UA-20538890-2"
+  ],
+  "socialLinks": [
+    "http://www.instagram.com/calstrs",
+    "http://www.linkedin.com/company/calstrs",
+    "http://www.youtube.com/user/myCalSTRS",
+    "https://www.facebook.com/CalSTRS"
+  ],
   "linksToCaGov": false,
   "errorMessage": null,
-  "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "nocache": true,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "cloudflare",
+    "x-content-type-options": "nosniff",
+    "x-download-options": "noopen",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "1; mode=block"
+  },
+  "notes": null,
+  "finalUrl": "https://www.calstrs.com/",
+  "cosmeticTargetURL": "https://www.calstrs.com/"
 }

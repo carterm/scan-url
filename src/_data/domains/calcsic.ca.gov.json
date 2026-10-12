@@ -16,7 +16,7 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": null,
+  "errorMessage": "Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: calcsic.ca.gov. is not in the cert's altnames: DNS:ftp.calcsic.ca.gov, DNS:www.ftp.calcsic.ca.gov",
   "nocache": false,
   "responseHeaders": {},
   "notes": null

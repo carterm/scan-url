@@ -3,11 +3,11 @@
   "domain": "aclad.ca.gov",
   "targetURL": "https://aclad.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "Home | Aclad",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -17,7 +17,16 @@
   "socialLinks": [],
   "linksToCaGov": false,
   "errorMessage": null,
-  "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "nocache": true,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-language": "en-US",
+    "content-type": "text/html; charset=UTF-8",
+    "server": "Pepyaka",
+    "x-content-type-options": "nosniff",
+    "x-meta-site-id": "ef1892fe-6242-420d-ae25-814d055bea83"
+  },
+  "notes": null,
+  "metaGenerator": "Wix.com Website Builder"
 }

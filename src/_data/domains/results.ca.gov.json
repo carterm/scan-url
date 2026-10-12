@@ -3,21 +3,40 @@
   "domain": "results.ca.gov",
   "targetURL": "https://www.results.ca.gov/",
   "www": true,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "",
-  "lastStatus": null,
+  "title": "California state government, personalized for YOU",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-T0QMT0PCMK"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/CAgovernor/",
+    "https://www.instagram.com/cagovernor/",
+    "https://www.tiktok.com/@cagovernor",
+    "https://www.youtube.com/cagovernor",
+    "https://x.com/cagovernor"
+  ],
+  "linksToCaGov": true,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "br",
+    "content-type": "text/html",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "AmazonS3",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
+  },
+  "notes": null,
+  "metaAuthor": "Office of the Governor - State of California"
 }
