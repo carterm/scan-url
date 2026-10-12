@@ -5,27 +5,34 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "Service Unavailable",
-  "lastStatus": 503,
+  "title": "Welcome to the Medi-Cal Dental Program",
+  "lastStatus": 200,
   "responseHeaders": {
     "connection": "keep-alive",
     "content-encoding": "br",
-    "content-type": "text/html; charset=us-ascii",
+    "content-type": "text/html; charset=utf-8",
     "referrer-policy": "no-referrer",
-    "server": "Microsoft-HTTPAPI/2.0",
+    "server": "Microsoft-IIS/10.0",
     "x-content-type-options": "nosniff",
-    "x-frame-options": "DENY"
+    "x-frame-options": "DENY",
+    "x-oneagent-js-injection": "true",
+    "x-powered-by": "ASP.NET",
+    "x-ruxit-js-agent": "true",
+    "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-1CEWEWFPWS",
+    "GTM-KVM7FWB"
+  ],
   "socialLinks": [],
-  "linksToCaGov": false,
-  "errorMessage": "HTTP 503",
+  "linksToCaGov": true,
+  "errorMessage": null,
   "notes": null,
   "nocache": false,
-  "goodScan": false
+  "goodScan": true
 }

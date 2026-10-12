@@ -3,23 +3,36 @@
   "domain": "calpia.ca.gov",
   "targetURL": "https://www.calpia.ca.gov/",
   "www": true,
-  "goodScan": false,
+  "goodScan": true,
   "active": false,
-  "includeInScan": false,
-  "title": "CALCTRA Website Career Training | Quality Products | Changed Lives",
-  "lastStatus": null,
+  "includeInScan": true,
+  "title": "CALCTRA Website » Career Training | Quality Products | Changed Lives",
+  "lastStatus": 200,
   "finalUrl": "https://www.calctra.ca.gov/",
-  "metaGenerator": null,
+  "metaGenerator": "WordPress 7.1.3",
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-KEC04T63TW",
+    "GTM-M833TJP"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/CALCTRA/",
+    "https://www.instagram.com/calctra/",
+    "https://www.linkedin.com/company/california-correctional-training-rehabilitation-authority-calctra",
+    "https://www.youtube.com/@CALCTRA",
+    "https://www.youtube.com/watch?v=eP5uFV5rjyk"
+  ],
   "linksToCaGov": false,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "content-type": "text/html; charset=UTF-8",
+    "server": "Microsoft-IIS/10.0"
+  },
+  "notes": null,
+  "cosmeticTargetDomain": "calctra.ca.gov"
 }

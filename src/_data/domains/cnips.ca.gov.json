@@ -3,13 +3,12 @@
   "domain": "cnips.ca.gov",
   "targetURL": "https://www.cnips.ca.gov/",
   "www": true,
-  "goodScan": false,
+  "goodScan": true,
   "active": false,
-  "includeInScan": false,
+  "includeInScan": true,
   "title": "Child Nutrition Information and Payment System",
-  "lastStatus": null,
-  "finalUrl": "https://cnips.cde.ca.gov/Splash.aspx",
-  "metaGenerator": null,
+  "lastStatus": 200,
+  "finalUrl": "https://cnips.cde.ca.gov/",
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
@@ -20,6 +19,11 @@
   "linksToCaGov": false,
   "errorMessage": null,
   "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8"
+  },
+  "notes": null,
+  "cosmeticTargetDomain": "cnips.cde.ca.gov"
 }

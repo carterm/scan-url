@@ -25,7 +25,7 @@
     "permissions-policy": "unload=*",
     "server": "nginx",
     "x-content-type-options": "nosniff",
-    "x-sfdc-trace-flags": "02"
+    "x-sfdc-trace-flags": "01"
   },
   "notes": null,
   "finalUrl": "https://tourism.ca.gov/s/",

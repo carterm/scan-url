@@ -6,11 +6,16 @@
   "active": true,
   "includeInScan": true,
   "title": "Home | California Student Aid Commission",
-  "lastStatus": 403,
+  "lastStatus": 202,
   "responseHeaders": {
+    "access-control-allow-methods": "OPTIONS,GET,POST",
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "x-amzn-waf-action",
+    "access-control-max-age": "86400",
     "connection": "keep-alive",
-    "content-type": "text/html",
+    "content-type": "text/html; charset=UTF-8",
     "server": "awselb/2.0",
+    "x-amzn-waf-action": "challenge",
     "x-content-type-options": "nosniff",
     "x-frame-options": "DENY"
   },
@@ -22,7 +27,8 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": "HTTP 403",
+  "errorMessage": null,
   "notes": "403 since 2026-04-23",
-  "goodScan": true
+  "goodScan": true,
+  "nocache": true
 }

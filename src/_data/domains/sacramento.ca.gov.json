@@ -3,23 +3,41 @@
   "domain": "sacramento.ca.gov",
   "targetURL": "https://www.sacramento.ca.gov/",
   "www": true,
-  "goodScan": false,
+  "goodScan": true,
   "active": false,
-  "includeInScan": false,
-  "title": "",
-  "lastStatus": null,
-  "finalUrl": "https://www.cityofsacramento.org/",
-  "metaGenerator": null,
+  "includeInScan": true,
+  "title": "Home | City of Sacramento",
+  "lastStatus": 200,
+  "finalUrl": "https://www.cityofsacramento.gov/",
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "googleAnalytics": [
+    "G-PXQC7H7S2V"
+  ],
+  "socialLinks": [
+    "https://instagram.com/thecityofsac",
+    "https://twitter.com/thecityofsac",
+    "https://www.facebook.com/TheCityofSacramento",
+    "https://www.youtube.com/@TheCityofSacramento/featured",
+    "https://x.com/thecityofsac"
+  ],
   "linksToCaGov": false,
   "errorMessage": null,
-  "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "nocache": true,
+  "responseHeaders": {
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html;charset=utf-8",
+    "server": "Apache",
+    "x-content-type-options": "nosniff",
+    "x-dispatcher": "dispatcher2westus2-b86",
+    "x-frame-options": "SAMEORIGIN",
+    "x-vhost": "publish"
+  },
+  "notes": null,
+  "cosmeticTargetDomain": "cityofsacramento.gov"
 }

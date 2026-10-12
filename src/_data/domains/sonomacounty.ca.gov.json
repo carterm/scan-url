@@ -3,23 +3,38 @@
   "domain": "sonomacounty.ca.gov",
   "targetURL": "https://sonomacounty.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": false,
-  "includeInScan": false,
-  "title": "",
-  "lastStatus": null,
+  "includeInScan": true,
+  "title": "County Of Sonoma",
+  "lastStatus": 200,
   "finalUrl": "https://sonomacounty.gov/",
-  "metaGenerator": null,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "googleAnalytics": [
+    "GTM-M5G2H9S"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CountyofSonoma?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "https://www.facebook.com/CountyofSonoma/",
+    "https://www.instagram.com/countyofsonoma/",
+    "https://www.youtube.com/user/officialsonomacounty"
+  ],
   "linksToCaGov": false,
   "errorMessage": null,
-  "nocache": false,
-  "responseHeaders": {},
-  "notes": null
+  "nocache": true,
+  "responseHeaders": {
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "permissions-policy": "camera=(), microphone=()",
+    "pragma": "no-cache",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "reporting-endpoints": "csp-report=\"https://sonomacounty.gov/api/CSPViolationReport?controlID=x5\"",
+    "x-content-type-options": "nosniff"
+  },
+  "notes": null,
+  "cosmeticTargetDomain": "sonomacounty.gov"
 }
