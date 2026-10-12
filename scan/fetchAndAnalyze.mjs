@@ -82,10 +82,12 @@ export async function fetchAndAnalyze(original) {
   domainRecord.finalUrl = res.url;
 
   if (res.url !== url) {
-    // if the domains have changed, set cosmeticTargetURL
+    // if the domains have changed (ignore www.), set cosmeticTargetURL
     const originalDomain = new URL(url).hostname;
     const finalDomain = new URL(res.url).hostname;
-    if (originalDomain !== finalDomain)
+    if (
+      originalDomain.replace(/^www\./, "") !== finalDomain.replace(/^www\./, "")
+    )
       domainRecord.cosmeticTargetURL = res.url;
   }
 
