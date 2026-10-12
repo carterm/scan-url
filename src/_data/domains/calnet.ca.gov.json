@@ -1,0 +1,23 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "calnet.ca.gov",
+  "targetURL": "https://calnet.ca.gov/",
+  "www": false,
+  "goodScan": false,
+  "active": true,
+  "includeInScan": true,
+  "title": "",
+  "lastStatus": null,
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "nocache": false,
+  "responseHeaders": {},
+  "notes": null
+}
