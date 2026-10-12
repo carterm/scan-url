@@ -3,7 +3,7 @@
   "domain": "caleafygreens.ca.gov",
   "targetURL": "https://caleafygreens.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
   "title": "Lettuce Information | Learn About the Different Types of Lettuce",
@@ -24,7 +24,7 @@
     "https://www.youtube.com/channel/UCB9RsslTu_uK_9pqtYLcyqw"
   ],
   "linksToCaGov": false,
-  "errorMessage": "Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: caleafygreens.ca.gov. is not in the cert's altnames: DNS:lettuceinfo.org, DNS:www.lettuceinfo.org",
+  "errorMessage": null,
   "nocache": false,
   "responseHeaders": {
     "connection": "keep-alive",
@@ -38,5 +38,6 @@
   "notes": null,
   "finalUrl": "https://lettuceinfo.org/",
   "cosmeticTargetURL": "https://lettuceinfo.org/",
-  "metaGenerator": "WordPress 5.5.1"
+  "metaGenerator": "WordPress 5.5.1",
+  "cosmeticTargetDomain": "lettuceinfo.org"
 }

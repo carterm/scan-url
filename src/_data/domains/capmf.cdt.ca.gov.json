@@ -18,7 +18,7 @@
   ],
   "socialLinks": [],
   "linksToCaGov": true,
-  "errorMessage": "HTTP 403",
+  "errorMessage": null,
   "nocache": true,
   "responseHeaders": {
     "accept-ranges": "bytes",
@@ -28,5 +28,6 @@
     "x-powered-by": "ASP.NET"
   },
   "notes": null,
-  "goodScan": true
+  "goodScan": true,
+  "metaAuthor": "State of California"
 }

@@ -32,10 +32,10 @@
     "https://www.youtube.com/user/CIRMTV"
   ],
   "linksToCaGov": true,
-  "errorMessage": "Fetch error: fetch failed Headers Timeout Error",
+  "errorMessage": null,
   "notes": null,
   "nocache": false,
-  "goodScan": false,
+  "goodScan": true,
   "DOMErrors": [
     "Could not parse CSS stylesheet"
   ]

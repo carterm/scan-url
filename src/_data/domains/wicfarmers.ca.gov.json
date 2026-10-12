@@ -3,7 +3,7 @@
   "domain": "wicfarmers.ca.gov",
   "targetURL": "http://wicfarmers.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
   "title": "Farmers’ Markets",
@@ -26,7 +26,7 @@
     "https://www.youtube.com/user/CAPublicHealth"
   ],
   "linksToCaGov": true,
-  "errorMessage": "Fetch error: fetch failed unable to verify the first certificate",
+  "errorMessage": null,
   "nocache": false,
   "responseHeaders": {
     "access-control-expose-headers": "Request-Context",
@@ -42,5 +42,6 @@
   "notes": null,
   "finalUrl": "https://www.cdph.ca.gov/Programs/CFH/DWICSN/Pages/FarmersMarkets.aspx",
   "cosmeticTargetURL": "https://www.cdph.ca.gov/Programs/CFH/DWICSN/Pages/FarmersMarkets.aspx",
-  "metaAuthor": "Department of Public Health"
+  "metaAuthor": "Department of Public Health",
+  "cosmeticTargetDomain": "cdph.ca.gov"
 }

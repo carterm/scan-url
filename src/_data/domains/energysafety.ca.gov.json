@@ -9,9 +9,15 @@
   "lastStatus": 200,
   "metaGenerator": "CAWeb v.1.9.0",
   "responseHeaders": {
+    "access-control-allow-headers": "Authorization, Content-Type",
+    "access-control-allow-methods": "GET, POST, OPTIONS",
+    "alt-svc": "h3=\":443\"; ma=86400",
     "connection": "keep-alive",
+    "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "server": "nginx",
+    "permissions-policy": "accelerometer=(), ambient-light-sensor=(), autoplay=(), battery=(), camera=(), display-capture=(), document-domain=(), encrypted-media=(), fullscreen=(self), geolocation=(), gyroscope=(), keyboard-map=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), sync-xhr=(), usb=(), web-share=(), xr-spatial-tracking=(), interest-cohort=()",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "server": "cloudflare",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN"
   },
@@ -34,7 +40,7 @@
   "linksToCaGov": true,
   "errorMessage": null,
   "notes": null,
-  "nocache": false,
+  "nocache": true,
   "goodScan": true,
   "metaAuthor": "State of California"
 }

@@ -16,7 +16,7 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": "Fetch error: fetch failed certificate has expired",
+  "errorMessage": "Failure title word detected in title: \"Log In ‹ Intranet – CalEPA — WordPress\"",
   "nocache": true,
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
@@ -31,5 +31,6 @@
   },
   "notes": null,
   "finalUrl": "https://intranet.calepa.ca.gov/wp-login.php?redirect_to=%2F",
-  "cosmeticTargetURL": "https://intranet.calepa.ca.gov/wp-login.php?redirect_to=%2F"
+  "cosmeticTargetURL": "https://intranet.calepa.ca.gov/wp-login.php?redirect_to=%2F",
+  "cosmeticTargetDomain": "intranet.calepa.ca.gov"
 }

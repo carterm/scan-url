@@ -3,7 +3,7 @@
   "domain": "vaccinateall58.ca.gov",
   "targetURL": "https://vaccinateall58.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
   "title": "COVID-19",
@@ -26,7 +26,7 @@
     "https://www.youtube.com/user/CAPublicHealth"
   ],
   "linksToCaGov": true,
-  "errorMessage": "Fetch error: fetch failed unable to verify the first certificate",
+  "errorMessage": null,
   "nocache": false,
   "responseHeaders": {
     "access-control-expose-headers": "Request-Context",
@@ -42,5 +42,6 @@
   "notes": null,
   "finalUrl": "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/nCoV2019.aspx",
   "cosmeticTargetURL": "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/nCoV2019.aspx",
-  "metaAuthor": "Department of Public Health"
+  "metaAuthor": "Department of Public Health",
+  "cosmeticTargetDomain": "cdph.ca.gov"
 }

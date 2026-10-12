@@ -16,7 +16,7 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": "Fetch error: fetch failed unable to verify the first certificate",
+  "errorMessage": "HTTP 403",
   "nocache": true,
   "responseHeaders": {
     "connection": "close",
@@ -26,5 +26,6 @@
   },
   "notes": null,
   "finalUrl": "https://www.alamedasheriff.gov/",
-  "cosmeticTargetURL": "https://www.alamedasheriff.gov/"
+  "cosmeticTargetURL": "https://www.alamedasheriff.gov/",
+  "cosmeticTargetDomain": "alamedasheriff.gov"
 }

@@ -3,7 +3,7 @@
   "domain": "calcsic.ca.gov",
   "targetURL": "https://calcsic.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
   "title": "Cal-CSIC Web Client",
@@ -16,7 +16,7 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": "Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: calcsic.ca.gov. is not in the cert's altnames: DNS:ftp.calcsic.ca.gov, DNS:www.ftp.calcsic.ca.gov",
+  "errorMessage": null,
   "nocache": true,
   "responseHeaders": {
     "content-type": "text/html;charset=utf-8",

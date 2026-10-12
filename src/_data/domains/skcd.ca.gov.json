@@ -3,7 +3,7 @@
   "domain": "skcd.ca.gov",
   "targetURL": "https://skcd.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
   "title": "Homepage South Kern Cemetery District",
@@ -16,7 +16,7 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": "Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: skcd.ca.gov. is not in the cert's altnames: DNS:hartselfire.org, DNS:www.hartselfire.org",
+  "errorMessage": null,
   "nocache": true,
   "responseHeaders": {
     "content-encoding": "gzip",
@@ -31,5 +31,6 @@
   },
   "notes": null,
   "finalUrl": "https://southkern.specialdistrict.org/",
-  "cosmeticTargetURL": "https://southkern.specialdistrict.org/"
+  "cosmeticTargetURL": "https://southkern.specialdistrict.org/",
+  "cosmeticTargetDomain": "southkern.specialdistrict.org"
 }

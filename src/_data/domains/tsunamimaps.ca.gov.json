@@ -13,9 +13,7 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [
-    "G-N1NHXNDW9X"
-  ],
+  "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
   "errorMessage": "HTTP 403",

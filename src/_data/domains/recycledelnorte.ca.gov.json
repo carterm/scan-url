@@ -26,8 +26,8 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": "Fetch error: fetch failed Headers Timeout Error",
+  "errorMessage": null,
   "notes": null,
   "nocache": true,
-  "goodScan": false
+  "goodScan": true
 }

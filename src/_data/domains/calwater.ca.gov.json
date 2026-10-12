@@ -3,7 +3,7 @@
   "domain": "calwater.ca.gov",
   "targetURL": "https://calwater.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
   "title": "Welcome to the CALFED Bay-Delta Program",
@@ -16,7 +16,7 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": "Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: calwater.ca.gov. is not in the cert's altnames: DNS:*.deltacouncil.ca.gov, DNS:deltacouncil.ca.gov",
+  "errorMessage": null,
   "nocache": false,
   "responseHeaders": {
     "accept-ranges": "bytes",

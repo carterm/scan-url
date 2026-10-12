@@ -3,7 +3,7 @@
   "domain": "tahoecons.ca.gov",
   "targetURL": "https://tahoecons.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
   "title": "",
@@ -16,7 +16,7 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": "Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: tahoecons.ca.gov. is not in the cert's altnames: DNS:*.water.ca.gov, DNS:water.ca.gov",
+  "errorMessage": null,
   "nocache": true,
   "responseHeaders": {
     "content-encoding": "gzip",
@@ -32,5 +32,6 @@
   },
   "notes": null,
   "finalUrl": "https://smartforms.water.ca.gov/Produce/Account/SamlLogin?BusinessUnitGuid=a1f68056-4b95-4e98-aacd-05d65c354e00&ReturnURL=https%3a%2f%2fsmartforms.water.ca.gov%2fProduce%2fForm%2fForms%2fMyVax%2f",
-  "cosmeticTargetURL": "https://smartforms.water.ca.gov/Produce/Account/SamlLogin?BusinessUnitGuid=a1f68056-4b95-4e98-aacd-05d65c354e00&ReturnURL=https%3a%2f%2fsmartforms.water.ca.gov%2fProduce%2fForm%2fForms%2fMyVax%2f"
+  "cosmeticTargetURL": "https://smartforms.water.ca.gov/Produce/Account/SamlLogin?BusinessUnitGuid=a1f68056-4b95-4e98-aacd-05d65c354e00&ReturnURL=https%3a%2f%2fsmartforms.water.ca.gov%2fProduce%2fForm%2fForms%2fMyVax%2f",
+  "cosmeticTargetDomain": "smartforms.water.ca.gov"
 }

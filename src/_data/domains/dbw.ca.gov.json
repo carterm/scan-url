@@ -35,5 +35,6 @@
   "notes": null,
   "finalUrl": "https://dbw.parks.ca.gov/",
   "cosmeticTargetURL": "https://dbw.parks.ca.gov/",
-  "metaAuthor": "California State Parks"
+  "metaAuthor": "California State Parks",
+  "cosmeticTargetDomain": "dbw.parks.ca.gov"
 }

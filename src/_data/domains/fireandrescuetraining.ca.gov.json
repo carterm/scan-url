@@ -3,7 +3,7 @@
   "domain": "fireandrescuetraining.ca.gov",
   "targetURL": "https://www.fireandrescuetraining.ca.gov/",
   "www": true,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
   "title": "Homepage California Fire and Rescue Training Authority",
@@ -16,7 +16,7 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": "Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: www.fireandrescuetraining.ca.gov. is not in the cert's altnames: DNS:hartselfire.org, DNS:www.hartselfire.org",
+  "errorMessage": null,
   "nocache": true,
   "responseHeaders": {
     "content-encoding": "gzip",

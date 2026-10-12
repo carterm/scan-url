@@ -3,7 +3,7 @@
   "domain": "gunsafety.ca.gov",
   "targetURL": "https://gunsafety.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
   "title": "Reduce the Risk |",
@@ -24,7 +24,7 @@
     "https://x.com/Cal_OES/"
   ],
   "linksToCaGov": true,
-  "errorMessage": "Fetch error: fetch failed certificate has expired",
+  "errorMessage": null,
   "nocache": false,
   "responseHeaders": {
     "connection": "keep-alive",
@@ -36,5 +36,6 @@
   "finalUrl": "https://www.reducetherisk.ca.gov/",
   "cosmeticTargetURL": "https://www.reducetherisk.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.0",
-  "metaAuthor": "State of California"
+  "metaAuthor": "State of California",
+  "cosmeticTargetDomain": "reducetherisk.ca.gov"
 }

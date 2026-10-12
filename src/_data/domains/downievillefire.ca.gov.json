@@ -3,7 +3,7 @@
   "domain": "downievillefire.ca.gov",
   "targetURL": "https://downievillefire.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
   "title": "Homepage Downieville Fire Protection District",
@@ -18,7 +18,7 @@
     "https://www.facebook.com/DownievilleVFD/"
   ],
   "linksToCaGov": false,
-  "errorMessage": "Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: downievillefire.ca.gov. is not in the cert's altnames: DNS:hartselfire.org, DNS:www.hartselfire.org",
+  "errorMessage": null,
   "nocache": true,
   "responseHeaders": {
     "content-encoding": "gzip",
@@ -33,5 +33,6 @@
   },
   "notes": null,
   "finalUrl": "https://www.downievillefiredistrictca.gov/",
-  "cosmeticTargetURL": "https://www.downievillefiredistrictca.gov/"
+  "cosmeticTargetURL": "https://www.downievillefiredistrictca.gov/",
+  "cosmeticTargetDomain": "downievillefiredistrictca.gov"
 }

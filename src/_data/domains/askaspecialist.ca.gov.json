@@ -3,7 +3,7 @@
   "domain": "askaspecialist.ca.gov",
   "targetURL": "https://www.askaspecialist.ca.gov/",
   "www": true,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
   "title": "Ask A Specialist - Professional Development (Diagnostic Center, Northern CA)",
@@ -22,7 +22,7 @@
     "https://www.linkedin.com/shareArticle?mini=true&url=https%3A//dcn-cde.ca.gov/professionaldev/askaspecialist/index.aspx/&title=DCN%20Website&summary=Visit%20this%20page%20on%20the%20DCN%20website"
   ],
   "linksToCaGov": false,
-  "errorMessage": "Fetch error: fetch failed read ECONNRESET",
+  "errorMessage": null,
   "nocache": false,
   "responseHeaders": {
     "connection": "keep-alive",

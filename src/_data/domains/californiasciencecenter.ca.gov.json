@@ -13,9 +13,7 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [
-    "G-1791836936"
-  ],
+  "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
   "errorMessage": "Cloudflare challenge detected",

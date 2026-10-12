@@ -3,7 +3,7 @@
   "domain": "ccr.ca.gov",
   "targetURL": "https://ccr.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
   "title": "Homepage - California Cancer Registry",
@@ -18,7 +18,7 @@
   ],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": "Fetch error: fetch failed certificate has expired",
+  "errorMessage": null,
   "nocache": false,
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
@@ -39,8 +39,9 @@
   "notes": null,
   "finalUrl": "https://ccrcal.org/",
   "cosmeticTargetURL": "https://ccrcal.org/",
+  "metaGenerator": "Divi v.5.9.0",
+  "cosmeticTargetDomain": "ccrcal.org",
   "DOMErrors": [
     "Could not parse CSS stylesheet"
-  ],
-  "metaGenerator": "Divi v.5.9.0"
+  ]
 }

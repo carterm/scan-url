@@ -3,7 +3,7 @@
   "domain": "inyocourt.ca.gov",
   "targetURL": "https://www.inyocourt.ca.gov/",
   "www": true,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
   "title": "Home | Superior Court of California | County of Inyo",
@@ -20,7 +20,7 @@
     "https://www.youtube.com/californiacourts"
   ],
   "linksToCaGov": false,
-  "errorMessage": "Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: www.inyocourt.ca.gov. is not in the cert's altnames: DNS:*.getpantheon.com, DNS:*.gotpantheon.com, DNS:*.pantheon.io, DNS:*.pantheonsite.io, DNS:getpantheon.com, DNS:gotpantheon.com, DNS:pantheonsite.io",
+  "errorMessage": null,
   "nocache": false,
   "responseHeaders": {
     "accept-ranges": "bytes",
@@ -37,5 +37,6 @@
   "notes": null,
   "finalUrl": "https://www.inyo.courts.ca.gov/",
   "cosmeticTargetURL": "https://www.inyo.courts.ca.gov/",
-  "metaGenerator": "Drupal 9 (https://www.drupal.org)"
+  "metaGenerator": "Drupal 9 (https://www.drupal.org)",
+  "cosmeticTargetDomain": "inyo.courts.ca.gov"
 }

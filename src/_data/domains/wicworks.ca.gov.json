@@ -3,7 +3,7 @@
   "domain": "wicworks.ca.gov",
   "targetURL": "http://wicworks.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
   "title": "Women, Infants & Children Program",
@@ -26,7 +26,7 @@
     "https://www.youtube.com/user/CAPublicHealth"
   ],
   "linksToCaGov": true,
-  "errorMessage": "Fetch error: fetch failed unable to verify the first certificate",
+  "errorMessage": null,
   "nocache": false,
   "responseHeaders": {
     "access-control-expose-headers": "Request-Context",
@@ -42,8 +42,9 @@
   "notes": null,
   "finalUrl": "https://www.cdph.ca.gov/Programs/CFH/DWICSN/Pages/Program-Landing1.aspx",
   "cosmeticTargetURL": "https://www.cdph.ca.gov/Programs/CFH/DWICSN/Pages/Program-Landing1.aspx",
+  "metaAuthor": "Department of Public Health",
+  "cosmeticTargetDomain": "cdph.ca.gov",
   "DOMErrors": [
     "Could not parse CSS stylesheet"
-  ],
-  "metaAuthor": "Department of Public Health"
+  ]
 }

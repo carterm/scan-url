@@ -3,7 +3,7 @@
   "domain": "irwd.ca.gov",
   "targetURL": "https://irwd.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
   "title": "Irvine Ranch Water District | Drinking Water, Recycled Water, Sewer Collections",
@@ -25,7 +25,7 @@
     "https://www.youtube.com/user/IrvineRanchWD"
   ],
   "linksToCaGov": false,
-  "errorMessage": "Fetch error: fetch failed unable to verify the first certificate",
+  "errorMessage": null,
   "nocache": false,
   "responseHeaders": {
     "connection": "keep-alive",
@@ -36,5 +36,6 @@
   "notes": null,
   "finalUrl": "https://www.irwd.com/",
   "cosmeticTargetURL": "https://www.irwd.com/",
-  "metaGenerator": "Site Kit by Google 1.183.0"
+  "metaGenerator": "Site Kit by Google 1.183.0",
+  "cosmeticTargetDomain": "irwd.com"
 }

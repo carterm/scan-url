@@ -3,7 +3,7 @@
   "domain": "sen.ca.gov",
   "targetURL": "https://sen.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
   "title": "Homepage | California State Senate",
@@ -18,7 +18,7 @@
   ],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": "Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: sen.ca.gov. is not in the cert's altnames: DNS:*.senate.ca.gov, DNS:senate.ca.gov, DNS:www.senate.ca.gov",
+  "errorMessage": null,
   "nocache": false,
   "responseHeaders": {
     "accept-ranges": "bytes",
@@ -43,5 +43,6 @@
   },
   "notes": null,
   "finalUrl": "https://www.senate.ca.gov/",
-  "cosmeticTargetURL": "https://www.senate.ca.gov/"
+  "cosmeticTargetURL": "https://www.senate.ca.gov/",
+  "cosmeticTargetDomain": "senate.ca.gov"
 }
