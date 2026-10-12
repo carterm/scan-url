@@ -6,7 +6,10 @@ import converter from "json-2-csv";
 const publish_location = "publish/scan-results.csv";
 
 const items = loadAllDomainRecords();
-const domainRecords = items.map(i => i.record).filter(r => r.includeInScan);
+const allDomainRecords = items.map(i => i.record);
+const filteredDomainRecords = allDomainRecords.filter(
+  r => r.includeInScan && (r.cosmeticTargetDomain?.length ?? 0) === 0
+);
 
 /**
  * Returns a safe 50‑character preview of a string.
@@ -29,12 +32,22 @@ function booleanToYesNo(value) {
   return value ? "X" : "";
 }
 
+/**
+ * @param {import("./helpers/fileIO.mjs").DomainRecord} row
+ */
+function getCosmeticDomains(row) {
+  const matches =
+    allDomainRecords.filter(r => r.cosmeticTargetDomain === row.domain) || null;
+  return matches.length ? matches.map(r => r.domain).join(", ") : "";
+}
+
 (() => {
-  const resultData = domainRecords
+  const resultData = filteredDomainRecords
     .map(row => ({
       domain: (row.domain.match(/\W*([\w-]*\.ca\.gov)/) || [])[1] || ".ca.gov",
       target: row.targetURL,
       status: row.lastStatus || "",
+      CosmeticDomains: getCosmeticDomains(row),
       redirectURL: preview50(row.finalUrl),
       title: preview50(row.title),
       generator: preview50(row.metaGenerator) || "",
