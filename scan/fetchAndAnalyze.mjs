@@ -67,6 +67,7 @@ export async function fetchAndAnalyze(original) {
       dispatcher: secureAgent,
       redirect: "follow"
     });
+    domainRecord.errorMessage = null;
   } catch (e) {
     //@ts-ignore
     domainRecord.errorMessage = `Fetch error: ${e.message} ${e.cause?.message || ""}`;
