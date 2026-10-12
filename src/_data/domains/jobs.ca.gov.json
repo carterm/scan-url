@@ -37,5 +37,6 @@
   },
   "notes": null,
   "finalUrl": "https://calcareers.ca.gov/",
-  "cosmeticTargetURL": "https://calcareers.ca.gov/"
+  "cosmeticTargetURL": "https://calcareers.ca.gov/",
+  "cosmeticTargetDomain": "calcareers.ca.gov"
 }

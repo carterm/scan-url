@@ -41,5 +41,6 @@
   },
   "notes": null,
   "finalUrl": "https://www.calstrs.com/",
-  "cosmeticTargetURL": "https://www.calstrs.com/"
+  "cosmeticTargetURL": "https://www.calstrs.com/",
+  "cosmeticTargetDomain": "calstrs.com"
 }

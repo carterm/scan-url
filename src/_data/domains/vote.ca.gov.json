@@ -38,5 +38,6 @@
   },
   "notes": null,
   "finalUrl": "https://www.sos.ca.gov/elections/make-plan-vote",
-  "cosmeticTargetURL": "https://www.sos.ca.gov/elections/make-plan-vote"
+  "cosmeticTargetURL": "https://www.sos.ca.gov/elections/make-plan-vote",
+  "cosmeticTargetDomain": "sos.ca.gov"
 }

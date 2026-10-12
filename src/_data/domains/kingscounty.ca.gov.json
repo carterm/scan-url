@@ -26,5 +26,6 @@
   },
   "notes": null,
   "finalUrl": "https://www.countyofkingsca.gov/",
-  "cosmeticTargetURL": "https://www.countyofkingsca.gov/"
+  "cosmeticTargetURL": "https://www.countyofkingsca.gov/",
+  "cosmeticTargetDomain": "countyofkingsca.gov"
 }

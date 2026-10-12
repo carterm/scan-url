@@ -37,5 +37,6 @@
   "finalUrl": "https://www.caloes.ca.gov/",
   "cosmeticTargetURL": "https://www.caloes.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.0",
-  "metaAuthor": "State of California"
+  "metaAuthor": "State of California",
+  "cosmeticTargetDomain": "caloes.ca.gov"
 }

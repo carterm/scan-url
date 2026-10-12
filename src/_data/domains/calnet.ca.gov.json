@@ -45,6 +45,7 @@
   "cosmeticTargetURL": "https://www.cdt.ca.gov/services/calnet/",
   "metaGenerator": "CAWeb v.1.13.4",
   "metaAuthor": "State of California",
+  "cosmeticTargetDomain": "cdt.ca.gov",
   "DOMErrors": [
     "Could not parse CSS stylesheet"
   ]

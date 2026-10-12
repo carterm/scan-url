@@ -21,14 +21,14 @@
   "errorMessage": null,
   "nocache": true,
   "responseHeaders": {
-    "cache-status": "\"Netlify Durable\"; hit; ttl=30571315, \"Next.js\"; hit, \"Netlify Edge\"; fwd=miss; fwd-status=200; stored",
+    "cache-status": "\"Next.js\"; hit, \"Netlify Durable\"; fwd=stale; ttl=30570269; stored, \"Netlify Edge\"; fwd=miss; fwd-status=200; stored",
     "content-encoding": "br",
     "content-type": "text/html; charset=utf-8",
     "netlify-vary": "query=__nextDataReq|_rsc,header=x-nextjs-data|x-next-debug-logging|next-router-prefetch|next-router-segment-prefetch|next-router-state-tree|next-url|rsc|accept-encoding,cookie=__prerender_bypass|__next_preview_data",
     "server": "Netlify",
     "x-content-type-options": "nosniff",
-    "x-nextjs-date": "Thu, 01 Oct 2026 17:22:17 GMT",
-    "x-nf-request-id": "01M4RVWWZ5RWMDANNXMB4FBCNV",
+    "x-nextjs-date": "Mon, 12 Oct 2026 20:29:33 GMT",
+    "x-nf-request-id": "01M4RWWTFE4378S34Y0SMMA6BH",
     "x-powered-by": "Next.js"
   },
   "notes": null

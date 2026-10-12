@@ -33,5 +33,6 @@
   },
   "notes": null,
   "finalUrl": "https://www.auditor.ca.gov/",
-  "cosmeticTargetURL": "https://www.auditor.ca.gov/"
+  "cosmeticTargetURL": "https://www.auditor.ca.gov/",
+  "cosmeticTargetDomain": "auditor.ca.gov"
 }

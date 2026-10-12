@@ -33,5 +33,6 @@
   "notes": null,
   "finalUrl": "https://www.sandiegocounty.gov/",
   "cosmeticTargetURL": "https://www.sandiegocounty.gov/",
-  "metaGenerator": "WordPress 7.1.3"
+  "metaGenerator": "WordPress 7.1.3",
+  "cosmeticTargetDomain": "sandiegocounty.gov"
 }

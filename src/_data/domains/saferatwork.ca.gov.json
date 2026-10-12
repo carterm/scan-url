@@ -47,5 +47,6 @@
   "finalUrl": "https://saferatwork.labor.ca.gov/",
   "cosmeticTargetURL": "https://saferatwork.labor.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.4",
-  "metaAuthor": "State of California"
+  "metaAuthor": "State of California",
+  "cosmeticTargetDomain": "saferatwork.labor.ca.gov"
 }

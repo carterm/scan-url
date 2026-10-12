@@ -31,5 +31,6 @@
   },
   "notes": null,
   "finalUrl": "https://dcn-cde.ca.gov/professionaldev/askaspecialist/index.aspx",
-  "cosmeticTargetURL": "https://dcn-cde.ca.gov/professionaldev/askaspecialist/index.aspx"
+  "cosmeticTargetURL": "https://dcn-cde.ca.gov/professionaldev/askaspecialist/index.aspx",
+  "cosmeticTargetDomain": "dcn-cde.ca.gov"
 }

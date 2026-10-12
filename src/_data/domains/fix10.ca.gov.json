@@ -39,5 +39,6 @@
   "notes": null,
   "finalUrl": "https://dot.ca.gov/fix-10",
   "cosmeticTargetURL": "https://dot.ca.gov/fix-10",
-  "metaAuthor": "State of California"
+  "metaAuthor": "State of California",
+  "cosmeticTargetDomain": "dot.ca.gov"
 }

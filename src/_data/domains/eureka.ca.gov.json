@@ -37,5 +37,6 @@
   },
   "notes": null,
   "finalUrl": "https://www.eurekaca.gov/",
-  "cosmeticTargetURL": "https://www.eurekaca.gov/"
+  "cosmeticTargetURL": "https://www.eurekaca.gov/",
+  "cosmeticTargetDomain": "eurekaca.gov"
 }

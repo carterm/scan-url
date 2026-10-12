@@ -32,5 +32,6 @@
   },
   "notes": null,
   "finalUrl": "https://www.emsa.ca.gov/session_timeout.do",
-  "cosmeticTargetURL": "https://www.emsa.ca.gov/session_timeout.do"
+  "cosmeticTargetURL": "https://www.emsa.ca.gov/session_timeout.do",
+  "cosmeticTargetDomain": "emsa.ca.gov"
 }

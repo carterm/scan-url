@@ -34,5 +34,6 @@
   "notes": null,
   "finalUrl": "https://plumas.courts.ca.gov/",
   "cosmeticTargetURL": "https://plumas.courts.ca.gov/",
-  "metaGenerator": "Drupal 9 (https://www.drupal.org)"
+  "metaGenerator": "Drupal 9 (https://www.drupal.org)",
+  "cosmeticTargetDomain": "plumas.courts.ca.gov"
 }

@@ -46,5 +46,6 @@
   "finalUrl": "https://wedrawthelines.ca.gov/",
   "cosmeticTargetURL": "https://wedrawthelines.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.4",
-  "metaAuthor": "State of California"
+  "metaAuthor": "State of California",
+  "cosmeticTargetDomain": "wedrawthelines.ca.gov"
 }

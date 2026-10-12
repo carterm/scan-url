@@ -38,5 +38,6 @@
   },
   "notes": null,
   "finalUrl": "https://www.dca.ca.gov/cba/",
-  "cosmeticTargetURL": "https://www.dca.ca.gov/cba/"
+  "cosmeticTargetURL": "https://www.dca.ca.gov/cba/",
+  "cosmeticTargetDomain": "dca.ca.gov"
 }

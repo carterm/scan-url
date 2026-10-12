@@ -27,12 +27,13 @@
   "nocache": false,
   "responseHeaders": {
     "connection": "keep-alive",
-    "content-encoding": "gzip",
+    "content-encoding": "br",
     "content-type": "text/html",
     "server": "AmazonS3"
   },
   "notes": null,
   "finalUrl": "https://innovation.ca.gov/",
   "cosmeticTargetURL": "https://innovation.ca.gov/",
-  "metaAuthor": "Office of Innovation - State of California"
+  "metaAuthor": "Office of Innovation - State of California",
+  "cosmeticTargetDomain": "innovation.ca.gov"
 }

@@ -48,5 +48,6 @@
   "finalUrl": "https://calcivilrights.ca.gov/",
   "cosmeticTargetURL": "https://calcivilrights.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.4",
-  "metaAuthor": "State of California"
+  "metaAuthor": "State of California",
+  "cosmeticTargetDomain": "calcivilrights.ca.gov"
 }

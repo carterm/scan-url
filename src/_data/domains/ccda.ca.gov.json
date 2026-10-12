@@ -39,5 +39,6 @@
   },
   "notes": null,
   "finalUrl": "https://www.dgs.ca.gov/ccda",
-  "cosmeticTargetURL": "https://www.dgs.ca.gov/ccda"
+  "cosmeticTargetURL": "https://www.dgs.ca.gov/ccda",
+  "cosmeticTargetDomain": "dgs.ca.gov"
 }

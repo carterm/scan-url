@@ -41,5 +41,6 @@
   "finalUrl": "https://careereducation.gov.ca.gov/",
   "cosmeticTargetURL": "https://careereducation.gov.ca.gov/",
   "metaGenerator": "CAWeb v.1.13.4",
-  "metaAuthor": "State of California"
+  "metaAuthor": "State of California",
+  "cosmeticTargetDomain": "careereducation.gov.ca.gov"
 }

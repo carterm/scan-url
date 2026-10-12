@@ -29,5 +29,6 @@
   },
   "notes": null,
   "finalUrl": "https://www.cdss.ca.gov/inforesources/community-care-licensing",
-  "cosmeticTargetURL": "https://www.cdss.ca.gov/inforesources/community-care-licensing"
+  "cosmeticTargetURL": "https://www.cdss.ca.gov/inforesources/community-care-licensing",
+  "cosmeticTargetDomain": "cdss.ca.gov"
 }

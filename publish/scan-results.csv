@@ -1,5 +1,5 @@
 domain,target,status,redirectURL,title,generator,x-powered-by,server,author,slowResponse,statewideAlerts,stateTemplate,JQuery,errormessage,GoogleAnalytics
-576,724,0,89,690,206,222,549,277,0,163,280,430,80,489
+575,723,0,109,711,214,226,569,281,0,169,283,443,79,503
 .ca.gov,https://www.ca.gov/,200,,California State Portal | CA.gov,,ASP.NET,,State of California,,X,,,,"G-69TD0KNT0F,G-TM1XPW93HF"
 abag.ca.gov,https://abag.ca.gov/,200,,Home | Association of Bay Area Governments,Drupal 11 (https://www.drupal.org),,nginx,,,,,X,,G-FE9WWP5YXX
 abc.ca.gov,https://www.abc.ca.gov/,200,,Alcoholic Beverage Control | Trust - Innovation - ...,CAWeb v.1.1.4b,WP Engine,cloudflare,State of California,,X,X,X,,"G-69TD0KNT0F,G-DCG7L67NBP,UA-24087628-11,UA-3419582-2"
@@ -10,7 +10,7 @@ acupuncture.ca.gov,https://www.acupuncture.ca.gov/,200,,Welcome - California Acu
 acwd.ca.gov,https://acwd.ca.gov/,200,https://acwd.org/,Alameda County Water District - Official Website |...,,,,,,,,X,,"G-LD8Y5SJTM8,G-MQEK2J234Q,G-NWTEVGSK87,GTM-K73C5PS"
 agencyreports.ca.gov,https://agencyreports.ca.gov/,200,,Search for Agency Reports | California Agency Repo...,,,Apache,,,,,X,,
 aging.ca.gov,https://www.aging.ca.gov/,200,,Home Page | California Department of Aging - State...,,,,State of California,,X,X,X,,"G-69TD0KNT0F,G-WSL365RZCF,UA-21431721-20"
-alamedacountysheriff.ca.gov,https://alamedacountysheriff.ca.gov/,,,,,,,,,,,,Fetch error: fetch failed unable to verify the first certificate,
+alamedacountysheriff.ca.gov,https://alamedacountysheriff.ca.gov/,403,https://www.alamedasheriff.gov/,Access Denied,,,AkamaiGHost,,,,,,Fetch error: fetch failed unable to verify the first certificate,
 alpha.ca.gov,https://www.alpha.ca.gov/,200,,Welcome to Alpha.CA.gov,,,AmazonS3,Alpha.CA.gov - State of California,,,,,,"G-5GGV1QPJD4,G-69TD0KNT0F"
 alrb.ca.gov,https://www.alrb.ca.gov/,200,,ALRB | The California Agricultural Labor Relations...,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-3GVNPSC58B,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47,UA-58832707-1"
 amcanfire.ca.gov,https://www.amcanfire.ca.gov/,403,,Access Denied,,,,,,,,,HTTP 403,
@@ -21,7 +21,7 @@ arb.ca.gov,https://ww2.arb.ca.gov/,200,,Homepage | California Air Resources Boar
 arb.ca.gov,https://ww2.arb.ca.gov/,200,,Homepage | California Air Resources Board,Drupal 9 (https://www.drupal.org),,nginx,,,,,,,"G-7M1ZZPXDBL,UA-19803621-1"
 arts.ca.gov,https://arts.ca.gov/,200,,Home Page - California Arts Council,WordPress 7.0.2,,nginx,,,,,X,,G-YMHBQ8PVF6
 ask.ca.gov,https://www.ask.ca.gov/,200,,AskCA | California government AI assistant,,,uvicorn,,,,,,,GTM-TN9NR69
-askaspecialist.ca.gov,https://www.askaspecialist.ca.gov/,,,,,,,,,,,,Fetch error: fetch failed read ECONNRESET,
+askaspecialist.ca.gov,https://www.askaspecialist.ca.gov/,200,https://dcn-cde.ca.gov/professionaldev/askaspecial...,Ask A Specialist - Professional Development (Diagn...,,,,,,,,X,Fetch error: fetch failed read ECONNRESET,G-WBWQR22BJZ
 asm.ca.gov,https://asm.ca.gov/,200,https://www.assembly.ca.gov/,Welcome to the California State Assembly | Califor...,,,Apache,,,,,,,G-4D0PPGX2BH
 assembly.ca.gov,https://www.assembly.ca.gov/,200,,Welcome to the California State Assembly | Califor...,,,Apache,,,,,,,G-4D0PPGX2BH
 auburn.ca.gov,https://www.auburn.ca.gov/,200,,"Auburn, CA | Official Website",,,Microsoft-IIS/10.0,,,,,X,,"G-1PL09BWVXS,GTM-K73C5PS"
@@ -60,7 +60,6 @@ breeze.ca.gov,https://www.breeze.ca.gov/,500,,Error,,,,,,,,,HTTP 500,
 broadbandcouncil.ca.gov,https://broadbandcouncil.ca.gov/,200,,California Broadband Council | The California Broa...,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-BM545KDPMZ,G-Y7T2KCM7P1,UA-21970760-37,UA-3419582-2,UA-3419582-47"
 broadbandmap.ca.gov,https://www.broadbandmap.ca.gov/,200,,California Interactive Broadband Map,,ASP.NET,Microsoft-IIS/10.0,,,,,,,
 bsa.ca.gov,https://bsa.ca.gov/,200,https://www.auditor.ca.gov/,California State Auditor,,WordPress VIP <https://wpvip.com>,nginx,,,,,,,G-70N4V9ZKFQ
-bsc.ca.gov,https://www.bsc.ca.gov/,,,,,,,,,,,,"Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: www.bsc.ca.gov. is not in the cert's altnames: DNS:www.dgs.ca.gov, DNS:dgs.ca.gov",
 bscc.ca.gov,https://www.bscc.ca.gov/,200,,BSCC – Board of State and Community Corrections,CAWeb v.1.6.4,,Apache/2.4.41 (Ubuntu),State of California,,,X,X,,UA-67888913-1
 bsis.ca.gov,https://www.bsis.ca.gov/,200,,Welcome to the Bureau of Security and Investigativ...,,,volt-adc,State of California,,,X,X,,"G-69TD0KNT0F,G-84YD2E7420,UA-3419582-2,UA-64276560-25"
 btbl.ca.gov,https://btbl.ca.gov/,403,https://www.library.ca.gov/btbl/,ERROR: The request could not be satisfied,,,CloudFront,,,,,,HTTP 403,
@@ -84,9 +83,9 @@ calcareers.ca.gov,https://calcareers.ca.gov/,200,,CalCareers,,ASP.NET,,,,X,X,X,,
 calccrc.ca.gov,https://calccrc.ca.gov/,200,https://www.cdss.ca.gov/inforesources/community-ca...,Continuing Care,,,,,,,X,X,,UA-77698819-4
 calcivilrights.ca.gov,https://calcivilrights.ca.gov/,200,,CRD | Civil Rights Department,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-69TD0KNT0F,G-DMYWEFRNDX,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
 calcompetes.ca.gov,https://www.calcompetes.ca.gov/Login.aspx,200,,Login,,ASP.NET,Microsoft-IIS/10.0,,,,,X,,
-calcsic.ca.gov,https://calcsic.ca.gov/,,,,,,,,,,,,"Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: calcsic.ca.gov. is not in the cert's altnames: DNS:ftp.calcsic.ca.gov, DNS:www.ftp.calcsic.ca.gov",
+calcsic.ca.gov,https://calcsic.ca.gov/,200,/login,Cal-CSIC Web Client,,,,,,,,X,"Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: calcsic.ca.gov. is not in the cert's altnames: DNS:ftp.calcsic.ca.gov, DNS:www.ftp.calcsic.ca.gov",
 calctra.ca.gov,https://www.calctra.ca.gov/,200,,CALCTRA Website » Career Training | Quality Produc...,WordPress 7.1.3,,Microsoft-IIS/10.0,,,,,X,,"G-KEC04T63TW,GTM-M833TJP"
-caleafygreens.ca.gov,https://caleafygreens.ca.gov/,,,,,,,,,,,,"Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: caleafygreens.ca.gov. is not in the cert's altnames: DNS:lettuceinfo.org, DNS:www.lettuceinfo.org",
+caleafygreens.ca.gov,https://caleafygreens.ca.gov/,200,https://lettuceinfo.org/,Lettuce Information | Learn About the Different Ty...,WordPress 5.5.1,,nginx,,,,,X,"Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: caleafygreens.ca.gov. is not in the cert's altnames: DNS:lettuceinfo.org, DNS:www.lettuceinfo.org","GTM-NJM6PQB,UA-1545484-89"
 calepa.ca.gov,https://calepa.ca.gov/,403,,CalEPA | California Environmental Protection Agenc...,,,,,,,,,Fetch error: fetch failed redirect count exceeded,
 calepa.ca.gov,https://cers.calepa.ca.gov/,403,,CERS | California Environmental Reporting System,,,,,,,X,,HTTP 403,"G-69TD0KNT0F,G-VKFSF099FL"
 caleprocure.ca.gov,https://caleprocure.ca.gov/pages/index.aspx,200,,Cal eProcure,,,nginx,,,,,X,,"GTM-WTBNSTN,UA-3419582-2"
@@ -101,7 +100,7 @@ calich.ca.gov,https://www.calich.ca.gov/,200,,California Interagency Council on 
 californiadgstats.ca.gov,https://www.californiadgstats.ca.gov/,200,,CaliforniaDGStats,,,,"Energy Solutions, Oakland CA USA",,,,X,,"G-1Z3D4EMH7X,GTM-KK8LBS3"
 californianature.ca.gov,https://www.californianature.ca.gov/,200,,30x30 California,,,,,,,,,,"G-Y6CYCFDK0H,UA-59627195-16"
 californiansforall.ca.gov,https://californiansforall.ca.gov/,200,https://www.californiavolunteers.ca.gov/join-calif...,Sign Up for #CaliforniansForAll | California Volun...,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-T935JFYNE2,G-Y7T2KCM7P1,GTM-P2BGJP8,UA-23110710-36,UA-3419582-2,UA-3419582-47"
-californiasciencecenter.ca.gov,https://californiasciencecenter.ca.gov/,403,,Just a moment...,,,cloudflare,,,,,,Cloudflare challenge detected,
+californiasciencecenter.ca.gov,https://californiasciencecenter.ca.gov/,403,,Just a moment...,,,cloudflare,,,,,,Cloudflare challenge detected,G-1791836936
 californiatourism.ca.gov,https://californiatourism.ca.gov/,200,https://tourism.ca.gov/s/,,,,nginx,,,,,,,
 californiavolunteers.ca.gov,https://www.californiavolunteers.ca.gov/,200,,California Volunteers | California Volunteers,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-T935JFYNE2,G-Y7T2KCM7P1,GTM-P2BGJP8,UA-23110710-36,UA-3419582-2,UA-3419582-47"
 caljobs.ca.gov,https://www.caljobs.ca.gov/vosnet/default.aspx,200,,CalJOBS,,,,,,,,,,
@@ -121,7 +120,7 @@ calsta.ca.gov,https://calsta.ca.gov/,200,,California State Transportation Agency
 calstrs.ca.gov,https://calstrs.ca.gov/,200,https://www.calstrs.com/,Homepage CalSTRS,,,cloudflare,,,,,,,"G-8N7X1ZE5C9,GTM-NVHDX8X,UA-20538890-2"
 caltrans.ca.gov,http://caltrans.ca.gov/,200,https://dot.ca.gov/,California Department of Transportation | Caltrans,,,,State of California,,X,X,X,,"G-69TD0KNT0F,G-PXR8P55JR4,G-WLDEF7NZZ2,GTM-573PLG9"
 calvet.ca.gov,https://www.calvet.ca.gov/,,,CalVet - California Department of Veterans Affairs,,,,,,,,,Fetch error: fetch failed read ECONNRESET,
-calwater.ca.gov,https://calwater.ca.gov/,,,,,,,,,,,,"Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: calwater.ca.gov. is not in the cert's altnames: DNS:*.deltacouncil.ca.gov, DNS:deltacouncil.ca.gov",
+calwater.ca.gov,https://calwater.ca.gov/,200,,Welcome to the CALFED Bay-Delta Program,,ASP.NET,Microsoft-IIS/10.0,,,,,,"Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: calwater.ca.gov. is not in the cert's altnames: DNS:*.deltacouncil.ca.gov, DNS:deltacouncil.ca.gov",
 cannabis.ca.gov,https://www.cannabis.ca.gov/,200,,Department of Cannabis Control,,,Vercel,,,,,,,G-LABORATORI
 capiaa.ca.gov,https://capiaa.ca.gov/,200,,California Commission on APIA Affairs | Empowering...,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-FZL67QR94L,G-Y7T2KCM7P1,UA-24087628-35,UA-3419582-2,UA-3419582-47"
 capitolmuseum.ca.gov,https://capitolmuseum.ca.gov/,200,,Homepage - California State Capitol Museum,CAWeb v.1.12.4,,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-ZSV0Z9SPB3,UA-21974567-45,UA-3419582-2,UA-64245307-1"
@@ -136,12 +135,12 @@ ccc.ca.gov,https://ccc.ca.gov/,200,,California Conservation Corps,CCC Divi Child
 ccda.ca.gov,https://ccda.ca.gov/,200,https://www.dgs.ca.gov/ccda,California Commission on Disability Access,,,Microsoft-IIS/10.0,,,X,,X,,"GTM-5D4N99T,UA-19802602-2"
 ccfc.ca.gov,https://www.ccfc.ca.gov/,200,,First 5 California - Improving Lives of California...,,ASP.NET,Microsoft-IIS/10.0,,,X,,X,,G-ZPMNSRN8SN
 cchcs.ca.gov,https://cchcs.ca.gov/,200,,CCHCS - California Correctional Health Care Servic...,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-69TD0KNT0F,G-Q9Y67HPNNY,G-Y7T2KCM7P1,GTM-T7W8RZ8,UA-3419582-2,UA-3419582-47"
-ccic.ca.gov,https://ccic.ca.gov/,200,/(X(1)S(1tsvpb5sfr3ui3cbyttgajr3))/default.aspx?As...,SACRTAC Home,,,,,,,,,,
+ccic.ca.gov,https://ccic.ca.gov/,200,/(X(1)S(1ou3gejhfrwliijqbernvbl3))/default.aspx?As...,SACRTAC Home,,,,,,,,,,
 ccld.ca.gov,https://ccld.ca.gov/,200,https://cdss.ca.gov/inforesources/community-care-l...,Community Care Licensing,,,,,,,X,X,,UA-77698819-4
 ccldpartners.ca.gov,https://ccldpartners.ca.gov/,200,https://cdss.ca.gov/inforesources/community-care-l...,Community Care Licensing,,,,,,,X,X,,UA-77698819-4
 ccoa.ca.gov,https://tacc.ccoa.ca.gov/,200,,Home Page | Triple-A Council of California - State...,,,,,,X,X,X,,"UA-20973992-12,UA-21431721-20,UA-3419582-2"
 ccoa.ca.gov,https://www.ccoa.ca.gov/,200,,California Commission on Aging - State of Californ...,,,,State of California,,X,X,X,,"G-69TD0KNT0F,G-M8T749HDDC,UA-21431721-20"
-ccr.ca.gov,https://ccr.ca.gov/,,,,,,,,,,,,Fetch error: fetch failed certificate has expired,
+ccr.ca.gov,https://ccr.ca.gov/,200,https://ccrcal.org/,Homepage - California Cancer Registry,Divi v.5.9.0,WP Engine,cloudflare,,,,,X,Fetch error: fetch failed certificate has expired,G-WKQEQQTTVM
 ccta.ca.gov,https://ccta.ca.gov/,200,,Homepage - Contra Costa Transportation Authority,WordPress 7.1.3,,nginx,,,,,X,,"G-LJXENR14HN,GTM-5PWQQKQ"
 ccusl.ca.gov,https://ccusl.ca.gov/,200,,Welcome to the California Commission on Uniform St...,,,cloudflare,,,,,X,,
 cdcr.ca.gov,https://pass.cdcr.ca.gov/Home/ChooseApplication,200,,Choose Application - CDCR Peace Officer Applicatio...,,ASP.NET,Microsoft-IIS/10.0,,,,,X,Fetch error: fetch failed connect ECONNREFUSED 67.157.34.197:443,GTM-WWJWHL4
@@ -151,7 +150,7 @@ cde.ca.gov,https://www.cde.ca.gov/,200,,California Department of Education,,,,,,
 cdfa.ca.gov,https://piercesdisease.cdfa.ca.gov/,200,,CDFA - Pierce's Disease Research Updates,,,,California Department of Food and Agriculture,,,X,X,,GTM-W4BKPB7
 cdfa.ca.gov,https://www.cdfa.ca.gov/,200,,California Department of Food and Agriculture - CD...,,ASP.NET,,California Department of Food and Agriculture,,X,X,X,,"GTM-W4BKPB7,UA-3419582-2"
 cdii.ca.gov,https://www.cdii.ca.gov/,200,,Homepage - CDII,All in One SEO (AIOSEO) 5.0.2,WordPress VIP <https://wpvip.com>,nginx,,,,,X,,"G-G7F3RDGPHQ,GTM-MSW2ZV4,UA-1915322-1"
-cdph.ca.gov,https://calfreshhealthyliving.cdph.ca.gov/en/Pages/default.aspx,200,https://www.cdph.ca.gov/Programs/CCDPHP/DCDIC/NEOP...,Nutrition and Physical Activity Branch,,,volt-adc,Department of Public Health,,X,,X,,"G-LXNJ35D8MM,G-RESPONSIVE,GTM-KVN6ZCB"
+cdph.ca.gov,https://calfreshhealthyliving.cdph.ca.gov/en/Pages/default.aspx,200,https://www.cdph.ca.gov/Programs/CCDPHP/DCDIC/NEOP...,Nutrition and Physical Activity Branch,,,volt-adc,Department of Public Health,,X,,X,,"G-RESPONSIVE,GTM-KVN6ZCB"
 cdph.ca.gov,https://gis.cdph.ca.gov/gisadmin/rest/services,200,,Folder: /,,,Microsoft-IIS/10.0,,,,,,,
 cdph.ca.gov,https://healthcareportal.cdph.ca.gov/,200,,CalHEART - Home,,,Microsoft-IIS/10.0,,,,X,X,,
 cdph.ca.gov,https://medassist.cdph.ca.gov/,200,,CDPH,,,volt-adc,,,,,,,
@@ -159,7 +158,7 @@ cdph.ca.gov,https://medassistportal.cdph.ca.gov/,200,,CDPH,,,volt-adc,,,,,,,
 cdph.ca.gov,https://myturn.cdph.ca.gov/,200,,My Turn - California Vaccine Scheduling & Informat...,,,volt-adc,,,,,,,"G-RJPGSHNVCG,GTM-5THG92K,GTM-WC8N8KN"
 cdph.ca.gov,https://myvaccinerecord.cdph.ca.gov/,200,,Digital Vaccine Record,,,volt-adc,,,,,,,GTM-5L4RSCS
 cdph.ca.gov,https://spot.cdph.ca.gov/s/?language=en_US,200,,SPOT,,,volt-adc,,,,,,,
-cdph.ca.gov,https://www.cdph.ca.gov/,200,,CDPH Home,,,volt-adc,Department of Public Health,,X,,X,,"G-LXNJ35D8MM,G-RESPONSIVE,GTM-KVN6ZCB"
+cdph.ca.gov,https://www.cdph.ca.gov/,200,,CDPH Home,,,volt-adc,Department of Public Health,,X,,X,,"G-RESPONSIVE,GTM-KVN6ZCB"
 cdph.ca.gov,https://www.communityhealthstudies.cdph.ca.gov/,200,,Community Health Studies,,ASP.NET,Microsoft-IIS/10.0,,,,,,,"GTM-KVN6ZCB,UA-42142214-1"
 cdpr.ca.gov,https://calpip.cdpr.ca.gov/main.cfm,200,,CalPIP Home - California Pesticide Information Por...,,,Apache,,,X,X,X,,GTM-PG47TPC
 cdpr.ca.gov,https://ets.cdpr.ca.gov/,200,,California Department of Pesticide Regulation Elec...,,,Apache,,,X,X,,,"G-75V2BNQ3DR,GTM-NJ6Q4MV"
@@ -316,7 +315,7 @@ dot.ca.gov,https://roads.dot.ca.gov/,200,,Division of Traffic Operations - Road 
 dot.ca.gov,https://shsp.dot.ca.gov/,200,,Caltrans | SHSP - Home,,,,State of California,,,X,X,,"G-WLDEF7NZZ2,GTM-NJ6Q4MV"
 dot.ca.gov,https://travelpocketguide.dot.ca.gov/public/,200,,Pocket Travel Guide,,,,"State of California, Caltrans",,,X,X,,"UA-21431721-9,UA-3419582-2"
 dot.ca.gov,https://utilitypocketguide.dot.ca.gov/public/,200,,Pocket Utility Guide,,,,"State of California, Caltrans",,,X,X,,"UA-21431721-9,UA-3419582-2"
-downievillefire.ca.gov,https://downievillefire.ca.gov/,,,,,,,,,,,,"Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: downievillefire.ca.gov. is not in the cert's altnames: DNS:bigrivercsd.org, DNS:www.bigrivercsd.org",
+downievillefire.ca.gov,https://downievillefire.ca.gov/,200,https://www.downievillefiredistrictca.gov/,Homepage Downieville Fire Protection District,,,nginx,,,,,,"Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: downievillefire.ca.gov. is not in the cert's altnames: DNS:hartselfire.org, DNS:www.hartselfire.org",
 dre.ca.gov,https://bars.dre.ca.gov/,200,,Business Activity Reporting System - DRE,,ASP.NET,Microsoft-IIS/10.0,State of California,,,X,X,,
 dre.ca.gov,https://ears.dre.ca.gov/,200,,Escrow Activity Reporting System - DRE,,DRE,,State of California,,,X,X,,
 dre.ca.gov,https://eocs.dre.ca.gov/,200,,Enforcement Online Complaints,,DRE,,State of California Department of Real Estate,,,,X,,
@@ -336,7 +335,7 @@ dublin.ca.gov,https://www.dublin.ca.gov/,200,,"Dublin, CA - Official Website | O
 eaap.ca.gov,https://eaap.ca.gov/,200,,Education Audit Appeals Panel |,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-V284CPG2YF,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
 earthquake.ca.gov,https://www.earthquake.ca.gov/,200,,California Earthquake Early Warning – California E...,CAWeb v.1.13.0,,,State of California,,X,X,X,,"G-69TD0KNT0F,GTM-PPGRG6D,UA-3419582-2"
 ebt.ca.gov,https://www.ebt.ca.gov/cardholder/,200,,CardHolder Portal,,,,,,,,,,
-ebtproject.ca.gov,https://www.ebtproject.ca.gov/,200,,EBT Project,,ASP.NET,Microsoft-IIS/10.0,State of California,,,X,X,Fetch error: fetch failed unable to verify the first certificate,
+ebtproject.ca.gov,https://www.ebtproject.ca.gov/,200,,California EBT Project Office,,ASP.NET,Microsoft-IIS/10.0,,,X,X,,Fetch error: fetch failed unable to verify the first certificate,"G-75V2BNQ3DR,GTM-NJ6Q4MV"
 ebudget.ca.gov,https://ebudget.ca.gov/,200,,California Budget,,,volt-adc,,,,,X,,G-4W7GTR6KWV
 ecos.ca.gov,https://ecos.ca.gov/Login.aspx,200,,Exam and Cert Online System - Admin,,ASP.NET,,State of California,,,,X,,
 edd.ca.gov,https://askedd.edd.ca.gov/s/,200,,AskEDD,,,,,,,,,,"G-P1RJ1L0W4D,GTM-MCW7ZGX"
@@ -358,7 +357,7 @@ energysafety.ca.gov,https://energysafety.ca.gov/,200,,Office of Energy Infrastru
 engage.ca.gov,https://engage.ca.gov/,200,https://engaged.ca.gov/,Engaged California,,,AmazonS3,Office of Data and Innovation - State of Californi...,,X,X,,,GTM-MDRRLC9
 engaged.ca.gov,https://join.engaged.ca.gov/en/,200,,Citizen engagement platform,,,nginx,,,,,,,
 engaged.ca.gov,https://www.engaged.ca.gov/,200,,Engaged California,,,AmazonS3,Office of Data and Innovation - State of Californi...,,X,X,,,GTM-MDRRLC9
-epanet.ca.gov,https://epanet.ca.gov/,,,,,,,,,,,,Fetch error: fetch failed certificate has expired,
+epanet.ca.gov,https://epanet.ca.gov/,200,https://intranet.calepa.ca.gov/wp-login.php?redire...,Log In ‹ Intranet – CalEPA — WordPress,,WP Engine,cloudflare,,,,X,X,Fetch error: fetch failed certificate has expired,
 escog.ca.gov,https://escog.ca.gov/,200,,EASTERN SIERRA COUNCIL OF GOVERNMENTS JOINT POWERS...,,,Squarespace,,,,,,,"G-5CGC3ET1CB,G-66E0401E56,G-701BF8BBC0,G-8639DE997A,G-86AACD645D,G-ALTERNATIN,G-COLLECTION"
 etp.ca.gov,https://etp.ca.gov/,200,,Employment Training Panel | Employment Training Pa...,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-69TD0KNT0F,G-CTKM4GM02H,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47,UA-64276560-40"
 eureka.ca.gov,https://arcgis-svr.ci.eureka.ca.gov/portal/home/,200,,,,ASP.NET,nginx,,,,,,,
@@ -374,12 +373,12 @@ fire.ca.gov,https://bof.fire.ca.gov/,200,,Board of Forestry & Fire Protection | 
 fire.ca.gov,https://burnpermit.fire.ca.gov/,200,,Home | CAL FIRE Burn Permits,,,Microsoft-IIS/10.0,Author,,X,,X,,"G-TCY9FCQZSL,UA-12131957-10,UA-3419582-2"
 fire.ca.gov,https://osfm.fire.ca.gov/,200,,Office of the State Fire Marshal | OSFM,,,Microsoft-IIS/10.0,Author,,,,X,,"G-HN6DJN3Q1W,UA-12131957-10,UA-3419582-2"
 fire.ca.gov,https://www.fire.ca.gov/,200,,California Department of Forestry and Fire Protect...,,,Microsoft-IIS/10.0,Author,,,,X,,"G-DJY7D8Z6M7,UA-12131957-10,UA-3419582-2"
-fireandrescuetraining.ca.gov,https://www.fireandrescuetraining.ca.gov/,,,,,,,,,,,,"Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: www.fireandrescuetraining.ca.gov. is not in the cert's altnames: DNS:bigrivercsd.org, DNS:www.bigrivercsd.org",
+fireandrescuetraining.ca.gov,https://www.fireandrescuetraining.ca.gov/,200,,Homepage California Fire and Rescue Training Autho...,,,nginx,,,,,,"Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: www.fireandrescuetraining.ca.gov. is not in the cert's altnames: DNS:hartselfire.org, DNS:www.hartselfire.org",
 firewood.ca.gov,https://www.firewood.ca.gov/,200,https://firewood.cdfa.ca.gov/,California Firewood Task Force | Home,,ASP.NET,,,,,,X,,
 first5.ca.gov,https://www.first5.ca.gov/,200,,First 5 California - Improving Lives of California...,,ASP.NET,Microsoft-IIS/10.0,,,X,,X,Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: www.first5.ca.gov. is not in the cert's altnames: DNS:ccfc.ca.gov,G-ZPMNSRN8SN
 fiscal.ca.gov,https://fiscal.ca.gov/,200,,FI$Cal - State of California|,Divi Child v.3.11.1.1533591462,PHP/8.3.29,nginx,,,X,,X,,"GTM-5TVLDSK,UA-3419582-2"
 fix10.ca.gov,https://fix10.ca.gov/,200,https://dot.ca.gov/fix-10,Fix the 10 | Caltrans,,,,State of California,,X,X,X,,"G-69TD0KNT0F,G-PXR8P55JR4,G-WLDEF7NZZ2,GTM-573PLG9"
-fixthe10.ca.gov,https://fixthe10.ca.gov/,200,https://dot.ca.gov/fix-10,Fix the 10 | Caltrans,,,,State of California,,X,X,X,,"G-69TD0KNT0F,G-PXR8P55JR4,G-WLDEF7NZZ2,GTM-573PLG9"
+fixthe10.ca.gov,https://fixthe10.ca.gov/,200,https://dot.ca.gov/fix-10,Fix the 10 | Caltrans,,,Microsoft-IIS/10.0,State of California,,X,X,X,,"G-69TD0KNT0F,G-PXR8P55JR4,G-WLDEF7NZZ2,GTM-573PLG9"
 fosteryouthhelp.ca.gov,https://fosteryouthhelp.ca.gov/,200,,FYH | Foster Youth Help,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-4RW3WH91Z0,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-31125811-40,UA-3419582-2,UA-3419582-47"
 fppc.ca.gov,https://www.fppc.ca.gov/,200,,California Fair Political Practices Commission (FP...,,,cloudflare,Fair Political Practices Commission,,,,,,G-1V1D6GRFKL
 ftb.ca.gov,https://www.ftb.ca.gov/,200,,Franchise Tax Board Homepage | FTB.ca.gov,,,,Franchise Tax Board,,X,X,,,"G-EQVZX0SCVD,GTM-NJ6Q4MV"
@@ -392,7 +391,7 @@ govops.ca.gov,https://www.govops.ca.gov/,200,,GovOps | Government Operations,CAW
 granada.ca.gov,https://granada.ca.gov/,200,,Homepage Granada Community Services District,,,nginx,,,,,,,
 grants.ca.gov,https://www.grants.ca.gov/,200,,Home - California Grants Portal,,,nginx,,,,,X,,GTM-WFDBH54
 green.ca.gov,https://www.green.ca.gov/,200,,Green CA Application,,ASP.NET,Microsoft-IIS/10.0,"State of California, Green California",,X,X,X,,"UA-24087628-30,UA-3419582-2"
-gunsafety.ca.gov,https://gunsafety.ca.gov/,,,,,,,,,,,,Fetch error: fetch failed certificate has expired,
+gunsafety.ca.gov,https://gunsafety.ca.gov/,200,https://www.reducetherisk.ca.gov/,Reduce the Risk |,CAWeb v.1.13.0,,,State of California,,X,X,X,Fetch error: fetch failed certificate has expired,"G-69TD0KNT0F,GTM-P3ZTL3M,UA-3419582-2"
 hbex.ca.gov,https://www.hbex.ca.gov/,200,,California's Health Benefit Exchange,,ASP.NET,Microsoft-IIS/10.0,,,,X,X,,
 hcai.ca.gov,https://corc.hcai.ca.gov/,200,,CORC,,ASP.NET,Microsoft-IIS/10.0,State of California,,,,,,
 hcai.ca.gov,https://hcai.ca.gov/,200,,HCAI - Department of Health Care Access and Inform...,,,nginx,,,X,,X,,
@@ -404,7 +403,7 @@ healthcarevolunteers.ca.gov,https://healthcarevolunteers.ca.gov/,200,,RMS,,,envo
 healthcorps.ca.gov,https://healthcorps.ca.gov/,200,https://www.emsa.ca.gov/session_timeout.do,ServiceNow,,,snow_adc,,,,,,,
 healthexchange.ca.gov,https://healthexchange.ca.gov/,200,,California's Health Benefit Exchange,,ASP.NET,Microsoft-IIS/10.0,,,,X,X,,
 healthhelp.ca.gov,https://healthhelp.ca.gov/,403,,Access Denied,,,,,,,,,HTTP 403,
-heatready.ca.gov,https://heatready.ca.gov/,,,,,,,,,,,,Fetch error: fetch failed unable to verify the first certificate,
+heatready.ca.gov,https://heatready.ca.gov/,200,https://www.cdph.ca.gov/Programs/OHE/Pages/Climate...,Heat Ready CA,,,volt-adc,Department of Public Health,,X,,X,Fetch error: fetch failed unable to verify the first certificate,"G-RESPONSIVE,GTM-KVN6ZCB"
 heber.ca.gov,https://www.heber.ca.gov/,200,,Home | The Heber Public Utility District,Drupal 8 (https://www.drupal.org),,nginx/1.29.8,,,,,,,
 hellosavings.ca.gov,https://hellosavings.ca.gov/,200,,Hello Savings!,,ASP.NET,Microsoft-IIS/10.0,California Public Utilities Commission,,,,X,"Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: hellosavings.ca.gov. is not in the cert's altnames: DNS:ia.cpuc.ca.gov, DNS:calphoneinfo.cpuc.ca.gov, DNS:cpuc.ca.gov, DNS:hellosavings.cpuc.ca.gov, DNS:www.cpuc.ca.gov, DNS:www.ia.cpuc.ca.gov","G-HTYPNEVXNL,UA-15934248-11,UA-1915322-13,UA-23611081-1"
 heritageranchcsd.ca.gov,https://www.heritageranchcsd.ca.gov/,200,,Homepage Heritage Ranch Community Services Distric...,,,nginx,,,,,,,UA-40786643-1
@@ -425,14 +424,14 @@ imperial.ca.gov,https://www.imperial.ca.gov/,403,,Attention Required! | Cloudfla
 innovation.ca.gov,https://innovation.ca.gov/,200,,Office of Data and Innovation,,,AmazonS3,Office of Innovation - State of California,,X,,,,GTM-PQRTS7Z
 insurance.ca.gov,https://seniors.insurance.ca.gov/,200,,California Seniors,CommonSpot Build 10.9.1.579,ASP.NET,Microsoft-IIS/10.0,,,,,X,,"G-7KBM6NS4N5,UA-3419582-2,UA-35348113-1"
 insurance.ca.gov,https://www.insurance.ca.gov/,200,,CA Department of Insurance,CommonSpot Build 10.9.1.579,ASP.NET,Microsoft-IIS/10.0,State of California,,X,,X,,"G-6MLHRYZYQV,UA-23180855-1,UA-3419582-2"
-inyocourt.ca.gov,https://www.inyocourt.ca.gov/,,,,,,,,,,,,"Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: www.inyocourt.ca.gov. is not in the cert's altnames: DNS:*.getpantheon.com, DNS:*.gotpantheon.com, DNS:*.pantheon.io, DNS:*.pantheonsite.io, DNS:getpantheon.com, DNS:gotpantheon.com, DNS:pantheonsite.io",
-ione.ca.gov,https://www.ione.ca.gov/,403,,Just a moment...,,,cloudflare,,,,,,Cloudflare challenge detected,G-1791834746
+inyocourt.ca.gov,https://www.inyocourt.ca.gov/,200,https://www.inyo.courts.ca.gov/,Home | Superior Court of California | County of In...,Drupal 9 (https://www.drupal.org),,nginx,,,,,,"Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: www.inyocourt.ca.gov. is not in the cert's altnames: DNS:*.getpantheon.com, DNS:*.gotpantheon.com, DNS:*.pantheon.io, DNS:*.pantheonsite.io, DNS:getpantheon.com, DNS:gotpantheon.com, DNS:pantheonsite.io",
+ione.ca.gov,https://www.ione.ca.gov/,403,,Just a moment...,,,cloudflare,,,,,,Cloudflare challenge detected,
 ironhousesanitarydistrict.ca.gov,https://ironhousesanitarydistrict.ca.gov/,200,,Homepage Ironhouse Sanitary District,,,nginx,,,,,,,G-K2R3W23HWM
-irwd.ca.gov,https://irwd.ca.gov/,,,,,,,,,,,,Fetch error: fetch failed unable to verify the first certificate,
+irwd.ca.gov,https://irwd.ca.gov/,200,https://www.irwd.com/,"Irvine Ranch Water District | Drinking Water, Recy...",Site Kit by Google 1.183.0,,nginx/1.24.0 (Ubuntu),,,,,X,Fetch error: fetch failed unable to verify the first certificate,"G-GRID__ITEM,G-GRID__SLID"
 islavistacsd.ca.gov,https://islavistacsd.ca.gov/,200,,Homepage Isla Vista Community Services District,,,nginx,,,,,,,
 jobs.ca.gov,https://jobs.ca.gov/,200,https://calcareers.ca.gov/,CalCareers,,ASP.NET,,,,X,X,X,,"G-1ZWR8CFVKV,G-69TD0KNT0F,G-B3UPD2PRSI,G-GVMXP4J73D"
 jobsfirst.ca.gov,https://jobsfirst.ca.gov/,200,,Jobs First |,CAWeb v.1.5.2a,,Apache,State of California,,,X,X,,G-J07G2ZP47D
-jric.ca.gov,https://jric.ca.gov/,200,/(X(1)S(p3j4lyytpaiijoerdqjw1rbj))/default.aspx?As...,JRIC Home Page,,,,,,,,,,
+jric.ca.gov,https://jric.ca.gov/,200,/(X(1)S(z5nrctbuxpnsdfi1ah33gawi))/default.aspx?As...,JRIC Home Page,,,,,,,,,,
 judicialethicsopinions.ca.gov,https://judicialethicsopinions.ca.gov/,200,,Home | Judicial Branch of California,Drupal 9 (https://www.drupal.org),,nginx,,,,,,,
 kingscounty.ca.gov,https://kingscounty.ca.gov/,403,https://www.countyofkingsca.gov/,Access Denied,,,AkamaiGHost,,,,,,HTTP 403,
 labor.ca.gov,https://saferatwork.labor.ca.gov/,200,,Safer At Work | California for All,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-WN09725CCD,G-Y7T2KCM7P1,GTM-5LKL585,UA-21974567-38,UA-3419582-2,UA-3419582-47"
@@ -491,7 +490,7 @@ mywaterquality.ca.gov,https://www.mywaterquality.ca.gov/,200,,Home | MyWaterQual
 nahc.ca.gov,https://nahc.ca.gov/,200,,California Native American Heritage Commission,,,cloudflare,,,X,X,X,,G-8NMQQQ37EE
 napa.ca.gov,https://gis.napa.ca.gov/rcu/roadclosures.pdf,200,,,,ASP.NET,Microsoft-IIS/10.0,,,,,,,
 naturopathic.ca.gov,https://www.naturopathic.ca.gov/,200,,Department of Consumer Affairs - California Board ...,,,volt-adc,State of California,,,X,X,,"G-3CN4M8F95X,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-13"
-nchidta.ca.gov,https://nchidta.ca.gov/,,,,,,,,,,,,"Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: nchidta.ca.gov. is not in the cert's altnames: DNS:acc.ncric.net, DNS:leep.ncric.ca.gov, DNS:leep.ncric.org, DNS:nchidta.com, DNS:nchidta.net, DNS:nchidta.org, DNS:ncric.net, DNS:ncric.org, DNS:new.ncric.org, DNS:northerncaliforniamostwanted.com, DNS:northerncaliforniamostwanted.org, DNS:www.nchidta.com, DNS:www.nchidta.net, DNS:www.nchidta.org, DNS:www.ncric.net, DNS:www.ncric.org, DNS:www.northerncaliforniamostwanted.com, DNS:www.northerncaliforniamostwanted.org",
+nchidta.ca.gov,https://nchidta.ca.gov/,200,https://ncric.ca.gov/,Public Awareness and Safety Programs |San Francisc...,WordPress 7.1.2,,cloudflare,,,,,X,"Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: nchidta.ca.gov. is not in the cert's altnames: DNS:acc.ncric.net, DNS:leep.ncric.ca.gov, DNS:leep.ncric.org, DNS:nchidta.com, DNS:nchidta.net, DNS:nchidta.org, DNS:ncric.net, DNS:ncric.org, DNS:new.ncric.org, DNS:northerncaliforniamostwanted.com, DNS:northerncaliforniamostwanted.org, DNS:www.nchidta.com, DNS:www.nchidta.net, DNS:www.nchidta.org, DNS:www.ncric.net, DNS:www.ncric.org, DNS:www.northerncaliforniamostwanted.com, DNS:www.northerncaliforniamostwanted.org",
 ncric.ca.gov,https://ncric.ca.gov/,200,,Public Awareness and Safety Programs |San Francisc...,WordPress 7.1.2,,cloudflare,,,,,X,,
 ncsd.ca.gov,https://ncsd.ca.gov/,200,,"Nipomo Community Services District | NSCD Nipomo, ...",Site Kit by Google 1.189.0,,nginx,,,,,X,,
 nctc.ca.gov,https://www.nctc.ca.gov/,200,,Nevada County Transportation Commission - Home,,ASP.NET,Microsoft-IIS/10.0,,,,,X,,
@@ -508,7 +507,7 @@ ojai.ca.gov,https://www.ojai.ca.gov/,200,,"Ojai, CA | Official Website",,,,,,,,X
 oles.ca.gov,https://www.oles.ca.gov/,200,,Office of Law Enforcement Support - State of Calif...,Microsoft SharePoint,WordPress VIP <https://wpvip.com>,nginx,State of California,,X,X,X,,UA-83937323-1
 ombc.ca.gov,https://www.ombc.ca.gov/,200,,Welcome To Our Web Site - Osteopathic Medical Boar...,,,volt-adc,Osteopathic Medical Board of California,,,X,X,,"G-69TD0KNT0F,G-QYQQC0C406,GTM-NBQCVZC,UA-3419582-2,UA-64276560-16"
 opc.ca.gov,https://www.opc.ca.gov/,200,,- California Ocean Protection Council,,,nginx,State of California,,X,X,X,,"GTM-M2BQ3XS,UA-3419582-2,UA-59627195-2"
-opioids.ca.gov,https://opioids.ca.gov/,,,,,,,,,,,,Fetch error: fetch failed unable to verify the first certificate,
+opioids.ca.gov,https://opioids.ca.gov/,200,https://www.cdph.ca.gov/Programs/CCDPHP/opioids/Pa...,California’s Opioid Response,Microsoft SharePoint,,volt-adc,,,,X,X,Fetch error: fetch failed unable to verify the first certificate,GTM-M2GDZVC
 opr.ca.gov,https://opr.ca.gov/,200,https://lci.ca.gov/,Governor's Office of Land Use and Climate Innovati...,WordPress 7.0.7,PHP/8.3.29,nginx,,,X,X,X,,"G-69TD0KNT0F,G-K9SCBG6G33"
 optometry.ca.gov,https://www.optometry.ca.gov/,200,,California State Board of Optometry,,,volt-adc,"Department of Consumer Affairs, State of Californi...",,X,X,,,"G-4178EX5G7R,GTM-NJ6Q4MV"
 opzones.ca.gov,https://opzones.ca.gov/,403,,ERROR: The request could not be satisfied,,,CloudFront,,,,,,HTTP 403,
@@ -542,7 +541,7 @@ pestboard.ca.gov,https://www.pestboard.ca.gov/,200,,Department of Consumer Affai
 pharmacy.ca.gov,https://www.pharmacy.ca.gov/,200,,California State Board of Pharmacy,,,volt-adc,California State Board of Pharmacy,,,X,X,,"G-69TD0KNT0F,G-QVJEFJJNBX,UA-3419582-2,UA-64276560-17"
 piedmont.ca.gov,https://www.piedmont.ca.gov/,403,,Home - City of Piedmont,,,cloudflare,,,,,,Cloudflare challenge detected,"G-1770054987,G-1771009931,G-1776374467,G-1776727720"
 pinyonpinescwd.ca.gov,https://www.pinyonpinescwd.ca.gov/,200,,Pinyon Pines County Water District,Serif WebPlus Starter Edition   (3.0.0.005),,Apache,,,,,,Fetch error: fetch failed certificate has expired,
-pioneercommunityenergy.ca.gov,https://pioneercommunityenergy.ca.gov/,403,,Error 403 Forbidden,,,cloudflare,,,,,,HTTP 403,
+pioneercommunityenergy.ca.gov,https://pioneercommunityenergy.ca.gov/,403,,Just a moment...,,,cloudflare,,,,,,Cloudflare challenge detected,
 placentialibrarydistrict.ca.gov,https://placentialibrarydistrict.ca.gov/,200,,Homepage Placentia Library District,,,nginx,,,,,,,"G-YF82K8BLY4,GTM-WBFZD2V"
 placer.ca.gov,https://www.placer.ca.gov/,200,,"Placer County, CA | Official Website",,,cloudflare,,,,,X,,"G-5CJ5XHZRX6,GTM-K73C5PS,UA-1464228-1"
 plumascourt.ca.gov,https://plumascourt.ca.gov/,200,https://plumas.courts.ca.gov/,Home | Superior Court of California | County of Pl...,Drupal 9 (https://www.drupal.org),,nginx,,,,,,,
@@ -562,7 +561,7 @@ quake.ca.gov,https://quake.ca.gov/,403,,Azure WAF,,,,,,,,,HTTP 403,
 rainbowmwd.ca.gov,https://www.rainbowmwd.ca.gov/,200,,Homepage Rainbow Municipal Water District,,,nginx,,,,,,,
 rbra.ca.gov,https://www.rbra.ca.gov/,200,,Homepage Richardson Bay Regional Agency,,,nginx,,,,,,,
 rcb.ca.gov,https://www.rcb.ca.gov/,200,,Respiratory Care Board of California,,,volt-adc,Respiratory Care Board of California,,,X,X,,"G-05Q6QKZSH6,G-69TD0KNT0F,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-24"
-rcpa.ca.gov,https://rcpa.ca.gov/,200,,Regional Climate Protection Authority,WordPress 7.1.3,,nginx,,,,,X,,G-B3Z6BJFM4T
+rcpa.ca.gov,https://rcpa.ca.gov/,200,,Regional Climate Protection Authority,WordPress 7.1.3,,nginx,,,,,X,,"G-B3Z6BJFM4T,G-CACHEPRESS"
 rcwd.ca.gov,https://rcwd.ca.gov/,200,,Raisin City Water District,Starfield Technologies; Go Daddy Website Builder 8...,,DPS/2.0.0+sha-ed47954,Raisin City Water District,,,,,,
 ready.ca.gov,https://ready.ca.gov/,200,https://www.listoscalifornia.org/disaster-readines...,"Be Disaster Ready, California – Listos California",,WP Engine,cloudflare,,,,,X,"Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: ready.ca.gov. is not in the cert's altnames: DNS:caloes.ca.gov, DNS:earthquake.ca.gov, DNS:news.caloes.ca.gov, DNS:reducetherisk.ca.gov, DNS:ssc.ca.gov, DNS:wftiic.ca.gov, DNS:wildfirerecovery.caloes.ca.gov, DNS:www.caloes.ca.gov, DNS:www.earthquake.ca.gov, DNS:www.news.caloes.ca.gov, DNS:www.reducetherisk.ca.gov, DNS:www.ssc.ca.gov, DNS:www.wftiic.ca.gov, DNS:www.wildfirerecovery.caloes.ca.gov","GTM-PQ99MFH,UA-15552036-37"
 rebuilding.ca.gov,https://rebuilding.ca.gov/,200,https://build.ca.gov/,Building California: Transforming Infrastructure f...,,,Vercel,,,,,,,
@@ -612,10 +611,10 @@ sdcounty.ca.gov,https://sdcounty.ca.gov/,200,https://www.sandiegocounty.gov/,Wel
 sdcourt.ca.gov,https://www.sdcourt.ca.gov/,200,,Home | Superior Court of California - County of Sa...,Drupal 10 (https://www.drupal.org),,cloudflare,,,,,X,,G-9TV7LRTJDG
 sdrc.ca.gov,https://sdrc.ca.gov/,200,,San Diego River Conservancy,,,cloudflare,,,X,X,,,G-ES9EHQN1Y3
 seeleywaterdistrict.ca.gov,https://www.seeleywaterdistrict.ca.gov/,200,,Homepage Seeley County Water District,,,nginx,,,,,,,
-sen.ca.gov,https://sen.ca.gov/,,,,,,,,,,,,"Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: sen.ca.gov. is not in the cert's altnames: DNS:*.senate.ca.gov, DNS:senate.ca.gov, DNS:www.senate.ca.gov",
+sen.ca.gov,https://sen.ca.gov/,200,https://www.senate.ca.gov/,Homepage | California State Senate,,,Apache,,,,,,"Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: sen.ca.gov. is not in the cert's altnames: DNS:*.senate.ca.gov, DNS:senate.ca.gov, DNS:www.senate.ca.gov",G-CRN4TZH1YT
 senate.ca.gov,https://soir.senate.ca.gov/committeehome,200,,Welcome to the Senate Office of International Rela...,,,Apache,,,,,,,G-CRN4TZH1YT
 senate.ca.gov,https://www.senate.ca.gov/,200,,Homepage | California State Senate,,,Apache,,,,,,,G-CRN4TZH1YT
-seniors.ca.gov,https://seniors.ca.gov/,,,,,,,,,,,,"Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: seniors.ca.gov. is not in the cert's altnames: DNS:*.insurance.ca.gov, DNS:insurance.ca.gov, DNS:interactive.web.insurance.ca.gov, DNS:legaldocs.insurance.ca.gov, DNS:www.insurance.ca.gov, DNS:cdiapps.insurance.ca.gov, DNS:cdiappstest.insurance.ca.gov",
+seniors.ca.gov,https://seniors.ca.gov/,200,https://seniors.insurance.ca.gov/,California Seniors,CommonSpot Build 10.9.1.579,ASP.NET,Microsoft-IIS/10.0,,,,,X,"Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: seniors.ca.gov. is not in the cert's altnames: DNS:*.insurance.ca.gov, DNS:insurance.ca.gov, DNS:interactive.web.insurance.ca.gov, DNS:legaldocs.insurance.ca.gov, DNS:www.insurance.ca.gov, DNS:cdiapps.insurance.ca.gov, DNS:cdiappstest.insurance.ca.gov","G-7KBM6NS4N5,UA-3419582-2,UA-35348113-1"
 serve.ca.gov,https://serve.ca.gov/,200,,GO-Serve | California Volunteers,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-Y7T2KCM7P1,G-YDXN8FB57S,UA-3419582-2,UA-3419582-47"
 sgc.ca.gov,https://sgc.ca.gov/,200,,California Strategic Growth Council - Strategic Gr...,WordPress 7.0.7,PHP/8.3.29,nginx,,,X,X,X,,"G-69TD0KNT0F,G-GN1F20H06C"
 sierracounty.ca.gov,https://www.sierracounty.ca.gov/,200,,"Sierra County, CA - Official Website | Official We...",,,Microsoft-IIS/10.0,,,,,X,,"G-N28VLH4GMZ,GTM-K73C5PS"
@@ -624,7 +623,7 @@ simivalley.ca.gov,https://simivalley.ca.gov/,403,https://www.simivalley.org/,Acc
 sites.ca.gov,https://calepa.sites.ca.gov/,200,,calepa.sites.ca.gov |,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
 sites.ca.gov,https://prod.sites.ca.gov/,200,,prod.sites.ca.gov | for CAWeb publishing,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
 sjrc.ca.gov,https://sjrc.ca.gov/,200,,San Joaquin River Conservancy – The San Joaquin Ri...,,,cloudflare,,,X,X,X,,G-WVHVB16R7C
-skcd.ca.gov,https://skcd.ca.gov/,,,,,,,,,,,,"Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: skcd.ca.gov. is not in the cert's altnames: DNS:bigrivercsd.org, DNS:www.bigrivercsd.org",
+skcd.ca.gov,https://skcd.ca.gov/,200,https://southkern.specialdistrict.org/,Homepage South Kern Cemetery District,,,nginx,,,,,,"Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: skcd.ca.gov. is not in the cert's altnames: DNS:hartselfire.org, DNS:www.hartselfire.org",
 slc.ca.gov,https://www.slc.ca.gov/,200,,CA State Lands Commission | California State lands...,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-35QSDZJPYH,G-69TD0KNT0F,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
 slocounty.ca.gov,https://www.slocounty.ca.gov/,200,,Home - County of San Luis Obispo,,ASP.NET,cloudflare,,,,,,,GTM-PT92XTQ
 smcfire.ca.gov,https://smcfire.ca.gov/,200,,Homepage San Mateo Consolidated Fire Department,,,nginx,,,,,,,G-LLNNHWDT7G
@@ -651,7 +650,7 @@ sucorte.ca.gov,https://www.sucorte.ca.gov/,200,,Self-Help Guide to the Californi
 sunnyvale.ca.gov,https://www.sunnyvale.ca.gov/,200,,"Sunnyvale, CA | Home",,,AkamaiGHost,,,,,,,"G-JBUHY_LMRH,G-R8HYT6ITBJ,G-T4KDVQ1M42,G-WVHV5Y34FM,G-ZRY5RPGC6K"
 swrcb.ca.gov,http://swrcb.ca.gov/,200,https://www.waterboards.ca.gov/,Home Page | California State Water Resources Contr...,,,Apache,California State Water Resources Control Board,,X,X,X,,"G-C2B09DREVM,GTM-5PXRWRP,UA-3419582-2,UA-5950478-1"
 tahoe.ca.gov,https://tahoe.ca.gov/,200,,Tahoe Conservancy |,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,,X,X,,"G-69TD0KNT0F,G-7BTW7KMW8E,G-Y7T2KCM7P1,UA-21970760-38,UA-3419582-2,UA-3419582-47"
-tahoecons.ca.gov,https://tahoecons.ca.gov/,,,,,,,,,,,,"Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: tahoecons.ca.gov. is not in the cert's altnames: DNS:*.water.ca.gov, DNS:water.ca.gov",
+tahoecons.ca.gov,https://tahoecons.ca.gov/,200,https://smartforms.water.ca.gov/Produce/Account/Sa...,,,,,,,,,,"Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: tahoecons.ca.gov. is not in the cert's altnames: DNS:*.water.ca.gov, DNS:water.ca.gov",
 tam.ca.gov,https://www.tam.ca.gov/,200,,Transportation Authority of Marin,Powered by WPBakery Page Builder - drag and drop p...,WP Engine,cloudflare,,,,,X,,"G-4YBXR627CN,G-9DDJ0T3LZS"
 taxes.ca.gov,https://taxes.ca.gov/,200,,Taxes | California Tax Service Center,CAWeb v.1.13.4,WP Engine,cloudflare,State of California,,X,X,X,,"G-69TD0KNT0F,G-N8DVBV2ZB1,G-Y7T2KCM7P1,UA-3419582-2,UA-3419582-47"
 tcpw.ca.gov,https://tcpw.ca.gov/,200,,Tehama County Public Works,"Elementor 4.3.3; features: e_font_icon_svg, additi...",,nginx,,,,,X,,G-XYLMZ67JYC
@@ -681,13 +680,13 @@ tricitymha.ca.gov,https://tricitymha.ca.gov/,200,https://tricitymhs.org/,,,,,,,,
 trinidad.ca.gov,https://www.trinidad.ca.gov/,200,,Home Page | Trinidad CA,Drupal 11 (https://www.drupal.org),,cloudflare,,,,,X,,G-1F2ZXJ4JW4
 trinitycounty.ca.gov,https://trinitycounty.ca.gov/,200,https://www.trinitycounty.org/,"Trinity County, CA | Official Website",,,cloudflare,,,,,X,,"G-VEQQKBR9Y8,GTM-K73C5PS"
 tsunami.ca.gov,https://tsunami.ca.gov/,403,,Azure WAF,,,,,,,,,HTTP 403,
-tsunamimaps.ca.gov,https://tsunamimaps.ca.gov/,403,,Azure WAF,,,,,,,,,HTTP 403,
+tsunamimaps.ca.gov,https://tsunamimaps.ca.gov/,403,,Azure WAF,,,,,,,,,HTTP 403,G-N1NHXNDW9X
 ttsa.ca.gov,https://www.ttsa.ca.gov/,200,,"Tahoe-Truckee SanitationAgency, CA | Official Webs...",,,cloudflare,,,,,X,,"G-BT3F8NYDVX,GTM-K73C5PS"
 tulare.ca.gov,https://www.tulare.ca.gov/,200,,City of Tulare | Home,,,AkamaiGHost,,,,,,,"G-3C4EEVW8L1,G-WKUWTSIIYD"
 tularecounty.ca.gov,https://tularecounty.ca.gov/,200,,County Main | Tulare,Drupal 10 (https://www.drupal.org),,cloudflare,,,,,X,,G-GYFYZ4RT4Q
 tuolumnecounty.ca.gov,https://www.tuolumnecounty.ca.gov/,200,,"Tuolumne County, CA - Official Website | Official ...",,,cloudflare,,,,,X,,"G-HHGEB3R8ZN,GTM-K73C5PS"
 unionsanitary.ca.gov,https://unionsanitary.ca.gov/,200,,"Home - Union Sanitary District | Serving Fremont, ...",WordPress 7.1.3,,Sucuri/Cloudproxy,,,,,X,,G-0Z2KMBBLH5
-vaccinateall58.ca.gov,https://vaccinateall58.ca.gov/,,,,,,,,,,,,Fetch error: fetch failed unable to verify the first certificate,
+vaccinateall58.ca.gov,https://vaccinateall58.ca.gov/,200,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Im...,COVID-19,,,volt-adc,Department of Public Health,,X,,X,Fetch error: fetch failed unable to verify the first certificate,"G-RESPONSIVE,GTM-KVN6ZCB"
 victims.ca.gov,https://victims.ca.gov/,200,,CalVCB - CA Victim Compensation Board,WordPress 6.8.3,,nginx/1.24.0 (Ubuntu),,,X,,,,"G-1P41D0CKTV,GTM-MZBJ9DW"
 visitcalifornia.ca.gov,https://visitcalifornia.ca.gov/,200,https://www.visitcalifornia.com/?utm_source=visitc...,Visit California - Official Travel & Tourism Websi...,Gatsby 5.16.1,,cloudflare,,,,,,,GTM-KZZ2CXG
 vmb.ca.gov,https://www.vmb.ca.gov/,200,,Welcome to the California Veterinary Medical Board...,,,volt-adc,,,,X,X,,"G-69TD0KNT0F,G-DB8SK5JY7K,GTM-M683DJB,GTM-NBQCVZC,UA-3419582-2,UA-64276560-28"
@@ -697,7 +696,7 @@ water.ca.gov,https://cdec.water.ca.gov/,200,,California Data Exchange Center,,,,
 water.ca.gov,https://cww.water.ca.gov/,200,,California Water Watch,,,Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k mod_jk/1.2.48,"State of California, Department of Water Resources...",,X,X,X,,G-G9NNQTSS8V
 water.ca.gov,https://ferix.water.ca.gov/webapp/home.jsp,200,,FERIX Home,,,Apache/2.4.10 (Unix) mod_jk/1.2.40,State of California,,,,X,,"UA-21779576-1,UA-3419582-2"
 water.ca.gov,https://gis.water.ca.gov/arcgis/rest/services/,200,,Folder: /,,ASP.NET,Microsoft-IIS/10.0,,,,,,,
-water.ca.gov,https://water.ca.gov/,200,,Department Of Water Resources,,,,State of California,,X,,X,,GTM-KK6DT3F
+water.ca.gov,https://water.ca.gov/,200,,Department Of Water Resources,,,cloudflare,State of California,,X,,X,,GTM-KK6DT3F
 waterboards.ca.gov,https://gamagroundwater.waterboards.ca.gov/gama/gamamap/public/,200,,GAMA Groundwater,,ASP.NET,cloudflare,,,,,X,,
 waterboards.ca.gov,https://geotracker.waterboards.ca.gov/,200,,GeoTracker,,,cloudflare,State of California,,,X,X,,GTM-NP6RZTM
 waterboards.ca.gov,https://www.waterboards.ca.gov/,200,,Home Page | California State Water Resources Contr...,,,Apache,California State Water Resources Control Board,,X,X,X,,"G-C2B09DREVM,GTM-5PXRWRP,UA-3419582-2,UA-5950478-1"
@@ -711,8 +710,8 @@ wedrawthelines.ca.gov,https://wedrawthelines.ca.gov/,200,,"California Citizens R
 westnile.ca.gov,https://westnile.ca.gov/,200,,Westnile.ca.gov | California West Nile Virus Websi...,,,,,,,,X,,
 wftiic.ca.gov,https://www.wftiic.ca.gov/,200,,WFTIIC,CAWeb v.1.13.0,,,State of California,,X,X,X,,"G-69TD0KNT0F,GTM-M3XKR9T,UA-3419582-2"
 wheatland.ca.gov,https://www.wheatland.ca.gov/,200,,"Wheatland, CA | Official Website",,,cloudflare,,,,,X,,"G-XEBZLE7ZM0,GTM-K73C5PS"
-wicfarmers.ca.gov,http://wicfarmers.ca.gov/,,,,,,,,,,,,Fetch error: fetch failed unable to verify the first certificate,
-wicworks.ca.gov,http://wicworks.ca.gov/,,,,,,,,,,,,Fetch error: fetch failed unable to verify the first certificate,
+wicfarmers.ca.gov,http://wicfarmers.ca.gov/,200,https://www.cdph.ca.gov/Programs/CFH/DWICSN/Pages/...,Farmers’ Markets,,,volt-adc,Department of Public Health,,X,,X,Fetch error: fetch failed unable to verify the first certificate,"G-RESPONSIVE,GTM-KVN6ZCB"
+wicworks.ca.gov,http://wicworks.ca.gov/,200,https://www.cdph.ca.gov/Programs/CFH/DWICSN/Pages/...,"Women, Infants & Children Program",,,volt-adc,Department of Public Health,,X,,X,Fetch error: fetch failed unable to verify the first certificate,"G-RESPONSIVE,GTM-KVN6ZCB"
 wildlife.ca.gov,https://apps.wildlife.ca.gov/,200,,Apps - California Department of Fish and Wildlife,,,,"State of California, Department of Fish and Wildli...",,,X,,,"G-2N4E4MK3J8,GTM-NJ6Q4MV"
 wildlife.ca.gov,https://calspillwatch.wildlife.ca.gov/,200,,Cal Spill Watch Home,,,,,,X,X,X,,G-3TD3C8P5WP
 wildlife.ca.gov,https://marinespecies.wildlife.ca.gov/,200,,CA Marine Species Portal,,ASP.NET,Microsoft-IIS/10.0,,,,X,X,Fetch error: fetch failed unable to verify the first certificate,G-SGQRQW0TRJ

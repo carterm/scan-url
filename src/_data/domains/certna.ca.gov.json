@@ -31,5 +31,6 @@
   },
   "notes": null,
   "finalUrl": "https://www.certnaca.gov/",
-  "cosmeticTargetURL": "https://www.certnaca.gov/"
+  "cosmeticTargetURL": "https://www.certnaca.gov/",
+  "cosmeticTargetDomain": "certnaca.gov"
 }

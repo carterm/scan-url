@@ -45,5 +45,6 @@
   "finalUrl": "https://bhsoac.ca.gov/",
   "cosmeticTargetURL": "https://bhsoac.ca.gov/",
   "metaGenerator": "CAWeb v.1.5.1",
-  "metaAuthor": "State of California"
+  "metaAuthor": "State of California",
+  "cosmeticTargetDomain": "bhsoac.ca.gov"
 }

@@ -38,6 +38,7 @@
   "finalUrl": "https://www.visitcalifornia.com/?utm_source=visitcalifornia.ca&utm_medium=redirect&utm_campaign=domain-redirect",
   "cosmeticTargetURL": "https://www.visitcalifornia.com/?utm_source=visitcalifornia.ca&utm_medium=redirect&utm_campaign=domain-redirect",
   "metaGenerator": "Gatsby 5.16.1",
+  "cosmeticTargetDomain": "visitcalifornia.com",
   "DOMErrors": [
     "Could not parse CSS stylesheet"
   ]

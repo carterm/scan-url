@@ -29,5 +29,6 @@
   },
   "notes": null,
   "finalUrl": "https://my.calpers.ca.gov/my.logout.php3?errorcode=19",
-  "cosmeticTargetURL": "https://my.calpers.ca.gov/my.logout.php3?errorcode=19"
+  "cosmeticTargetURL": "https://my.calpers.ca.gov/my.logout.php3?errorcode=19",
+  "cosmeticTargetDomain": "my.calpers.ca.gov"
 }

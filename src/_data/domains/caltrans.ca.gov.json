@@ -40,5 +40,6 @@
   "notes": null,
   "finalUrl": "https://dot.ca.gov/",
   "cosmeticTargetURL": "https://dot.ca.gov/",
-  "metaAuthor": "State of California"
+  "metaAuthor": "State of California",
+  "cosmeticTargetDomain": "dot.ca.gov"
 }

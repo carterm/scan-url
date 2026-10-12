@@ -104,6 +104,11 @@
       "description": "Optional human notes."
     },
 
+    "cosmeticTargetDomain": {
+      "type": ["string", "null"],
+      "description": "If this domain is cosmetic, the domain it forwards to; otherwise null."
+    },
+
     "nocache": { "type": "boolean" },
     "goodScan": { "type": "boolean" }
   },

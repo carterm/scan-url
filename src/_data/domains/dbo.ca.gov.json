@@ -51,5 +51,6 @@
   "notes": null,
   "finalUrl": "https://dfpi.ca.gov/",
   "cosmeticTargetURL": "https://dfpi.ca.gov/",
-  "metaGenerator": "DFPI Divi Child Theme v.1.0.0"
+  "metaGenerator": "DFPI Divi Child Theme v.1.0.0",
+  "cosmeticTargetDomain": "dfpi.ca.gov"
 }

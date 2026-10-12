@@ -39,5 +39,6 @@
   "notes": null,
   "finalUrl": "https://www.dca.ca.gov/acp/",
   "cosmeticTargetURL": "https://www.dca.ca.gov/acp/",
-  "metaAuthor": "Arbitration Certification Program"
+  "metaAuthor": "Arbitration Certification Program",
+  "cosmeticTargetDomain": "dca.ca.gov"
 }

@@ -30,5 +30,6 @@
   },
   "notes": null,
   "finalUrl": "https://resources.ca.gov/",
-  "cosmeticTargetURL": "https://resources.ca.gov/"
+  "cosmeticTargetURL": "https://resources.ca.gov/",
+  "cosmeticTargetDomain": "resources.ca.gov"
 }

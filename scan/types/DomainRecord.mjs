@@ -43,6 +43,8 @@
  *   Whether the page links back to https://ca.gov or https://www.ca.gov.
  * @property {string} [cosmeticTargetURL]
  *   If this domain is cosmetic, the URL it forwards to; otherwise null.
+ * @property {string} [cosmeticTargetDomain]
+ *   If this domain is cosmetic, the domain it forwards to; otherwise null.
  * @property {string | null} errorMessage
  *   A human-readable error message if the scan failed.
  * @property {string | null} notes
