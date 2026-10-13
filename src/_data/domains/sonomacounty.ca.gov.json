@@ -32,7 +32,6 @@
     "permissions-policy": "camera=(), microphone=()",
     "pragma": "no-cache",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "reporting-endpoints": "csp-report=\"https://sonomacounty.gov/api/CSPViolationReport?controlID=x5\"",
     "x-content-type-options": "nosniff"
   },
   "notes": null,

@@ -13,9 +13,7 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": true,
-  "googleAnalytics": [
-    "GTM-P75JGSM"
-  ],
+  "googleAnalytics": [],
   "socialLinks": [
     "https://www.facebook.com/profile.php?id=61585075709970",
     "https://www.instagram.com/hopeaccounts/",
@@ -34,7 +32,6 @@
     "permissions-policy": "geolocation=*, camera=(), microphone=(), payment=()",
     "referrer-policy": "no-referrer-when-downgrade",
     "server": "cloudflare",
-    "x-cache-group": "normal",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-powered-by": "WP Engine"

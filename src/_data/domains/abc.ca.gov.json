@@ -15,7 +15,6 @@
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "server": "cloudflare",
-    "x-cache-group": "normal",
     "x-powered-by": "WP Engine"
   },
   "cloudflare": false,

@@ -11,7 +11,6 @@
     "accept-ranges": "bytes",
     "connection": "Keep-Alive",
     "content-encoding": "gzip",
-    "content-language": "en",
     "content-type": "text/html; charset=UTF-8",
     "feature-policy": "",
     "from-origin": "same",

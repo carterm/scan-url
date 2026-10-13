@@ -13,7 +13,6 @@
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "server": "nginx",
-    "x-cache-group": "normal",
     "x-powered-by": "WP Engine",
     "x-tec-api-origin": "https://www.ych.ca.gov",
     "x-tec-api-root": "https://www.ych.ca.gov/wp-json/tribe/events/v1/",

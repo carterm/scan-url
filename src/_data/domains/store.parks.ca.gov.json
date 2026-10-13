@@ -13,7 +13,6 @@
     "cdn-cache-control": "no-cache, no-store",
     "connection": "keep-alive",
     "content-encoding": "br",
-    "content-language": "en-US",
     "content-type": "text/html; charset=utf-8",
     "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}",
     "powered-by": "Shopify",
