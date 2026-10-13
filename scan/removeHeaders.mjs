@@ -98,5 +98,13 @@ export default [
   "x-fd-int-roxy-purgeid",
   "x-sucuri-id",
   "x-sharepointhealthscore",
-  "shopify-complexity-score-v2"
+  "shopify-complexity-score-v2",
+  "content-language",
+  "x-cache-group",
+  "connection",
+  "reporting-endpoints",
+  "x-process-time",
+  "x-nf-request-id",
+  "x-nextjs-date",
+  "cache-status"
 ];
