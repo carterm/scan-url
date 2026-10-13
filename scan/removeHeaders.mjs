@@ -106,5 +106,8 @@ export default [
   "x-process-time",
   "x-nf-request-id",
   "x-nextjs-date",
+  "x-nextjs-cache",
+  "x-dispatcher",
+  "served-by",
   "cache-status"
 ];

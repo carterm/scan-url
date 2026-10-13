@@ -17,7 +17,6 @@
     "server": "hide",
     "x-content-type-options": "nosniff, nosniff",
     "x-frame-options": "SAMEORIGIN",
-    "x-nextjs-cache": "HIT",
     "x-permitted-cross-domain-policies": "none",
     "x-static-cache": "BYPASS",
     "x-xss-protection": "1, 1; mode=block"

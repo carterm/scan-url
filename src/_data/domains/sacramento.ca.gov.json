@@ -34,7 +34,6 @@
     "content-type": "text/html;charset=utf-8",
     "server": "Apache",
     "x-content-type-options": "nosniff",
-    "x-dispatcher": "dispatcher1westus2-b86",
     "x-frame-options": "SAMEORIGIN",
     "x-vhost": "publish"
   },
