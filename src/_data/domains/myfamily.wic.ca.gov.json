@@ -1,0 +1,39 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "myfamily.wic.ca.gov",
+  "targetURL": "https://myfamily.wic.ca.gov/",
+  "www": false,
+  "goodScan": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "MyFamily - California Women, Infants & Children Program",
+  "lastStatus": 200,
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-PDJWP9PL60"
+  ],
+  "socialLinks": [
+    "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.myfamily.wic.ca.gov%2FHome%2FIndex",
+    "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.myfamily.wic.ca.gov%2FHome%2FIndex&media=https%3A%2F%2Fwww.myfamily.wic.ca.gov%2Fimages%2FCDPH%20WIC%20logo%20sm.jpg&description=Learn%20more%20about%20the%20California%20WIC%20MyFamily%20Site",
+    "https://twitter.com/intent/tweet/?text=Learn%20more%20about%20the%20California%20WIC%20MyFamily%20Site&url=https%3A%2F%2Fwww.myfamily.wic.ca.gov%2FHome%2FIndex",
+    "https://www.youtube.com/@californiawic"
+  ],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "nocache": false,
+  "responseHeaders": {
+    "connection": "keep-alive",
+    "content-encoding": "gzip",
+    "content-type": "text/html; charset=utf-8",
+    "server": "Microsoft-IIS/10.0",
+    "x-aspnet-version": "4.0.30319",
+    "x-aspnetmvc-version": "5.3",
+    "x-powered-by": "ASP.NET"
+  },
+  "notes": null
+}

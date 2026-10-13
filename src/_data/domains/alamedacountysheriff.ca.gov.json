@@ -16,7 +16,7 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": "HTTP 403",
+  "errorMessage": "Fetch error: fetch failed unable to verify the first certificate",
   "nocache": true,
   "responseHeaders": {
     "connection": "close",
