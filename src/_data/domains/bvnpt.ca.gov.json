@@ -5,7 +5,7 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "Board of Vocational Nursing & Psychiatric Technicians",
+  "title": "Board of Vocational Nursing and Psychiatric Technicians (BVNPT)",
   "lastStatus": 200,
   "responseHeaders": {
     "accept-ranges": "bytes",
@@ -19,27 +19,23 @@
   },
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": true,
-  "hasJQuery": true,
+  "hasJQuery": false,
   "googleAnalytics": [
     "G-69TD0KNT0F",
     "G-HTB5XLD158",
-    "GTM-M683DJB",
-    "GTM-NBQCVZC",
     "UA-3419582-2",
     "UA-64276560-29"
   ],
   "socialLinks": [
-    "https://facebook.com/CABVNPT",
-    "https://twitter.com/CABVNPT",
-    "https://www.youtube.com/watch?v=8q-6Cw9ukGk&t=1s",
-    "https://youtu.be/JuZA5FSPcqQ"
+    "https://www.facebook.com/CABVNPT",
+    "https://x.com/CABVNPT"
   ],
   "linksToCaGov": true,
   "errorMessage": null,
   "notes": null,
   "nocache": false,
   "goodScan": true,
-  "metaAuthor": "State of California"
+  "metaAuthor": "Department of Consumer Affairs"
 }

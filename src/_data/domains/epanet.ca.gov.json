@@ -16,7 +16,7 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": "Failure title word detected in title: \"Log In ‹ Intranet – CalEPA — WordPress\"",
+  "errorMessage": "Fetch error: fetch failed certificate has expired",
   "nocache": true,
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",

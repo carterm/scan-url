@@ -16,7 +16,7 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": "Fetch error: fetch failed read ECONNRESET",
+  "errorMessage": "Fetch error: fetch failed Hostname/IP does not match certificate's altnames: Host: climatechange.ca.gov. is not in the cert's altnames: DNS:*.energy.ca.gov, DNS:energy.ca.gov",
   "nocache": false,
   "responseHeaders": {},
   "notes": null

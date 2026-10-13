@@ -5,30 +5,35 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "Office of Energy Infrastructure Safety | Driving utility-related wildfire risk reduction for the State of California.",
+  "title": "Office of Energy Infrastructure Safety - Driving utility-related wildfire risk reduction for the State of California.",
   "lastStatus": 200,
-  "metaGenerator": "CAWeb v.1.9.0",
+  "metaGenerator": "CAWeb v.1.13.4",
   "responseHeaders": {
-    "access-control-allow-headers": "Authorization, Content-Type",
-    "access-control-allow-methods": "GET, POST, OPTIONS",
     "alt-svc": "h3=\":443\"; ma=86400",
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "permissions-policy": "accelerometer=(), ambient-light-sensor=(), autoplay=(), battery=(), camera=(), display-capture=(), document-domain=(), encrypted-media=(), fullscreen=(self), geolocation=(), gyroscope=(), keyboard-map=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), sync-xhr=(), usb=(), web-share=(), xr-spatial-tracking=(), interest-cohort=()",
+    "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
     "referrer-policy": "strict-origin-when-cross-origin",
     "server": "cloudflare",
+    "x-cache-group": "normal",
     "x-content-type-options": "nosniff",
-    "x-frame-options": "SAMEORIGIN"
+    "x-frame-options": "SAMEORIGIN",
+    "x-powered-by": "WP Engine",
+    "x-tec-api-origin": "https://energysafety.ca.gov",
+    "x-tec-api-root": "https://energysafety.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1"
   },
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": true,
+  "hasStatewideAlerts": false,
   "usesStateTemplate": true,
   "hasJQuery": true,
   "googleAnalytics": [
     "G-69TD0KNT0F",
-    "G-DCP197HRSL"
+    "G-Y7T2KCM7P1",
+    "UA-3419582-2",
+    "UA-3419582-47"
   ],
   "socialLinks": [
     "https://instagram.com/caenergysafety",
@@ -40,7 +45,7 @@
   "linksToCaGov": true,
   "errorMessage": null,
   "notes": null,
-  "nocache": true,
+  "nocache": false,
   "goodScan": true,
   "metaAuthor": "State of California"
 }
