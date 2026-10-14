@@ -33,7 +33,7 @@
     "server": "nginx",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
-    "x-powered-by": "PHP/8.5.10"
+    "x-powered-by": "PHP/8.5.11"
   },
   "notes": null,
   "metaGenerator": "WordPress 7.1.3",

@@ -17,9 +17,12 @@
     "ki-edge": "v=28.5.1;mv=99.9.9",
     "ki-origin": "o1i",
     "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}",
+    "permissions-policy": "camera=(), microphone=(), usb=()",
+    "referrer-policy": "strict-origin-when-cross-origin",
     "server": "cloudflare",
     "x-content-type-options": "nosniff",
     "x-edge-location-klb": "1",
+    "x-frame-options": "SAMEORIGIN",
     "x-tec-api-origin": "https://wwd.ca.gov",
     "x-tec-api-root": "https://wwd.ca.gov/wp-json/tribe/events/v1/",
     "x-tec-api-version": "v1"

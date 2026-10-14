@@ -36,7 +36,7 @@ const fetchTimeout = 15000; //15 seconds
 
 // default secure agent for HTTPS requests
 const secureAgent = new Agent({
-  connect: { rejectUnauthorized: true, timeout: fetchTimeout },
+  connect: { rejectUnauthorized: true, timeout: fetchTimeout, requestCert: true },
   bodyTimeout: fetchTimeout, // time allowed for the body to be received
   headersTimeout: fetchTimeout // time allowed for headers
 });

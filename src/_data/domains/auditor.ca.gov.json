@@ -16,6 +16,7 @@
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-powered-by": "WordPress VIP <https://wpvip.com>",
+    "x-remembering": "Eric Binnion <https://friendsofericbinnion.wordpress.com/>",
     "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,

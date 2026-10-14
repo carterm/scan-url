@@ -12,17 +12,18 @@
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
-    "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)",
+    "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
     "referrer-policy": "strict-origin",
     "server": "nginx",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
-    "x-powered-by": "PHP/8.4.16",
-    "x-xss-protection": "1; mode=block"
+    "x-hacker": "If you're reading this, you should visit https://join.a8c.com/viphacker and apply to join the fun, mention this header.",
+    "x-powered-by": "WordPress VIP <https://wpvip.com>",
+    "x-remembering": "Eric Binnion <https://friendsofericbinnion.wordpress.com/>"
   },
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": false,
   "hasJQuery": true,
   "googleAnalytics": [
@@ -37,7 +38,7 @@
   "nocache": false,
   "goodScan": true,
   "finalUrl": "https://www.chhs.ca.gov/mental-health-for-all/",
-  "metaGenerator": "WordPress 7.0.7",
+  "metaGenerator": "WordPress 7.1.3",
   "cosmeticTargetDomain": "chhs.ca.gov",
   "DOMErrors": [
     "Could not parse CSS stylesheet"

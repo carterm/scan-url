@@ -13,7 +13,8 @@
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "server": "nginx",
-    "x-hacker": "Want root?  Visit join.a8c.com and mention this header."
+    "x-hacker": "Want root?  Visit join.a8c.com and mention this header.",
+    "x-remembering": "Eric Binnion <https://friendsofericbinnion.wordpress.com/>"
   },
   "cloudflare": false,
   "slow": false,

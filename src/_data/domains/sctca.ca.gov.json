@@ -30,7 +30,9 @@
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "server": "nginx",
-    "x-httpd-modphp": "1"
+    "x-content-type-options": "nosniff",
+    "x-httpd-modphp": "1",
+    "x-xss-protection": "1; mode=block"
   },
   "notes": null
 }

@@ -19,7 +19,8 @@
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-hacker": "If you're reading this, you should visit https://join.a8c.com/viphacker and apply to join the fun, mention this header.",
-    "x-powered-by": "WordPress VIP <https://wpvip.com>"
+    "x-powered-by": "WordPress VIP <https://wpvip.com>",
+    "x-remembering": "Eric Binnion <https://friendsofericbinnion.wordpress.com/>"
   },
   "cloudflare": false,
   "slow": false,

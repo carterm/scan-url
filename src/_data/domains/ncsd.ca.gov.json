@@ -14,6 +14,7 @@
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "server": "nginx",
+    "x-remembering": "Eric Binnion <https://friendsofericbinnion.wordpress.com/>",
     "x-tec-api-origin": "https://ncsd.ca.gov",
     "x-tec-api-root": "https://ncsd.ca.gov/wp-json/tribe/events/v1/",
     "x-tec-api-version": "v1"

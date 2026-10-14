@@ -37,6 +37,6 @@
     "x-xss-protection": "1; mode=block"
   },
   "notes": null,
-  "finalUrl": "https://www.sos.ca.gov/elections/make-plan-vote",
+  "finalUrl": "https://www.sos.ca.gov/elections/make-plan-vote/",
   "cosmeticTargetDomain": "sos.ca.gov"
 }
