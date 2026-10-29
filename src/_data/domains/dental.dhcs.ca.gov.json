@@ -8,8 +8,6 @@
   "title": "Welcome to the Medi-Cal Dental Program",
   "lastStatus": 200,
   "responseHeaders": {
-    "connection": "keep-alive",
-    "content-encoding": "br",
     "content-type": "text/html; charset=utf-8",
     "referrer-policy": "no-referrer",
     "server": "Microsoft-IIS/10.0",

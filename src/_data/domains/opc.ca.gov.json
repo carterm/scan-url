@@ -8,7 +8,6 @@
   "title": "- California Ocean Protection Council",
   "lastStatus": 200,
   "responseHeaders": {
-    "connection": "keep-alive",
     "content-type": "text/html; charset=UTF-8",
     "server": "nginx",
     "x-frame-options": "SAMEORIGIN"

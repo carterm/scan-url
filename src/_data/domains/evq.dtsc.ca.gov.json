@@ -9,8 +9,6 @@
   "lastStatus": 200,
   "responseHeaders": {
     "access-control-expose-headers": "Request-Context",
-    "connection": "keep-alive",
-    "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
     "request-context": "appId=cid-v1:5da1700f-797e-4dd8-8e65-d31e1012d516",
     "server": "cloudflare",

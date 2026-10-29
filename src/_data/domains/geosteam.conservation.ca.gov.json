@@ -8,7 +8,6 @@
   "title": "Geothermal Well Search",
   "lastStatus": 200,
   "responseHeaders": {
-    "connection": "keep-alive",
     "content-type": "text/html; charset=utf-8",
     "server": "Microsoft-IIS/10.0",
     "x-frame-options": "SAMEORIGIN"

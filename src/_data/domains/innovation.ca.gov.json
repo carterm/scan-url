@@ -8,8 +8,6 @@
   "title": "Office of Data and Innovation",
   "lastStatus": 200,
   "responseHeaders": {
-    "connection": "keep-alive",
-    "content-encoding": "br",
     "content-type": "text/html",
     "server": "AmazonS3"
   },

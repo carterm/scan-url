@@ -19,8 +19,6 @@
   "errorMessage": null,
   "nocache": false,
   "responseHeaders": {
-    "connection": "keep-alive",
-    "content-encoding": "br",
     "content-type": "text/html;charset=utf-8",
     "server": "DPS/2.0.0+sha-4384650",
     "x-siteid": "us-west-2",

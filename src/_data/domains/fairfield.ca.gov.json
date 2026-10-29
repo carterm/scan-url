@@ -9,8 +9,6 @@
   "lastStatus": 403,
   "responseHeaders": {
     "accept-ranges": "bytes",
-    "connection": "keep-alive",
-    "content-encoding": "br",
     "content-type": "text/html",
     "expect-ct": "max-age=86400, enforce",
     "mime-version": "1.0",

@@ -9,7 +9,6 @@
   "lastStatus": 200,
   "responseHeaders": {
     "accept-ranges": "bytes",
-    "connection": "keep-alive",
     "content-type": "text/html; charset=utf-8",
     "x-aspnet-version": "4.0.30319",
     "x-powered-by": "ASP.NET"

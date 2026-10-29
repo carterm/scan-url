@@ -8,8 +8,6 @@
   "title": "Save Water Report - State of California",
   "lastStatus": 200,
   "responseHeaders": {
-    "connection": "keep-alive",
-    "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
     "pragma": "no-cache",
     "request-context": "appId=cid-v1:41747ed0-85ce-45b8-9b22-aed1666d1df6",

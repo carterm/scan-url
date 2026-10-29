@@ -21,7 +21,6 @@
   "responseHeaders": {
     "accept-ranges": "bytes",
     "alt-svc": "h3=\":443\"; ma=2592000",
-    "content-encoding": "br",
     "content-type": "text/html; charset=utf-8",
     "permissions-policy": "camera=(self),microphone=(self),geolocation=(),payment=(),usb=()",
     "server": "",

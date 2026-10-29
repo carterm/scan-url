@@ -9,7 +9,6 @@
   "lastStatus": 200,
   "metaGenerator": "WordPress 6.9.4",
   "responseHeaders": {
-    "connection": "Keep-Alive",
     "content-type": "text/html; charset=UTF-8",
     "server": "Apache",
     "x-tec-api-origin": "https://crob.ca.gov",

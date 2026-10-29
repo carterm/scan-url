@@ -9,7 +9,6 @@
   "lastStatus": 200,
   "metaGenerator": "WordPress 7.1.4",
   "responseHeaders": {
-    "connection": "Upgrade, Keep-Alive",
     "content-type": "text/html; charset=UTF-8",
     "server": "Apache",
     "upgrade": "h2,h2c"

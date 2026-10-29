@@ -8,7 +8,6 @@
   "title": "Division of Traffic Operations - Road Information - California Highway Information",
   "lastStatus": 200,
   "responseHeaders": {
-    "connection": "Keep-Alive",
     "content-type": "text/html; charset=UTF-8",
     "x-content-type-options": "nosniff"
   },

@@ -9,8 +9,6 @@
   "lastStatus": 200,
   "metaGenerator": "WordPress 7.1.3",
   "responseHeaders": {
-    "connection": "keep-alive",
-    "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "permissions-policy": "accelerometer=(),camera=(),display-capture=(),document-domain=(),gyroscope=(),magnetometer=(),microphone=(),midi=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),usb=(),xr-spatial-tracking=()",
     "referrer-policy": "strict-origin-when-cross-origin",

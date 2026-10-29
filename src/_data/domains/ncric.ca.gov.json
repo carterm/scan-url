@@ -10,8 +10,6 @@
   "metaGenerator": "WordPress 7.1.4",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
-    "connection": "keep-alive",
-    "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "server": "cloudflare",
     "x-et-api-origin": "https://ncric.ca.gov",

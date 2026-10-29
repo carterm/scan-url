@@ -8,7 +8,6 @@
   "title": "CERS | California Environmental Reporting System",
   "lastStatus": 403,
   "responseHeaders": {
-    "connection": "close",
     "content-type": "text/html"
   },
   "cloudflare": false,

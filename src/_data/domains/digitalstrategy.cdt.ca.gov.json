@@ -24,7 +24,6 @@
   "nocache": false,
   "responseHeaders": {
     "accept-ranges": "bytes",
-    "connection": "keep-alive",
     "content-md5": "Kl5dB4PFgt0IwBY8NocKYw==",
     "content-type": "text/html",
     "x-ms-version": "2018-03-28"

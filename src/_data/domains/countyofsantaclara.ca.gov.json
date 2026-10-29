@@ -20,8 +20,6 @@
   "nocache": true,
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
-    "connection": "keep-alive",
-    "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "referrer-policy": "same-origin",
     "server": "cloudflare",

@@ -8,7 +8,6 @@
   "title": "California Fish and Game Commission Home Page",
   "lastStatus": 200,
   "responseHeaders": {
-    "content-encoding": "br",
     "content-type": "text/html; charset=utf-8",
     "pragma": "no-cache",
     "referrer-policy": "strict-origin-when-cross-origin",

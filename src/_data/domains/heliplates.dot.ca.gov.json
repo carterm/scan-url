@@ -8,7 +8,6 @@
   "title": "Division of Aeronautics",
   "lastStatus": 200,
   "responseHeaders": {
-    "connection": "Keep-Alive",
     "content-type": "text/html; charset=UTF-8",
     "x-oneagent-js-injection": "true",
     "x-ruxit-js-agent": "true"

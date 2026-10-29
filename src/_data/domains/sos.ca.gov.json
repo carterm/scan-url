@@ -8,8 +8,6 @@
   "title": "Home :: California Secretary of State",
   "lastStatus": 200,
   "responseHeaders": {
-    "connection": "keep-alive",
-    "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "pragma": "public",
     "server": "nginx",

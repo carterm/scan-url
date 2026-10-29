@@ -25,8 +25,6 @@
   "errorMessage": null,
   "nocache": false,
   "responseHeaders": {
-    "connection": "Keep-Alive",
-    "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "server": "Apache",
     "x-frame-options": "SAMEORIGIN"

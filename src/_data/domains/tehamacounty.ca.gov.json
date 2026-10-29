@@ -24,8 +24,6 @@
     "alt-svc": "h3=\":443\"; ma=86400",
     "cf-apo-via": "tcache",
     "cf-edge-cache": "cache,platform=wordpress",
-    "connection": "keep-alive",
-    "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "server": "cloudflare",
     "speculation-rules": "\"/cdn-cgi/speculation\"",

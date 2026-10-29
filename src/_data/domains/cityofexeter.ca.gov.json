@@ -22,8 +22,6 @@
   "nocache": false,
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
-    "connection": "Keep-Alive",
-    "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "referrer-policy": "unsafe-url",
     "server": "LiteSpeed",

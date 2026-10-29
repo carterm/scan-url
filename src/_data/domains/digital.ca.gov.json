@@ -26,8 +26,6 @@
   "errorMessage": null,
   "nocache": false,
   "responseHeaders": {
-    "connection": "keep-alive",
-    "content-encoding": "br",
     "content-type": "text/html",
     "server": "AmazonS3"
   },

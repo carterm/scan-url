@@ -9,7 +9,6 @@
   "lastStatus": 200,
   "metaGenerator": "CommonSpot Build 10.9.1.579",
   "responseHeaders": {
-    "content-encoding": "gzip",
     "content-type": "text/html;charset=UTF-8",
     "pragma": "no-cache",
     "server": "Microsoft-IIS/10.0",

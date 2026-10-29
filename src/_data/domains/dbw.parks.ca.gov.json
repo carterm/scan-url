@@ -9,7 +9,6 @@
   "lastStatus": 200,
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
-    "content-encoding": "br",
     "content-type": "text/html; charset=utf-8",
     "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
     "server": "cloudflare",

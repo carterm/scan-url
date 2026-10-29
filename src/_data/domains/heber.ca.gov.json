@@ -9,7 +9,6 @@
   "lastStatus": 200,
   "metaGenerator": "Drupal 8 (https://www.drupal.org)",
   "responseHeaders": {
-    "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "server": "Apache",
     "upgrade": "h2,h2c",

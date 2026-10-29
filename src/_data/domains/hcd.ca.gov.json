@@ -9,8 +9,6 @@
   "lastStatus": 200,
   "metaGenerator": "Drupal 10 (https://www.drupal.org)",
   "responseHeaders": {
-    "connection": "keep-alive",
-    "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "feature-policy": "accelerometer 'none'; camera 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; payment 'none'; usb 'none'",
     "from-origin": "same",

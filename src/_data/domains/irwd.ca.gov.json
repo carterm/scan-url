@@ -28,8 +28,6 @@
   "errorMessage": null,
   "nocache": false,
   "responseHeaders": {
-    "connection": "keep-alive",
-    "content-encoding": "gzip",
     "content-type": "text/html",
     "server": "nginx/1.24.0 (Ubuntu)"
   },

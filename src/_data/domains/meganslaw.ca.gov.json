@@ -8,7 +8,6 @@
   "title": "Disclaimer - Megan's Law Website",
   "lastStatus": 200,
   "responseHeaders": {
-    "connection": "keep-alive",
     "content-type": "text/html; charset=utf-8",
     "permissions-policy": "accelerometer=(), autoplay=(), camera=(), cross-origin-isolated=(), display-capture=(), document-domain=(), encrypted-media=(), fullscreen=(self), geolocation=(), gyroscope=(), keyboard-map=(), magnetometer=(), microphone=(), midi=(), payment=(), publickey-credentials-get=(), screen-wake-lock=(), sync-xhr=(), usb=(), web-share=(), xr-spatial-tracking=()",
     "pragma": "no-cache",

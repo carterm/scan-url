@@ -8,8 +8,6 @@
   "title": "Home | State of California Office of the State Treasurer",
   "lastStatus": 200,
   "responseHeaders": {
-    "connection": "keep-alive",
-    "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "server": "nginx/1.30.6",
     "x-cdn": "Imperva",

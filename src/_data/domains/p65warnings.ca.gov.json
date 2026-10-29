@@ -8,7 +8,6 @@
   "title": "Proposition 65 Warnings Website - Your right to know",
   "lastStatus": 200,
   "responseHeaders": {
-    "connection": "close",
     "content-type": "text/html"
   },
   "cloudflare": false,

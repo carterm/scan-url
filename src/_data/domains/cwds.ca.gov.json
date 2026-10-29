@@ -9,7 +9,6 @@
   "lastStatus": 307,
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
-    "connection": "keep-alive",
     "content-type": "text/html",
     "server": "Sucuri/Cloudproxy"
   },

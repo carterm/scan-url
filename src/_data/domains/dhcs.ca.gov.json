@@ -8,7 +8,6 @@
   "title": "DHCS Homepage",
   "lastStatus": 200,
   "responseHeaders": {
-    "connection": "close",
     "content-type": "text/html"
   },
   "cloudflare": false,

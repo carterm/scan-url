@@ -8,7 +8,6 @@
   "title": "Login",
   "lastStatus": 200,
   "responseHeaders": {
-    "connection": "keep-alive",
     "content-type": "text/html; charset=utf-8",
     "pragma": "no-cache",
     "server": "Microsoft-IIS/10.0",

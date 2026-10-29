@@ -21,8 +21,6 @@
   "responseHeaders": {
     "accept-ranges": "bytes",
     "access-control-allow-origin": "*.ebt.ca.gov",
-    "connection": "keep-alive",
-    "content-encoding": "gzip",
     "content-type": "text/html",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN"

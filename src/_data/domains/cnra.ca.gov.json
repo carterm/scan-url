@@ -20,7 +20,6 @@
   "nocache": true,
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
-    "connection": "keep-alive",
     "content-type": "text/plain",
     "permissions-policy": "accelerometer=(), ambient-light-sensor=(), autoplay=(), battery=(), camera=(), display-capture=(), document-domain=(), encrypted-media=(), fullscreen=(self), geolocation=(), gyroscope=(), keyboard-map=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), sync-xhr=(), usb=(), web-share=(), xr-spatial-tracking=(), interest-cohort=()",
     "referrer-policy": "same-origin",

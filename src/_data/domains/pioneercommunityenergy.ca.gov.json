@@ -20,8 +20,6 @@
   "nocache": true,
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
-    "connection": "keep-alive",
-    "content-encoding": "br",
     "content-type": "text/html",
     "ki-edge": "v=28.6.1;mv=99.9.9",
     "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}",

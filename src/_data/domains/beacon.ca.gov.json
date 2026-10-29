@@ -10,8 +10,6 @@
   "metaGenerator": "Divi v.4.27.9",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
-    "connection": "keep-alive",
-    "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "server": "Sucuri/Cloudproxy",
     "x-content-type-options": "nosniff",

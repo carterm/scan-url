@@ -27,8 +27,6 @@
   "nocache": false,
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
-    "connection": "keep-alive",
-    "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "ki-edge": "v=28.5.1;mv=99.9.9",
     "ki-origin": "g1p",

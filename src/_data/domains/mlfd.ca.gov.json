@@ -9,8 +9,6 @@
   "lastStatus": 200,
   "metaGenerator": "WordPress 7.1.4",
   "responseHeaders": {
-    "connection": "keep-alive",
-    "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
     "pragma": "no-cache",

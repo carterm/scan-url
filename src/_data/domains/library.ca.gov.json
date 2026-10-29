@@ -8,7 +8,6 @@
   "title": "Home - California State Library",
   "lastStatus": 403,
   "responseHeaders": {
-    "connection": "keep-alive",
     "content-type": "text/html",
     "referrer-policy": "strict-origin-when-cross-origin",
     "server": "CloudFront",

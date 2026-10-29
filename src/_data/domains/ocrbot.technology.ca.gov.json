@@ -9,7 +9,6 @@
   "lastStatus": 200,
   "responseHeaders": {
     "accept-ranges": "bytes",
-    "connection": "keep-alive",
     "content-md5": "ynznfmWf7QvOL548SUM3Iw==",
     "content-type": "text/html",
     "x-ms-version": "2018-03-28"

@@ -27,7 +27,6 @@
   "errorMessage": null,
   "nocache": false,
   "responseHeaders": {
-    "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "permissions-policy": "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self)",
     "referrer-policy": "strict-origin",

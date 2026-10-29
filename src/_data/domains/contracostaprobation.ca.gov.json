@@ -125,8 +125,6 @@
   "errorMessage": null,
   "nocache": true,
   "responseHeaders": {
-    "connection": "keep-alive",
-    "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "referrer-policy": "no-referrer-when-downgrade",
     "x-content-type-options": "nosniff",

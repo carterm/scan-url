@@ -9,7 +9,6 @@
   "lastStatus": 200,
   "metaGenerator": "WordPress 7.1.4",
   "responseHeaders": {
-    "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "server": "nginx/1.29.8",
     "x-endurance-cache-level": "2",

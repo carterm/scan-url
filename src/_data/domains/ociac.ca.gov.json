@@ -10,7 +10,6 @@
   "finalUrl": "/(X(1)S(4dmu5rawipek2esefacu5xbs))/default.aspx?AspxAutoDetectCookieSupport=1",
   "ignoreFinalUrl": true,
   "responseHeaders": {
-    "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
     "pragma": "no-cache",
     "server": "",

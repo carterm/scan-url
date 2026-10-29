@@ -26,8 +26,6 @@
   "responseHeaders": {
     "access-control-allow-origin": "*",
     "alt-svc": "h3=\":443\"; ma=86400",
-    "connection": "keep-alive",
-    "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "permissions-policy": "geolocation=*, camera=(), microphone=(), payment=()",
     "referrer-policy": "no-referrer-when-downgrade",

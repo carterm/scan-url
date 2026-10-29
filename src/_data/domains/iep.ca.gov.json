@@ -8,7 +8,6 @@
   "title": "Interagency Ecological Program > Home",
   "lastStatus": 200,
   "responseHeaders": {
-    "content-encoding": "br",
     "content-type": "text/html; charset=utf-8",
     "permissions-policy": "geolocation=(), microphone=(), camera=(), usb=(), fullscreen=(self), payment=()",
     "pragma": "no-cache",

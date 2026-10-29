@@ -22,7 +22,6 @@
   "nocache": false,
   "responseHeaders": {
     "accept-ranges": "bytes",
-    "connection": "Keep-Alive",
     "content-type": "text/html",
     "server": "Apache/2.4.43 (Unix) OpenSSL/1.0.1j-freebsd PHP/5.6.40"
   },

@@ -22,8 +22,6 @@
   "nocache": true,
   "responseHeaders": {
     "accept-ranges": "bytes",
-    "connection": "keep-alive",
-    "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "server": "nginx",
     "x-content-type-options": "nosniff",

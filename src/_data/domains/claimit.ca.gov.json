@@ -21,7 +21,6 @@
   "errorMessage": null,
   "nocache": false,
   "responseHeaders": {
-    "connection": "keep-alive",
     "content-type": "text/html",
     "referrer-policy": "strict-origin-when-cross-origin",
     "server": "AmazonS3",

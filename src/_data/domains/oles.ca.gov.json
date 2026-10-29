@@ -10,8 +10,6 @@
   "metaGenerator": "Microsoft SharePoint",
   "responseHeaders": {
     "accept-ranges": "bytes",
-    "connection": "keep-alive",
-    "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "referrer-policy": "strict-origin-when-cross-origin, strict-origin",
     "server": "nginx",

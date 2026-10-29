@@ -19,8 +19,6 @@
   "errorMessage": null,
   "nocache": true,
   "responseHeaders": {
-    "connection": "keep-alive",
-    "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "server": "Pepyaka",
     "x-content-type-options": "nosniff",

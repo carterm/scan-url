@@ -10,8 +10,6 @@
   "metaGenerator": "CAWeb v.1.5.1",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
-    "connection": "keep-alive",
-    "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "referrer-policy": "no-referrer-when-downgrade",
     "server": "cloudflare",

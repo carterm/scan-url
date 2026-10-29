@@ -9,8 +9,6 @@
   "lastStatus": 200,
   "responseHeaders": {
     "accept-ranges": "bytes",
-    "connection": "keep-alive",
-    "content-encoding": "gzip",
     "content-type": "text/html",
     "referrer-policy": "strict-origin-when-cross-origin",
     "server": "Microsoft-IIS/10.0",

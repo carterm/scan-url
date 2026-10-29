@@ -9,7 +9,6 @@
   "lastStatus": 200,
   "responseHeaders": {
     "blazor-enhanced-nav": "allow",
-    "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
     "pragma": "no-cache",
     "request-context": "appId=cid-v1:c0911a60-0021-414b-8337-35e7ae2c49f7",

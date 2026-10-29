@@ -9,7 +9,6 @@
   "lastStatus": 200,
   "metaGenerator": "CAWeb v.1.4.21",
   "responseHeaders": {
-    "connection": "keep-alive",
     "content-type": "text/html; charset=UTF-8",
     "pragma": "no-cache",
     "server": "nginx"

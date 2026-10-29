@@ -9,7 +9,6 @@
   "lastStatus": 200,
   "responseHeaders": {
     "accept-ranges": "bytes",
-    "connection": "Keep-Alive",
     "content-type": "text/html",
     "referrer-policy": "strict-origin-when-cross-origin",
     "server": "volt-adc",

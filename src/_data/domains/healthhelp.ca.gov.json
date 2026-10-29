@@ -19,7 +19,6 @@
   "errorMessage": "HTTP 403",
   "nocache": true,
   "responseHeaders": {
-    "connection": "close",
     "content-type": "text/html",
     "mime-version": "1.0",
     "pragma": "no-cache"

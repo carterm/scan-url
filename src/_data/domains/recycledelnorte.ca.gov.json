@@ -9,7 +9,6 @@
   "lastStatus": 200,
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=2592000",
-    "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "pragma": "no-cache",
     "server": "nginx/1.18.0",

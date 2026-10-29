@@ -9,8 +9,6 @@
   "lastStatus": 200,
   "responseHeaders": {
     "accept-ranges": "bytes",
-    "connection": "keep-alive",
-    "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
     "pragma": "no-cache",
     "request-context": "appId=cid-v1:2bbc7917-c10f-4a68-b4f2-8d84509d1aed",

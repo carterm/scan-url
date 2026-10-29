@@ -10,8 +10,6 @@
   "metaGenerator": "Powered by Slider Revolution 6.8.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.",
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
-    "connection": "keep-alive",
-    "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "permissions-policy": "accelerometer=(self), autoplay=(self), camera=(self), encrypted-media=(self), fullscreen=(self), geolocation=(self), gyroscope=(self), magnetometer=(self), microphone=(self), midi=(self), payment=(self), usb=(self)",
     "referrer-policy": "strict-origin-when-cross-origin",

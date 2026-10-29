@@ -9,8 +9,6 @@
   "lastStatus": 200,
   "metaGenerator": "Drupal 11 (https://www.drupal.org)",
   "responseHeaders": {
-    "connection": "keep-alive",
-    "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
     "feature-policy": "geolocation 'none'; camera 'none'; microphone 'none'",
     "referrer-policy": "strict-origin-when-cross-origin",

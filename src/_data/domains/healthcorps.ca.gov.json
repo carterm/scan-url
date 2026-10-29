@@ -19,8 +19,6 @@
   "errorMessage": null,
   "nocache": true,
   "responseHeaders": {
-    "connection": "keep-alive",
-    "content-encoding": "gzip",
     "content-type": "text/html;charset=UTF-8",
     "pragma": "no-store,no-cache",
     "referrer-policy": "same-origin",

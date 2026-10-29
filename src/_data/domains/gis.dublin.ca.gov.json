@@ -20,7 +20,6 @@
   "nocache": true,
   "responseHeaders": {
     "access-control-allow-origin": "*",
-    "content-encoding": "gzip",
     "content-type": "text/html;charset=utf-8",
     "server": "Microsoft-IIS/8.5, ",
     "x-aspnet-version": "4.0.30319",

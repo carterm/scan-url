@@ -26,8 +26,6 @@
   "errorMessage": null,
   "nocache": true,
   "responseHeaders": {
-    "connection": "keep-alive",
-    "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "server": "Apache/2.4.52 (Ubuntu)",
     "x-content-type-options": "nosniff",

@@ -12,8 +12,6 @@
     "access-control-allow-methods": "GET, POST, OPTIONS, PUT, PATCH, DELETE",
     "access-control-allow-origin": "*",
     "access-control-expose-headers": "WWW-Authenticate",
-    "connection": "keep-alive",
-    "content-encoding": "gzip",
     "content-type": "text/html; charset=utf-8",
     "referrer-policy": "no-referrer-when-downgrade",
     "x-content-type-options": "nosniff",

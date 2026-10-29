@@ -19,8 +19,6 @@
   "errorMessage": "HTTP 403",
   "nocache": true,
   "responseHeaders": {
-    "connection": "keep-alive",
-    "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "expect-ct": "max-age=86400, enforce",
     "referrer-policy": "same-origin",

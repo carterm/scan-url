@@ -19,7 +19,6 @@
   "errorMessage": "Fetch error: fetch failed unable to verify the first certificate; if the root CA is installed locally, try running Node.js with --use-system-ca",
   "nocache": true,
   "responseHeaders": {
-    "connection": "close",
     "content-type": "text/html",
     "mime-version": "1.0",
     "server": "AkamaiGHost"

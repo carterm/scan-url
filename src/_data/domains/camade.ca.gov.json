@@ -19,7 +19,6 @@
   "errorMessage": "HTTP 403",
   "nocache": false,
   "responseHeaders": {
-    "connection": "keep-alive",
     "content-type": "text/html",
     "referrer-policy": "strict-origin-when-cross-origin",
     "server": "CloudFront",

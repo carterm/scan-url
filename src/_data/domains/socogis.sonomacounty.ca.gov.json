@@ -19,7 +19,6 @@
   "errorMessage": "HTTP 400",
   "nocache": false,
   "responseHeaders": {
-    "connection": "close",
     "content-type": "text/html; charset=utf-8",
     "x-content-type-options": "nosniff"
   },

@@ -9,8 +9,6 @@
   "lastStatus": 200,
   "metaGenerator": "Elementor 4.3.3; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap",
   "responseHeaders": {
-    "connection": "keep-alive",
-    "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "server": "nginx"
   },

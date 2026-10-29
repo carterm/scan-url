@@ -19,7 +19,6 @@
   "errorMessage": null,
   "nocache": true,
   "responseHeaders": {
-    "content-encoding": "br",
     "content-type": "text/html",
     "referrer-policy": "no-referrer-when-downgrade",
     "server": "ArcGIS Online",

@@ -21,7 +21,6 @@
   "errorMessage": null,
   "nocache": false,
   "responseHeaders": {
-    "connection": "Keep-Alive",
     "content-type": "text/html; charset=UTF-8",
     "server": "Apache",
     "x-pingback": "https://meinersoakswaterdistrict.ca.gov/xmlrpc.php",

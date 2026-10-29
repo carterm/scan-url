@@ -10,7 +10,6 @@
   "responseHeaders": {
     "access-control-allow-origin": "*",
     "content-disposition": "inline",
-    "content-encoding": "br",
     "content-type": "text/html; charset=utf-8",
     "permissions-policy": "camera=(), microphone=(), geolocation=(), interest-cohort=()",
     "referrer-policy": "strict-origin-when-cross-origin",

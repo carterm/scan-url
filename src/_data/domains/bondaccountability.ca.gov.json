@@ -8,7 +8,6 @@
   "title": "Home | CA.GOV Bond Accountability",
   "lastStatus": 200,
   "responseHeaders": {
-    "content-encoding": "gzip",
     "content-type": "text/html",
     "server": "volt-adc"
   },

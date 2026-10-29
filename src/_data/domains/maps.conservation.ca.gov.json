@@ -10,7 +10,6 @@
   "responseHeaders": {
     "accept-ranges": "bytes",
     "access-control-allow-origin": "*",
-    "connection": "keep-alive",
     "content-type": "text/html",
     "x-powered-by": "ASP.NET"
   },

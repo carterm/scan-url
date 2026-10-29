@@ -21,7 +21,6 @@
   "errorMessage": null,
   "nocache": true,
   "responseHeaders": {
-    "content-encoding": "gzip",
     "content-type": "text/html",
     "server": "istio-envoy",
     "x-content-type-options": "nosniff",

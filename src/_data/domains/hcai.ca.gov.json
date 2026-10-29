@@ -8,7 +8,6 @@
   "title": "HCAI - Department of Health Care Access and Information",
   "lastStatus": 200,
   "responseHeaders": {
-    "connection": "keep-alive",
     "content-type": "text/html; charset=UTF-8",
     "server": "nginx",
     "x-content-type-options": "nosniff",

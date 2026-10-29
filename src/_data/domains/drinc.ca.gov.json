@@ -9,8 +9,6 @@
   "lastStatus": 404,
   "responseHeaders": {
     "accept-ranges": "bytes",
-    "connection": "close",
-    "content-encoding": "gzip",
     "content-type": "text/html; charset=us-ascii",
     "server": "Microsoft-HTTPAPI/2.0",
     "x-cdn": "Imperva",

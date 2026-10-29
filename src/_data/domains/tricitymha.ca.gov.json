@@ -19,7 +19,6 @@
   "errorMessage": null,
   "nocache": true,
   "responseHeaders": {
-    "connection": "close",
     "content-type": "text/html"
   },
   "notes": null,

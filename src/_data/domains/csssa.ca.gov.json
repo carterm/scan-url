@@ -9,7 +9,6 @@
   "lastStatus": 200,
   "metaGenerator": "Site Kit by Google 1.190.0",
   "responseHeaders": {
-    "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "server": "Microsoft-IIS/10.0",
     "x-powered-by": "ASP.NET",
