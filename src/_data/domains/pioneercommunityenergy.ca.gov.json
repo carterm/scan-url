@@ -23,7 +23,7 @@
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-type": "text/html",
-    "ki-edge": "v=28.5.1;mv=99.9.9",
+    "ki-edge": "v=28.6.1;mv=99.9.9",
     "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}",
     "server": "cloudflare"
   },

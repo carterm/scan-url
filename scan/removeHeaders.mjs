@@ -109,5 +109,10 @@ export default [
   "x-nextjs-cache",
   "x-dispatcher",
   "served-by",
-  "cache-status"
+  "cache-status",
+  "x-litespeed-cache",
+  "x-litespeed-cache-control",
+  "x-litespeed-tag",
+  "x-amz-version-id",
+  "content-encoding"
 ];

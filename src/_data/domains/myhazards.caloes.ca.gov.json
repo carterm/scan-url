@@ -1,0 +1,35 @@
+{
+  "$schema": "./../../schemas/domain-scan.schema.json",
+  "domain": "myhazards.caloes.ca.gov",
+  "targetURL": "https://myhazards.caloes.ca.gov/",
+  "www": false,
+  "goodScan": true,
+  "active": true,
+  "includeInScan": true,
+  "title": "Zone Lookup",
+  "lastStatus": 200,
+  "cloudflare": false,
+  "slow": false,
+  "hasStatewideAlerts": false,
+  "usesStateTemplate": false,
+  "hasJQuery": false,
+  "googleAnalytics": [],
+  "socialLinks": [],
+  "linksToCaGov": false,
+  "errorMessage": null,
+  "nocache": true,
+  "responseHeaders": {
+    "content-encoding": "br",
+    "content-type": "text/html",
+    "referrer-policy": "no-referrer-when-downgrade",
+    "server": "ArcGIS Online",
+    "x-cached": "HIT"
+  },
+  "notes": null,
+  "finalUrl": "https://calema.maps.arcgis.com/apps/instant/lookup/index.html?appid=5fef2e3784ef42bab6315509b75b6fab",
+  "cosmeticTargetDomain": "calema.maps.arcgis.com",
+  "DOMErrors": [
+    "Could not parse CSS stylesheet"
+  ],
+  "metaGenerator": "Astro v5.18.1"
+}

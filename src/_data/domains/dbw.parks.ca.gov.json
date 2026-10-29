@@ -8,9 +8,11 @@
   "title": "Division of Boating and Waterways | California State Parks",
   "lastStatus": 200,
   "responseHeaders": {
-    "content-encoding": "gzip",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "content-encoding": "br",
     "content-type": "text/html; charset=utf-8",
-    "server": "Microsoft-IIS/10.0",
+    "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "server": "cloudflare",
     "x-powered-by": "ASP.NET"
   },
   "cloudflare": false,

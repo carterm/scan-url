@@ -16,7 +16,7 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": "Fetch error: fetch failed unable to verify the first certificate",
+  "errorMessage": "Fetch error: fetch failed unable to verify the first certificate; if the root CA is installed locally, try running Node.js with --use-system-ca",
   "nocache": true,
   "responseHeaders": {
     "connection": "close",

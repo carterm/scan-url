@@ -18,7 +18,7 @@
     "wpo-cache-status": "cached",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
-    "x-powered-by": "PHP/8.3.29",
+    "x-powered-by": "PHP/8.4.27",
     "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,

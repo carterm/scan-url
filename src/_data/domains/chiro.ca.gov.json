@@ -19,23 +19,20 @@
   },
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
   "hasJQuery": false,
   "googleAnalytics": [
-    "G-69TD0KNT0F",
     "G-K09KJQJEEF",
-    "UA-20973992-13"
+    "GTM-NJ6Q4MV"
   ],
   "socialLinks": [
-    "https://twitter.com/BCE_news",
-    "https://www.facebook.com/pages/Board-of-Chiropractic-Examiners/119628211455666",
-    "https://www.instagram.com/boardofchiropracticexaminersca/"
+    "https://www.facebook.com/pages/Board-of-Chiropractic-Examiners/119628211455666"
   ],
   "linksToCaGov": true,
   "errorMessage": null,
   "notes": null,
   "nocache": false,
   "goodScan": true,
-  "metaAuthor": "State of California"
+  "metaAuthor": "Department of Consumer Affairs, State of California"
 }

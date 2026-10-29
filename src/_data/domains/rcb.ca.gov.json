@@ -19,9 +19,9 @@
   },
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": true,
-  "hasJQuery": true,
+  "hasJQuery": false,
   "googleAnalytics": [
     "G-05Q6QKZSH6",
     "G-69TD0KNT0F",

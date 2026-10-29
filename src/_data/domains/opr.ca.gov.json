@@ -34,12 +34,12 @@
     "server": "nginx",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
-    "x-powered-by": "PHP/8.3.29",
+    "x-powered-by": "PHP/8.4.27",
     "x-xss-protection": "1; mode=block"
   },
   "notes": null,
   "finalUrl": "https://lci.ca.gov/",
-  "metaGenerator": "WordPress 7.0.7",
+  "metaGenerator": "WordPress 7.0.8",
   "cosmeticTargetDomain": "lci.ca.gov",
   "DOMErrors": [
     "Could not parse CSS stylesheet"

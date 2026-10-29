@@ -5,19 +5,20 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "Regional Climate Protection Authority",
+  "title": "Sonoma County Transportation and Climate Authorities | SCTA",
   "lastStatus": 200,
-  "metaGenerator": "WordPress 7.1.3",
+  "metaGenerator": "Site Kit by Google 1.190.0",
   "responseHeaders": {
     "connection": "keep-alive",
     "content-encoding": "br",
     "content-type": "text/html; charset=UTF-8",
     "server": "nginx",
+    "x-content-type-options": "nosniff",
     "x-httpd-modphp": "1",
-    "x-pingback": "https://rcpa.ca.gov/xmlrpc.php",
-    "x-tec-api-origin": "https://rcpa.ca.gov",
-    "x-tec-api-root": "https://rcpa.ca.gov/wp-json/tribe/events/v1/",
-    "x-tec-api-version": "v1"
+    "x-tec-api-origin": "https://sctca.ca.gov",
+    "x-tec-api-root": "https://sctca.ca.gov/wp-json/tribe/events/v1/",
+    "x-tec-api-version": "v1",
+    "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,
   "slow": false,
@@ -25,17 +26,21 @@
   "usesStateTemplate": false,
   "hasJQuery": true,
   "googleAnalytics": [
-    "G-B3Z6BJFM4T",
-    "G-CACHEPRESS"
+    "G-1DWNFDZKDZ",
+    "G-CACHEPRESS",
+    "G-TEMPLATEBU"
   ],
   "socialLinks": [
-    "https://twitter.com/SonomaRCPA",
-    "https://www.facebook.com/SonomaRCPA/",
+    "https://www.facebook.com/GoSCTCA",
+    "https://www.instagram.com/gosctca/",
+    "https://www.linkedin.com/company/sonoma-county-transportation-authority/",
     "https://www.youtube.com/@sctarcpa7902"
   ],
   "linksToCaGov": false,
   "errorMessage": null,
   "notes": null,
   "nocache": false,
-  "goodScan": true
+  "goodScan": true,
+  "finalUrl": "https://sctca.ca.gov/",
+  "cosmeticTargetDomain": "sctca.ca.gov"
 }

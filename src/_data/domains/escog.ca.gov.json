@@ -13,7 +13,7 @@
     "content-type": "text/html;charset=utf-8",
     "server": "Squarespace",
     "x-content-type-options": "nosniff",
-    "x-frame-options": "SAMEORIGIN, SAMEORIGIN"
+    "x-frame-options": "SAMEORIGIN"
   },
   "cloudflare": false,
   "slow": false,
@@ -21,13 +21,13 @@
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [
+    "G-06EC0B9F6C",
+    "G-23C7EEA57E",
+    "G-449C9D79CA",
     "G-5CGC3ET1CB",
-    "G-701BF8BBC0",
-    "G-86AACD645D",
-    "G-980199111B",
-    "G-A4003186F3",
     "G-ALTERNATIN",
-    "G-COLLECTION"
+    "G-COLLECTION",
+    "G-D1F309E789"
   ],
   "socialLinks": [],
   "linksToCaGov": false,

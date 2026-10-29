@@ -25,9 +25,7 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": true,
-  "googleAnalytics": [
-    "UA-1545484-20"
-  ],
+  "googleAnalytics": [],
   "socialLinks": [
     "https://twitter.com/LGMAnews",
     "https://www.facebook.com/calgma",

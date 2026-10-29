@@ -18,7 +18,7 @@
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 10 (https://www.drupal.org)",
-    "x-powered-by": "PHP/8.3.35"
+    "x-powered-by": "PHP/8.3.36"
   },
   "cloudflare": false,
   "slow": false,

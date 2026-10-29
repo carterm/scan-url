@@ -15,7 +15,7 @@
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
     "referrer-policy": "strict-origin-when-cross-origin",
-    "server": "nginx",
+    "server": "cloudflare",
     "x-acquia-no-301-404-caching-enforcement": "1",
     "x-ah-environment": "prod",
     "x-content-type-options": "nosniff",
