@@ -25,7 +25,6 @@
     "content-type": "text/html",
     "referrer-policy": "strict-origin-when-cross-origin",
     "server": "AmazonS3",
-    "x-amz-version-id": "O8EX76U.YoEHXqAlj_gwnBk_wiKq7vLL",
     "x-content-type-options": "NOSNIFF",
     "x-frame-options": "DENY"
   },

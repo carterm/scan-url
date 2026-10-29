@@ -35,8 +35,8 @@
   "nocache": false,
   "goodScan": true,
   "finalUrl": "https://climateassessment.ca.gov/",
+  "metaGenerator": "WordPress 7.1.4",
   "DOMErrors": [
     "Could not parse CSS stylesheet"
-  ],
-  "metaGenerator": "WordPress 7.1.4"
+  ]
 }

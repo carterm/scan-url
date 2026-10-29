@@ -13,9 +13,7 @@
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": true,
-  "googleAnalytics": [
-    "GTM-P75JGSM"
-  ],
+  "googleAnalytics": [],
   "socialLinks": [
     "https://www.facebook.com/profile.php?id=61585075709970",
     "https://www.instagram.com/hopeaccounts/",

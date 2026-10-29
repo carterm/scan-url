@@ -28,8 +28,8 @@
   "notes": null,
   "finalUrl": "https://calema.maps.arcgis.com/apps/instant/lookup/index.html?appid=5fef2e3784ef42bab6315509b75b6fab",
   "cosmeticTargetDomain": "calema.maps.arcgis.com",
+  "metaGenerator": "Astro v5.18.1",
   "DOMErrors": [
     "Could not parse CSS stylesheet"
-  ],
-  "metaGenerator": "Astro v5.18.1"
+  ]
 }

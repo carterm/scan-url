@@ -10,8 +10,7 @@
   "responseHeaders": {
     "connection": "keep-alive",
     "content-type": "text/html",
-    "server": "envoy",
-    "x-amz-version-id": "pbXjUtk1cu7hb5T4a5WiYkHa8OeK0q0V"
+    "server": "envoy"
   },
   "cloudflare": false,
   "slow": false,

@@ -29,7 +29,6 @@
     "server": "LiteSpeed",
     "x-content-type-options": "nosniff",
     "x-frame-options": "sameorigin",
-    "x-litespeed-cache": "hit",
     "x-xss-protection": "1; mode=block"
   },
   "notes": null,

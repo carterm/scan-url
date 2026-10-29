@@ -100,6 +100,7 @@ export default [
   "x-sharepointhealthscore",
   "shopify-complexity-score-v2",
   "content-language",
+  "content-encoding",
   "x-cache-group",
   "connection",
   "reporting-endpoints",
@@ -112,7 +113,5 @@ export default [
   "cache-status",
   "x-litespeed-cache",
   "x-litespeed-cache-control",
-  "x-litespeed-tag",
-  "x-amz-version-id",
-  "content-encoding"
+  "x-litespeed-tag"
 ];
