@@ -20,7 +20,7 @@
   "nocache": true,
   "responseHeaders": {
     "accept-ranges": "bytes",
-    "alt-svc": "h3=\":443\"; ma=2592000",
+    "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
     "content-type": "text/html; charset=utf-8",
     "permissions-policy": "camera=(self),microphone=(self),geolocation=(),payment=(),usb=()",
     "server": "",

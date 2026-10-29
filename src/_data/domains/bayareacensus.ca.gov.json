@@ -9,7 +9,8 @@
   "lastStatus": 200,
   "responseHeaders": {
     "content-type": "text/html",
-    "server": "AmazonS3"
+    "server": "AmazonS3",
+    "x-amz-version-id": "c52hFsQV9LmuQpfDKTfXFBOjG76ZGq4S"
   },
   "cloudflare": false,
   "slow": false,
