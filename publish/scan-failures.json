@@ -1,0 +1,34 @@
+[
+  {
+    "domain": "appportal.energy.ca.gov",
+    "errorMessage": "Fetch error: fetch failed Connect Timeout Error (attempted address: appportal.energy.ca.gov:443, timeout: 15000ms)"
+  },
+  {
+    "domain": "calshape.energy.ca.gov",
+    "errorMessage": "Fetch error: fetch failed Connect Timeout Error (attempted address: calshape.energy.ca.gov:443, timeout: 15000ms)"
+  },
+  {
+    "domain": "ccc.ca.gov",
+    "errorMessage": "Fetch error: fetch failed Connect Timeout Error (attempted address: ccc.ca.gov:443, timeout: 15000ms)"
+  },
+  {
+    "domain": "coastal.ca.gov",
+    "errorMessage": "Fetch error: fetch failed Connect Timeout Error (attempted address: www.coastal.ca.gov:443, timeout: 15000ms)"
+  },
+  {
+    "domain": "deltacouncil.ca.gov",
+    "errorMessage": "Fetch error: fetch failed Connect Timeout Error (attempted address: www.deltacouncil.ca.gov:443, timeout: 15000ms)"
+  },
+  {
+    "domain": "gis.cnra.ca.gov",
+    "errorMessage": "Fetch error: fetch failed Connect Timeout Error (attempted address: gis.cnra.ca.gov:443, timeout: 15000ms)"
+  },
+  {
+    "domain": "governors.library.ca.gov",
+    "errorMessage": "Fetch error: fetch failed Connect Timeout Error (attempted address: www.governors.library.ca.gov:443, timeout: 15000ms)"
+  },
+  {
+    "domain": "seeds.energy.ca.gov",
+    "errorMessage": "Fetch error: fetch failed Connect Timeout Error (attempted address: seeds.energy.ca.gov:443, timeout: 15000ms)"
+  }
+]
