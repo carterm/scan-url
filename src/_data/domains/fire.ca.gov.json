@@ -29,10 +29,11 @@
     "https://twitter.com/CAL_FIRE",
     "https://www.facebook.com/CALFIRE/",
     "https://www.instagram.com/calfire/?hl=en",
-    "https://www.youtube.com/user/CALFIRETV"
+    "https://www.youtube.com/user/CALFIRETV",
+    "https://www.youtube.com/watch?v=JAF4EOYYpVk"
   ],
   "linksToCaGov": true,
-  "errorMessage": "",
+  "errorMessage": null,
   "notes": null,
   "goodScan": true,
   "nocache": false,

@@ -65,7 +65,11 @@ export async function fetchAndAnalyze(original) {
   try {
     res = await fetch(url, {
       dispatcher: secureAgent,
-      redirect: "follow"
+      redirect: "follow",
+      headers: {
+        "Content-Signal": "search=yes, ai-input=no, ai-train=no",
+        "User-Agent": "cagov/1.0"
+      }
     });
     domainRecord.errorMessage = null;
   } catch (e) {

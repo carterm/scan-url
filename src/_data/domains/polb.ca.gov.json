@@ -7,21 +7,31 @@
   "active": true,
   "includeInScan": true,
   "title": "Access Denied",
-  "lastStatus": 403,
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "googleAnalytics": [
+    "GTM-MT8D4RW"
+  ],
+  "socialLinks": [
+    "http://www.facebook.com/portoflongbeach",
+    "https://www.instagram.com/PortOfLongBeach/",
+    "https://www.linkedin.com/company/port-of-long-beach/?viewAsMember=true",
+    "https://www.youtube.com/portoflongbeach",
+    "https://x.com/portoflongbeach"
+  ],
   "linksToCaGov": false,
-  "errorMessage": "HTTP 403",
-  "nocache": true,
+  "errorMessage": "Failure title word detected in title: \"Access Denied\"",
+  "nocache": false,
   "responseHeaders": {
+    "accept-ranges": "bytes",
     "alt-svc": "h3=\":443\"; ma=93600",
-    "content-type": "text/html",
-    "mime-version": "1.0"
+    "content-type": "text/html"
   },
-  "notes": null
+  "notes": null,
+  "finalUrl": "https://polb.com/",
+  "cosmeticTargetDomain": "polb.com"
 }

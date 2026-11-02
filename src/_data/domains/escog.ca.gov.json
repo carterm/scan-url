@@ -12,7 +12,7 @@
     "content-type": "text/html;charset=utf-8",
     "server": "Squarespace",
     "x-content-type-options": "nosniff",
-    "x-frame-options": "SAMEORIGIN"
+    "x-frame-options": "SAMEORIGIN, SAMEORIGIN"
   },
   "cloudflare": false,
   "slow": false,
@@ -20,10 +20,10 @@
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [
-    "G-06EC0B9F6C",
     "G-23C7EEA57E",
     "G-449C9D79CA",
     "G-5CGC3ET1CB",
+    "G-99D4EAE4E5",
     "G-ALTERNATIN",
     "G-COLLECTION",
     "G-D1F309E789"

@@ -8,8 +8,11 @@
   "title": "- California Ocean Protection Council",
   "lastStatus": 200,
   "responseHeaders": {
+    "alt-svc": "h3=\":443\"; ma=86400",
     "content-type": "text/html; charset=UTF-8",
-    "server": "nginx",
+    "permissions-policy": "accelerometer=(), ambient-light-sensor=(), autoplay=(), battery=(), camera=(), display-capture=(), document-domain=(), encrypted-media=(), fullscreen=(self), geolocation=(), gyroscope=(), keyboard-map=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), sync-xhr=(), usb=(), web-share=(), xr-spatial-tracking=(), interest-cohort=()",
+    "server": "cloudflare",
+    "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN"
   },
   "cloudflare": false,
@@ -23,8 +26,8 @@
     "UA-59627195-2"
   ],
   "socialLinks": [
-    "http://www.facebook.com/OceanProtectionCouncil",
     "https://twitter.com/OPC_California",
+    "https://www.facebook.com/OceanProtectionCouncil",
     "https://www.instagram.com/OPC_California/",
     "https://www.linkedin.com/company/california-ocean-protection-council",
     "https://www.youtube.com/channel/UC0IYJ5NiT17CS-FlJy--5YA"

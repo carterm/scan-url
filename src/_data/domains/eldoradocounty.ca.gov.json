@@ -28,7 +28,7 @@
     "https://www.facebook.com/ElDoradoCountyNews/"
   ],
   "linksToCaGov": false,
-  "errorMessage": "",
+  "errorMessage": null,
   "notes": null,
   "nocache": false,
   "goodScan": true,

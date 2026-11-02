@@ -42,7 +42,7 @@
   "linksToCaGov": true,
   "errorMessage": null,
   "notes": null,
-  "nocache": true,
+  "nocache": false,
   "goodScan": true,
   "metaAuthor": "State of California"
 }

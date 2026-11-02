@@ -6,23 +6,31 @@
   "active": true,
   "includeInScan": true,
   "title": "CERS | California Environmental Reporting System",
-  "lastStatus": 403,
+  "lastStatus": 200,
   "responseHeaders": {
-    "content-type": "text/html"
+    "content-type": "text/html; charset=UTF-8",
+    "permissions-policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
+    "server": "nginx",
+    "x-cdn": "Imperva",
+    "x-content-type-options": "nosniff",
+    "x-powered-by": "WP Engine"
   },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": true,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [
     "G-69TD0KNT0F",
-    "G-VKFSF099FL"
+    "G-VKFSF099FL",
+    "UA-3419582-2"
   ],
   "socialLinks": [],
-  "linksToCaGov": false,
-  "errorMessage": "HTTP 403",
+  "linksToCaGov": true,
+  "errorMessage": null,
   "notes": "Entered manually 2026-04-17",
-  "nocache": true,
-  "goodScan": true
+  "nocache": false,
+  "goodScan": true,
+  "metaGenerator": "CAWeb v.1.12.4",
+  "metaAuthor": "State of California"
 }

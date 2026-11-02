@@ -10,7 +10,7 @@
   "responseHeaders": {
     "content-type": "text/html; charset=UTF-8",
     "pragma": "no-cache",
-    "server": "Apache",
+    "server": "cloudflare",
     "x-content-type-options": "nosniff"
   },
   "cloudflare": false,

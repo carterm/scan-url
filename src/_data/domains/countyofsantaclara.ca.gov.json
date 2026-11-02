@@ -3,30 +3,38 @@
   "domain": "countyofsantaclara.ca.gov",
   "targetURL": "https://countyofsantaclara.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "Attention Required! | Cloudflare",
-  "lastStatus": 403,
+  "title": "Home | County of Santa Clara - Official Website | County of Santa Clara | County of Santa Clara",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://twitter.com/sccgov",
+    "https://www.facebook.com/county.of.santa.clara",
+    "https://www.instagram.com/countyofsantaclara/"
+  ],
   "linksToCaGov": false,
-  "errorMessage": "HTTP 403",
-  "nocache": true,
+  "errorMessage": null,
+  "nocache": false,
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
     "content-type": "text/html; charset=UTF-8",
-    "referrer-policy": "same-origin",
+    "referrer-policy": "strict-origin-when-cross-origin",
     "server": "cloudflare",
+    "x-ah-environment": "02live",
     "x-content-type-options": "nosniff",
-    "x-frame-options": "SAMEORIGIN"
+    "x-frame-options": "SAMEORIGIN",
+    "x-generator": "Drupal 10 (https://www.drupal.org)",
+    "x-xss-protection": "0"
   },
   "notes": null,
-  "finalUrl": "https://www.sccgov.org/",
-  "cosmeticTargetDomain": "sccgov.org"
+  "finalUrl": "https://www.santaclaracounty.gov/home",
+  "cosmeticTargetDomain": "santaclaracounty.gov",
+  "metaGenerator": "Drupal 10 (https://www.drupal.org)"
 }

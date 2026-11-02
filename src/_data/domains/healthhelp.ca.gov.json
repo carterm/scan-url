@@ -3,25 +3,37 @@
   "domain": "healthhelp.ca.gov",
   "targetURL": "https://healthhelp.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "Access Denied",
-  "lastStatus": 403,
+  "title": "California Department of Managed Health Care",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
-  "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
-  "errorMessage": "HTTP 403",
+  "hasStatewideAlerts": true,
+  "usesStateTemplate": true,
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-69TD0KNT0F",
+    "G-ZGVNWLCQD3"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/CaliforniaDMHC",
+    "https://www.linkedin.com/company/cadmhc/",
+    "https://www.youtube.com/user/CaliforniaDMHC",
+    "https://x.com/CADMHC"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
   "nocache": true,
   "responseHeaders": {
-    "content-type": "text/html",
-    "mime-version": "1.0",
-    "pragma": "no-cache"
+    "content-type": "text/html; charset=utf-8",
+    "pragma": "no-cache",
+    "x-aspnet-version": "4.0.30319",
+    "x-frame-options": "SAMEORIGIN",
+    "x-ua-compatible": "IE=edge"
   },
-  "notes": null
+  "notes": null,
+  "finalUrl": "https://www.dmhc.ca.gov/?referral=healthhelp.ca.gov",
+  "cosmeticTargetDomain": "dmhc.ca.gov"
 }

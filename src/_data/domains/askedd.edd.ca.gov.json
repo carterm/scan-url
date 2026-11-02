@@ -10,10 +10,12 @@
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=93600",
     "content-type": "text/html;charset=UTF-8",
+    "permissions-policy": "unload=*",
     "pragma": "no-cache",
     "timing-allow-origin": "*",
     "x-content-type-options": "nosniff",
-    "x-frame-options": "SAMEORIGIN"
+    "x-frame-options": "SAMEORIGIN",
+    "x-sfdc-trace-flags": "01"
   },
   "cloudflare": false,
   "slow": false,
@@ -29,5 +31,6 @@
   "errorMessage": null,
   "notes": null,
   "nocache": true,
-  "goodScan": true
+  "goodScan": true,
+  "finalUrl": "/?language=en_US"
 }

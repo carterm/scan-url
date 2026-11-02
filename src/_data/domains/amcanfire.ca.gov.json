@@ -3,25 +3,34 @@
   "domain": "amcanfire.ca.gov",
   "targetURL": "https://www.amcanfire.ca.gov/",
   "www": true,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "Access Denied",
-  "lastStatus": 403,
+  "title": "Home - American Canyon Fire CA",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
+  "hasJQuery": true,
   "googleAnalytics": [],
-  "socialLinks": [],
+  "socialLinks": [
+    "https://www.facebook.com/AmCanFire",
+    "https://www.instagram.com/amcan_fire/",
+    "https://www.youtube.com/@americancanyonfire5566"
+  ],
   "linksToCaGov": false,
-  "errorMessage": "HTTP 403",
-  "nocache": true,
+  "errorMessage": null,
+  "nocache": false,
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=93600",
-    "content-type": "text/html",
-    "mime-version": "1.0"
+    "content-type": "text/html; charset=utf-8",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-mobile-client": "false"
   },
-  "notes": null
+  "notes": null,
+  "finalUrl": "/Home",
+  "metaGenerator": "OpenCities - https://granicus.com/product/opencities"
 }

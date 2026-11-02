@@ -5,7 +5,7 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "Electronic Verification Questionnaire (eVQ) System",
+  "title": "DTSC-HWTS eVQ Home",
   "lastStatus": 200,
   "responseHeaders": {
     "access-control-expose-headers": "Request-Context",
@@ -17,7 +17,7 @@
   },
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": true,
   "hasJQuery": true,
   "googleAnalytics": [
@@ -28,9 +28,10 @@
     "UA-3419582-2"
   ],
   "socialLinks": [],
-  "linksToCaGov": false,
+  "linksToCaGov": true,
   "errorMessage": null,
   "notes": null,
   "nocache": false,
-  "goodScan": true
+  "goodScan": true,
+  "finalUrl": "https://evq.dtsc.ca.gov/Home"
 }

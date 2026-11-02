@@ -5,32 +5,37 @@
   "www": true,
   "active": true,
   "includeInScan": true,
-  "title": "Superior Court of California - County of Sacramento",
+  "title": "Sacramento Superior Court, CA | Home",
   "lastStatus": 200,
   "responseHeaders": {
     "content-type": "text/html; charset=utf-8",
+    "edge-cache-tag": "FCA9A869.G,FCA9A869.P11,FCA9A869.CMENU,FCA9A869.CL5",
+    "expect-ct": "max-age=31536000",
+    "last-published": "Thu, 29 Oct 2026 20:51:13 GMT",
     "server": "Microsoft-IIS/10.0",
     "x-content-type-options": "nosniff",
-    "x-frame-options": "Deny",
+    "x-frame-options": "SAMEORIGIN",
     "x-xss-protection": "1; mode=block"
   },
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": true,
+  "hasJQuery": false,
   "googleAnalytics": [
-    "UA-4132807-14"
+    "G-DMMW4CEYHV"
   ],
   "socialLinks": [
-    "https://twitter.com/SacramentoCourt",
     "https://www.facebook.com/SacramentoCountyCourt",
+    "https://www.instagram.com/sacramentosuperiorcourt/",
     "https://www.linkedin.com/company/sacramento-superior-court",
-    "https://www.youtube.com/user/SacCountyCourts"
+    "https://www.tiktok.com/@sacramentosuperiorcourt",
+    "https://www.youtube.com/user/SacCountyCourts",
+    "https://x.com/SacramentoCourt"
   ],
   "linksToCaGov": false,
   "errorMessage": null,
   "notes": null,
-  "nocache": false,
+  "nocache": true,
   "goodScan": true
 }

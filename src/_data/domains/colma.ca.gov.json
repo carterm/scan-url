@@ -6,9 +6,9 @@
   "active": true,
   "includeInScan": true,
   "title": "Home - Town of Colma",
-  "lastStatus": 403,
+  "lastStatus": 200,
   "responseHeaders": {
-    "content-type": "text/html; charset=iso-8859-1",
+    "content-type": "text/html; charset=UTF-8",
     "permissions-policy": "camera=(), microphone=(), geolocation=()",
     "referrer-policy": "strict-origin-when-cross-origin",
     "x-content-type-options": "nosniff",
@@ -19,11 +19,21 @@
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-02VT5TFXMJ"
+  ],
+  "socialLinks": [
+    "https://facebook.com/townofcolma",
+    "https://instagram.com/townofcolmaofficial",
+    "https://twitter.com/share?url=https%3A%2F%2Fwww.colma.ca.gov",
+    "https://twitter.com/townofcolma",
+    "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.colma.ca.gov"
+  ],
   "linksToCaGov": false,
-  "errorMessage": "HTTP 403",
+  "errorMessage": null,
   "notes": "403 since 2026-04-23",
-  "goodScan": true
+  "goodScan": true,
+  "nocache": true,
+  "metaGenerator": "Site Kit by Google 1.190.0"
 }

@@ -35,5 +35,6 @@
   "notes": null,
   "goodScan": true,
   "nocache": false,
-  "metaAuthor": "Author"
+  "metaAuthor": "Author",
+  "errorMessage": null
 }

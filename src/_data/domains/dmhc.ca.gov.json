@@ -30,7 +30,7 @@
     "https://x.com/CADMHC"
   ],
   "linksToCaGov": true,
-  "errorMessage": "",
+  "errorMessage": null,
   "notes": null,
   "nocache": true,
   "goodScan": true

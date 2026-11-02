@@ -3,30 +3,41 @@
   "domain": "calfire.ca.gov",
   "targetURL": "https://calfire.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "Access Denied",
-  "lastStatus": 403,
+  "title": "California Department of Forestry and Fire Protection | CAL FIRE",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
-  "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
-  "linksToCaGov": false,
-  "errorMessage": "HTTP 403",
+  "hasJQuery": true,
+  "googleAnalytics": [
+    "G-DJY7D8Z6M7",
+    "UA-12131957-10",
+    "UA-3419582-2"
+  ],
+  "socialLinks": [
+    "https://twitter.com/CAL_FIRE",
+    "https://www.facebook.com/CALFIRE/",
+    "https://www.instagram.com/calfire/?hl=en",
+    "https://www.youtube.com/user/CALFIRETV",
+    "https://www.youtube.com/watch?v=JAF4EOYYpVk"
+  ],
+  "linksToCaGov": true,
+  "errorMessage": null,
   "nocache": false,
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=93600",
-    "content-type": "text/html",
-    "mime-version": "1.0",
-    "server": "AkamaiGHost",
+    "content-type": "text/html; charset=utf-8",
+    "request-context": "appId=cid-v1:7d94dcb4-168e-416c-851f-685e11191e72",
+    "server": "Microsoft-IIS/10.0",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN"
   },
   "notes": null,
   "finalUrl": "https://www.fire.ca.gov/",
-  "cosmeticTargetDomain": "fire.ca.gov"
+  "cosmeticTargetDomain": "fire.ca.gov",
+  "metaAuthor": "Author"
 }

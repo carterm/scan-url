@@ -12,7 +12,7 @@
     "alt-svc": "h3=\":443\"; ma=86400",
     "cf-edge-cache": "cache,platform=wordpress",
     "content-type": "text/html; charset=UTF-8",
-    "ki-edge": "v=28.6.1;mv=99.9.9",
+    "ki-edge": "v=28.6.2;mv=99.9.9",
     "ki-origin": "o1i",
     "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}",
     "permissions-policy": "camera=(), microphone=(), usb=()",

@@ -3,25 +3,37 @@
   "domain": "sacog.ca.gov",
   "targetURL": "https://www.sacog.ca.gov/",
   "www": true,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "Access Denied",
-  "lastStatus": 403,
+  "title": "SACOG | Home",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "googleAnalytics": [
+    "G-00HCZ33X9D"
+  ],
+  "socialLinks": [
+    "https://twitter.com/SACOG",
+    "https://www.instagram.com/sacog.official/",
+    "https://www.linkedin.com/company/sacramento-area-council-of-governments",
+    "https://www.youtube.com/user/SacramentoAreaCOG"
+  ],
   "linksToCaGov": false,
-  "errorMessage": "HTTP 403",
+  "errorMessage": null,
   "nocache": true,
   "responseHeaders": {
-    "content-type": "text/html",
-    "mime-version": "1.0",
-    "server": "AkamaiGHost"
+    "content-type": "text/html; charset=utf-8",
+    "edge-cache-tag": "79D88DE3.G,79D88DE3.P11,79D88DE3.CMENU,79D88DE3.CL2,79D88DE3.CL5",
+    "expect-ct": "max-age=31536000",
+    "last-published": "Tue, 06 Oct 2026 17:01:53 GMT",
+    "server": "AkamaiGHost",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
   },
   "notes": null
 }

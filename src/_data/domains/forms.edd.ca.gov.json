@@ -32,7 +32,7 @@
     "http://www.youtube.com/user/CaliforniaEDD"
   ],
   "linksToCaGov": true,
-  "errorMessage": "",
+  "errorMessage": null,
   "notes": null,
   "nocache": true,
   "goodScan": true,

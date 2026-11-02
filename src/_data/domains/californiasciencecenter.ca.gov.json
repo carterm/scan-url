@@ -3,21 +3,29 @@
   "domain": "californiasciencecenter.ca.gov",
   "targetURL": "https://californiasciencecenter.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "Attention Required! | Cloudflare",
-  "lastStatus": 403,
+  "title": "California Science Center | The California Science Center",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "googleAnalytics": [
+    "G-61B1BAHEKC",
+    "GTM-WQK76FQ"
+  ],
+  "socialLinks": [
+    "https://www.facebook.com/CaliforniaScienceCenter/",
+    "https://www.instagram.com/californiasciencecenter/",
+    "https://www.youtube.com/user/CalScience",
+    "https://x.com/casciencecenter"
+  ],
   "linksToCaGov": false,
-  "errorMessage": "HTTP 403",
-  "nocache": true,
+  "errorMessage": null,
+  "nocache": false,
   "responseHeaders": {
     "content-type": "text/html; charset=UTF-8",
     "expect-ct": "max-age=86400, enforce",
@@ -27,5 +35,6 @@
     "x-frame-options": "SAMEORIGIN",
     "x-xss-protection": "1; mode=block"
   },
-  "notes": null
+  "notes": null,
+  "metaGenerator": "Drupal 10 (https://www.drupal.org)"
 }

@@ -3,25 +3,34 @@
   "domain": "srvfire.ca.gov",
   "targetURL": "https://srvfire.ca.gov/",
   "www": false,
-  "goodScan": false,
+  "goodScan": true,
   "active": true,
   "includeInScan": true,
-  "title": "Access Denied",
-  "lastStatus": 403,
+  "title": "San Ramon Valley Fire Protection District | Home",
+  "lastStatus": 200,
   "cloudflare": false,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
   "hasJQuery": false,
-  "googleAnalytics": [],
-  "socialLinks": [],
+  "googleAnalytics": [
+    "G-ZY5QWNMSC4"
+  ],
+  "socialLinks": [
+    "https://www.youtube.com/user/srvfire"
+  ],
   "linksToCaGov": false,
-  "errorMessage": "HTTP 403",
+  "errorMessage": null,
   "nocache": true,
   "responseHeaders": {
-    "content-type": "text/html",
-    "mime-version": "1.0",
-    "server": "AkamaiGHost"
+    "content-type": "text/html; charset=utf-8",
+    "edge-cache-tag": "A06BD760.G,A06BD760.P11,A06BD760.CMENU,A06BD760.CL2,A06BD760.CL4,A06BD760.CL5,A06BD760.CL6",
+    "expect-ct": "max-age=31536000",
+    "last-published": "Tue, 06 Oct 2026 15:47:18 GMT",
+    "server": "AkamaiGHost",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block"
   },
   "notes": null,
   "finalUrl": "https://www.firedepartment.org/",

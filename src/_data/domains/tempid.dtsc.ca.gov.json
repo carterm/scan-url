@@ -5,7 +5,7 @@
   "www": false,
   "active": true,
   "includeInScan": true,
-  "title": "Temporary State ID Number Issuance",
+  "title": "Temporary State ID Number Issuance Website",
   "lastStatus": 200,
   "responseHeaders": {
     "access-control-expose-headers": "Request-Context",
@@ -18,7 +18,7 @@
   },
   "cloudflare": false,
   "slow": false,
-  "hasStatewideAlerts": false,
+  "hasStatewideAlerts": true,
   "usesStateTemplate": true,
   "hasJQuery": true,
   "googleAnalytics": [
@@ -26,10 +26,7 @@
     "UA-3419582-14",
     "UA-3419582-2"
   ],
-  "socialLinks": [
-    "https://twitter.com/cagovernment",
-    "https://www.youtube.com/user/californiagovernment"
-  ],
+  "socialLinks": [],
   "linksToCaGov": true,
   "errorMessage": null,
   "notes": null,

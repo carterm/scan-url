@@ -6,9 +6,9 @@
   "goodScan": false,
   "active": true,
   "includeInScan": true,
-  "title": "Error 403 Forbidden",
+  "title": "Just a moment...",
   "lastStatus": 403,
-  "cloudflare": false,
+  "cloudflare": true,
   "slow": false,
   "hasStatewideAlerts": false,
   "usesStateTemplate": false,
@@ -16,14 +16,17 @@
   "googleAnalytics": [],
   "socialLinks": [],
   "linksToCaGov": false,
-  "errorMessage": "HTTP 403",
+  "errorMessage": "Cloudflare challenge detected",
   "nocache": true,
   "responseHeaders": {
     "alt-svc": "h3=\":443\"; ma=86400",
-    "content-type": "text/html",
-    "ki-edge": "v=28.6.1;mv=99.9.9",
+    "content-type": "text/html; charset=utf-8",
+    "ki-edge": "v=28.6.2;mv=99.9.9",
     "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.01,\"max_age\":604800}",
-    "server": "cloudflare"
+    "pragma": "no-cache",
+    "server": "cloudflare",
+    "x-content-type-options": "nosniff",
+    "x-edge-location-klb": "1"
   },
   "notes": null
 }

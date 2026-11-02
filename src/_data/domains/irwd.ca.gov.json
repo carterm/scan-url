@@ -29,7 +29,7 @@
   "nocache": false,
   "responseHeaders": {
     "content-type": "text/html",
-    "server": "nginx/1.24.0 (Ubuntu)"
+    "server": "nginx"
   },
   "notes": null,
   "finalUrl": "https://www.irwd.com/",

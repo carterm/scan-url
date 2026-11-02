@@ -11,7 +11,7 @@
   "responseHeaders": {
     "accept-ranges": "bytes",
     "content-type": "text/html; charset=UTF-8",
-    "server": "nginx",
+    "server": "cloudflare",
     "x-content-type-options": "nosniff",
     "x-frame-options": "SAMEORIGIN",
     "x-generator": "Drupal 10 (https://www.drupal.org)"
