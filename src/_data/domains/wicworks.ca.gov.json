@@ -1,7 +1,7 @@
 {
   "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "wicworks.ca.gov",
-  "targetURL": "http://wicworks.ca.gov/",
+  "targetURL": "https://wicworks.ca.gov/",
   "www": false,
   "goodScan": true,
   "active": true,

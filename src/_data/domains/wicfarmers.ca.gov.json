@@ -1,7 +1,7 @@
 {
   "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "wicfarmers.ca.gov",
-  "targetURL": "http://wicfarmers.ca.gov/",
+  "targetURL": "https://wicfarmers.ca.gov/",
   "www": false,
   "goodScan": true,
   "active": true,
