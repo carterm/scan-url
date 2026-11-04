@@ -1,7 +1,7 @@
 {
   "$schema": "./../../schemas/domain-scan.schema.json",
   "domain": "consrv.ca.gov",
-  "targetURL": "http://consrv.ca.gov/",
+  "targetURL": "https://consrv.ca.gov/",
   "www": false,
   "goodScan": true,
   "active": true,
